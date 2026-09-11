@@ -1,0 +1,137 @@
+import express from "express";
+import path from "path";
+import fs from "fs";
+import { fileURLToPath } from "url";
+// Eliminamos import cors from "cors", ya que se usa corsMiddleware;
+import dotenv from "dotenv";
+import { pool } from "./config/db.js";
+import { connectRedis } from "./config/redis.js";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+import calculationRoutes from "./routes/calculation.routes.js";
+import tractorRoutes from "./routes/tractor.routes.js";
+import implementRoutes from "./routes/implement.routes.js";
+import terrainRoutes from "./routes/terrain.routes.js";
+import authRoutes from "./routes/auth.routes.js";
+import roleRoutes from "./routes/role.routes.js";
+import recommendationRoutes from "./routes/recommendation.routes.js";
+import exportRoutes from "./routes/export.routes.js";
+import notificationRoutes from "./routes/notification.routes.js";
+import uploadRoutes from "./routes/upload.routes.js";
+import { setupSwagger } from "./swagger/swagger.js";
+import healthRoutes from "./routes/health.routes.js";
+
+import logger from "./utils/logger.js";
+import httpLogger from "./middleware/httpLogger.middleware.js";
+import { notFound, errorHandler } from "./middleware/error.middleware.js";
+
+import { securityHeaders } from "./middleware/security.middleware.js";
+import { apiLimiter } from "./middleware/rateLimiter.middleware.js";
+import { corsMiddleware } from "./middleware/cors.middleware.js";
+import { sanitizeInputs } from "./middleware/sanitize.middleware.js";
+
+// quiet: true — en instalaciones no existe .env (el launcher inyecta env vars)
+dotenv.config({ quiet: true });
+
+// Writable directories — UPLOAD_DIR / FRONTEND_DIST env vars allow installing
+// the app to read-only Program Files while keeping writable data in ProgramData.
+const UPLOADS_ROOT = process.env.UPLOAD_DIR
+  ? path.resolve(process.env.UPLOAD_DIR)
+  : path.join(__dirname, '..', 'uploads');
+const FRONTEND_DIST = process.env.FRONTEND_DIST
+  || path.join(__dirname, '..', '..', 'frontend', 'dist');
+
+// Ensure local upload directories exist (dev convenience; storage.js also mkdirs on write)
+const UPLOAD_DIRS = ['tractors', 'implements', 'users'];
+for (const dir of UPLOAD_DIRS) {
+  try {
+    fs.mkdirSync(path.join(UPLOADS_ROOT, dir), { recursive: true });
+  } catch (err) {
+    logger.warn('No se pudo crear el directorio de uploads', { dir, error: err.message });
+  }
+}
+
+if (process.env.NODE_ENV === 'production' && !process.env.JWT_SECRET) {
+  throw new Error('FATAL: JWT_SECRET environment variable is required in production');
+}
+
+const app = express();
+
+// Trust proxy if we are behind a reverse proxy (e.g., Heroku, Nginx)
+app.set("trust proxy", 1);
+
+// Middlewares globales
+app.use(securityHeaders);
+app.use(corsMiddleware);
+app.use(express.json());
+app.use(httpLogger); // DDAAM-109: Morgan + Winston HTTP logging
+app.use(sanitizeInputs);
+app.use(logger.requestLogger);
+
+// Servir archivos subidos desde el sistema de archivos local
+app.use('/uploads', express.static(UPLOADS_ROOT));
+
+// Serve frontend SPA (local mode — single process on one port)
+if (fs.existsSync(FRONTEND_DIST)) {
+  app.use(express.static(FRONTEND_DIST));
+}
+
+// Documentación Swagger
+setupSwagger(app);
+
+// Health check
+app.use('/health', healthRoutes);
+
+// Rutas de autenticación
+app.use("/api/auth", authRoutes);
+
+// Aplicar el apiLimiter general a las rutas de dominio principales (excepto auth que ya tiene sus limitadores más estrictos)
+app.use("/api/calculations", apiLimiter, calculationRoutes);
+app.use("/api/roles", apiLimiter, roleRoutes);
+app.use("/api/recommendations", apiLimiter, recommendationRoutes);
+app.use("/api/terrains", apiLimiter, terrainRoutes);
+app.use("/api/implements", apiLimiter, implementRoutes);
+app.use("/api/tractors", apiLimiter, tractorRoutes);
+app.use("/api/exports", apiLimiter, exportRoutes);
+app.use("/api/notifications", apiLimiter, notificationRoutes);
+app.use("/api/upload", uploadRoutes);
+
+// Rutas de administración
+import adminRoutes from "./routes/admin.routes.js";
+app.use("/api/admin", adminRoutes);
+
+// SPA fallback — serve index.html for unmatched GET requests (non-file, non-API)
+if (fs.existsSync(FRONTEND_DIST)) {
+  app.use((req, res, next) => {
+    if (req.method !== 'GET' || path.extname(req.path)) return next();
+    res.sendFile(path.join(FRONTEND_DIST, 'index.html'));
+  });
+}
+
+// Middleware de manejo de errores (DEBE IR AL FINAL)
+app.use(notFound);
+app.use(errorHandler);
+
+// Solo iniciar servidor si no estamos en modo test (supertest maneja su propio servidor)
+if (process.env.NODE_ENV !== "test") {
+  const PORT = process.env.PORT || 4000;
+
+  const startServer = async () => {
+    await connectRedis();
+
+    const { initJobs } = await import("./jobs/index.js");
+    
+    // Iniciar background jobs
+    initJobs();
+
+    app.listen(PORT, () => {
+      logger.info(`🚜 Servidor corriendo en puerto ${PORT}`);
+      logger.info(`📡 Ambiente: ${process.env.NODE_ENV || "development"}`);
+    });
+  };
+
+  startServer();
+}
+
+export default app;

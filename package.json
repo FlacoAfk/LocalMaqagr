@@ -1,0 +1,15 @@
+{
+  "name": "maqagr-local",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MaqAgr local development environment — backend + frontend in one command",
+  "scripts": {
+    "start:local": "concurrently \"cd backend && pnpm run start\" \"cd frontend && pnpm run dev\"",
+    "setup:win": "powershell -ExecutionPolicy Bypass -File setup.ps1",
+    "setup:unix": "bash setup.sh",
+    "postinstall": "cd backend && pnpm install && cd ../frontend && pnpm install"
+  },
+  "devDependencies": {
+    "concurrently": "9.1.2"
+  }
+}

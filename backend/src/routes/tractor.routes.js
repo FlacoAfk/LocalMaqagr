@@ -1,0 +1,566 @@
+import { Router } from "express";
+import {
+  getAllTractors,
+  getAvailableTractors,
+  searchTractors,
+  getTractorById,
+  createTractor,
+  updateTractor,
+  deleteTractor,
+} from "../controllers/tractorController.js";
+import {
+  verifyTokenMiddleware,
+  isAdmin,
+} from "../middleware/auth.middleware.js";
+import { validateTractor } from "../middleware/validation.middleware.js";
+import { paginationMiddleware } from "../middleware/pagination.middleware.js";
+import { uploadMiddleware } from "../middleware/upload.middleware.js";
+
+import {
+  cacheMiddleware,
+  invalidateCacheMiddleware,
+} from "../middleware/cache.middleware.js";
+
+const router = Router();
+
+// ==================== RUTAS PÚBLICAS ====================
+
+/**
+ * @swagger
+ * /api/tractors:
+ *   get:
+ *     summary: Obtener todos los tractores
+ *     description: Retorna la lista completa de tractores con paginación. Acceso público.
+ *     tags: [Tractors]
+ *     parameters:
+ *       - in: query
+ *         name: limit
+ *         schema:
+ *           type: integer
+ *           default: 10
+ *         description: Cantidad de registros por página
+ *       - in: query
+ *         name: page
+ *         schema:
+ *           type: integer
+ *           default: 1
+ *         description: Número de página
+ *     responses:
+ *       200:
+ *         description: Lista de tractores obtenida exitosamente
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 success:
+ *                   type: boolean
+ *                   example: true
+ *                 data:
+ *                   type: array
+ *                   items:
+ *                     $ref: '#/components/schemas/Tractor'
+ *                 pagination:
+ *                   type: object
+ *                   properties:
+ *                     page:
+ *                       type: integer
+ *                       example: 1
+ *                     total:
+ *                       type: integer
+ *                       example: 25
+ *                     limit:
+ *                       type: integer
+ *                       example: 10
+ *                     totalPages:
+ *                       type: integer
+ *                       example: 3
+ *       500:
+ *         description: Error interno del servidor
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ */
+router.get("/", cacheMiddleware(86400), paginationMiddleware(), getAllTractors);
+
+/**
+ * @swagger
+ * /api/tractors/available:
+ *   get:
+ *     summary: Obtener tractores disponibles
+ *     description: Retorna solo los tractores con status "available", ordenados por potencia descendente.
+ *     tags: [Tractors]
+ *     parameters:
+ *       - in: query
+ *         name: limit
+ *         schema:
+ *           type: integer
+ *           default: 10
+ *         description: Cantidad de registros por página
+ *       - in: query
+ *         name: page
+ *         schema:
+ *           type: integer
+ *           default: 1
+ *         description: Número de página
+ *     responses:
+ *       200:
+ *         description: Lista de tractores disponibles
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 success:
+ *                   type: boolean
+ *                   example: true
+ *                 data:
+ *                   type: array
+ *                   items:
+ *                     $ref: '#/components/schemas/Tractor'
+ *                 pagination:
+ *                   type: object
+ *                   properties:
+ *                     page:
+ *                       type: integer
+ *                     total:
+ *                       type: integer
+ *                     limit:
+ *                       type: integer
+ *                     totalPages:
+ *                       type: integer
+ *       500:
+ *         description: Error interno del servidor
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ */
+router.get("/available", paginationMiddleware(), getAvailableTractors);
+
+/**
+ * @swagger
+ * /api/tractors/search:
+ *   get:
+ *     summary: Búsqueda avanzada de tractores
+ *     description: |
+ *       Búsqueda full-text en name, brand y model con filtros combinados.
+ *       Los resultados se ordenan por relevancia (coincidencias exactas primero)
+ *       y soportan paginación integrada. Todos los filtros son opcionales.
+ *     tags: [Tractors]
+ *     parameters:
+ *       - in: query
+ *         name: q
+ *         schema:
+ *           type: string
+ *         description: Término de búsqueda full-text (busca en name, brand, model)
+ *         example: "John Deere"
+ *       - in: query
+ *         name: brand
+ *         schema:
+ *           type: string
+ *         description: Filtrar por marca exacta (case-insensitive)
+ *         example: "John Deere"
+ *       - in: query
+ *         name: minPower
+ *         schema:
+ *           type: number
+ *         description: Potencia mínima en HP
+ *         example: 80
+ *       - in: query
+ *         name: maxPower
+ *         schema:
+ *           type: number
+ *         description: Potencia máxima en HP
+ *         example: 200
+ *       - in: query
+ *         name: type
+ *         schema:
+ *           type: string
+ *           enum: [4x2, 4x4, track]
+ *         description: Tipo de tracción
+ *         example: "4x4"
+ *       - in: query
+ *         name: page
+ *         schema:
+ *           type: integer
+ *           default: 1
+ *         description: Número de página
+ *       - in: query
+ *         name: limit
+ *         schema:
+ *           type: integer
+ *           default: 10
+ *         description: Cantidad de registros por página
+ *       - in: query
+ *         name: sort
+ *         schema:
+ *           type: string
+ *           enum: [name, brand, model, engine_power_hp, weight_kg, traction_type, status]
+ *         description: Campo por el que ordenar (secundario a relevancia si se usa q)
+ *       - in: query
+ *         name: order
+ *         schema:
+ *           type: string
+ *           enum: [asc, desc]
+ *           default: asc
+ *         description: Dirección del ordenamiento
+ *     responses:
+ *       200:
+ *         description: Resultados de búsqueda con paginación
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 success:
+ *                   type: boolean
+ *                   example: true
+ *                 data:
+ *                   type: array
+ *                   items:
+ *                     $ref: '#/components/schemas/Tractor'
+ *                 pagination:
+ *                   type: object
+ *                   properties:
+ *                     page:
+ *                       type: integer
+ *                     limit:
+ *                       type: integer
+ *                     total:
+ *                       type: integer
+ *                     totalPages:
+ *                       type: integer
+ *                 filters:
+ *                   type: object
+ *                   properties:
+ *                     q:
+ *                       type: string
+ *                       nullable: true
+ *                     brand:
+ *                       type: string
+ *                       nullable: true
+ *                     minPower:
+ *                       type: number
+ *                       nullable: true
+ *                     maxPower:
+ *                       type: number
+ *                       nullable: true
+ *                     type:
+ *                       type: string
+ *                       nullable: true
+ *       400:
+ *         description: Parámetros de filtro inválidos
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       500:
+ *         description: Error interno del servidor
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ */
+router.get("/search", paginationMiddleware(), searchTractors);
+
+/**
+ * @swagger
+ * /api/tractors/{id}:
+ *   get:
+ *     summary: Obtener tractor por ID
+ *     description: Retorna los datos completos de un tractor específico.
+ *     tags: [Tractors]
+ *     parameters:
+ *       - in: path
+ *         name: id
+ *         required: true
+ *         schema:
+ *           type: integer
+ *         description: ID del tractor
+ *         example: 1
+ *     responses:
+ *       200:
+ *         description: Tractor encontrado
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 success:
+ *                   type: boolean
+ *                   example: true
+ *                 data:
+ *                   $ref: '#/components/schemas/Tractor'
+ *       400:
+ *         description: ID de tractor inválido
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *             example:
+ *               success: false
+ *               message: "ID de tractor inválido"
+ *       404:
+ *         description: Tractor no encontrado
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *             example:
+ *               success: false
+ *               message: "Tractor no encontrado"
+ *       500:
+ *         description: Error interno del servidor
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ */
+router.get("/:id", getTractorById);
+
+// ==================== RUTAS PROTEGIDAS (ADMIN) ====================
+
+/**
+ * @swagger
+ * /api/tractors:
+ *   post:
+ *     summary: Crear nuevo tractor
+ *     description: |
+ *       Crea un nuevo tractor en el catálogo. **Solo administradores**.
+ *       Campos requeridos: brand, model, engine_power_hp, traction_type.
+ *     tags: [Tractors]
+ *     security:
+ *       - BearerAuth: []
+ *     requestBody:
+ *       required: true
+ *       content:
+ *         application/json:
+ *           schema:
+ *             $ref: '#/components/schemas/TractorCreate'
+ *           example:
+ *             name: "John Deere 6130M"
+ *             brand: "John Deere"
+ *             model: "6130M"
+ *             engine_power_hp: 130
+ *             weight_kg: 5200
+ *             traction_force_kn: 45.5
+ *             traction_type: "4x4"
+ *             tire_type: "radial"
+ *             tire_width_mm: 540
+ *             tire_diameter_mm: 1600
+ *             tire_pressure_psi: 15
+ *             status: "available"
+ *     responses:
+ *       201:
+ *         description: Tractor creado exitosamente
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 success:
+ *                   type: boolean
+ *                   example: true
+ *                 data:
+ *                   $ref: '#/components/schemas/Tractor'
+ *       400:
+ *         description: Datos de validación inválidos
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *             example:
+ *               success: false
+ *               errors: ["brand es requerido", "engine_power_hp debe ser un número positivo"]
+ *       401:
+ *         description: Token no proporcionado o inválido
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       403:
+ *         description: Acceso denegado - se requiere rol de administrador
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *             example:
+ *               success: false
+ *               message: "Acceso denegado. Se requiere rol de administrador"
+ *       500:
+ *         description: Error interno del servidor
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ */
+router.post(
+  "/",
+  verifyTokenMiddleware,
+  isAdmin,
+  uploadMiddleware,
+  validateTractor,
+  invalidateCacheMiddleware("*tractors*"),
+  createTractor,
+);
+
+/**
+ * @swagger
+ * /api/tractors/{id}:
+ *   put:
+ *     summary: Actualizar tractor existente
+ *     description: |
+ *       Actualiza los datos de un tractor existente. **Solo administradores**.
+ *       Solo se actualizan los campos proporcionados (COALESCE).
+ *     tags: [Tractors]
+ *     security:
+ *       - BearerAuth: []
+ *     parameters:
+ *       - in: path
+ *         name: id
+ *         required: true
+ *         schema:
+ *           type: integer
+ *         description: ID del tractor a actualizar
+ *         example: 1
+ *     requestBody:
+ *       required: true
+ *       content:
+ *         application/json:
+ *           schema:
+ *             $ref: '#/components/schemas/TractorUpdate'
+ *           example:
+ *             engine_power_hp: 135
+ *             status: "maintenance"
+ *     responses:
+ *       200:
+ *         description: Tractor actualizado exitosamente
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 success:
+ *                   type: boolean
+ *                   example: true
+ *                 data:
+ *                   $ref: '#/components/schemas/Tractor'
+ *       400:
+ *         description: ID inválido o datos de validación incorrectos
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       401:
+ *         description: Token no proporcionado o inválido
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       403:
+ *         description: Acceso denegado - se requiere rol de administrador
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       404:
+ *         description: Tractor no encontrado
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *             example:
+ *               success: false
+ *               message: "Tractor no encontrado"
+ *       500:
+ *         description: Error interno del servidor
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ */
+router.put(
+  "/:id",
+  verifyTokenMiddleware,
+  isAdmin,
+  uploadMiddleware,
+  validateTractor,
+  invalidateCacheMiddleware(["*tractors*", "*recommendations*"]),
+  updateTractor,
+);
+
+/**
+ * @swagger
+ * /api/tractors/{id}:
+ *   delete:
+ *     summary: Eliminar tractor
+ *     description: Elimina un tractor del catálogo. **Solo administradores**.
+ *     tags: [Tractors]
+ *     security:
+ *       - BearerAuth: []
+ *     parameters:
+ *       - in: path
+ *         name: id
+ *         required: true
+ *         schema:
+ *           type: integer
+ *         description: ID del tractor a eliminar
+ *         example: 1
+ *     responses:
+ *       200:
+ *         description: Tractor eliminado exitosamente
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 success:
+ *                   type: boolean
+ *                   example: true
+ *                 message:
+ *                   type: string
+ *                   example: "Tractor eliminado exitosamente"
+ *                 data:
+ *                   $ref: '#/components/schemas/Tractor'
+ *       400:
+ *         description: ID de tractor inválido
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       401:
+ *         description: Token no proporcionado o inválido
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       403:
+ *         description: Acceso denegado - se requiere rol de administrador
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       404:
+ *         description: Tractor no encontrado
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       500:
+ *         description: Error interno del servidor
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ */
+router.delete(
+  "/:id",
+  verifyTokenMiddleware,
+  isAdmin,
+  invalidateCacheMiddleware(["*tractors*", "*recommendations*"]),
+  deleteTractor,
+);
+
+export default router;

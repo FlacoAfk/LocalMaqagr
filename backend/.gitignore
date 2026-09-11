@@ -1,0 +1,63 @@
+# ═══════════════════════════════════════════════════════════
+# MaqAgr Local Backend — .gitignore
+# ═══════════════════════════════════════════════════════════
+
+# ─── Dependencies ─────────────────────────────────────────
+/node_modules/
+/.pnp
+.pnp.js
+
+# ─── Environment Variables ────────────────────────────────
+.env
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ─── Uploads (user-generated content) ─────────────────────
+/uploads/*
+!/uploads/.gitkeep
+
+# ─── Logs ─────────────────────────────────────────────────
+/logs/
+*.log
+*.log.*
+
+# ─── Testing ──────────────────────────────────────────────
+/coverage/
+.nyc_output/
+test-results/
+
+# ─── Build / Cache ────────────────────────────────────────
+/dist/
+/build/
+.cache/
+.eslintcache
+
+# ─── Database ─────────────────────────────────────────────
+*.db
+*.sqlite
+*.sqlite3
+database/backups/
+
+# ─── OS / Editor ──────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# ─── Runtime ──────────────────────────────────────────────
+pids/
+*.pid
+*.seed
+tmp/
+temp/
+*.tmp
+
+# ─── GCS / Service Account Keys ───────────────────────────
+*-key.json
+*-credentials.json
+gcs-local-key.json

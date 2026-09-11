@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Environment
+.env
+.env.*.local
+
+# Uploads (user content)
+backend/uploads/*
+!backend/uploads/.gitkeep
+!backend/uploads/tractors/.gitkeep
+!backend/uploads/implements/.gitkeep
+!backend/uploads/users/.gitkeep
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Coverage
+coverage/
+.nyc_output/
+test-results/
+
+# Build
+dist/
+build/
+.cache/
+
+# Runtime binaries (Node + PostgreSQL portable, not for git)
+runtime/
+
+# Compiled installer binaries (too large for git)
+/MaqAgr-Local-Setup.exe
+/MaqAgr-Local-Setup.rar
+
+# OS
+.DS_Store
+Thumbs.db
+
+# SDD artifacts
+proposal.md
+designs/
+
+# Project docs
+INFORME*
+*.docx
+tasks-deployment-readiness.json
+.atl/

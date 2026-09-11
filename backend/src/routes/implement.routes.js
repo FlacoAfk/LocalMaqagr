@@ -1,0 +1,551 @@
+import { Router } from "express";
+import {
+  getAllImplements,
+  getAvailableImplements,
+  searchImplements,
+  getImplementById,
+  createImplement,
+  updateImplement,
+  deleteImplement,
+} from "../controllers/implementController.js";
+import {
+  verifyTokenMiddleware,
+  isAdmin,
+} from "../middleware/auth.middleware.js";
+import { validateImplement } from "../middleware/validation.middleware.js";
+import { paginationMiddleware } from "../middleware/pagination.middleware.js";
+import { uploadMiddleware } from "../middleware/upload.middleware.js";
+
+import {
+  cacheMiddleware,
+  invalidateCacheMiddleware,
+} from "../middleware/cache.middleware.js";
+
+const router = Router();
+
+// ==================== RUTAS PÚBLICAS ====================
+
+/**
+ * @swagger
+ * /api/implements:
+ *   get:
+ *     summary: Obtener todos los implementos
+ *     description: Retorna la lista completa de implementos agrícolas con paginación. Acceso público.
+ *     tags: [Implements]
+ *     parameters:
+ *       - in: query
+ *         name: limit
+ *         schema:
+ *           type: integer
+ *           default: 10
+ *         description: Cantidad de registros por página
+ *       - in: query
+ *         name: page
+ *         schema:
+ *           type: integer
+ *           default: 1
+ *         description: Número de página
+ *     responses:
+ *       200:
+ *         description: Lista de implementos obtenida exitosamente
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 success:
+ *                   type: boolean
+ *                   example: true
+ *                 data:
+ *                   type: array
+ *                   items:
+ *                     $ref: '#/components/schemas/Implement'
+ *                 pagination:
+ *                   type: object
+ *                   properties:
+ *                     page:
+ *                       type: integer
+ *                       example: 1
+ *                     total:
+ *                       type: integer
+ *                       example: 15
+ *                     limit:
+ *                       type: integer
+ *                       example: 10
+ *                     totalPages:
+ *                       type: integer
+ *                       example: 2
+ *       500:
+ *         description: Error interno del servidor
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ */
+router.get("/", cacheMiddleware(86400), paginationMiddleware(), getAllImplements);
+
+/**
+ * @swagger
+ * /api/implements/available:
+ *   get:
+ *     summary: Obtener implementos disponibles
+ *     description: Retorna solo los implementos con status "available", ordenados por tipo y potencia requerida.
+ *     tags: [Implements]
+ *     parameters:
+ *       - in: query
+ *         name: limit
+ *         schema:
+ *           type: integer
+ *           default: 10
+ *         description: Cantidad de registros por página
+ *       - in: query
+ *         name: page
+ *         schema:
+ *           type: integer
+ *           default: 1
+ *         description: Número de página
+ *     responses:
+ *       200:
+ *         description: Lista de implementos disponibles
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 success:
+ *                   type: boolean
+ *                   example: true
+ *                 data:
+ *                   type: array
+ *                   items:
+ *                     $ref: '#/components/schemas/Implement'
+ *                 pagination:
+ *                   type: object
+ *                   properties:
+ *                     page:
+ *                       type: integer
+ *                     total:
+ *                       type: integer
+ *                     limit:
+ *                       type: integer
+ *                     totalPages:
+ *                       type: integer
+ *       500:
+ *         description: Error interno del servidor
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ */
+router.get("/available", paginationMiddleware(), getAvailableImplements);
+
+/**
+ * @swagger
+ * /api/implements/search:
+ *   get:
+ *     summary: Buscar implementos con filtros avanzados
+ *     description: |
+ *       Permite buscar implementos agrícolas aplicando búsqueda full-text y filtros combinados.
+ *       También permite ordenar los resultados por compatibilidad técnica con un tractor específico.
+ *     tags: [Implements]
+ *     parameters:
+ *       - in: query
+ *         name: q
+ *         schema:
+ *           type: string
+ *         description: Búsqueda full-text en nombre y marca (case-insensitive)
+ *         example: "arado"
+ *       - in: query
+ *         name: type
+ *         schema:
+ *           type: string
+ *         description: Filtrar por tipo de implemento (exacto o parcial, case-insensitive)
+ *         example: "plow"
+ *       - in: query
+ *         name: minWidth
+ *         schema:
+ *           type: number
+ *         description: Ancho de trabajo mínimo en metros
+ *         example: 2.5
+ *       - in: query
+ *         name: maxWidth
+ *         schema:
+ *           type: number
+ *         description: Ancho de trabajo máximo en metros
+ *         example: 5.0
+ *       - in: query
+ *         name: requiredPower
+ *         schema:
+ *           type: number
+ *         description: Potencia requerida máxima (HP)
+ *         example: 120
+ *       - in: query
+ *         name: tractorId
+ *         schema:
+ *           type: integer
+ *         description: ID de un tractor para filtrar implementos compatibles y ordenarlos por el óptimo aprovechamiento de potencia.
+ *         example: 1
+ *       - in: query
+ *         name: page
+ *         schema:
+ *           type: integer
+ *           default: 1
+ *         description: Número de página para paginación
+ *       - in: query
+ *         name: limit
+ *         schema:
+ *           type: integer
+ *           default: 10
+ *         description: Cantidad de registros por página
+ *       - in: query
+ *         name: sort
+ *         schema:
+ *           type: string
+ *         description: Campo por el cual ordenar los resultados (ej. implement_name, power_requirement_hp)
+ *       - in: query
+ *         name: order
+ *         schema:
+ *           type: string
+ *           enum: [desc, asc]
+ *         description: Dirección del ordenamiento
+ *     responses:
+ *       200:
+ *         description: Resultados de búsqueda
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 success:
+ *                   type: boolean
+ *                   example: true
+ *                 data:
+ *                   type: array
+ *                   items:
+ *                     $ref: '#/components/schemas/Implement'
+ *                 pagination:
+ *                   type: object
+ *                   properties:
+ *                     page:
+ *                       type: integer
+ *                     total:
+ *                       type: integer
+ *                     limit:
+ *                       type: integer
+ *                     totalPages:
+ *                       type: integer
+ *                 filters:
+ *                   type: object
+ *                   properties:
+ *                     q:
+ *                       type: string
+ *                       nullable: true
+ *                     type:
+ *                       type: string
+ *                       nullable: true
+ *                     minWidth:
+ *                       type: number
+ *                       nullable: true
+ *                     maxWidth:
+ *                       type: number
+ *                       nullable: true
+ *                     requiredPower:
+ *                       type: number
+ *                       nullable: true
+ *                     tractorId:
+ *                       type: integer
+ *                       nullable: true
+ *       500:
+ *         description: Error interno del servidor
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ */
+router.get("/search", paginationMiddleware(), searchImplements);
+
+/**
+ * @swagger
+ * /api/implements/{id}:
+ *   get:
+ *     summary: Obtener implemento por ID
+ *     description: Retorna los datos completos de un implemento agrícola específico.
+ *     tags: [Implements]
+ *     parameters:
+ *       - in: path
+ *         name: id
+ *         required: true
+ *         schema:
+ *           type: integer
+ *         description: ID del implemento
+ *         example: 1
+ *     responses:
+ *       200:
+ *         description: Implemento encontrado
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 success:
+ *                   type: boolean
+ *                   example: true
+ *                 data:
+ *                   $ref: '#/components/schemas/Implement'
+ *       400:
+ *         description: ID de implemento inválido
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *             example:
+ *               success: false
+ *               message: "ID de implemento inválido"
+ *       404:
+ *         description: Implemento no encontrado
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *             example:
+ *               success: false
+ *               message: "Implemento no encontrado"
+ *       500:
+ *         description: Error interno del servidor
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ */
+router.get("/:id", getImplementById);
+
+// ==================== RUTAS PROTEGIDAS (ADMIN) ====================
+
+/**
+ * @swagger
+ * /api/implements:
+ *   post:
+ *     summary: Crear nuevo implemento
+ *     description: |
+ *       Crea un nuevo implemento agrícola en el catálogo. **Solo administradores**.
+ *       Tipos válidos: plow, harrow, seeder, sprayer, harvester, cultivator, mower, trailer, other.
+ *     tags: [Implements]
+ *     security:
+ *       - BearerAuth: []
+ *     requestBody:
+ *       required: true
+ *       content:
+ *         application/json:
+ *           schema:
+ *             $ref: '#/components/schemas/ImplementCreate'
+ *           example:
+ *             implement_name: "Arado de discos 3 cuerpos"
+ *             brand: "Baldan"
+ *             power_requirement_hp: 85
+ *             working_width_m: 1.2
+ *             soil_type: "clay"
+ *             working_depth_cm: 30
+ *             weight_kg: 450
+ *             implement_type: "plow"
+ *             status: "available"
+ *     responses:
+ *       201:
+ *         description: Implemento creado exitosamente
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 success:
+ *                   type: boolean
+ *                   example: true
+ *                 message:
+ *                   type: string
+ *                   example: "Implemento creado exitosamente"
+ *                 data:
+ *                   $ref: '#/components/schemas/Implement'
+ *       400:
+ *         description: Datos de validación inválidos
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       401:
+ *         description: Token no proporcionado o inválido
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       403:
+ *         description: Acceso denegado - se requiere rol de administrador
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       500:
+ *         description: Error interno del servidor
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ */
+router.post(
+  "/",
+  verifyTokenMiddleware,
+  isAdmin,
+  uploadMiddleware,
+  validateImplement,
+  createImplement,
+);
+
+/**
+ * @swagger
+ * /api/implements/{id}:
+ *   put:
+ *     summary: Actualizar implemento existente
+ *     description: |
+ *       Actualiza los datos de un implemento existente. **Solo administradores**.
+ *       Solo se actualizan los campos proporcionados (COALESCE).
+ *     tags: [Implements]
+ *     security:
+ *       - BearerAuth: []
+ *     parameters:
+ *       - in: path
+ *         name: id
+ *         required: true
+ *         schema:
+ *           type: integer
+ *         description: ID del implemento a actualizar
+ *         example: 1
+ *     requestBody:
+ *       required: true
+ *       content:
+ *         application/json:
+ *           schema:
+ *             $ref: '#/components/schemas/ImplementUpdate'
+ *           example:
+ *             power_requirement_hp: 90
+ *             working_depth_cm: 35
+ *     responses:
+ *       200:
+ *         description: Implemento actualizado exitosamente
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 success:
+ *                   type: boolean
+ *                   example: true
+ *                 message:
+ *                   type: string
+ *                   example: "Implemento actualizado exitosamente"
+ *                 data:
+ *                   $ref: '#/components/schemas/Implement'
+ *       400:
+ *         description: ID inválido o datos de validación incorrectos
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       401:
+ *         description: Token no proporcionado o inválido
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       403:
+ *         description: Acceso denegado - se requiere rol de administrador
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       404:
+ *         description: Implemento no encontrado
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       500:
+ *         description: Error interno del servidor
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ */
+router.put(
+  "/:id",
+  verifyTokenMiddleware,
+  isAdmin,
+  uploadMiddleware,
+  validateImplement,
+  updateImplement,
+);
+
+/**
+ * @swagger
+ * /api/implements/{id}:
+ *   delete:
+ *     summary: Eliminar implemento
+ *     description: Elimina un implemento del catálogo. **Solo administradores**.
+ *     tags: [Implements]
+ *     security:
+ *       - BearerAuth: []
+ *     parameters:
+ *       - in: path
+ *         name: id
+ *         required: true
+ *         schema:
+ *           type: integer
+ *         description: ID del implemento a eliminar
+ *         example: 1
+ *     responses:
+ *       200:
+ *         description: Implemento eliminado exitosamente
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 success:
+ *                   type: boolean
+ *                   example: true
+ *                 message:
+ *                   type: string
+ *                   example: "Implemento eliminado exitosamente"
+ *                 data:
+ *                   $ref: '#/components/schemas/Implement'
+ *       400:
+ *         description: ID de implemento inválido
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       401:
+ *         description: Token no proporcionado o inválido
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       403:
+ *         description: Acceso denegado - se requiere rol de administrador
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       404:
+ *         description: Implemento no encontrado
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       500:
+ *         description: Error interno del servidor
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ */
+router.delete("/:id", verifyTokenMiddleware, isAdmin, deleteImplement);
+
+export default router;

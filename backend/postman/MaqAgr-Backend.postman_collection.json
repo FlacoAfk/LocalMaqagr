@@ -1,0 +1,438 @@
+{
+  "info": {
+    "_postman_id": "f62f71f5-8af9-4cf8-8cc4-1f4f6f505f01",
+    "name": "MaqAgr Backend",
+    "description": "Coleccion completa de endpoints del backend MaqAgr. Incluye auth, catalogos, terrenos, calculos, recomendaciones, notificaciones, admin, health, roles y exportaciones.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "auth": {
+    "type": "bearer",
+    "bearer": [
+      {
+        "key": "token",
+        "value": "{{token}}",
+        "type": "string"
+      }
+    ]
+  },
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "type": "text/javascript",
+        "exec": [
+          "const requestUrl = pm.request.url.toString();",
+          "const isAuthLogin = requestUrl.includes('/api/auth/login');",
+          "const isAuthRegister = requestUrl.includes('/api/auth/register');",
+          "const hasToken = !!pm.environment.get('token');",
+          "",
+          "if (!hasToken && !isAuthLogin && !isAuthRegister) {",
+          "  const baseUrl = pm.environment.get('baseUrl');",
+          "  const loginEmail = pm.environment.get('loginEmail');",
+          "  const loginPassword = pm.environment.get('loginPassword');",
+          "",
+          "  if (baseUrl && loginEmail && loginPassword) {",
+          "    pm.sendRequest({",
+          "      url: baseUrl + '/api/auth/login',",
+          "      method: 'POST',",
+          "      header: { 'Content-Type': 'application/json' },",
+          "      body: {",
+          "        mode: 'raw',",
+          "        raw: JSON.stringify({ email: loginEmail, password: loginPassword })",
+          "      }",
+          "    }, function (err, res) {",
+          "      if (!err && res && res.code === 200) {",
+          "        const json = res.json();",
+          "        if (json && json.data && json.data.token) {",
+          "          pm.environment.set('token', json.data.token);",
+          "          pm.environment.set('refreshToken', json.data.token);",
+          "          if (json.data.user && json.data.user.user_id) {",
+          "            pm.environment.set('userId', json.data.user.user_id);",
+          "          }",
+          "        }",
+          "      }",
+          "    });",
+          "  }",
+          "}"
+        ]
+      }
+    },
+    {
+      "listen": "test",
+      "script": {
+        "type": "text/javascript",
+        "exec": [
+          "pm.test('Status code is not 5xx', function () {",
+          "  pm.expect(pm.response.code).to.be.below(500);",
+          "});",
+          "",
+          "const contentType = pm.response.headers.get('Content-Type') || '';",
+          "if (contentType.includes('application/json')) {",
+          "  pm.test('Response JSON is parseable', function () {",
+          "    pm.expect(() => pm.response.json()).to.not.throw();",
+          "  });",
+          "}"
+        ]
+      }
+    }
+  ],
+  "variable": [
+    { "key": "baseUrl", "value": "http://localhost:3000" },
+    { "key": "token", "value": "" },
+    { "key": "refreshToken", "value": "" },
+    { "key": "userId", "value": "1" },
+    { "key": "terrainId", "value": "1" },
+    { "key": "tractorId", "value": "1" },
+    { "key": "implementId", "value": "1" },
+    { "key": "recommendationId", "value": "1" },
+    { "key": "notificationId", "value": "1" },
+    { "key": "roleId", "value": "2" }
+  ],
+  "item": [
+    {
+      "name": "Auth",
+      "item": [
+        {
+          "name": "Register",
+          "request": {
+            "auth": { "type": "noauth" },
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"Postman User\",\n  \"email\": \"postman.user@example.com\",\n  \"password\": \"Postman123!\"\n}"
+            },
+            "url": "{{baseUrl}}/api/auth/register"
+          },
+          "event": [{
+            "listen": "test",
+            "script": {
+              "type": "text/javascript",
+              "exec": [
+                "pm.test('Status 201 or 409', function () {",
+                "  pm.expect([201, 409]).to.include(pm.response.code);",
+                "});"
+              ]
+            }
+          }]
+        },
+        {
+          "name": "Login",
+          "request": {
+            "auth": { "type": "noauth" },
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"email\": \"{{loginEmail}}\",\n  \"password\": \"{{loginPassword}}\"\n}"
+            },
+            "url": "{{baseUrl}}/api/auth/login"
+          },
+          "event": [{
+            "listen": "test",
+            "script": {
+              "type": "text/javascript",
+              "exec": [
+                "pm.test('Status is 200', function () {",
+                "  pm.response.to.have.status(200);",
+                "});",
+                "const json = pm.response.json();",
+                "if (json && json.data && json.data.token) {",
+                "  pm.environment.set('token', json.data.token);",
+                "  pm.environment.set('refreshToken', json.data.token);",
+                "}",
+                "if (json && json.data && json.data.user && json.data.user.user_id) {",
+                "  pm.environment.set('userId', json.data.user.user_id);",
+                "}"
+              ]
+            }
+          }]
+        },
+        {
+          "name": "Refresh (re-login)",
+          "request": {
+            "auth": { "type": "noauth" },
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"email\": \"{{loginEmail}}\",\n  \"password\": \"{{loginPassword}}\"\n}"
+            },
+            "url": "{{baseUrl}}/api/auth/login"
+          },
+          "event": [{
+            "listen": "test",
+            "script": {
+              "type": "text/javascript",
+              "exec": [
+                "pm.test('Status is 200', function () {",
+                "  pm.response.to.have.status(200);",
+                "});",
+                "const json = pm.response.json();",
+                "if (json && json.data && json.data.token) {",
+                "  pm.environment.set('token', json.data.token);",
+                "  pm.environment.set('refreshToken', json.data.token);",
+                "}"
+              ]
+            }
+          }]
+        },
+        {
+          "name": "Logout",
+          "request": {
+            "method": "POST",
+            "url": "{{baseUrl}}/api/auth/logout"
+          }
+        },
+        {
+          "name": "Profile",
+          "request": {
+            "method": "GET",
+            "url": "{{baseUrl}}/api/auth/profile"
+          }
+        },
+        {
+          "name": "Update Profile",
+          "request": {
+            "method": "PUT",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"Postman User Updated\"\n}"
+            },
+            "url": "{{baseUrl}}/api/auth/profile"
+          }
+        },
+        {
+          "name": "Change Password",
+          "request": {
+            "method": "PUT",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"currentPassword\": \"{{loginPassword}}\",\n  \"newPassword\": \"{{newPassword}}\"\n}"
+            },
+            "url": "{{baseUrl}}/api/auth/password"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tractors",
+      "item": [
+        { "name": "Get All", "request": { "auth": { "type": "noauth" }, "method": "GET", "url": "{{baseUrl}}/api/tractors?limit=10&offset=0" } },
+        { "name": "Get Available", "request": { "auth": { "type": "noauth" }, "method": "GET", "url": "{{baseUrl}}/api/tractors/available?limit=10&offset=0" } },
+        { "name": "Search", "request": { "auth": { "type": "noauth" }, "method": "GET", "url": "{{baseUrl}}/api/tractors/search?q=john&page=1&limit=10&sort=engine_power_hp&order=desc" } },
+        { "name": "Get By Id", "request": { "auth": { "type": "noauth" }, "method": "GET", "url": "{{baseUrl}}/api/tractors/{{tractorId}}" } },
+        {
+          "name": "Create",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"Demo Tractor 130\",\n  \"brand\": \"DemoBrand\",\n  \"model\": \"DB-130\",\n  \"engine_power_hp\": 130,\n  \"weight_kg\": 5000,\n  \"traction_force_kn\": 45,\n  \"traction_type\": \"4x4\",\n  \"status\": \"available\"\n}"
+            },
+            "url": "{{baseUrl}}/api/tractors"
+          }
+        },
+        {
+          "name": "Update",
+          "request": {
+            "method": "PUT",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"engine_power_hp\": 135,\n  \"status\": \"maintenance\"\n}" },
+            "url": "{{baseUrl}}/api/tractors/{{tractorId}}"
+          }
+        },
+        { "name": "Delete", "request": { "method": "DELETE", "url": "{{baseUrl}}/api/tractors/{{tractorId}}" } }
+      ]
+    },
+    {
+      "name": "Implements",
+      "item": [
+        { "name": "Get All", "request": { "auth": { "type": "noauth" }, "method": "GET", "url": "{{baseUrl}}/api/implements?limit=10&offset=0" } },
+        { "name": "Get Available", "request": { "auth": { "type": "noauth" }, "method": "GET", "url": "{{baseUrl}}/api/implements/available?limit=10&offset=0" } },
+        { "name": "Search", "request": { "auth": { "type": "noauth" }, "method": "GET", "url": "{{baseUrl}}/api/implements/search?q=plow&page=1&limit=10&sort=power_requirement_hp&order=asc" } },
+        { "name": "Get By Id", "request": { "auth": { "type": "noauth" }, "method": "GET", "url": "{{baseUrl}}/api/implements/{{implementId}}" } },
+        {
+          "name": "Create",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"implement_name\": \"Demo Plow\",\n  \"brand\": \"DemoBrand\",\n  \"power_requirement_hp\": 90,\n  \"working_width_m\": 1.4,\n  \"soil_type\": \"clay\",\n  \"working_depth_cm\": 30,\n  \"weight_kg\": 430,\n  \"implement_type\": \"plow\",\n  \"status\": \"available\"\n}"
+            },
+            "url": "{{baseUrl}}/api/implements"
+          }
+        },
+        {
+          "name": "Update",
+          "request": {
+            "method": "PUT",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"power_requirement_hp\": 95\n}" },
+            "url": "{{baseUrl}}/api/implements/{{implementId}}"
+          }
+        },
+        { "name": "Delete", "request": { "method": "DELETE", "url": "{{baseUrl}}/api/implements/{{implementId}}" } }
+      ]
+    },
+    {
+      "name": "Terrains",
+      "item": [
+        { "name": "Get All", "request": { "method": "GET", "url": "{{baseUrl}}/api/terrains?limit=10&offset=0" } },
+        { "name": "Get By Id", "request": { "method": "GET", "url": "{{baseUrl}}/api/terrains/{{terrainId}}" } },
+        {
+          "name": "Create",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"name\": \"Parcela API\",\n  \"altitude_meters\": 2500,\n  \"slope_percentage\": 12,\n  \"soil_type\": \"clay\",\n  \"temperature_celsius\": 19\n}"
+            },
+            "url": "{{baseUrl}}/api/terrains"
+          }
+        },
+        {
+          "name": "Update",
+          "request": {
+            "method": "PUT",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"slope_percentage\": 10\n}" },
+            "url": "{{baseUrl}}/api/terrains/{{terrainId}}"
+          }
+        },
+        { "name": "Delete", "request": { "method": "DELETE", "url": "{{baseUrl}}/api/terrains/{{terrainId}}" } }
+      ]
+    },
+    {
+      "name": "Queries",
+      "item": [
+        {
+          "name": "Calculate Power Loss",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"tractor_id\": {{tractorId}},\n  \"terrain_id\": {{terrainId}},\n  \"working_speed_kmh\": 7.5,\n  \"carried_objects_weight_kg\": 400,\n  \"slippage_percent\": 10\n}"
+            },
+            "url": "{{baseUrl}}/api/calculations/power-loss"
+          }
+        },
+        {
+          "name": "Calculate Minimum Power",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"implement_id\": {{implementId}},\n  \"terrain_id\": {{terrainId}},\n  \"working_depth_m\": 0.3\n}"
+            },
+            "url": "{{baseUrl}}/api/calculations/minimum-power"
+          }
+        },
+        { "name": "History", "request": { "method": "GET", "url": "{{baseUrl}}/api/calculations/history?page=1&limit=10&type=power_loss" } }
+      ]
+    },
+    {
+      "name": "Recommendations",
+      "item": [
+        {
+          "name": "Generate",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"terrain_id\": {{terrainId}},\n  \"implement_id\": {{implementId}},\n  \"working_depth_m\": 0.25,\n  \"work_type\": \"tillage\"\n}"
+            },
+            "url": "{{baseUrl}}/api/recommendations/generate"
+          }
+        },
+        {
+          "name": "Advanced",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"terrain_id\": {{terrainId}},\n  \"implement_id\": {{implementId}},\n  \"filters\": {\n    \"budget\": 50000,\n    \"brandPreference\": \"John Deere\"\n  },\n  \"customWeights\": {\n    \"power_match\": 40,\n    \"price\": 30,\n    \"brand_preference\": 20,\n    \"fuel_efficiency\": 10\n  }\n}"
+            },
+            "url": "{{baseUrl}}/api/recommendations/advanced"
+          }
+        },
+        { "name": "History", "request": { "method": "GET", "url": "{{baseUrl}}/api/recommendations/history?page=1&limit=10&work_type=tillage" } },
+        { "name": "Get By Id", "request": { "method": "GET", "url": "{{baseUrl}}/api/recommendations/{{recommendationId}}" } }
+      ]
+    },
+    {
+      "name": "Notifications",
+      "item": [
+        { "name": "List", "request": { "method": "GET", "url": "{{baseUrl}}/api/notifications" } },
+        { "name": "Unread Count", "request": { "method": "GET", "url": "{{baseUrl}}/api/notifications/unread/count" } },
+        { "name": "Mark All Read", "request": { "method": "PUT", "url": "{{baseUrl}}/api/notifications/read-all" } },
+        { "name": "Mark By Id", "request": { "method": "PUT", "url": "{{baseUrl}}/api/notifications/{{notificationId}}/read" } },
+        { "name": "Delete By Id", "request": { "method": "DELETE", "url": "{{baseUrl}}/api/notifications/{{notificationId}}" } }
+      ]
+    },
+    {
+      "name": "Admin",
+      "item": [
+        { "name": "Stats Overview", "request": { "method": "GET", "url": "{{baseUrl}}/api/admin/stats/overview" } },
+        { "name": "Stats Recommendations", "request": { "method": "GET", "url": "{{baseUrl}}/api/admin/stats/recommendations" } },
+        { "name": "Stats Users", "request": { "method": "GET", "url": "{{baseUrl}}/api/admin/stats/users" } },
+        { "name": "Cache Stats", "request": { "method": "GET", "url": "{{baseUrl}}/api/admin/cache/stats" } },
+        {
+          "name": "Broadcast Notification",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"userIds\": [{{userId}}],\n  \"title\": \"Mantenimiento\",\n  \"message\": \"Ventana de mantenimiento programada\"\n}"
+            },
+            "url": "{{baseUrl}}/api/admin/notifications/broadcast"
+          }
+        },
+        { "name": "Export Tractors CSV", "request": { "method": "GET", "url": "{{baseUrl}}/api/exports/tractors?format=csv" } },
+        { "name": "Export Recommendations PDF", "request": { "method": "GET", "url": "{{baseUrl}}/api/exports/recommendations?format=pdf" } }
+      ]
+    },
+    {
+      "name": "Health",
+      "item": [
+        { "name": "Health Check", "request": { "auth": { "type": "noauth" }, "method": "GET", "url": "{{baseUrl}}/health" } },
+        { "name": "Health Detailed (admin)", "request": { "method": "GET", "url": "{{baseUrl}}/health/detailed" } }
+      ]
+    },
+    {
+      "name": "Roles",
+      "item": [
+        { "name": "List Roles", "request": { "method": "GET", "url": "{{baseUrl}}/api/roles" } },
+        {
+          "name": "Create Role",
+          "request": {
+            "method": "POST",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"name\": \"operator\",\n  \"description\": \"Operator role\"\n}" },
+            "url": "{{baseUrl}}/api/roles"
+          }
+        },
+        {
+          "name": "Update Role",
+          "request": {
+            "method": "PUT",
+            "header": [{ "key": "Content-Type", "value": "application/json" }],
+            "body": { "mode": "raw", "raw": "{\n  \"description\": \"Operator role updated\"\n}" },
+            "url": "{{baseUrl}}/api/roles/{{roleId}}"
+          }
+        },
+        { "name": "Delete Role", "request": { "method": "DELETE", "url": "{{baseUrl}}/api/roles/{{roleId}}" } }
+      ]
+    }
+  ]
+}
