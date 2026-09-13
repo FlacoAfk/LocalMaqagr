@@ -1011,6 +1011,16 @@ export const calculateImplementPower = asyncHandler(async (req, res) => {
   if (!terrain) {
     return res.status(404).json({ success: false, message: 'Terreno no encontrado' });
   }
+
+  // Validación de propiedad del terreno (mismo control que los routes de
+  // terrains): un usuario no puede calcular con el terreno de otro (IDOR).
+  if (terrain.user_id !== user_id) {
+    return res.status(403).json({
+      success: false,
+      message: 'No tiene acceso a este terreno',
+    });
+  }
+
   if (implement_id && !implement) {
     return res.status(404).json({ success: false, message: 'Implemento no encontrado' });
   }

@@ -73,6 +73,7 @@ calculateMinimumPower,
 calculateDirectMinimumPower,
 calculateDirectPowerLoss,
 calculateDirectImplementPower,
+calculateImplementPower,
 getCalculationHistory,
 } = controller;
 
@@ -1084,6 +1085,142 @@ describe('calculationController', () => {
         expect.objectContaining({
           success: true,
           data: expect.objectContaining({
+            power_required_hp: 82.13,
+            available_power_hp: 58.88,
+            margin_hp: -23.25,
+            is_adequate: false,
+            classification: 'NO_ADECUADO',
+          }),
+        }),
+      );
+    });
+  });
+
+  describe('calculateImplementPower()', () => {
+    // rastra_pesada_26: T = 1000 kgf/m (arcilla) → P = 1000 × 3 × 7.5 × 0.00365 = 82.13 HP
+    const dbBody = {
+      tractor_id: 4,
+      terrain_id: 6,
+      implement_type: 'rastra_pesada_26',
+      working_width_m: 3,
+      working_speed_kmh: 7.5,
+    };
+
+    const mockOwnedEntities = () => {
+      mockTractorFindById.mockResolvedValue({
+        tractor_id: 4,
+        brand: 'John Deere',
+        model: '6130M',
+        engine_power_hp: 100,
+        weight_kg: 5000,
+        traction_type: '4x2',
+      });
+      mockTerrainFindById.mockResolvedValue({
+        terrain_id: 6,
+        name: 'Lote Norte',
+        soil_type: 'arcilla',
+        soil_condition: 'medio',
+        altitude_meters: 0,
+        temperature_celsius: 15,
+        slope_percentage: 0,
+        user_id: 22,
+      });
+    };
+
+    test('retorna 403 cuando el terreno pertenece a otro usuario', async () => {
+      const req = {
+        body: { ...dbBody },
+        user: { user_id: 22 },
+      };
+      const res = createMockRes();
+
+      mockTractorFindById.mockResolvedValue({
+        tractor_id: 4,
+        brand: 'John Deere',
+        model: '6130M',
+        engine_power_hp: 100,
+        weight_kg: 5000,
+      });
+      mockTerrainFindById.mockResolvedValue({
+        terrain_id: 6,
+        name: 'Lote Ajeno',
+        soil_type: 'arcilla',
+        user_id: 999,
+      });
+
+      await callWrappedHandler(calculateImplementPower, req, res);
+
+      expect(res.status).toHaveBeenCalledWith(403);
+      expect(res.json).toHaveBeenCalledWith({
+        success: false,
+        message: 'No tiene acceso a este terreno',
+      });
+      // No debe calcular ni persistir cuando el terreno es ajeno
+      expect(mockCalculateTotalLossWithZoz).not.toHaveBeenCalled();
+      expect(mockConnect).not.toHaveBeenCalled();
+    });
+
+    test('retorna 200 cuando el terreno pertenece al usuario autenticado', async () => {
+      const req = {
+        body: { ...dbBody },
+        user: { user_id: 22 },
+      };
+      const res = createMockRes();
+
+      mockOwnedEntities();
+      // Tractor 2WD de 100 HP, suelo medio: net = 100 × 0.785 × (1 − 0.25) = 58.88 HP
+      mockCalculateTotalLossWithZoz.mockReturnValue({
+        grossPower: 100,
+        hasTurbo: false,
+        losses: {
+          altitude: 0,
+          temperature: 0,
+          transmission: 41.13,
+          rollingResistance: 0,
+          slope: 0,
+          slippage: 0,
+          total: 41.13,
+        },
+        netPower: 58.88,
+        efficiency: 58.88,
+        zoz: {
+          soil_condition: 'medio',
+          tractor_type: '2WD',
+          tractor_type_defaulted: false,
+          warnings: [],
+          gross_to_axle_efficiency: 0.785,
+          axle_loss: 0.25,
+          internal_drivetrain_loss_hp: 21.5,
+          traction_loss_hp: 19.63,
+          combined_drivetrain_loss: 0.41,
+          pto_efficiency: 0.72,
+          pto_power_hp: 56.52,
+          rolling_included_in_et: true,
+          slippage_absorbed: true,
+        },
+      });
+      mockClient.query
+        .mockResolvedValueOnce({})
+        .mockResolvedValueOnce({ rows: [{ query_id: 71 }] })
+        .mockResolvedValueOnce({})
+        .mockResolvedValueOnce({});
+
+      await callWrappedHandler(calculateImplementPower, req, res);
+
+      // La propiedad pasó: el flujo continúa hasta el cálculo y la persistencia
+      expect(mockCalculateTotalLossWithZoz).toHaveBeenCalledWith(
+        expect.objectContaining({
+          enginePower: 100,
+          soilCondition: 'medio',
+        }),
+      );
+      expect(mockClient.query).toHaveBeenCalledWith('COMMIT');
+      expect(res.status).toHaveBeenCalledWith(200);
+      expect(res.json).toHaveBeenCalledWith(
+        expect.objectContaining({
+          success: true,
+          data: expect.objectContaining({
+            queryId: 71,
             power_required_hp: 82.13,
             available_power_hp: 58.88,
             margin_hp: -23.25,
