@@ -394,6 +394,236 @@ export const calculateTotalLoss = ({
   };
 };
 
+// ============================================
+// CORRECCIÓN ZOZ & GRISSO (2003) — Pérdida de entrega de potencia
+// Ruta corregida: reemplaza el % de transmisión fijo + patinaje separado
+// por la pérdida combinada ΔP_T = 0,215 + ET (Fig. 43 y 47 de Zoz & Grisso).
+// El flujo legacy (calculateTotalLoss) se mantiene intacto.
+// ============================================
+
+/** Normaliza la condición del suelo a los valores de la Fig. 47 (bueno|medio|malo, default medio) */
+const normalizeSoilCondition = (soilCondition) => {
+  const normalized = String(soilCondition ?? '').toLowerCase().trim();
+  return ['bueno', 'medio', 'malo'].includes(normalized) ? normalized : 'medio';
+};
+
+// CONSTANTES ZOZ & GRISSO (para testing/debugging)
+
+/**
+ * Pérdida fija bruta→eje (1 − 0,785, rango 0,77–0,80 de Fig. 43 de Zoz & Grisso).
+ * Corrección del profesor 04/09/2026: ΔP_T = 0,215 + ET. Pendiente de confirmación.
+ */
+export const ZOZ_FIXED_DRIVETRAIN_LOSS = 0.215;
+
+/**
+ * Pérdida de entrega de potencia en el eje (1 − eficiencia de tracción, Fig. 47 de Zoz & Grisso).
+ * Incluye el patinaje: por eso la ruta Zoz NO aplica el % de patinaje aparte.
+ * Filas: 2WD / MFWD / 4WD / BELT. Columnas: condición del suelo [bueno, medio, malo].
+ */
+export const ZOZ_AXLE_LOSS = {
+  '2WD': { bueno: 0.25, medio: 0.3, malo: 0.43 },
+  MFWD: { bueno: 0.21, medio: 0.25, malo: 0.34 },
+  '4WD': { bueno: 0.2, medio: 0.22, malo: 0.27 },
+  BELT: { bueno: 0.15, medio: 0.17, malo: 0.19 },
+};
+
+/**
+ * Eficiencia de entrega de potencia en la TDF (Fig. 47 de Zoz & Grisso).
+ * Filas: 2WD / MFWD / 4WD / BELT. Columnas: condición del suelo [bueno, medio, malo].
+ */
+export const ZOZ_PTO_EFFICIENCY = {
+  '2WD': { bueno: 0.72, medio: 0.67, malo: 0.55 },
+  MFWD: { bueno: 0.76, medio: 0.72, malo: 0.64 },
+  '4WD': { bueno: 0.77, medio: 0.75, malo: 0.7 },
+  BELT: { bueno: 0.76, medio: 0.74, malo: 0.72 },
+};
+
+/**
+ * Tipos de tracción reconocidos explícitamente por mapTractionTypeToZoz.
+ * Cualquier otro valor (o ausencia) cae en 2WD con advertencia.
+ */
+const RECOGNIZED_TRACTION_TYPES = ['mfwd', '4x4', '4wd', 'track', 'oruga', 'belt', '4x2', '2wd'];
+
+/**
+ * Mapea el tipo de tracción del tractor a las filas de las tablas de Zoz & Grisso
+ *
+ * @param {string} tractionType - Tipo de tracción ('4x2', '2wd', 'mfwd', '4x4', '4wd', 'track', 'oruga', 'belt')
+ * @returns {string} Tipo Zoz ('2WD' | 'MFWD' | '4WD' | 'BELT')
+ *
+ * @example
+ * mapTractionTypeToZoz('4x2')   // -> '2WD'
+ * mapTractionTypeToZoz('4x4')   // -> '4WD'
+ * mapTractionTypeToZoz('oruga') // -> 'BELT'
+ * mapTractionTypeToZoz('otro')  // -> '2WD' (default)
+ */
+export const mapTractionTypeToZoz = (tractionType) => {
+  const normalized = String(tractionType ?? '').toLowerCase().trim();
+
+  if (normalized === 'mfwd') return 'MFWD';
+  if (normalized === '4x4' || normalized === '4wd') return '4WD';
+  if (normalized === 'track' || normalized === 'oruga' || normalized === 'belt') return 'BELT';
+
+  // '4x2', '2wd' y cualquier valor desconocido caen en 2WD
+  return '2WD';
+};
+
+/**
+ * Retorna la pérdida de eje (fracción) según condición del suelo y tipo de tractor (Fig. 47)
+ *
+ * @param {string} [soilCondition='medio'] - Condición del suelo ('bueno' | 'medio' | 'malo')
+ * @param {string} tractorType - Tipo de tracción (se mapea con mapTractionTypeToZoz)
+ * @returns {number} Pérdida de eje como fracción (ej: 0.25)
+ *
+ * @example
+ * getAxleLossBySoilAndTractorType('bueno', '2WD') // -> 0.25
+ * getAxleLossBySoilAndTractorType('malo', 'BELT') // -> 0.19
+ */
+export const getAxleLossBySoilAndTractorType = (soilCondition = 'medio', tractorType) => {
+  const zozType = mapTractionTypeToZoz(tractorType);
+  const condition = normalizeSoilCondition(soilCondition);
+  return ZOZ_AXLE_LOSS[zozType][condition];
+};
+
+/**
+ * Retorna la eficiencia de entrega en la TDF (fracción) según condición del suelo
+ * y tipo de tractor (Fig. 47)
+ *
+ * @param {string} [soilCondition='medio'] - Condición del suelo ('bueno' | 'medio' | 'malo')
+ * @param {string} tractorType - Tipo de tracción (se mapea con mapTractionTypeToZoz)
+ * @returns {number} Eficiencia TDF como fracción (ej: 0.67)
+ *
+ * @example
+ * getPtoEfficiencyBySoilAndTractorType('medio', '2WD') // -> 0.67
+ */
+export const getPtoEfficiencyBySoilAndTractorType = (soilCondition = 'medio', tractorType) => {
+  const zozType = mapTractionTypeToZoz(tractorType);
+  const condition = normalizeSoilCondition(soilCondition);
+  return ZOZ_PTO_EFFICIENCY[zozType][condition];
+};
+
+/**
+ * Calcula todas las pérdidas de potencia con la corrección Zoz & Grisso (2003)
+ * Misma forma de salida que calculateTotalLoss, pero:
+ * - La pérdida de transmisión se reemplaza por ΔP_T = 0,215 + ET (Fig. 43 y 47)
+ * - El patinaje NO se descuenta aparte: ya está incluido en la pérdida de eje (ET)
+ *
+ * @param {Object} params - Parámetros de entrada (mismos que calculateTotalLoss más:)
+ * @param {string} params.tractorTractionType - Tipo de tracción del tractor ('4x2', '4x4', 'track', ...)
+ * @param {string} [params.soilCondition='medio'] - Condición del suelo ('bueno' | 'medio' | 'malo')
+ * @param {number} [params.slippagePercent] - Ignorado en la ruta Zoz (patinaje absorbido en ET)
+ *
+ * @returns {Object} Misma estructura que calculateTotalLoss más el objeto `zoz`
+ * @returns {Object} returns.zoz - Detalle de la corrección Zoz & Grisso
+ * @returns {string} returns.zoz.soil_condition - Condición del suelo normalizada
+ * @returns {string} returns.zoz.tractor_type - Tipo de tractor Zoz (2WD|MFWD|4WD|BELT)
+ * @returns {boolean} returns.zoz.tractor_type_defaulted - true si la tracción venía ausente/no reconocida
+ * @returns {string[]} returns.zoz.warnings - Advertencias (tracción no reconocida asumida como 2WD)
+ * @returns {number} returns.zoz.axle_loss - Pérdida de eje ET (fracción)
+ * @returns {number} returns.zoz.fixed_drivetrain_loss - Pérdida fija (0.215)
+ * @returns {number} returns.zoz.combined_drivetrain_loss - ΔP_T = 0,215 + ET (HP)
+ * @returns {number} returns.zoz.pto_efficiency - Eficiencia TDO/TDF (fracción)
+ * @returns {number} returns.zoz.pto_power_hp - Potencia disponible en la TDF (HP)
+ * @returns {boolean} returns.zoz.slippage_absorbed - true: patinaje incluido en ET
+ *
+ * @example
+ * // Tractor turbo de 80 HP, 2WD en suelo bueno, sin peso ni pendiente:
+ * // net = 80 × (1 − 0,215 − 0,25) = 42.8 HP
+ * calculateTotalLossWithZoz({
+ *   enginePower: 80, altitudeMeters: 0, temperatureC: 15,
+ *   totalWeightKg: 0, soilCn: 35, slopePercent: 0, speedKmh: 7.5,
+ *   hasTurbo: true, tractorTractionType: '4x2', soilCondition: 'bueno',
+ * });
+ */
+export const calculateTotalLossWithZoz = ({
+  enginePower,
+  altitudeMeters,
+  temperatureC,
+  totalWeightKg,
+  soilCn,
+  slopePercent,
+  speedKmh,
+  slippagePercent, // Ignorado: el patinaje ya está absorbido en la pérdida de eje de Zoz (ET)
+  tractorTractionType,
+  soilCondition = 'medio',
+  hasTurbo = false,
+}) => {
+  // 1. Pérdidas atmosféricas (igual que el flujo legacy, solo tractores aspirados)
+  const altitudeLoss = calculateAltitudeLoss(enginePower, altitudeMeters, hasTurbo);
+  const temperatureLoss = calculateTemperatureLoss(enginePower, temperatureC, hasTurbo);
+
+  // 2. Pérdida combinada de transmisión (corrección Zoz & Grisso):
+  //    ΔP_T = 0,215 + ET, aplicada sobre la potencia bruta.
+  //    El patinaje no se descuenta aparte: ya está dentro de ET.
+  const zozTractorType = mapTractionTypeToZoz(tractorTractionType);
+  const condition = normalizeSoilCondition(soilCondition);
+  const axleLoss = ZOZ_AXLE_LOSS[zozTractorType][condition];
+  const combinedDrivetrainLoss = enginePower * (ZOZ_FIXED_DRIVETRAIN_LOSS + axleLoss);
+
+  // Advertencia cuando la tracción viene ausente o no reconocida: se asumió 2WD
+  const normalizedTraction = String(tractorTractionType ?? '').toLowerCase().trim();
+  const tractionTypeDefaulted = !RECOGNIZED_TRACTION_TYPES.includes(normalizedTraction);
+  const zozWarnings = tractionTypeDefaulted
+    ? ['tipo de tracción no reconocido, se asumió 2WD']
+    : [];
+
+  // 3. Pérdidas mecánicas del terreno (rodadura y pendiente, igual que el flujo legacy)
+  const rollingResistanceLoss = calculateRollingResistanceHP(
+    totalWeightKg,
+    soilCn,
+    slopePercent,
+    speedKmh
+  );
+  const slopeLoss = calculateSlopeLossHP(totalWeightKg, slopePercent, speedKmh);
+
+  // Potencia neta final (sin descuento separado de patinaje)
+  const netPower = Math.max(
+    0,
+    enginePower - altitudeLoss - temperatureLoss - combinedDrivetrainLoss - rollingResistanceLoss - slopeLoss
+  );
+
+  // Total de pérdidas
+  const totalLosses =
+    altitudeLoss +
+    temperatureLoss +
+    combinedDrivetrainLoss +
+    rollingResistanceLoss +
+    slopeLoss;
+
+  // Eficiencia
+  const efficiency = (netPower / enginePower) * 100;
+
+  // Potencia disponible en la TDF según Fig. 47
+  const ptoEfficiency = ZOZ_PTO_EFFICIENCY[zozTractorType][condition];
+
+  return {
+    grossPower: enginePower,
+    hasTurbo,
+    losses: {
+      altitude: parseFloat(altitudeLoss.toFixed(2)),
+      temperature: parseFloat(temperatureLoss.toFixed(2)),
+      transmission: parseFloat(combinedDrivetrainLoss.toFixed(2)),
+      rollingResistance: parseFloat(rollingResistanceLoss.toFixed(2)),
+      slope: parseFloat(slopeLoss.toFixed(2)),
+      slippage: 0, // Absorbido en la pérdida de eje (Zoz & Grisso)
+      total: parseFloat(totalLosses.toFixed(2)),
+    },
+    netPower: parseFloat(netPower.toFixed(2)),
+    efficiency: parseFloat(efficiency.toFixed(2)),
+    zoz: {
+      soil_condition: condition,
+      tractor_type: zozTractorType,
+      tractor_type_defaulted: tractionTypeDefaulted,
+      warnings: zozWarnings,
+      axle_loss: axleLoss,
+      fixed_drivetrain_loss: ZOZ_FIXED_DRIVETRAIN_LOSS,
+      combined_drivetrain_loss: parseFloat(combinedDrivetrainLoss.toFixed(2)),
+      pto_efficiency: ptoEfficiency,
+      pto_power_hp: parseFloat((enginePower * ptoEfficiency).toFixed(2)),
+      slippage_absorbed: true,
+    },
+  };
+};
+
 // EXPORTACIÓN DE CONSTANTES (para testing/debugging)
 
 export const getConstants = () => ({ ...CONSTANTS });

@@ -236,4 +236,223 @@ describe("powerLossService", () => {
       expect(slopePercentToDegrees(100)).toBeCloseTo(45.0);
     });
   });
+
+  // ========================================================
+  // 7. CORRECCIÓN ZOZ & GRISSO (2003)
+  // ========================================================
+  describe("mapTractionTypeToZoz", () => {
+    const { mapTractionTypeToZoz } = powerLossService;
+
+    test("mapea aliases a filas de la Fig. 47", () => {
+      expect(mapTractionTypeToZoz("4x2")).toBe("2WD");
+      expect(mapTractionTypeToZoz("2wd")).toBe("2WD");
+      expect(mapTractionTypeToZoz("mfwd")).toBe("MFWD");
+      expect(mapTractionTypeToZoz("4x4")).toBe("4WD");
+      expect(mapTractionTypeToZoz("4wd")).toBe("4WD");
+      expect(mapTractionTypeToZoz("track")).toBe("BELT");
+      expect(mapTractionTypeToZoz("oruga")).toBe("BELT");
+      expect(mapTractionTypeToZoz("belt")).toBe("BELT");
+    });
+
+    test("valor desconocido cae en 2WD (default)", () => {
+      expect(mapTractionTypeToZoz("otro")).toBe("2WD");
+      expect(mapTractionTypeToZoz(undefined)).toBe("2WD");
+    });
+  });
+
+  describe("getAxleLossBySoilAndTractorType", () => {
+    const { getAxleLossBySoilAndTractorType, mapTractionTypeToZoz } = powerLossService;
+
+    test("2WD en suelo bueno → 0.25", () => {
+      expect(getAxleLossBySoilAndTractorType("bueno", "2WD")).toBe(0.25);
+    });
+
+    test("BELT en suelo malo → 0.19", () => {
+      expect(getAxleLossBySoilAndTractorType("malo", "BELT")).toBe(0.19);
+    });
+
+    test("4WD (mapeado de '4x4') en suelo medio → 0.22", () => {
+      expect(getAxleLossBySoilAndTractorType("medio", mapTractionTypeToZoz("4x4"))).toBe(0.22);
+    });
+
+    test("condición inválida cae en 'medio'", () => {
+      expect(getAxleLossBySoilAndTractorType("inexistente", "2WD")).toBe(0.3);
+      expect(getAxleLossBySoilAndTractorType(undefined, "2WD")).toBe(0.3);
+    });
+  });
+
+  describe("getPtoEfficiencyBySoilAndTractorType", () => {
+    const { getPtoEfficiencyBySoilAndTractorType } = powerLossService;
+
+    test("2WD en suelo medio → 0.67", () => {
+      expect(getPtoEfficiencyBySoilAndTractorType("medio", "2WD")).toBe(0.67);
+    });
+
+    test("4WD en suelo bueno → 0.77", () => {
+      expect(getPtoEfficiencyBySoilAndTractorType("bueno", "4WD")).toBe(0.77);
+    });
+  });
+
+  describe("calculateTotalLossWithZoz", () => {
+    const { calculateTotalLossWithZoz } = powerLossService;
+
+    test("80 HP turbo, 2WD, suelo bueno, sin peso ni pendiente → net 42.8 HP", () => {
+      // net = 80 × (1 − 0.215 − 0.25) = 80 − 17.2 − 20 = 42.8
+      // (turbo: sin pérdidas atmosféricas; peso 0 y pendiente 0: sin rodadura ni pendiente)
+      const result = calculateTotalLossWithZoz({
+        enginePower: 80,
+        altitudeMeters: 1000, // no afecta: hasTurbo true
+        temperatureC: 35, // no afecta: hasTurbo true
+        totalWeightKg: 0,
+        soilCn: 35,
+        slopePercent: 0,
+        speedKmh: 7.5,
+        slippagePercent: 15, // ignorado en la ruta Zoz
+        tractorTractionType: "4x2",
+        soilCondition: "bueno",
+        hasTurbo: true,
+      });
+
+      expect(result.netPower).toBe(42.8);
+      expect(result.zoz.tractor_type).toBe("2WD");
+      expect(result.zoz.soil_condition).toBe("bueno");
+      expect(result.zoz.axle_loss).toBe(0.25);
+      expect(result.zoz.fixed_drivetrain_loss).toBe(0.215);
+      expect(result.zoz.combined_drivetrain_loss).toBeCloseTo(80 * 0.465, 2); // 37.2
+      expect(result.losses.slippage).toBe(0); // absorbido en la pérdida de eje
+      expect(result.zoz.slippage_absorbed).toBe(true);
+      expect(result.losses.transmission).toBeCloseTo(37.2, 2);
+    });
+
+    test("potencia en la TDF = bruta × eficiencia Fig. 47", () => {
+      // 80 HP × 0.72 (2WD, suelo bueno) = 57.6 HP tdf
+      const result = calculateTotalLossWithZoz({
+        enginePower: 80,
+        altitudeMeters: 0,
+        temperatureC: 15,
+        totalWeightKg: 0,
+        soilCn: 35,
+        slopePercent: 0,
+        speedKmh: 0,
+        tractorTractionType: "4x2",
+        soilCondition: "bueno",
+        hasTurbo: true,
+      });
+      expect(result.zoz.pto_efficiency).toBe(0.72);
+      expect(result.zoz.pto_power_hp).toBe(57.6);
+    });
+
+    test("retorna la misma estructura que calculateTotalLoss más el objeto zoz", () => {
+      const result = calculateTotalLossWithZoz({
+        enginePower: 120,
+        altitudeMeters: 1500,
+        temperatureC: 30,
+        totalWeightKg: 5000,
+        soilCn: 50,
+        slopePercent: 10,
+        speedKmh: 6,
+        tractorTractionType: "4x4",
+        soilCondition: "medio",
+        hasTurbo: false,
+      });
+
+      expect(result).toHaveProperty("grossPower", 120);
+      expect(result).toHaveProperty("netPower");
+      expect(result).toHaveProperty("efficiency");
+      expect(result).toHaveProperty("hasTurbo", false);
+      expect(result.losses).toHaveProperty("altitude");
+      expect(result.losses).toHaveProperty("temperature");
+      expect(result.losses).toHaveProperty("transmission");
+      expect(result.losses).toHaveProperty("rollingResistance");
+      expect(result.losses).toHaveProperty("slope");
+      expect(result.losses).toHaveProperty("slippage", 0);
+      expect(result.losses).toHaveProperty("total");
+      expect(result.zoz).toHaveProperty("tractor_type", "4WD");
+      expect(result.zoz).toHaveProperty("axle_loss", 0.22);
+      expect(result.zoz).toHaveProperty("pto_power_hp");
+    });
+
+    test("a mayor dureza de suelo, menor potencia neta (mayor pérdida de eje)", () => {
+      const baseParams = {
+        enginePower: 100,
+        altitudeMeters: 0,
+        temperatureC: 15,
+        totalWeightKg: 0,
+        soilCn: 35,
+        slopePercent: 0,
+        speedKmh: 0,
+        tractorTractionType: "4x2",
+        hasTurbo: true,
+      };
+
+      const bueno = calculateTotalLossWithZoz({ ...baseParams, soilCondition: "bueno" });
+      const malo = calculateTotalLossWithZoz({ ...baseParams, soilCondition: "malo" });
+
+      expect(malo.netPower).toBeLessThan(bueno.netPower);
+    });
+
+    test("tracción ausente o no reconocida: asume 2WD y agrega advertencia en zoz", () => {
+      const baseParams = {
+        enginePower: 80,
+        altitudeMeters: 0,
+        temperatureC: 15,
+        totalWeightKg: 0,
+        soilCn: 35,
+        slopePercent: 0,
+        speedKmh: 7.5,
+        hasTurbo: true,
+      };
+
+      // Tracción no reconocida
+      const desconocida = calculateTotalLossWithZoz({
+        ...baseParams,
+        tractorTractionType: "otro",
+        soilCondition: "medio",
+      });
+      expect(desconocida.zoz.tractor_type).toBe("2WD");
+      expect(desconocida.zoz.tractor_type_defaulted).toBe(true);
+      expect(desconocida.zoz.warnings).toEqual([
+        "tipo de tracción no reconocido, se asumió 2WD",
+      ]);
+
+      // Tracción ausente
+      const ausente = calculateTotalLossWithZoz({ ...baseParams, soilCondition: "medio" });
+      expect(ausente.zoz.tractor_type).toBe("2WD");
+      expect(ausente.zoz.tractor_type_defaulted).toBe(true);
+      expect(ausente.zoz.warnings.length).toBe(1);
+
+      // Tracción reconocida: sin advertencia ni flag
+      const reconocida = calculateTotalLossWithZoz({
+        ...baseParams,
+        tractorTractionType: "4x4",
+        soilCondition: "medio",
+      });
+      expect(reconocida.zoz.tractor_type).toBe("4WD");
+      expect(reconocida.zoz.tractor_type_defaulted).toBe(false);
+      expect(reconocida.zoz.warnings).toEqual([]);
+    });
+  });
+
+  describe("calculateTotalLoss (legacy) permanece sin cambios", () => {
+    test("mantiene el flujo con transmisión fija 13% y patinaje separado", () => {
+      // Con turbo (sin pérdidas atmosféricas), peso 0 y pendiente 0:
+      // transmisión = 80 × 0.13 = 10.4 → en ruedas = 69.6
+      // patinaje = 69.6 × 0.15 = 10.44 → net = 69.6 − 10.44 = 59.16
+      const result = calculateTotalLoss({
+        enginePower: 80,
+        altitudeMeters: 0,
+        temperatureC: 15,
+        totalWeightKg: 0,
+        soilCn: 35,
+        slopePercent: 0,
+        speedKmh: 7.5,
+        slippagePercent: 15,
+        hasTurbo: true,
+      });
+
+      expect(result.losses.transmission).toBeCloseTo(10.4, 2); // 80 × 0.13
+      expect(result.losses.slippage).toBeCloseTo(10.44, 2); // (80 − 10.4) × 0.15
+      expect(result.netPower).toBeCloseTo(59.16, 1);
+    });
+  });
 });
