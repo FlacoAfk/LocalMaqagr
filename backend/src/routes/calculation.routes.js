@@ -1,6 +1,6 @@
 import { Router } from 'express';
-import { calculatePowerLoss, calculateMinimumPower, calculateDirectPowerLoss, calculateDirectMinimumPower, getCalculationHistory } from '../controllers/calculationController.js';
-import { validatePowerLossRequest, validateImplementRequirement, validateDirectPowerLossRequest, validateDirectMinimumPowerRequest } from '../middleware/calculationValidation.middleware.js';
+import { calculatePowerLoss, calculateMinimumPower, calculateDirectPowerLoss, calculateDirectMinimumPower, calculateDirectImplementPower, calculateImplementPower, getCalculationHistory } from '../controllers/calculationController.js';
+import { validatePowerLossRequest, validateImplementRequirement, validateDirectPowerLossRequest, validateDirectMinimumPowerRequest, validateDirectImplementPowerRequest, validateImplementPowerRequest } from '../middleware/calculationValidation.middleware.js';
 import { verifyTokenMiddleware } from '../middleware/auth.middleware.js';
 
 const router = Router();
@@ -136,6 +136,56 @@ router.post('/direct-minimum-power', validateDirectMinimumPowerRequest, calculat
 
 /**
  * @swagger
+ * /api/calculations/direct-implement-power:
+ *   post:
+ *     summary: Calcular potencia por implemento con datos manuales
+ *     description: |
+ *       Flujo manual (sin IDs de DB, sin login). Calcula la potencia requerida por el
+ *       implemento según la "Tabla 1" de Chaparro (9 implementos, coeficientes por suelo:
+ *       arena/limo/arcilla) y la disponible del tractor con la corrección Zoz & Grisso (2003).
+ *
+ *       Para implementos de TDF (implemento_rotativo) compara contra la potencia en la TDF;
+ *       para implementos de tiro (drawbar) compara contra la potencia neta en la barra de tiro.
+ *       El patinaje no se descuenta aparte: está absorbido en la pérdida de eje de Zoz.
+ *     tags: [Calculations]
+ *     requestBody:
+ *       required: true
+ *       content:
+ *         application/json:
+ *           schema:
+ *             $ref: '#/components/schemas/DirectImplementPowerRequest'
+ *           example:
+ *             implement_type: rastra_pesada_26
+ *             working_width_m: 3
+ *             working_speed_kmh: 7.5
+ *             soil_type: arcilla
+ *             engine_power_hp: 100
+ *             traction_type: 4x2
+ *             soil_condition: bueno
+ *     responses:
+ *       200:
+ *         description: Calculo de potencia por implemento completado
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/DirectImplementPowerResponse'
+ *       400:
+ *         description: Campos requeridos faltantes o datos invalidos
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       500:
+ *         description: Error interno del servidor
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ */
+router.post('/direct-implement-power', validateDirectImplementPowerRequest, calculateDirectImplementPower);
+
+/**
+ * @swagger
  * /api/calculations/minimum-power:
  *   post:
  *     summary: Calcular potencia mínima requerida
@@ -213,6 +263,67 @@ router.post('/direct-minimum-power', validateDirectMinimumPowerRequest, calculat
  *               $ref: '#/components/schemas/ErrorResponse'
  */
 router.post('/minimum-power', verifyTokenMiddleware, validateImplementRequirement, calculateMinimumPower);
+
+/**
+ * @swagger
+ * /api/calculations/implement-power:
+ *   post:
+ *     summary: Calcular potencia por implemento con entidades de la BD
+ *     description: |
+ *       Flujo autenticado con tractor_id + terrain_id + (implement_id O parámetros
+ *       explícitos del implemento). Calcula la potencia requerida según la "Tabla 1"
+ *       de Chaparro y la disponible con la corrección Zoz & Grisso (2003), usando la
+ *       tracción del tractor y la condición del suelo del terreno (fallback: 'medio').
+ *
+ *       Clasificación: ADECUADO (margen >= 0 y excedente <= 25%), SOBREPOTENCIADO
+ *       (excedente > 25%) o NO_ADECUADO (margen negativo).
+ *     tags: [Calculations]
+ *     security:
+ *       - BearerAuth: []
+ *     requestBody:
+ *       required: true
+ *       content:
+ *         application/json:
+ *           schema:
+ *             $ref: '#/components/schemas/ImplementPowerRequest'
+ *           example:
+ *             tractor_id: 1
+ *             terrain_id: 1
+ *             implement_id: 1
+ *             working_speed_kmh: 7.5
+ *     responses:
+ *       200:
+ *         description: Calculo de potencia por implemento completado
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ImplementPowerResponse'
+ *       400:
+ *         description: Campos requeridos faltantes o datos invalidos
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       401:
+ *         description: Token no proporcionado o inválido
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       404:
+ *         description: Tractor, terreno o implemento no encontrado
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ *       500:
+ *         description: Error interno del servidor
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/ErrorResponse'
+ */
+router.post('/implement-power', verifyTokenMiddleware, validateImplementPowerRequest, calculateImplementPower);
 
 /**
  * @swagger

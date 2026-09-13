@@ -7,7 +7,7 @@
  * (validateDirectPowerLossRequest estaba sin tests).
  */
 import { describe, test, expect, jest, beforeEach } from '@jest/globals';
-import { validateDirectPowerLossRequest } from '../../../src/middleware/calculationValidation.middleware.js';
+import { validateDirectPowerLossRequest, validateDirectImplementPowerRequest } from '../../../src/middleware/calculationValidation.middleware.js';
 
 describe('validateDirectPowerLossRequest (FIX-004)', () => {
   let mockReq, mockRes, mockNext;
@@ -342,5 +342,68 @@ describe('validateDirectPowerLossRequest (FIX-004)', () => {
       );
       expect(mockNext).not.toHaveBeenCalled();
     });
+  });
+});
+
+describe('validateDirectImplementPowerRequest (tractor opcional)', () => {
+  let mockReq, mockRes, mockNext;
+
+  beforeEach(() => {
+    mockReq = { body: {} };
+    mockRes = {
+      status: jest.fn().mockReturnThis(),
+      json: jest.fn().mockReturnThis(),
+    };
+    mockNext = jest.fn();
+  });
+
+  const implementBody = () => ({
+    implement_type: 'rastra_pesada_26',
+    working_width_m: 3,
+    working_speed_kmh: 7.5,
+    soil_type: 'arcilla',
+  });
+
+  test('sin engine_power_hp pasa la validación (solo potencia requerida)', () => {
+    mockReq.body = implementBody();
+
+    validateDirectImplementPowerRequest(mockReq, mockRes, mockNext);
+
+    expect(mockNext).toHaveBeenCalled();
+    expect(mockRes.status).not.toHaveBeenCalled();
+    expect(mockReq.body.engine_power_hp).toBeUndefined();
+  });
+
+  test('con engine_power_hp lo normaliza a número y aplica defaults de tractor', () => {
+    mockReq.body = {
+      ...implementBody(),
+      engine_power_hp: '100',
+      traction_type: '4x2',
+      soil_condition: 'Bueno',
+    };
+
+    validateDirectImplementPowerRequest(mockReq, mockRes, mockNext);
+
+    expect(mockNext).toHaveBeenCalled();
+    expect(mockReq.body.engine_power_hp).toBe(100);
+    expect(mockReq.body.soil_condition).toBe('bueno');
+    expect(mockReq.body.soil_type).toBe('arcilla');
+  });
+
+  test('con engine_power_hp inválido (<= 0) rechaza con 400', () => {
+    mockReq.body = { ...implementBody(), engine_power_hp: 0 };
+
+    validateDirectImplementPowerRequest(mockReq, mockRes, mockNext);
+
+    expect(mockNext).not.toHaveBeenCalled();
+    expect(mockRes.status).toHaveBeenCalledWith(400);
+    expect(mockRes.json).toHaveBeenCalledWith(
+      expect.objectContaining({
+        success: false,
+        errors: expect.arrayContaining([
+          'engine_power_hp debe ser un número mayor a 0',
+        ]),
+      }),
+    );
   });
 });

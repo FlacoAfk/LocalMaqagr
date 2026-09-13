@@ -7,6 +7,7 @@ const mockTractorGetAll = jest.fn();
 const mockTerrainFindById = jest.fn();
 const mockImplementFindById = jest.fn();
 const mockCalculateTotalLoss = jest.fn();
+const mockCalculateTotalLossWithZoz = jest.fn();
 const mockCalculateMinimumPower = jest.fn();
 const mockLoggerInfo = jest.fn();
 
@@ -48,6 +49,7 @@ jest.unstable_mockModule('../../../src/models/Implement.js', () => ({
 jest.unstable_mockModule('../../../src/services/powerLossService.js', () => ({
   __esModule: true,
   calculateTotalLoss: mockCalculateTotalLoss,
+  calculateTotalLossWithZoz: mockCalculateTotalLossWithZoz,
 }));
 
 jest.unstable_mockModule('../../../src/services/minimumPowerService.js', () => ({
@@ -69,6 +71,8 @@ const {
 calculatePowerLoss,
 calculateMinimumPower,
 calculateDirectMinimumPower,
+calculateDirectPowerLoss,
+calculateDirectImplementPower,
 getCalculationHistory,
 } = controller;
 
@@ -105,6 +109,7 @@ describe('calculationController', () => {
       mockTerrainFindById,
       mockImplementFindById,
       mockCalculateTotalLoss,
+      mockCalculateTotalLossWithZoz,
       mockCalculateMinimumPower,
       mockLoggerInfo,
       mockClient.query,
@@ -982,6 +987,210 @@ describe('calculationController', () => {
         message: 'Error al recuperar el historial de cálculos',
         error: undefined,
       });
+    });
+  });
+
+  describe('calculateDirectImplementPower()', () => {
+    // rastra_pesada_26: T = 1000 kgf/m (arcilla) → P = 1000 × 3 × 7.5 × 0.00365 = 82.13 HP
+    const directBody = {
+      implement_type: 'rastra_pesada_26',
+      working_width_m: 3,
+      working_speed_kmh: 7.5,
+      soil_type: 'arcilla',
+    };
+
+    test('sin engine_power_hp retorna solo la potencia requerida (sin margen ni clasificación)', async () => {
+      const req = { body: { ...directBody } };
+      const res = createMockRes();
+
+      await callWrappedHandler(calculateDirectImplementPower, req, res);
+
+      expect(mockCalculateTotalLossWithZoz).not.toHaveBeenCalled();
+      expect(res.status).toHaveBeenCalledWith(200);
+      // data con exactly estas claves: sin margin_hp/available_power_hp/classification
+      expect(res.json).toHaveBeenCalledWith(
+        expect.objectContaining({
+          success: true,
+          message: expect.stringContaining('potencia por implemento'),
+          data: {
+            power_required_hp: 82.13,
+            power_kind: 'drawbar',
+            detail: expect.objectContaining({
+              family: 'draft_per_meter',
+              working_speed_kmh: 7.5,
+            }),
+            warnings: [],
+          },
+        }),
+      );
+    });
+
+    test('con engine_power_hp compara contra la potencia disponible y clasifica', async () => {
+      const req = {
+        body: {
+          ...directBody,
+          engine_power_hp: 100,
+          traction_type: '4x2',
+          soil_condition: 'bueno',
+          has_turbo: true,
+        },
+      };
+      const res = createMockRes();
+
+      // Tractor turbo de 100 HP, 2WD, suelo bueno: net = 100 × (1 − 0.215 − 0.25) = 53.5 HP
+      mockCalculateTotalLossWithZoz.mockReturnValue({
+        grossPower: 100,
+        hasTurbo: true,
+        losses: {
+          altitude: 0,
+          temperature: 0,
+          transmission: 46.5,
+          rollingResistance: 0,
+          slope: 0,
+          slippage: 0,
+          total: 46.5,
+        },
+        netPower: 53.5,
+        efficiency: 53.5,
+        zoz: {
+          soil_condition: 'bueno',
+          tractor_type: '2WD',
+          axle_loss: 0.25,
+          fixed_drivetrain_loss: 0.215,
+          combined_drivetrain_loss: 46.5,
+          pto_efficiency: 0.72,
+          pto_power_hp: 72,
+          slippage_absorbed: true,
+        },
+      });
+
+      await callWrappedHandler(calculateDirectImplementPower, req, res);
+
+      expect(mockCalculateTotalLossWithZoz).toHaveBeenCalledWith(
+        expect.objectContaining({
+          enginePower: 100,
+          tractorTractionType: '4x2',
+          soilCondition: 'bueno',
+        }),
+      );
+      expect(res.status).toHaveBeenCalledWith(200);
+      expect(res.json).toHaveBeenCalledWith(
+        expect.objectContaining({
+          success: true,
+          data: expect.objectContaining({
+            power_required_hp: 82.13,
+            available_power_hp: 53.5,
+            margin_hp: -28.63,
+            is_adequate: false,
+            classification: 'NO_ADECUADO',
+          }),
+        }),
+      );
+    });
+  });
+
+  describe('calculateDirectPowerLoss()', () => {
+    const legacyBody = {
+      engine_power_hp: 100,
+      weight_kg: 5000,
+      soil_type: 'loam',
+      altitude_m: 0,
+      ambient_temperature_c: 15,
+      slope_percent: 0,
+      slippage_percent: 10,
+    };
+
+    test('sin soil_condition usa la ruta legacy (calculateTotalLoss) y no incluye zoz', async () => {
+      const req = { body: { ...legacyBody } };
+      const res = createMockRes();
+
+      mockCalculateTotalLoss.mockReturnValue({
+        grossPower: 100,
+        hasTurbo: false,
+        losses: {
+          altitude: 0,
+          temperature: 0,
+          transmission: 13,
+          rollingResistance: 2,
+          slope: 0,
+          slippage: 5.4,
+          total: 20.4,
+        },
+        netPower: 79.6,
+        efficiency: 79.6,
+      });
+
+      await callWrappedHandler(calculateDirectPowerLoss, req, res);
+
+      expect(mockCalculateTotalLoss).toHaveBeenCalledTimes(1);
+      expect(mockCalculateTotalLossWithZoz).not.toHaveBeenCalled();
+      expect(res.status).toHaveBeenCalledWith(200);
+      const payload = res.json.mock.calls[0][0];
+      expect(payload.success).toBe(true);
+      expect(payload.data.net_power_hp).toBe(79.6);
+      expect(payload.data).not.toHaveProperty('zoz');
+    });
+
+    test('con soil_condition usa la corrección Zoz & Grisso e incluye el detalle zoz', async () => {
+      const req = {
+        body: {
+          ...legacyBody,
+          soil_condition: 'bueno',
+          traction_type: '4x2',
+          has_turbo: true,
+        },
+      };
+      const res = createMockRes();
+
+      mockCalculateTotalLossWithZoz.mockReturnValue({
+        grossPower: 100,
+        hasTurbo: true,
+        losses: {
+          altitude: 0,
+          temperature: 0,
+          transmission: 46.5,
+          rollingResistance: 2,
+          slope: 0,
+          slippage: 0,
+          total: 48.5,
+        },
+        netPower: 51.5,
+        efficiency: 51.5,
+        zoz: {
+          soil_condition: 'bueno',
+          tractor_type: '2WD',
+          tractor_type_defaulted: false,
+          warnings: [],
+          axle_loss: 0.25,
+          fixed_drivetrain_loss: 0.215,
+          combined_drivetrain_loss: 46.5,
+          pto_efficiency: 0.72,
+          pto_power_hp: 72,
+          slippage_absorbed: true,
+        },
+      });
+
+      await callWrappedHandler(calculateDirectPowerLoss, req, res);
+
+      expect(mockCalculateTotalLossWithZoz).toHaveBeenCalledWith(
+        expect.objectContaining({
+          enginePower: 100,
+          totalWeightKg: 5000,
+          tractorTractionType: '4x2',
+          soilCondition: 'bueno',
+        }),
+      );
+      expect(mockCalculateTotalLoss).not.toHaveBeenCalled();
+      expect(res.status).toHaveBeenCalledWith(200);
+      const payload = res.json.mock.calls[0][0];
+      expect(payload.success).toBe(true);
+      expect(payload.data).toEqual(
+        expect.objectContaining({
+          net_power_hp: 51.5,
+          losses: expect.objectContaining({ total_loss_hp: 48.5 }),
+          zoz: expect.objectContaining({ tractor_type: '2WD', axle_loss: 0.25 }),
+        }),
+      );
     });
   });
 });

@@ -2,7 +2,8 @@ import { pool } from '../config/db.js';
 import Tractor from '../models/Tractor.js';
 import Terrain from '../models/Terrain.js';
 import Implement from '../models/Implement.js';
-import { calculateTotalLoss } from '../services/powerLossService.js';
+import { calculateTotalLoss, calculateTotalLossWithZoz } from '../services/powerLossService.js';
+import { calculateImplementRequiredPower, IMPLEMENT_TYPES } from '../services/implementPowerService.js';
 import { calculateMinimumPower as calcMinPower } from '../services/minimumPowerService.js';
 import { asyncHandler } from '../middleware/error.middleware.js';
 import logger from '../config/logger.js';
@@ -217,6 +218,10 @@ export const calculateDirectPowerLoss = asyncHandler(async (req, res) => {
     has_turbo,
     working_speed_kmh = 7,
     carried_objects_weight_kg = 0,
+    // Corrección Zoz & Grisso (opcionales): si viene soil_condition se usa la
+    // ruta corregida, que sí considera la condición del suelo y la tracción.
+    soil_condition,
+    traction_type,
   } = req.body;
 
   const user_id = req.user?.user_id || null;
@@ -237,7 +242,17 @@ export const calculateDirectPowerLoss = asyncHandler(async (req, res) => {
     hasTurbo: has_turbo,
   };
 
-  const results = calculateTotalLoss(calculationParams);
+  // Ruta de cálculo: con soil_condition presente se aplica la corrección
+  // Zoz & Grisso (calculatesTotalLossWithZoz); sin ella, el flujo legacy.
+  // Tracción: default '4x2' cuando el frontend no la envía.
+  const useZoz = soil_condition !== undefined && soil_condition !== null;
+  const results = useZoz
+    ? calculateTotalLossWithZoz({
+        ...calculationParams,
+        tractorTractionType: traction_type || '4x2',
+        soilCondition: soil_condition,
+      })
+    : calculateTotalLoss(calculationParams);
 
   // Intentar persistir (non-blocking — el cálculo ya se hizo)
   // Solo persistir si hay usuario autenticado
@@ -315,6 +330,8 @@ export const calculateDirectPowerLoss = asyncHandler(async (req, res) => {
       net_power_hp: results.netPower,
       engine_power_hp: results.grossPower,
       efficiency_percentage: results.efficiency,
+      // Detalle de la corrección Zoz & Grisso (solo cuando soil_condition vino en el body)
+      ...(useZoz ? { zoz: results.zoz } : {}),
     },
   });
 });
@@ -790,6 +807,375 @@ export const calculateMinimumPower = async (req, res) => {
     client.release();
   }
 };
+
+/**
+ * Compara la potencia requerida por el implemento con la potencia disponible del tractor
+ * (ruta corregida Zoz & Grisso) y construye el veredicto de compatibilidad.
+ * Para implementos de TDO/TDF (power_kind 'pto') compara contra la potencia en la TDF;
+ * para implementos de tiro compara contra la potencia neta en la barra de tiro.
+ *
+ * @param {Object} implementResult - Resultado de calculateImplementRequiredPower
+ * @param {Object} lossResult - Resultado de calculateTotalLossWithZoz
+ * @returns {Object} available_power_hp, pto_available_power_hp, margin_hp, is_adequate, classification
+ */
+const buildImplementPowerComparison = (implementResult, lossResult) => {
+  const isPto = implementResult.power_kind === 'pto';
+  const ptoAvailablePowerHp = lossResult.zoz.pto_power_hp;
+  // Potencia disponible: neta en la barra de tiro (drawbar) o en la TDF (pto)
+  const availablePowerHp = isPto ? ptoAvailablePowerHp : lossResult.netPower;
+  const marginHp = parseFloat((availablePowerHp - implementResult.power_required_hp).toFixed(2));
+  const isAdequate = marginHp >= 0;
+
+  // Clasificación con el mismo umbral de sobredimensionamiento que los tractores (>125%)
+  let classification;
+  if (!isAdequate) {
+    classification = 'NO_ADECUADO';
+  } else if (availablePowerHp > implementResult.power_required_hp * SUITABILITY_THRESHOLDS.OPTIMAL_MAX) {
+    classification = 'SOBREPOTENCIADO';
+  } else {
+    classification = 'ADECUADO';
+  }
+
+  return {
+    available_power_hp: availablePowerHp,
+    pto_available_power_hp: ptoAvailablePowerHp,
+    margin_hp: marginHp,
+    is_adequate: isAdequate,
+    classification,
+  };
+};
+
+/**
+ * Determina si el tractor tiene turbo
+ * Prioridad: 1) valor explícito del body, 2) columna has_turbo de la BD, 3) campos legacy
+ * @param {*} bodyHasTurbo - Valor de has_turbo del body (opcional)
+ * @param {Object} tractor - Fila del tractor
+ * @returns {boolean}
+ */
+const resolveHasTurbo = (bodyHasTurbo, tractor) => {
+  const turboValue = bodyHasTurbo !== undefined && bodyHasTurbo !== null
+    ? bodyHasTurbo
+    : (tractor.has_turbo ?? tractor.tiene_turbo ?? tractor.turbo_aspirado ?? tractor.turbo ?? '');
+  const turboStr = String(turboValue).toLowerCase();
+  return turboValue === true || turboStr === 'si' || turboStr === 'sí' || turboStr === 'true';
+};
+
+/**
+ * Controlador para calcular potencia por implemento con datos manuales
+ * (Flujo manual — sin lookups de DB, sin login requerido)
+ *
+ * Calcula la potencia requerida según la Tabla 1 de Chaparro (implementPowerService)
+ * y la disponible con la corrección Zoz & Grisso (calculateTotalLossWithZoz),
+ * comparando en la barra de tiro o en la TDF según el implemento.
+ *
+ * @route POST /api/calculations/direct-implement-power
+ */
+export const calculateDirectImplementPower = asyncHandler(async (req, res) => {
+  const {
+    implement_type,
+    working_width_m,
+    working_depth_cm,
+    working_speed_kmh,
+    n_tines,
+    soil_type,
+    // Datos del tractor (flujo manual)
+    engine_power_hp,
+    traction_type,
+    soil_condition = 'medio',
+    has_turbo = false,
+    altitude_m = 0,
+    ambient_temperature_c = 15,
+    total_weight_kg = 0,
+    slope_percent = 0,
+  } = req.body;
+
+  const user_id = req.user?.user_id || null;
+
+  // 1. Potencia requerida por el implemento (Tabla 1 — Chaparro)
+  const implementResult = calculateImplementRequiredPower({
+    implement_type,
+    working_width_m,
+    working_depth_cm,
+    working_speed_kmh,
+    n_tines,
+    soil_type,
+  });
+
+  // 2. Sin potencia del tractor: se retorna solo la potencia requerida.
+  //    Los datos del tractor (engine_power_hp, traction_type, soil_condition)
+  //    son opcionales — sin ellos no hay comparación ni clasificación.
+  const hasEnginePower = engine_power_hp !== undefined && engine_power_hp !== null;
+
+  if (!hasEnginePower) {
+    logger.info('Direct implement power calculation completed (required power only)', {
+      userId: user_id,
+      implementType: implement_type,
+      powerRequiredHP: implementResult.power_required_hp,
+    });
+
+    return res.status(200).json({
+      success: true,
+      message: 'Cálculo directo de potencia por implemento realizado con éxito',
+      data: {
+        power_required_hp: implementResult.power_required_hp,
+        power_kind: implementResult.power_kind,
+        detail: implementResult.detail,
+        warnings: implementResult.warnings,
+      },
+    });
+  }
+
+  // 3. Potencia disponible con la corrección Zoz & Grisso
+  //    (el patinaje no se pasa: ya está absorbido en la pérdida de eje)
+  const lossResult = calculateTotalLossWithZoz({
+    enginePower: engine_power_hp,
+    altitudeMeters: altitude_m,
+    temperatureC: ambient_temperature_c,
+    totalWeightKg: total_weight_kg,
+    soilCn: getSoilCn(soil_type),
+    slopePercent: slope_percent,
+    speedKmh: working_speed_kmh ?? 0,
+    tractorTractionType: traction_type,
+    soilCondition: soil_condition,
+    hasTurbo: has_turbo,
+  });
+
+  // 4. Comparación requerida vs disponible y clasificación
+  const comparison = buildImplementPowerComparison(implementResult, lossResult);
+
+  logger.info('Direct implement power calculation completed', {
+    userId: user_id,
+    implementType: implement_type,
+    powerRequiredHP: implementResult.power_required_hp,
+    classification: comparison.classification,
+  });
+
+  res.status(200).json({
+    success: true,
+    message: 'Cálculo directo de potencia por implemento realizado con éxito',
+    data: {
+      power_required_hp: implementResult.power_required_hp,
+      power_kind: implementResult.power_kind,
+      available_power_hp: comparison.available_power_hp,
+      pto_available_power_hp: comparison.pto_available_power_hp,
+      margin_hp: comparison.margin_hp,
+      is_adequate: comparison.is_adequate,
+      classification: comparison.classification,
+      detail: implementResult.detail,
+      warnings: implementResult.warnings,
+      losses: lossResult.losses,
+      zoz: lossResult.zoz,
+    },
+  });
+});
+
+/**
+ * Controlador para calcular potencia por implemento con entidades de la BD
+ * (flujo autenticado: terrain_id + tractor_id + implement_id o parámetros explícitos)
+ *
+ * Carga tractor, terreno e implemento (opcional), calcula la potencia requerida con
+ * implementPowerService (Tabla 1 — Chaparro) y la disponible con calculateTotalLossWithZoz
+ * (Zoz & Grisso) usando la tracción del tractor y la condición del suelo del terreno.
+ *
+ * @route POST /api/calculations/implement-power
+ */
+export const calculateImplementPower = asyncHandler(async (req, res) => {
+  const {
+    terrain_id,
+    tractor_id,
+    implement_id,
+    // Parámetros explícitos del implemento (cuando no viene implement_id)
+    implement_type,
+    working_width_m,
+    working_depth_cm,
+    n_tines,
+    working_speed_kmh,
+    soil_condition,
+    carried_objects_weight_kg = 0,
+    has_turbo,
+  } = req.body;
+
+  const user_id = req.user?.userId || req.user?.user_id;
+
+  // 1. Cargas DB en paralelo (igual que calculateMinimumPower)
+  const [tractor, terrain, implement] = await Promise.all([
+    Tractor.findById(tractor_id),
+    Terrain.findById(terrain_id),
+    implement_id ? Implement.findById(implement_id) : Promise.resolve(null),
+  ]);
+
+  // 2. Validación de negocio (existencia de entidades)
+  if (!tractor) {
+    return res.status(404).json({ success: false, message: 'Tractor no encontrado' });
+  }
+  if (!terrain) {
+    return res.status(404).json({ success: false, message: 'Terreno no encontrado' });
+  }
+  if (implement_id && !implement) {
+    return res.status(404).json({ success: false, message: 'Implemento no encontrado' });
+  }
+  if (!implement && !implement_type) {
+    return res.status(400).json({
+      success: false,
+      message: 'Se requiere implement_id o parámetros explícitos del implemento (implement_type, ...)',
+    });
+  }
+
+  // 3. Resolver parámetros efectivos del implemento (BD o explícitos)
+  const effectiveType = implement ? implement.implement_type : implement_type;
+  const effectiveWidth = implement && implement.working_width_m != null
+    ? parseFloat(implement.working_width_m)
+    : working_width_m;
+  const effectiveDepth = implement && implement.working_depth_cm != null
+    ? parseFloat(implement.working_depth_cm)
+    : working_depth_cm;
+  const effectiveTines = implement && implement.n_tines != null
+    ? parseInt(implement.n_tines, 10)
+    : n_tines;
+
+  // 4. Potencia requerida por el implemento (Tabla 1 — Chaparro)
+  let implementResult;
+  try {
+    implementResult = calculateImplementRequiredPower({
+      implement_type: effectiveType,
+      working_width_m: effectiveWidth,
+      working_depth_cm: effectiveDepth,
+      working_speed_kmh: working_speed_kmh,
+      n_tines: effectiveTines,
+      soil_type: terrain.soil_type,
+    });
+  } catch (error) {
+    return res.status(400).json({ success: false, message: error.message });
+  }
+
+  // 5. Potencia disponible con la corrección Zoz & Grisso
+  //    Condición del suelo: columna del terreno, con fallback al body y default 'medio'
+  const effectiveSoilCondition = terrain.soil_condition || soil_condition || 'medio';
+  const hasTurbo = resolveHasTurbo(has_turbo, tractor);
+  const totalWeight = parseFloat(tractor.weight_kg) + parseFloat(carried_objects_weight_kg);
+
+  const lossResult = calculateTotalLossWithZoz({
+    enginePower: parseFloat(tractor.engine_power_hp),
+    altitudeMeters: parseFloat(terrain.altitude_meters),
+    temperatureC: parseFloat(terrain.temperature_celsius ?? 15), // Default 15°C si null
+    totalWeightKg: totalWeight,
+    soilCn: getSoilCn(terrain.soil_type),
+    slopePercent: parseFloat(terrain.slope_percentage),
+    speedKmh: working_speed_kmh != null ? parseFloat(working_speed_kmh) : 0,
+    tractorTractionType: tractor.traction_type,
+    soilCondition: effectiveSoilCondition,
+    hasTurbo,
+  });
+
+  // 6. Comparación requerida vs disponible y clasificación
+  const comparison = buildImplementPowerComparison(implementResult, lossResult);
+
+  // 7. Persistencia (best-effort, mismo patrón que los flujos directos).
+  //    Inserta en 'query' con query_type 'implement_power' + log de auditoría;
+  //    si el esquema no soporta el tipo (CHECK de query_type) se omite sin fallar.
+  let queryId = null;
+  try {
+    const client = await pool.connect();
+    try {
+      await client.query('BEGIN');
+
+      const insertQuerySql = `
+        INSERT INTO query (
+          user_id, terrain_id, tractor_id, implement_id, working_speed_kmh,
+          carried_objects_weight_kg, query_type, status
+        )
+        VALUES ($1, $2, $3, $4, $5, $6, 'implement_power', 'completed')
+        RETURNING query_id
+      `;
+      const queryResult = await client.query(insertQuerySql, [
+        user_id, terrain_id, tractor_id, implement_id ?? null,
+        working_speed_kmh ?? null, carried_objects_weight_kg,
+      ]);
+      queryId = queryResult.rows[0].query_id;
+
+      const historyData = {
+        queryId,
+        powerRequiredHP: implementResult.power_required_hp,
+        powerKind: implementResult.power_kind,
+        classification: comparison.classification,
+        zoz: lossResult.zoz,
+      };
+
+      const insertHistorySql = `
+        INSERT INTO query_history (
+          user_id, query_id, action_type, description, result_json
+        )
+        VALUES ($1, $2, 'implement_power_calculation', $3, $4)
+      `;
+      const description = `Cálculo de potencia por implemento: ${effectiveType} con ${tractor.brand} ${tractor.model} en ${terrain.name}`;
+      await client.query(insertHistorySql, [
+        user_id, queryId, description, JSON.stringify(historyData),
+      ]);
+
+      await client.query('COMMIT');
+    } catch (dbError) {
+      await client.query('ROLLBACK');
+      queryId = null;
+      logger.warn('Implement power persistence failed', { error: dbError.message });
+    } finally {
+      client.release();
+    }
+  } catch (poolError) {
+    logger.warn('Implement power DB connection failed', { error: poolError.message });
+  }
+
+  logger.info('Implement power calculation completed', {
+    queryId,
+    userId: user_id,
+    tractorId: tractor_id,
+    terrainId: terrain_id,
+    implementId: implement_id ?? null,
+    powerRequiredHP: implementResult.power_required_hp,
+    classification: comparison.classification,
+  });
+
+  // 8. Respuesta exitosa
+  res.status(200).json({
+    success: true,
+    message: 'Cálculo de potencia por implemento realizado con éxito',
+    data: {
+      queryId,
+      power_required_hp: implementResult.power_required_hp,
+      power_kind: implementResult.power_kind,
+      available_power_hp: comparison.available_power_hp,
+      pto_available_power_hp: comparison.pto_available_power_hp,
+      margin_hp: comparison.margin_hp,
+      is_adequate: comparison.is_adequate,
+      classification: comparison.classification,
+      detail: implementResult.detail,
+      warnings: implementResult.warnings,
+      losses: lossResult.losses,
+      zoz: lossResult.zoz,
+      implement: {
+        id: implement ? implement.implement_id : null,
+        type: effectiveType,
+        name: implement ? implement.implement_name : 'Implemento ingresado',
+        working_width_m: effectiveWidth ?? null,
+        working_depth_cm: effectiveDepth ?? null,
+        n_tines: effectiveTines ?? null,
+      },
+      terrain: {
+        id: terrain.terrain_id,
+        name: terrain.name,
+        soil_type: terrain.soil_type,
+        soil_condition: effectiveSoilCondition,
+      },
+      tractor: {
+        id: tractor.tractor_id,
+        brand: tractor.brand,
+        model: tractor.model,
+        traction_type: tractor.traction_type,
+        engine_power_hp: parseFloat(tractor.engine_power_hp),
+        hasTurbo,
+      },
+    },
+  });
+});
 
 /**
  * Obtiene el historial de cálculos del usuario autenticado
