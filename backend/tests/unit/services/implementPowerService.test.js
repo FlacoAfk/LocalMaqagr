@@ -301,4 +301,67 @@ describe("implementPowerService", () => {
       ).not.toThrow();
     });
   });
+
+  // ========================================================
+  // 7. COBERTURA COMPLETA DE COEFICIENTES (Tabla 1, 9 × 3)
+  // ========================================================
+  describe("cobertura completa de coeficientes de la Tabla 1 (9 implementos × 3 suelos)", () => {
+    const SOILS = ["arena", "limo", "arcilla"];
+
+    // Matriz de coeficientes puros de la Tabla 1 por implemento: [arena, limo, arcilla].
+    // Para el arado es la fila de 4 km/h: con V = 1 km/h el servicio ajusta (clamp)
+    // al borde inferior del rango 4-10 km/h.
+    const COEFICIENTES = {
+      arado_disco_vertedera: [0.21, 0.56, 0.7],
+      subsolador: [18, 24, 30],
+      arado_cincel: [9, 12, 15],
+      implemento_rotativo: [16, 24, 32],
+      rastrillo_simple_discos: [75, 113, 150],
+      rastrillo_pulidor: [150, 300, 450],
+      rastrillo_californiano: [350, 475, 600],
+      rastra_pesada_26: [800, 900, 1000],
+      rastra_pesada_24: [700, 800, 900],
+    };
+
+    // Con ancho/profundidad/velocidad = 1 (y 1 rejilla), cada fórmula queda
+    // P = coeficiente × factor de la familia (solo 'pto' tiene factor 1,
+    // por lo que ahí la potencia es exactamente el coeficiente):
+    const FACTOR_POR_FAMILIA = {
+      draft_plow: 0.365, // P = ancho × prof × V × CL × 0.365
+      tined: 0.00365, // P = T × rejillas × prof × V × 0.00365
+      pto: 1, // P = factor × ancho (sin velocidad)
+      draft_per_meter: 0.00365, // P = T × ancho × V × 0.00365
+    };
+
+    const round2 = (value) => Math.round(value * 100) / 100;
+
+    test.each(
+      Object.entries(COEFICIENTES).flatMap(([implement_type, coeficientes]) =>
+        SOILS.map((soil_type, i) => [implement_type, soil_type, coeficientes[i]]),
+      ),
+    )("%s en %s → coeficiente puro %s", (implement_type, soil_type, coeficienteEsperado) => {
+      const result = calculateImplementRequiredPower({
+        implement_type,
+        working_width_m: 1,
+        working_depth_cm: 1,
+        working_speed_kmh: 1,
+        n_tines: 1,
+        soil_type,
+      });
+
+      // Coeficiente puro de la celda implemento × suelo (Tabla 1)
+      expect(result.detail.coefficient).toBe(coeficienteEsperado);
+
+      // Con entradas unitarias la potencia aísla el coeficiente:
+      // P = coeficiente × factor de la familia (para 'pto' es exactamente el coeficiente)
+      const factor = FACTOR_POR_FAMILIA[IMPLEMENT_CATALOG[implement_type].family];
+      expect(result.power_required_hp).toBe(round2(coeficienteEsperado * factor));
+
+      if (implement_type === "arado_disco_vertedera") {
+        // V = 1 km/h < 4: se ajusta (clamp) a la fila de 4 km/h con advertencia
+        expect(result.detail.cl_interpolated).toBe(false);
+        expect(result.warnings.some((w) => w.includes("4-10 km/h"))).toBe(true);
+      }
+    });
+  });
 });
