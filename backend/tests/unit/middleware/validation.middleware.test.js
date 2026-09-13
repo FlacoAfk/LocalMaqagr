@@ -247,7 +247,7 @@ describe('validation.middleware', () => {
         'working_width_m debe ser un número positivo',
         'working_depth_cm debe ser un número positivo',
         'weight_kg debe ser un número positivo',
-        'implement_type debe ser uno de: plow, harrow, seeder, sprayer, harvester, cultivator, mower, trailer, other',
+        'implement_type debe ser uno de: plow, harrow, seeder, sprayer, harvester, cultivator, mower, trailer, other, arado_disco_vertedera, subsolador, arado_cincel, implemento_rotativo, rastrillo_simple_discos, rastrillo_pulidor, rastrillo_californiano, rastra_pesada_26, rastra_pesada_24',
         'status debe ser uno de: available, maintenance, inactive, out_of_service',
       ],
     });
@@ -277,5 +277,65 @@ describe('validation.middleware', () => {
     const updateRes = createMockRes();
     validateImplement(updateReq, updateRes, jest.fn());
     expect(updateRes.status).not.toHaveBeenCalled();
+  });
+
+  test('validateImplement acepta los 9 tipos de implemento de la Tabla 1 (Chaparro) en creación', () => {
+    const tabla1Types = [
+      'arado_disco_vertedera',
+      'subsolador',
+      'arado_cincel',
+      'implemento_rotativo',
+      'rastrillo_simple_discos',
+      'rastrillo_pulidor',
+      'rastrillo_californiano',
+      'rastra_pesada_26',
+      'rastra_pesada_24',
+    ];
+
+    tabla1Types.forEach((implement_type) => {
+      const req = {
+        method: 'POST',
+        body: {
+          implement_name: 'Rastra pesada 26 discos',
+          brand: 'Baldan',
+          power_requirement_hp: 85,
+          working_width_m: 3,
+          implement_type,
+        },
+      };
+      const res = createMockRes();
+      const next = jest.fn();
+
+      validateImplement(req, res, next);
+
+      expect(next).toHaveBeenCalled();
+      expect(res.status).not.toHaveBeenCalled();
+    });
+  });
+
+  test('validateImplement rechaza un tipo de implemento desconocido con 400', () => {
+    const req = {
+      method: 'POST',
+      body: {
+        implement_name: 'Implemento raro',
+        brand: 'X',
+        power_requirement_hp: 50,
+        working_width_m: 1,
+        implement_type: 'tipo_inexistente',
+      },
+    };
+    const res = createMockRes();
+    const next = jest.fn();
+
+    validateImplement(req, res, next);
+
+    expect(next).not.toHaveBeenCalled();
+    expect(res.status).toHaveBeenCalledWith(400);
+    expect(res.json).toHaveBeenCalledWith({
+      success: false,
+      errors: [
+        expect.stringContaining('implement_type debe ser uno de:'),
+      ],
+    });
   });
 });

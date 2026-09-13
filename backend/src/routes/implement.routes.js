@@ -328,7 +328,10 @@ router.get("/:id", getImplementById);
  *     summary: Crear nuevo implemento
  *     description: |
  *       Crea un nuevo implemento agrícola en el catálogo. **Solo administradores**.
- *       Tipos válidos: plow, harrow, seeder, sprayer, harvester, cultivator, mower, trailer, other.
+ *       Tipos válidos: plow, harrow, seeder, sprayer, harvester, cultivator, mower, trailer, other,
+ *       más los 9 tipos de la Tabla 1 (Chaparro): arado_disco_vertedera, subsolador, arado_cincel,
+ *       implemento_rotativo, rastrillo_simple_discos, rastrillo_pulidor, rastrillo_californiano,
+ *       rastra_pesada_26, rastra_pesada_24.
  *     tags: [Implements]
  *     security:
  *       - BearerAuth: []

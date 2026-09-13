@@ -300,7 +300,12 @@ export const schemas = {
       weight_kg: { type: 'number', format: 'float', example: 450.0 },
       implement_type: {
         type: 'string',
-        enum: ['plow', 'harrow', 'seeder', 'sprayer', 'harvester', 'cultivator', 'mower', 'trailer', 'other'],
+        enum: [
+          'plow', 'harrow', 'seeder', 'sprayer', 'harvester', 'cultivator', 'mower', 'trailer', 'other',
+          'arado_disco_vertedera', 'subsolador', 'arado_cincel', 'implemento_rotativo',
+          'rastrillo_simple_discos', 'rastrillo_pulidor', 'rastrillo_californiano',
+          'rastra_pesada_26', 'rastra_pesada_24',
+        ],
         example: 'plow',
       },
       status: { type: 'string', enum: ['available', 'maintenance', 'inactive'], example: 'available' },
@@ -321,7 +326,12 @@ export const schemas = {
       weight_kg: { type: 'number', format: 'float', example: 450.0 },
       implement_type: {
         type: 'string',
-        enum: ['plow', 'harrow', 'seeder', 'sprayer', 'harvester', 'cultivator', 'mower', 'trailer', 'other'],
+        enum: [
+          'plow', 'harrow', 'seeder', 'sprayer', 'harvester', 'cultivator', 'mower', 'trailer', 'other',
+          'arado_disco_vertedera', 'subsolador', 'arado_cincel', 'implemento_rotativo',
+          'rastrillo_simple_discos', 'rastrillo_pulidor', 'rastrillo_californiano',
+          'rastra_pesada_26', 'rastra_pesada_24',
+        ],
         example: 'plow',
       },
       status: { type: 'string', enum: ['available', 'maintenance', 'inactive'], default: 'available' },
@@ -341,7 +351,12 @@ export const schemas = {
       weight_kg: { type: 'number', format: 'float', example: 470.0 },
       implement_type: {
         type: 'string',
-        enum: ['plow', 'harrow', 'seeder', 'sprayer', 'harvester', 'cultivator', 'mower', 'trailer', 'other'],
+        enum: [
+          'plow', 'harrow', 'seeder', 'sprayer', 'harvester', 'cultivator', 'mower', 'trailer', 'other',
+          'arado_disco_vertedera', 'subsolador', 'arado_cincel', 'implemento_rotativo',
+          'rastrillo_simple_discos', 'rastrillo_pulidor', 'rastrillo_californiano',
+          'rastra_pesada_26', 'rastra_pesada_24',
+        ],
       },
       status: { type: 'string', enum: ['available', 'maintenance', 'inactive'] },
     },
@@ -560,7 +575,12 @@ export const schemas = {
   // ==========================================
   DirectImplementPowerRequest: {
     type: 'object',
-    required: ['implement_type', 'working_width_m', 'soil_type', 'engine_power_hp'],
+    description: 'Datos del cálculo directo de potencia por implemento (Tabla 1 — Chaparro). '
+      + 'Modos de respuesta según los datos del tractor: '
+      + '(a) sin engine_power_hp → la respuesta incluye solo power_required_hp, power_kind, detail y warnings; '
+      + '(b) con engine_power_hp (opcionalmente traction_type y soil_condition) → agrega available_power_hp, '
+      + 'pto_available_power_hp, margin_hp, is_adequate, classification, losses y zoz.',
+    required: ['implement_type', 'working_width_m', 'soil_type'],
     properties: {
       implement_type: {
         type: 'string',
@@ -610,7 +630,7 @@ export const schemas = {
         type: 'number',
         format: 'float',
         example: 100.0,
-        description: 'Potencia bruta del motor del tractor en HP',
+        description: 'Potencia bruta del motor del tractor en HP. Opcional: sin este campo la respuesta incluye solo la potencia requerida por el implemento (modo a)',
       },
       traction_type: {
         type: 'string',
@@ -663,23 +683,28 @@ export const schemas = {
 
   DirectImplementPowerResponse: {
     type: 'object',
+    description: 'Respuesta del cálculo directo de potencia por implemento, con dos modos: '
+      + '(a) sin datos del tractor (sin engine_power_hp) → data incluye solo power_required_hp, power_kind, detail y warnings; '
+      + '(b) con engine_power_hp (+ traction_type, soil_condition) → agrega available_power_hp, pto_available_power_hp, '
+      + 'margin_hp, is_adequate, classification, losses y zoz.',
     properties: {
       success: { type: 'boolean', example: true },
       message: { type: 'string', example: 'Cálculo directo de potencia por implemento realizado con éxito' },
       data: {
         type: 'object',
+        description: 'Modo (a) sin tractor: solo potencia requerida. Modo (b) con tractor: agrega la comparación contra la potencia disponible y la clasificación.',
         properties: {
           power_required_hp: { type: 'number', format: 'float', example: 82.13, description: 'Potencia requerida por el implemento (Tabla 1)' },
           power_kind: { type: 'string', enum: ['drawbar', 'pto'], example: 'drawbar', description: "Barra de tiro (drawbar) o toma de fuerza (pto)" },
-          available_power_hp: { type: 'number', format: 'float', example: 47.1, description: 'Potencia neta disponible en la barra de tiro (ruta Zoz)' },
-          pto_available_power_hp: { type: 'number', format: 'float', example: 45.22, description: 'Potencia disponible en la TDF (eje × eficiencia Fig. 47)' },
-          margin_hp: { type: 'number', format: 'float', example: -35.03, description: 'Diferencia disponible − requerida (según power_kind)' },
-          is_adequate: { type: 'boolean', example: false, description: 'true si margin_hp >= 0' },
-          classification: { type: 'string', enum: ['ADECUADO', 'NO_ADECUADO', 'SOBREPOTENCIADO'], example: 'NO_ADECUADO', description: 'SOBREPOTENCIADO cuando el excedente supera el 25%' },
+          available_power_hp: { type: 'number', format: 'float', example: 47.1, description: 'Potencia neta disponible en la barra de tiro (ruta Zoz). Solo en modo (b), con datos del tractor' },
+          pto_available_power_hp: { type: 'number', format: 'float', example: 45.22, description: 'Potencia disponible en la TDF (eje × eficiencia Fig. 47). Solo en modo (b), con datos del tractor' },
+          margin_hp: { type: 'number', format: 'float', example: -35.03, description: 'Diferencia disponible − requerida (según power_kind). Solo en modo (b), con datos del tractor' },
+          is_adequate: { type: 'boolean', example: false, description: 'true si margin_hp >= 0. Solo en modo (b), con datos del tractor' },
+          classification: { type: 'string', enum: ['ADECUADO', 'NO_ADECUADO', 'SOBREPOTENCIADO'], example: 'NO_ADECUADO', description: 'SOBREPOTENCIADO cuando el excedente supera el 25%. Solo en modo (b), con datos del tractor' },
           detail: { type: 'object', description: 'Desglose del cálculo: familia, coeficiente, constantes usadas, fuerza de tiro, etc.' },
           warnings: { type: 'array', items: { type: 'string' }, description: 'Advertencias (mapeo de suelo, velocidad fuera de rango 4-10 km/h)' },
-          losses: { type: 'object', description: 'Desglose de pérdidas (altitud, temperatura, transmisión Zoz, rodadura, pendiente)' },
-          zoz: { type: 'object', description: 'Detalle de la corrección Zoz & Grisso: condición de suelo, tipo de tractor, pérdida de eje, eficiencia TDF' },
+          losses: { type: 'object', description: 'Desglose de pérdidas (altitud, temperatura, transmisión Zoz, rodadura, pendiente). Solo en modo (b), con datos del tractor' },
+          zoz: { type: 'object', description: 'Detalle de la corrección Zoz & Grisso: condición de suelo, tipo de tractor, pérdida de eje, eficiencia TDF. Solo en modo (b), con datos del tractor' },
         },
       },
     },

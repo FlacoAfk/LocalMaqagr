@@ -1,6 +1,13 @@
 const ALLOWED_TRACTION_TYPES = ['4x2', '4x4', 'track'];
 const ALLOWED_STATUS = ['available', 'maintenance', 'inactive', 'out_of_service'];
-const ALLOWED_IMPLEMENT_TYPES = ['plow', 'harrow', 'seeder', 'sprayer', 'harvester', 'cultivator', 'mower', 'trailer', 'other'];
+// Tipos genéricos del CRUD + los 9 implementos de la Tabla 1 (Chaparro) usados
+// por el cálculo de potencia por implemento (implementPowerService).
+const ALLOWED_IMPLEMENT_TYPES = [
+  'plow', 'harrow', 'seeder', 'sprayer', 'harvester', 'cultivator', 'mower', 'trailer', 'other',
+  'arado_disco_vertedera', 'subsolador', 'arado_cincel', 'implemento_rotativo',
+  'rastrillo_simple_discos', 'rastrillo_pulidor', 'rastrillo_californiano',
+  'rastra_pesada_26', 'rastra_pesada_24',
+];
 
 import { isValidLocalImagePath } from '../config/storage.js';
 
