@@ -52,6 +52,13 @@ con instancias del sistema). La base de datos `maqagr_local` se
 crea automáticamente en el primer arranque con el schema completo
 + migraciones estructurales.
 
+## Documentación
+
+- **[Formulas de cálculo](docs/formulas.md)** — referencia completa del cálculo
+  de potencia tractor–implemento: modelo legacy, modelo v2.1 secuencial por
+  implemento (Tabla 1 de Chaparro), tablas de coeficientes, casos de
+  validación y supuestos.
+
 ## Instalación
 
 1. Ejecutar `MaqAgr-Setup.exe` (requiere permisos de administrador).
