@@ -1,0 +1,135 @@
+# Builds the offline Windows installer (Inno Setup) and attaches it to the release.
+#
+# The installer packs runtime\node and runtime\pgsql (gitignored, ~242 MB of
+# portable binaries), so those runtimes are downloaded from their official
+# sources before compiling. Pinned versions must match the locally proven
+# runtime/ contents (Node v24.18.1 win-x64, PostgreSQL 17.10 binaries).
+
+name: Build installer
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  NODE_VERSION: v24.18.1
+  # Quoted on purpose: an unquoted 17.10 would parse as a YAML float (17.1).
+  PG_VERSION: "17.10"
+
+jobs:
+  build-installer:
+    name: Build MaqAgr-Setup.exe
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          # Matches "packageManager": "pnpm@11.1.0" in frontend/package.json.
+          version: 11.1.0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Install dependencies
+        # Root postinstall installs backend and frontend dependencies too,
+        # which the .iss packs as backend\* (source + node_modules + SQL).
+        run: pnpm install
+
+      - name: Build frontend
+        # frontend/.env.local is gitignored, so CI must set the same values the
+        # proven local build uses: absolute API URL and remote-API flags enabled
+        # (otherwise dist would bake empty API URL + mock-mode flags).
+        env:
+          VITE_API_URL: http://localhost:4000
+          VITE_ENABLE_REMOTE_TRACTOR_API: "true"
+          VITE_ENABLE_REMOTE_IMPLEMENT_API: "true"
+          VITE_ENABLE_REMOTE_NOTIFICATION_API: "true"
+          VITE_ENABLE_REMOTE_TERRAIN_API: "true"
+          VITE_ENABLE_REMOTE_CALCULATION_API: "true"
+          VITE_ENABLE_REMOTE_RECOMMENDATION_API: "true"
+          VITE_ENABLE_REMOTE_AUTH_API: "true"
+        run: pnpm --dir frontend build
+
+      - name: Download portable runtimes (Node + PostgreSQL)
+        shell: pwsh
+        run: |
+          $ErrorActionPreference = 'Stop'
+          New-Item -ItemType Directory -Force -Path runtime | Out-Null
+
+          # --- Node.js portable (zip top-level: node-vX.Y.Z-win-x64/) ---
+          $nodeZip = "node-$env:NODE_VERSION-win-x64.zip"
+          curl.exe -fL -o $nodeZip "https://nodejs.org/dist/$env:NODE_VERSION/node-$env:NODE_VERSION-win-x64.zip"
+          if ($LASTEXITCODE -ne 0) { throw "Failed to download Node.js $env:NODE_VERSION" }
+          tar -xf $nodeZip
+          if ($LASTEXITCODE -ne 0) { throw 'Failed to extract the Node.js zip' }
+          Move-Item "node-$env:NODE_VERSION-win-x64" runtime/node
+
+          # --- PostgreSQL portable (zip top-level: pgsql/) ---
+          $pgZip = "postgresql-$env:PG_VERSION-1-windows-x64-binaries.zip"
+          curl.exe -fL -o $pgZip "https://get.enterprisedb.com/postgresql/postgresql-$env:PG_VERSION-1-windows-x64-binaries.zip"
+          if ($LASTEXITCODE -ne 0) { throw "Failed to download PostgreSQL $env:PG_VERSION binaries" }
+          tar -xf $pgZip
+          if ($LASTEXITCODE -ne 0) { throw 'Failed to extract the PostgreSQL zip' }
+          Move-Item pgsql runtime/pgsql
+
+          # --- Verify the layout expected by MaqAgr-Installer.iss ---
+          if (-not (Test-Path 'runtime/node/node.exe')) {
+            throw 'runtime/node/node.exe not found after extracting the Node.js zip'
+          }
+          if (-not (Test-Path 'runtime/pgsql/bin/postgres.exe')) {
+            throw 'runtime/pgsql/bin/postgres.exe not found after extracting the PostgreSQL zip'
+          }
+          Write-Host "Runtimes ready: Node $env:NODE_VERSION + PostgreSQL $env:PG_VERSION"
+
+      - name: Install Inno Setup
+        shell: pwsh
+        run: |
+          choco install innosetup -y --no-progress
+          if ($LASTEXITCODE -ne 0) { throw "choco install innosetup failed with exit code $LASTEXITCODE" }
+
+      - name: Compile installer
+        shell: pwsh
+        run: |
+          $ErrorActionPreference = 'Stop'
+          $candidates = @(
+            "${env:ProgramFiles(x86)}\Inno Setup 6\ISCC.exe",
+            "$env:ProgramFiles\Inno Setup 6\ISCC.exe"
+          )
+          $iscc = $candidates | Where-Object { Test-Path $_ } | Select-Object -First 1
+          if (-not $iscc) {
+            throw "ISCC.exe not found. Looked in: $($candidates -join ', ')"
+          }
+          Write-Host "Using ISCC at $iscc"
+          & $iscc 'MaqAgr-Installer.iss'
+          if ($LASTEXITCODE -ne 0) { throw "ISCC failed with exit code $LASTEXITCODE" }
+          if (-not (Test-Path 'build/MaqAgr-Setup.exe')) {
+            throw 'build/MaqAgr-Setup.exe was not produced by ISCC'
+          }
+
+      - name: Upload installer to the release
+        if: github.event_name == 'release'
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release upload "$env:GITHUB_REF_NAME" "build/MaqAgr-Setup.exe" --clobber
+          if ($LASTEXITCODE -ne 0) { throw "gh release upload failed with exit code $LASTEXITCODE" }
+
+      - name: Upload installer artifact (manual runs)
+        if: github.event_name == 'workflow_dispatch'
+        uses: actions/upload-artifact@v4
+        with:
+          name: MaqAgr-Setup
+          path: build/MaqAgr-Setup.exe
+          if-no-files-found: error
