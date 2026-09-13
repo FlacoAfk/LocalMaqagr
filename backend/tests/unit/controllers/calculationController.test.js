@@ -1037,29 +1037,35 @@ describe('calculationController', () => {
       };
       const res = createMockRes();
 
-      // Tractor turbo de 100 HP, 2WD, suelo bueno: net = 100 × (1 − 0.215 − 0.25) = 53.5 HP
+      // Tractor turbo de 100 HP, 2WD, suelo bueno:
+      // net = 100 × 0.785 × (1 − 0.25) = 58.88 HP (cadena secuencial Zoz)
       mockCalculateTotalLossWithZoz.mockReturnValue({
         grossPower: 100,
         hasTurbo: true,
         losses: {
           altitude: 0,
           temperature: 0,
-          transmission: 46.5,
+          transmission: 41.13,
           rollingResistance: 0,
           slope: 0,
           slippage: 0,
-          total: 46.5,
+          total: 41.13,
         },
-        netPower: 53.5,
-        efficiency: 53.5,
+        netPower: 58.88,
+        efficiency: 58.88,
         zoz: {
           soil_condition: 'bueno',
           tractor_type: '2WD',
+          tractor_type_defaulted: false,
+          warnings: [],
+          gross_to_axle_efficiency: 0.785,
           axle_loss: 0.25,
-          fixed_drivetrain_loss: 0.215,
-          combined_drivetrain_loss: 46.5,
+          internal_drivetrain_loss_hp: 21.5,
+          traction_loss_hp: 19.63,
+          combined_drivetrain_loss: 0.41,
           pto_efficiency: 0.72,
-          pto_power_hp: 72,
+          pto_power_hp: 56.52,
+          rolling_included_in_et: true,
           slippage_absorbed: true,
         },
       });
@@ -1079,8 +1085,8 @@ describe('calculationController', () => {
           success: true,
           data: expect.objectContaining({
             power_required_hp: 82.13,
-            available_power_hp: 53.5,
-            margin_hp: -28.63,
+            available_power_hp: 58.88,
+            margin_hp: -23.25,
             is_adequate: false,
             classification: 'NO_ADECUADO',
           }),
@@ -1148,24 +1154,27 @@ describe('calculationController', () => {
         losses: {
           altitude: 0,
           temperature: 0,
-          transmission: 46.5,
-          rollingResistance: 2,
+          transmission: 41.13,
+          rollingResistance: 0, // en la ruta Zoz la rodadura ya está dentro de la E.T.
           slope: 0,
           slippage: 0,
-          total: 48.5,
+          total: 41.13,
         },
-        netPower: 51.5,
-        efficiency: 51.5,
+        netPower: 58.88,
+        efficiency: 58.88,
         zoz: {
           soil_condition: 'bueno',
           tractor_type: '2WD',
           tractor_type_defaulted: false,
           warnings: [],
+          gross_to_axle_efficiency: 0.785,
           axle_loss: 0.25,
-          fixed_drivetrain_loss: 0.215,
-          combined_drivetrain_loss: 46.5,
+          internal_drivetrain_loss_hp: 21.5,
+          traction_loss_hp: 19.63,
+          combined_drivetrain_loss: 0.41,
           pto_efficiency: 0.72,
-          pto_power_hp: 72,
+          pto_power_hp: 56.52,
+          rolling_included_in_et: true,
           slippage_absorbed: true,
         },
       });
@@ -1186,8 +1195,8 @@ describe('calculationController', () => {
       expect(payload.success).toBe(true);
       expect(payload.data).toEqual(
         expect.objectContaining({
-          net_power_hp: 51.5,
-          losses: expect.objectContaining({ total_loss_hp: 48.5 }),
+          net_power_hp: 58.88,
+          losses: expect.objectContaining({ total_loss_hp: 41.13 }),
           zoz: expect.objectContaining({ tractor_type: '2WD', axle_loss: 0.25 }),
         }),
       );

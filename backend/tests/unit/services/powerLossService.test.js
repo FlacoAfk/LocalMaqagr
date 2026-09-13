@@ -296,8 +296,8 @@ describe("powerLossService", () => {
   describe("calculateTotalLossWithZoz", () => {
     const { calculateTotalLossWithZoz } = powerLossService;
 
-    test("80 HP turbo, 2WD, suelo bueno, sin peso ni pendiente → net 42.8 HP", () => {
-      // net = 80 × (1 − 0.215 − 0.25) = 80 − 17.2 − 20 = 42.8
+    test("80 HP turbo, 2WD, suelo bueno, sin peso ni pendiente → net 47.1 HP", () => {
+      // Cadena secuencial: eje = 80 × 0.785 = 62.8 → net = 62.8 × (1 − 0.25) = 47.1
       // (turbo: sin pérdidas atmosféricas; peso 0 y pendiente 0: sin rodadura ni pendiente)
       const result = calculateTotalLossWithZoz({
         enginePower: 80,
@@ -313,19 +313,25 @@ describe("powerLossService", () => {
         hasTurbo: true,
       });
 
-      expect(result.netPower).toBe(42.8);
+      expect(result.netPower).toBe(47.1);
       expect(result.zoz.tractor_type).toBe("2WD");
       expect(result.zoz.soil_condition).toBe("bueno");
       expect(result.zoz.axle_loss).toBe(0.25);
-      expect(result.zoz.fixed_drivetrain_loss).toBe(0.215);
-      expect(result.zoz.combined_drivetrain_loss).toBeCloseTo(80 * 0.465, 2); // 37.2
+      expect(result.zoz.gross_to_axle_efficiency).toBe(0.785);
+      // Desglose de la pérdida de tracción: interna (bruta→eje) + entrega (eje→barra)
+      expect(result.zoz.internal_drivetrain_loss_hp).toBeCloseTo(80 * 0.215, 2); // 17.2
+      expect(result.zoz.traction_loss_hp).toBeCloseTo(80 * 0.785 * 0.25, 2); // 15.7
+      // Fracción de la potencia post-atmosférica: 1 − 0.785 × (1 − 0.25) = 0.41125
+      expect(result.zoz.combined_drivetrain_loss).toBeCloseTo(1 - 0.785 * 0.75, 2);
+      expect(result.losses.transmission).toBeCloseTo(17.2 + 15.7, 2); // 32.9
+      expect(result.losses.rollingResistance).toBe(0); // ya incluida en la E.T. (Fig. 47)
+      expect(result.zoz.rolling_included_in_et).toBe(true);
       expect(result.losses.slippage).toBe(0); // absorbido en la pérdida de eje
       expect(result.zoz.slippage_absorbed).toBe(true);
-      expect(result.losses.transmission).toBeCloseTo(37.2, 2);
     });
 
-    test("potencia en la TDF = bruta × eficiencia Fig. 47", () => {
-      // 80 HP × 0.72 (2WD, suelo bueno) = 57.6 HP tdf
+    test("potencia en la TDF = potencia en el eje × eficiencia Fig. 47", () => {
+      // eje = 80 × 0.785 = 62.8 → TDF = 62.8 × 0.72 (2WD, suelo bueno) = 45.22 HP
       const result = calculateTotalLossWithZoz({
         enginePower: 80,
         altitudeMeters: 0,
@@ -339,7 +345,55 @@ describe("powerLossService", () => {
         hasTurbo: true,
       });
       expect(result.zoz.pto_efficiency).toBe(0.72);
-      expect(result.zoz.pto_power_hp).toBe(57.6);
+      expect(result.zoz.pto_power_hp).toBe(45.22);
+    });
+
+    test("pto_power_hp aplica la etapa bruta→eje antes de la eficiencia TDF", () => {
+      // post-atmosférico = 100 (turbo) → eje = 100 × 0.785 = 78.5
+      // TDF = 78.5 × 0.72 (2WD, suelo bueno) = 56.52 HP
+      const result = calculateTotalLossWithZoz({
+        enginePower: 100,
+        altitudeMeters: 0,
+        temperatureC: 15,
+        totalWeightKg: 0,
+        soilCn: 35,
+        slopePercent: 0,
+        speedKmh: 0,
+        tractorTractionType: "4x2",
+        soilCondition: "bueno",
+        hasTurbo: true,
+      });
+      expect(result.zoz.pto_power_hp).toBe(56.52);
+    });
+
+    test("la rodadura NO se descuenta en la ruta Zoz (ya está dentro de la E.T. de Fig. 47)", () => {
+      // Con 4000 kg (Cn 45 ≈ arcilla) a 7 km/h, la rodadura del flujo legacy
+      // sería ≈ 1.89 HP. En la ruta Zoz no debe descontarse: la eficiencia de
+      // entrega eje→barra ya incluye patinamiento, rodamiento y fricción.
+      const params = {
+        enginePower: 100,
+        altitudeMeters: 0,
+        temperatureC: 15,
+        soilCn: 45,
+        slopePercent: 0,
+        speedKmh: 7,
+        tractorTractionType: "4x2",
+        soilCondition: "bueno",
+        hasTurbo: true,
+      };
+
+      // La rodadura legacy con ese peso NO es cero (el input sí la produciría)...
+      expect(calculateRollingResistanceHP(4000, 45, 0, 7)).toBeGreaterThan(0);
+
+      // ...pero la ruta Zoz la reporta en 0 y no la descuenta del neto
+      const conPeso = calculateTotalLossWithZoz({ ...params, totalWeightKg: 4000 });
+      const sinPeso = calculateTotalLossWithZoz({ ...params, totalWeightKg: 0 });
+
+      expect(conPeso.losses.rollingResistance).toBe(0);
+      expect(conPeso.zoz.rolling_included_in_et).toBe(true);
+      // net = 100 × 0.785 × (1 − 0.25) = 58.88, idéntico con o sin peso
+      expect(conPeso.netPower).toBe(58.88);
+      expect(sinPeso.netPower).toBe(58.88);
     });
 
     test("retorna la misma estructura que calculateTotalLoss más el objeto zoz", () => {

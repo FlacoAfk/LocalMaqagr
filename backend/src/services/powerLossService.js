@@ -395,9 +395,14 @@ export const calculateTotalLoss = ({
 };
 
 // ============================================
-// CORRECCIÓN ZOZ & GRISSO (2003) — Pérdida de entrega de potencia
-// Ruta corregida: reemplaza el % de transmisión fijo + patinaje separado
-// por la pérdida combinada ΔP_T = 0,215 + ET (Fig. 43 y 47 de Zoz & Grisso).
+// CORRECCIÓN ZOZ & GRISSO (2003) — Cadena secuencial de entrega de potencia
+// Ruta corregida: reemplaza el % de transmisión fijo + patinaje separado por
+// la cadena secuencial bruta → eje → barra de tiro:
+//   P_eje = (P_bruta − alt − temp) × η_bruta_eje   (Fig. 43 de Zoz & Grisso)
+//   P_barra = P_eje × (1 − ET) − P_pendiente       (Fig. 47 de Zoz & Grisso)
+// La E.T. de la Fig. 47 ya incluye patinamiento, resistencia a la rodadura y
+// fricción (definición de E.T. de Chaparro): ni el patinaje ni la rodadura se
+// descuentan aparte. La pendiente sí (fuerza geométrica externa).
 // El flujo legacy (calculateTotalLoss) se mantiene intacto.
 // ============================================
 
@@ -410,14 +415,22 @@ const normalizeSoilCondition = (soilCondition) => {
 // CONSTANTES ZOZ & GRISSO (para testing/debugging)
 
 /**
- * Pérdida fija bruta→eje (1 − 0,785, rango 0,77–0,80 de Fig. 43 de Zoz & Grisso).
- * Corrección del profesor 04/09/2026: ΔP_T = 0,215 + ET. Pendiente de confirmación.
+ * Pérdida interna del tren de potencia bruta→eje (1 − 0,785, rango 0,77–0,80
+ * de Fig. 43 de Zoz & Grisso). Se aplica secuencialmente ANTES de la pérdida
+ * de entrega eje→barra (Fig. 47): P_eje = P_post_atmosférica × (1 − 0,215).
  */
 export const ZOZ_FIXED_DRIVETRAIN_LOSS = 0.215;
 
 /**
- * Pérdida de entrega de potencia en el eje (1 − eficiencia de tracción, Fig. 47 de Zoz & Grisso).
- * Incluye el patinaje: por eso la ruta Zoz NO aplica el % de patinaje aparte.
+ * Eficiencia bruta→eje (Fig. 43 de Zoz & Grisso, rango 0,77–0,80). Etapa secuencial previa a la pérdida de entrega eje→barra (Fig. 47).
+ */
+export const ZOZ_GROSS_TO_AXLE_EFFICIENCY = 0.785;
+
+/**
+ * Pérdida de entrega de potencia eje→barra de tiro (1 − eficiencia de tracción,
+ * Fig. 47 de Zoz & Grisso). Incluye patinamiento, resistencia a la rodadura y
+ * fricción (definición de E.T. de Chaparro): por eso la ruta Zoz NO aplica el
+ * % de patinaje ni la rodadura aparte.
  * Filas: 2WD / MFWD / 4WD / BELT. Columnas: condición del suelo [bueno, medio, malo].
  */
 export const ZOZ_AXLE_LOSS = {
@@ -503,9 +516,11 @@ export const getPtoEfficiencyBySoilAndTractorType = (soilCondition = 'medio', tr
 
 /**
  * Calcula todas las pérdidas de potencia con la corrección Zoz & Grisso (2003)
- * Misma forma de salida que calculateTotalLoss, pero:
- * - La pérdida de transmisión se reemplaza por ΔP_T = 0,215 + ET (Fig. 43 y 47)
+ * Misma forma de salida que calculateTotalLoss, pero con la cadena secuencial:
+ * - Bruta→eje: η = 0,785 (Fig. 43). Eje→barra: pérdida de entrega ET (Fig. 47)
  * - El patinaje NO se descuenta aparte: ya está incluido en la pérdida de eje (ET)
+ * - La rodadura NO se descuenta aparte: también está dentro de la E.T. de Fig. 47
+ * - La pendiente sí se descuenta (fuerza geométrica externa a la Fig. 47)
  *
  * @param {Object} params - Parámetros de entrada (mismos que calculateTotalLoss más:)
  * @param {string} params.tractorTractionType - Tipo de tracción del tractor ('4x2', '4x4', 'track', ...)
@@ -518,16 +533,19 @@ export const getPtoEfficiencyBySoilAndTractorType = (soilCondition = 'medio', tr
  * @returns {string} returns.zoz.tractor_type - Tipo de tractor Zoz (2WD|MFWD|4WD|BELT)
  * @returns {boolean} returns.zoz.tractor_type_defaulted - true si la tracción venía ausente/no reconocida
  * @returns {string[]} returns.zoz.warnings - Advertencias (tracción no reconocida asumida como 2WD)
- * @returns {number} returns.zoz.axle_loss - Pérdida de eje ET (fracción)
- * @returns {number} returns.zoz.fixed_drivetrain_loss - Pérdida fija (0.215)
- * @returns {number} returns.zoz.combined_drivetrain_loss - ΔP_T = 0,215 + ET (HP)
+ * @returns {number} returns.zoz.gross_to_axle_efficiency - Eficiencia bruta→eje (0.785, Fig. 43)
+ * @returns {number} returns.zoz.axle_loss - Pérdida de entrega eje→barra ET (fracción, Fig. 47)
+ * @returns {number} returns.zoz.internal_drivetrain_loss_hp - Pérdida bruta→eje (HP)
+ * @returns {number} returns.zoz.traction_loss_hp - Pérdida de entrega eje→barra (HP)
+ * @returns {number} returns.zoz.combined_drivetrain_loss - Pérdida total de tracción como fracción de la potencia post-atmosférica (1 − η_eje × (1 − ET))
  * @returns {number} returns.zoz.pto_efficiency - Eficiencia TDO/TDF (fracción)
  * @returns {number} returns.zoz.pto_power_hp - Potencia disponible en la TDF (HP)
+ * @returns {boolean} returns.zoz.rolling_included_in_et - true: rodadura incluida en ET (no se descuenta aparte)
  * @returns {boolean} returns.zoz.slippage_absorbed - true: patinaje incluido en ET
  *
  * @example
  * // Tractor turbo de 80 HP, 2WD en suelo bueno, sin peso ni pendiente:
- * // net = 80 × (1 − 0,215 − 0,25) = 42.8 HP
+ * // net = 80 × 0,785 × (1 − 0,25) = 47.1 HP
  * calculateTotalLossWithZoz({
  *   enginePower: 80, altitudeMeters: 0, temperatureC: 15,
  *   totalWeightKg: 0, soilCn: 35, slopePercent: 0, speedKmh: 7.5,
@@ -539,7 +557,7 @@ export const calculateTotalLossWithZoz = ({
   altitudeMeters,
   temperatureC,
   totalWeightKg,
-  soilCn,
+  soilCn, // Sin uso en esta ruta: la rodadura ya está incluida en la E.T. de Fig. 47
   slopePercent,
   speedKmh,
   slippagePercent, // Ignorado: el patinaje ya está absorbido en la pérdida de eje de Zoz (ET)
@@ -551,13 +569,18 @@ export const calculateTotalLossWithZoz = ({
   const altitudeLoss = calculateAltitudeLoss(enginePower, altitudeMeters, hasTurbo);
   const temperatureLoss = calculateTemperatureLoss(enginePower, temperatureC, hasTurbo);
 
-  // 2. Pérdida combinada de transmisión (corrección Zoz & Grisso):
-  //    ΔP_T = 0,215 + ET, aplicada sobre la potencia bruta.
-  //    El patinaje no se descuenta aparte: ya está dentro de ET.
+  // Potencia después de pérdidas atmosféricas
+  const powerAfterAtmospheric = enginePower - altitudeLoss - temperatureLoss;
+
+  // 2. Cadena secuencial de entrega de potencia (Zoz & Grisso):
+  //    bruta → eje (Fig. 43, η = 0,785) y eje → barra de tiro (Fig. 47, pérdida ET).
+  //    La Fig. 47 es eje→barra: por eso se aplica sobre la potencia en el eje y
+  //    no sobre la bruta.
   const zozTractorType = mapTractionTypeToZoz(tractorTractionType);
   const condition = normalizeSoilCondition(soilCondition);
   const axleLoss = ZOZ_AXLE_LOSS[zozTractorType][condition];
-  const combinedDrivetrainLoss = enginePower * (ZOZ_FIXED_DRIVETRAIN_LOSS + axleLoss);
+
+  const powerAtAxle = powerAfterAtmospheric * ZOZ_GROSS_TO_AXLE_EFFICIENCY;
 
   // Advertencia cuando la tracción viene ausente o no reconocida: se asumió 2WD
   const normalizedTraction = String(tractorTractionType ?? '').toLowerCase().trim();
@@ -566,33 +589,37 @@ export const calculateTotalLossWithZoz = ({
     ? ['tipo de tracción no reconocido, se asumió 2WD']
     : [];
 
-  // 3. Pérdidas mecánicas del terreno (rodadura y pendiente, igual que el flujo legacy)
-  const rollingResistanceLoss = calculateRollingResistanceHP(
-    totalWeightKg,
-    soilCn,
-    slopePercent,
-    speedKmh
-  );
+  // 3. Pendiente: fuerza geométrica externa, no incluida en la Fig. 47
   const slopeLoss = calculateSlopeLossHP(totalWeightKg, slopePercent, speedKmh);
 
-  // Potencia neta final (sin descuento separado de patinaje)
-  const netPower = Math.max(
-    0,
-    enginePower - altitudeLoss - temperatureLoss - combinedDrivetrainLoss - rollingResistanceLoss - slopeLoss
-  );
+  // Rodadura: ya viene dentro de la eficiencia de entrega eje→barra (E.T.);
+  // se reporta en 0 para no duplicar el descuento en esta ruta.
+  const rollingResistanceLoss = 0;
+
+  // Potencia neta final en la barra de tiro (sin descuento separado de patinaje ni rodadura)
+  const netPower = Math.max(0, powerAtAxle * (1 - axleLoss) - slopeLoss);
+
+  // Desglose de la pérdida de tracción (HP):
+  // - interna bruta→eje (0,215 de la potencia post-atmosférica)
+  // - entrega eje→barra (ET sobre la potencia en el eje)
+  const internalDrivetrainLossHp = powerAfterAtmospheric * ZOZ_FIXED_DRIVETRAIN_LOSS;
+  const tractionLossHp = powerAtAxle * axleLoss;
+  const combinedDrivetrainLossFraction =
+    1 - ZOZ_GROSS_TO_AXLE_EFFICIENCY * (1 - axleLoss);
+  const drivetrainLossHp = internalDrivetrainLossHp + tractionLossHp;
 
   // Total de pérdidas
   const totalLosses =
     altitudeLoss +
     temperatureLoss +
-    combinedDrivetrainLoss +
+    drivetrainLossHp +
     rollingResistanceLoss +
     slopeLoss;
 
   // Eficiencia
   const efficiency = (netPower / enginePower) * 100;
 
-  // Potencia disponible en la TDF según Fig. 47
+  // Potencia disponible en la TDF según Fig. 47 (etapa bruta→eje incluida)
   const ptoEfficiency = ZOZ_PTO_EFFICIENCY[zozTractorType][condition];
 
   return {
@@ -601,7 +628,7 @@ export const calculateTotalLossWithZoz = ({
     losses: {
       altitude: parseFloat(altitudeLoss.toFixed(2)),
       temperature: parseFloat(temperatureLoss.toFixed(2)),
-      transmission: parseFloat(combinedDrivetrainLoss.toFixed(2)),
+      transmission: parseFloat(drivetrainLossHp.toFixed(2)),
       rollingResistance: parseFloat(rollingResistanceLoss.toFixed(2)),
       slope: parseFloat(slopeLoss.toFixed(2)),
       slippage: 0, // Absorbido en la pérdida de eje (Zoz & Grisso)
@@ -614,11 +641,14 @@ export const calculateTotalLossWithZoz = ({
       tractor_type: zozTractorType,
       tractor_type_defaulted: tractionTypeDefaulted,
       warnings: zozWarnings,
+      gross_to_axle_efficiency: ZOZ_GROSS_TO_AXLE_EFFICIENCY,
       axle_loss: axleLoss,
-      fixed_drivetrain_loss: ZOZ_FIXED_DRIVETRAIN_LOSS,
-      combined_drivetrain_loss: parseFloat(combinedDrivetrainLoss.toFixed(2)),
+      internal_drivetrain_loss_hp: parseFloat(internalDrivetrainLossHp.toFixed(2)),
+      traction_loss_hp: parseFloat(tractionLossHp.toFixed(2)),
+      combined_drivetrain_loss: parseFloat(combinedDrivetrainLossFraction.toFixed(2)),
       pto_efficiency: ptoEfficiency,
-      pto_power_hp: parseFloat((enginePower * ptoEfficiency).toFixed(2)),
+      pto_power_hp: parseFloat((powerAtAxle * ptoEfficiency).toFixed(2)),
+      rolling_included_in_et: true,
       slippage_absorbed: true,
     },
   };
