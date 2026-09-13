@@ -221,6 +221,7 @@ export const createImplement = asyncHandler(async (req, res) => {
     working_width_m,
     soil_type,
     working_depth_cm,
+    n_tines,
     weight_kg,
     implement_type,
     status,
@@ -253,6 +254,18 @@ export const createImplement = asyncHandler(async (req, res) => {
     });
   }
 
+  // n_tines: opcional; si viene debe ser un entero entre 1 y 20
+  if (n_tines !== undefined && n_tines !== null) {
+    const tines = Number(n_tines);
+    if (!Number.isInteger(tines) || tines < 1 || tines > 20) {
+      return res.status(400).json({
+        success: false,
+        code: "VALIDATION_ERROR",
+        message: "n_tines debe ser un entero entre 1 y 20",
+      });
+    }
+  }
+
   const payload = {
     implement_name,
     brand,
@@ -269,6 +282,10 @@ export const createImplement = asyncHandler(async (req, res) => {
     working_depth_cm:
       working_depth_cm !== undefined && working_depth_cm !== null
         ? Number(working_depth_cm)
+        : undefined,
+    n_tines:
+      n_tines !== undefined && n_tines !== null
+        ? Number(n_tines)
         : undefined,
     weight_kg:
       weight_kg !== undefined && weight_kg !== null
@@ -315,6 +332,7 @@ export const updateImplement = asyncHandler(async (req, res) => {
     working_width_m,
     soil_type,
     working_depth_cm,
+    n_tines,
     weight_kg,
     implement_type,
     status,
@@ -350,6 +368,18 @@ export const updateImplement = asyncHandler(async (req, res) => {
     });
   }
 
+  // n_tines: opcional; si viene debe ser un entero entre 1 y 20
+  if (n_tines !== undefined && n_tines !== null) {
+    const tines = Number(n_tines);
+    if (!Number.isInteger(tines) || tines < 1 || tines > 20) {
+      return res.status(400).json({
+        success: false,
+        code: "VALIDATION_ERROR",
+        message: "n_tines debe ser un entero entre 1 y 20",
+      });
+    }
+  }
+
   const updateData = {
     implement_name,
     brand,
@@ -366,6 +396,10 @@ export const updateImplement = asyncHandler(async (req, res) => {
     working_depth_cm:
       working_depth_cm !== undefined && working_depth_cm !== null
         ? Number(working_depth_cm)
+        : undefined,
+    n_tines:
+      n_tines !== undefined && n_tines !== null
+        ? Number(n_tines)
         : undefined,
     weight_kg:
       weight_kg !== undefined && weight_kg !== null

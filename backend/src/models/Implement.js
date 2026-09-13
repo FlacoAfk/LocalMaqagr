@@ -25,6 +25,7 @@ class Implement {
       working_width_m,
       soil_type,
       working_depth_cm,
+      n_tines = null,
       weight_kg,
       implement_type,
       status = "available",
@@ -33,9 +34,9 @@ class Implement {
     const query = `
       INSERT INTO implement (
         implement_name, brand, image_url, power_requirement_hp, working_width_m,
-        soil_type, working_depth_cm, weight_kg, implement_type, status
+        soil_type, working_depth_cm, n_tines, weight_kg, implement_type, status
       )
-      VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10)
+      VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11)
       RETURNING *
     `;
     const values = [
@@ -46,6 +47,7 @@ class Implement {
       working_width_m,
       soil_type,
       working_depth_cm,
+      n_tines,
       weight_kg,
       implement_type,
       status,
@@ -66,13 +68,14 @@ class Implement {
       working_width_m,
       soil_type,
       working_depth_cm,
+      n_tines,
       weight_kg,
       implement_type,
       status,
     } = implementData;
 
     const query = `
-      UPDATE implement 
+      UPDATE implement
       SET implement_name = COALESCE($1, implement_name),
           brand = COALESCE($2, brand),
           image_url = CASE WHEN $12 THEN $3 ELSE image_url END,
@@ -82,7 +85,8 @@ class Implement {
           working_depth_cm = COALESCE($7, working_depth_cm),
           weight_kg = COALESCE($8, weight_kg),
           implement_type = COALESCE($9, implement_type),
-          status = COALESCE($10, status)
+          status = COALESCE($10, status),
+          n_tines = COALESCE($13, n_tines)
        WHERE implement_id = $11
       RETURNING *
     `;
@@ -99,6 +103,7 @@ class Implement {
       status,
       id,
       imageUrlProvided,
+      n_tines,
     ];
     const result = await pool.query(query, values);
     return result.rows[0];

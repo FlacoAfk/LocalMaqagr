@@ -28,6 +28,7 @@ class Tractor {
       weight_kg,
       traction_force_kn,
       traction_type,
+      has_turbo = false,
       tire_type,
       tire_width_mm,
       tire_diameter_mm,
@@ -44,11 +45,11 @@ class Tractor {
     const query = `
       INSERT INTO tractor (
         name, brand, model, image_url, model_year, engine_power_hp, price, weight_kg,
-        traction_force_kn, traction_type, tire_type, tire_width_mm,
+        traction_force_kn, traction_type, has_turbo, tire_type, tire_width_mm,
         tire_diameter_mm, tire_pressure_psi, price_usd,
         fuel_consumption_lph, maintenance_cost_per_hour, status
       )
-      VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $17, $18)
+      VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13, $14, $15, $16, $17, $18, $19)
       RETURNING *
     `;
     const values = [
@@ -62,6 +63,7 @@ class Tractor {
       weight_kg,
       traction_force_kn,
       traction_type,
+      has_turbo,
       tire_type,
       tire_width_mm,
       tire_diameter_mm,
@@ -90,6 +92,7 @@ class Tractor {
       weight_kg,
       traction_force_kn,
       traction_type,
+      has_turbo,
       tire_type,
       tire_width_mm,
       tire_diameter_mm,
@@ -104,7 +107,7 @@ class Tractor {
     const normalizedPriceUsd = price_usd ?? price;
 
     const query = `
-      UPDATE tractor 
+      UPDATE tractor
       SET name = COALESCE($1, name),
           brand = COALESCE($2, brand),
           model = COALESCE($3, model),
@@ -122,7 +125,8 @@ class Tractor {
           price_usd = COALESCE($15, price_usd),
           fuel_consumption_lph = COALESCE($16, fuel_consumption_lph),
           maintenance_cost_per_hour = COALESCE($17, maintenance_cost_per_hour),
-          status = COALESCE($18, status)
+          status = COALESCE($18, status),
+          has_turbo = COALESCE($21, has_turbo)
        WHERE tractor_id = $19
       RETURNING *
     `;
@@ -147,6 +151,7 @@ class Tractor {
       status,
       id,
       imageUrlProvided,
+      has_turbo,
     ];
     const result = await pool.query(query, values);
     return result.rows[0];

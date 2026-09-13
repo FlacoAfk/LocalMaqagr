@@ -307,6 +307,64 @@ describe("terrainController", () => {
       );
       expect(mockCreate).not.toHaveBeenCalled();
     });
+
+    test("con soil_condition válido → se envía al modelo", async () => {
+      const req = createMockReq(
+        {},
+        {
+          name: "Lote Zoz",
+          area_hectares: 30,
+          altitude_meters: 800,
+          slope_percentage: 3,
+          soil_type: "Franco",
+          soil_condition: "bueno",
+        },
+      );
+      const res = createMockRes();
+      const next = createMockNext();
+
+      mockCreate.mockResolvedValue({ ...mockTerrain, soil_condition: "bueno" });
+
+      await callHandler(createTerrain, req, res, next);
+
+      expect(mockCreate).toHaveBeenCalledWith(
+        expect.objectContaining({
+          name: "Lote Zoz",
+          soil_condition: "bueno",
+        }),
+      );
+      expect(res.status).toHaveBeenCalledWith(201);
+    });
+
+    test("con soil_condition inválido → 400 y no crea", async () => {
+      const req = createMockReq(
+        {},
+        {
+          name: "Lote Zoz",
+          area_hectares: 30,
+          altitude_meters: 800,
+          slope_percentage: 3,
+          soil_type: "Franco",
+          soil_condition: "duro",
+        },
+      );
+      const res = createMockRes();
+      const next = createMockNext();
+
+      await callHandler(createTerrain, req, res, next);
+
+      expect(res.status).toHaveBeenCalledWith(400);
+      expect(res.json).toHaveBeenCalledWith(
+        expect.objectContaining({
+          success: false,
+          code: "VALIDATION_ERROR",
+          errors: expect.arrayContaining([
+            "soil_condition debe ser uno de: bueno, medio, malo",
+          ]),
+        }),
+      );
+      expect(mockCreate).not.toHaveBeenCalled();
+    });
   });
 
   // ========================================================
@@ -392,6 +450,45 @@ describe("terrainController", () => {
           success: false,
           code: "VALIDATION_ERROR",
           message: "area_hectares debe estar entre 0.1 y 10,000 hectáreas",
+        }),
+      );
+      expect(mockUpdate).not.toHaveBeenCalled();
+    });
+
+    test("con soil_condition válido → se envía al modelo", async () => {
+      const req = createMockReq({ id: "10" }, { soil_condition: "malo" });
+      const res = createMockRes();
+      const next = createMockNext();
+
+      mockFindByIdAndUser.mockResolvedValue(mockTerrain);
+      mockUpdate.mockResolvedValue({ ...mockTerrain, soil_condition: "malo" });
+
+      await callHandler(updateTerrain, req, res, next);
+
+      expect(mockUpdate).toHaveBeenCalledWith(
+        10,
+        expect.objectContaining({ soil_condition: "malo" }),
+      );
+      expect(res.json).toHaveBeenCalledWith(
+        expect.objectContaining({ success: true }),
+      );
+    });
+
+    test("con soil_condition inválido → 400 y no actualiza", async () => {
+      const req = createMockReq({ id: "10" }, { soil_condition: "duro" });
+      const res = createMockRes();
+      const next = createMockNext();
+
+      mockFindByIdAndUser.mockResolvedValue(mockTerrain);
+
+      await callHandler(updateTerrain, req, res, next);
+
+      expect(res.status).toHaveBeenCalledWith(400);
+      expect(res.json).toHaveBeenCalledWith(
+        expect.objectContaining({
+          success: false,
+          code: "VALIDATION_ERROR",
+          message: "soil_condition debe ser uno de: bueno, medio, malo",
         }),
       );
       expect(mockUpdate).not.toHaveBeenCalled();

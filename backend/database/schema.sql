@@ -57,6 +57,7 @@ CREATE TABLE terrain (
     altitude_meters DOUBLE PRECISION NOT NULL,
     slope_percentage DOUBLE PRECISION NOT NULL,
     soil_type VARCHAR(100) NOT NULL,
+    soil_condition VARCHAR(10) CHECK (soil_condition IN ('bueno', 'medio', 'malo')),
     temperature_celsius DOUBLE PRECISION,
     registration_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     status VARCHAR(20) DEFAULT 'active'
@@ -77,6 +78,7 @@ CREATE TABLE tractor (
     weight_kg DOUBLE PRECISION NOT NULL,
     traction_force_kn DOUBLE PRECISION NOT NULL,
     traction_type VARCHAR(50) NOT NULL CHECK (traction_type IN ('4x2', '4x4', 'track')),
+    has_turbo BOOLEAN NOT NULL DEFAULT FALSE,
     tire_type VARCHAR(100),
     tire_width_mm DOUBLE PRECISION,
     tire_diameter_mm DOUBLE PRECISION,
@@ -102,6 +104,7 @@ CREATE TABLE implement (
     working_width_m DOUBLE PRECISION NOT NULL,
     soil_type VARCHAR(100),
     working_depth_cm DOUBLE PRECISION,
+    n_tines INTEGER,
     weight_kg DOUBLE PRECISION,
     implement_type VARCHAR(50) NOT NULL,
     status VARCHAR(20) DEFAULT 'available',
@@ -123,7 +126,7 @@ CREATE TABLE query (
     pto_distance_m DOUBLE PRECISION,
     carried_objects_weight_kg DOUBLE PRECISION DEFAULT 0,
     working_speed_kmh DOUBLE PRECISION,
-    query_type VARCHAR(50) NOT NULL CHECK (query_type IN ('power_loss', 'minimum_power', 'recommendation')),
+    query_type VARCHAR(50) NOT NULL CHECK (query_type IN ('power_loss', 'direct_power_loss', 'minimum_power', 'direct_minimum_power', 'recommendation', 'implement_power')),
     query_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     status VARCHAR(20) DEFAULT 'completed'
 );

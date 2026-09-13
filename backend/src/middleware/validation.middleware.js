@@ -132,6 +132,7 @@ export const validateImplement = (req, res, next) => {
     power_requirement_hp,
     working_width_m,
     working_depth_cm,
+    n_tines,
     weight_kg,
     implement_type,
     status,
@@ -195,6 +196,14 @@ export const validateImplement = (req, res, next) => {
       }
     }
   });
+
+  // Validar n_tines (opcional): entero entre 1 y 20 o null
+  if (n_tines !== undefined && n_tines !== null && `${n_tines}`.trim() !== '') {
+    const tines = Number(n_tines);
+    if (!Number.isInteger(tines) || tines < 1 || tines > 20) {
+      errors.push('n_tines debe ser un entero entre 1 y 20');
+    }
+  }
 
   // Validar enum implement_type
   if (implement_type !== undefined && implement_type !== null && `${implement_type}`.trim() !== '') {

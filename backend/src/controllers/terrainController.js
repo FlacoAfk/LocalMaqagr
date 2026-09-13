@@ -90,6 +90,7 @@ export const createTerrain = asyncHandler(async (req, res) => {
     altitude_meters,
     slope_percentage,
     soil_type,
+    soil_condition,
     temperature_celsius,
     status,
   } = req.body || {};
@@ -110,6 +111,14 @@ export const createTerrain = asyncHandler(async (req, res) => {
   if (!soil_type || typeof soil_type !== "string" || !soil_type.trim()) {
     errors.push("soil_type es requerido");
   }
+  // soil_condition: opcional; si viene debe ser bueno/medio/malo (Fig. 47 Zoz & Grisso)
+  if (
+    soil_condition !== undefined &&
+    soil_condition !== null &&
+    !["bueno", "medio", "malo"].includes(soil_condition)
+  ) {
+    errors.push("soil_condition debe ser uno de: bueno, medio, malo");
+  }
 
   if (errors.length > 0) {
     return res.status(400).json({
@@ -127,6 +136,7 @@ export const createTerrain = asyncHandler(async (req, res) => {
     altitude_meters: Number(altitude_meters),
     slope_percentage: Number(slope_percentage),
     soil_type,
+    soil_condition: soil_condition ?? null,
     temperature_celsius:
       temperature_celsius !== undefined && temperature_celsius !== null
         ? Number(temperature_celsius)
@@ -176,6 +186,7 @@ export const updateTerrain = asyncHandler(async (req, res) => {
     altitude_meters,
     slope_percentage,
     soil_type,
+    soil_condition,
     temperature_celsius,
     status,
   } = req.body || {};
@@ -189,6 +200,19 @@ export const updateTerrain = asyncHandler(async (req, res) => {
       success: false,
       code: "VALIDATION_ERROR",
       message: "area_hectares debe estar entre 0.1 y 10,000 hectáreas",
+    });
+  }
+
+  // soil_condition: opcional; si viene debe ser bueno/medio/malo (Fig. 47 Zoz & Grisso)
+  if (
+    soil_condition !== undefined &&
+    soil_condition !== null &&
+    !["bueno", "medio", "malo"].includes(soil_condition)
+  ) {
+    return res.status(400).json({
+      success: false,
+      code: "VALIDATION_ERROR",
+      message: "soil_condition debe ser uno de: bueno, medio, malo",
     });
   }
 
@@ -207,6 +231,10 @@ export const updateTerrain = asyncHandler(async (req, res) => {
         ? Number(slope_percentage)
         : undefined,
     soil_type,
+    soil_condition:
+      soil_condition !== undefined && soil_condition !== null
+        ? soil_condition
+        : undefined,
     temperature_celsius:
       temperature_celsius !== undefined && temperature_celsius !== null
         ? Number(temperature_celsius)

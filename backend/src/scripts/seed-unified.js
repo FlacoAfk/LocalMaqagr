@@ -201,9 +201,10 @@ const DataGenerator = {
       soil_type: 'Franco',
       implement_type: 'seeder',
       working_depth_cm: 8,
+      n_tines: null,
       weight_kg: 350,
     }),
-    
+
     // Implemento mediano para pruebas de eficiencia óptima
     medium: (suffix = '') => ({
       implement_name: `Cultivador Mediano${suffix}`,
@@ -213,9 +214,10 @@ const DataGenerator = {
       soil_type: 'Franco',
       implement_type: 'cultivator',
       working_depth_cm: 25,
+      n_tines: null,
       weight_kg: 450,
     }),
-    
+
     // Implemento pesado para pruebas de potencia insuficiente
     heavy: (suffix = '') => ({
       implement_name: `Subsolador Pesado${suffix}`,
@@ -225,9 +227,10 @@ const DataGenerator = {
       soil_type: 'Arcilla',
       implement_type: 'subsoiler',
       working_depth_cm: 45,
+      n_tines: null,
       weight_kg: 850,
     }),
-    
+
     // Arado de discos
     plow: (suffix = '') => ({
       implement_name: `Arado Discos${suffix}`,
@@ -237,9 +240,10 @@ const DataGenerator = {
       soil_type: 'Franco',
       implement_type: 'plow',
       working_depth_cm: 30,
+      n_tines: null,
       weight_kg: 600,
     }),
-    
+
     // Rastra
     harrow: (suffix = '') => ({
       implement_name: `Rastra 20 Discos${suffix}`,
@@ -249,7 +253,131 @@ const DataGenerator = {
       soil_type: 'Franco',
       implement_type: 'harrow',
       working_depth_cm: 15,
+      n_tines: null,
       weight_kg: 500,
+    }),
+
+    // ============================================
+    // IMPLEMENTOS TABLA 1 (Chaparro) — 9 tipos del catálogo implementPowerService
+    // power_requirement_hp = cálculo con coeficiente medio (limo) en condiciones de
+    // referencia (ancho/profundidad/velocidad indicadas en cada comentario).
+    // ============================================
+
+    // CL limo a 6 km/h = 0.63 → 1.2 × 25 × 6 × 0.63 × 0.365 = 41.39 HP
+    arado_disco_vertedera: (suffix = '') => ({
+      implement_name: `Arado de Discos y Vertedera${suffix}`,
+      brand: 'Baldan',
+      power_requirement_hp: 41.39,
+      working_width_m: 1.2,
+      soil_type: 'Limo',
+      implement_type: 'arado_disco_vertedera',
+      working_depth_cm: 25,
+      n_tines: null,
+      weight_kg: 600,
+    }),
+
+    // T limo = 24 → 24 × 5 × 40 × 5 × 0.00365 = 87.60 HP
+    subsolador: (suffix = '') => ({
+      implement_name: `Subsolador${suffix}`,
+      brand: 'Tatu',
+      power_requirement_hp: 87.6,
+      working_width_m: 2.5,
+      soil_type: 'Limo',
+      implement_type: 'subsolador',
+      working_depth_cm: 40,
+      n_tines: 5,
+      weight_kg: 850,
+    }),
+
+    // T limo = 12 → 12 × 7 × 25 × 6 × 0.00365 = 45.99 HP
+    arado_cincel: (suffix = '') => ({
+      implement_name: `Arado Cincel${suffix}`,
+      brand: 'Baldan',
+      power_requirement_hp: 45.99,
+      working_width_m: 2.0,
+      soil_type: 'Limo',
+      implement_type: 'arado_cincel',
+      working_depth_cm: 25,
+      n_tines: 7,
+      weight_kg: 700,
+    }),
+
+    // Factor limo = 24 → 24 × 1.5 = 36.00 HP tdf
+    implemento_rotativo: (suffix = '') => ({
+      implement_name: `Implemento Rotativo${suffix}`,
+      brand: 'Baldan',
+      power_requirement_hp: 36,
+      working_width_m: 1.5,
+      soil_type: 'Limo',
+      implement_type: 'implemento_rotativo',
+      working_depth_cm: 10,
+      n_tines: null,
+      weight_kg: 450,
+    }),
+
+    // T limo = 113 → 113 × 2.0 × 7.5 × 0.00365 = 6.19 HP
+    rastrillo_simple_discos: (suffix = '') => ({
+      implement_name: `Rastrillo Simple de Discos${suffix}`,
+      brand: 'Tatu',
+      power_requirement_hp: 6.19,
+      working_width_m: 2.0,
+      soil_type: 'Limo',
+      implement_type: 'rastrillo_simple_discos',
+      working_depth_cm: 12,
+      n_tines: null,
+      weight_kg: 500,
+    }),
+
+    // T limo = 300 → 300 × 2.2 × 7.5 × 0.00365 = 18.07 HP
+    rastrillo_pulidor: (suffix = '') => ({
+      implement_name: `Rastrillo Pulidor${suffix}`,
+      brand: 'Tatu',
+      power_requirement_hp: 18.07,
+      working_width_m: 2.2,
+      soil_type: 'Limo',
+      implement_type: 'rastrillo_pulidor',
+      working_depth_cm: 12,
+      n_tines: null,
+      weight_kg: 650,
+    }),
+
+    // T limo = 475 → 475 × 2.4 × 7.5 × 0.00365 = 31.21 HP
+    rastrillo_californiano: (suffix = '') => ({
+      implement_name: `Rastrillo Californiano${suffix}`,
+      brand: 'Tatu',
+      power_requirement_hp: 31.21,
+      working_width_m: 2.4,
+      soil_type: 'Limo',
+      implement_type: 'rastrillo_californiano',
+      working_depth_cm: 12,
+      n_tines: null,
+      weight_kg: 800,
+    }),
+
+    // T limo = 900 → 900 × 3.0 × 7.5 × 0.00365 = 73.91 HP
+    rastra_pesada_26: (suffix = '') => ({
+      implement_name: `Rastra Pesada 26 Discos${suffix}`,
+      brand: 'Tatu',
+      power_requirement_hp: 73.91,
+      working_width_m: 3.0,
+      soil_type: 'Limo',
+      implement_type: 'rastra_pesada_26',
+      working_depth_cm: 12,
+      n_tines: null,
+      weight_kg: 1200,
+    }),
+
+    // T limo = 800 → 800 × 2.8 × 7.5 × 0.00365 = 61.32 HP
+    rastra_pesada_24: (suffix = '') => ({
+      implement_name: `Rastra Pesada 24 Discos${suffix}`,
+      brand: 'Tatu',
+      power_requirement_hp: 61.32,
+      working_width_m: 2.8,
+      soil_type: 'Limo',
+      implement_type: 'rastra_pesada_24',
+      working_depth_cm: 12,
+      n_tines: null,
+      weight_kg: 1100,
     }),
   },
   
@@ -320,6 +448,26 @@ const Scenarios = {
     tractors: ['medium2WD', 'medium4WD', 'large4WD', 'track'],
     terrains: ['steep', 'rolling'],
     implements: ['medium', 'heavy'],
+  },
+
+  /**
+   * Escenario tabla1: catálogo completo de los 9 implementos de la Tabla 1 (Chaparro)
+   * para el cálculo de potencia por implemento con corrección Zoz & Grisso
+   */
+  tabla1: {
+    tractors: ['medium2WD', 'medium4WD', 'large4WD', 'track'],
+    terrains: ['flat', 'sandy', 'clay'],
+    implements: [
+      'arado_disco_vertedera',
+      'subsolador',
+      'arado_cincel',
+      'implemento_rotativo',
+      'rastrillo_simple_discos',
+      'rastrillo_pulidor',
+      'rastrillo_californiano',
+      'rastra_pesada_26',
+      'rastra_pesada_24',
+    ],
   },
 };
 
@@ -519,11 +667,11 @@ async function insertImplements(client, implementTypes) {
     }
     
     const result = await client.query(`
-      INSERT INTO implement (implement_name, brand, power_requirement_hp, working_width_m, soil_type, implement_type, working_depth_cm, weight_kg, status)
-      VALUES ($1, $2, $3, $4, $5, $6, $7, $8, 'available')
+      INSERT INTO implement (implement_name, brand, power_requirement_hp, working_width_m, soil_type, implement_type, working_depth_cm, n_tines, weight_kg, status)
+      VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, 'available')
       RETURNING implement_id
     `, [data.implement_name, data.brand, data.power_requirement_hp, data.working_width_m,
-        data.soil_type, data.implement_type, data.working_depth_cm, data.weight_kg]);
+        data.soil_type, data.implement_type, data.working_depth_cm, data.n_tines ?? null, data.weight_kg]);
     
     console.log(`${ASCII.ok} Implemento creado: ${data.implement_name} (${data.power_requirement_hp} HP) → ID ${result.rows[0].implement_id}`);
     inserted.push({ id: result.rows[0].implement_id, ...data });
@@ -654,6 +802,7 @@ Escenarios disponibles:
   full       Todos los tipos de datos disponibles
   efficiency Pruebas de sobredimensionamiento
   montana    Pruebas de Regla de Oro (pendientes > 15%)
+  tabla1     Catálogo de los 9 implementos de la Tabla 1 (Chaparro)
 
 Ejemplos:
   node src/scripts/seed-unified.js --clean --scenario=qa

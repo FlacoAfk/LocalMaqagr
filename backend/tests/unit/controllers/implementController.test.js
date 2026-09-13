@@ -338,6 +338,45 @@ describe("implementController", () => {
         }),
       );
     });
+
+    test("con n_tines válido → se envía al modelo como número", async () => {
+      const req = createMockReq(
+        {},
+        { ...mockImplement, n_tines: "5" },
+      );
+      const res = createMockRes();
+      const next = createMockNext();
+
+      mockCreate.mockResolvedValue({ ...mockImplement, n_tines: 5 });
+
+      await callHandler(createImplement, req, res, next);
+
+      expect(mockCreate).toHaveBeenCalledWith(
+        expect.objectContaining({ n_tines: 5 }),
+      );
+      expect(res.status).toHaveBeenCalledWith(201);
+    });
+
+    test("con n_tines inválido → 400 y no crea", async () => {
+      const req = createMockReq(
+        {},
+        { ...mockImplement, n_tines: 25 },
+      );
+      const res = createMockRes();
+      const next = createMockNext();
+
+      await callHandler(createImplement, req, res, next);
+
+      expect(res.status).toHaveBeenCalledWith(400);
+      expect(res.json).toHaveBeenCalledWith(
+        expect.objectContaining({
+          success: false,
+          code: "VALIDATION_ERROR",
+          message: "n_tines debe ser un entero entre 1 y 20",
+        }),
+      );
+      expect(mockCreate).not.toHaveBeenCalled();
+    });
   });
 
   // ========================================================
@@ -437,6 +476,51 @@ describe("implementController", () => {
           weight_kg: undefined,
         }),
       );
+    });
+
+    test("con n_tines válido → se envía al modelo como número", async () => {
+      const req = createMockReq(
+        { id: "1" },
+        { n_tines: "3" },
+      );
+      const res = createMockRes();
+      const next = createMockNext();
+
+      mockFindById.mockResolvedValue(mockImplement);
+      mockUpdate.mockResolvedValue({ ...mockImplement, n_tines: 3 });
+
+      await callHandler(updateImplement, req, res, next);
+
+      expect(mockUpdate).toHaveBeenCalledWith(
+        1,
+        expect.objectContaining({ n_tines: 3 }),
+      );
+      expect(res.json).toHaveBeenCalledWith(
+        expect.objectContaining({ success: true }),
+      );
+    });
+
+    test("con n_tines inválido → 400 y no actualiza", async () => {
+      const req = createMockReq(
+        { id: "1" },
+        { n_tines: 0 },
+      );
+      const res = createMockRes();
+      const next = createMockNext();
+
+      mockFindById.mockResolvedValue(mockImplement);
+
+      await callHandler(updateImplement, req, res, next);
+
+      expect(res.status).toHaveBeenCalledWith(400);
+      expect(res.json).toHaveBeenCalledWith(
+        expect.objectContaining({
+          success: false,
+          code: "VALIDATION_ERROR",
+          message: "n_tines debe ser un entero entre 1 y 20",
+        }),
+      );
+      expect(mockUpdate).not.toHaveBeenCalled();
     });
 
     test("al reemplazar la imagen llama a deleteFromGCS con la URL completa existing.image_url (no con la ruta relativa)", async () => {

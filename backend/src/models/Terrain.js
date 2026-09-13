@@ -45,6 +45,7 @@ class Terrain {
       altitude_meters,
       slope_percentage,
       soil_type,
+      soil_condition = null,
       temperature_celsius,
       status = "active",
     } = terrainData;
@@ -53,9 +54,9 @@ class Terrain {
       const query = `
         INSERT INTO terrain (
           user_id, name, area_hectares, altitude_meters, slope_percentage, soil_type,
-          temperature_celsius, status
+          soil_condition, temperature_celsius, status
         )
-        VALUES ($1, $2, $3, $4, $5, $6, $7, $8)
+        VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)
         RETURNING *
       `;
       const values = [
@@ -65,13 +66,14 @@ class Terrain {
         altitude_meters,
         slope_percentage,
         soil_type,
+        soil_condition,
         temperature_celsius,
         status,
       ];
       const result = await pool.query(query, values);
       return result.rows[0];
     } catch (error) {
-      // Compatibility fallback for legacy schemas without area_hectares.
+      // Compatibility fallback for legacy schemas without area_hectares/soil_condition.
       if (error.code !== "42703") {
         throw error;
       }
@@ -106,19 +108,21 @@ class Terrain {
       altitude_meters,
       slope_percentage,
       soil_type,
+      soil_condition,
       temperature_celsius,
       status,
     } = terrainData;
 
     const query = `
-      UPDATE terrain 
+      UPDATE terrain
       SET name = COALESCE($1, name),
           area_hectares = COALESCE($2, area_hectares),
           altitude_meters = COALESCE($3, altitude_meters),
           slope_percentage = COALESCE($4, slope_percentage),
           soil_type = COALESCE($5, soil_type),
           temperature_celsius = COALESCE($6, temperature_celsius),
-          status = COALESCE($7, status)
+          status = COALESCE($7, status),
+          soil_condition = COALESCE($9, soil_condition)
       WHERE terrain_id = $8
       RETURNING *
     `;
@@ -131,6 +135,7 @@ class Terrain {
       temperature_celsius,
       status,
       id,
+      soil_condition,
     ];
     const result = await pool.query(query, values);
     return result.rows[0];
