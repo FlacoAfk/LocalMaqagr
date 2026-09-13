@@ -474,6 +474,10 @@ const validateImplementParamsByFamily = (body, { requireSoilType }, errors) => {
  *   endpoint retorna solo la potencia requerida por el implemento)
  * - traction_type: opcional, string no vacío (mapeo Zoz acepta aliases)
  * - soil_condition: opcional, 'bueno' | 'medio' | 'malo' (default 'medio')
+ * - altitude_m: opcional, número >= 0 (default 0) — mismas reglas que validateDirectPowerLossRequest
+ * - ambient_temperature_c: opcional, número (default 15)
+ * - total_weight_kg: opcional, número >= 0 (default 0, sin pérdida por rodadura)
+ * - slope_percent: opcional, número >= 0 (default 0)
  *
  * @param {import('express').Request} req
  * @param {import('express').Response} res
@@ -485,6 +489,10 @@ export const validateDirectImplementPowerRequest = (req, res, next) => {
     engine_power_hp,
     soil_condition,
     traction_type,
+    altitude_m,
+    ambient_temperature_c,
+    total_weight_kg,
+    slope_percent,
   } = req.body;
 
   const errors = [];
@@ -508,6 +516,28 @@ export const validateDirectImplementPowerRequest = (req, res, next) => {
   // traction_type: opcional; si viene, debe ser string no vacío (el mapeo Zoz acepta aliases)
   if (traction_type !== undefined && traction_type !== null && !isNonEmptyString(String(traction_type))) {
     errors.push('traction_type debe ser un string no vacío');
+  }
+
+  // Datos del tractor opcionales: mismas reglas de rango que
+  // validateDirectPowerLossRequest, aplicadas solo cuando el campo está presente.
+  // (evita que NaN/negativos se propaguen al cálculo y distorsionen la comparación)
+  if (altitude_m !== undefined && altitude_m !== null && !isNonNegativeNumber(altitude_m)) {
+    errors.push('altitude_m debe ser un número mayor o igual a 0');
+  }
+
+  if (ambient_temperature_c !== undefined && ambient_temperature_c !== null) {
+    if (typeof Number(ambient_temperature_c) !== 'number' || isNaN(Number(ambient_temperature_c))) {
+      errors.push('ambient_temperature_c debe ser un número');
+    }
+  }
+
+  // total_weight_kg: >= 0 (el endpoint usa 0 por defecto = sin pérdida por rodadura)
+  if (total_weight_kg !== undefined && total_weight_kg !== null && !isNonNegativeNumber(total_weight_kg)) {
+    errors.push('total_weight_kg debe ser un número mayor o igual a 0');
+  }
+
+  if (slope_percent !== undefined && slope_percent !== null && !isNonNegativeNumber(slope_percent)) {
+    errors.push('slope_percent debe ser un número mayor o igual a 0');
   }
 
   if (errors.length > 0) {

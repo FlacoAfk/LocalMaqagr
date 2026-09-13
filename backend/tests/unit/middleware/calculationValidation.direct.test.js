@@ -407,3 +407,81 @@ describe('validateDirectImplementPowerRequest (tractor opcional)', () => {
     );
   });
 });
+
+describe('validateDirectImplementPowerRequest (numéricos del tractor opcionales, issue #5)', () => {
+  let mockReq, mockRes, mockNext;
+
+  beforeEach(() => {
+    mockReq = { body: {} };
+    mockRes = {
+      status: jest.fn().mockReturnThis(),
+      json: jest.fn().mockReturnThis(),
+    };
+    mockNext = jest.fn();
+  });
+
+  const implementBody = () => ({
+    implement_type: 'rastra_pesada_26',
+    working_width_m: 3,
+    working_speed_kmh: 7.5,
+    soil_type: 'arcilla',
+  });
+
+  test('sin datos numéricos del tractor pasa y aplica los defaults', () => {
+    mockReq.body = implementBody();
+
+    validateDirectImplementPowerRequest(mockReq, mockRes, mockNext);
+
+    expect(mockNext).toHaveBeenCalled();
+    expect(mockRes.status).not.toHaveBeenCalled();
+    expect(mockReq.body.altitude_m).toBe(0);
+    expect(mockReq.body.ambient_temperature_c).toBe(15);
+    expect(mockReq.body.total_weight_kg).toBe(0);
+    expect(mockReq.body.slope_percent).toBe(0);
+  });
+
+  const invalidCases = [
+    { field: 'altitude_m', value: 'abc', error: 'altitude_m debe ser un número mayor o igual a 0' },
+    { field: 'altitude_m', value: -10, error: 'altitude_m debe ser un número mayor o igual a 0' },
+    { field: 'ambient_temperature_c', value: 'caluroso', error: 'ambient_temperature_c debe ser un número' },
+    { field: 'total_weight_kg', value: 'pesado', error: 'total_weight_kg debe ser un número mayor o igual a 0' },
+    { field: 'total_weight_kg', value: -100, error: 'total_weight_kg debe ser un número mayor o igual a 0' },
+    { field: 'slope_percent', value: -1, error: 'slope_percent debe ser un número mayor o igual a 0' },
+  ];
+
+  invalidCases.forEach(({ field, value, error }) => {
+    test(`rechaza ${field} = ${JSON.stringify(value)} con 400`, () => {
+      mockReq.body = { ...implementBody(), [field]: value };
+
+      validateDirectImplementPowerRequest(mockReq, mockRes, mockNext);
+
+      expect(mockNext).not.toHaveBeenCalled();
+      expect(mockRes.status).toHaveBeenCalledWith(400);
+      expect(mockRes.json).toHaveBeenCalledWith(
+        expect.objectContaining({
+          success: false,
+          errors: expect.arrayContaining([error]),
+        }),
+      );
+    });
+  });
+
+  test('acepta valores válidos en el límite (0 en altitude/peso/pendiente)', () => {
+    mockReq.body = {
+      ...implementBody(),
+      altitude_m: 0,
+      ambient_temperature_c: -5,
+      total_weight_kg: 0,
+      slope_percent: 0,
+    };
+
+    validateDirectImplementPowerRequest(mockReq, mockRes, mockNext);
+
+    expect(mockNext).toHaveBeenCalled();
+    expect(mockRes.status).not.toHaveBeenCalled();
+    expect(mockReq.body.altitude_m).toBe(0);
+    expect(mockReq.body.ambient_temperature_c).toBe(-5);
+    expect(mockReq.body.total_weight_kg).toBe(0);
+    expect(mockReq.body.slope_percent).toBe(0);
+  });
+});
