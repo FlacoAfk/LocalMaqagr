@@ -69,6 +69,7 @@ export default function DatosTractor() {
     diametroLlanta: "",
     presionInflado: "",
     soil_type: "",
+    soil_condition: "medio", // Condición del suelo: bueno | medio | malo
     tamanoLlanta: "", // Simple Mode
 
     // Paso 3: Clima
@@ -249,6 +250,7 @@ export default function DatosTractor() {
       diametroLlanta: "",
       presionInflado: "",
       soil_type: "",
+      soil_condition: "medio",
       tamanoLlanta: "",
       altitudeM: "",
       ambientTemperatureC: "",
@@ -322,9 +324,13 @@ export default function DatosTractor() {
       pmaxTdpHp: toNumberOrNull(formData.pmax_tdp),
       weightKg: toNumberOrNull(formData.peso),
       hasTurbo,
+      // El formulario no tiene selector de tracción: se envía 4x2 (2WD) por defecto.
+      // El backend la usa solo cuando el body incluye soil_condition (ruta Zoz & Grisso).
+      tractionType: "4x2",
       tireDiameterIn: diametroLlanta,
       tirePressurePsi: presionInflado,
       soilType: formData.soil_type || 'loam',
+      soilCondition: formData.soil_condition || 'medio',
       altitudeM,
       ambientTemperatureC,
       slopePercent,
@@ -592,6 +598,26 @@ export default function DatosTractor() {
             {errors.soil_type}
           </p>
         )}
+      </div>
+
+      <div>
+        <label htmlFor="soil_condition" className="text-sm font-medium text-foreground block mb-1.5">
+          Condición del suelo
+        </label>
+        <select
+          id="soil_condition"
+          name="soil_condition"
+          value={formData.soil_condition}
+          onChange={handleChange}
+          className={getInputClass('soil_condition', errors)}
+        >
+          <option value="bueno">Bueno — Suelo firme y en buen estado</option>
+          <option value="medio">Medio — Condición intermedia</option>
+          <option value="malo">Malo — Suelo suelto, húmedo o degradado</option>
+        </select>
+        <p className="mt-1.5 text-xs text-muted-foreground">
+          Ajusta el cálculo de pérdidas según el estado actual del terreno.
+        </p>
       </div>
     </div>
   );

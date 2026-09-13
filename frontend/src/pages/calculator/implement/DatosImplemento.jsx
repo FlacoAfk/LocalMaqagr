@@ -27,7 +27,7 @@ import {
   POTENCIA_REQUERIDA_PRESETS, POTENCIA_REQUERIDA_UNKNOWN_DEFAULT,
 } from "../../../lib/fieldPresets";
 import { getImplements } from "../../../services/implementApi";
-import { calculateDirectMinimumPower } from "../../../services/calculationApi";
+import { calculateDirectMinimumPower, calculateDirectImplementPower } from "../../../services/calculationApi";
 import {
   Dialog,
   DialogContent,
@@ -76,6 +76,31 @@ const TIPOS_SUELO = [
   },
 ];
 
+// Tipos específicos con cálculo de potencia por implemento (endpoint directo).
+const TIPOS_IMPLEMENTO_DIRECTO = [
+  { value: "arado_disco_vertedera",   label: "Arado de disco y vertedera" },
+  { value: "subsolador",              label: "Subsolador" },
+  { value: "arado_cincel",            label: "Arado cincel" },
+  { value: "implemento_rotativo",     label: "Implemento rotativo (10 cm)" },
+  { value: "rastrillo_simple_discos", label: "Rastrillo simple de discos" },
+  { value: "rastrillo_pulidor",       label: "Rastrillo pulidor" },
+  { value: "rastrillo_californiano",  label: "Rastrillo californiano" },
+  { value: "rastra_pesada_26",        label: 'Rastra pesada de discos 26"' },
+  { value: "rastra_pesada_24",        label: 'Rastra pesada de discos 24"' },
+];
+
+const TIPOS_DIRECTOS_SET = new Set(TIPOS_IMPLEMENTO_DIRECTO.map((tipo) => tipo.value));
+
+// Familias que requieren profundidad de trabajo (fórmulas de kgf/cm y arado).
+const TIPOS_CON_PROFUNDIDAD = new Set(["arado_disco_vertedera", "subsolador", "arado_cincel"]);
+
+// Familias que requieren número de puntas.
+const TIPOS_CON_PUNTAS = new Set(["subsolador", "arado_cincel"]);
+
+// Mapea el suelo del formulario al valor esperado por la API (arena/limo/arcilla).
+// Franco y "Todo tipo de suelo" se aproximan a limo (suelo intermedio).
+const SOIL_TO_DIRECT = { sandy: "arena", silt: "limo", clay: "arcilla", loam: "limo", All: "limo" };
+
 export default function DatosImplemento() {
   const navigate = useNavigate();
   const [step, setStep] = useState(1);
@@ -102,10 +127,16 @@ export default function DatosImplemento() {
     weight_kg: "",
     working_speed_kmh: "",
     power_requirement_hp: "",
+    n_tines: "",
 
     // Paso 2
     soil_type: "",
   });
+
+  // Tipos específicos: la potencia se calcula desde la geometría de la labor
+  const isDirectType = TIPOS_DIRECTOS_SET.has(formData.implement_type);
+  const isRotativo = formData.implement_type === "implemento_rotativo";
+  const isDrawbar = isDirectType && !isRotativo;
 
   // Carga del catálogo
   useEffect(() => {
@@ -194,21 +225,43 @@ export default function DatosImplemento() {
     }
 
     const depth = Number(formData.working_depth_cm);
-    if (!formData.working_depth_cm || !Number.isFinite(depth) || depth <= 0) {
+    const depthRequired = !isDirectType || TIPOS_CON_PROFUNDIDAD.has(formData.implement_type);
+    if (depthRequired && (!formData.working_depth_cm || !Number.isFinite(depth) || depth <= 0)) {
       err.working_depth_cm = "Ingresa una profundidad de trabajo válida (mayor a 0).";
       missing.push("Profundidad de trabajo");
     }
 
-    const weight = Number(formData.weight_kg);
-    if (!formData.weight_kg || !Number.isFinite(weight) || weight <= 0) {
-      err.weight_kg = "Ingresa el peso del implemento como un número válido.";
-      missing.push("Peso del implemento");
+    // El peso y la potencia base solo aplican a los tipos generales; en los
+    // tipos específicos la potencia se calcula desde la geometría de la labor.
+    if (!isDirectType) {
+      const weight = Number(formData.weight_kg);
+      if (!formData.weight_kg || !Number.isFinite(weight) || weight <= 0) {
+        err.weight_kg = "Ingresa el peso del implemento como un número válido.";
+        missing.push("Peso del implemento");
+      }
+
+      const power = Number(formData.power_requirement_hp);
+      if (!formData.power_requirement_hp || !Number.isFinite(power) || power <= 0) {
+        err.power_requirement_hp = "Ingresa el requerimiento de potencia base (HP) como un número válido.";
+        missing.push("Potencia requerida base");
+      }
     }
 
-    const power = Number(formData.power_requirement_hp);
-    if (!formData.power_requirement_hp || !Number.isFinite(power) || power <= 0) {
-      err.power_requirement_hp = "Ingresa el requerimiento de potencia base (HP) como un número válido.";
-      missing.push("Potencia requerida base");
+    // Velocidad requerida para las familias de arrastre (todas menos el rotativo).
+    if (isDrawbar) {
+      const speed = Number(formData.working_speed_kmh);
+      if (!formData.working_speed_kmh || !Number.isFinite(speed) || speed <= 0) {
+        err.working_speed_kmh = "Ingresa una velocidad de trabajo válida (mayor a 0).";
+        missing.push("Velocidad de trabajo");
+      }
+    }
+
+    if (TIPOS_CON_PUNTAS.has(formData.implement_type)) {
+      const tines = Number(formData.n_tines);
+      if (!formData.n_tines || !Number.isFinite(tines) || tines <= 0) {
+        err.n_tines = "Ingresa el número de puntas como un número válido.";
+        missing.push("Número de puntas");
+      }
     }
 
     if (missing.length > 0) {
@@ -263,6 +316,7 @@ export default function DatosImplemento() {
       weight_kg: "",
       working_speed_kmh: "",
       power_requirement_hp: "",
+      n_tines: "",
       soil_type: "",
     });
     setSelectedImplementId(null);
@@ -275,32 +329,58 @@ export default function DatosImplemento() {
 
   const ejecutarCalculo = async () => {
     setLoading(true);
-    sileo.info("Calculando potencia mínima requerida...");
 
     try {
-      const workingDepthM = Math.min(
-        (formData.working_depth_cm || 25) / 100,
-        1.0
-      );
+      if (isDirectType) {
+        // Tipos específicos: cálculo directo de potencia por implemento
+        sileo.info("Calculando potencia requerida del implemento...");
 
-      const powerReqHp = isSimpleMode
-        ? (selectedPowerReq || null)
-        : (Number(formData.power_requirement_hp) || null);
+        const payload = {
+          implementType: formData.implement_type,
+          workingWidthM: Number(formData.working_width_m),
+          soilType: SOIL_TO_DIRECT[formData.soil_type] || "limo",
+        };
 
-      if (!powerReqHp || powerReqHp <= 0) {
-        throw new Error("Por favor ingresa o selecciona un requerimiento de potencia base válido.");
+        if (TIPOS_CON_PROFUNDIDAD.has(formData.implement_type)) {
+          payload.workingDepthCm = Number(formData.working_depth_cm);
+        }
+        if (isDrawbar) {
+          payload.workingSpeedKmh = Number(formData.working_speed_kmh);
+        }
+        if (TIPOS_CON_PUNTAS.has(formData.implement_type)) {
+          payload.nTines = Number(formData.n_tines);
+        }
+
+        const res = await calculateDirectImplementPower(payload);
+        setResult(res.data);
+        sileo.success("Potencia requerida calculada correctamente.");
+      } else {
+        sileo.info("Calculando potencia mínima requerida...");
+
+        const workingDepthM = Math.min(
+          (formData.working_depth_cm || 25) / 100,
+          1.0
+        );
+
+        const powerReqHp = isSimpleMode
+          ? (selectedPowerReq || null)
+          : (Number(formData.power_requirement_hp) || null);
+
+        if (!powerReqHp || powerReqHp <= 0) {
+          throw new Error("Por favor ingresa o selecciona un requerimiento de potencia base válido.");
+        }
+
+        const payload = {
+          powerRequirementHp: powerReqHp,
+          workingDepthM,
+          soilType: formData.soil_type || "loam",
+          slopePercentage: 0,
+        };
+
+        const res = await calculateDirectMinimumPower(payload);
+        setResult(res.data);
+        sileo.success("Compatibilidad calculada correctamente.");
       }
-
-      const payload = {
-        powerRequirementHp: powerReqHp,
-        workingDepthM,
-        soilType: formData.soil_type || "loam",
-        slopePercentage: 0,
-      };
-
-      const res = await calculateDirectMinimumPower(payload);
-      setResult(res.data);
-      sileo.success("Compatibilidad calculada correctamente.");
     } catch (err) {
       console.error("Error en ejecutarCalculo (TengoMaquinaria):", err);
       sileo.error(err.message || "Error de conexión. Verifica tu estado de red o el servidor.");
@@ -367,11 +447,20 @@ export default function DatosImplemento() {
               aria-describedby={errors.implement_type ? 'implement-error' : undefined}
             >
               <option value="">Seleccione una opción</option>
-              {TIPOS_IMPLEMENTO.map((tipo) => (
-                <option key={tipo.value} value={tipo.value}>
-                  {tipo.label}
-                </option>
-              ))}
+              <optgroup label="Tipos generales">
+                {TIPOS_IMPLEMENTO.map((tipo) => (
+                  <option key={tipo.value} value={tipo.value}>
+                    {tipo.label}
+                  </option>
+                ))}
+              </optgroup>
+              <optgroup label="Tipos específicos (cálculo detallado)">
+                {TIPOS_IMPLEMENTO_DIRECTO.map((tipo) => (
+                  <option key={tipo.value} value={tipo.value}>
+                    {tipo.label}
+                  </option>
+                ))}
+              </optgroup>
             </select>
             {errors.implement_type && (
               <p id="implement-error" className="mt-1.5 text-xs text-destructive" role="alert">
@@ -380,22 +469,24 @@ export default function DatosImplemento() {
             )}
           </div>
 
-          <FieldWithPresets
-            id="power_requirement_hp"
-            name="power_requirement_hp"
-            label="Potencia requerida base (HP)"
-            tooltip="Potencia mínima recomendada por el fabricante del implemento en condiciones estándar (en HP)."
-            value={formData.power_requirement_hp}
-            onChange={handleChange}
-            error={errors.power_requirement_hp}
-            placeholder="HP"
-            step="1"
-            min="0"
-            presets={POTENCIA_REQUERIDA_PRESETS}
-            unknownDefault={POTENCIA_REQUERIDA_UNKNOWN_DEFAULT}
-            unknownLabel="~70 HP (estándar)"
-            inputClass={getInputClass('power_requirement_hp', errors)}
-          />
+          {!isDirectType && (
+            <FieldWithPresets
+              id="power_requirement_hp"
+              name="power_requirement_hp"
+              label="Potencia requerida base (HP)"
+              tooltip="Potencia mínima recomendada por el fabricante del implemento en condiciones estándar (en HP)."
+              value={formData.power_requirement_hp}
+              onChange={handleChange}
+              error={errors.power_requirement_hp}
+              placeholder="HP"
+              step="1"
+              min="0"
+              presets={POTENCIA_REQUERIDA_PRESETS}
+              unknownDefault={POTENCIA_REQUERIDA_UNKNOWN_DEFAULT}
+              unknownLabel="~70 HP (estándar)"
+              inputClass={getInputClass('power_requirement_hp', errors)}
+            />
+          )}
 
           <FieldWithPresets
             id="working_width_m"
@@ -414,60 +505,88 @@ export default function DatosImplemento() {
             inputClass={getInputClass('working_width_m', errors)}
           />
 
-          <FieldWithPresets
-            id="working_depth_cm"
-            name="working_depth_cm"
-            label="Profundidad de trabajo"
-            tooltip="Profundidad máxima a la que opera el implemento en el suelo, en centímetros (cm)."
-            value={formData.working_depth_cm}
-            onChange={handleChange}
-            error={errors.working_depth_cm}
-            placeholder="cm"
-            step="1"
-            min="0"
-            presets={PROFUNDIDAD_PRESETS}
-            unknownDefault={PROFUNDIDAD_UNKNOWN_DEFAULT}
-            unknownLabel="~20 cm (labor media)"
-            inputClass={getInputClass('working_depth_cm', errors)}
-          />
+          {isRotativo ? (
+            <div className="p-4 border border-border/60 rounded bg-secondary/15 text-sm text-muted-foreground leading-relaxed">
+              El implemento rotativo trabaja a una profundidad fija de <strong className="text-foreground">10 cm</strong>. La potencia requerida se entrega en la <strong className="text-foreground">toma de fuerza (TDF)</strong>.
+            </div>
+          ) : (
+            (!isDirectType || TIPOS_CON_PROFUNDIDAD.has(formData.implement_type)) && (
+              <FieldWithPresets
+                id="working_depth_cm"
+                name="working_depth_cm"
+                label="Profundidad de trabajo"
+                tooltip="Profundidad máxima a la que opera el implemento en el suelo, en centímetros (cm)."
+                value={formData.working_depth_cm}
+                onChange={handleChange}
+                error={errors.working_depth_cm}
+                placeholder="cm"
+                step="1"
+                min="0"
+                presets={PROFUNDIDAD_PRESETS}
+                unknownDefault={PROFUNDIDAD_UNKNOWN_DEFAULT}
+                unknownLabel="~20 cm (labor media)"
+                inputClass={getInputClass('working_depth_cm', errors)}
+              />
+            )
+          )}
 
-          <FieldWithPresets
-            id="weight_kg"
-            name="weight_kg"
-            label="Peso del implemento"
-            tooltip="Peso total del implemento en kilogramos (kg)."
-            value={formData.weight_kg}
-            onChange={handleChange}
-            error={errors.weight_kg}
-            placeholder="kg"
-            step="1"
-            min="0"
-            presets={PESO_IMPLEMENTO_PRESETS}
-            unknownDefault={PESO_IMPLEMENTO_UNKNOWN_DEFAULT}
-            unknownLabel="~700 kg (mediano)"
-            inputClass={getInputClass('weight_kg', errors)}
-          />
+          {TIPOS_CON_PUNTAS.has(formData.implement_type) && (
+            <FieldWithPresets
+              id="n_tines"
+              name="n_tines"
+              label="Número de puntas (N)"
+              tooltip="Cantidad de puntas o cinceles que integran el implemento."
+              value={formData.n_tines}
+              onChange={handleChange}
+              error={errors.n_tines}
+              placeholder="N"
+              step="1"
+              min="1"
+              inputClass={getInputClass('n_tines', errors)}
+            />
+          )}
 
-          <FieldWithPresets
-            id="working_speed_kmh"
-            name="working_speed_kmh"
-            label="Velocidad de trabajo"
-            tooltip="Velocidad estimada de la labor en km/h."
-            value={formData.working_speed_kmh}
-            onChange={handleChange}
-            error={errors.working_speed_kmh}
-            placeholder="km/h (opcional)"
-            step="0.1"
-            min="0"
-            presets={[
-              { label: '5 km/h', value: '5', hint: 'Labor lenta / profunda' },
-              { label: '7 km/h', value: '7', hint: 'Labor típica' },
-              { label: '10 km/h', value: '10', hint: 'Labor rápida / superficial' },
-            ]}
-            unknownDefault="7"
-            unknownLabel="sistema usará 7 km/h"
-            inputClass={getInputClass('working_speed_kmh', errors)}
-          />
+          {!isDirectType && (
+            <FieldWithPresets
+              id="weight_kg"
+              name="weight_kg"
+              label="Peso del implemento"
+              tooltip="Peso total del implemento en kilogramos (kg)."
+              value={formData.weight_kg}
+              onChange={handleChange}
+              error={errors.weight_kg}
+              placeholder="kg"
+              step="1"
+              min="0"
+              presets={PESO_IMPLEMENTO_PRESETS}
+              unknownDefault={PESO_IMPLEMENTO_UNKNOWN_DEFAULT}
+              unknownLabel="~700 kg (mediano)"
+              inputClass={getInputClass('weight_kg', errors)}
+            />
+          )}
+
+          {(!isDirectType || isDrawbar) && (
+            <FieldWithPresets
+              id="working_speed_kmh"
+              name="working_speed_kmh"
+              label="Velocidad de trabajo"
+              tooltip="Velocidad estimada de la labor en km/h."
+              value={formData.working_speed_kmh}
+              onChange={handleChange}
+              error={errors.working_speed_kmh}
+              placeholder="km/h (opcional)"
+              step="0.1"
+              min="0"
+              presets={[
+                { label: '5 km/h', value: '5', hint: 'Labor lenta / profunda' },
+                { label: '7 km/h', value: '7', hint: 'Labor típica' },
+                { label: '10 km/h', value: '10', hint: 'Labor rápida / superficial' },
+              ]}
+              unknownDefault="7"
+              unknownLabel="sistema usará 7 km/h"
+              inputClass={getInputClass('working_speed_kmh', errors)}
+            />
+          )}
         </div>
       )}
     </div>
@@ -516,6 +635,12 @@ export default function DatosImplemento() {
         ))}
       </div>
 
+      {isDirectType && (
+        <p className="text-xs text-muted-foreground leading-relaxed">
+          El cálculo específico por implemento evalúa el suelo como arena, limo o arcilla; las opciones Franco y "Todo tipo de suelo" se aproximan a limo.
+        </p>
+      )}
+
       {errors.soil_type && (
         <p className="mt-1.5 text-xs text-destructive" role="alert">
           {errors.soil_type}
@@ -540,6 +665,128 @@ export default function DatosImplemento() {
     }
 
 
+
+    // Resultado del endpoint directo por tipo de implemento
+    if (result && result.powerKind) {
+      const unitContext = result.powerKind === "pto"
+        ? "HP en toma de fuerza (TDF)"
+        : "HP en barra de tiro";
+      const warnings = Array.isArray(result.warnings) ? result.warnings : [];
+      const directLabel =
+        TIPOS_IMPLEMENTO_DIRECTO.find((tipo) => tipo.value === formData.implement_type)?.label ||
+        "Implemento";
+      const soilLabelDirect =
+        { arena: "Arena", limo: "Limo", arcilla: "Arcilla" }[SOIL_TO_DIRECT[formData.soil_type]] || "—";
+
+      return (
+        <div className="space-y-8 animate-fadeIn">
+          <div className="text-center mb-6 border-b border-border/40 pb-4">
+            <h2 className="text-2xl font-bold tracking-tight text-foreground">Resultados del Análisis</h2>
+            <p className="text-sm text-muted-foreground">
+              Potencia requerida calculada para el implemento y el suelo seleccionado.
+            </p>
+          </div>
+
+          <div className="flex flex-col md:flex-row gap-6">
+            {/* Resumen implemento */}
+            <div className="w-full md:w-1/2 bg-secondary/15 rounded border border-border/50 p-6 flex flex-col justify-between">
+              <div>
+                <h3 className="text-lg font-bold text-foreground mb-3">{directLabel}</h3>
+                <p className="text-sm text-muted-foreground leading-relaxed mb-4">
+                  Potencia calculada a partir de las características de la labor, la velocidad de trabajo y el tipo de suelo seleccionado.
+                </p>
+              </div>
+              <div className="text-xs text-muted-foreground/80 space-y-1.5 border-t border-border/30 pt-3">
+                <p>Ancho de trabajo: <strong className="text-foreground">{formData.working_width_m} m</strong></p>
+                {TIPOS_CON_PROFUNDIDAD.has(formData.implement_type) && (
+                  <p>Profundidad de trabajo: <strong className="text-foreground">{formData.working_depth_cm} cm</strong></p>
+                )}
+                {isRotativo && (
+                  <p>Profundidad de trabajo: <strong className="text-foreground">10 cm (fija)</strong></p>
+                )}
+                {isDrawbar && (
+                  <p>Velocidad de trabajo: <strong className="text-foreground">{formData.working_speed_kmh} km/h</strong></p>
+                )}
+                {TIPOS_CON_PUNTAS.has(formData.implement_type) && (
+                  <p>Número de puntas: <strong className="text-foreground">{formData.n_tines}</strong></p>
+                )}
+                <p>Suelo evaluado: <strong className="text-foreground">{soilLabelDirect}</strong></p>
+              </div>
+            </div>
+
+            {/* Potencia requerida */}
+            <div className="w-full md:w-1/2 bg-secondary/30 rounded border border-border/60 p-6 flex flex-col justify-center items-center text-center">
+              <p className="text-sm text-muted-foreground mb-1">Potencia requerida para operar</p>
+              <div className="text-3xl font-extrabold text-[#909d00] my-2">
+                {result.powerRequiredHp} HP
+              </div>
+              <p className="text-xs font-semibold text-foreground mt-1">
+                {unitContext}
+              </p>
+              <p className="text-xs text-muted-foreground/80 mt-1">
+                Se recomienda usar un tractor que cumpla o supere este rango.
+              </p>
+            </div>
+          </div>
+
+          {/* Comparación con el tractor: se muestra solo cuando el endpoint
+              retorna los datos del tractor (disponible, margen y clasificación). */}
+          {result.availablePowerHp !== undefined && result.classification !== undefined && (
+            <div className="p-6 border border-border/60 rounded bg-card">
+              <h3 className="text-sm font-semibold text-foreground mb-4">Comparación con el tractor</h3>
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+                <div className="border border-border/60 rounded p-4 text-center">
+                  <p className="text-xs text-muted-foreground mb-1.5">Potencia disponible</p>
+                  <p className="text-lg font-bold text-foreground">{result.availablePowerHp} HP</p>
+                </div>
+                <div className="border border-border/60 rounded p-4 text-center">
+                  <p className="text-xs text-muted-foreground mb-1.5">Margen de potencia</p>
+                  <p className={`text-lg font-bold ${result.marginHp >= 0 ? "text-primary" : "text-destructive"}`}>
+                    {result.marginHp > 0 ? `+${result.marginHp}` : `${result.marginHp ?? 0}`} HP
+                  </p>
+                </div>
+                <div className="border border-border/60 rounded p-4 text-center">
+                  <p className="text-xs text-muted-foreground mb-1.5">Clasificación</p>
+                  <p
+                    className={`text-sm font-bold px-2 py-0.5 rounded inline-block ${
+                      result.classification === "ADECUADO"
+                        ? "bg-green-100 text-green-700"
+                        : result.classification === "SOBREPOTENCIADO"
+                          ? "bg-yellow-100 text-yellow-700"
+                          : "bg-red-100 text-red-700"
+                    }`}
+                  >
+                    {result.classification}
+                  </p>
+                </div>
+              </div>
+            </div>
+          )}
+
+          {warnings.length > 0 && (
+            <div className="p-4 border border-border/60 bg-secondary/15 rounded">
+              <h3 className="text-sm font-semibold text-foreground mb-2">Advertencias</h3>
+              <ul className="list-disc list-inside space-y-1 text-sm text-muted-foreground">
+                {warnings.map((warning, index) => (
+                  <li key={index}>{warning}</li>
+                ))}
+              </ul>
+            </div>
+          )}
+
+          <div className="flex justify-center pt-4">
+            <button
+              type="button"
+              onClick={resetWizard}
+              className="flex items-center gap-2 px-6 py-2.5 bg-primary text-primary-foreground text-sm font-semibold rounded hover:bg-primary/90 transition-colors shadow-sm"
+            >
+              <RotateCcw className="w-4 h-4" />
+              Nueva Búsqueda
+            </button>
+          </div>
+        </div>
+      );
+    }
 
     const { implement, powerRequirement, recommendations } = result || {};
     const hp =
