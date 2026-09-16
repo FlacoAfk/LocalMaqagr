@@ -169,6 +169,44 @@ router.post('/direct-minimum-power', validateDirectMinimumPowerRequest, calculat
  *           application/json:
  *             schema:
  *               $ref: '#/components/schemas/DirectImplementPowerResponse'
+ *             examples:
+ *               sinTractor:
+ *                 summary: Sin engine_power_hp (solo potencia requerida)
+ *                 value:
+ *                   success: true
+ *                   message: "Cálculo directo de potencia por implemento realizado con éxito"
+ *                   data:
+ *                     power_required_hp: 82.13
+ *                     power_kind: drawbar
+ *                     detail:
+ *                       family: draft_per_meter
+ *                       coefficient: 1000
+ *                       working_width_m: 3
+ *                       working_speed_kmh: 7.5
+ *                       constant_used: T_RASTRA_PESADA_26
+ *                     warnings: []
+ *               conTractor:
+ *                 summary: Con engine_power_hp (comparación + clasificación)
+ *                 value:
+ *                   success: true
+ *                   message: "Cálculo directo de potencia por implemento realizado con éxito"
+ *                   data:
+ *                     power_required_hp: 82.13
+ *                     power_kind: drawbar
+ *                     available_power_hp: 47.1
+ *                     pto_available_power_hp: 45.22
+ *                     margin_hp: -35.03
+ *                     is_adequate: false
+ *                     classification: NO_ADECUADO
+ *                     detail:
+ *                       family: draft_per_meter
+ *                       coefficient: 1000
+ *                     warnings: []
+ *                     losses:
+ *                       total_loss_hp: 41.13
+ *                     zoz:
+ *                       soil_condition: bueno
+ *                       tractor_type: 2WD
  *       400:
  *         description: Campos requeridos faltantes o datos invalidos
  *         content:
