@@ -111,7 +111,15 @@ jobs:
             throw "ISCC.exe not found. Looked in: $($candidates -join ', ')"
           }
           Write-Host "Using ISCC at $iscc"
-          & $iscc 'MaqAgr-Installer.iss'
+          # On release builds, inject the tag version (v1.2.3 -> 1.2.3) into the installer;
+          # on manual runs the .iss default applies.
+          $isccArgs = @('MaqAgr-Installer.iss')
+          if ($env:GITHUB_EVENT_NAME -eq 'release' -and $env:GITHUB_REF_NAME -match '^v(\d+\.\d+\.\d+)$') {
+            $version = $Matches[1]
+            Write-Host "Injecting installer version $version from tag $env:GITHUB_REF_NAME"
+            $isccArgs = @("/DMyAppVersionOverride=$version", 'MaqAgr-Installer.iss')
+          }
+          & $iscc @isccArgs
           if ($LASTEXITCODE -ne 0) { throw "ISCC failed with exit code $LASTEXITCODE" }
           if (-not (Test-Path 'build/MaqAgr-Setup.exe')) {
             throw 'build/MaqAgr-Setup.exe was not produced by ISCC'
