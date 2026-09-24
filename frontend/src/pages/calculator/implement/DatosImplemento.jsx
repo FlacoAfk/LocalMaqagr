@@ -20,6 +20,7 @@ import StepIndicator from "../../../components/ui/StepIndicator";
 import TractorMachineCard from "@/features/tractors/components/TractorMachineCard";
 import SkeletonCard from "@/components/ui/SkeletonCard";
 import { getInputClass } from "../../../lib/formUtils";
+import { getSoilLabel } from "../../../lib/utils";
 import {
   ANCHO_TRABAJO_PRESETS, ANCHO_TRABAJO_UNKNOWN_DEFAULT,
   PROFUNDIDAD_PRESETS, PROFUNDIDAD_UNKNOWN_DEFAULT,
@@ -835,7 +836,7 @@ export default function DatosImplemento() {
             <div className="text-xs text-muted-foreground/80 space-y-1.5 border-t border-border/30 pt-3">
               <p>Profundidad de trabajo: <strong className="text-foreground">{formData.working_depth_cm || 20} cm</strong></p>
               <p>Ancho de trabajo: <strong className="text-foreground">{formData.working_width_m || 2} m</strong></p>
-              <p>Condición del suelo: <strong className="text-foreground">{TIPOS_SUELO.find(s => s.value === formData.soil_type)?.label || "Franco"}</strong></p>
+              <p>Tipo de suelo: <strong className="text-foreground">{getSoilLabel(formData.soil_type)}</strong></p>
             </div>
           </div>
 

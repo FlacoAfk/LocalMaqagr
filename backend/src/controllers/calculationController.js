@@ -325,6 +325,7 @@ export const calculateDirectPowerLoss = asyncHandler(async (req, res) => {
         altitude_loss_hp: results.losses.altitude,
         rolling_resistance_loss_hp: results.losses.rollingResistance,
         slippage_loss_hp: results.losses.slippage,
+        transmission_loss_hp: results.losses.transmission,
         total_loss_hp: results.losses.total,
       },
       net_power_hp: results.netPower,
