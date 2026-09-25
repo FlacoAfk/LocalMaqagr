@@ -119,6 +119,7 @@ export default function DatosImplemento() {
   const [loading, setLoading] = useState(false);
   const [result, setResult] = useState(null);
   const [busqueda, setBusqueda] = useState("");
+  const [slopeFocused, setSlopeFocused] = useState(false);
 
   const [formData, setFormData] = useState({
     // Paso 1
@@ -132,6 +133,7 @@ export default function DatosImplemento() {
 
     // Paso 2
     soil_type: "",
+    slope_percentage: "",
   });
 
   // Tipos específicos: la potencia se calcula desde la geometría de la labor
@@ -319,6 +321,7 @@ export default function DatosImplemento() {
       power_requirement_hp: "",
       n_tines: "",
       soil_type: "",
+      slope_percentage: "",
     });
     setSelectedImplementId(null);
     setSelectedPowerReq(null);
@@ -375,7 +378,7 @@ export default function DatosImplemento() {
           powerRequirementHp: powerReqHp,
           workingDepthM,
           soilType: formData.soil_type || "loam",
-          slopePercentage: 0,
+          slopePercentage: Number(formData.slope_percentage) || 0,
         };
 
         const res = await calculateDirectMinimumPower(payload);
@@ -647,6 +650,58 @@ export default function DatosImplemento() {
           {errors.soil_type}
         </p>
       )}
+
+      {/* Inclinación del terreno */}
+      <div className="border-t border-border/30 pt-5">
+        <div className="flex items-center justify-between mb-1.5">
+          <label htmlFor="slope_percentage" className="text-sm font-medium leading-none text-foreground">
+            Inclinación del terreno (%)
+            <TooltipInfo content="Pendiente del terreno en porcentaje. 0% = terreno plano. A mayor pendiente, mayor potencia requerida. Ejemplo: 10% significa 10 metros de desnivel por cada 100 metros de avance." />
+          </label>
+        </div>
+        <input
+          type="number"
+          id="slope_percentage"
+          name="slope_percentage"
+          value={formData.slope_percentage}
+          onChange={handleChange}
+          onFocus={() => setSlopeFocused(true)}
+          onBlur={() => setTimeout(() => setSlopeFocused(false), 150)}
+          placeholder="% (ej: 5)"
+          min="0"
+          max="100"
+          step="1"
+          className={getInputClass('slope_percentage', errors)}
+        />
+        <div
+          className={`grid transition-[grid-template-rows] duration-200 ease-out ${
+            slopeFocused ? 'grid-rows-[1fr]' : 'grid-rows-[0fr]'
+          }`}
+        >
+          <div className="overflow-hidden">
+            <div className="pt-2 pb-1 space-y-2">
+              <p className="text-xs text-muted-foreground">Deja en 0 si el terreno es plano.</p>
+              <div className="flex flex-wrap gap-1.5">
+                {[0, 5, 10, 15, 20].map((val) => (
+                  <button
+                    key={val}
+                    type="button"
+                    onMouseDown={(e) => e.preventDefault()}
+                    onClick={() => setFormData((prev) => ({ ...prev, slope_percentage: String(val) }))}
+                    className={`px-2.5 py-1 text-xs rounded border font-medium transition-all ${
+                      String(formData.slope_percentage) === String(val)
+                        ? "bg-primary text-primary-foreground border-primary shadow-sm"
+                        : "bg-background text-muted-foreground border-border/60 hover:border-primary/50 hover:text-primary"
+                    }`}
+                  >
+                    {val === 0 ? "Plano (0%)" : val === 5 ? "Suave (5%)" : val === 10 ? "Moderado (10%)" : val === 15 ? "Pronunciado (15%)" : "Escarpado (20%)"}
+                  </button>
+                ))}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   );
 
@@ -837,6 +892,7 @@ export default function DatosImplemento() {
               <p>Profundidad de trabajo: <strong className="text-foreground">{formData.working_depth_cm || 20} cm</strong></p>
               <p>Ancho de trabajo: <strong className="text-foreground">{formData.working_width_m || 2} m</strong></p>
               <p>Tipo de suelo: <strong className="text-foreground">{getSoilLabel(formData.soil_type)}</strong></p>
+              <p>Inclinación del terreno: <strong className="text-foreground">{formData.slope_percentage || 0}%</strong></p>
             </div>
           </div>
 
