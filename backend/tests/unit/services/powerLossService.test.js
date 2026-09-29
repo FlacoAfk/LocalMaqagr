@@ -536,15 +536,14 @@ describe("powerLossService", () => {
       expect(r.zoz.p_alt_hp).toBe(19.32);
       // P_TEMP = ((18−15)/5)×1%×322 = 1,93
       expect(r.zoz.p_temp_hp).toBe(1.93);
-      // P_ROD = 5500×4,5×(0,35·cos α + sen α)/274,4 ≈ 38,66 (hoja: 38,7)
-      expect(r.zoz.p_rod_hp).toBeCloseTo(38.66, 1);
-      // P_EJE = (322 − 19,32 − 1,93 − 38,66)×0,86 = 225,4 (implícito)
-      const pEje = (322 - 19.32 - 1.93 - r.zoz.p_rod_hp) * 0.86;
-      expect(pEje).toBeCloseTo(225.4, 1);
+      // P_ROD = 5500×4,5×(0,35·cos α + sen α)/274 ≈ 38,72 (hoja: 38,7)
+      expect(r.zoz.p_rod_hp).toBe(38.72);
+      // P_EJE = (322 − 19,32 − 1,93 − 38,72)×0,86 ≈ 225,35
+      expect(r.zoz.p_eje_hp).toBe(225.35);
       // P_BDT = P_EJE × ET (malo, 2WD = 0,57)
       expect(r.zoz.et).toBe(0.57);
-      expect(r.netPower).toBeCloseTo(225.4 * 0.57, 1);
-      // La hoja anota 246,88: no reproducible con ninguna ET de la Fig. 47
+      expect(r.netPower).toBe(128.45);
+      // 246,88 HP supera P_EJE y no puede salir de P_EJE × ET con 0 ≤ ET ≤ 1.
     });
 
     test('umbrales: altitud solo si A > 300 m, temperatura solo si T > 15 °C, turbo anula ambas', () => {
@@ -567,9 +566,9 @@ describe("powerLossService", () => {
       expect(def.zoz.warnings.some((w) => w.includes('arena suelta'))).toBe(true);
     });
 
-    test('PTO: default 0,85 × P_B y override del usuario (H3)', () => {
-      expect(V3().zoz.pto_power_hp).toBe(297.5);
-      expect(V3().zoz.pto_source).toBe('default 85% de la potencia bruta');
+    test('PTO: default 0,86 × P_B y override del usuario (H3)', () => {
+      expect(V3().zoz.pto_power_hp).toBe(301);
+      expect(V3().zoz.pto_source).toBe('default 86% de la potencia bruta');
       const user = V3({ pmaxTdpHp: 246.88 });
       expect(user.zoz.pto_power_hp).toBe(246.88);
       expect(user.zoz.pto_source).toBe('ingresada por el usuario');
@@ -610,13 +609,13 @@ describe("powerLossService", () => {
       expect(r.zoz.pto_source).toBe('ingresada por el usuario');
     });
 
-    test('pmax_tdp_hp inválida (no numérica o <= 0) cae al default 85% con advertencia', () => {
+    test('pmax_tdp_hp inválida (no numérica o <= 0) cae al default 86% con advertencia', () => {
       const noNumerica = V3({ pmaxTdpHp: 'abc' });
-      expect(noNumerica.zoz.pto_power_hp).toBe(297.5);
-      expect(noNumerica.zoz.pto_source).toBe('default 85% de la potencia bruta');
+      expect(noNumerica.zoz.pto_power_hp).toBe(301);
+      expect(noNumerica.zoz.pto_source).toBe('default 86% de la potencia bruta');
       expect(noNumerica.zoz.warnings.some((w) => w.includes('Pmax TDP inválida'))).toBe(true);
       const cero = V3({ pmaxTdpHp: 0 });
-      expect(cero.zoz.pto_power_hp).toBe(297.5);
+      expect(cero.zoz.pto_power_hp).toBe(301);
       expect(cero.zoz.warnings.some((w) => w.includes('Pmax TDP inválida'))).toBe(true);
     });
 

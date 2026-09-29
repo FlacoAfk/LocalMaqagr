@@ -656,7 +656,7 @@ export const calculateTotalLossWithZoz = ({
 
 // ===== CADENA V3 (profesor, hojas H1/H2 + láminas 13/21/26/27 de la expo) =====
 // P_N = 0,92·P_B → P_ALT/P_TEMP sobre P_N (solo aspirados; A > 300 m; T > 15 °C)
-// → P_ROD = W·V·(ρ·cosα + senα)/274,4 (rodamiento + pendiente, lám. 26/27)
+// → P_ROD = W·V·(ρ·cosα + senα)/274 (rodamiento + pendiente, lám. 26/27)
 // → P_EJE = (P_N − P_ALT − P_TEMP − P_ROD)·0,86 (Fig. 43: neta→eje 0,84–0,88)
 // → P_BDT = P_EJE·ET (Fig. 47 multiplicada como eficiencia)
 
@@ -666,8 +666,8 @@ export const ZOZ_GROSS_TO_NET_EFFICIENCY = 0.92;
 /** Origen de la potencia en la TDF reportada: la ingresó el usuario (hoja H3). */
 export const PTO_SOURCE_USUARIO = 'ingresada por el usuario';
 
-/** Origen de la potencia en la TDF reportada: sin dato del usuario → 0,85 · P_B por defecto. */
-export const PTO_SOURCE_DEFAULT = 'default 85% de la potencia bruta';
+/** Origen de la potencia en la TDF reportada: sin dato del usuario → 0,86 · P_B por defecto. */
+export const PTO_SOURCE_DEFAULT = 'default 86% de la potencia bruta';
 
 /** Eficiencia neta→eje: punto medio del rango 0,84–0,88 (Fig. 43 de Zoz & Grisso).
  *  0,92 × 0,86 = 0,791, dentro del rango bruta→eje 0,77–0,80. */
@@ -720,8 +720,8 @@ export const getRhoBySurfaceAndTractorType = (superficieRodadura, zozTractorType
  * @example
  * // Ejemplo H2 del profesor: 350 hp aspirado, 5500 kg, 1800 msnm, 18 °C,
  * // pendiente 8 % (α = 4,57°), V = 4,5 km/h, 2WD malo, arena suelta:
- * // P_N = 322 · P_ALT = 19,32 · P_TEMP = 1,93 · P_ROD = 38,7 · P_EJE = 225,4
- * // P_BDT = 225,4 × 0,57 = 128,48 HP (la hoja anota 246,88: no reproducible,
+ * // P_N = 322 · P_ALT = 19,32 · P_TEMP = 1,93 · P_ROD = 38,72 · P_EJE = 225,35
+ * // P_BDT = 225,35 × 0,57 = 128,45 HP (la hoja anota 246,88: no reproducible,
  * // ninguna ET de la Fig. 47 supera 1 — pendiente con el profesor)
  */
 export const calculateTotalLossV3 = ({
@@ -752,15 +752,15 @@ export const calculateTotalLossV3 = ({
     tempLoss = pN * ((temperatureC - 15) / 5) * 0.01;
   }
 
-  // 3. Rodadura + pendiente combinadas (lám. 26/27): P_ROD = W·V·(ρ·cosα + senα)/274,4
-  //    OJO: la constante 274,4 ya convierte kg·km/h → HP (el 9,81 m/s² y el 1000 m/km
-  //    van dentro); NO se re-convierte la velocidad a m/s.
+  // 3. Rodadura + pendiente combinadas (lám. 26/27): la hoja del profesor redondea
+  //    la conversión y presenta P_ROD = W·V·(ρ·cosα + senα)/274.
+  //    No se re-convierte la velocidad a m/s.
   const zozTractorType = mapTractionTypeToZoz(tractorTractionType);
   const { surface, kind: rhoKind, rho, defaulted: surfaceDefaulted, warnings: surfaceWarnings } =
     getRhoBySurfaceAndTractorType(superficieRodadura, zozTractorType);
   const alphaRadians = degreesToRadians(slopePercentToDegrees(slopePercent));
-  let rollingPart = (totalWeightKg * Math.cos(alphaRadians) * rho * speedKmh) / 274.4;
-  let slopePart = (totalWeightKg * Math.sin(alphaRadians) * speedKmh) / 274.4;
+  let rollingPart = (totalWeightKg * Math.cos(alphaRadians) * rho * speedKmh) / 274;
+  let slopePart = (totalWeightKg * Math.sin(alphaRadians) * speedKmh) / 274;
 
   // Invariante bruta − total = neta: cuando P_ROD supera lo disponible
   // (P_N − P_ALT − P_TEMP), la rodadura y la pendiente del desglose se escalan
@@ -811,7 +811,7 @@ export const calculateTotalLossV3 = ({
 
   const efficiency = (netPower / enginePower) * 100;
 
-  // Potencia disponible en la TDF: la que ingresa el usuario (H3) o 0,85 · P_B por defecto.
+  // Potencia disponible en la TDF: la que ingresa el usuario (H3) o 0,86 · P_B por defecto.
   // Coerción de pmax_tdp_hp: acepta números y strings numéricos ("350"); vacío → sin dato
   // del usuario; no numérico o <= 0 → advertencia y default (un string sin coerción
   // rompería ptoPowerHp.toFixed).
@@ -820,11 +820,11 @@ export const calculateTotalLossV3 = ({
       ? null
       : Number(pmaxTdpHp);
   if (pmaxTdpHpNumber !== null && (!Number.isFinite(pmaxTdpHpNumber) || pmaxTdpHpNumber <= 0)) {
-    warnings.push('Pmax TDP inválida, se usó el default 85% de la potencia bruta');
+    warnings.push('Pmax TDP inválida, se usó el default 86% de la potencia bruta');
     pmaxTdpHpNumber = null;
   }
   const hasUserPto = pmaxTdpHpNumber !== null;
-  const ptoPowerHp = hasUserPto ? pmaxTdpHpNumber : enginePower * 0.85;
+  const ptoPowerHp = hasUserPto ? pmaxTdpHpNumber : enginePower * 0.86;
   const ptoSource = hasUserPto ? PTO_SOURCE_USUARIO : PTO_SOURCE_DEFAULT;
 
   return {
@@ -852,6 +852,7 @@ export const calculateTotalLossV3 = ({
       p_alt_hp: parseFloat(altLoss.toFixed(2)),
       p_temp_hp: parseFloat(tempLoss.toFixed(2)),
       p_rod_hp: parseFloat(pRod.toFixed(2)),
+      p_eje_hp: parseFloat(pEje.toFixed(2)),
       rho,
       rho_surface: surface,
       rho_kind: rhoKind,

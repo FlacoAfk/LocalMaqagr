@@ -31,7 +31,7 @@ const mockPowerLoss = async () => {
 // ===== Cadena V3 del profesor (hojas H1/H2 + láminas 13/21/26/27 de la expo) =====
 // Misma cadena que el backend (powerLossService.calculateTotalLossV3):
 //   P_N = 0,92·P_B → P_ALT/P_TEMP sobre P_N (solo aspirados; A > 300 m; T > 15 °C)
-//   → P_ROD = W·V·(ρ·cosα + senα)/274,4 con α = atan(pend%/100) (lám. 26/27)
+//   → P_ROD = W·V·(ρ·cosα + senα)/274 con α = atan(pend%/100) (lám. 26/27)
 //   → P_EJE = (P_N − P_ALT − P_TEMP − P_ROD)·0,86 (Fig. 43: neta→eje 0,84–0,88)
 //   → P_BDT = P_EJE·ET (Fig. 47 multiplicada como eficiencia)
 // El patinamiento NO se resta aparte: ya viene dentro de ET; solo se advierte
@@ -105,8 +105,8 @@ const mockDirectPowerLoss = async (payload) => {
       const tempLoss =
         !hasTurbo && temperatureC > 15 ? pN * ((temperatureC - 15) / 5) * 0.01 : 0;
 
-      // 3. Rodadura + pendiente combinadas (lám. 26/27): P_ROD = W·V·(ρ·cosα + senα)/274,4.
-      //    La constante 274,4 ya convierte kg·km/h → HP (no se re-convierte la velocidad).
+      // 3. Rodadura + pendiente combinadas (lám. 26/27): la hoja del profesor redondea
+      //    la conversión y presenta P_ROD = W·V·(ρ·cosα + senα)/274.
       const zozTractorType = mapTractionTypeToZozV3(payload.tractionType);
       const surfaceKey = String(payload.superficieRodadura ?? '').toLowerCase().trim();
       const surfaceDefaulted = !Object.keys(V3_RHO_SUPERFICIE).includes(surfaceKey);
@@ -121,8 +121,8 @@ const mockDirectPowerLoss = async (payload) => {
         warnings.push('la superficie seleccionada no aplica para oruga, se usó el coeficiente de llantas');
       }
       const alphaRadians = Math.atan(slopePercent / 100);
-      let rollingPart = (totalWeightKg * Math.cos(alphaRadians) * rho * speedKmh) / 274.4;
-      let slopePart = (totalWeightKg * Math.sin(alphaRadians) * speedKmh) / 274.4;
+      let rollingPart = (totalWeightKg * Math.cos(alphaRadians) * rho * speedKmh) / 274;
+      let slopePart = (totalWeightKg * Math.sin(alphaRadians) * speedKmh) / 274;
 
       // Invariante bruta − total = neta: cuando P_ROD supera lo disponible
       // (P_N − P_ALT − P_TEMP) se escala proporcionalmente al máximo disponible
@@ -171,20 +171,20 @@ const mockDirectPowerLoss = async (payload) => {
         enginePowerHp > 0 ? (netPowerHp / enginePowerHp) * 100 : 0;
 
       // Potencia disponible en la TDF: la que ingresa el usuario (hoja H3)
-      // o 0,85 · P_B por defecto cuando no hay dato.
+      // o 0,86 · P_B por defecto cuando no hay dato.
       let pmaxTdpHpNumber =
         payload.pmaxTdpHp === undefined || payload.pmaxTdpHp === null || payload.pmaxTdpHp === ''
           ? null
           : Number(payload.pmaxTdpHp);
       if (pmaxTdpHpNumber !== null && (!Number.isFinite(pmaxTdpHpNumber) || pmaxTdpHpNumber <= 0)) {
-        warnings.push('Pmax TDP inválida, se usó el default 85% de la potencia bruta');
+        warnings.push('Pmax TDP inválida, se usó el default 86% de la potencia bruta');
         pmaxTdpHpNumber = null;
       }
       const hasUserPto = pmaxTdpHpNumber !== null;
-      const ptoPowerHp = hasUserPto ? pmaxTdpHpNumber : enginePowerHp * 0.85;
+      const ptoPowerHp = hasUserPto ? pmaxTdpHpNumber : enginePowerHp * 0.86;
       const ptoSource = hasUserPto
         ? 'ingresada por el usuario'
-        : 'default 85% de la potencia bruta';
+        : 'default 86% de la potencia bruta';
 
       resolve({
         success: true,
@@ -220,6 +220,7 @@ const mockDirectPowerLoss = async (payload) => {
             pAltHp: round2(altLoss),
             pTempHp: round2(tempLoss),
             pRodHp: round2(pRod),
+            pEjeHp: round2(pEje),
             rho,
             rhoSurface: surface,
             rhoKind,

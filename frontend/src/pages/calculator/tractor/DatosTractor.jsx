@@ -16,7 +16,7 @@ import FieldWithPresets from "@/features/calculator/components/FieldWithPresets"
 import { getInputClass } from "../../../lib/formUtils";
 import {
   PB_PRESETS, PB_UNKNOWN_DEFAULT,
-  PMAX_TDP_PRESETS, PMAX_TDP_UNKNOWN_DEFAULT,
+  PMAX_TDP_PRESETS,
   PESO_PRESETS, PESO_UNKNOWN_DEFAULT,
   DIAMETRO_LLANTA_PRESETS, DIAMETRO_LLANTA_UNKNOWN_DEFAULT,
   PRESION_PRESETS, PRESION_UNKNOWN_DEFAULT,
@@ -48,6 +48,7 @@ import {
 import StepIndicator from "../../../components/ui/StepIndicator";
 import SkeletonCard from "@/components/ui/SkeletonCard";
 import { getSoilLabel, getSoilConditionLabel } from "../../../lib/utils";
+import { getEstimatedTdp, updateTractorPowerFields } from "../../../lib/tractorPowerFields";
 
 export default function DatosTractor() {
   const navigate = useNavigate();
@@ -133,31 +134,10 @@ export default function DatosTractor() {
 
   const handleChange = (e) => {
     const { name, value } = e.target;
-    setFormData((prev) => {
-      const next = { ...prev, [name]: value };
-
-      if (name === "pb") {
-        const num = Number(value);
-        if (value !== "" && Number.isFinite(num) && num > 0) {
-          next.pmax_tdp = String(+(num * 0.86).toFixed(1));
-        } else if (value === "") {
-          next.pmax_tdp = "";
-        }
-      } else if (name === "pmax_tdp") {
-        const num = Number(value);
-        // Solo se recalcula la potencia bruta cuando hay un valor válido:
-        // vaciar la TDP (opcional) no debe borrar la potencia bruta ingresada.
-        if (value !== "" && Number.isFinite(num) && num > 0) {
-          next.pb = String(+(num / 0.86).toFixed(1));
-        }
-      }
-
-      return next;
-    });
+    setFormData((prev) => updateTractorPowerFields(prev, name, value));
 
     if (errors[name]) setErrors((prev) => ({ ...prev, [name]: "" }));
     if (name === "pb" && errors.pmax_tdp) setErrors((prev) => ({ ...prev, pmax_tdp: "" }));
-    if (name === "pmax_tdp" && errors.pb) setErrors((prev) => ({ ...prev, pb: "" }));
   };
 
   const validateStep1 = () => {
@@ -178,7 +158,7 @@ export default function DatosTractor() {
       missing.push("Potencia Bruta");
     }
     // Pmax TDP opcional (hoja H3 del profesor): si se deja vacía el backend aplica
-    // el default 0,85 · P_B; solo se valida el formato cuando el usuario escribió algo.
+    // el default 0,86 · P_B; solo se valida el formato cuando el usuario escribió algo.
     const pmaxVal = Number(formData.pmax_tdp);
     if (formData.pmax_tdp && (!Number.isFinite(pmaxVal) || pmaxVal <= 0)) {
       err.pmax_tdp = "Ingresa la potencia TDP (HP) como un número mayor a 0, o déjala vacía.";
@@ -334,7 +314,7 @@ export default function DatosTractor() {
     const payload = {
       enginePowerHp: toNumberOrNull(formData.pb),
       // Pmax TDP (hoja H3): opcional — si no se ingresó no viaja en el payload y
-      // el backend aplica el default del profesor (0,85 · P_B).
+      // el backend aplica el default del profesor (0,86 · P_B).
       ...(formData.pmax_tdp ? { pmaxTdpHp: toNumberOrNull(formData.pmax_tdp) } : {}),
       weightKg: toNumberOrNull(formData.peso),
       hasTurbo,
@@ -469,7 +449,7 @@ export default function DatosTractor() {
             id="pmax_tdp"
             name="pmax_tdp"
             label="Potencia Máxima TDP"
-            tooltip="Potencia en la Toma de Fuerza (TDF). Opcional: se sugiere ≈ 86% de la potencia bruta, pero puedes ingresar el valor real del fabricante si lo conoces (el cálculo usará el valor que ingreses). Si la dejas vacía se aplica el 85% de la potencia bruta."
+            tooltip="Potencia en la Toma de Fuerza (TDF). Opcional: se sugiere ≈ 86% de la potencia bruta, pero puedes ingresar el valor real del fabricante si lo conoces (el cálculo usará el valor que ingreses). Si la dejas vacía se aplica el 86% de la potencia bruta."
             value={formData.pmax_tdp}
             onChange={handleChange}
             error={errors.pmax_tdp}
@@ -477,8 +457,10 @@ export default function DatosTractor() {
             min="1"
             unit="HP"
             presets={PMAX_TDP_PRESETS}
-            unknownDefault={PMAX_TDP_UNKNOWN_DEFAULT}
-            unknownLabel="69 HP (86% de 80)"
+            unknownDefault={getEstimatedTdp(formData.pb)}
+            unknownLabel={getEstimatedTdp(formData.pb)
+              ? `${getEstimatedTdp(formData.pb)} HP (86% de la potencia bruta)`
+              : "Ingresa primero la potencia bruta"}
             inputClass={getInputClass('pmax_tdp', errors)}
           />
 
@@ -856,6 +838,18 @@ export default function DatosTractor() {
     // Advertencias devueltas por el servicio de cálculo (superficie asumida,
     // patinamiento fuera de 7–15 %, etc.)
     const serviceWarnings = Array.isArray(result?.warnings) ? result.warnings : [];
+    const chain = result?.zoz || {};
+    const chainValue = (camelKey, snakeKey) => chain[camelKey] ?? chain[snakeKey];
+    const chainRows = [
+      ['Potencia neta del motor (P_N)', chainValue('pNHp', 'p_n_hp')],
+      ['Pérdida por altitud (P_ALT)', chainValue('pAltHp', 'p_alt_hp')],
+      ['Pérdida por temperatura (P_TEMP)', chainValue('pTempHp', 'p_temp_hp')],
+      ['Pérdida por rodadura y pendiente (P_ROD)', chainValue('pRodHp', 'p_rod_hp')],
+      ['Potencia en el eje (P_EJE)', chainValue('pEjeHp', 'p_eje_hp')],
+      ['Eficiencia de tracción (ET)', chainValue('et', 'et')],
+      ['Potencia disponible en barra (P_BDT)', netPowerHp],
+    ];
+    const hasPowerChain = chainValue('pNHp', 'p_n_hp') !== undefined;
 
     const filteredImplements = implementsList.filter(
       (imp) =>
@@ -969,6 +963,34 @@ export default function DatosTractor() {
             </div>
           </div>
         </div>
+
+        {hasPowerChain && (
+          <section className="rounded-xl border border-border/60 bg-card p-5 shadow-xs">
+            <h3 className="text-sm font-semibold text-foreground">Cadena de cálculo aplicada</h3>
+            <p className="mt-1 text-xs text-muted-foreground">
+              P_N = 0,92·P_B; P_EJE = (P_N − P_ALT − P_TEMP − P_ROD)·0,86; P_BDT = P_EJE·ET.
+              La rodadura usa α = atan(pendiente/100) y el divisor 274 de la hoja del profesor.
+            </p>
+            <dl className="mt-3 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-6">
+              {chainRows.map(([label, value]) => (
+                <div key={label} className="flex justify-between gap-3 border-t border-border/40 py-2 text-xs">
+                  <dt className="text-muted-foreground">{label}</dt>
+                  <dd className="font-semibold text-foreground">
+                    {value === undefined || value === null
+                      ? '—'
+                      : label.includes('(ET)')
+                        ? `${Math.round(Number(value) * 100)}%`
+                        : `${value} HP`}
+                  </dd>
+                </div>
+              ))}
+            </dl>
+            <p className="mt-2 text-[11px] text-muted-foreground">
+              Supuestos del caso: ρ = {chain.rho ?? '—'}, α = {chain.alphaDeg ?? chain.alpha_deg ?? '—'}°;
+              ET depende del tipo de tracción y de la condición del suelo.
+            </p>
+          </section>
+        )}
 
         {/* Desglose de Pérdidas de Potencia */}
         {losses && (
