@@ -46,6 +46,7 @@ class Terrain {
       slope_percentage,
       soil_type,
       soil_condition = null,
+      superficie_rodadura = null,
       temperature_celsius,
       status = "active",
     } = terrainData;
@@ -54,9 +55,9 @@ class Terrain {
       const query = `
         INSERT INTO terrain (
           user_id, name, area_hectares, altitude_meters, slope_percentage, soil_type,
-          soil_condition, temperature_celsius, status
+          soil_condition, superficie_rodadura, temperature_celsius, status
         )
-        VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9)
+        VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10)
         RETURNING *
       `;
       const values = [
@@ -67,6 +68,7 @@ class Terrain {
         slope_percentage,
         soil_type,
         soil_condition,
+        superficie_rodadura,
         temperature_celsius,
         status,
       ];
@@ -109,36 +111,72 @@ class Terrain {
       slope_percentage,
       soil_type,
       soil_condition,
+      superficie_rodadura,
       temperature_celsius,
       status,
     } = terrainData;
 
-    const query = `
-      UPDATE terrain
-      SET name = COALESCE($1, name),
-          area_hectares = COALESCE($2, area_hectares),
-          altitude_meters = COALESCE($3, altitude_meters),
-          slope_percentage = COALESCE($4, slope_percentage),
-          soil_type = COALESCE($5, soil_type),
-          temperature_celsius = COALESCE($6, temperature_celsius),
-          status = COALESCE($7, status),
-          soil_condition = COALESCE($9, soil_condition)
-      WHERE terrain_id = $8
-      RETURNING *
-    `;
-    const values = [
-      name,
-      area_hectares,
-      altitude_meters,
-      slope_percentage,
-      soil_type,
-      temperature_celsius,
-      status,
-      id,
-      soil_condition,
-    ];
-    const result = await pool.query(query, values);
-    return result.rows[0];
+    try {
+      const query = `
+        UPDATE terrain
+        SET name = COALESCE($1, name),
+            area_hectares = COALESCE($2, area_hectares),
+            altitude_meters = COALESCE($3, altitude_meters),
+            slope_percentage = COALESCE($4, slope_percentage),
+            soil_type = COALESCE($5, soil_type),
+            temperature_celsius = COALESCE($6, temperature_celsius),
+            status = COALESCE($7, status),
+            soil_condition = COALESCE($9, soil_condition),
+            superficie_rodadura = COALESCE($10, superficie_rodadura)
+        WHERE terrain_id = $8
+        RETURNING *
+      `;
+      const values = [
+        name,
+        area_hectares,
+        altitude_meters,
+        slope_percentage,
+        soil_type,
+        temperature_celsius,
+        status,
+        id,
+        soil_condition,
+        superficie_rodadura,
+      ];
+      const result = await pool.query(query, values);
+      return result.rows[0];
+    } catch (error) {
+      // Mismo fallback de compatibilidad que create: esquemas legacy sin las
+      // columnas de las migraciones 007/008 (soil_condition/superficie_rodadura).
+      if (error.code !== "42703") {
+        throw error;
+      }
+
+      const fallbackQuery = `
+        UPDATE terrain
+        SET name = COALESCE($1, name),
+            area_hectares = COALESCE($2, area_hectares),
+            altitude_meters = COALESCE($3, altitude_meters),
+            slope_percentage = COALESCE($4, slope_percentage),
+            soil_type = COALESCE($5, soil_type),
+            temperature_celsius = COALESCE($6, temperature_celsius),
+            status = COALESCE($7, status)
+        WHERE terrain_id = $8
+        RETURNING *
+      `;
+      const fallbackValues = [
+        name,
+        area_hectares,
+        altitude_meters,
+        slope_percentage,
+        soil_type,
+        temperature_celsius,
+        status,
+        id,
+      ];
+      const result = await pool.query(fallbackQuery, fallbackValues);
+      return result.rows[0];
+    }
   }
 
   // Delete terrain

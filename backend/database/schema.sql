@@ -58,6 +58,7 @@ CREATE TABLE terrain (
     slope_percentage DOUBLE PRECISION NOT NULL,
     soil_type VARCHAR(100) NOT NULL,
     soil_condition VARCHAR(10) CHECK (soil_condition IN ('bueno', 'medio', 'malo')),
+    superficie_rodadura VARCHAR(20) CHECK (superficie_rodadura IN ('concreto', 'carretable', 'arcilloso_humedo', 'arcilloso_seco', 'limoso', 'arena_suelta')),
     temperature_celsius DOUBLE PRECISION,
     registration_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     status VARCHAR(20) DEFAULT 'active'

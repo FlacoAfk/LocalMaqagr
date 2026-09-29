@@ -14,6 +14,8 @@
 --   4. migrations/003_add_tractor_catalog_fields.sql
 --   5. migrations/004_add_image_url_columns.sql
 --   6. migrations/006_add_password_reset_tokens.sql
+--   7. migrations/007_add_implement_power_fields.sql
+--   8. migrations/008_add_rodadura_surface.sql
 --
 -- INTENTIONALLY EXCLUDED:
 --   migrations/005_seed_image_urls.sql
@@ -343,5 +345,67 @@ CREATE TABLE IF NOT EXISTS password_reset_tokens (
 
 CREATE INDEX IF NOT EXISTS idx_password_reset_tokens_token ON password_reset_tokens(token);
 CREATE INDEX IF NOT EXISTS idx_password_reset_tokens_user_id ON password_reset_tokens(user_id);
+
+-- ============================================================
+-- SECTION 7: migration 007_add_implement_power_fields.sql
+-- (implement.n_tines, terrain.soil_condition, tractor.has_turbo
+--  y el CHECK de query.query_type ampliado a los tipos reales)
+-- ============================================================
+
+ALTER TABLE implement
+ADD COLUMN IF NOT EXISTS n_tines INTEGER;
+
+ALTER TABLE terrain
+ADD COLUMN IF NOT EXISTS soil_condition VARCHAR(10) CHECK (soil_condition IN ('bueno', 'medio', 'malo'));
+
+ALTER TABLE tractor
+ADD COLUMN IF NOT EXISTS has_turbo BOOLEAN NOT NULL DEFAULT FALSE;
+
+-- query.query_type: reemplazar el CHECK original (solo 'power_loss', 'minimum_power',
+-- 'recommendation') por la lista completa de tipos que insertan los controladores.
+DO $$
+DECLARE
+    legacy_check TEXT;
+BEGIN
+    -- Idempotencia: si el constraint nuevo ya existe, no hay nada que hacer
+    IF EXISTS (
+        SELECT 1
+        FROM pg_constraint
+        WHERE conrelid = 'query'::regclass
+          AND conname = 'query_query_type_valid'
+    ) THEN
+        RETURN;
+    END IF;
+
+    -- El CHECK original es un constraint de columna sin nombre explícito
+    -- (Postgres lo nombra 'query_query_type_check'): se busca por definición
+    SELECT conname INTO legacy_check
+    FROM pg_constraint
+    WHERE conrelid = 'query'::regclass
+      AND contype = 'c'
+      AND pg_get_constraintdef(oid) LIKE '%query_type%'
+    LIMIT 1;
+
+    IF legacy_check IS NOT NULL THEN
+        EXECUTE format('ALTER TABLE query DROP CONSTRAINT %I', legacy_check);
+    END IF;
+
+    ALTER TABLE query
+    ADD CONSTRAINT query_query_type_valid
+    CHECK (query_type IN (
+        'power_loss', 'direct_power_loss',
+        'minimum_power', 'direct_minimum_power',
+        'recommendation', 'implement_power'
+    ));
+END $$;
+
+-- ============================================================
+-- SECTION 8: migration 008_add_rodadura_surface.sql
+-- (terrain.superficie_rodadura: coeficiente ρ de la cadena V3,
+--  lámina 26 del profesor)
+-- ============================================================
+
+ALTER TABLE terrain
+ADD COLUMN IF NOT EXISTS superficie_rodadura VARCHAR(20) CHECK (superficie_rodadura IN ('concreto', 'carretable', 'arcilloso_humedo', 'arcilloso_seco', 'limoso', 'arena_suelta'));
 
 COMMIT;

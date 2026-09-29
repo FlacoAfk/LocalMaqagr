@@ -185,10 +185,21 @@ If you prefer step-by-step control:
    psql -U postgres -h localhost -d maqagr_local -f backend/database/schema.sql
    ```
 
-3. **Run migrations**:
+3. **Run the schema + migrations** (recommended: the consolidated file already
+   includes migrations 001, 003, 004, 006, 007 and 008):
+   ```bash
+   psql -U postgres -h localhost -d maqagr_local -f backend/database/02-schema-migrations.sql
+   ```
+
+   Or step by step after `schema.sql` (005 is seed-only, see the note inside
+   `02-schema-migrations.sql`; 007 adds `n_tines`/`soil_condition`/`has_turbo`
+   + the widened `query_type` CHECK; 008 adds `terrain.superficie_rodadura`):
    ```bash
    psql -U postgres -h localhost -d maqagr_local -f backend/database/migrations/004_add_image_url_columns.sql
    psql -U postgres -h localhost -d maqagr_local -f backend/database/migrations/005_seed_image_urls.sql
+   psql -U postgres -h localhost -d maqagr_local -f backend/database/migrations/006_add_password_reset_tokens.sql
+   psql -U postgres -h localhost -d maqagr_local -f backend/database/migrations/007_add_implement_power_fields.sql
+   psql -U postgres -h localhost -d maqagr_local -f backend/database/migrations/008_add_rodadura_surface.sql
    ```
 
 4. **Install dependencies**:

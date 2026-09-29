@@ -1,6 +1,17 @@
 import Terrain from "../models/Terrain.js";
 import { asyncHandler } from "../middleware/error.middleware.js";
 import { applyPagination } from "../utils/pagination.util.js";
+// Enum de superficies de rodadura (lám. 26) — única fuente de verdad
+import { VALID_SUPERFICIES } from "../services/powerLossService.js";
+
+/**
+ * Normaliza la superficie de rodadura (trim + minúsculas) para que las
+ * validaciones acepten mayúsculas/espacios; null si no viene valor.
+ * @param {*} value - Valor del body
+ * @returns {string|null}
+ */
+const normalizeSuperficie = (value) =>
+  value === undefined || value === null ? null : String(value).trim().toLowerCase();
 
 // ============================================
 // OPERACIONES DE TERRENO (USUARIO AUTENTICADO)
@@ -91,6 +102,7 @@ export const createTerrain = asyncHandler(async (req, res) => {
     slope_percentage,
     soil_type,
     soil_condition,
+    superficie_rodadura,
     temperature_celsius,
     status,
   } = req.body || {};
@@ -119,6 +131,12 @@ export const createTerrain = asyncHandler(async (req, res) => {
   ) {
     errors.push("soil_condition debe ser uno de: bueno, medio, malo");
   }
+  // superficie_rodadura: opcional; si viene debe ser una de las 6 (lám. 26).
+  // Se normaliza (trim + minúsculas) antes del includes para aceptar mayúsculas/espacios.
+  const superficieNormalizada = normalizeSuperficie(superficie_rodadura);
+  if (superficieNormalizada !== null && !VALID_SUPERFICIES.includes(superficieNormalizada)) {
+    errors.push("superficie_rodadura debe ser una de: " + VALID_SUPERFICIES.join(", "));
+  }
 
   if (errors.length > 0) {
     return res.status(400).json({
@@ -137,6 +155,8 @@ export const createTerrain = asyncHandler(async (req, res) => {
     slope_percentage: Number(slope_percentage),
     soil_type,
     soil_condition: soil_condition ?? null,
+    // Se persiste la superficie normalizada (queda null si no vino valor)
+    superficie_rodadura: superficieNormalizada,
     temperature_celsius:
       temperature_celsius !== undefined && temperature_celsius !== null
         ? Number(temperature_celsius)
@@ -187,6 +207,7 @@ export const updateTerrain = asyncHandler(async (req, res) => {
     slope_percentage,
     soil_type,
     soil_condition,
+    superficie_rodadura,
     temperature_celsius,
     status,
   } = req.body || {};
@@ -216,6 +237,18 @@ export const updateTerrain = asyncHandler(async (req, res) => {
     });
   }
 
+  // superficie_rodadura: opcional; si viene debe ser una de las 6 (lám. 26).
+  // Se normaliza (trim + minúsculas) antes del includes para aceptar mayúsculas/espacios.
+  const superficieNormalizada = normalizeSuperficie(superficie_rodadura);
+  if (superficieNormalizada !== null && !VALID_SUPERFICIES.includes(superficieNormalizada)) {
+    return res.status(400).json({
+      success: false,
+      code: "VALIDATION_ERROR",
+      message:
+        "superficie_rodadura debe ser una de: " + VALID_SUPERFICIES.join(", "),
+    });
+  }
+
   const updateData = {
     name,
     area_hectares:
@@ -235,6 +268,9 @@ export const updateTerrain = asyncHandler(async (req, res) => {
       soil_condition !== undefined && soil_condition !== null
         ? soil_condition
         : undefined,
+    // Se envía la superficie normalizada (satisface el CHECK de la migración 008)
+    superficie_rodadura:
+      superficieNormalizada !== null ? superficieNormalizada : undefined,
     temperature_celsius:
       temperature_celsius !== undefined && temperature_celsius !== null
         ? Number(temperature_celsius)
