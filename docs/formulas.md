@@ -16,7 +16,7 @@
 | P3. Compatibilidad tractor–implemento | Matchmaker / comparación | P1 + P2 | Margen y clasificación (adecuado / no adecuado / sobrepotenciado) |
 | P4. Recomendación y scoring | "No tengo nada" | Finca + presupuesto | Top de tractores con puntaje |
 
-La fórmula v3 de potencia del tractor sigue el divisor **274** escrito en la ecuación limpia del profesor. Los cálculos legacy y los implementos conservan **274,4** (equivalente a **3,65×10⁻³**), según la conversión de Chaparro; no mezclar esas dos convenciones al comparar ejemplos.
+Constante de conversión (SI): **1 HP = F(kgf) × V(km/h) / 274,4** — la ruta v3 usa el divisor **274** escrito en la ecuación limpia; el legacy y los implementos conservan 274,4, equivalente a **× 3,65×10⁻³**. Derivación de Chaparro (ec. 6): `F(lb)×V(mph)/375` con `×2,2 lb/kg` y `/1,609 km/h→mph` → `2,2/(1,609×375) = 1/274,26 ≈ 1/274,4`. Para el arado (ancho en m × profundidad en cm) la constante combinada es **0,365 = 100 × 3,65×10⁻³**.
 
 ---
 
@@ -46,13 +46,13 @@ El profesor dictó la cadena completa en clase (hojas manuscritas escaneadas + l
 P_N   = 0,92 · P_B                                     ← P_B la ingresa el usuario (Fig. 43: bruta→neta)
 P_ALT = (A / 300 m) · 1 % · P_N   — solo aspirados, solo si A > 300 m
 P_TEMP= ((T − 15 °C) / 5 °C) · 1 % · P_N   — solo aspirados, solo si T > 15 °C
-P_ROD = W · V · (ρ·cos α + sen α) / 274     ← rodamiento + pendiente JUNTOS (lám. 26/27)
+P_ROD = W · V · (ρ·cos α + sen α) / 274     ← rodamiento + pendiente JUNTOS (lám. 26/27; divisor 274 de la ecuación limpia)
 P_EJE = (P_N − P_ALT − P_TEMP − P_ROD) · 0,86   ← 0,86 = punto medio neta→eje (Fig. 43: 0,84–0,88)
 P_BDT = P_EJE · ET                     ← ET de la Fig. 47, MULTIPLICADA como eficiencia
 ```
 
 - **0,92 y 0,86 sustituyen al 0,785 único**: el producto 0,92 × 0,86 = 0,791 cae dentro del rango bruta→eje 0,77–0,80 de la Fig. 43 — dos etapas con las pérdidas atmosféricas y la rodadura en medio.
-- **La rodadura VUELVE y se resta antes del 0,86**, combinada con la pendiente: `P_ROD = W·V·(ρ·cos α + sen α)/274` (láminas 26/27 y ecuación limpia de la hoja). El patinamiento sigue sin restarse (tachado en H2) y queda como alerta cuando sale del rango ideal 7–15 % (lámina 21).
+- **La rodadura VUELVE y se resta antes del 0,86**, combinada con la pendiente: `P_ROD = W·V·(ρ·cos α + sen α)/274,4` (láminas 26/27). El patinamiento sigue sin restarse (tachado en H2) y queda como alerta cuando sale del rango ideal 7–15 % (lámina 21).
 - **ρ por superficie** (lámina 26) reemplaza a Cn para el tractor — menú propio "Superficie de rodadura":
 
 | Superficie | Llantas | Oruga |
@@ -64,10 +64,10 @@ P_BDT = P_EJE · ET                     ← ET de la Fig. 47, MULTIPLICADA como 
 | Limoso | 0,20 | 0,10 |
 | Arena suelta seca | **0,35** | 0,20 |
 
-- **ET se multiplica como eficiencia**: se toma de la columna izquierda, **Axle Power Delivery Efficiency**, de la Fig. 47; la tabla derecha es PTO y no se usa como ET de barra. La app implementa las columnas GOOD/MED/POOR: 2WD 0,75/0,70/0,57 · MFWD 0,79/0,75/0,66 · 4WD 0,80/0,78/0,73 · Oruga 0,85/0,83/0,81. La columna CONC aún no tiene opción propia en el selector.
-- **TDF (hoja H3):** la potencia disponible en la TDF es **la que ingresa el usuario** (`Pmax TDP`, "no siempre el 85 % de P_b"); si no se ingresa, la pantalla y la API estiman 0,86·P_B. Ingresar Pmax TDP manualmente no modifica P_B ni P_BDT. La columna PTO de la Fig. 47 es distinta de ET de barra.
+- **ET se multiplica como eficiencia** y se toma de la columna **Axle Power Delivery Efficiency** (izquierda de la Fig. 47); la tabla PTO (derecha) es otra cosa y no se usa como ET de barra. Valores GOOD/MED/POOR: 2WD 0,75/0,70/0,57 · MFWD 0,79/0,75/0,66 · 4WD 0,80/0,78/0,73 · Oruga 0,85/0,83/0,81. La columna CONC aún no tiene opción en el selector.
+- **TDF (hoja H3):** la potencia disponible en la TDF es **la que ingresa el usuario** (`Pmax TDP`, "no siempre el 85 % de P_b"); si no se ingresa, la aplicación estima **0,86·P_B**. Ingresar Pmax TDP no modifica la potencia bruta ni la de barra. La columna PTO de la Fig. 47 es distinta de la ET de barra.
 
-**Ejemplo verificado en el software (H2 del profesor):** 350 HP aspirado, 5500 kg, 1800 msnm, 18 °C, pendiente 8 % (α = 4,57°), V = 4,5 km/h, 2WD/POOR, arena suelta (ρ = 0,35) → P_N 322 · P_ALT 19,32 · P_TEMP 1,93 · P_ROD 38,72 (la hoja anota 38,7) · P_EJE 225,35 · P_BDT (ET 0,57) = **128,45 HP**. La hoja anota 246,88 HP; excede P_EJE, así que no puede resultar de `P_BDT=P_EJE×ET` con una eficiencia ET ≤ 1. Confirmar con el profesor qué representa.
+**Ejemplo verificado en el sistema (H2 del profesor):** 350 hp aspirado, 5500 kg, 1800 msnm, 18 °C, pendiente 8 % (α = 4,57°), V = 4,5 km/h, 2WD malo, arena suelta (ρ = 0,35) → P_N 322 · P_ALT 19,32 · P_TEMP 1,93 · P_ROD 38,72 (hoja: 38,7) · P_EJE 225,35 · P_BDT (ET 0,57) = **128,45 HP**. El 246,88 anotado en la hoja es la **Potencia Máxima TDP del tractor (dato del fabricante)**, no un resultado de la barra — aclarado en la sesión de validación (2026-09-29).
 
 > **Historial:** v2.1 aplicaba `× 0,785 × (1 − ET)` sin paso 0,92 y sin restar rodadura (se asumía dentro de ET). El profesor la reemplazó con esta cadena explícita en su expo. El modelo v1 (13 % fijo) sigue disponible como camino legacy.
 
@@ -205,8 +205,9 @@ Teoría de respaldo documentada (diagrama de Zoz, tractor IH 886, prueba Nebrask
 
 ## 7. Preguntas abiertas para el profesor (verificadas, cada una con el dato que falta)
 
-1. **246,88 hp (hoja H2):** con la propia cadena, (300,8 − 38,7)·0,86 = 225,4 y ninguna ET de la Fig. 47 supera 1. ¿Qué ET o paso adicional usó?
+1. **RESUELTO (validación 2026-09-29):** el 246,88 hp de la hoja es la **Potencia Máxima TDP del tractor** (dato del fabricante), no un resultado de barra. Confirmar en la reunión que se use tal cual como Pmax TDP.
 2. **Altitud:** el 1 % ¿cuenta desde 0 m o desde 300 m? La fórmula escrita usa A/300 (a 1800 m → 6 % ✓), pero la nota dice "solo si A > 300 m" (a 500 m: ¿0,67 % o 1,67 %?). El software implementa la fórmula tal cual (desde 0, con el gate).
+2b. **P_ROD 38,7 vs 38,1:** con /274 el cálculo da 38,72 → redondea 38,7 (la reescritura de la hoja anota 38,1: aparente confusión 1/7 del manuscrito). El software usa /274 → 38,72.
 3. **Sembradora (lám. 35):** los datos dicen 204 kg/surco pero la fórmula usa 240 (y el "ajuste en clase" a 1130 kg) — ¿cuál vale?
 4. **Constante de implementos:** la lámina 32 usa /270 con resultado en CV; las hojas de los 9 aperos usan 3,65×10⁻³ (≈ 274,4) en HP. El software usa 274,4/HP — ¿correcto?
 5. **ET de la conversión a TDP:** el ejemplo de la lámina 32 usa ET = 0,484 (leída del diagrama de Zoz), no de la Fig. 47 (0,57–0,85). ¿Cuál debe usar el software?
