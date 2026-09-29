@@ -1,7 +1,8 @@
 # Documento técnico de fórmulas y cálculos — MaqAgr
 
 > **Propósito:** referencia completa de todas las fórmulas y cálculos que utiliza (o utilizó) cada proceso del software MaqAgr — relación tractor–implemento por potencia — incluyendo los modelos anteriores, los que los reemplazaron y la razón del cambio.
-> **Fecha:** 2026-09-13 · **Estado del código:** implementado y verificado (540 tests unitarios; migración 007; corrección secuencial v2.1 revisada por pares y validada con los ejercicios del profesor en el sistema real).
+> **Fecha:** 2026-10-01 · **Estado del código:** cadena v3 del profesor implementada y verificada (603 tests unitarios; migraciones 007 y 008; revisión con 4 lentes + contra-revisión independiente; mock del frontend en paridad exacta con el backend).
+> **v3 = la cadena definitiva que dictó el profesor en la expo** (hojas H1/H2/H3 escaneadas + láminas 13, 21, 26, 27 de "Potencia disponible y requerida 2026-2").
 > **Fuentes verificadas:** artículo del Prof. Chaparro (*Potencia en Máquinas Agrícolas*, Ing. e Investigación, UNAL), Zoz & Grisso (2003, *Traction and Tractor Performance*, ASAE Distinguished Lecture #27, Figs. 43 y 47), notas de clase manuscritas (incluida la corrección del 04/09/2026) y el código real del backend.
 
 ---
@@ -37,62 +38,50 @@ Valores Cn del código (índice de cono, `getSoilCn`): arcilla 45 · franco 35 �
 
 **Observación del profesor (04/09/2026):** el 13 % fijo no depende del suelo ni del tipo de tractor y el manuscrito indica *"mejor bajar desde potencia bruta"* (la eficiencia 0,98 × 0,89 de la Fig. 8 de Chaparro ≈ 0,87 justifica el orden de magnitud, pero es una constante única). Se reemplaza por el modelo v2.
 
-### 2.2 Modelo corregido (v2.1 — `calculateTotalLossWithZoz`, activo cuando se envía `soil_condition`)
+### 2.2 Cadena v3 — el modelo definitivo del profesor (expo del 2026-10, hojas H1/H2)
 
-Base teórica: **Zoz & Grisso (2003), Fig. 43 (cadena de transmisión) y Fig. 47 (eficiencia de entrega al eje y a la TDF)**, que actualizan los valores fijos de Chaparro con mediciones por condición de suelo y tipo de tractor. La corrección manuscrita del profesor (04/09/2026) — **`ΔP_T = 0,215 + ET`** — es **notación comprimida de etapas secuenciales**, no dos fracciones paralelas de la potencia bruta:
+El profesor dictó la cadena completa en clase (hojas manuscritas escaneadas + láminas 13, 21, 26 y 27 de su presentación). Es la que el software ejecuta hoy cuando el body incluye `soil_condition`:
 
 ```
-P_eje        = (P_bruta − P_alt − P_temp) × 0,785          ← eficiencia bruta→eje (Fig. 43, rango 0,77–0,80)
-P_disponible = P_eje × (1 − ET_eje) − P_pendiente           ← ET = pérdida eje→barra (Fig. 47)
-P_tdf        = (P_bruta − P_alt − P_temp) × 0,785 × EFICIENCIA_TDF
+P_N   = 0,92 · P_B                                     ← P_B la ingresa el usuario (Fig. 43: bruta→neta)
+P_ALT = (A / 300 m) · 1 % · P_N   — solo aspirados, solo si A > 300 m
+P_TEMP= ((T − 15 °C) / 5 °C) · 1 % · P_N   — solo aspirados, solo si T > 15 °C
+P_ROD = W · V · (ρ·cos α + sen α) / 274,4   ← rodamiento + pendiente JUNTOS (lám. 26/27)
+P_EJE = (P_N − P_ALT − P_TEMP − P_ROD) · 0,86   ← 0,86 = punto medio neta→eje (Fig. 43: 0,84–0,88)
+P_BDT = P_EJE · ET                     ← ET de la Fig. 47, MULTIPLICADA como eficiencia
 ```
 
-En forma de pérdidas explícitas (equivalente): `ΔP_total = P_bruta × (0,215 + 0,785 × ET)`.
+- **0,92 y 0,86 sustituyen al 0,785 único**: el producto 0,92 × 0,86 = 0,791 cae dentro del rango bruta→eje 0,77–0,80 de la Fig. 43 — dos etapas con las pérdidas atmosféricas y la rodadura en medio.
+- **La rodadura VUELVE y se resta antes del 0,86**, combinada con la pendiente: `P_ROD = W·V·(ρ·cos α + sen α)/274,4` (láminas 26/27). El patinamiento sigue sin restarse (tachado en H2) y queda como alerta cuando sale del rango ideal 7–15 % (lámina 21).
+- **ρ por superficie** (lámina 26) reemplaza a Cn para el tractor — menú propio "Superficie de rodadura":
 
-**Por qué ET se aplica sobre el eje y no sobre la bruta (verificado):** los valores de la Fig. 47 son eficiencia de entrega **eje→barra de tiro**. La prueba es aritmética: 2WD en concreto = 0,91 en la Fig. 47, pero la eficiencia bruta→eje sola (Fig. 43) es ≈ 0,78 — si 0,91 incluyera la transmisión sería imposible. Son etapas secuencialmente compuestas: `0,785 × 0,75 = 0,589 ≡ pérdida total 0,215 + 0,785 × 0,25 = 0,411`.
+| Superficie | Llantas | Oruga |
+|---|---:|---:|
+| Concreto | 0,02–0,03 | N.A. |
+| Carretable | 0,05 | 0,06 |
+| Arcilloso húmedo | 0,10 | 0,07 |
+| Arcilloso seco | 0,06–0,08 | 0,07 |
+| Limoso | 0,20 | 0,10 |
+| Arena suelta seca | **0,35** | 0,20 |
 
-**Rodamiento y patinamiento ya están dentro de ET:** la definición de E.T. de Chaparro lo dice explícitamente (*"se presentan diversos factores que producen pérdidas en la tracción (p. e. patinamiento, resistencia al rodamiento, fricción, etc.)"*). Por eso en v2 **no se resta** `P_rod = μr·W·cosθ·V` — sería doble conteo. La **pendiente sí se resta**: es una fuerza geométrica externa, no incluida en la Fig. 47.
+- **ET se multiplica como eficiencia** (lámina 13 = Fig. 47, verificada celda a celda): 2WD 0,75/0,70/0,57 · MFWD 0,79/0,75/0,66 · 4WD 0,80/0,78/0,73 · Oruga 0,85/0,83/0,81 (bueno/medio/malo).
+- **TDF (hoja H3):** la potencia disponible en la TDF es **la que ingresa el usuario** (`Pmax TDP`, "no siempre el 85 % de P_b"); si no se ingresa, default 0,85·P_B. La columna PTO de la Fig. 47 ya no alimenta lo disponible.
 
-- Las pérdidas atmosféricas se calculan igual que en v1 (1 %/300 m y 1 %/5 °C, solo aspirados, sobre bruta).
-- Constantes configurables: `ZOZ_GROSS_TO_AXLE_EFFICIENCY = 0,785` (punto medio del rango 0,77–0,80 de Fig. 43) y `ZOZ_AXLE_LOSS` (tabla Fig. 47). Ambas marcadas para confirmación del profesor.
-- `μr = 1,2/Cn + 0,04` y los valores Cn quedan **solo en el camino legacy** (v1); en v2 el rodamiento va dentro de ET.
+**Ejemplo verificado en el sistema (H2 del profesor):** 350 hp aspirado, 5500 kg, 1800 msnm, 18 °C, pendiente 8 % (α = 4,57°), V = 4,5 km/h, 2WD malo, arena suelta (ρ = 0,35) → P_N 322 · P_ALT 19,32 · P_TEMP 1,93 · P_ROD 38,66 (hoja: 38,7) · P_EJE 225,40 · P_BDT (ET 0,57) = **128,47 HP**. La hoja anota 246,88 — **no reproducible** con la propia cadena (ninguna ET de la Fig. 47 supera 1): pregunta abierta §7.
 
-**Tabla de pérdidas de entrega al eje (ET = 1 − eficiencia, Fig. 47; columnas: suelo bueno / medio / malo):**
+> **Historial:** v2.1 aplicaba `× 0,785 × (1 − ET)` sin paso 0,92 y sin restar rodadura (se asumía dentro de ET). El profesor la reemplazó con esta cadena explícita en su expo. El modelo v1 (13 % fijo) sigue disponible como camino legacy.
 
-| Tipo de tractor | Bueno | Medio | Malo |
-|---|---:|---:|---:|
-| 2WD (4x2) | 0,25 | 0,30 | 0,43 |
-| MFWD (4x4 asistido) | 0,21 | 0,25 | 0,34 |
-| 4WD (4x4 doble tracción) | 0,20 | 0,22 | 0,27 |
-| Oruga (belt) | 0,15 | 0,17 | 0,19 |
+### 2.3 v1 vs v3 — por qué cambió
 
-Mapeo desde la base de datos (`tractor.traction_type`): `4x2 → 2WD`, `4x4 → 4WD`, `track/oruga → BELT`, `mfwd → MFWD`. Tracción no reconocida ⇒ 2WD con advertencia (`zoz.tractor_type_defaulted`).
-
-**Tabla de eficiencia de entrega a la TDF (Fig. 47, fila PTO)** — para el implemento rotativo:
-
-| Tipo de tractor | Bueno | Medio | Malo |
-|---|---:|---:|---:|
-| 2WD | 0,72 | 0,67 | 0,55 |
-| MFWD | 0,76 | 0,72 | 0,64 |
-| 4WD | 0,77 | 0,75 | 0,70 |
-| Oruga | 0,76 | 0,74 | 0,72 |
-
-**Ejemplo de verificación** (probado en el endpoint real): tractor 100 HP bruto, 4x2, suelo bueno, turbo (sin pérdidas atmosféricas), sin pendiente → `P_eje = 100 × 0,785 = 78,5 HP`; `P_disp = 78,5 × 0,75 = 58,88 HP`; `P_tdf = 78,5 × 0,72 = 56,52 HP`; pérdida total de transmisión+tracción = 41,1 % de la potencia tras atmosféricas.
-
-> **Historial de corrección (v2.0 → v2.1):** la primera implementación aplicaba 0,215 y ET como fracciones paralelas sobre la bruta (`100 × (1 − 0,215 − 0,25) = 53,5 HP`) y además descontaba rodamiento aparte. Fue detectado en revisión por pares, verificado contra las Figs. 43/47 y la definición de E.T. de Chaparro, y corregido a la cadena secuencial (58,88 HP). El número 53,5 y cualquier valor derivado de versiones anteriores quedan obsoletos.
-
-### 2.3 v1 vs v2 — por qué cambió
-
-| Aspecto | v1 (legacy) | v2.1 (Zoz, corrección 04/09) |
+| Aspecto | v1 (legacy) | v3 (profesor, expo 2026-10) |
 |---|---|---|
-| Transmisión | 13 % fijo sobre potencia tras atmosféricas | Cadena secuencial: `× 0,785` (bruta→eje, Fig. 43) y `× (1 − ET)` (eje→barra, Fig. 47, según suelo y tipo de tractor) |
-| Rodamiento | `μr·W·cosθ·V` (usa Cn) | **No se resta**: ya está dentro de ET (definición E.T. de Chaparro) |
-| Patinamiento | % manual sobre potencia restante | Absorbido en la pérdida de eje de Zoz |
-| Pendiente | `W·sinθ·V` | Igual que v1 (fuerza geométrica externa, no está en Fig. 47) |
-| TDF | No existía | `P_tdf = P_tras_atm × 0,785 × eficiencia TDF(suelo, tractor)` |
-| Sensibilidad | Solo peso/velocidad/pendiente | Distingue 2WD/MFWD/4WD/oruga y suelo bueno/medio/malo |
-
----
+| Primer paso | Pérdidas atmosféricas sobre bruta | **P_N = 0,92·P_B** y todo lo demás sobre P_N |
+| Transmisión | 13 % fijo | **0,86** sobre (P_N − alt − temp − P_ROD), punto medio neta→eje 0,84–0,88 |
+| Rodamiento | μr = 1,2/Cn + 0,04 | **ρ por superficie** (lám. 26), combinado con la pendiente en P_ROD |
+| Pendiente | Término aparte tras la transmisión | Dentro de P_ROD, antes del 0,86 |
+| Patinamiento | % manual que resta | Absorbido en ET; **alerta** fuera de 7–15 % |
+| Entrega final | (implícita en el 13 %) | **× ET** (Fig. 47, eficiencia según suelo × tracción) |
+| TDF | No existía | **Pmax TDP ingresable** (default 0,85·P_B) |
 
 ## 3. P2 — Potencia requerida por el implemento
 
@@ -148,6 +137,13 @@ HP_tdf = demanda(HP tdf/m) × ancho(m)     demanda: 16 / 24 / 32 (arena / limo /
 
 El rango 16–32 HP tdf/m es textual de la Tabla 1; el desglose por suelo sigue el patrón mínimo/medio/máximo de los demás implementos (constante `FACTOR_IMPLEMENTO_ROTATIVO`, marcada para confirmación). La comparación contra el tractor se hace contra `P_tdf` (§2.2), **no** contra la barra de tiro.
 
+### Modelo de fuerza del implemento y unidades nuevas (expo, láminas 19/32/35)
+
+- **Fuerza total:** `F = R_syc + R_r` — a la fuerza de suelo y cultivo (`R_syc = tiro × ancho`) se suma la **rodadura propia del implemento con ruedas**: `R_r = (1,2/Cn + 0,04) × peso`, con Cn por textura de la **lámina 17** (duro 50 · firme 30 · labrado 20 · suelto/arenoso 10). Ejemplo de clase: sembradora 204 kg/surco × 4 surcos, peso 1700 kg, Cn 20 → R_r = 170 kg.
+- **Potencia en barra:** `P_bdt = F × V / 274,4` (la lámina 32 usa /270 en CV — diferencia documentada como pregunta abierta).
+- **Unidades nuevas aceptadas:** `kg/surco × N surcos` (sembradoras) y `CV/m` (implementos de TDF; 1 CV = 0,9863 HP), además de un tipo **Personalizado (tiro manual)** con el tiro que indique el usuario — reproduce el Ejercicio 1 completo (cincel 950 kg/m → 36,55 HP; aspersora 4,5 CV/m × 16 m → 71,01 HP tdf).
+- **Conversión a TDP (lámina 19, ecuación verificada en el propio archivo):** `P_tdp = P_bdt / (0,96 × ET)` — 0,96 = eje↔TDP (Fig. 1 de Chaparro). Así un implemento de tiro se compara contra tractores evaluados por TDP.
+
 **Casos de validación** (fijados en tests unitarios):
 
 | Caso | Cálculo | Resultado |
@@ -174,7 +170,7 @@ Margen = Disponible − Requerida
 Margen ≥ 0 → ADECUADO · Margen < 0 → NO_ADECUADO · Excedente > 25 % → SOBREPOTENCIADO
 ```
 
-Si no se envían datos del tractor, el endpoint devuelve solo la potencia requerida (con `power_kind: drawbar|pto`), para usarlo como calculadora independiente.
+Si no se envían datos del tractor, el endpoint devuelve solo la potencia requerida (con `power_kind: drawbar|pto`), para usarlo como calculadora independiente. Con contexto de tractor, los implementos de tiro devuelven además `pto_equivalent_hp = P_bdt / (0,96 × ET)` para comparar contra la TDP del catálogo.
 
 ---
 
@@ -196,26 +192,39 @@ Teoría de respaldo documentada (diagrama de Zoz, tractor IH 886, prueba Nebrask
 
 | Elemento | Ubicación |
 |---|---|
-| Servicio de potencia por implemento | `backend/src/services/implementPowerService.js` |
-| Pérdidas (legacy + Zoz) | `backend/src/services/powerLossService.js` |
+| Servicio de potencia por implemento | `backend/src/services/implementPowerService.js` (Tabla 1 + R_r + personalizado + `computePtoEquivalent`) |
+| Pérdidas (legacy + v3) | `backend/src/services/powerLossService.js` — `calculateTotalLossV3` es la ruta activa; `calculateTotalLoss` (legacy) y `calculateTotalLossWithZoz` (v2.1) quedan para compatibilidad |
 | Potencia mínima (legacy) | `backend/src/services/minimumPowerService.js` |
 | Controladores / rutas / validación | `calculationController.js`, `routes/calculation.routes.js`, `middleware/calculationValidation.middleware.js` |
 | Endpoints nuevos | `POST /api/calculations/implement-power` (auth) · `POST /api/calculations/direct-implement-power` (público) |
-| Migración | `backend/database/migrations/007_add_implement_power_fields.sql` (n_tines, soil_condition, has_turbo, CHECK query_type ampliado) |
+| Migraciones | `007_add_implement_power_fields.sql` (n_tines, soil_condition, has_turbo, CHECK query_type) · `008_add_rodadura_surface.sql` (terrain.superficie_rodadura para el ρ) |
 | Frontend | `DatosImplemento.jsx` (9 aperos + N + resultados), `DatosTractor.jsx` (condición del suelo), `calculationApi.js` (API + mock con paridad verificada) |
 | Modo real | `VITE_ENABLE_REMOTE_CALCULATION_API=true` en `frontend/.env` antes de compilar |
 
 ---
 
-## 7. Supuestos y puntos con el profesor
+## 7. Preguntas abiertas para el profesor (verificadas, cada una con el dato que falta)
 
-1. **RESUELTO (v2.1):** la lectura de `ΔP_T = 0,215 + ET` es notación comprimida de la cadena secuencial `× 0,785 × (1 − ET)` — confirmada por la definición de la Fig. 47 (eje→barra) y la Fig. 43 (bruta→eje 0,77–0,80). Queda usar el punto medio **0,785** como constante configurable: confirmar con el profesor si prefiere otro valor del rango.
-2. **Patinamiento:** absorbido en ET (criterio Zoz). El campo de patinamiento del formulario no tiene efecto en el camino v2; confirmar si se quiere conservar como término aparte o eliminarlo de la UI en modo v2.
-3. **Rotativo:** desglose 16/24/32 reconstruido por patrón (Tabla 1 solo da el rango 16–32).
-4. **Franco/loam:** mapeado a limo (la Tabla 1 no tiene franco).
-5. **Tracción:** `4x4 → 4WD` (no existe MFWD en la base de datos; la tabla Zoz sí lo distingue).
-6. **Margen de seguridad:** ¿se conserva 1,15 del modelo anterior o se adopta el factor de carga 0,80 de los ejercicios de Chaparro sobre el ancho?
-7. **Cn (solo legacy):** el código usa 45/35/25/50/20 y la Tabla 2 de Chaparro dice 50/30/20/15. En v2 ya no interviene (el rodamiento va dentro de ET), pero confirmar si el camino legacy debe alinearse a la Tabla 2.
+1. **246,88 hp (hoja H2):** con la propia cadena, (300,8 − 38,7)·0,86 = 225,4 y ninguna ET de la Fig. 47 supera 1. ¿Qué ET o paso adicional usó?
+2. **Altitud:** el 1 % ¿cuenta desde 0 m o desde 300 m? La fórmula escrita usa A/300 (a 1800 m → 6 % ✓), pero la nota dice "solo si A > 300 m" (a 500 m: ¿0,67 % o 1,67 %?). El software implementa la fórmula tal cual (desde 0, con el gate).
+3. **Sembradora (lám. 35):** los datos dicen 204 kg/surco pero la fórmula usa 240 (y el "ajuste en clase" a 1130 kg) — ¿cuál vale?
+4. **Constante de implementos:** la lámina 32 usa /270 con resultado en CV; las hojas de los 9 aperos usan 3,65×10⁻³ (≈ 274,4) en HP. El software usa 274,4/HP — ¿correcto?
+5. **ET de la conversión a TDP:** el ejemplo de la lámina 32 usa ET = 0,484 (leída del diagrama de Zoz), no de la Fig. 47 (0,57–0,85). ¿Cuál debe usar el software?
+6. **Cn:** la lámina 17 da arenoso = 10 (Chaparro Tabla 2: 15) — el software usa 10/20/20 para la rodadura del implemento (lám. 17 manda por ser lo último del profesor).
+7. **Caso 2 (H3):** faltan velocidad y tipo de tractor para cerrarlo como caso de prueba.
+8. **Pendiente de la lámina 13 vs el software:** el ejemplo de clase (42,9 → 40,73/41,16) anota pendiente en grados; el software la toma en % — el deck ya lo aclara.
+
+## 7b. Estado de los supuestos anteriores
+
+| Supuesto de la v2.1 | Estado en v3 |
+|---|---|
+| 0,785 punto medio de 0,77–0,80 | **Reemplazado**: el profesor lo descompone en 0,92 × 0,86 |
+| Patinamiento absorbido en ET | **Confirmado por el profesor** (tachado en H2); queda como alerta 7–15 % |
+| Rotativo 16/24/32 por patrón | Vigente (pregunta 3 del profesor pendiente) |
+| franco → limo | Vigente |
+| 4x4 → 4WD en la tabla Zoz | Vigente (la ET ahora se multiplica, no se resta) |
+| Margen 1,15 vs factor de carga 0,80 | Pendiente (el 0,80 de Chaparro aplica sobre el ancho) |
+| Cn 45/35/25/50/20 del código | **Reemplazado**: ρ por superficie para el tractor; Cn 50/30/20/10 (lám. 17) para la rodadura del implemento |
 
 ## 8. Trazabilidad de fuentes
 
