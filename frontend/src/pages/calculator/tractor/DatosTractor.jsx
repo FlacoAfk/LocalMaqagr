@@ -79,6 +79,7 @@ export default function DatosTractor() {
     presionInflado: "",
     soil_type: "",
     soil_condition: "medio", // Condición del suelo: bueno | medio | malo
+    superficie_rodadura: "arena_suelta", // Superficie para el ρ de P_ROD (lám. 26)
     tamanoLlanta: "", // Simple Mode
 
     // Paso 3: Clima
@@ -144,10 +145,10 @@ export default function DatosTractor() {
         }
       } else if (name === "pmax_tdp") {
         const num = Number(value);
+        // Solo se recalcula la potencia bruta cuando hay un valor válido:
+        // vaciar la TDP (opcional) no debe borrar la potencia bruta ingresada.
         if (value !== "" && Number.isFinite(num) && num > 0) {
           next.pb = String(+(num / 0.86).toFixed(1));
-        } else if (value === "") {
-          next.pb = "";
         }
       }
 
@@ -176,10 +177,11 @@ export default function DatosTractor() {
       err.pb = "Ingresa la potencia bruta (HP) como un número válido.";
       missing.push("Potencia Bruta");
     }
+    // Pmax TDP opcional (hoja H3 del profesor): si se deja vacía el backend aplica
+    // el default 0,85 · P_B; solo se valida el formato cuando el usuario escribió algo.
     const pmaxVal = Number(formData.pmax_tdp);
-    if (!formData.pmax_tdp || !Number.isFinite(pmaxVal) || pmaxVal <= 0) {
-      err.pmax_tdp = "Ingresa la potencia TDP (HP) como un número válido.";
-      missing.push("Potencia Máxima TDP");
+    if (formData.pmax_tdp && (!Number.isFinite(pmaxVal) || pmaxVal <= 0)) {
+      err.pmax_tdp = "Ingresa la potencia TDP (HP) como un número mayor a 0, o déjala vacía.";
     }
     const pesoVal = Number(formData.peso);
     if (!formData.peso || !Number.isFinite(pesoVal) || pesoVal <= 0) {
@@ -265,6 +267,7 @@ export default function DatosTractor() {
       ambientTemperatureC: "",
       slopePercent: "",
       slippagePercent: "",
+      superficie_rodadura: "arena_suelta",
       altitudSimple: "",
       temperaturaSimple: "",
       workingSpeedKmh: "",
@@ -330,12 +333,16 @@ export default function DatosTractor() {
 
     const payload = {
       enginePowerHp: toNumberOrNull(formData.pb),
-      pmaxTdpHp: toNumberOrNull(formData.pmax_tdp),
+      // Pmax TDP (hoja H3): opcional — si no se ingresó no viaja en el payload y
+      // el backend aplica el default del profesor (0,85 · P_B).
+      ...(formData.pmax_tdp ? { pmaxTdpHp: toNumberOrNull(formData.pmax_tdp) } : {}),
       weightKg: toNumberOrNull(formData.peso),
       hasTurbo,
       // El formulario no tiene selector de tracción: se envía 4x2 (2WD) por defecto.
       // El backend la usa solo cuando el body incluye soil_condition (ruta Zoz & Grisso).
       tractionType: "4x2",
+      // Condición del suelo (Fig. 47): activa la ruta v3 del profesor en el backend.
+      soilCondition: formData.soil_condition || "medio",
       tireDiameterIn: diametroLlanta,
       tirePressurePsi: presionInflado,
       soilType: formData.soil_type || 'loam',
@@ -343,6 +350,7 @@ export default function DatosTractor() {
       ambientTemperatureC,
       slopePercent,
       slippagePercent,
+      superficieRodadura: formData.superficie_rodadura || "arena_suelta",
       workingSpeedKmh,
       carriedObjectsWeightKg: 0,
     };
@@ -461,7 +469,7 @@ export default function DatosTractor() {
             id="pmax_tdp"
             name="pmax_tdp"
             label="Potencia Máxima TDP"
-            tooltip="Potencia en la Toma de Fuerza (TDF). Usualmente ≈ 86% de la potencia bruta."
+            tooltip="Potencia en la Toma de Fuerza (TDF). Opcional: se sugiere ≈ 86% de la potencia bruta, pero puedes ingresar el valor real del fabricante si lo conoces (el cálculo usará el valor que ingreses). Si la dejas vacía se aplica el 85% de la potencia bruta."
             value={formData.pmax_tdp}
             onChange={handleChange}
             error={errors.pmax_tdp}
@@ -627,6 +635,29 @@ export default function DatosTractor() {
           Ajusta el cálculo de pérdidas según el estado actual del terreno.
         </p>
       </div>
+
+      <div>
+        <label htmlFor="superficie_rodadura" className="text-sm font-medium text-foreground block mb-1.5">
+          Superficie de rodadura
+        </label>
+        <select
+          id="superficie_rodadura"
+          name="superficie_rodadura"
+          value={formData.superficie_rodadura}
+          onChange={handleChange}
+          className={getInputClass('superficie_rodadura', errors)}
+        >
+          <option value="concreto">Concreto</option>
+          <option value="carretable">Carretable</option>
+          <option value="arcilloso_humedo">Arcilloso húmedo</option>
+          <option value="arcilloso_seco">Arcilloso seco</option>
+          <option value="limoso">Limoso</option>
+          <option value="arena_suelta">Arena suelta seca</option>
+        </select>
+        <p className="mt-1.5 text-xs text-muted-foreground">
+          Define el coeficiente ρ de la resistencia al rodamiento del tractor (ρ · w · v).
+        </p>
+      </div>
     </div>
   );
 
@@ -744,6 +775,12 @@ export default function DatosTractor() {
               unknownLabel="15% (estándar recomendado)"
               inputClass={getInputClass('slippagePercent', {})}
             />
+
+        {formData.slippagePercent && Number(formData.slippagePercent) > 0 && (Number(formData.slippagePercent) < 7 || Number(formData.slippagePercent) > 15) && (
+          <p className="mt-1.5 text-xs text-amber-600 dark:text-amber-400">
+            El patinamiento ideal está entre 7% y 15% (no se resta de la potencia: solo se muestra como alerta).
+          </p>
+        )}
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -815,6 +852,10 @@ export default function DatosTractor() {
           ).toFixed(1)
         : 0
     );
+
+    // Advertencias devueltas por el servicio de cálculo (superficie asumida,
+    // patinamiento fuera de 7–15 %, etc.)
+    const serviceWarnings = Array.isArray(result?.warnings) ? result.warnings : [];
 
     const filteredImplements = implementsList.filter(
       (imp) =>
@@ -972,6 +1013,18 @@ export default function DatosTractor() {
                 </div>
               ))}
             </div>
+          </div>
+        )}
+
+        {/* Advertencias del servicio de cálculo */}
+        {serviceWarnings.length > 0 && (
+          <div className="p-4 border border-border/60 bg-secondary/15 rounded">
+            <h3 className="text-sm font-semibold text-foreground mb-2">Advertencias</h3>
+            <ul className="list-disc list-inside space-y-1 text-sm text-muted-foreground">
+              {serviceWarnings.map((warning, index) => (
+                <li key={index}>{warning}</li>
+              ))}
+            </ul>
           </div>
         )}
 

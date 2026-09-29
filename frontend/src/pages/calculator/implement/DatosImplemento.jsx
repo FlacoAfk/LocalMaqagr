@@ -88,6 +88,7 @@ const TIPOS_IMPLEMENTO_DIRECTO = [
   { value: "rastrillo_californiano",  label: "Rastrillo californiano" },
   { value: "rastra_pesada_26",        label: 'Rastra pesada de discos 26"' },
   { value: "rastra_pesada_24",        label: 'Rastra pesada de discos 24"' },
+  { value: "personalizado",           label: "Personalizado (tiro manual)" },
 ];
 
 const TIPOS_DIRECTOS_SET = new Set(TIPOS_IMPLEMENTO_DIRECTO.map((tipo) => tipo.value));
@@ -97,6 +98,16 @@ const TIPOS_CON_PROFUNDIDAD = new Set(["arado_disco_vertedera", "subsolador", "a
 
 // Familias que requieren número de puntas.
 const TIPOS_CON_PUNTAS = new Set(["subsolador", "arado_cincel"]);
+
+// Tipo personalizado (tiro manual del Ejercicio 1 del profesor)
+const DRAFT_UNITS = [
+  { value: "kg/m", label: "kg/m — por metro de ancho" },
+  { value: "kg/surco", label: "kg/surco — por surco" },
+  { value: "cv/m", label: "CV/m — potencia TDF por metro" },
+  { value: "hp_tdf/m", label: "HP tdf/m — potencia TDF por metro" },
+];
+const UNITS_TDF = new Set(["cv/m", "hp_tdf/m"]);
+const isPersonalizado = (tipo) => tipo === "personalizado";
 
 // Mapea el suelo del formulario al valor esperado por la API (arena/limo/arcilla).
 // Franco y "Todo tipo de suelo" se aproximan a limo (suelo intermedio).
@@ -130,6 +141,10 @@ export default function DatosImplemento() {
     working_speed_kmh: "",
     power_requirement_hp: "",
     n_tines: "",
+    tiro: "",
+    draft_unit: "kg/m",
+    n_surcos: "",
+    implement_weight_kg: "",
 
     // Paso 2
     soil_type: "",
@@ -266,6 +281,25 @@ export default function DatosImplemento() {
         missing.push("Número de puntas");
       }
     }
+    if (isPersonalizado(formData.implement_type)) {
+      const unidad = formData.draft_unit;
+      if (!formData.tiro || !Number.isFinite(Number(formData.tiro)) || Number(formData.tiro) <= 0) {
+        err.tiro = "Ingresa el tiro o tracción requerida como un número válido.";
+      }
+      if (unidad === "kg/surco") {
+        const surcos = Number(formData.n_surcos);
+        // Mismo tope que el backend: entero entre 1 y 100
+        if (!formData.n_surcos || !Number.isInteger(surcos) || surcos < 1 || surcos > 100) {
+          err.n_surcos = "Ingresa el número de surcos (entero entre 1 y 100).";
+        }
+      } else if (!formData.working_width_m || !Number.isFinite(Number(formData.working_width_m)) || Number(formData.working_width_m) <= 0) {
+        err.working_width_m = "Ingresa el ancho de trabajo como un número válido.";
+      }
+    }
+    // Peso del implemento: opcional; solo tiene efecto en implementos de tiro
+    if (formData.implement_weight_kg && (!Number.isFinite(Number(formData.implement_weight_kg)) || Number(formData.implement_weight_kg) < 0)) {
+      err.implement_weight_kg = "El peso debe ser un número mayor o igual a 0.";
+    }
 
     if (missing.length > 0) {
       sileo.warning(`Estás dejando vacío(s) el/los campo(s): ${missing.join(", ")}.`);
@@ -353,6 +387,17 @@ export default function DatosImplemento() {
         }
         if (TIPOS_CON_PUNTAS.has(formData.implement_type)) {
           payload.nTines = Number(formData.n_tines);
+        }
+        if (isPersonalizado(formData.implement_type)) {
+          payload.tiro = Number(formData.tiro);
+          payload.draftUnit = formData.draft_unit;
+          if (formData.draft_unit === "kg/surco") {
+            payload.nSurcos = Number(formData.n_surcos);
+          }
+        }
+        const pesoImplemento = Number(formData.implement_weight_kg);
+        if (formData.implement_weight_kg && Number.isFinite(pesoImplemento) && pesoImplemento > 0) {
+          payload.implementWeightKg = pesoImplemento;
         }
 
         const res = await calculateDirectImplementPower(payload);
@@ -473,6 +518,64 @@ export default function DatosImplemento() {
             )}
           </div>
 
+          {isPersonalizado(formData.implement_type) && (
+            <div className="space-y-4">
+              <div>
+                <label htmlFor="draft_unit" className="text-sm font-medium leading-none block mb-1.5 text-foreground">
+                  Unidad del tiro
+                  <TooltipInfo content="Unidad en la que se expresa el tiro del implemento." />
+                </label>
+                <select
+                  id="draft_unit"
+                  name="draft_unit"
+                  value={formData.draft_unit}
+                  onChange={handleChange}
+                  className={getInputClass('draft_unit', errors)}
+                >
+                  {DRAFT_UNITS.map((u) => (
+                    <option key={u.value} value={u.value}>
+                      {u.label}
+                    </option>
+                  ))}
+                </select>
+              </div>
+
+              <FieldWithPresets
+                id="tiro"
+                name="tiro"
+                label="Tiro o tracción requerida"
+                tooltip="Tiro que indica el profesor o el catálogo del implemento."
+                value={formData.tiro}
+                onChange={handleChange}
+                error={errors.tiro}
+                placeholder={formData.draft_unit ? `Valor en ${formData.draft_unit}` : "Valor"}
+                step="0.1"
+                min="0"
+                inputClass={getInputClass('tiro', errors)}
+              />
+
+              {formData.draft_unit === 'kg/surco' && (
+                <FieldWithPresets
+                  id="n_surcos"
+                  name="n_surcos"
+                  label="Número de surcos"
+                  tooltip="Cantidad de surcos que trabaja el implemento a la vez."
+                  value={formData.n_surcos}
+                  onChange={handleChange}
+                  error={errors.n_surcos}
+                  placeholder="N"
+                  step="1"
+                  min="1"
+                  inputClass={getInputClass('n_surcos', errors)}
+                />
+              )}
+
+              <p className="text-xs text-muted-foreground">
+                Ingresa el tiro que indica el profesor o el catálogo del implemento. kg/surco = sembradoras; CV/m y HP tdf/m = implementos accionados por la TDF.
+              </p>
+            </div>
+          )}
+
           {!isDirectType && (
             <FieldWithPresets
               id="power_requirement_hp"
@@ -492,22 +595,24 @@ export default function DatosImplemento() {
             />
           )}
 
-          <FieldWithPresets
-            id="working_width_m"
-            name="working_width_m"
-            label="Ancho de trabajo"
-            tooltip="Ancho de la franja que cubre el implemento en cada pasada, en metros (m)."
-            value={formData.working_width_m}
-            onChange={handleChange}
-            error={errors.working_width_m}
-            placeholder="m"
-            step="0.1"
-            min="0"
-            presets={ANCHO_TRABAJO_PRESETS}
-            unknownDefault={ANCHO_TRABAJO_UNKNOWN_DEFAULT}
-            unknownLabel="~2 m (estándar)"
-            inputClass={getInputClass('working_width_m', errors)}
-          />
+          {! (isPersonalizado(formData.implement_type) && formData.draft_unit === 'kg/surco') && (
+            <FieldWithPresets
+              id="working_width_m"
+              name="working_width_m"
+              label="Ancho de trabajo"
+              tooltip="Ancho de la franja que cubre el implemento en cada pasada, en metros (m)."
+              value={formData.working_width_m}
+              onChange={handleChange}
+              error={errors.working_width_m}
+              placeholder="m"
+              step="0.1"
+              min="0"
+              presets={ANCHO_TRABAJO_PRESETS}
+              unknownDefault={ANCHO_TRABAJO_UNKNOWN_DEFAULT}
+              unknownLabel="~2 m (estándar)"
+              inputClass={getInputClass('working_width_m', errors)}
+            />
+          )}
 
           {isRotativo ? (
             <div className="p-4 border border-border/60 rounded bg-secondary/15 text-sm text-muted-foreground leading-relaxed">
@@ -589,6 +694,22 @@ export default function DatosImplemento() {
               unknownDefault="7"
               unknownLabel="sistema usará 7 km/h"
               inputClass={getInputClass('working_speed_kmh', errors)}
+            />
+          )}
+
+          {(isDrawbar && !(isPersonalizado(formData.implement_type) && UNITS_TDF.has(formData.draft_unit))) && (
+            <FieldWithPresets
+              id="implement_weight_kg"
+              name="implement_weight_kg"
+              label="Peso del implemento (opcional)"
+              tooltip="Si el implemento tiene ruedas y peso propio, se suma su resistencia al rodamiento (Rr = (1,2/Cn + 0,04) × peso)."
+              value={formData.implement_weight_kg}
+              onChange={handleChange}
+              error={errors.implement_weight_kg}
+              placeholder="kg"
+              step="1"
+              min="0"
+              inputClass={getInputClass('implement_weight_kg', errors)}
             />
           )}
         </div>
@@ -779,6 +900,18 @@ export default function DatosImplemento() {
               <p className="text-xs font-semibold text-foreground mt-1">
                 {unitContext}
               </p>
+              {result.ptoEquivalentHp && (
+                <>
+                  <p className="text-xs font-semibold text-foreground mt-2">
+                    Potencia equivalente en la TDF: {result.ptoEquivalentHp} HP
+                  </p>
+                  {result.ptoEquivalentNote && (
+                    <p className="text-[10px] text-muted-foreground/80 mt-0.5">
+                      {result.ptoEquivalentNote}
+                    </p>
+                  )}
+                </>
+              )}
               <p className="text-xs text-muted-foreground/80 mt-1">
                 Se recomienda usar un tractor que cumpla o supere este rango.
               </p>

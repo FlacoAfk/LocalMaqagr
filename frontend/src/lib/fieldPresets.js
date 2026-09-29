@@ -46,15 +46,15 @@ export const PB_UNKNOWN_DEFAULT = '80';
 
 /**
  * Presets para la Potencia Máxima TDP (Toma de Fuerza) en HP.
- * Generalmente ~86% de la potencia bruta.
+ * Generalmente ~85–86% de la potencia bruta (ajustable).
  *
  * @type {Array<{label: string, value: string, hint: string}>}
  */
 export const PMAX_TDP_PRESETS = [
-  { label: '56 HP', value: '56', hint: '≈ 86% de 65 HP' },
-  { label: '69 HP', value: '69', hint: '≈ 86% de 80 HP' },
-  { label: '86 HP', value: '86', hint: '≈ 86% de 100 HP' },
-  { label: '103 HP', value: '103', hint: '≈ 86% de 120 HP' },
+  { label: '56 HP', value: '56', hint: '≈ 85–86% de la potencia bruta (ajustable)' },
+  { label: '69 HP', value: '69', hint: '≈ 85–86% de la potencia bruta (ajustable)' },
+  { label: '86 HP', value: '86', hint: '≈ 85–86% de la potencia bruta (ajustable)' },
+  { label: '103 HP', value: '103', hint: '≈ 85–86% de la potencia bruta (ajustable)' },
 ];
 
 /** Valor por defecto cuando el usuario no conoce el TDP. */

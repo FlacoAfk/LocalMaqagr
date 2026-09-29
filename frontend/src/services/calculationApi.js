@@ -28,45 +28,209 @@ const mockPowerLoss = async () => {
   });
 };
 
+// ===== Cadena V3 del profesor (hojas H1/H2 + láminas 13/21/26/27 de la expo) =====
+// Misma cadena que el backend (powerLossService.calculateTotalLossV3):
+//   P_N = 0,92·P_B → P_ALT/P_TEMP sobre P_N (solo aspirados; A > 300 m; T > 15 °C)
+//   → P_ROD = W·V·(ρ·cosα + senα)/274,4 con α = atan(pend%/100) (lám. 26/27)
+//   → P_EJE = (P_N − P_ALT − P_TEMP − P_ROD)·0,86 (Fig. 43: neta→eje 0,84–0,88)
+//   → P_BDT = P_EJE·ET (Fig. 47 multiplicada como eficiencia)
+// El patinamiento NO se resta aparte: ya viene dentro de ET; solo se advierte
+// cuando queda fuera del rango ideal 7–15 %.
+
+/** Eficiencia bruta→neta del motor (Fig. 43 de Zoz & Grisso). */
+const V3_GROSS_TO_NET_EFFICIENCY = 0.92;
+
+/** Eficiencia neta→eje: punto medio del rango 0,84–0,88 (Fig. 43 de Zoz & Grisso). */
+const V3_NET_TO_AXLE_EFFICIENCY = 0.86;
+
+/** ρ de resistencia al rodamiento por superficie (lámina 26 del profesor).
+ *  Columnas: llantas / oruga. Concreto no aplica para oruga (N.A.). */
+const V3_RHO_SUPERFICIE = {
+  concreto: { llantas: 0.025, oruga: null }, // punto medio del rango 0,02–0,03
+  carretable: { llantas: 0.05, oruga: 0.06 },
+  arcilloso_humedo: { llantas: 0.1, oruga: 0.07 },
+  arcilloso_seco: { llantas: 0.07, oruga: 0.07 }, // punto medio del rango 0,06–0,08
+  limoso: { llantas: 0.2, oruga: 0.1 },
+  arena_suelta: { llantas: 0.35, oruga: 0.2 },
+};
+
+/** ET de entrega eje→barra de tiro (Fig. 47 de Zoz & Grisso, como eficiencia).
+ *  Filas: 2WD / MFWD / 4WD / oruga (BELT). Columnas: bueno / medio / malo. */
+const V3_ET_FIG47 = {
+  '2WD': { bueno: 0.75, medio: 0.7, malo: 0.57 },
+  MFWD: { bueno: 0.79, medio: 0.75, malo: 0.66 },
+  '4WD': { bueno: 0.8, medio: 0.78, malo: 0.73 },
+  BELT: { bueno: 0.85, medio: 0.83, malo: 0.81 },
+};
+
+/** Tipos de tracción reconocidos; cualquier otro cae en 2WD con advertencia. */
+const V3_RECOGNIZED_TRACTION_TYPES = ['mfwd', '4x4', '4wd', 'track', 'oruga', 'belt', '4x2', '2wd'];
+
+/** Normaliza la condición del suelo a los valores de la Fig. 47 (default medio). */
+const normalizeSoilConditionV3 = (soilCondition) => {
+  const normalized = String(soilCondition ?? '').toLowerCase().trim();
+  return ['bueno', 'medio', 'malo'].includes(normalized) ? normalized : 'medio';
+};
+
+/** Mapea el tipo de tracción a las filas de la Fig. 47 ('track'/'oruga'/'belt' → BELT). */
+const mapTractionTypeToZozV3 = (tractionType) => {
+  const normalized = String(tractionType ?? '').toLowerCase().trim();
+  if (normalized === 'mfwd') return 'MFWD';
+  if (normalized === '4x4' || normalized === '4wd') return '4WD';
+  if (normalized === 'track' || normalized === 'oruga' || normalized === 'belt') return 'BELT';
+  // '4x2', '2wd' y cualquier valor desconocido caen en 2WD
+  return '2WD';
+};
+
+const round2 = (value) => Math.round(value * 100) / 100;
+
 const mockDirectPowerLoss = async (payload) => {
   return new Promise((resolve) => {
     setTimeout(() => {
-      const enginePowerHp = payload.enginePowerHp || 100;
+      const enginePowerHp = Number(payload.enginePowerHp) || 0;
+      const hasTurbo = Boolean(payload.hasTurbo);
+      const totalWeightKg =
+        (Number(payload.weightKg) || 0) + (Number(payload.carriedObjectsWeightKg) || 0);
+      const speedKmh = Number(payload.workingSpeedKmh) || 7; // default del controlador
+      const slopePercent = Number(payload.slopePercent) || 0;
+      const warnings = [];
 
-      // Soil type affects rolling resistance.
-      // Base factor: loam (0%). Clay: +30%, Silt: +10%, Sandy: -20%.
-      const soilRollingFactor = {
-        clay:  1.30,
-        silt:  1.10,
-        loam:  1.00,
-        sandy: 0.80,
-      }[payload.soilType] ?? 1.00;
+      // 1. Potencia neta del motor: P_N = 0,92 · P_B
+      const pN = enginePowerHp * V3_GROSS_TO_NET_EFFICIENCY;
 
-      const losses = {
-        slopeLossHp:              +(enginePowerHp * 0.04).toFixed(2),
-        altitudeLossHp:           payload.hasTurbo ? 0 : +(enginePowerHp * 0.03).toFixed(2),
-        rollingResistanceLossHp:  +(enginePowerHp * 0.03 * soilRollingFactor).toFixed(2),
-        slippageLossHp:           +(enginePowerHp * (payload.slippagePercent || 10) / 100 * 0.5).toFixed(2),
-      };
-      const totalLossHp = +(
-        losses.slopeLossHp +
-        losses.altitudeLossHp +
-        losses.rollingResistanceLossHp +
-        losses.slippageLossHp
-      ).toFixed(2);
-      const netPowerHp = +(enginePowerHp - totalLossHp).toFixed(2);
+      // 2. Pérdidas atmosféricas sobre P_N — solo aspirados; altitud solo si A > 300 m
+      const altitudeM = Number(payload.altitudeM);
+      const altLoss = !hasTurbo && altitudeM > 300 ? pN * (altitudeM / 300) * 0.01 : 0;
+      const temperatureC = Number(payload.ambientTemperatureC);
+      const tempLoss =
+        !hasTurbo && temperatureC > 15 ? pN * ((temperatureC - 15) / 5) * 0.01 : 0;
+
+      // 3. Rodadura + pendiente combinadas (lám. 26/27): P_ROD = W·V·(ρ·cosα + senα)/274,4.
+      //    La constante 274,4 ya convierte kg·km/h → HP (no se re-convierte la velocidad).
+      const zozTractorType = mapTractionTypeToZozV3(payload.tractionType);
+      const surfaceKey = String(payload.superficieRodadura ?? '').toLowerCase().trim();
+      const surfaceDefaulted = !Object.keys(V3_RHO_SUPERFICIE).includes(surfaceKey);
+      const surface = surfaceDefaulted ? 'arena_suelta' : surfaceKey;
+      if (surfaceDefaulted) {
+        warnings.push('superficie de rodadura no indicada o no reconocida, se asumió arena suelta seca');
+      }
+      const rhoKind = zozTractorType === 'BELT' ? 'oruga' : 'llantas';
+      let rho = V3_RHO_SUPERFICIE[surface][rhoKind];
+      if (rho === null || rho === undefined) {
+        rho = V3_RHO_SUPERFICIE[surface].llantas;
+        warnings.push('la superficie seleccionada no aplica para oruga, se usó el coeficiente de llantas');
+      }
+      const alphaRadians = Math.atan(slopePercent / 100);
+      let rollingPart = (totalWeightKg * Math.cos(alphaRadians) * rho * speedKmh) / 274.4;
+      let slopePart = (totalWeightKg * Math.sin(alphaRadians) * speedKmh) / 274.4;
+
+      // Invariante bruta − total = neta: cuando P_ROD supera lo disponible
+      // (P_N − P_ALT − P_TEMP) se escala proporcionalmente al máximo disponible
+      // (misma conducta que el backend).
+      const availableBeforeRod = pN - altLoss - tempLoss;
+      const pRodRaw = rollingPart + slopePart;
+      if (pRodRaw > availableBeforeRod) {
+        const scale = availableBeforeRod > 0 ? availableBeforeRod / pRodRaw : 0;
+        rollingPart *= scale;
+        slopePart *= scale;
+      }
+      const pRod = rollingPart + slopePart;
+
+      // 4. Potencia en el eje: P_EJE = (P_N − P_ALT − P_TEMP − P_ROD) · 0,86
+      const effectiveBase = Math.max(0, availableBeforeRod - pRod);
+      const pEje = effectiveBase * V3_NET_TO_AXLE_EFFICIENCY;
+
+      // 5. P_BDT = P_EJE · ET (Fig. 47 multiplicada como eficiencia)
+      const soilCondition = normalizeSoilConditionV3(payload.soilCondition);
+      const et = V3_ET_FIG47[zozTractorType][soilCondition];
+      const axleLoss = 1 - et;
+      const tractionLossHp = pEje * axleLoss;
+      const netPowerHp = Math.max(0, pEje * et);
+
+      // Advertencias: tracción no reconocida, patinamiento fuera de 7–15 %
+      const normalizedTraction = String(payload.tractionType ?? '').toLowerCase().trim();
+      const tractionTypeDefaulted = !V3_RECOGNIZED_TRACTION_TYPES.includes(normalizedTraction);
+      if (tractionTypeDefaulted) {
+        warnings.push('tipo de tracción no reconocido, se asumió 2WD');
+      }
+      const slippagePercent = payload.slippagePercent;
+      if (
+        slippagePercent !== undefined &&
+        slippagePercent !== null &&
+        (Number(slippagePercent) < 7 || Number(slippagePercent) > 15)
+      ) {
+        warnings.push('Patinamiento fuera del rango ideal (7% a 15%)');
+      }
+
+      // Desglose: transmission agrupa bruta→neta (0,92) + neta→eje (0,86) + entrega eje→barra (1 − ET)
+      const grossToNetLoss = enginePowerHp - pN;
+      const netToAxleLossHp = effectiveBase * (1 - V3_NET_TO_AXLE_EFFICIENCY);
+      const transmissionLossHp = grossToNetLoss + netToAxleLossHp + tractionLossHp;
+      const totalLossHp = altLoss + tempLoss + transmissionLossHp + rollingPart + slopePart;
+      const efficiencyPercentage =
+        enginePowerHp > 0 ? (netPowerHp / enginePowerHp) * 100 : 0;
+
+      // Potencia disponible en la TDF: la que ingresa el usuario (hoja H3)
+      // o 0,85 · P_B por defecto cuando no hay dato.
+      let pmaxTdpHpNumber =
+        payload.pmaxTdpHp === undefined || payload.pmaxTdpHp === null || payload.pmaxTdpHp === ''
+          ? null
+          : Number(payload.pmaxTdpHp);
+      if (pmaxTdpHpNumber !== null && (!Number.isFinite(pmaxTdpHpNumber) || pmaxTdpHpNumber <= 0)) {
+        warnings.push('Pmax TDP inválida, se usó el default 85% de la potencia bruta');
+        pmaxTdpHpNumber = null;
+      }
+      const hasUserPto = pmaxTdpHpNumber !== null;
+      const ptoPowerHp = hasUserPto ? pmaxTdpHpNumber : enginePowerHp * 0.85;
+      const ptoSource = hasUserPto
+        ? 'ingresada por el usuario'
+        : 'default 85% de la potencia bruta';
 
       resolve({
         success: true,
         data: {
           queryId: null,
-          tractor: { brand: 'Manual', model: 'Input', hasTurbo: payload.hasTurbo || false },
-          terrain: { name: 'Terreno ingresado', soilType: payload.soilType || 'loam' },
-          losses,
-          totalLossHp,
-          netPowerHp,
+          tractor: { brand: 'Manual', model: 'Input', hasTurbo },
+          terrain: {
+            name: 'Terreno ingresado',
+            soilType: payload.soilType || 'loam',
+            superficieRodadura: surface,
+          },
+          losses: {
+            slopeLossHp: round2(slopePart),
+            altitudeLossHp: round2(altLoss),
+            rollingResistanceLossHp: round2(rollingPart),
+            slippageLossHp: 0, // No se resta aparte: absorbido en la ET de Fig. 47
+            transmissionLossHp: round2(transmissionLossHp),
+            totalLossHp: round2(totalLossHp),
+          },
+          netPowerHp: round2(netPowerHp),
           enginePowerHp,
-          efficiencyPercentage: +((netPowerHp / enginePowerHp) * 100).toFixed(2),
+          efficiencyPercentage: round2(efficiencyPercentage),
+          warnings,
+          ptoPowerHp: round2(ptoPowerHp),
+          ptoSource,
+          // Detalle de la cadena v3 paso a paso (paridad con el backend)
+          zoz: {
+            soilCondition,
+            tractorType: zozTractorType,
+            tractionTypeDefaulted,
+            warnings,
+            pNHp: round2(pN),
+            pAltHp: round2(altLoss),
+            pTempHp: round2(tempLoss),
+            pRodHp: round2(pRod),
+            rho,
+            rhoSurface: surface,
+            rhoKind,
+            alphaDeg: round2((Math.atan(slopePercent / 100) * 180) / Math.PI),
+            ejeEfficiency: V3_NET_TO_AXLE_EFFICIENCY,
+            et: round2(et),
+            ptoPowerHp: round2(ptoPowerHp),
+            ptoSource,
+            rollingIncludedInEt: false, // En v3 la rodadura SÍ se resta aparte (P_ROD)
+            slippageAbsorbed: true,
+          },
         },
       });
     }, 1500);
@@ -228,6 +392,12 @@ const DIRECT_IMPLEMENT_PLOW_CONSTANT = 0.365;
 const DIRECT_SOIL_INDEX = { arena: 0, limo: 1, arcilla: 2 };
 
 /**
+ * Cn por textura para la rodadura del implemento (lámina 17 del profesor):
+ * arena 10 · limo 20 · arcilla 20. Aplica al calcular R_r = (1,2/Cn + 0,04)·peso.
+ */
+const CN_LAMINA17 = { arena: 10, limo: 20, arcilla: 20 };
+
+/**
  * Coeficiente CL del arado de disco y vertedera según la velocidad (km/h).
  * Para velocidades no enteras se interpola linealmente entre filas adyacentes.
  */
@@ -333,6 +503,7 @@ const mockDirectImplementPower = async (payload) => {
   // El mock replica las fórmulas del endpoint real para cada familia.
   if (
     payload.implementType !== 'arado_disco_vertedera' &&
+    payload.implementType !== 'personalizado' &&
     !DIRECT_IMPLEMENT_RESISTANCE[payload.implementType]
   ) {
     throw new Error('Tipo de implemento no soportado para el cálculo directo de potencia.');
@@ -368,10 +539,45 @@ const mockDirectImplementPower = async (payload) => {
         powerKind = 'pto';
         detail.resistanceKgf = t;
         powerRequiredHp = t * workingWidthM;
+      } else if (implementType === 'personalizado') {
+        const tiro = Number(payload.tiro) || 0;
+        const draftUnit = payload.draftUnit || 'kg/m';
+        const nSurcos = Number(payload.nSurcos) || 1;
+        detail.draftUnit = draftUnit;
+        detail.tiro = tiro;
+        if (draftUnit === 'kg/m') {
+          powerKind = 'drawbar';
+          powerRequiredHp = tiro * workingWidthM * workingSpeedKmh * DIRECT_IMPLEMENT_KGF_CONSTANT;
+        } else if (draftUnit === 'kg/surco') {
+          powerKind = 'drawbar';
+          powerRequiredHp = tiro * nSurcos * workingSpeedKmh * DIRECT_IMPLEMENT_KGF_CONSTANT;
+        } else if (draftUnit === 'cv/m') {
+          powerKind = 'pto';
+          powerRequiredHp = tiro * workingWidthM * 0.9863;
+        } else if (draftUnit === 'hp_tdf/m') {
+          powerKind = 'pto';
+          powerRequiredHp = tiro * workingWidthM;
+        }
       } else {
         const t = DIRECT_IMPLEMENT_RESISTANCE[implementType][soilIndex];
         detail.resistanceKgf = t;
         powerRequiredHp = t * workingWidthM * workingSpeedKmh * DIRECT_IMPLEMENT_KGF_CONSTANT;
+      }
+
+      // Modelo F = R_syc + R_r (lám. 32/35 del profesor): si el implemento tiene
+      // peso propio y es de tiro (drawbar), se suma su resistencia al rodamiento
+      // R_r = (1,2/Cn + 0,04) · peso, con Cn por textura según la lámina 17
+      // (arena 10 · limo 20 · arcilla 20). Aplica al implemento personalizado y
+      // también a los de catálogo cuando se ingresa implementWeightKg.
+      const implementWeightKg = Number(payload.implementWeightKg) || 0;
+      if (powerKind === 'drawbar' && implementWeightKg > 0) {
+        const implementCn = CN_LAMINA17[soil] ?? 20;
+        const Rr = (1.2 / implementCn + 0.04) * implementWeightKg;
+        const P_rr = Rr * workingSpeedKmh * DIRECT_IMPLEMENT_KGF_CONSTANT;
+        powerRequiredHp += P_rr;
+        detail.resistanceWeightKg = implementWeightKg;
+        detail.implementCn = implementCn;
+        detail.rollingResistanceHp = Math.round(P_rr * 100) / 100;
       }
 
       resolve({
