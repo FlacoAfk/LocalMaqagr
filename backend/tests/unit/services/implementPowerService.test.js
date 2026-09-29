@@ -10,6 +10,7 @@ import * as implementPowerService from "../../../src/services/implementPowerServ
 describe("implementPowerService", () => {
   const {
     calculateImplementRequiredPower,
+    computePtoEquivalent,
     normalizeSoilType,
     IMPLEMENT_CATALOG,
     IMPLEMENT_TYPES,
@@ -31,8 +32,8 @@ describe("implementPowerService", () => {
       expect(PLOW_COMBINED_FACTOR).toBeCloseTo(100 * METRIC_HP_FACTOR, 10);
     });
 
-    test("catálogo con los 9 implementos de la Tabla 1", () => {
-      expect(IMPLEMENT_TYPES).toHaveLength(9);
+    test("catálogo con los 9 implementos de la Tabla 1 + personalizado", () => {
+      expect(IMPLEMENT_TYPES).toHaveLength(10);
       expect(Object.keys(IMPLEMENT_CATALOG)).toEqual([
         "arado_disco_vertedera",
         "subsolador",
@@ -43,6 +44,7 @@ describe("implementPowerService", () => {
         "rastrillo_californiano",
         "rastra_pesada_26",
         "rastra_pesada_24",
+        "personalizado",
       ]);
     });
   });
@@ -364,4 +366,159 @@ describe("implementPowerService", () => {
       }
     });
   });
+
+  describe('modelo F = R_syc + R_r y tipo personalizado (expo del profesor)', () => {
+    test("personalizado kg/m: 950 kg/m × 1,7 m × 6,2 km/h → 36,55 HP (lám. 32: 37,08 CV ≈ 36,34 HP con /270)", () => {
+      const r = calculateImplementRequiredPower({
+        implement_type: "personalizado",
+        tiro: 950,
+        draft_unit: "kg/m",
+        working_width_m: 1.7,
+        working_speed_kmh: 6.2,
+        soil_type: "limo",
+      });
+      // 950 × 1,7 × 6,2 × 0,00365 = 36,55 → la constante de la app es 274,4 (HP);
+      // la lámina usa /270 en CV — diferencia documentada como pregunta abierta
+      expect(r.power_required_hp).toBeCloseTo(36.55, 1);
+      expect(r.power_kind).toBe("drawbar");
+    });
+
+    test("personalizado kg/surco: 204 kg/surco × 4 surcos × 6 km/h → 17,87 HP", () => {
+      const r = calculateImplementRequiredPower({
+        implement_type: "personalizado",
+        tiro: 204,
+        draft_unit: "kg/surco",
+        n_surcos: 4,
+        working_speed_kmh: 6,
+        soil_type: "limo",
+      });
+      // 204 × 4 × 6 × 0,00365 = 17,87
+      expect(r.power_required_hp).toBe(17.87);
+      expect(r.power_kind).toBe("drawbar");
+    });
+
+    test("personalizado cv/m: 4,5 CV/m × 16 m → 71,01 HP en la TDF", () => {
+      const r = calculateImplementRequiredPower({
+        implement_type: "personalizado",
+        tiro: 4.5,
+        draft_unit: "cv/m",
+        working_width_m: 16,
+        soil_type: "limo",
+      });
+      // 4,5 × 16 × 0,9863 = 71,01 (1 CV = 0,9863 HP)
+      expect(r.power_required_hp).toBe(71.01);
+      expect(r.power_kind).toBe("pto");
+    });
+
+    test("R_r del implemento con peso propio (lám. 35): Crr 0,1 × 1700 kg = 170 kg", () => {
+      const sinPeso = calculateImplementRequiredPower({
+        implement_type: "personalizado",
+        tiro: 204,
+        draft_unit: "kg/surco",
+        n_surcos: 4,
+        working_speed_kmh: 6,
+        soil_type: "limo",
+      });
+      const conPeso = calculateImplementRequiredPower({
+        implement_type: "personalizado",
+        tiro: 204,
+        draft_unit: "kg/surco",
+        n_surcos: 4,
+        working_speed_kmh: 6,
+        soil_type: "limo",
+        implement_weight_kg: 1700,
+      });
+      // Cn(limo) = 20 → Crr = 1,2/20 + 0,04 = 0,10 → R_r = 170 kg
+      expect(conPeso.detail.implement_r_r_kgf).toBe(170);
+      // Potencia extra = R_r × V × 0,00365 = 170 × 6 × 0,00365 = 3,72
+      expect(conPeso.power_required_hp).toBeCloseTo(sinPeso.power_required_hp + 170 * 6 * 0.00365, 2);
+    });
+
+    test("computePtoEquivalent: 36,34 / (0,96 × 0,484) = 78,21 (lám. 32/19)", () => {
+      expect(computePtoEquivalent(36.34, 0.484)).toBe(78.21);
+    });
+  });
+
+  describe("rodadura del implemento y CN_LAMINA17 (lám. 17)", () => {
+    test("R_r de sembradora (tiro manual) de 1700 kg en arena → Cn 10 → Rr 272", () => {
+      const r = calculateImplementRequiredPower({
+        implement_type: "personalizado",
+        tiro: 150,
+        draft_unit: "kg/m",
+        working_width_m: 2,
+        working_speed_kmh: 5,
+        soil_type: "arena",
+        implement_weight_kg: 1700,
+      });
+      // Cn(arena) = 10 (CN_LAMINA17) → Crr = 1,2/10 + 0,04 = 0,16 → R_r = 0,16 × 1700 = 272 kg
+      expect(r.detail.implement_cn).toBe(10);
+      expect(r.detail.implement_r_r_kgf).toBe(272);
+      // Potencia extra por rodadura = R_r × V × 0,00365 = 272 × 5 × 0,00365 = 4,96
+      expect(r.power_required_hp).toBeCloseTo(150 * 2 * 5 * 0.00365 + 272 * 5 * 0.00365, 2);
+    });
+  });
+
+  describe("validaciones de tipo personalizado (draft_unit y tiro)", () => {
+    test("draft_unit con mayúsculas/espacios se normaliza con advertencia", () => {
+      const r = calculateImplementRequiredPower({
+        implement_type: "personalizado",
+        tiro: 100,
+        draft_unit: "  KG/m ",
+        working_width_m: 2,
+        working_speed_kmh: 5,
+        soil_type: "limo",
+      });
+      // Normalizado a 'kg/m': drawbar con ancho y velocidad
+      expect(r.power_kind).toBe("drawbar");
+      expect(r.detail.family).toBe("custom_kg/m");
+      expect(r.warnings.some((w) => w.includes('draft_unit normalizado') && w.includes("kg/m"))).toBe(true);
+    });
+
+    test("draft_unit no reconocido lanza error (antes: 0 HP silencioso)", () => {
+      expect(() =>
+        calculateImplementRequiredPower({
+          implement_type: "personalizado",
+          tiro: 100,
+          draft_unit: "libras",
+          soil_type: "limo",
+        }),
+      ).toThrow(/draft_unit no reconocido/);
+    });
+
+    test("tiro <= 0 lanza error (requireNumber aceptaba 0)", () => {
+      expect(() =>
+        calculateImplementRequiredPower({
+          implement_type: "personalizado",
+          tiro: 0,
+          draft_unit: "kg/m",
+          working_width_m: 2,
+          working_speed_kmh: 5,
+          soil_type: "limo",
+        }),
+      ).toThrow(/tiro debe ser mayor que 0/);
+      expect(() =>
+        calculateImplementRequiredPower({
+          implement_type: "personalizado",
+          tiro: -50,
+          draft_unit: "cv/m",
+          working_width_m: 2,
+          soil_type: "limo",
+        }),
+      ).toThrow(/tiro debe ser mayor que 0/);
+    });
+
+    test("kg/surco: el conteo viaja en detail.n_surcos y working_width_m es null", () => {
+      const r = calculateImplementRequiredPower({
+        implement_type: "personalizado",
+        tiro: 204,
+        draft_unit: "kg/surco",
+        n_surcos: 4,
+        working_speed_kmh: 6,
+        soil_type: "limo",
+      });
+      expect(r.detail.n_surcos).toBe(4);
+      expect(r.detail.working_width_m).toBeNull();
+    });
+  });
+
 });

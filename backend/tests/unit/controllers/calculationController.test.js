@@ -8,6 +8,7 @@ const mockTerrainFindById = jest.fn();
 const mockImplementFindById = jest.fn();
 const mockCalculateTotalLoss = jest.fn();
 const mockCalculateTotalLossWithZoz = jest.fn();
+const mockCalculateTotalLossV3 = jest.fn();
 const mockCalculateMinimumPower = jest.fn();
 const mockLoggerInfo = jest.fn();
 
@@ -50,6 +51,9 @@ jest.unstable_mockModule('../../../src/services/powerLossService.js', () => ({
   __esModule: true,
   calculateTotalLoss: mockCalculateTotalLoss,
   calculateTotalLossWithZoz: mockCalculateTotalLossWithZoz,
+  calculateTotalLossV3: mockCalculateTotalLossV3,
+  PTO_SOURCE_USUARIO: 'ingresada por el usuario',
+  PTO_SOURCE_DEFAULT: 'default 85% de la potencia bruta',
 }));
 
 jest.unstable_mockModule('../../../src/services/minimumPowerService.js', () => ({
@@ -1006,7 +1010,7 @@ describe('calculationController', () => {
 
       await callWrappedHandler(calculateDirectImplementPower, req, res);
 
-      expect(mockCalculateTotalLossWithZoz).not.toHaveBeenCalled();
+      expect(mockCalculateTotalLossV3).not.toHaveBeenCalled();
       expect(res.status).toHaveBeenCalledWith(200);
       // data con exactly estas claves: sin margin_hp/available_power_hp/classification
       expect(res.json).toHaveBeenCalledWith(
@@ -1040,7 +1044,7 @@ describe('calculationController', () => {
 
       // Tractor turbo de 100 HP, 2WD, suelo bueno:
       // net = 100 × 0.785 × (1 − 0.25) = 58.88 HP (cadena secuencial Zoz)
-      mockCalculateTotalLossWithZoz.mockReturnValue({
+      mockCalculateTotalLossV3.mockReturnValue({
         grossPower: 100,
         hasTurbo: true,
         losses: {
@@ -1073,7 +1077,7 @@ describe('calculationController', () => {
 
       await callWrappedHandler(calculateDirectImplementPower, req, res);
 
-      expect(mockCalculateTotalLossWithZoz).toHaveBeenCalledWith(
+      expect(mockCalculateTotalLossV3).toHaveBeenCalledWith(
         expect.objectContaining({
           enginePower: 100,
           tractorTractionType: '4x2',
@@ -1090,6 +1094,75 @@ describe('calculationController', () => {
             margin_hp: -23.25,
             is_adequate: false,
             classification: 'NO_ADECUADO',
+          }),
+        }),
+      );
+    });
+
+    test('con pmax_tdp_hp usa esa potencia en la TDF para implementos pto (H3 del profesor)', async () => {
+      const req = {
+        body: {
+          implement_type: 'implemento_rotativo',
+          working_width_m: 2,
+          soil_type: 'arcilla',
+          engine_power_hp: 100,
+          traction_type: '4x2',
+          soil_condition: 'bueno',
+          has_turbo: true,
+          pmax_tdp_hp: 75,
+        },
+      };
+      const res = createMockRes();
+
+      // Rotativo 2 m arcilla: 32 × 2 = 64 HP tdf (Tabla 1)
+      // Pmax TDP del usuario: 75 HP → disponible 75 (override del 56.52 calculado)
+      // margen = 75 − 64 = +11 → ADECUADO (75 ≤ 64 × 1.25 = 80)
+      mockCalculateTotalLossV3.mockReturnValue({
+        grossPower: 100,
+        hasTurbo: true,
+        losses: {
+          altitude: 0,
+          temperature: 0,
+          transmission: 41.13,
+          rollingResistance: 0,
+          slope: 0,
+          slippage: 0,
+          total: 41.13,
+        },
+        netPower: 58.88,
+        efficiency: 58.88,
+        zoz: {
+          soil_condition: 'bueno',
+          tractor_type: '2WD',
+          tractor_type_defaulted: false,
+          warnings: [],
+          gross_to_axle_efficiency: 0.785,
+          axle_loss: 0.25,
+          internal_drivetrain_loss_hp: 21.5,
+          traction_loss_hp: 19.63,
+          combined_drivetrain_loss: 0.41,
+          pto_efficiency: 0.72,
+          pto_power_hp: 56.52,
+          rolling_included_in_et: true,
+          slippage_absorbed: true,
+        },
+      });
+
+      await callWrappedHandler(calculateDirectImplementPower, req, res);
+
+      expect(res.status).toHaveBeenCalledWith(200);
+      expect(res.json).toHaveBeenCalledWith(
+        expect.objectContaining({
+          success: true,
+          data: expect.objectContaining({
+            power_required_hp: 64,
+            power_kind: 'pto',
+            available_power_hp: 75,
+            pto_available_power_hp: 75,
+            pto_source: 'ingresada por el usuario',
+            margin_hp: 11,
+            is_adequate: true,
+            classification: 'ADECUADO',
           }),
         }),
       );
@@ -1156,7 +1229,7 @@ describe('calculationController', () => {
         message: 'No tiene acceso a este terreno',
       });
       // No debe calcular ni persistir cuando el terreno es ajeno
-      expect(mockCalculateTotalLossWithZoz).not.toHaveBeenCalled();
+      expect(mockCalculateTotalLossV3).not.toHaveBeenCalled();
       expect(mockConnect).not.toHaveBeenCalled();
     });
 
@@ -1169,7 +1242,7 @@ describe('calculationController', () => {
 
       mockOwnedEntities();
       // Tractor 2WD de 100 HP, suelo medio: net = 100 × 0.785 × (1 − 0.25) = 58.88 HP
-      mockCalculateTotalLossWithZoz.mockReturnValue({
+      mockCalculateTotalLossV3.mockReturnValue({
         grossPower: 100,
         hasTurbo: false,
         losses: {
@@ -1208,7 +1281,7 @@ describe('calculationController', () => {
       await callWrappedHandler(calculateImplementPower, req, res);
 
       // La propiedad pasó: el flujo continúa hasta el cálculo y la persistencia
-      expect(mockCalculateTotalLossWithZoz).toHaveBeenCalledWith(
+      expect(mockCalculateTotalLossV3).toHaveBeenCalledWith(
         expect.objectContaining({
           enginePower: 100,
           soilCondition: 'medio',
@@ -1266,7 +1339,7 @@ describe('calculationController', () => {
       await callWrappedHandler(calculateDirectPowerLoss, req, res);
 
       expect(mockCalculateTotalLoss).toHaveBeenCalledTimes(1);
-      expect(mockCalculateTotalLossWithZoz).not.toHaveBeenCalled();
+      expect(mockCalculateTotalLossV3).not.toHaveBeenCalled();
       expect(res.status).toHaveBeenCalledWith(200);
       const payload = res.json.mock.calls[0][0];
       expect(payload.success).toBe(true);
@@ -1285,7 +1358,7 @@ describe('calculationController', () => {
       };
       const res = createMockRes();
 
-      mockCalculateTotalLossWithZoz.mockReturnValue({
+      mockCalculateTotalLossV3.mockReturnValue({
         grossPower: 100,
         hasTurbo: true,
         losses: {
@@ -1318,7 +1391,7 @@ describe('calculationController', () => {
 
       await callWrappedHandler(calculateDirectPowerLoss, req, res);
 
-      expect(mockCalculateTotalLossWithZoz).toHaveBeenCalledWith(
+      expect(mockCalculateTotalLossV3).toHaveBeenCalledWith(
         expect.objectContaining({
           enginePower: 100,
           totalWeightKg: 5000,
@@ -1337,6 +1410,59 @@ describe('calculationController', () => {
           zoz: expect.objectContaining({ tractor_type: '2WD', axle_loss: 0.25 }),
         }),
       );
+    });
+
+    test('con pmax_tdp_hp retorna esa potencia como disponible en la TDF (H3 del profesor)', async () => {
+      const req = {
+        body: {
+          ...legacyBody,
+          soil_condition: 'medio',
+          traction_type: '4x2',
+          pmax_tdp_hp: 135,
+        },
+      };
+      const res = createMockRes();
+
+      mockCalculateTotalLossV3.mockReturnValue({
+        grossPower: 100,
+        hasTurbo: false,
+        losses: {
+          altitude: 3,
+          temperature: 2,
+          transmission: 36,
+          rollingResistance: 0,
+          slope: 0,
+          slippage: 0,
+          total: 41,
+        },
+        netPower: 59,
+        efficiency: 59,
+        zoz: {
+          soil_condition: 'medio',
+          tractor_type: '2WD',
+          tractor_type_defaulted: false,
+          warnings: [],
+          gross_to_axle_efficiency: 0.785,
+          axle_loss: 0.3,
+          internal_drivetrain_loss_hp: 21.5,
+          traction_loss_hp: 14.5,
+          combined_drivetrain_loss: 0.45,
+          pto_efficiency: 0.67,
+          pto_power_hp: 42.0,
+          rolling_included_in_et: true,
+          slippage_absorbed: true,
+        },
+      });
+
+      await callWrappedHandler(calculateDirectPowerLoss, req, res);
+
+      expect(res.status).toHaveBeenCalledWith(200);
+      const payload = res.json.mock.calls[0][0];
+      // El valor ingresado por el usuario reemplaza al calculado (42.0)
+      expect(payload.data.pto_power_hp).toBe(135);
+      expect(payload.data.pto_source).toBe('ingresada por el usuario');
+      expect(payload.data.zoz.pto_power_hp).toBe(135);
+      expect(payload.data.zoz.pto_source).toBe('ingresada por el usuario');
     });
   });
 });

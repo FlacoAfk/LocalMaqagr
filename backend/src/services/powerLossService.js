@@ -538,7 +538,7 @@ export const getPtoEfficiencyBySoilAndTractorType = (soilCondition = 'medio', tr
  * @returns {number} returns.zoz.internal_drivetrain_loss_hp - Pérdida bruta→eje (HP)
  * @returns {number} returns.zoz.traction_loss_hp - Pérdida de entrega eje→barra (HP)
  * @returns {number} returns.zoz.combined_drivetrain_loss - Pérdida total de tracción como fracción de la potencia post-atmosférica (1 − η_eje × (1 − ET))
- * @returns {number} returns.zoz.pto_efficiency - Eficiencia TDO/TDF (fracción)
+ * @returns {number} returns.zoz.pto_efficiency - Eficiencia TDF (fracción)
  * @returns {number} returns.zoz.pto_power_hp - Potencia disponible en la TDF (HP)
  * @returns {boolean} returns.zoz.rolling_included_in_et - true: rodadura incluida en ET (no se descuenta aparte)
  * @returns {boolean} returns.zoz.slippage_absorbed - true: patinaje incluido en ET
@@ -649,6 +649,222 @@ export const calculateTotalLossWithZoz = ({
       pto_efficiency: ptoEfficiency,
       pto_power_hp: parseFloat((powerAtAxle * ptoEfficiency).toFixed(2)),
       rolling_included_in_et: true,
+      slippage_absorbed: true,
+    },
+  };
+};
+
+// ===== CADENA V3 (profesor, hojas H1/H2 + láminas 13/21/26/27 de la expo) =====
+// P_N = 0,92·P_B → P_ALT/P_TEMP sobre P_N (solo aspirados; A > 300 m; T > 15 °C)
+// → P_ROD = W·V·(ρ·cosα + senα)/274,4 (rodamiento + pendiente, lám. 26/27)
+// → P_EJE = (P_N − P_ALT − P_TEMP − P_ROD)·0,86 (Fig. 43: neta→eje 0,84–0,88)
+// → P_BDT = P_EJE·ET (Fig. 47 multiplicada como eficiencia)
+
+/** Eficiencia bruta→neta del motor (Fig. 43 de Zoz & Grisso) */
+export const ZOZ_GROSS_TO_NET_EFFICIENCY = 0.92;
+
+/** Origen de la potencia en la TDF reportada: la ingresó el usuario (hoja H3). */
+export const PTO_SOURCE_USUARIO = 'ingresada por el usuario';
+
+/** Origen de la potencia en la TDF reportada: sin dato del usuario → 0,85 · P_B por defecto. */
+export const PTO_SOURCE_DEFAULT = 'default 85% de la potencia bruta';
+
+/** Eficiencia neta→eje: punto medio del rango 0,84–0,88 (Fig. 43 de Zoz & Grisso).
+ *  0,92 × 0,86 = 0,791, dentro del rango bruta→eje 0,77–0,80. */
+export const ZOZ_NET_TO_AXLE_EFFICIENCY = 0.86;
+
+/** Coeficiente de resistencia al rodamiento ρ por superficie (lámina 26 del profesor).
+ *  Columnas: llantas / oruga. Concreto no aplica para oruga (N.A.). */
+export const RHO_SUPERFICIE = {
+  concreto: { llantas: 0.025, oruga: null }, // punto medio del rango 0,02–0,03
+  carretable: { llantas: 0.05, oruga: 0.06 },
+  arcilloso_humedo: { llantas: 0.1, oruga: 0.07 },
+  arcilloso_seco: { llantas: 0.07, oruga: 0.07 }, // punto medio del rango 0,06–0,08
+  limoso: { llantas: 0.2, oruga: 0.1 },
+  arena_suelta: { llantas: 0.35, oruga: 0.2 },
+};
+
+export const VALID_SUPERFICIES = Object.keys(RHO_SUPERFICIE);
+
+const normalizeSuperficie = (superficie) => {
+  const key = String(superficie ?? '').toLowerCase().trim();
+  return VALID_SUPERFICIES.includes(key) ? key : null;
+};
+
+/**
+ * Resuelve ρ según la superficie de rodamiento y el tipo de tractor.
+ * Oruga usa la columna "Tractor orugas" (concreto no aplica: cae a llantas con advertencia).
+ * Superficie ausente/no reconocida → 'arena_suelta' (la del ejemplo de clase) con advertencia.
+ */
+export const getRhoBySurfaceAndTractorType = (superficieRodadura, zozTractorType) => {
+  const warnings = [];
+  const surface = normalizeSuperficie(superficieRodadura);
+  const defaulted = surface === null;
+  const effectiveSurface = defaulted ? 'arena_suelta' : surface;
+  if (defaulted) {
+    warnings.push('superficie de rodamiento no indicada o no reconocida, se asumió arena suelta seca');
+  }
+  const kind = zozTractorType === 'BELT' ? 'oruga' : 'llantas';
+  let rho = RHO_SUPERFICIE[effectiveSurface][kind];
+  if (rho === null || rho === undefined) {
+    rho = RHO_SUPERFICIE[effectiveSurface].llantas;
+    warnings.push('la superficie seleccionada no aplica para oruga, se usó el coeficiente de llantas');
+  }
+  return { surface: effectiveSurface, kind, rho, defaulted, warnings };
+};
+
+/**
+ * Cadena V3 del profesor (reemplaza a calculateTotalLossWithZoz en los endpoints).
+ * Misma forma de respuesta que calculateTotalLossWithZoz para no romper el contrato.
+ *
+ * @example
+ * // Ejemplo H2 del profesor: 350 hp aspirado, 5500 kg, 1800 msnm, 18 °C,
+ * // pendiente 8 % (α = 4,57°), V = 4,5 km/h, 2WD malo, arena suelta:
+ * // P_N = 322 · P_ALT = 19,32 · P_TEMP = 1,93 · P_ROD = 38,7 · P_EJE = 225,4
+ * // P_BDT = 225,4 × 0,57 = 128,48 HP (la hoja anota 246,88: no reproducible,
+ * // ninguna ET de la Fig. 47 supera 1 — pendiente con el profesor)
+ */
+export const calculateTotalLossV3 = ({
+  enginePower,
+  altitudeMeters,
+  temperatureC,
+  totalWeightKg,
+  slopePercent,
+  speedKmh,
+  slippagePercent,
+  tractorTractionType,
+  soilCondition = 'medio',
+  superficieRodadura,
+  hasTurbo = false,
+  pmaxTdpHp = null,
+}) => {
+  // 1. Potencia neta del motor: P_N = 0,92 · P_B
+  const pN = enginePower * ZOZ_GROSS_TO_NET_EFFICIENCY;
+  const grossToNetLoss = enginePower - pN;
+
+  // 2. Pérdidas atmosféricas sobre P_N — solo aspirados; altitud solo si A > 300 m
+  let altLoss = 0;
+  if (!hasTurbo && altitudeMeters > 300) {
+    altLoss = pN * (altitudeMeters / 300) * 0.01;
+  }
+  let tempLoss = 0;
+  if (!hasTurbo && temperatureC > 15) {
+    tempLoss = pN * ((temperatureC - 15) / 5) * 0.01;
+  }
+
+  // 3. Rodadura + pendiente combinadas (lám. 26/27): P_ROD = W·V·(ρ·cosα + senα)/274,4
+  //    OJO: la constante 274,4 ya convierte kg·km/h → HP (el 9,81 m/s² y el 1000 m/km
+  //    van dentro); NO se re-convierte la velocidad a m/s.
+  const zozTractorType = mapTractionTypeToZoz(tractorTractionType);
+  const { surface, kind: rhoKind, rho, defaulted: surfaceDefaulted, warnings: surfaceWarnings } =
+    getRhoBySurfaceAndTractorType(superficieRodadura, zozTractorType);
+  const alphaRadians = degreesToRadians(slopePercentToDegrees(slopePercent));
+  let rollingPart = (totalWeightKg * Math.cos(alphaRadians) * rho * speedKmh) / 274.4;
+  let slopePart = (totalWeightKg * Math.sin(alphaRadians) * speedKmh) / 274.4;
+
+  // Invariante bruta − total = neta: cuando P_ROD supera lo disponible
+  // (P_N − P_ALT − P_TEMP), la rodadura y la pendiente del desglose se escalan
+  // proporcionalmente al máximo disponible, de modo que la neta quede en 0 y
+  // el total de pérdidas nunca supere la potencia bruta.
+  // (Caso extremo no alcanzable físicamente: que alt/temp solas agoten P_N
+  // exigiría altitudes > 27.600 m; ahí la neta es 0 y el desglose atmosférico
+  // se reporta tal cual.)
+  const availableBeforeRod = pN - altLoss - tempLoss;
+  const pRodRaw = rollingPart + slopePart;
+  if (pRodRaw > availableBeforeRod) {
+    const scale = availableBeforeRod > 0 ? availableBeforeRod / pRodRaw : 0;
+    rollingPart *= scale;
+    slopePart *= scale;
+  }
+  const pRod = rollingPart + slopePart;
+
+  // 4. Potencia en el eje: P_EJE = (P_N − P_ALT − P_TEMP − P_ROD) · 0,86
+  const baseBeforeAxle = availableBeforeRod - pRod;
+  const effectiveBase = Math.max(0, baseBeforeAxle);
+  const pEje = effectiveBase * ZOZ_NET_TO_AXLE_EFFICIENCY;
+
+  // 5. P_BDT = P_EJE · ET (Fig. 47 multiplicada como eficiencia; ET = 1 − pérdida)
+  const condition = normalizeSoilCondition(soilCondition);
+  const axleLoss = ZOZ_AXLE_LOSS[zozTractorType][condition];
+  const et = 1 - axleLoss;
+  const tractionLossHp = pEje * axleLoss;
+  const netPower = Math.max(0, pEje * et);
+
+  // Advertencias (tracción no reconocida, superficie por defecto, patinamiento fuera de 7–15 %)
+  const normalizedTraction = String(tractorTractionType ?? '').toLowerCase().trim();
+  const tractionTypeDefaulted = !RECOGNIZED_TRACTION_TYPES.includes(normalizedTraction);
+  const warnings = [
+    ...surfaceWarnings,
+    ...(tractionTypeDefaulted ? ['tipo de tracción no reconocido, se asumió 2WD'] : []),
+    ...(slippagePercent !== undefined &&
+    slippagePercent !== null &&
+    (slippagePercent < 7 || slippagePercent > 15)
+      ? ['Patinamiento fuera del rango ideal (7% a 15%)']
+      : []),
+  ];
+
+  // Desglose de pérdidas (para el contrato de respuesta):
+  // - transmission agrupa bruta→neta (0,92) + neta→eje (0,86) + entrega eje→barra (1 − ET)
+  const netToAxleLossHp = effectiveBase * (1 - ZOZ_NET_TO_AXLE_EFFICIENCY);
+  const transmissionLossHp = grossToNetLoss + netToAxleLossHp + tractionLossHp;
+  const totalLosses = altLoss + tempLoss + transmissionLossHp + rollingPart + slopePart;
+
+  const efficiency = (netPower / enginePower) * 100;
+
+  // Potencia disponible en la TDF: la que ingresa el usuario (H3) o 0,85 · P_B por defecto.
+  // Coerción de pmax_tdp_hp: acepta números y strings numéricos ("350"); vacío → sin dato
+  // del usuario; no numérico o <= 0 → advertencia y default (un string sin coerción
+  // rompería ptoPowerHp.toFixed).
+  let pmaxTdpHpNumber =
+    pmaxTdpHp === undefined || pmaxTdpHp === null || pmaxTdpHp === ''
+      ? null
+      : Number(pmaxTdpHp);
+  if (pmaxTdpHpNumber !== null && (!Number.isFinite(pmaxTdpHpNumber) || pmaxTdpHpNumber <= 0)) {
+    warnings.push('Pmax TDP inválida, se usó el default 85% de la potencia bruta');
+    pmaxTdpHpNumber = null;
+  }
+  const hasUserPto = pmaxTdpHpNumber !== null;
+  const ptoPowerHp = hasUserPto ? pmaxTdpHpNumber : enginePower * 0.85;
+  const ptoSource = hasUserPto ? PTO_SOURCE_USUARIO : PTO_SOURCE_DEFAULT;
+
+  return {
+    grossPower: enginePower,
+    hasTurbo,
+    losses: {
+      altitude: parseFloat(altLoss.toFixed(2)),
+      temperature: parseFloat(tempLoss.toFixed(2)),
+      transmission: parseFloat(transmissionLossHp.toFixed(2)),
+      rollingResistance: parseFloat(rollingPart.toFixed(2)),
+      slope: parseFloat(slopePart.toFixed(2)),
+      slippage: 0, // No se resta aparte: tachado en H2 (queda como alerta)
+      total: parseFloat(totalLosses.toFixed(2)),
+    },
+    netPower: parseFloat(netPower.toFixed(2)),
+    efficiency: parseFloat(efficiency.toFixed(2)),
+    warnings,
+    zoz: {
+      soil_condition: condition,
+      tractor_type: zozTractorType,
+      tractor_type_defaulted: tractionTypeDefaulted,
+      warnings,
+      // Cadena v3 paso a paso
+      p_n_hp: parseFloat(pN.toFixed(2)),
+      p_alt_hp: parseFloat(altLoss.toFixed(2)),
+      p_temp_hp: parseFloat(tempLoss.toFixed(2)),
+      p_rod_hp: parseFloat(pRod.toFixed(2)),
+      rho,
+      rho_surface: surface,
+      rho_kind: rhoKind,
+      alpha_deg: parseFloat(slopePercentToDegrees(slopePercent).toFixed(2)),
+      eje_efficiency: ZOZ_NET_TO_AXLE_EFFICIENCY,
+      et: parseFloat(et.toFixed(2)),
+      pto_power_hp: parseFloat(ptoPowerHp.toFixed(2)),
+      pto_source: ptoSource,
+      // Claves de compatibilidad con la v2.1 (ET como pérdida espejo)
+      axle_loss: axleLoss,
+      gross_to_axle_efficiency: parseFloat((pEje / enginePower).toFixed(2)),
+      combined_drivetrain_loss: parseFloat((transmissionLossHp / enginePower).toFixed(2)),
+      rolling_included_in_et: false, // En v3 la rodadura SÍ se resta aparte (P_ROD)
       slippage_absorbed: true,
     },
   };

@@ -12,6 +12,7 @@ import {
   isValidEnum
 } from '../utils/validators.util.js';
 import { IMPLEMENT_TYPES, IMPLEMENT_CATALOG } from '../services/implementPowerService.js';
+import { VALID_SUPERFICIES } from '../services/powerLossService.js';
 
 /**
  * Familias de implementos que requieren working_depth_cm (Tabla 1 — Chaparro)
@@ -27,6 +28,9 @@ const DRAWBAR_FAMILIES = ['draft_plow', 'tined', 'draft_per_meter'];
  * Condiciones de suelo válidas para la corrección Zoz & Grisso (Fig. 47)
  */
 const VALID_SOIL_CONDITIONS = ['bueno', 'medio', 'malo'];
+
+/** Superficies de rodamiento válidas (lámina 26 del profesor) */
+const VALID_SUPERFICIES_RODADURA = VALID_SUPERFICIES;
 
 /**
  * Middleware para validar la solicitud de cálculo de pérdida de potencia
@@ -195,6 +199,8 @@ export const validateDirectPowerLossRequest = (req, res, next) => {
     has_turbo,
     working_speed_kmh,
     carried_objects_weight_kg,
+    pmax_tdp_hp,
+    superficie_rodadura,
   } = req.body;
 
   const errors = [];
@@ -247,6 +253,26 @@ export const validateDirectPowerLossRequest = (req, res, next) => {
     const turboStr = String(has_turbo).toLowerCase();
     if (!['si', 'sí', 'no', 'true', 'false', ''].includes(turboStr) && typeof has_turbo !== 'boolean') {
       errors.push('has_turbo debe ser boolean o si/no');
+    }
+  }
+
+  // pmax_tdp_hp: opcional (H3 del profesor). Si se ingresa, se usa como potencia
+  // disponible en la TDF en lugar de la calculada por la cadena Zoz & Grisso.
+  if (pmax_tdp_hp !== undefined && pmax_tdp_hp !== null) {
+    const pmaxVal = Number(pmax_tdp_hp);
+    if (!Number.isFinite(pmaxVal) || pmaxVal <= 0) {
+      errors.push('pmax_tdp_hp debe ser un número mayor a 0');
+    } else if (pmaxVal > 5000) {
+      errors.push('pmax_tdp_hp no puede superar 5000 HP');
+    }
+  }
+
+  // superficie_rodadura: opcional (lám. 26); default 'arena_suelta' en el servicio
+  if (superficie_rodadura !== undefined && superficie_rodadura !== null) {
+    if (!isValidEnum(String(superficie_rodadura).toLowerCase(), VALID_SUPERFICIES_RODADURA)) {
+      errors.push(
+        'superficie_rodadura debe ser uno de: ' + VALID_SUPERFICIES_RODADURA.join(', ')
+      );
     }
   }
 
@@ -395,6 +421,9 @@ const validateImplementParamsByFamily = (body, { requireSoilType }, errors) => {
     working_speed_kmh,
     n_tines,
     soil_type,
+    tiro,
+    draft_unit = 'kg/m',
+    n_surcos,
   } = body;
 
   // implement_type: requerido y dentro del enum de la Tabla 1
@@ -408,10 +437,35 @@ const validateImplementParamsByFamily = (body, { requireSoilType }, errors) => {
   }
 
   const family = IMPLEMENT_CATALOG[implement_type].family;
+  const isCustom = family === 'custom';
+  const customUsesSurcos = isCustom && draft_unit === 'kg/surco';
+  const customIsPto = isCustom && (draft_unit === 'cv/m' || draft_unit === 'hp_tdf/m');
+
+  // Tipo 'personalizado': tiro y unidad son requeridos; unidad dentro del enum
+  if (isCustom) {
+    if (tiro === undefined || tiro === null) {
+      errors.push('tiro es requerido para el implemento personalizado');
+    } else if (!isPositiveNumber(tiro) || Number(tiro) > 50000) {
+      errors.push('tiro debe ser un número mayor a 0 y menor o igual a 50000');
+    }
+    if (!['kg/m', 'kg/surco', 'cv/m', 'hp_tdf/m'].includes(draft_unit)) {
+      errors.push('draft_unit debe ser uno de: kg/m, kg/surco, cv/m, hp_tdf/m');
+    }
+    if (customUsesSurcos) {
+      if (n_surcos === undefined || n_surcos === null) {
+        errors.push('n_surcos es requerido para tiro en kg/surco');
+      } else if (!Number.isInteger(Number(n_surcos)) || Number(n_surcos) < 1 || Number(n_surcos) > 100) {
+        errors.push('n_surcos debe ser un entero entre 1 y 100');
+      }
+    }
+  }
 
   // working_width_m: requerido, entre 0.1 y 50
+  // (excepción: personalizado en kg/surco usa n_surcos en lugar del ancho)
   if (working_width_m === undefined || working_width_m === null) {
-    errors.push('working_width_m es requerido');
+    if (!customUsesSurcos) {
+      errors.push('working_width_m es requerido');
+    }
   } else if (!isInRange(working_width_m, 0.1, 50)) {
     errors.push('working_width_m debe estar entre 0.1 y 50 metros');
   }
@@ -426,11 +480,13 @@ const validateImplementParamsByFamily = (body, { requireSoilType }, errors) => {
   }
 
   // working_speed_kmh: > 0 y < 40 (requerido para familias drawbar, no para pto)
+  // (para 'personalizado' la velocidad se requiere solo en kg/m y kg/surco)
+  const customNeedsSpeed = isCustom && !customIsPto;
   if (working_speed_kmh !== undefined && working_speed_kmh !== null) {
     if (!isPositiveNumber(working_speed_kmh) || Number(working_speed_kmh) >= 40) {
       errors.push('working_speed_kmh debe ser un número mayor a 0 y menor a 40 km/h');
     }
-  } else if (DRAWBAR_FAMILIES.includes(family)) {
+  } else if (DRAWBAR_FAMILIES.includes(family) || customNeedsSpeed) {
     errors.push('working_speed_kmh es requerido para este tipo de implemento');
   }
 
@@ -493,6 +549,9 @@ export const validateDirectImplementPowerRequest = (req, res, next) => {
     ambient_temperature_c,
     total_weight_kg,
     slope_percent,
+    pmax_tdp_hp,
+    superficie_rodadura,
+    implement_weight_kg,
   } = req.body;
 
   const errors = [];
@@ -538,6 +597,34 @@ export const validateDirectImplementPowerRequest = (req, res, next) => {
 
   if (slope_percent !== undefined && slope_percent !== null && !isNonNegativeNumber(slope_percent)) {
     errors.push('slope_percent debe ser un número mayor o igual a 0');
+  }
+
+  // pmax_tdp_hp: opcional (H3 del profesor). Si se ingresa, se usa como potencia
+  // disponible en la TDF en lugar de la calculada por la cadena Zoz & Grisso.
+  if (pmax_tdp_hp !== undefined && pmax_tdp_hp !== null) {
+    const pmaxVal = Number(pmax_tdp_hp);
+    if (!Number.isFinite(pmaxVal) || pmaxVal <= 0) {
+      errors.push('pmax_tdp_hp debe ser un número mayor a 0');
+    } else if (pmaxVal > 5000) {
+      errors.push('pmax_tdp_hp no puede superar 5000 HP');
+    }
+  }
+
+  // superficie_rodadura: opcional (lám. 26); default 'arena_suelta' en el servicio
+  if (superficie_rodadura !== undefined && superficie_rodadura !== null) {
+    if (!isValidEnum(String(superficie_rodadura).toLowerCase(), VALID_SUPERFICIES_RODADURA)) {
+      errors.push(
+        'superficie_rodadura debe ser uno de: ' + VALID_SUPERFICIES_RODADURA.join(', ')
+      );
+    }
+  }
+
+  // implement_weight_kg: opcional (modelo F = R_syc + R_r); solo tiene efecto en drawbar
+  if (implement_weight_kg !== undefined && implement_weight_kg !== null) {
+    const wVal = Number(implement_weight_kg);
+    if (!Number.isFinite(wVal) || wVal < 0 || wVal > 100000) {
+      errors.push('implement_weight_kg debe ser un número entre 0 y 100000 kg');
+    }
   }
 
   if (errors.length > 0) {
@@ -596,6 +683,9 @@ export const validateImplementPowerRequest = (req, res, next) => {
     implement_id,
     implement_type,
     soil_condition,
+    superficie_rodadura,
+    implement_weight_kg,
+    pmax_tdp_hp,
   } = req.body;
 
   const errors = [];
@@ -636,6 +726,31 @@ export const validateImplementPowerRequest = (req, res, next) => {
   if (req.body.working_speed_kmh !== undefined && req.body.working_speed_kmh !== null) {
     if (!isPositiveNumber(req.body.working_speed_kmh) || Number(req.body.working_speed_kmh) >= 40) {
       errors.push('working_speed_kmh debe ser un número mayor a 0 y menor a 40 km/h');
+    }
+  }
+
+  // superficie_rodadura: opcional (lám. 26); body tiene prioridad sobre la columna del terreno
+  if (superficie_rodadura !== undefined && superficie_rodadura !== null) {
+    if (!isValidEnum(String(superficie_rodadura).toLowerCase(), VALID_SUPERFICIES_RODADURA)) {
+      errors.push(
+        'superficie_rodadura debe ser uno de: ' + VALID_SUPERFICIES_RODADURA.join(', ')
+      );
+    }
+  }
+
+  // implement_weight_kg: opcional (modelo F = R_syc + R_r)
+  if (implement_weight_kg !== undefined && implement_weight_kg !== null) {
+    const wVal = Number(implement_weight_kg);
+    if (!Number.isFinite(wVal) || wVal < 0 || wVal > 100000) {
+      errors.push('implement_weight_kg debe ser un número entre 0 y 100000 kg');
+    }
+  }
+
+  // pmax_tdp_hp: opcional (H3 del profesor)
+  if (pmax_tdp_hp !== undefined && pmax_tdp_hp !== null) {
+    const pmaxVal = Number(pmax_tdp_hp);
+    if (!Number.isFinite(pmaxVal) || pmaxVal <= 0 || pmaxVal > 5000) {
+      errors.push('pmax_tdp_hp debe ser un número mayor a 0 y menor o igual a 5000');
     }
   }
 

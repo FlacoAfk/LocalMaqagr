@@ -374,6 +374,23 @@ describe('validateDirectImplementPowerRequest (tractor opcional)', () => {
     expect(mockReq.body.engine_power_hp).toBeUndefined();
   });
 
+  test('pmax_tdp_hp válido (opcional) pasa la validación', () => {
+    mockReq.body = { ...implementBody(), pmax_tdp_hp: 135 };
+
+    validateDirectImplementPowerRequest(mockReq, mockRes, mockNext);
+
+    expect(mockNext).toHaveBeenCalled();
+    expect(mockRes.status).not.toHaveBeenCalled();
+  });
+
+  test('pmax_tdp_hp negativo o no numérico devuelve 400', () => {
+    for (const bad of [-5, 'abc', 0]) {
+      mockReq.body = { ...implementBody(), pmax_tdp_hp: bad };
+      validateDirectImplementPowerRequest(mockReq, mockRes, mockNext);
+      expect(mockRes.status).toHaveBeenCalledWith(400);
+    }
+  });
+
   test('con engine_power_hp lo normaliza a número y aplica defaults de tractor', () => {
     mockReq.body = {
       ...implementBody(),

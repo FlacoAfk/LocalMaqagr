@@ -2,8 +2,16 @@ import { pool } from '../config/db.js';
 import Tractor from '../models/Tractor.js';
 import Terrain from '../models/Terrain.js';
 import Implement from '../models/Implement.js';
-import { calculateTotalLoss, calculateTotalLossWithZoz } from '../services/powerLossService.js';
-import { calculateImplementRequiredPower, IMPLEMENT_TYPES } from '../services/implementPowerService.js';
+import {
+  calculateTotalLoss,
+  calculateTotalLossV3,
+  PTO_SOURCE_USUARIO,
+} from '../services/powerLossService.js';
+import {
+  calculateImplementRequiredPower,
+  computePtoEquivalent,
+  IMPLEMENT_TYPES,
+} from '../services/implementPowerService.js';
 import { calculateMinimumPower as calcMinPower } from '../services/minimumPowerService.js';
 import { asyncHandler } from '../middleware/error.middleware.js';
 import logger from '../config/logger.js';
@@ -222,6 +230,10 @@ export const calculateDirectPowerLoss = asyncHandler(async (req, res) => {
     // ruta corregida, que sí considera la condición del suelo y la tracción.
     soil_condition,
     traction_type,
+    // Pmax TDP ingresada por el usuario (pedido del profesor, hoja H3)
+    pmax_tdp_hp,
+    // Superficie de rodamiento del tractor (lám. 26): para el ρ de P_ROD
+    superficie_rodadura,
   } = req.body;
 
   const user_id = req.user?.user_id || null;
@@ -242,15 +254,17 @@ export const calculateDirectPowerLoss = asyncHandler(async (req, res) => {
     hasTurbo: has_turbo,
   };
 
-  // Ruta de cálculo: con soil_condition presente se aplica la corrección
-  // Zoz & Grisso (calculatesTotalLossWithZoz); sin ella, el flujo legacy.
+  // Ruta de cálculo: con soil_condition presente se aplica la cadena V3 del profesor
+  // (0,92 → alt/temp sobre P_N → P_ROD con ρ → 0,86 → ET); sin ella, el flujo legacy.
   // Tracción: default '4x2' cuando el frontend no la envía.
   const useZoz = soil_condition !== undefined && soil_condition !== null;
   const results = useZoz
-    ? calculateTotalLossWithZoz({
+    ? calculateTotalLossV3({
         ...calculationParams,
         tractorTractionType: traction_type || '4x2',
         soilCondition: soil_condition,
+        superficieRodadura: superficie_rodadura,
+        pmaxTdpHp: pmax_tdp_hp ?? null,
       })
     : calculateTotalLoss(calculationParams);
 
@@ -331,8 +345,22 @@ export const calculateDirectPowerLoss = asyncHandler(async (req, res) => {
       net_power_hp: results.netPower,
       engine_power_hp: results.grossPower,
       efficiency_percentage: results.efficiency,
+      warnings: results.warnings || [],
+      // Pmax TDP: si el usuario la ingresó (H3), manda sobre la calculada
+      ...(pmax_tdp_hp !== undefined && pmax_tdp_hp !== null
+        ? { pto_power_hp: pmax_tdp_hp, pto_source: PTO_SOURCE_USUARIO }
+        : {}),
       // Detalle de la corrección Zoz & Grisso (solo cuando soil_condition vino en el body)
-      ...(useZoz ? { zoz: results.zoz } : {}),
+      ...(useZoz
+        ? {
+            zoz: {
+              ...results.zoz,
+              ...(pmax_tdp_hp !== undefined && pmax_tdp_hp !== null
+                ? { pto_power_hp: pmax_tdp_hp, pto_source: PTO_SOURCE_USUARIO }
+                : {}),
+            },
+          }
+        : {}),
     },
   });
 });
@@ -812,16 +840,20 @@ export const calculateMinimumPower = async (req, res) => {
 /**
  * Compara la potencia requerida por el implemento con la potencia disponible del tractor
  * (ruta corregida Zoz & Grisso) y construye el veredicto de compatibilidad.
- * Para implementos de TDO/TDF (power_kind 'pto') compara contra la potencia en la TDF;
+ * Para implementos de TDF (power_kind 'pto') compara contra la potencia en la TDF;
  * para implementos de tiro compara contra la potencia neta en la barra de tiro.
  *
  * @param {Object} implementResult - Resultado de calculateImplementRequiredPower
- * @param {Object} lossResult - Resultado de calculateTotalLossWithZoz
+ * @param {Object} lossResult - Resultado de calculateTotalLossV3
  * @returns {Object} available_power_hp, pto_available_power_hp, margin_hp, is_adequate, classification
  */
-const buildImplementPowerComparison = (implementResult, lossResult) => {
+const buildImplementPowerComparison = (implementResult, lossResult, pmaxTdpHp = null) => {
   const isPto = implementResult.power_kind === 'pto';
-  const ptoAvailablePowerHp = lossResult.zoz.pto_power_hp;
+  // Pmax TDP ingresada por el usuario (pedido del profesor, hoja H3): si viene,
+  // manda sobre la potencia en TDF calculada por la cadena Zoz & Grisso.
+  const hasUserPto = isPto && pmaxTdpHp !== undefined && pmaxTdpHp !== null;
+  const ptoAvailablePowerHp = hasUserPto ? pmaxTdpHp : lossResult.zoz.pto_power_hp;
+  const ptoSource = hasUserPto ? PTO_SOURCE_USUARIO : 'calculada (cadena Zoz & Grisso)';
   // Potencia disponible: neta en la barra de tiro (drawbar) o en la TDF (pto)
   const availablePowerHp = isPto ? ptoAvailablePowerHp : lossResult.netPower;
   const marginHp = parseFloat((availablePowerHp - implementResult.power_required_hp).toFixed(2));
@@ -840,6 +872,7 @@ const buildImplementPowerComparison = (implementResult, lossResult) => {
   return {
     available_power_hp: availablePowerHp,
     pto_available_power_hp: ptoAvailablePowerHp,
+    pto_source: ptoSource,
     margin_hp: marginHp,
     is_adequate: isAdequate,
     classification,
@@ -866,7 +899,7 @@ const resolveHasTurbo = (bodyHasTurbo, tractor) => {
  * (Flujo manual — sin lookups de DB, sin login requerido)
  *
  * Calcula la potencia requerida según la Tabla 1 de Chaparro (implementPowerService)
- * y la disponible con la corrección Zoz & Grisso (calculateTotalLossWithZoz),
+ * y la disponible con la cadena V3 del profesor (calculateTotalLossV3),
  * comparando en la barra de tiro o en la TDF según el implemento.
  *
  * @route POST /api/calculations/direct-implement-power
@@ -888,6 +921,16 @@ export const calculateDirectImplementPower = asyncHandler(async (req, res) => {
     ambient_temperature_c = 15,
     total_weight_kg = 0,
     slope_percent = 0,
+    // Pmax TDP ingresada por el usuario (H3): potencia disponible en la TDF
+    pmax_tdp_hp = null,
+    // Superficie de rodamiento del tractor (lám. 26): para el ρ de P_ROD
+    superficie_rodadura,
+    // Modelo F = R_syc + R_r: peso propio del implemento con ruedas (opcional)
+    implement_weight_kg = null,
+    // Tipo 'personalizado': tiro manual del usuario
+    tiro,
+    draft_unit = 'kg/m',
+    n_surcos,
   } = req.body;
 
   const user_id = req.user?.user_id || null;
@@ -900,6 +943,10 @@ export const calculateDirectImplementPower = asyncHandler(async (req, res) => {
     working_speed_kmh,
     n_tines,
     soil_type,
+    implement_weight_kg,
+    tiro,
+    draft_unit,
+    n_surcos,
   });
 
   // 2. Sin potencia del tractor: se retorna solo la potencia requerida.
@@ -926,23 +973,25 @@ export const calculateDirectImplementPower = asyncHandler(async (req, res) => {
     });
   }
 
-  // 3. Potencia disponible con la corrección Zoz & Grisso
-  //    (el patinaje no se pasa: ya está absorbido en la pérdida de eje)
-  const lossResult = calculateTotalLossWithZoz({
+  // 3. Potencia disponible con la cadena V3 del profesor
+  //    (0,92 → alt/temp sobre P_N → P_ROD con ρ → 0,86 → ET; el patinaje solo alerta)
+  const lossResult = calculateTotalLossV3({
     enginePower: engine_power_hp,
     altitudeMeters: altitude_m,
     temperatureC: ambient_temperature_c,
     totalWeightKg: total_weight_kg,
-    soilCn: getSoilCn(soil_type),
     slopePercent: slope_percent,
     speedKmh: working_speed_kmh ?? 0,
     tractorTractionType: traction_type,
     soilCondition: soil_condition,
+    superficieRodadura: superficie_rodadura,
     hasTurbo: has_turbo,
+    pmaxTdpHp: pmax_tdp_hp,
+    slippagePercent: null,
   });
 
   // 4. Comparación requerida vs disponible y clasificación
-  const comparison = buildImplementPowerComparison(implementResult, lossResult);
+  const comparison = buildImplementPowerComparison(implementResult, lossResult, pmax_tdp_hp);
 
   logger.info('Direct implement power calculation completed', {
     userId: user_id,
@@ -959,11 +1008,24 @@ export const calculateDirectImplementPower = asyncHandler(async (req, res) => {
       power_kind: implementResult.power_kind,
       available_power_hp: comparison.available_power_hp,
       pto_available_power_hp: comparison.pto_available_power_hp,
+      pto_source: comparison.pto_source,
       margin_hp: comparison.margin_hp,
       is_adequate: comparison.is_adequate,
       classification: comparison.classification,
+      // Conversión de la potencia requerida a su equivalente en la TDF (lám. 19)
+      ...(implementResult.power_kind === 'pto'
+        ? { pto_equivalent_hp: implementResult.power_required_hp }
+        : lossResult.zoz.et
+          ? {
+              pto_equivalent_hp: computePtoEquivalent(
+                implementResult.power_required_hp,
+                lossResult.zoz.et
+              ),
+              pto_equivalent_note: 'P_bdt / (0,96 × ET)',
+            }
+        : {}),
       detail: implementResult.detail,
-      warnings: implementResult.warnings,
+      warnings: [...implementResult.warnings, ...(lossResult.warnings || [])],
       losses: lossResult.losses,
       zoz: lossResult.zoz,
     },
@@ -975,8 +1037,8 @@ export const calculateDirectImplementPower = asyncHandler(async (req, res) => {
  * (flujo autenticado: terrain_id + tractor_id + implement_id o parámetros explícitos)
  *
  * Carga tractor, terreno e implemento (opcional), calcula la potencia requerida con
- * implementPowerService (Tabla 1 — Chaparro) y la disponible con calculateTotalLossWithZoz
- * (Zoz & Grisso) usando la tracción del tractor y la condición del suelo del terreno.
+ * implementPowerService (Tabla 1 — Chaparro) y la disponible con calculateTotalLossV3
+ * usando la tracción del tractor y la condición del suelo del terreno.
  *
  * @route POST /api/calculations/implement-power
  */
@@ -994,6 +1056,16 @@ export const calculateImplementPower = asyncHandler(async (req, res) => {
     soil_condition,
     carried_objects_weight_kg = 0,
     has_turbo,
+    // Pmax TDP ingresada por el usuario (H3): prioridad sobre tractor.pmax_tdp si existiera
+    pmax_tdp_hp = null,
+    // Superficie de rodamiento del tractor (lám. 26): body → terreno → default
+    superficie_rodadura,
+    slippage_percent,
+    // Modelo F = R_syc + R_r y tiro manual personalizado
+    implement_weight_kg = null,
+    tiro,
+    draft_unit = 'kg/m',
+    n_surcos,
   } = req.body;
 
   const user_id = req.user?.userId || req.user?.user_id;
@@ -1054,6 +1126,11 @@ export const calculateImplementPower = asyncHandler(async (req, res) => {
       working_speed_kmh: working_speed_kmh,
       n_tines: effectiveTines,
       soil_type: terrain.soil_type,
+      // Rodadura propia del implemento (F = R_syc + R_r) y tiro manual personalizado
+      implement_weight_kg: implement_weight_kg ?? (implement ? implement.weight_kg : null),
+      tiro,
+      draft_unit,
+      n_surcos,
     });
   } catch (error) {
     return res.status(400).json({ success: false, message: error.message });
@@ -1065,21 +1142,24 @@ export const calculateImplementPower = asyncHandler(async (req, res) => {
   const hasTurbo = resolveHasTurbo(has_turbo, tractor);
   const totalWeight = parseFloat(tractor.weight_kg) + parseFloat(carried_objects_weight_kg);
 
-  const lossResult = calculateTotalLossWithZoz({
+  const lossResult = calculateTotalLossV3({
     enginePower: parseFloat(tractor.engine_power_hp),
     altitudeMeters: parseFloat(terrain.altitude_meters),
     temperatureC: parseFloat(terrain.temperature_celsius ?? 15), // Default 15°C si null
     totalWeightKg: totalWeight,
-    soilCn: getSoilCn(terrain.soil_type),
     slopePercent: parseFloat(terrain.slope_percentage),
     speedKmh: working_speed_kmh != null ? parseFloat(working_speed_kmh) : 0,
     tractorTractionType: tractor.traction_type,
     soilCondition: effectiveSoilCondition,
+    // Superficie de rodamiento (lám. 26): prioridad body → columna del terreno → default
+    superficieRodadura: superficie_rodadura ?? terrain.superficie_rodadura ?? null,
     hasTurbo,
+    pmaxTdpHp: pmax_tdp_hp,
+    slippagePercent: slippage_percent ?? null,
   });
 
   // 6. Comparación requerida vs disponible y clasificación
-  const comparison = buildImplementPowerComparison(implementResult, lossResult);
+  const comparison = buildImplementPowerComparison(implementResult, lossResult, pmax_tdp_hp);
 
   // 7. Persistencia (best-effort, mismo patrón que los flujos directos).
   //    Inserta en 'query' con query_type 'implement_power' + log de auditoría;
@@ -1155,11 +1235,24 @@ export const calculateImplementPower = asyncHandler(async (req, res) => {
       power_kind: implementResult.power_kind,
       available_power_hp: comparison.available_power_hp,
       pto_available_power_hp: comparison.pto_available_power_hp,
+      pto_source: comparison.pto_source,
       margin_hp: comparison.margin_hp,
       is_adequate: comparison.is_adequate,
       classification: comparison.classification,
+      // Conversión de la potencia requerida a su equivalente en la TDF (lám. 19)
+      ...(implementResult.power_kind === 'pto'
+        ? { pto_equivalent_hp: implementResult.power_required_hp }
+        : lossResult.zoz.et
+          ? {
+              pto_equivalent_hp: computePtoEquivalent(
+                implementResult.power_required_hp,
+                lossResult.zoz.et
+              ),
+              pto_equivalent_note: 'P_bdt / (0,96 × ET)',
+            }
+        : {}),
       detail: implementResult.detail,
-      warnings: implementResult.warnings,
+      warnings: [...implementResult.warnings, ...(lossResult.warnings || [])],
       losses: lossResult.losses,
       zoz: lossResult.zoz,
       implement: {

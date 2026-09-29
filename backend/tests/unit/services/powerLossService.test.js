@@ -509,4 +509,138 @@ describe("powerLossService", () => {
       expect(result.netPower).toBeCloseTo(59.16, 1);
     });
   });
+
+  describe('calculateTotalLossV3 (cadena v3 del profesor)', () => {
+    const V3 = (over = {}) =>
+      powerLossService.calculateTotalLossV3({
+        enginePower: 350,
+        altitudeMeters: 1800,
+        temperatureC: 18,
+        totalWeightKg: 5500,
+        slopePercent: 8,
+        speedKmh: 4.5,
+        tractorTractionType: '4x2',
+        soilCondition: 'malo',
+        superficieRodadura: 'arena_suelta',
+        slippagePercent: 12,
+        hasTurbo: false,
+        pmaxTdpHp: null,
+        ...over,
+      });
+
+    test('reproduce la cadena del profesor paso a paso (ejemplo H2)', () => {
+      const r = V3();
+      // P_N = 0,92 × 350 = 322
+      expect(r.zoz.p_n_hp).toBe(322);
+      // P_ALT = (1800/300)×1%×322 = 19,32
+      expect(r.zoz.p_alt_hp).toBe(19.32);
+      // P_TEMP = ((18−15)/5)×1%×322 = 1,93
+      expect(r.zoz.p_temp_hp).toBe(1.93);
+      // P_ROD = 5500×4,5×(0,35·cos α + sen α)/274,4 ≈ 38,66 (hoja: 38,7)
+      expect(r.zoz.p_rod_hp).toBeCloseTo(38.66, 1);
+      // P_EJE = (322 − 19,32 − 1,93 − 38,66)×0,86 = 225,4 (implícito)
+      const pEje = (322 - 19.32 - 1.93 - r.zoz.p_rod_hp) * 0.86;
+      expect(pEje).toBeCloseTo(225.4, 1);
+      // P_BDT = P_EJE × ET (malo, 2WD = 0,57)
+      expect(r.zoz.et).toBe(0.57);
+      expect(r.netPower).toBeCloseTo(225.4 * 0.57, 1);
+      // La hoja anota 246,88: no reproducible con ninguna ET de la Fig. 47
+    });
+
+    test('umbrales: altitud solo si A > 300 m, temperatura solo si T > 15 °C, turbo anula ambas', () => {
+      const sinGatillo = V3({ altitudeMeters: 200, temperatureC: 10 });
+      expect(sinGatillo.zoz.p_alt_hp).toBe(0);
+      expect(sinGatillo.zoz.p_temp_hp).toBe(0);
+      const turbo = V3({ hasTurbo: true });
+      expect(turbo.zoz.p_alt_hp).toBe(0);
+      expect(turbo.zoz.p_temp_hp).toBe(0);
+    });
+
+    test('ρ depende de la superficie y del tipo de tractor (lám. 26)', () => {
+      // oruga en arena suelta: ρ = 0,20 (columna "Tractor orugas")
+      expect(V3({ tractorTractionType: 'track' }).zoz.rho).toBe(0.2);
+      // concreto con llantas: ρ = 0,025 (punto medio de 0,02–0,03)
+      expect(V3({ superficieRodadura: 'concreto' }).zoz.rho).toBe(0.025);
+      // superficie no indicada → arena_suelta con advertencia
+      const def = V3({ superficieRodadura: undefined });
+      expect(def.zoz.rho_surface).toBe('arena_suelta');
+      expect(def.zoz.warnings.some((w) => w.includes('arena suelta'))).toBe(true);
+    });
+
+    test('PTO: default 0,85 × P_B y override del usuario (H3)', () => {
+      expect(V3().zoz.pto_power_hp).toBe(297.5);
+      expect(V3().zoz.pto_source).toBe('default 85% de la potencia bruta');
+      const user = V3({ pmaxTdpHp: 246.88 });
+      expect(user.zoz.pto_power_hp).toBe(246.88);
+      expect(user.zoz.pto_source).toBe('ingresada por el usuario');
+    });
+
+    test('patinamiento fuera de 7–15 % genera alerta (no resta potencia)', () => {
+      const fuera = V3({ slippagePercent: 20 });
+      expect(fuera.zoz.warnings.some((w) => w.includes('7% a 15%'))).toBe(true);
+      expect(fuera.losses.slippage).toBe(0);
+      const dentro = V3({ slippagePercent: 10 });
+      expect(dentro.zoz.warnings.some((w) => w.includes('7% a 15%'))).toBe(false);
+    });
+
+    test('desglose consistente: bruta − total de pérdidas = neta', () => {
+      const r = V3();
+      expect(350 - r.losses.total).toBeCloseTo(r.netPower, 1);
+    });
+
+    test('ρ por superficie y tipo de tractor (lám. 26): carretable, arcilloso_humedo, arcilloso_seco y limoso', () => {
+      // [superficie, ρ llantas ('4x2'), ρ oruga ('track')]
+      const CASOS_RHO = [
+        ['carretable', 0.05, 0.06],
+        ['arcilloso_humedo', 0.1, 0.07],
+        ['arcilloso_seco', 0.07, 0.07],
+        ['limoso', 0.2, 0.1],
+      ];
+      for (const [superficie, rhoLlantas, rhoOruga] of CASOS_RHO) {
+        expect(V3({ superficieRodadura: superficie }).zoz.rho).toBe(rhoLlantas);
+        expect(
+          V3({ superficieRodadura: superficie, tractorTractionType: 'track' }).zoz.rho
+        ).toBe(rhoOruga);
+      }
+    });
+
+    test('coerción de pmax_tdp_hp: el string "350" no lanza y da pto 350', () => {
+      const r = V3({ pmaxTdpHp: '350' });
+      expect(r.zoz.pto_power_hp).toBe(350);
+      expect(r.zoz.pto_source).toBe('ingresada por el usuario');
+    });
+
+    test('pmax_tdp_hp inválida (no numérica o <= 0) cae al default 85% con advertencia', () => {
+      const noNumerica = V3({ pmaxTdpHp: 'abc' });
+      expect(noNumerica.zoz.pto_power_hp).toBe(297.5);
+      expect(noNumerica.zoz.pto_source).toBe('default 85% de la potencia bruta');
+      expect(noNumerica.zoz.warnings.some((w) => w.includes('Pmax TDP inválida'))).toBe(true);
+      const cero = V3({ pmaxTdpHp: 0 });
+      expect(cero.zoz.pto_power_hp).toBe(297.5);
+      expect(cero.zoz.warnings.some((w) => w.includes('Pmax TDP inválida'))).toBe(true);
+    });
+
+    test('P_ROD mayor que lo disponible: desglose limitado y bruta − total = neta (neta 0)', () => {
+      // Turbo 100 HP, 20000 kg en arena suelta (ρ 0,35), pendiente 30 % a 6 km/h:
+      // P_ROD cruda ≈ 272 HP > 92 HP disponible → se escala al máximo disponible.
+      const r = V3({
+        enginePower: 100,
+        altitudeMeters: 0,
+        temperatureC: 15,
+        hasTurbo: true,
+        totalWeightKg: 20000,
+        slopePercent: 30,
+        speedKmh: 6,
+      });
+      expect(r.netPower).toBe(0);
+      expect(r.losses.rollingResistance).toBeGreaterThan(0);
+      expect(r.losses.slope).toBeGreaterThan(0);
+      // El desglose nunca supera la potencia bruta: bruta − total = neta = 0
+      expect(r.losses.total).toBeCloseTo(100, 2);
+      expect(100 - r.losses.total).toBeCloseTo(r.netPower, 2);
+      // Rodadura + pendiente escaladas cubren exactamente lo disponible (92 con turbo)
+      expect(r.losses.rollingResistance + r.losses.slope).toBeCloseTo(92, 1);
+    });
+  });
+
 });
