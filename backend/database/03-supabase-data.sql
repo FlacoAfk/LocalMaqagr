@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict Ob6Flvrn7ZAgfYfnS8EZfBOS4B0gs6yzfRxVxVHCEM6uhqfiH4eCP9rkfMQZeuZ
+\restrict KyrVn0gr5bsPWzmPiResjZP65p4vE3dOM5L1vgR6zONhNfjN44Pfenn21G1cGe6
 
 -- Dumped from database version 17.10
 -- Dumped by pg_dump version 17.10
@@ -877,8 +877,8 @@ COPY public.terrain (terrain_id, user_id, name, area_hectares, altitude_meters, 
 --
 
 COPY public.tractor (tractor_id, name, brand, model, model_year, engine_power_hp, price, weight_kg, traction_force_kn, traction_type, tire_type, tire_width_mm, tire_diameter_mm, tire_pressure_psi, price_usd, fuel_consumption_lph, maintenance_cost_per_hour, status, registration_date, image_url, has_turbo, ficha_pdf_url, prioridad) FROM stdin;
-2	Massey Ferguson 4709	Massey Ferguson	4709	2022	90	72000	3508	28.6	4x4	Radial 420/85R30	420	1476	\N	72000	15	6.5	available	2026-04-21 06:46:20.86626	/uploads/tractors/td8855.webp	f	\N	f
 2912	CaseIH Farmall 90C	CaseIH	farmall 90c	2015	90	\N	3470	30.1	4x4	Radial 18.4R34	467	1658	\N	\N	16.7	\N	available	2026-09-30 16:55:14.40114	https://8968982.fs1.hubspotusercontent-na1.net/hub/8968982/hubfs/20220714092836_1504_case_farmall_90jxm_studio_stvalentin_6.jpg?width=600&name=20220714092836_1504_case_farmall_90jxm_studio_stvalentin_6.jpg	f	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Tratores/2021/CIH_FOLLETO_TRACTOR_FARMALL_80-90-100.pdf#page=9	t
+2	Massey Ferguson 4709	Massey Ferguson	4709	2022	90	72000	3508	28.6	4x4	Radial 420/85R30	420	1476	\N	72000	15	6.5	available	2026-04-21 06:46:20.86626	/uploads/tractors/td8855.webp	f	\N	f
 1001	Massey Ferguson 675	Massey Ferguson	675	1983	70	\N	3628	22	4x4	Diagonal 83 - 19	2108	4067	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td10076.webp	f	\N	f
 1009	Kubota M105GX-IV	Kubota	M105GX IV	2016	111	\N	4300	40.7	4x4	Radial 520/70R34	520	1592	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td10103.webp	t	\N	f
 1010	Kubota M115GX-IV	Kubota	M115GX IV	2016	123	\N	4844	45.1	4x4	Radial 520/70R38	520	1693	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td10104.webp	t	\N	f
@@ -913,15 +913,15 @@ COPY public.tractor (tractor_id, name, brand, model, model_year, engine_power_hp
 732	Massey Ferguson 35 (1960-1964)	Massey Ferguson	35	1960	37	\N	1402	13.6	4x2	Diagonal 10-28	254	1143	\N	\N	9.1	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td7529.webp	f	\N	f
 757	Massey Ferguson 180	Massey Ferguson	180	1964	64	\N	3032	27.1	4x2	Diagonal 15.5-38	394	1634	\N	\N	14.4	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td749.webp	f	\N	f
 784	Massey Ferguson 245	Massey Ferguson	245	1976	45	\N	1769	19	4x2	Diagonal 13.6-28	345	1298	\N	\N	10.6	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td760.webp	f	\N	f
+2165	CaseIH Puma 200	CaseIH	Puma 200	2011	197	\N	8591	71.4	4x4	Diagonal 11 - 20	279	983	\N	\N	38.6	\N	available	2026-09-30 16:49:10.296204	https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/d07e46736ff446959945690954d6ffbe?v=81599384	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Tratores/2023/CIH_FOLLETO_TRACTOR_PUMA%20LWB.pdf#page=11	t
+2166	CaseIH Puma 215	CaseIH	Puma 215	2011	213	\N	8110	72.7	4x4	Diagonal 11 - 20	279	983	\N	\N	40.1	\N	available	2026-09-30 16:49:10.296204	https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/2264fd7eb05c45d088c18d2e9ab24d8b?v=fea8f672	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Tratores/2023/CIH_FOLLETO_TRACTOR_PUMA%20LWB.pdf#page=11	t
+2167	CaseIH Puma 230	CaseIH	Puma 230	2011	234	\N	8981	81.2	4x4	Diagonal 11 - 20	279	983	\N	\N	43.9	\N	available	2026-09-30 16:49:10.296204	https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/fe06e77a510b41ef92f49a0f78d3ae1d?v=a427e465	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Tratores/2023/CIH_FOLLETO_TRACTOR_PUMA%20LWB.pdf#page=11	t
+2840	CaseIH Steiger 470	CaseIH	steiger 470	2014	477	\N	18216	193.5	4x4	Radial 710/70R42	710	2061	\N	\N	95.8	\N	available	2026-09-30 16:51:28.845746	https://assets.revistacultivar.com.br/877e37ec-0a8d-4eea-9bf7-74ca0899d05e.jpg	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Espanhol/Tractores/CIH-0029-21A_Folheto-Steiger-EObx.pdf#page=16	t
+2153	CaseIH Steiger 500	CaseIH	Steiger 500	2011	507	\N	19982	207.6	4x4	Diagonal 1-3	25	119	\N	\N	101.8	\N	available	2026-09-30 16:49:10.296204	https://i.machinio.com/medium/cmm/4001/case-ih-steiger-500-tractor-f8ae68e82543.jpg	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Espanhol/Tractores/CIH-0029-21A_Folheto-Steiger-EObx.pdf#page=16	t
 2934	Fiat G190	Fiat	G190	1993	190	\N	7529	0.6	4x4	Diagonal 93 - 20	2362	4524	\N	\N	37.9	\N	available	2026-09-30 18:02:54.57488	/uploads/tractors/td10287.webp	t	\N	f
 2935	Fiat G210	Fiat	G210	1993	210	\N	7575	82.5	4x4	Diagonal 93 - 20	2362	4524	\N	\N	37.9	\N	available	2026-09-30 18:02:54.57488	/uploads/tractors/td10288.webp	t	\N	f
 2936	Fiat G240	Fiat	G240	1993	240	\N	7688	124.6	4x4	Diagonal 93 - 20	2362	4524	\N	\N	43.9	\N	available	2026-09-30 18:02:54.57488	/uploads/tractors/td10289.webp	t	\N	f
-2165	CaseIH Puma 200	CaseIH	Puma 200	2011	197	\N	8591	71.4	4x4	Diagonal 11 - 20	279	983	\N	\N	38.6	\N	available	2026-09-30 16:49:10.296204	https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/d07e46736ff446959945690954d6ffbe?v=81599384	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Tratores/2023/CIH_FOLLETO_TRACTOR_PUMA%20LWB.pdf#page=11	t
-2840	CaseIH Steiger 470	CaseIH	steiger 470	2014	477	\N	18216	193.5	4x4	Radial 710/70R42	710	2061	\N	\N	95.8	\N	available	2026-09-30 16:51:28.845746	https://assets.revistacultivar.com.br/877e37ec-0a8d-4eea-9bf7-74ca0899d05e.jpg	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Espanhol/Tractores/CIH-0029-21A_Folheto-Steiger-EObx.pdf#page=16	t
 1549	Kubota M7040	Kubota	M7040	2007	70	\N	2400	22.7	4x4	Diagonal 16.9-30	429	1492	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	https://dieselkubota.com.co/wp-content/uploads/2017/02/WhatsApp-Image-2023-11-16-at-8.13.36-AM-min-300x300.jpeg	t	https://dieselkubota.com.co/wp-content/uploads/2023/11/Tractor-Kubota-M7040-nueva-generacion.pdf	t
-2166	CaseIH Puma 215	CaseIH	Puma 215	2011	213	\N	8110	72.7	4x4	Diagonal 11 - 20	279	983	\N	\N	40.1	\N	available	2026-09-30 16:49:10.296204	https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/2264fd7eb05c45d088c18d2e9ab24d8b?v=fea8f672	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Tratores/2023/CIH_FOLLETO_TRACTOR_PUMA%20LWB.pdf#page=11	t
-2167	CaseIH Puma 230	CaseIH	Puma 230	2011	234	\N	8981	81.2	4x4	Diagonal 11 - 20	279	983	\N	\N	43.9	\N	available	2026-09-30 16:49:10.296204	https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/fe06e77a510b41ef92f49a0f78d3ae1d?v=a427e465	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Tratores/2023/CIH_FOLLETO_TRACTOR_PUMA%20LWB.pdf#page=11	t
-2153	CaseIH Steiger 500	CaseIH	Steiger 500	2011	507	\N	19982	207.6	4x4	Diagonal 1-3	25	119	\N	\N	101.8	\N	available	2026-09-30 16:49:10.296204	https://i.machinio.com/medium/cmm/4001/case-ih-steiger-500-tractor-f8ae68e82543.jpg	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Espanhol/Tractores/CIH-0029-21A_Folheto-Steiger-EObx.pdf#page=16	t
 62	John Deere 2040S	John Deere	2040S	1981	75	\N	3626	24.2	4x4	Diagonal 16.9-34	429	1593	\N	\N	\N	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td103.webp	f	\N	f
 1047	Massey Ferguson 154S	Massey Ferguson	154S	1986	42	\N	2190	15.4	4x4	Diagonal 14.9-24	378	1253	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td10300.webp	f	\N	f
 1048	Kubota T22	Kubota	T22	2000	21.6	\N	879	7.9	4x4	Diagonal 8.3-24	211	968	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td10304.webp	f	\N	f
@@ -1012,25 +1012,26 @@ COPY public.tractor (tractor_id, name, brand, model, model_year, engine_power_hp
 1253	CaseIH 585	CaseIH	585	1985	60	\N	3068	19.1	4x4	Diagonal 16.9-30	429	1492	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td1152.webp	f	\N	f
 1254	CaseIH 595	CaseIH	595	1991	60	\N	3032	19.1	4x4	Diagonal 14.9-24	378	1253	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td1153.webp	f	\N	f
 1255	CaseIH 685	CaseIH	685	1985	68.1	\N	4012	32.1	4x4	Diagonal 16.9-30	429	1492	\N	\N	15.9	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td1154.webp	f	\N	f
+2996	CaseIH Magnum 400	CaseIH	magnum 400	2019	396	\N	15800	131.7	4x4	Radial 480/80R50	480	2038	\N	\N	75.7	\N	available	2026-09-30 18:02:54.57488	https://assets.machinerypete.com/uploads/image/processed_image/33179947/full_size_img.axd	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Produtos/Tratores/Linha-Magnum/Magnum%20AFS/CIH_Folleto-Magnum-AFS-Connect-Espanol.pdf#page=13	t
 1261	CaseIH 695	CaseIH	695	1991	72	\N	3440	22.4	4x4	Diagonal 14.9-24	378	1253	\N	\N	15.9	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td1155.webp	f	\N	f
 1263	Massey Ferguson 22-20GC	MTD	ferguson 22 20gc	2007	20	\N	658	5.9	4x2	Diagonal 26x12.00-12	305	660	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td11568.webp	f	\N	f
 1265	CaseIH 895	CaseIH	895	1991	84	\N	3276	26.4	4x4	Diagonal 16.9-24	429	1339	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td1157.webp	f	\N	f
 2926	Fiat 45-66S	Fiat	45 66S	1992	44.4	\N	2375	16.3	4x4	Diagonal 11-28	279	1186	\N	\N	\N	\N	available	2026-09-30 18:02:54.57488	/uploads/tractors/td10016.webp	f	\N	f
-2996	CaseIH Magnum 400	CaseIH	magnum 400	2019	396	\N	15800	131.7	4x4	Radial 480/80R50	480	2038	\N	\N	75.7	\N	available	2026-09-30 18:02:54.57488	https://assets.machinerypete.com/uploads/image/processed_image/33179947/full_size_img.axd	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Produtos/Tratores/Linha-Magnum/Magnum%20AFS/CIH_Folleto-Magnum-AFS-Connect-Espanol.pdf#page=13	t
 1266	CaseIH 995	CaseIH	995	1991	104	\N	3276	31.2	4x4	Radial 14.9R24	378	1253	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td1158.webp	t	\N	f
 1268	CaseIH 1120	Mitsubishi	1120	1986	19	\N	625	6.1	4x4	Diagonal 9.5-16	241	817	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td1159.webp	f	\N	f
 1264	Massey Ferguson 22-28GC	MTD	ferguson 22 28gc	2007	28	\N	908	7.7	4x4	Diagonal 12.00-15	305	899	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td11569.webp	f	\N	f
 1272	CaseIH 1140	Mitsubishi	1140	1986	27	\N	934	8.4	4x4	Diagonal 11.2-24	284	1093	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td1161.webp	f	\N	f
 1273	CaseIH 1394	CaseIH	1394	1985	77	\N	3166	23.8	4x4	Diagonal 16.9-30	429	1492	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td1162.webp	t	\N	f
-2882	CaseIH Farmall 100N	CaseIH	Farmall 100N	2009	101	\N	3630	31.6	4x4	Radial 14.9R28	378	1355	\N	\N	\N	\N	available	2026-09-30 16:55:14.40114	https://assets.cnhindustrial.com/caseih/MEXICO/MEXICOASSETS/Our-Products/Tractors/Farmall-JX-Series/Farmall-JX100-MFD_CAB/FARMALL_JX100_MFD_CAB.jpg	f	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Tratores/2021/CIH_FOLLETO_TRACTOR_FARMALL_80-90-100.pdf#page=9	t
 3013	Fiat 25R	Fiat	25R	1951	23	\N	1379	8.4	4x2	Diagonal 51 - 19	1295	2685	\N	\N	\N	\N	available	2026-09-30 18:02:54.57488	/uploads/tractors/td11637.webp	f	\N	f
 1033	Ford 876	Ford	876	1989	280	\N	8210	123.2	4x4	Diagonal 18.4x38	467	1760	\N	\N	51.5	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td10146.webp	t	\N	f
 1034	Ford 946	Ford	946	1989	325	\N	14742	104.9	4x4	Diagonal 18.4x38	467	1760	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td10147.webp	t	\N	f
 1035	Ford 976	Ford	976	1989	360	\N	9570	115.9	4x4	Diagonal 18.4x38	467	1760	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td10148.webp	t	\N	f
 1036	Kubota B2301	Kubota	B2301	2000	22	\N	710	6.4	4x4	Diagonal 9.5-16	241	817	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td10150.webp	f	\N	f
+2881	CaseIH Farmall 80N	CaseIH	Farmall 80N	2009	80	\N	3470	22.7	4x4	Radial 14.9R28	378	1355	\N	\N	\N	\N	available	2026-09-30 16:55:14.40114	https://lh4.googleusercontent.com/proxy/BTVG0S5PVMzrDxkU4OkK-IKw6dwISMfsm__j4y5kEyDl2flmWRuiohOYU-nlWFuq6PDq9qf_ylDiMmkWS72VLRNJQT_CKxFrhdg99uYgk8OvlsSkFgEWsorFFw	f	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Tratores/2021/CIH_FOLLETO_TRACTOR_FARMALL_80-90-100.pdf#page=9	t
 1037	Kubota B2601	Kubota	B2601	2000	25.5	\N	740	7.2	4x4	Diagonal 11.2-16	284	890	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td10151.webp	f	\N	f
 1040	Massey Ferguson 1098	Massey Ferguson	1098	1972	106	\N	6026	38.9	4x2	Diagonal 24.5x32	622	1871	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td10155.webp	f	\N	f
 3014	Fiat 312R	Fiat	312R	1959	30	\N	1420	11	4x2	Diagonal 10-28	254	1143	\N	\N	\N	\N	available	2026-09-30 18:02:54.57488	/uploads/tractors/td11639.webp	f	\N	f
+2882	CaseIH Farmall 100N	CaseIH	Farmall 100N	2009	101	\N	3630	31.6	4x4	Radial 14.9R28	378	1355	\N	\N	\N	\N	available	2026-09-30 16:55:14.40114	https://assets.cnhindustrial.com/caseih/MEXICO/MEXICOASSETS/Our-Products/Tractors/Farmall-JX-Series/Farmall-JX100-MFD_CAB/FARMALL_JX100_MFD_CAB.jpg	f	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Tratores/2021/CIH_FOLLETO_TRACTOR_FARMALL_80-90-100.pdf#page=9	t
 2883	CaseIH Farmall 110N	CaseIH	Farmall 110N	2014	106	\N	2854	34.1	4x4	Radial 14.9R28	378	1355	\N	\N	\N	\N	available	2026-09-30 16:55:14.40114	/uploads/tractors/td10203.webp	t	\N	f
 130	John Deere 1650	Yanmar	deere 1650	1984	67	\N	2100	29.2	4x4	Diagonal 16.9-28	429	1441	\N	\N	12.5	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td116.webp	t	\N	f
 1271	CaseIH 1130	Mitsubishi	1130	1986	23	\N	907	7.3	4x4	Diagonal 9.5-24	241	1020	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td1160.webp	f	\N	f
@@ -1038,7 +1039,6 @@ COPY public.tractor (tractor_id, name, brand, model, model_year, engine_power_hp
 1275	Kubota M7-154	Kubota	M7 154	2020	120	\N	6598	44	4x4	Radial 18.4R38	467	1760	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td11628.webp	t	\N	f
 1276	Kubota M7-174	Kubota	M7 174	2020	140	\N	6598	51.4	4x4	Radial 18.4R38	467	1760	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td11629.webp	t	\N	f
 1277	CaseIH 1494	CaseIH	1494	1983	85	\N	4536	27.5	4x4	Diagonal 18.4-34	467	1658	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td1163.webp	t	\N	f
-2881	CaseIH Farmall 80N	CaseIH	Farmall 80N	2009	80	\N	3470	22.7	4x4	Radial 14.9R28	378	1355	\N	\N	\N	\N	available	2026-09-30 16:55:14.40114	https://lh4.googleusercontent.com/proxy/BTVG0S5PVMzrDxkU4OkK-IKw6dwISMfsm__j4y5kEyDl2flmWRuiohOYU-nlWFuq6PDq9qf_ylDiMmkWS72VLRNJQT_CKxFrhdg99uYgk8OvlsSkFgEWsorFFw	f	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Tratores/2021/CIH_FOLLETO_TRACTOR_FARMALL_80-90-100.pdf#page=9	t
 1278	CaseIH 1594	CaseIH	1594	1985	97	\N	4213	37	4x2	Diagonal 16.9-38	429	1695	\N	\N	19.7	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td1164.webp	f	\N	f
 2884	CaseIH Farmall 80V	CaseIH	Farmall 80V	2000	80	\N	3470	23.8	4x4	Radial 11.2R24	284	1093	\N	\N	\N	\N	available	2026-09-30 16:55:14.40114	https://lh4.googleusercontent.com/proxy/BTVG0S5PVMzrDxkU4OkK-IKw6dwISMfsm__j4y5kEyDl2flmWRuiohOYU-nlWFuq6PDq9qf_ylDiMmkWS72VLRNJQT_CKxFrhdg99uYgk8OvlsSkFgEWsorFFw	f	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Tratores/2021/CIH_FOLLETO_TRACTOR_FARMALL_80-90-100.pdf#page=9	t
 32	John Deere 2026R	John Deere	2026R	2000	25.2	\N	760	6.6	4x4	Diagonal 280/70-16	280	798	\N	\N	\N	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td10233.webp	f	\N	f
@@ -1484,6 +1484,7 @@ COPY public.tractor (tractor_id, name, brand, model, model_year, engine_power_hp
 124	John Deere 5067E	John Deere	5067E	2015	67.5	\N	2734	20.3	4x4	Diagonal 16.9-28	429	1441	\N	\N	\N	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td11321.webp	t	\N	f
 305	Massey Ferguson 491	Massey Ferguson	ferguson 491	2004	89	\N	3299	31.5	4x4	Diagonal 18.4-30	467	1557	\N	\N	19.7	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td1824.webp	t	\N	f
 306	Massey Ferguson 492	Massey Ferguson	ferguson 492	2004	99	\N	3299	33.6	4x4	Diagonal 18.4-34	467	1658	\N	\N	20.4	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td1825.webp	t	\N	f
+1543	Kubota M108X	Kubota	M108X	2007	108	\N	2800	34.1	4x4	Radial 18.4R34	467	1658	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	https://dieselkubota.com.co/wp-content/uploads/2017/03/southmaq-tractor-frutero-tract-1.png	f	https://dieselkubota.com.co/productos/tractor-kubota-m108-colombia/	t
 1535	Kubota L3940	Kubota	L3940	2007	40.5	\N	1579	12.1	4x4	Diagonal 14.9-24	378	1253	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td1833.webp	f	\N	f
 1536	Kubota L4240	Kubota	L4240	2007	44	\N	1599	13.4	4x4	Diagonal 14.9-24	378	1253	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td1834.webp	f	\N	f
 1537	Kubota L4740	Kubota	L4740	2007	49	\N	1701	15.2	4x4	Diagonal 14.9-24	378	1253	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td1835.webp	f	\N	f
@@ -1514,7 +1515,6 @@ COPY public.tractor (tractor_id, name, brand, model, model_year, engine_power_hp
 309	John Deere 5410	John Deere	5410	1998	81	\N	2494	24.4	4x4	Diagonal 16.9-30	429	1492	\N	\N	15.5	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td1887.webp	f	\N	f
 310	John Deere 5510	John Deere	5510	1998	89	\N	2594	30.2	4x4	Diagonal 16.9-30	429	1492	\N	\N	16.7	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td1888.webp	t	\N	f
 311	John Deere 6110	John Deere	6110	1999	84	\N	3590	21.1	4x4	Diagonal 16.9-30	429	1492	\N	\N	15.1	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td1889.webp	t	\N	f
-1543	Kubota M108X	Kubota	M108X	2007	108	\N	2800	34.1	4x4	Radial 18.4R34	467	1658	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	https://dieselkubota.com.co/wp-content/uploads/2017/03/southmaq-tractor-frutero-tract-1.png	f	\N	t
 1216	Massey Ferguson 174-4	Landini	ferguson 174 4	1973	65	\N	2490	23.8	4x4	Diagonal 13-30	330	1323	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td11333.webp	f	\N	f
 1217	Massey Ferguson 174C	Massey Ferguson	174C	2000	61	\N	3339	22.4	track	Diagonal 74-4	1880	3297	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td11334.webp	f	\N	f
 1218	CaseIH MX170 Maxxum	CaseIH	MX170 Maxxum	1998	145	\N	6395	53.2	4x4	Diagonal 98 - 20	2489	4740	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td1134.webp	t	\N	f
@@ -1948,6 +1948,7 @@ COPY public.tractor (tractor_id, name, brand, model, model_year, engine_power_hp
 1646	New Holland TC55DA	New Holland	TC55DA	2003	55	\N	1922	17.6	4x4	Diagonal 14.9-24	378	1253	\N	\N	14.8	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td3103.webp	t	https://digitalcommons.unl.edu/tractormuseumlit/1250/	f
 1647	New Holland TN55	New Holland	TN55	1999	53	\N	2286	28.4	4x4	Diagonal 14.9-28	378	1355	\N	\N	10.2	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td3104.webp	f	\N	f
 1648	New Holland TN65	New Holland	TN65	1998	57	\N	2331	30.2	4x4	Diagonal 14.9-28	378	1355	\N	\N	12.5	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td3105.webp	f	\N	f
+1685	New Holland TT55	New Holland	TT55	2002	55	\N	2220	17.2	4x4	Diagonal 13.6-28	345	1298	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	https://www.dinissanmaquinaria.com/wp-content/uploads/2022/03/20190218170833_TT55_alta-700x700.jpg	t	https://www.dinissanmaquinaria.com/wp-content/uploads/2022/03/tt-75.pdf	t
 3066	Belarus 922	Belarus	922	1984	100	\N	3569	32.3	4x2	Diagonal 15.5-38	394	1634	\N	\N	\N	\N	available	2026-09-30 18:02:54.57488	/uploads/tractors/td1453.webp	t	\N	f
 1649	New Holland TL70	New Holland	TL70	1999	65	\N	3089	40.3	4x4	Diagonal 99 - 20	2515	4783	\N	\N	14	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td3106.webp	f	\N	f
 211	John Deere 8560	John Deere	8560	1989	235	\N	14549	143.1	4x4	Diagonal 89 - 19	2261	4326	\N	\N	44.3	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td146.webp	t	\N	f
@@ -1970,7 +1971,6 @@ COPY public.tractor (tractor_id, name, brand, model, model_year, engine_power_hp
 1677	New Holland TM155	New Holland	TM155	2002	155	\N	5642	61.9	4x4	Radial 18.4R38	467	1760	\N	\N	31	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td3139.webp	t	\N	f
 1678	New Holland TM175	New Holland	TM175	2002	175	\N	6967	59	4x4	Radial 20.8R42	528	1965	\N	\N	34.1	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td3140.webp	t	\N	f
 1679	New Holland TM190	New Holland	TM190	2002	190	\N	6967	77.7	4x4	Radial 20.8R42	528	1965	\N	\N	36.7	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td3141.webp	t	\N	f
-1685	New Holland TT55	New Holland	TT55	2002	55	\N	2220	17.2	4x4	Diagonal 13.6-28	345	1298	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	https://www.dinissanmaquinaria.com/wp-content/uploads/2022/03/20190218170833_TT55_alta-700x700.jpg	t	https://www.dinissanmaquinaria.com/wp-content/uploads/2022/03/tt-75.pdf	t
 1652	New Holland TL80	New Holland	TL80	1999	80	\N	3200	40.9	4x4	Diagonal 99 - 20	2515	4783	\N	\N	15.9	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td3109.webp	t	\N	f
 1653	New Holland TL90	New Holland	TL90	1999	90	\N	3400	41.3	4x4	Diagonal 99 - 20	2515	4783	\N	\N	17.4	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td3110.webp	t	\N	f
 1655	New Holland TN95F	New Holland	TN95F	2002	90	\N	3100	29.4	4x4	Diagonal 02 - 20	51	594	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td3112.webp	t	\N	f
@@ -1985,8 +1985,8 @@ COPY public.tractor (tractor_id, name, brand, model, model_year, engine_power_hp
 228	John Deere 4410	John Deere	4410	2002	34.6	\N	254	11	4x4	Diagonal 11.2-24	284	1093	\N	\N	\N	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td1555.webp	f	\N	f
 1688	New Holland TB110	New Holland	TB110	2003	110	\N	3166	33	4x4	Diagonal 03 - 20	76	638	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td3150.webp	t	\N	f
 1690	New Holland TK80	New Holland	TK80	2004	77	\N	3837	24.2	track	Diagonal 04 - 20	102	681	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td3152.webp	f	\N	f
-1686	New Holland TT75	New Holland	TT75	2002	74	\N	2480	21.6	4x4	Diagonal 16.9-30	429	1492	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td3148.webp	t	https://www.dinissanmaquinaria.com/wp-content/uploads/2022/03/tt-75.pdf	t
 1691	New Holland TK100	New Holland	TK100	2004	93	\N	4037	29.4	track	Diagonal 04 - 20	102	681	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td3153.webp	t	\N	f
+1686	New Holland TT75	New Holland	TT75	2002	74	\N	2480	21.6	4x4	Diagonal 16.9-30	429	1492	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	https://cdn11.bigcommerce.com/s-xeihv17pvg/images/stencil/1280w/products/216/2396/New_Holland-New_Holland_TT75_Doble_Traccion-lateral__78296.1706029614.png?c=1	t	https://www.dinissanmaquinaria.com/wp-content/uploads/2022/03/tt-75.pdf	t
 3316	J.I. Case 10-18	Case IH	10 18	1918	18	\N	1705	7.7	4x2	Diagonal 42x9	1067	2042	\N	\N	10.2	\N	available	2026-09-30 18:02:54.57488	/uploads/tractors/td3178.webp	f	\N	f
 335	John Deere 7710	John Deere	7710	1997	155	\N	6414	83	4x4	Diagonal 18.4-38	467	1760	\N	\N	31.8	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td3210.webp	t	\N	f
 337	John Deere 7410	John Deere	7410	1997	120	\N	5598	59.2	4x4	Diagonal 18.4-38	467	1760	\N	\N	22.7	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td3212.webp	t	\N	f
@@ -2781,8 +2781,6 @@ COPY public.tractor (tractor_id, name, brand, model, model_year, engine_power_hp
 2087	New Holland TN75A	New Holland	TN75A	2004	75	\N	2456	27.3	4x4	Diagonal 04 - 20	102	681	\N	\N	15.1	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td6462.webp	t	\N	f
 2090	New Holland 8670	New Holland	8670	1993	170	\N	7166	77.3	4x4	Diagonal 93 - 20	2362	4524	\N	\N	34.4	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td647.webp	t	\N	f
 2103	Massey Ferguson 3645	Agritalia	ferguson 3645	2007	91	\N	2500	27.5	4x4	Radial 16.9R30	429	1492	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td6484.webp	t	\N	f
-1854	CaseIH Puma 140	CaseIH	Puma 140	2008	144	\N	6725	57.4	4x4	Radial 18.4R38	467	1760	\N	\N	28.8	\N	available	2026-09-30 16:49:10.296204	https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/3bea8ec8eef94c8ea003cc59e932323d?v=7776a91c	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Tratores/2023/CIH_FOLLETO_TRACTOR_PUMA_SWB.pdf#page=9	t
-1855	CaseIH Puma 155	CaseIH	Puma 155	2008	157	\N	6725	62.8	4x4	Radial 18.4R38	467	1760	\N	\N	31.8	\N	available	2026-09-30 16:49:10.296204	https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/e308bbb26b7c4d9289354ee961a433da?v=5cd844b4	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Tratores/2023/CIH_FOLLETO_TRACTOR_PUMA_SWB.pdf#page=9	t
 2094	New Holland Boomer 2030	New Holland	Boomer 2030	2008	31	\N	1181	9.7	4x4	Diagonal 11.2-24	284	1093	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td6475.webp	f	\N	f
 1853	CaseIH Puma 125	CaseIH	Puma 125	2008	125	\N	6001	53.7	4x4	Radial 18.4R38	467	1760	\N	\N	26.9	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td5632.webp	t	\N	f
 2104	New Holland 8770	New Holland	8770	1993	190	\N	7529	0.6	4x4	Diagonal 93 - 20	2362	4524	\N	\N	37.9	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td649.webp	t	\N	f
@@ -2809,6 +2807,8 @@ COPY public.tractor (tractor_id, name, brand, model, model_year, engine_power_hp
 2109	Ford 8970	Ford	8970	1993	240	\N	7688	124.6	4x4	Diagonal 93 - 20	2362	4524	\N	\N	43.9	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td652.webp	t	\N	f
 634	John Deere 5620	John Deere	5620	2003	72	\N	3549	22.4	4x4	Diagonal 03 - 20	76	638	\N	\N	\N	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td6596.webp	f	\N	f
 635	John Deere 5720	John Deere	5720	2003	80	\N	3700	25.3	4x4	Diagonal 03 - 20	76	638	\N	\N	\N	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td6597.webp	t	\N	f
+1854	CaseIH Puma 140	CaseIH	Puma 140	2008	144	\N	6725	57.4	4x4	Radial 18.4R38	467	1760	\N	\N	28.8	\N	available	2026-09-30 16:49:10.296204	https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/3bea8ec8eef94c8ea003cc59e932323d?v=7776a91c	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Tratores/2023/CIH_FOLLETO_TRACTOR_PUMA_SWB.pdf#page=9	t
+1855	CaseIH Puma 155	CaseIH	Puma 155	2008	157	\N	6725	62.8	4x4	Radial 18.4R38	467	1760	\N	\N	31.8	\N	available	2026-09-30 16:49:10.296204	https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/e308bbb26b7c4d9289354ee961a433da?v=5cd844b4	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Tratores/2023/CIH_FOLLETO_TRACTOR_PUMA_SWB.pdf#page=9	t
 639	John Deere 5070M	John Deere	5070M	2009	70	\N	6001	25.7	4x4	Radial 16.9R34	429	1593	\N	\N	\N	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td6602.webp	t	\N	f
 640	John Deere 5080M	John Deere	5080M	2009	80	\N	6001	29.4	4x4	Radial 16.9R34	429	1593	\N	\N	\N	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td6603.webp	t	\N	f
 636	John Deere 5820	John Deere	5820	2003	88	\N	3700	27.9	4x4	Diagonal 03 - 20	76	638	\N	\N	\N	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td6598.webp	t	\N	f
@@ -2841,9 +2841,9 @@ COPY public.tractor (tractor_id, name, brand, model, model_year, engine_power_hp
 2122	New Holland T6080 Elite	New Holland	T6080 Elite	2007	155	\N	5600	62.8	4x4	Diagonal 07 - 20	178	810	\N	\N	31.8	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td6659.webp	t	\N	f
 2123	New Holland TV6070	New Holland	TV6070	2008	155	\N	6896	52.6	4x4	Diagonal 08 - 20	203	853	\N	\N	30.3	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td6660.webp	t	\N	f
 2135	Massey Ferguson 2635	TAFE	ferguson 2635	2010	74	\N	2429	22.7	4x4	Diagonal 10 - 20	254	940	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td6681.webp	t	\N	f
+2164	CaseIH Puma 185	CaseIH	Puma 185	2011	182	\N	6725	68.8	4x4	Diagonal 11 - 20	279	983	\N	\N	36.3	\N	available	2026-09-30 16:49:10.296204	https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/4bed3f5c2fc14cc7aceedcc85b4694a6?v=707335bb	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Tratores/2023/CIH_FOLLETO_TRACTOR_PUMA_SWB.pdf#page=9	t
 1890	New Holland 1630	Shibaura	holland 1630	1997	27.3	\N	1122	8.8	4x2	Diagonal 11.2-24	284	1093	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td587.webp	f	\N	f
 2144	Massey Ferguson 6499	Massey Ferguson	6499	2008	215	\N	7801	105.4	4x4	Radial 18.4R42	467	1861	\N	\N	46.9	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td6705.webp	t	\N	f
-2164	CaseIH Puma 185	CaseIH	Puma 185	2011	182	\N	6725	68.8	4x4	Diagonal 11 - 20	279	983	\N	\N	36.3	\N	available	2026-09-30 16:49:10.296204	https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/4bed3f5c2fc14cc7aceedcc85b4694a6?v=707335bb	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Tratores/2023/CIH_FOLLETO_TRACTOR_PUMA_SWB.pdf#page=9	t
 2150	CaseIH Steiger 350	CaseIH	Steiger 350	2011	350	\N	16260	125.2	4x4	Diagonal 1-3	25	119	\N	\N	66.6	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td6726.webp	t	\N	f
 648	John Deere 8260R	John Deere	8260R	2011	260	\N	12346	103.3	4x4	Diagonal 1-3	25	119	\N	\N	52.6	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td6713.webp	t	\N	f
 649	John Deere 8285R	John Deere	8285R	2011	285	\N	12346	100.8	4x4	Diagonal 1-3	25	119	\N	\N	58.7	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td6714.webp	t	\N	f
@@ -3020,12 +3020,12 @@ COPY public.tractor (tractor_id, name, brand, model, model_year, engine_power_hp
 3559	Fiat 460	Fiat	460	2000	48	\N	2330	17.6	4x4	Diagonal 12-28	305	1229	\N	\N	\N	\N	available	2026-09-30 18:02:54.57488	/uploads/tractors/td7338.webp	f	\N	f
 2084	Ford 5000 Diesel	Ford	5000 Diesel	1962	51.8	\N	2519	36.1	4x2	Diagonal 16.9-30	429	1492	\N	\N	11.7	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td6440.webp	f	\N	f
 2085	New Holland 8560	New Holland	8560	1996	130	\N	5618	52.5	4x2	Radial 18.4R38	467	1760	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td645.webp	t	\N	f
+2839	CaseIH Steiger 420	CaseIH	steiger 420	2014	426	\N	18216	185.8	4x4	Radial 710/70R42	710	2061	\N	\N	85.2	\N	available	2026-09-30 16:51:28.845746	https://cdn.dealerspike.com/imglib/v1/800x600/imglib/Assets/Inventory/B7/72/B7720CB8-8801-4E83-8A37-2477AC856D2B.jpg	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Espanhol/Tractores/CIH-0029-21A_Folheto-Steiger-EObx.pdf#page=16	t
 736	Massey Ferguson 85	Massey Ferguson	85	1959	62.21	\N	2602	39	4x2	Diagonal 15x30	381	1410	\N	\N	20.1	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td736.webp	f	\N	f
 2282	Massey Ferguson 4609	Massey Ferguson	4609	2013	90	\N	2900	26.4	4x4	Diagonal 16.9-30	429	1492	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td7369.webp	t	\N	f
 737	Massey Ferguson 88	Massey Ferguson	88	1959	63	\N	3250	39.9	4x2	Diagonal 15x30	381	1410	\N	\N	17	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td737.webp	f	\N	f
 2283	Massey Ferguson 4610	Massey Ferguson	4610	2013	100	\N	2949	29.4	4x4	Diagonal 16.9-30	429	1492	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td7370.webp	t	\N	f
 2284	CaseIH Farmall 115U	CaseIH	Farmall 115U	2013	115	\N	4250	36.6	4x4	Radial 18.4R34	467	1658	\N	\N	23.1	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td738.webp	t	\N	f
-2839	CaseIH Steiger 420	CaseIH	steiger 420	2014	426	\N	18216	185.8	4x4	Radial 710/70R42	710	2061	\N	\N	85.2	\N	available	2026-09-30 16:51:28.845746	https://cdn.dealerspike.com/imglib/v1/800x600/imglib/Assets/Inventory/B7/72/B7720CB8-8801-4E83-8A37-2477AC856D2B.jpg	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Espanhol/Tractores/CIH-0029-21A_Folheto-Steiger-EObx.pdf#page=16	t
 2281	Massey Ferguson 4608	Massey Ferguson	4608	2013	80	\N	2750	23.3	4x4	Diagonal 16.9-30	429	1492	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td7368.webp	t	\N	f
 614	John Deere 8245R (2014-2019)	John Deere	8245R	2014	245	\N	14828	0.7	4x4	Radial 480/80R50	480	2038	\N	\N	47.7	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td7383.webp	t	\N	f
 742	John Deere 8270R (2014-2019)	John Deere	8270R	2014	270	\N	14828	111.2	4x4	Radial 480/80R50	480	2038	\N	\N	51.9	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td7384.webp	t	\N	f
@@ -3081,10 +3081,10 @@ COPY public.tractor (tractor_id, name, brand, model, model_year, engine_power_hp
 751	Massey Ferguson 154-4	Landini	ferguson 154 4	1980	50	\N	2347	22.8	4x4	Diagonal 12-28	305	1229	\N	\N	9.8	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td745.webp	f	\N	f
 752	Massey Ferguson 165 (1964-1975)	Massey Ferguson	165	1964	58.3	\N	2270	25.4	4x2	Diagonal 11-32	279	1288	\N	\N	11.7	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td746.webp	f	\N	f
 34	John Deere 3033R (2005-2013)	John Deere	3033R	2005	31.8	\N	1315	9.1	4x4	Diagonal 11.2-24	284	1093	\N	\N	\N	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td7463.webp	f	\N	f
+2163	CaseIH Puma 170	CaseIH	Puma 170	2011	167	\N	6725	76.5	4x4	Diagonal 11 - 20	279	983	\N	\N	33.3	\N	available	2026-09-30 16:49:10.296204	https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/6bebf799bb274c3ba07a77ac2136694c?v=968024ac	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Tratores/2023/CIH_FOLLETO_TRACTOR_PUMA_SWB.pdf#page=9	t
 2160	CaseIH Puma 130	CaseIH	Puma 130	2011	131	\N	6168	54.4	4x4	Diagonal 11 - 20	279	983	\N	\N	27.3	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td6736.webp	t	\N	f
 690	John Deere 9560RT	John Deere	9560RT	2012	560	\N	20371	214.6	track	Diagonal 12 - 20	305	1026	\N	\N	77.2	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td7102.webp	t	\N	f
 756	Massey Ferguson 175	Massey Ferguson	175	1964	63	\N	2687	31.6	4x2	Diagonal 14-28	356	1316	\N	\N	14.4	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td748.webp	f	\N	f
-2163	CaseIH Puma 170	CaseIH	Puma 170	2011	167	\N	6725	76.5	4x4	Diagonal 11 - 20	279	983	\N	\N	33.3	\N	available	2026-09-30 16:49:10.296204	https://cnhi-p-001-delivery.sitecorecontenthub.cloud/api/public/content/6bebf799bb274c3ba07a77ac2136694c?v=968024ac	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Tratores/2023/CIH_FOLLETO_TRACTOR_PUMA_SWB.pdf#page=9	t
 2161	CaseIH Puma 145	CaseIH	Puma 145	2011	146	\N	6509	60.2	4x4	Diagonal 11 - 20	279	983	\N	\N	29.5	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td6737.webp	t	\N	f
 691	John Deere 7185J	John Deere	7185J	2000	185	\N	8101	57.6	4x4	Diagonal 20.8-42	528	1965	\N	\N	\N	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td7103.webp	t	\N	f
 753	John Deere 3039R	John Deere	3039R	2005	38.2	\N	1315	11.6	4x4	Diagonal 11.2-24	284	1093	\N	\N	\N	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td7464.webp	t	\N	f
@@ -3157,12 +3157,12 @@ COPY public.tractor (tractor_id, name, brand, model, model_year, engine_power_hp
 2245	New Holland 7630 S100	New Holland	7630 S100	2002	102.9	\N	3630	31.9	4x4	Diagonal 18.4x34	467	1658	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td7079.webp	t	\N	f
 2246	New Holland 8030 S100	New Holland	8030 S100	2002	121.4	\N	3840	37.5	4x4	Diagonal 18.4x34	467	1658	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td7080.webp	f	\N	f
 2364	Massey Ferguson 6616	Massey Ferguson	ferguson 6616	2014	150	\N	5670	44	4x2	Radial 460/85R38	460	1747	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td7658.webp	t	\N	f
-2857	CaseIH Magnum 380	CaseIH	magnum 380	2014	380	\N	15800	129.1	4x4	Radial 480/80R50	480	2038	\N	\N	73.8	\N	available	2026-09-30 16:51:28.845746	https://media.sandhills.com/img.axd?id=8046330059&wid=4326205933&rwl=False&p=&ext=&w=614&h=460&t=&lp=&c=True&wt=False&sz=Max&rt=0&checksum=TWOKv2gmK16bV5xB6MjzDJylQWdOV9SLQQ%2B39zAM1as%3D	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Produtos/Tratores/Linha-Magnum/Magnum%20AFS/CIH_Folleto-Magnum-AFS-Connect-Espanol.pdf#page=13	t
 1851	CaseIH Magnum 335 (2007-2011)	CaseIH	Magnum 335	2007	335	\N	9566	122.9	4x4	Radial 710/70R42	710	2061	\N	\N	70	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td7732.webp	t	\N	f
 2851	CaseIH Magnum 250 (2014-2025)	CaseIH	Magnum 250	2014	250	\N	12972	92.2	4x4	Radial 480/80R50	480	2038	\N	\N	51.1	\N	available	2026-09-30 16:51:28.845746	/uploads/tractors/td7738.webp	t	\N	f
 2852	CaseIH Magnum 280 (2014-2025)	CaseIH	Magnum 280	2014	280	\N	12972	116.2	4x4	Radial 480/80R50	480	2038	\N	\N	57.2	\N	available	2026-09-30 16:51:28.845746	/uploads/tractors/td7739.webp	t	\N	f
 334	Massey Ferguson 283 (1985-1999)	Massey Ferguson	283	1985	89	\N	2463	24.6	4x4	Diagonal 18.4-30	467	1557	\N	\N	\N	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td774.webp	f	\N	f
 2853	CaseIH Magnum 310 (2014-2025)	CaseIH	Magnum 310	2014	310	\N	13063	107.2	4x4	Radial 480/80R50	480	2038	\N	\N	60.6	\N	available	2026-09-30 16:51:28.845746	/uploads/tractors/td7740.webp	t	\N	f
+2857	CaseIH Magnum 380	CaseIH	magnum 380	2014	380	\N	15800	129.1	4x4	Radial 480/80R50	480	2038	\N	\N	73.8	\N	available	2026-09-30 16:51:28.845746	https://media.sandhills.com/img.axd?id=8046330059&wid=4326205933&rwl=False&p=&ext=&w=614&h=460&t=&lp=&c=True&wt=False&sz=Max&rt=0&checksum=TWOKv2gmK16bV5xB6MjzDJylQWdOV9SLQQ%2B39zAM1as%3D	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Produtos/Tratores/Linha-Magnum/Magnum%20AFS/CIH_Folleto-Magnum-AFS-Connect-Espanol.pdf#page=13	t
 796	Massey Ferguson 285	Massey Ferguson	285	1974	81	\N	3470	39.3	4x4	Diagonal 16.9-38	429	1695	\N	\N	20.8	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td775.webp	f	\N	f
 17	Massey Ferguson 290	Massey Ferguson	290	1983	80	\N	2990	34	4x4	Diagonal 16.9-28	429	1441	\N	\N	15.9	\N	available	2026-09-30 02:33:14.821857	/uploads/tractors/td776.webp	f	\N	f
 797	John Deere 5085E	John Deere	5085E	2013	85	\N	3200	25.7	4x4	Diagonal 16.9-30	429	1492	\N	\N	\N	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td7760.webp	t	\N	f
@@ -3328,6 +3328,8 @@ COPY public.tractor (tractor_id, name, brand, model, model_year, engine_power_hp
 713	John Deere 6115R (2012-2016)	John Deere	6115R	2012	115	\N	5455	42.2	4x4	Diagonal 12 - 20	305	1026	\N	\N	25	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td7154.webp	t	\N	f
 714	John Deere 6125R (2012-2016)	John Deere	6125R	2012	125	\N	5470	45.9	4x4	Diagonal 12 - 20	305	1026	\N	\N	26.9	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td7155.webp	t	\N	f
 856	Massey Ferguson 1125	Iseki	ferguson 1125	1992	25	\N	1194	8.3	4x4	Diagonal 11.2-24	284	1093	\N	\N	\N	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td827.webp	f	\N	f
+2875	CaseIH Steiger 540	CaseIH	steiger 540	2014	542	\N	21839	216.4	4x4	Radial 710/70R42	710	2061	\N	\N	106.7	\N	available	2026-09-30 16:52:15.039773	https://bane-welker.com/media/catalog/product/p/h/photo0.15875.jpg	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Espanhol/Tractores/CIH-0029-21A_Folheto-Steiger-EObx.pdf#page=16	t
+2876	CaseIH Steiger 580	CaseIH	steiger 580	2014	588	\N	21839	242.8	4x4	Radial 710/70R42	710	2061	\N	\N	105.6	\N	available	2026-09-30 16:52:15.039773	https://i.machinio.com/medium/cmm/4006/case-ih-steiger-580-tractor-a0c464d19c2f.axd	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Espanhol/Tractores/CIH-0029-21A_Folheto-Steiger-EObx.pdf#page=16	t
 851	Massey Ferguson 1080	Massey Ferguson	1080	1969	80	\N	3515	39.8	4x4	Diagonal 23.1x30	587	1759	\N	\N	19.7	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td822.webp	f	\N	f
 852	Massey Ferguson 1085	Massey Ferguson	1085	1973	81	\N	3810	46.1	4x2	Diagonal 18.4-34	467	1658	\N	\N	19.7	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td823.webp	f	\N	f
 2438	Kubota MX5800	Kubota	MX5800	2015	61.4	\N	1693	18.4	4x4	Diagonal 14.9-26	378	1304	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td8234.webp	t	\N	f
@@ -3339,6 +3341,7 @@ COPY public.tractor (tractor_id, name, brand, model, model_year, engine_power_hp
 2443	Massey Ferguson 7724	Massey Ferguson	ferguson 7724	2015	220	\N	7500	80.6	4x4	Radial 480/80R46	480	1936	\N	\N	46.2	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td8243.webp	t	\N	f
 2444	Massey Ferguson 7726	Massey Ferguson	ferguson 7726	2015	240	\N	7500	80.5	4x4	Radial 480/80R46	480	1936	\N	\N	48.1	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td8244.webp	t	\N	f
 854	Massey Ferguson 1105	Massey Ferguson	1105	1973	111	\N	4876	50.6	4x2	Diagonal 18.4-38	467	1760	\N	\N	28.4	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td825.webp	t	\N	f
+2877	CaseIH Steiger 620	CaseIH	steiger 620	2014	629	\N	21839	231.7	4x4	Radial 710/70R42	710	2061	\N	\N	106	\N	available	2026-09-30 16:52:15.039773	https://photos.machinefinder.com/33/10609233/68614692_huge_91275.jpg	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Espanhol/Tractores/CIH-0029-21A_Folheto-Steiger-EObx.pdf#page=16	t
 2907	CaseIH 2120	Carraro	2120	1988	40	\N	1860	14.7	4x4	Radial 13.6R28	345	1298	\N	\N	\N	\N	available	2026-09-30 16:55:14.40114	/uploads/tractors/td8256.webp	f	\N	f
 855	Massey Ferguson 1120	Iseki	ferguson 1120	1993	16.6	\N	576	5	4x4	Diagonal 29.00x12.00-15	305	737	\N	\N	\N	\N	available	2026-09-30 14:36:34.06389	/uploads/tractors/td826.webp	f	\N	f
 2454	Kubota MZ505	Kubota	MZ505	2010	49.3	\N	2370	18.1	4x4	Diagonal 13.6-28	345	1298	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td8299.webp	f	\N	f
@@ -3347,9 +3350,6 @@ COPY public.tractor (tractor_id, name, brand, model, model_year, engine_power_hp
 2455	Kubota MZ555	Kubota	MZ555	2010	54.2	\N	2409	19.9	4x4	Diagonal 12.4-32	315	1348	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td8300.webp	f	\N	f
 2456	Kubota MZ605	Kubota	MZ605	2010	59.2	\N	2409	21.7	4x4	Diagonal 12.4-32	315	1348	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td8301.webp	f	\N	f
 2457	Kubota MZ655	Kubota	MZ655	2010	64.1	\N	2550	23.5	4x4	Diagonal 12.4-36	315	1450	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td8302.webp	t	\N	f
-2875	CaseIH Steiger 540	CaseIH	steiger 540	2014	542	\N	21839	216.4	4x4	Radial 710/70R42	710	2061	\N	\N	106.7	\N	available	2026-09-30 16:52:15.039773	https://bane-welker.com/media/catalog/product/p/h/photo0.15875.jpg	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Espanhol/Tractores/CIH-0029-21A_Folheto-Steiger-EObx.pdf#page=16	t
-2876	CaseIH Steiger 580	CaseIH	steiger 580	2014	588	\N	21839	242.8	4x4	Radial 710/70R42	710	2061	\N	\N	105.6	\N	available	2026-09-30 16:52:15.039773	https://i.machinio.com/medium/cmm/4006/case-ih-steiger-580-tractor-a0c464d19c2f.axd	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Espanhol/Tractores/CIH-0029-21A_Folheto-Steiger-EObx.pdf#page=16	t
-2877	CaseIH Steiger 620	CaseIH	steiger 620	2014	629	\N	21839	231.7	4x4	Radial 710/70R42	710	2061	\N	\N	106	\N	available	2026-09-30 16:52:15.039773	https://photos.machinefinder.com/33/10609233/68614692_huge_91275.jpg	t	https://assets.cnhindustrial.com/caseih/LATAM/LATAMASSETS/Folhetos/Espanhol/Tractores/CIH-0029-21A_Folheto-Steiger-EObx.pdf#page=16	t
 2206	Kubota B1-14	Kubota	B1 14	1985	14	\N	550	5.1	4x4	Diagonal 8-16	203	752	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td6909.webp	f	\N	f
 2207	Kubota B1-15	Kubota	B1 15	1985	16	\N	570	5.9	4x4	Diagonal 8-18	203	803	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td6910.webp	f	\N	f
 2208	Kubota B1-16	Kubota	B1 16	1985	16.5	\N	689	6.1	4x4	Diagonal 8.3-20	211	866	\N	\N	\N	\N	available	2026-09-30 16:49:10.296204	/uploads/tractors/td6911.webp	f	\N	f
@@ -3992,7 +3992,7 @@ SELECT pg_catalog.setval('public.terrain_terrain_id_seq', 6, true);
 -- Name: tractor_tractor_id_seq; Type: SEQUENCE SET; Schema: public; Owner: -
 --
 
-SELECT pg_catalog.setval('public.tractor_tractor_id_seq', 4450, true);
+SELECT pg_catalog.setval('public.tractor_tractor_id_seq', 4502, true);
 
 
 --
@@ -4326,5 +4326,5 @@ ALTER TABLE ONLY public.users
 -- PostgreSQL database dump complete
 --
 
-\unrestrict Ob6Flvrn7ZAgfYfnS8EZfBOS4B0gs6yzfRxVxVHCEM6uhqfiH4eCP9rkfMQZeuZ
+\unrestrict KyrVn0gr5bsPWzmPiResjZP65p4vE3dOM5L1vgR6zONhNfjN44Pfenn21G1cGe6
 

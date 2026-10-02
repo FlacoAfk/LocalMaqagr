@@ -3,6 +3,28 @@
 Aplicación de gestión agrícola que corre **completamente en local** sin
 dependencias de nube (sin Cloudinary, sin Supabase, sin Redis externo).
 
+## Catálogo v1.4.0 (base sólida)
+
+| Conjunto | Registros | Calidad |
+|---|---:|---|
+| Tractores | **3.039** | 100% con potencia, peso, fuerza de tiro, tracción, llantas e imagen |
+| — Prioritarios (ficha oficial del fabricante en español) | 27 | 78 curados originales; los sin datos completos salieron de la prioridad |
+| Implementos Baldan | **291** | 100% con potencia, ancho, peso, tipo, imagen y ficha del fabricante |
+
+- Enlaces de ficha técnica: **solo enlaces** (sin PDFs embebidos) — tractor
+  con prueba Nebraska → UNL Digital Commons; implemento → página del
+  fabricante; los enlaces muertos se auditan con
+  `backend/scripts/scraping/validate-links.js` (validación por bytes mágicos).
+- Imágenes: WebP comprimido (800px/q55, ~30-70 KB) en `install-assets/uploads`,
+  que el instalador copia a `ProgramData\MaqAgr\uploads`.
+- Fuente de verdad de datos: `backend/database/03-supabase-data.sql`
+  (aplicado automáticamente en la primera ejecución del instalador).
+- Política de calidad: `solidify-db.js` completa lo buscable (llantas desde
+  fichas, tiro estimado a 6 km/h, imágenes de respaldo) y **borra** cualquier
+  registro que siga incompleto. Re-ejecutable en cualquier momento.
+- Toolkit de scraping: `backend/scripts/scraping/README.md` (TractorData +
+  Baldan WooCommerce + curados).
+
 ## Arquitectura
 
 ```
