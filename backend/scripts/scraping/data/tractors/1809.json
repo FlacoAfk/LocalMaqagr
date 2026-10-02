@@ -1,0 +1,288 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/8/0/1809-john-deere-4200.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/8/0/1809-john-deere-4200-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/8/0/1809-john-deere-4200-engine.html",
+    "source_id": 1809,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:38:03.907Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1809/1809-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 89 KB"
+  },
+  "tractor_data_id": 1809,
+  "name": "John Deere 4200",
+  "brand": "John Deere",
+  "model": "4200",
+  "years": {
+    "desde": 1998,
+    "hasta": 2001
+  },
+  "model_year": 1998,
+  "engine_power_hp": 26.3,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 21.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 254,
+  "weight_basis": "Max Drawbar",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 7.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-24",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1145,
+  "tire_front": {
+    "original": "7.00-14",
+    "radial": false,
+    "width_mm": 178,
+    "rim_in": 14,
+    "diameter_mm_est": 658,
+    "tipo": "Diagonal",
+    "texto": "7.00-14"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1809/1809-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1809/1809-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td1809.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1998 - 2001",
+          "__seccion_2__": "4000 Compact Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Augusta, Georgia, USA",
+          "__seccion_4__": "Original price was $14,000 in 1999"
+        },
+        {
+          "__seccion_1__": "John Deere 4200 Engine",
+          "__seccion_2__": "Yanmar 1.2L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4200 Transmissions",
+          "__seccion_2__": "9-speed partially synchronized",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4200 Power",
+          "Engine (gross)": "26.3 hp 19.6 kW",
+          "Engine (net)": "24.3 hp 18.1 kW",
+          "Gear PTO (claimed)": "21.5 hp 16.0 kW",
+          "Hydro PTO (claimed)": "20 hp 14.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "spur gear",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential wet disc brakes",
+          "__seccion_5__": "Two-post fixed ROPS. Folding ROPS optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 4200 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "10 gal 37.9 L",
+          "Hydraulic system": "6.3 gal (gear) 23.8 L",
+          "&nbsp": "6.8 gal (hydro) 25.7 L",
+          "Front axle": "4.7 qts 4.4 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "6.3 gal (gear) 23.8 L",
+          "&nbsp": "6.8 gal (hydro) 25.7 L",
+          "Pressure": "2125 psi 146.5 bar",
+          "Valves": "2",
+          "Pump flow": "7.3 gpm 27.6 lpm",
+          "Total flow": "12.3 gpm 46.6 lpm",
+          "Oil type": "122 o ↔0 o F [50 o ↔-17 o C] : JD Hy-Gard",
+          "80 o ↔-40 o F [26 o ↔-40 o C]": ": JD Lo Vis Hy-Gard"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at 24\"/610mm)": "1700 lbs 771 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "mechanical wet disc",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "2100@2700",
+          "Mid PTO": "optional",
+          "Mid PTO Type": "2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "65 inches 165 cm",
+          "4WD Wheelbase": "68 inches 172 cm",
+          "Weight": "2400 lbs 1088 kg",
+          "Front tire": "4.00-15",
+          "2WD Rear tire": "12.4-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4200 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "72\" mid-mount mower deck",
+          "__seccion_4__": "snowblower",
+          "__seccion_5__": "blade",
+          "__seccion_6__": "front-end loader",
+          "__seccion_7__": "backhoe",
+          "__seccion_8__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "4200 Serial Number Location",
+          "__seccion_2__": "Serial number plate on front-right tractor frame, above front wheel."
+        },
+        {
+          "1998": "120000",
+          "1999": "220001",
+          "2000": "320001",
+          "2001": "420001",
+          "__seccion_1__": "4200 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "Battery CCA": "500",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Commercial & Consumer Equipment Sales Manual published in 1999, by John Deere",
+          "__seccion_3__": "Grounds Care Equipment Purchasing Guide published in 1999, by John Deere",
+          "__seccion_4__": "Grounds Care Equipment Purchasing Guide published in 2000, by John Deere",
+          "__seccion_5__": "Grounds Care Equipment Purchasing Guide published in 2001, by John Deere",
+          "__seccion_6__": "Operator's Manual 410 and 420 Loaders (OMC49370) published in 2005",
+          "__seccion_7__": "4000 Series Tractors published in 1998, by John Deere",
+          "__seccion_8__": "4000 Series Tractors published in 2000, by John Deere",
+          "__seccion_9__": "4000 Series Product Information Handbook published in 1998, by John Deere",
+          "__seccion_10__": "4000 Series Product Information Handbook published in 2000, by John Deere",
+          "__seccion_11__": "Rental Equipment published in 2001, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 23, 2023",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1998 - 2001",
+          "__seccion_2__": "4000 Compact Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 4200 Tires",
+          "2WD Standard tires (ag)": "Front: 4.00-15. Rear: 12.4-16",
+          "4WD Standard tires (ag)": "Front: 7.00-14. Rear: 12.4-24",
+          "2WD Ag front": "5.00-15",
+          "Ag rear": "11.2-24",
+          "Lawn/turf front": "25-10.50LLx15",
+          "&nbsp": "13.6-16",
+          "4WD Lawn/turf front": "7.00-14",
+          "Lawn/turf rear": "41LLx18.00-16",
+          "Industrial front": "23x8.50-12",
+          "Industrial rear": "14.00-17.5"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "65 inches 165 cm",
+          "4WD Wheelbase": "68 inches 172 cm",
+          "Length": "117 inches 297 cm",
+          "2WD Width": "53 inches 134 cm",
+          "4WD Width": "50 inches 127 cm",
+          "Clearance (rear axle)": "10.5 inches 26 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 4200 Weight",
+          "__seccion_2__": "2400 lbs 1088 kg",
+          "Max Drawbar": "562 lbs 254 kg",
+          "Max front axle": "2811 lbs 1275 kg",
+          "Max rear axle": "4409 lbs 1999 kg"
+        },
+        {
+          "__seccion_1__": "John Deere 4200 Height",
+          "2WD Hood": "50.4 inches 128 cm",
+          "4WD Hood": "53.3 inches 135 cm",
+          "ROPS": "81 inches (2WD fixed) 205 cm",
+          "&nbsp": "87 inches (folding) 220 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 23, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1998 - 2001",
+          "__seccion_2__": "4000 Compact Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Yanmar 3TNE78A",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "73.5 ci 1.2 L",
+          "Bore/Stroke": "3.07x3.30 inches 78 x 84 mm",
+          "Power (net)": "24.3 hp 18.1 kW",
+          "Power (gross)": "26.3 hp 19.6 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dry",
+          "Pre-heating": "air heater",
+          "Compression": "18:1",
+          "Rated RPM": "2700",
+          "Idle RPM": "950-2810",
+          "Operating RPM": "950-2700",
+          "Starter volts": "12",
+          "Starter power": "1.6 hp 1.2 kW",
+          "Coolant capacity": "5.6 qts 5.3 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "4 qts 3.8 L",
+          "Oil change": "200 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 23, 2023"
+        }
+      ]
+    }
+  }
+}

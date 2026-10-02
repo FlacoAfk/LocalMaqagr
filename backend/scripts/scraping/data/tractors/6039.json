@@ -1,0 +1,181 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/0/3/6039-massey-ferguson-177.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/0/3/6039-massey-ferguson-177-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/0/3/6039-massey-ferguson-177-engine.html",
+    "source_id": 6039,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:38:01.212Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6039/6039-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 76 KB"
+  },
+  "tractor_data_id": 6039,
+  "name": "Massey Ferguson 177",
+  "brand": "Massey Ferguson",
+  "model": "177",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 66,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2790,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 24.2,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12-36",
+  "tire_width_mm": 305,
+  "tire_diameter_mm": 1433,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F006/6039/6039-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6039/6039-photo-001.jpg",
+  "image_url": "/uploads/tractors/td6039.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1965",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 177 Engine",
+          "__seccion_2__": "Perkins 3.9L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 177 Transmissions",
+          "__seccion_2__": "12-speed partial power shift",
+          "__seccion_3__": "6-speed gear",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 177 Power",
+          "Engine": "66 hp 49.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 177 photos..."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "3373 lbs 1529 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1685"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "84.25 inches 213 cm",
+          "Weight": "6151 lbs 2790 kg",
+          "Front tire": "7.50-16",
+          "Rear tire": "12-36",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF177 published in 1965, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 30, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1965",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 177 Tires",
+          "Ag front": "7.50-16",
+          "Ag rear": "12-36",
+          "&nbsp": "15-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "84.25 inches 213 cm",
+          "Length": "139.4 inches 354 cm",
+          "Width": "75.2 inches 191 cm",
+          "Height (steering wheel)": "65 inches 165 cm",
+          "Height (exhaust)": "85.4 inches 216 cm",
+          "Operating weight": "6151 lbs 2790 kg",
+          "Ground clearance": "17.3 inches 43 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 30, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1965",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A4.236",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "235.6 ci 3.9 L",
+          "Bore/Stroke": "3.875x5.00 inches 98 x 127 mm",
+          "Power": "66 hp 49.2 kW",
+          "Fuel system": "direct injection",
+          "Rated RPM": "2000",
+          "Torque": "193.1 lb-ft 261.8 Nm",
+          "Torque RPM": "1240",
+          "Starter type": "electric"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 30, 2023"
+        }
+      ]
+    }
+  }
+}

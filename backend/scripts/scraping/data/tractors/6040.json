@@ -1,0 +1,192 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/0/4/6040-massey-ferguson-178.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/0/4/6040-massey-ferguson-178-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/0/4/6040-massey-ferguson-178-engine.html",
+    "source_id": 6040,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:38:04.442Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6040/6040-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 66 KB"
+  },
+  "tractor_data_id": 6040,
+  "name": "Massey Ferguson 178",
+  "brand": "Massey Ferguson",
+  "model": "178",
+  "years": {
+    "desde": 1968,
+    "hasta": 1971
+  },
+  "model_year": 1968,
+  "engine_power_hp": 73,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 62,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3119,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 22.7,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 15x30",
+  "tire_width_mm": 381,
+  "tire_diameter_mm": 1410,
+  "tire_front": {
+    "original": "6x19",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 19,
+    "diameter_mm_est": 742,
+    "tipo": "Diagonal",
+    "texto": "6x19"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F006/6040/6040-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6040/6040-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td6040.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1968 - 1971"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 178 Engine",
+          "__seccion_2__": "Perkins 4.1L 4-cyl diesel",
+          "Fuel tank": "21.7 gal 82.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 178 Transmissions",
+          "__seccion_2__": "12-speed partial powershift",
+          "__seccion_3__": "6-speed unsynchronized",
+          "__seccion_4__": "8-speed unsynchronized",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 178 Power",
+          "Engine": "73 hp 54.4 kW",
+          "PTO (claimed)": "62 hp 46.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "power assist",
+          "__seccion_3__": "Dry disc brakes",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 178 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Valves": "1 or 2",
+          "Pump flow": "3.1 gpm (gear) 11.7 lpm",
+          "&nbsp": "8.1 gpm (Multi Power) 30.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "3,900 lbs 1769 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540/ground"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "84 inches 213 cm",
+          "Weight": "6878 to 7760 pounds",
+          "Front tire": "7.5x16",
+          "Rear tire": "12x36",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1968": "722680",
+          "1969": "732158",
+          "1970": "740301",
+          "1971": "747283",
+          "__seccion_1__": "178 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 16, 2015"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1968 - 1971"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 178 Tires",
+          "Ag front": "7.5x16",
+          "&nbsp": "14x30",
+          "Ag rear": "12x36"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "84 inches 213 cm",
+          "Length": "136 inches 345 cm",
+          "Width": "72 inches 182 cm",
+          "Height (steering wheel)": "67 inches 170 cm",
+          "Operating weight": "6,878 lbs (2WD) 3119 kg",
+          "&nbsp": "7,760 lbs (4WD) 3519 kg",
+          "Ground clearance": "17.5 inches 44 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 16, 2015"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1968 - 1971"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A4.248",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "247.8 ci 4.1 L",
+          "Bore/Stroke": "3.975x5.00 inches 101 x 127 mm",
+          "Power": "73 hp 54.4 kW",
+          "Compression": "16:1",
+          "Rated RPM": "2000",
+          "Torque": "212 lb-ft 287.5 Nm",
+          "Torque RPM": "1300",
+          "Starter type": "electric",
+          "Oil capacity": "15 qts 14.2 L",
+          "Coolant capacity": "28.8 qts 27.3 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 16, 2015"
+        }
+      ]
+    }
+  }
+}

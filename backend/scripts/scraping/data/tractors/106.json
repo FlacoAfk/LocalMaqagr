@@ -1,0 +1,258 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/0/106-john-deere-3055.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/0/106-john-deere-3055-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/1/0/106-john-deere-3055-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/0/106-john-deere-3055-engine.html",
+    "source_id": 106,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:48:03.290Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/106/106-photo-001-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 81 KB"
+  },
+  "tractor_data_id": 106,
+  "name": "John Deere 3055",
+  "brand": "John Deere",
+  "model": "3055",
+  "years": {
+    "desde": 1992,
+    "hasta": 1993
+  },
+  "model_year": 1992,
+  "engine_power_hp": 105,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 92,
+  "pto_tested_hp": 94.4,
+  "drawbar_tested_hp": 76.6,
+  "weight_kg": 4395,
+  "weight_basis": "2WD Cab Operating",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 53.6,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "10.00-16",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 16,
+    "diameter_mm_est": 838,
+    "tipo": "Diagonal",
+    "texto": "10.00-16"
+  },
+  "fuel_consumption_lph": 20.4,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/106/106-td3a.jpg",
+  "image_url": "/uploads/tractors/td106.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1992 - 1993",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany",
+          "__seccion_4__": "Original price was $39,000 in 1993"
+        },
+        {
+          "__seccion_1__": "John Deere 3055 Engine",
+          "__seccion_2__": "John Deere 5.9L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3055 Transmission",
+          "__seccion_2__": "16-speed two-speed power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3055 Power",
+          "Engine": "105 hp 78.3 kW",
+          "PTO (claimed)": "92 hp 68.6 kW",
+          "Drawbar (tested)": "76.6 hp 57.1 kW",
+          "PTO (tested)": "94.4 hp 70.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Four-post ROPS. Sound-Gard body and cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 3055 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "32 gal 121.1 L",
+          "Hydraulic system": "13.2 gal 50.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "13.2 gal 50.0 L",
+          "Valves": "1 to 3",
+          "Pump flow": "21 gpm 79.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "lower-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "5235 lbs * Advertised. Actual tested lift was 4675 pounds. 2374 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@2070",
+          "&nbsp": "1000@2170"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "100.4 inches 255 cm",
+          "Weight": "8457 to 9690 pounds",
+          "Front tire": "10.00-16",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1991": "717916",
+          "1992": "736426",
+          "1993": "768939",
+          "__seccion_1__": "3055 Serial Numbers",
+          "Location:": "Serial number plate on the right side of the tractor's frame, above the front axle.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Batteries": "2",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Powerful Pickups published in 1990, by John Deere",
+          "__seccion_3__": "Task Masters published in 1991, by John Deere",
+          "__seccion_4__": "40 to 100 HP Tractors Product Information Handbook published in 1991, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on September 10, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1992 - 1993",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 3055 Tires",
+          "Ag front": "10.00-16",
+          "Ag rear": "16.9-38",
+          "&nbsp": "12.4-42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "100.4 inches 255 cm",
+          "__seccion_2__": "Flange rear axle",
+          "__seccion_3__": "Rack-and-pinion rear axle",
+          "Front tread": "56.8 to 98.4 inches 144 to 249 cm",
+          "Rear tread": "55.9 to 96.8 inches 141 to 245 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 3055 Weight",
+          "ROPS Shipping": "8457 lbs 3836 kg",
+          "Cab Shipping": "9096 lbs 4125 kg",
+          "2WD Cab Operating": "9690 lbs 4395 kg",
+          "Max Drawbar": "2695 lbs (standard) 1222 kg",
+          "&nbsp": "5055 lbs (retracted) 2292 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 10, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1992 - 1993",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1339"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1339",
+          "__seccion_2__": "Diesel 16-speed 2WD August 1991 - 1991, Link: OCED Tractor Test 1339 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "94.4 hp 70.4 kW",
+          "Fuel use": "5.5 gal/hour 20.8 l/hour",
+          "Power at rated PTO speed": "93.3 hp 69.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "76.6 hp 57.1 kW",
+          "__seccion_5__": "Gear 5 used for power test.",
+          "Max pull": "12050 lbs 5465 kg",
+          "__seccion_6__": "Gear 3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 10, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1992 - 1993",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 6359 DL",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "359 ci 5.9 L",
+          "Bore/Stroke": "4.19x4.33 inches 106 x 110 mm",
+          "Power": "105 hp 78.3 kW",
+          "Rated RPM": "2300",
+          "Idle RPM": "800-2460",
+          "Operating RPM": "1500-2300",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Coolant capacity": "4.5 qts 4.3 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 10, 2025"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/106/106-photo-001-ext090.jpg"
+}

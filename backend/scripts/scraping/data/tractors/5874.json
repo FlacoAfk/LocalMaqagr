@@ -1,0 +1,174 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/8/7/5874-massey-ferguson-2725.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/8/7/5874-massey-ferguson-2725-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/8/7/5874-massey-ferguson-2725-engine.html",
+    "source_id": 5874,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:37:38.414Z"
+  },
+  "tractor_data_id": 5874,
+  "name": "Massey Ferguson 2725",
+  "brand": "Massey Ferguson",
+  "model": "2725",
+  "years": {
+    "desde": 1985,
+    "hasta": 1987
+  },
+  "model_year": 1985,
+  "engine_power_hp": 147,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 5470,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 53.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 20.8-38",
+  "tire_width_mm": 528,
+  "tire_diameter_mm": 1863,
+  "tire_front": {
+    "original": "16.9-28",
+    "radial": false,
+    "width_mm": 429,
+    "rim_in": 28,
+    "diameter_mm_est": 1441,
+    "tipo": "Diagonal",
+    "texto": "16.9-28"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": null,
+  "photo_url_large": null,
+  "image_url": null,
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1985 - 1987",
+          "__seccion_2__": "2005 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2725 Engine",
+          "__seccion_2__": "Perkins 5.8L 6-cyl diesel",
+          "Fuel tank": "56.3 gal 213.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2725 Transmission",
+          "__seccion_2__": "16-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2725 Power",
+          "Engine": "147 hp 109.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Wet disc brakes"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 2725 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Total flow": "14.5 gpm 54.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear lift": "15,870 lbs 7198 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "107.5 inches 273 cm",
+          "Weight": "12,060 lbs 5470 kg",
+          "Front tire": "16.9-28",
+          "Rear tire": "20.8-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 3, 2013"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1985 - 1987",
+          "__seccion_2__": "2005 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2725 Tires",
+          "Ag front": "16.9-28",
+          "Ag rear": "20.8-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "107.5 inches 273 cm",
+          "Length": "200.4 inches 509 cm",
+          "Height": "115.7 inches 293 cm",
+          "Weight": "12,060 lbs 5470 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 3, 2013"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1985 - 1987",
+          "__seccion_2__": "2005 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A6.354.4",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "353.6 ci 5.8 L",
+          "Bore/Stroke": "3.875x5.00 inches 98 x 127 mm",
+          "Power": "147 hp 109.6 kW",
+          "Rated RPM": "2400",
+          "Torque": "363.6 lb-ft 493.0 Nm",
+          "Torque RPM": "1600"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 3, 2013"
+        }
+      ]
+    }
+  }
+}

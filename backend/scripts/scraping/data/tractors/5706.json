@@ -1,0 +1,238 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/7/0/5706-kubota-mx4700.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/7/0/5706-kubota-mx4700-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/7/0/5706-kubota-mx4700-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 5706,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:57:00.208Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5706/5706-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 72 KB"
+  },
+  "tractor_data_id": 5706,
+  "name": "Kubota MX4700",
+  "brand": "Kubota",
+  "model": "MX4700",
+  "years": {
+    "desde": 2009,
+    "hasta": 2014
+  },
+  "model_year": 2009,
+  "engine_power_hp": 48.2,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 39.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1640,
+  "weight_basis": "&nbsp",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 14.5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14.9-26",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1304,
+  "tire_front": {
+    "original": "29x12.50-15",
+    "radial": false,
+    "width_mm": 318,
+    "rim_in": 15,
+    "diameter_mm_est": 737,
+    "tipo": "Diagonal",
+    "texto": "29x12.50-15"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F005/5706/5706-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5706/5706-photo-001.jpg",
+  "image_url": "/uploads/tractors/td5706.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2009 - 2014",
+          "__seccion_2__": "MX Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Original price was $15,989 in 2011"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "MX4700F": "2WD gear",
+          "MX4700DT": "4WD gear",
+          "MX4700HST": "4WD hydro"
+        },
+        {
+          "__seccion_1__": "Kubota MX4700 Engine",
+          "__seccion_2__": "Kubota 2.4L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota MX4700 Transmissions",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota MX4700 Power",
+          "Engine (gross)": "48.2 hp 35.9 kW",
+          "Engine (net)": "46 hp 34.3 kW",
+          "PTO (claimed)": "39.5 hp (gear) 29.5 kW",
+          "&nbsp": "38 hp (hydro) 28.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 MFWD 4WD (optional)",
+          "Differential lock": "rear standard",
+          "Steering": "hydrostatic power",
+          "__seccion_2__": "Mechanical wet disc brakes",
+          "__seccion_3__": "Two-post foldable ROPS. Optional canopy."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota MX4700 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "12.7 gal 48.1 L",
+          "Hydraulic system": "11.6 gal 43.9 L",
+          "Front axle": "9.5 qts 9.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "11.6 gal 43.9 L",
+          "Valves": "0 to 3",
+          "Pump flow": "9.5 gpm 36.0 lpm",
+          "Total flow": "14.4 gpm 54.5 lpm",
+          "Steering flow": "4.9 gpm 18.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift (at ends)": "2,870 lbs 1301 kg",
+          "Rear lift (at 24\"/610mm)": "2,310 lbs 1047 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2700"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "74.6 inches 189 cm",
+          "Weight": "3362 to 3770 pounds",
+          "Front tire": "7.5L-15",
+          "Rear tire": "14.9-26 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota MX4700 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "Battery CCA": "582",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on July 21, 2014"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2009 - 2014",
+          "__seccion_2__": "MX Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota MX4700 Tires",
+          "Standard tires (ag)": "Front: 7.5L-15. Rear: 14.9-26 (2WD)",
+          "&nbsp": "610R470",
+          "Optional tires (ag)": "Front: 7.5L-15. Rear: 13.6-28 (2WD)",
+          "Lawn/turf front": "29x12.50-15",
+          "Lawn/turf rear": "44x18-20",
+          "Industrial front": "12-16.5 (4WD)",
+          "Industrial rear": "17.5L-24 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "74.6 inches 189 cm",
+          "Length": "127.8 inches (2WD) 324 cm",
+          "&nbsp": "15.2 inches (4WD) 38 cm",
+          "Width": "69.7 inches 177 cm",
+          "Height (ROPS)": "95.7 inches 243 cm",
+          "Ground clearance": "15.9 inches (2WD) 40 cm",
+          "Front tread": "52.5 to 52.2 inches 133 to 132 cm",
+          "Rear tread": "54.1 to 58.7 inches 137 to 149 cm"
+        },
+        {
+          "__seccion_1__": "Kubota MX4700 Weight",
+          "__seccion_2__": "3,362 lbs (2WD gear) 1525 kg",
+          "&nbsp": "3,770 lbs (4WD hydro) 1710 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 21, 2014"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2009 - 2014",
+          "__seccion_2__": "MX Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V2403-M",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "148.6 ci 2.4 L",
+          "Emissions": "Interim Tier IV",
+          "Emission control": "EGR",
+          "Power (net)": "46 hp 34.3 kW",
+          "Power (gross)": "48.2 hp 35.9 kW",
+          "Air cleaner": "dual dry element",
+          "Rated RPM": "2700",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "8.5 qts 8.0 L",
+          "Coolant capacity": "7.4 qts 7.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 21, 2014"
+        }
+      ]
+    }
+  }
+}

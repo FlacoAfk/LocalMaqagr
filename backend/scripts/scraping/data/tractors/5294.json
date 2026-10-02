@@ -1,0 +1,206 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/2/9/5294-kubota-bx1830.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/2/9/5294-kubota-bx1830-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/2/9/5294-kubota-bx1830-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 5294,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:56:31.217Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5294/5294-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 5294,
+  "name": "Kubota BX1830",
+  "brand": "Kubota",
+  "model": "BX1830",
+  "years": {
+    "desde": 2004,
+    "hasta": 2006
+  },
+  "model_year": 2004,
+  "engine_power_hp": 18,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 13.7,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 569,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 26x12.00-12",
+  "tire_width_mm": 305,
+  "tire_diameter_mm": 660,
+  "tire_front": {
+    "original": "18x8.50-8",
+    "radial": false,
+    "width_mm": 216,
+    "rim_in": 8,
+    "diameter_mm_est": 457,
+    "tipo": "Diagonal",
+    "texto": "18x8.50-8"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F005/5294/5294-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td5294.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2004 - 2006",
+          "__seccion_2__": "BX30 Series",
+          "__seccion_3__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota BX1830 Engine",
+          "__seccion_2__": "Kubota 0.7L 3-cyl diesel",
+          "Fuel tank": "5.5 gal 20.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota BX1830 Transmission",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota BX1830 Power",
+          "Engine (gross)": "18 hp 13.4 kW",
+          "PTO (claimed)": "13.7 hp 10.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Optional BX6730 hard-side weather cab with heater."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Kubota BX1830 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Pump flow": "5.5 gpm 20.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift": "680 lbs 308 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "2500@3125",
+          "Mid PTO": "independent",
+          "Mid PTO Type": "2500"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "55.1 inches 139 cm",
+          "Weight": "1255 lbs 569 kg",
+          "Front tire": "18x8.50-8",
+          "Rear tire": "26x12.00-12",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota BX1830 attachments",
+          "__seccion_2__": "54\" mid-mount mower deck",
+          "__seccion_3__": "60\" mid-mount mower deck",
+          "__seccion_4__": "snowblower",
+          "__seccion_5__": "blade",
+          "__seccion_6__": "front-end loader",
+          "__seccion_7__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 7, 2016"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2004 - 2006",
+          "__seccion_2__": "BX30 Series",
+          "__seccion_3__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota BX1830 Tires",
+          "Ag front": "18x8.50-8",
+          "Ag rear": "26x12.00-12",
+          "Lawn/turf front": "18x8.50-8",
+          "Lawn/turf rear": "26x12.00-12"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "55.1 inches 139 cm",
+          "Length": "77.8 inches 197 cm",
+          "Width": "45.1 inches 114 cm",
+          "Height (ROPS)": "70.9 inches 180 cm",
+          "Weight": "1255 lbs 569 kg",
+          "Ground clearance": "6.7 inches 17 cm",
+          "Front tread": "35.8 inches 90 cm",
+          "Rear tread": "32.2 inches 81 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 7, 2016"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2004 - 2006",
+          "__seccion_2__": "BX30 Series",
+          "__seccion_3__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota D722-E-BX",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "43.9 ci 0.7 L",
+          "Bore/Stroke": "2.638x2.677 inches 67 x 68 mm",
+          "Power (gross)": "18 hp 13.4 kW",
+          "Rated RPM": "3200",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 7, 2016"
+        }
+      ]
+    }
+  }
+}

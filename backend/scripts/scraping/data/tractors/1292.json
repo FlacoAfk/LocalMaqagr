@@ -1,0 +1,232 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/2/9/1292-kubota-l2350.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/2/9/1292-kubota-l2350-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/2/9/1292-kubota-l2350-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1292,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:51:41.613Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1292/1292-td4-b01-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 107 KB"
+  },
+  "tractor_data_id": 1292,
+  "name": "Kubota L2350",
+  "brand": "Kubota",
+  "model": "L2350",
+  "years": {
+    "desde": 1991,
+    "hasta": 1998
+  },
+  "model_year": 1991,
+  "engine_power_hp": 25,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 20.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1000,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 7.5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 9.5-24",
+  "tire_width_mm": 241,
+  "tire_diameter_mm": 1020,
+  "tire_front": {
+    "original": "6-14",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 14,
+    "diameter_mm_est": 615,
+    "tipo": "Diagonal",
+    "texto": "6-14"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1292/1292-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1292/1292-td4-b01-ext090.jpg",
+  "image_url": "/uploads/tractors/td1292.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1991 - 1998",
+          "__seccion_2__": "L50 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "L2350F": "2WD",
+          "L2350DT": "4WD"
+        },
+        {
+          "__seccion_1__": "Kubota L2350 Engine",
+          "__seccion_2__": "Kubota 1.1L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L2350 Transmission",
+          "__seccion_2__": "8-speed constant mesh",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L2350 Power",
+          "Engine (gross)": "25 hp 18.6 kW",
+          "PTO (claimed)": "20.5 hp 15.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota L2350 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "7.7 gal 29.1 L",
+          "Hydraulic system": "7.4 gal 28.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "7.4 gal 28.0 L",
+          "Pump flow": "4.4 gpm 16.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift": "1433 lbs 650 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "61.6 inches 156 cm",
+          "Weight": "1962 to 2205 pounds",
+          "Front tire": "4.00-15",
+          "2WD Rear tire": "9.5-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota L2350 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "front-end loader",
+          "__seccion_4__": "backhoe",
+          "__seccion_5__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "L2350 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the left side of the L2350 tractor frame, above the front axle."
+        },
+        {
+          "1991": "unknown",
+          "1992": "51460 (L2350DT)",
+          "1993": "52900 (L2350DT)",
+          "1994": "55760 (L2350DT)",
+          "__seccion_1__": "L2350 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Backhoes published in 1992, by Kubota",
+          "__seccion_3__": "Backhoes published in 1994, by Kubota",
+          "__seccion_4__": "Mid-Mount Mowers B/L Series published in 1994, by Kubota *",
+          "__seccion_5__": "Front Loaders B, L and M-Series published in 1994, by Kubota *",
+          "__seccion_6__": "1999 Products published by Kubota",
+          "__seccion_7__": "Diesel Tractors L2350/L2650/L2950/L3450/L3650 published in 1994, by Kubota",
+          "__seccion_8__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 24, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1991 - 1998",
+          "__seccion_2__": "L50 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota L2350 Tires",
+          "2WD Standard tires (ag)": "Front: 4.00-15. Rear: 9.5-24",
+          "4WD Standard tires (ag)": "Front: 6-14. Rear: 9.5-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "61.6 inches 156 cm",
+          "Length": "103.9 inches 263 cm",
+          "Width": "50 inches 127 cm",
+          "Height (ROPS)": "83.1 inches 211 cm",
+          "2WD Weight": "1962 lbs 889 kg",
+          "4WD Weight": "2205 lbs 1000 kg",
+          "2WD Ground clearance": "13.6 inches 34 cm",
+          "4WD Ground clearance": "12.2 inches 30 cm",
+          "Front tread": "39.8 inches 101 cm",
+          "Rear tread": "40.6 inches 103 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 24, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1991 - 1998",
+          "__seccion_2__": "L50 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "68 ci 1.1 L",
+          "Bore/Stroke": "3.0x3.2 inches 76 x 81 mm",
+          "Power (gross)": "25 hp 18.6 kW",
+          "Rated RPM": "2500",
+          "Starter volts": "12",
+          "Coolant capacity": "25.2 qts 23.8 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 24, 2023"
+        }
+      ]
+    }
+  }
+}

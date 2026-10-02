@@ -1,0 +1,305 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/4/46-john-deere-420.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/4/46-john-deere-420-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/4/46-john-deere-420-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/4/46-john-deere-420-engine.html",
+    "source_id": 46,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:34:50.666Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/46/46-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 97 KB",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1086/",
+    "nebraska_test": 599
+  },
+  "tractor_data_id": 46,
+  "name": "John Deere 420",
+  "brand": "John Deere",
+  "model": "420",
+  "years": {
+    "desde": 1956,
+    "hasta": 1958
+  },
+  "model_year": 1956,
+  "engine_power_hp": 28.31,
+  "engine_power_source": "belt_tested (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 26.15,
+  "weight_kg": 1474,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 16.9,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 9-24",
+  "tire_width_mm": 229,
+  "tire_diameter_mm": 998,
+  "tire_front": {
+    "original": "5.00-15",
+    "radial": false,
+    "width_mm": 127,
+    "rim_in": 15,
+    "diameter_mm_est": 597,
+    "tipo": "Diagonal",
+    "texto": "5.00-15"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/46/46-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/46/46-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td46.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Dubuque, Iowa, USA",
+          "Total built": "11,197 (420W)",
+          "&nbsp": "86 (420V)",
+          "__seccion_4__": "Original price was $2300 in 1958",
+          "__seccion_5__": "The 420 had so many possible configurations, sales literature referred to the 420 \"Fleet\". There was a 420 General-Purpose, Standard, Hi-Crop, Special, Utility, and even Crawler versions, each with several wheel configurations."
+        },
+        {
+          "__seccion_1__": "Variants",
+          "420W": "row-crop utility",
+          "420T": "tricycle",
+          "420C": "crawler",
+          "420U": "utility",
+          "420S": "standard",
+          "420I": "special utility"
+        },
+        {
+          "__seccion_1__": "John Deere 420 Engines",
+          "__seccion_2__": "John Deere 1.9L 2-cyl gasoline",
+          "__seccion_3__": "John Deere 1.9L 2-cyl all-fuel",
+          "__seccion_4__": "John Deere 1.9L 2-cyl LP gas",
+          "Fuel tank": "10.5 gal 39.7 L",
+          "&nbsp": "20 gal (LP gas) 75.7 L",
+          "__seccion_5__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 420 Transmissions",
+          "__seccion_2__": "4-speed unsynchronized gear",
+          "__seccion_3__": "5-speed unsynchronized gear",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 420 Power",
+          "Drawbar (tested)": "26.15 hp 19.5 kW",
+          "Belt (tested)": "28.31 hp 21.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "manual",
+          "&nbsp": "power optional",
+          "__seccion_3__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 420 photos..."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "&nbsp": "live * Live PTO optional with the 5-speed transmission.",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "3250 lbs 1474 kg",
+          "Front tire": "5.00-15",
+          "Rear tire": "9-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "420 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the left side of tractor, on the clutch housing."
+        },
+        {
+          "1956": "80001",
+          "1957": "107813",
+          "1958": "127782",
+          "__seccion_1__": "420 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere 20 series Two Cylinder Tractors by Benjamin Hain",
+          "__seccion_3__": "Industrial Tractors and Equipment published in 1956, by John Deere",
+          "__seccion_4__": "Industrial Tractors and Equipment published in 1957, by John Deere",
+          "__seccion_5__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_6__": "The 1957 John Deere Tractors are here!",
+          "__seccion_7__": "Facts about horsepower and fuel economy published in 1957, by John Deere",
+          "__seccion_8__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on November 14, 2024",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 420 Tires",
+          "Ag front": "5.00-15",
+          "&nbsp": "11-38 (hi-crop)",
+          "Ag rear": "9-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Length": "114.75 inches 291 cm",
+          "Width": "55.5 inches 140 cm",
+          "Height": "58.75 inches 149 cm",
+          "Weight": "3250 lbs 1474 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 14, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 599: gasoline 4-speed 2WD",
+          "__seccion_3__": "NTTL 600: tractor fuel 4-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 599"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 599",
+          "__seccion_2__": "Gasoline 4-speed 2WD October 13 - 25, 1956 Link: Nebraska Tractor Test 599 file",
+          "Belt power (max)": "28.31 hp 21.1 kW",
+          "Belt fuel use (max)": "2.6 gal/hour 9.8 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "26.15 hp 19.5 kW",
+          "__seccion_4__": "Gear 3 used for power test.",
+          "Max pull": "3,790 lbs 1719 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 600"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 600",
+          "__seccion_2__": "Tractor fuel 4-speed 2WD October 13 - 25, 1956 Link: Nebraska Tractor Test 600 file",
+          "Belt power (max)": "22.73 hp 16.9 kW",
+          "Belt fuel use (max)": "2.3 gal/hour 8.7 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "21.89 hp 16.3 kW",
+          "__seccion_4__": "Gear 3 used for power test.",
+          "Max pull": "2,734 lbs 1240 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 14, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "John Deere 1.9L 2-cyl gasoline",
+          "__seccion_3__": "John Deere 1.9L 2-cyl all-fuel",
+          "__seccion_4__": "John Deere 1.9L 2-cyl LP gas"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "2-cylinder 4-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "113 ci 1.9 L",
+          "Bore/Stroke": "4.25x4.00 inches 108 x 102 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "7:1",
+          "Rated RPM": "1850",
+          "Firing order": "1-2",
+          "Starter volts": "6",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "John Deere 420 Engine"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "all-fuel",
+          "__seccion_4__": "2-cylinder 4-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "113 ci 1.9 L",
+          "Bore/Stroke": "4.25x4.00 inches 108 x 102 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "5.15:1",
+          "Rated RPM": "1850",
+          "Firing order": "1-2",
+          "Starter volts": "6"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "LP gas",
+          "__seccion_4__": "2-cylinder 4-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "113 ci 1.9 L",
+          "Bore/Stroke": "4.25x4.00 inches 108 x 102 mm",
+          "Air cleaner": "oil bath",
+          "Rated RPM": "1850",
+          "Firing order": "1-2",
+          "Starter volts": "6"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 14, 2024"
+        }
+      ]
+    }
+  }
+}

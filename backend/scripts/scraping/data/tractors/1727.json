@@ -1,0 +1,197 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/7/2/1727-zetor-12011.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/7/2/1727-zetor-12011-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/7/2/1727-zetor-12011-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1727,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:48:07.270Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1727/1727-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 4 KB"
+  },
+  "tractor_data_id": 1727,
+  "name": "Zetor 12011",
+  "brand": "Zetor",
+  "model": "12011",
+  "years": {
+    "desde": 1974,
+    "hasta": 1984
+  },
+  "model_year": 1974,
+  "engine_power_hp": 120,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4100,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 44,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "7.50-20",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 20,
+    "diameter_mm_est": 832,
+    "tipo": "Diagonal",
+    "texto": "7.50-20"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1727/1727-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td1727.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1974 - 1984",
+          "__seccion_2__": "Crystal UR2 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Zetor",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Brno, Czechoslovakia"
+        },
+        {
+          "12011": "2WD",
+          "12045": "4WD",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Zetor 12011 Engine",
+          "__seccion_2__": "Zetor 6.8L 6-cyl diesel",
+          "Fuel tank": "34.3 gal 129.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 12011 Transmission",
+          "__seccion_2__": "16-speed two-speed power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 12011 Power",
+          "Engine": "120 hp 89.5 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic dry disc brakes",
+          "__seccion_5__": "Cab standard with available heater."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Zetor 12011 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "1",
+          "Pump flow": "8.4 gpm 31.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "lower-link draft control",
+          "Rear lift": "7496 lbs 3400 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@1900",
+          "&nbsp": "1000@2174"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "106.1 inches 269 cm",
+          "Weight": "9039 lbs 4100 kg",
+          "Front tire": "7.50-20",
+          "Rear tire": "18.4-15-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on July 14, 2026"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1974 - 1984",
+          "__seccion_2__": "Crystal UR2 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Zetor 12011 Tires",
+          "Ag front": "7.50-20",
+          "Ag rear": "16.9/14-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "106.1 inches 269 cm",
+          "Length": "167.5 inches 425 cm",
+          "Width": "77.4 inches 196 cm",
+          "Height (cab)": "97.6 inches 247 cm",
+          "Height (exhaust)": "92.3 inches 234 cm",
+          "Weight": "9039 lbs 4100 kg",
+          "Ballasted weight": "10820 lbs 4907 kg",
+          "Ground clearance": "17.5 inches 44 cm",
+          "Front tread": "53.2 to 70.9 inches 135 to 180 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 14, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1974 - 1984",
+          "__seccion_2__": "Crystal UR2 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Zetor Z 8601",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "417.5 ci 6.8 L",
+          "Bore/Stroke": "4.33x4.72 inches 110 x 120 mm",
+          "Power": "120 hp 89.5 kW",
+          "Fuel system": "direct injection",
+          "Rated RPM": "2200"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 14, 2026"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/2/126-john-deere-4650.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/2/126-john-deere-4650-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/1/2/126-john-deere-4650-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/2/126-john-deere-4650-engine.html",
+    "source_id": 126,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:49:08.147Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/126/126-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 37 KB"
+  },
+  "tractor_data_id": 126,
+  "name": "John Deere 4650",
+  "brand": "John Deere",
+  "model": "4650",
+  "years": {
+    "desde": 1983,
+    "hasta": 1988
+  },
+  "model_year": 1983,
+  "engine_power_hp": 187.7,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 165,
+  "pto_tested_hp": 165.7,
+  "drawbar_tested_hp": 142.31,
+  "weight_kg": 7568,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 74.5,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 20.8-38",
+  "tire_width_mm": 528,
+  "tire_diameter_mm": 1863,
+  "tire_front": {
+    "original": "18.4-26",
+    "radial": false,
+    "width_mm": 467,
+    "rim_in": 26,
+    "diameter_mm_est": 1455,
+    "tipo": "Diagonal",
+    "texto": "18.4-26"
+  },
+  "fuel_consumption_lph": 37.1,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/126/126-td3a.jpg",
+  "image_url": "/uploads/tractors/td126.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1983 - 1988",
+          "__seccion_2__": "50 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "Original price": "$54,763 (1983 Quad-Range ROPS 2WD )",
+          "__seccion_4__": "$76,006 (1983 Power Shift Cab 4WD )"
+        },
+        {
+          "__seccion_1__": "John Deere 4650 Engine",
+          "__seccion_2__": "John Deere 7.6L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4650 Transmissions",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "15-speed full power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4650 Power",
+          "Engine": "187.7 hp 140.0 kW",
+          "Drawbar (claimed)": "137 hp 102.2 kW",
+          "PTO (claimed)": "165 hp 123.0 kW",
+          "Drawbar (tested)": "142.31 hp 106.1 kW",
+          "PTO (tested)": "165.70 hp 123.6 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "hydraulic rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Sound-Gard cab standard. Optional four-post Roll-Gard ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 4650 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "102 gal 386.1 L",
+          "Hydraulic system": "18.6 gal (2WD Power Shift) 70.4 L",
+          "&nbsp": "26.9 gal (Quad-Range) 101.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "18.6 gal (2WD Power Shift) 70.4 L",
+          "&nbsp": "26.9 gal (Quad-Range) 101.8 L",
+          "Pressure": "2277 psi 157.0 bar",
+          "Valves": "2 or 3",
+          "Pump flow": "29.5 gpm 111.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Control": "lower-link draft sensing",
+          "Rear lift": "8,475 lbs 3844 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "1000",
+          "Engine RPM": "1000@2200"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "118.5 inches 300 cm",
+          "4WD Wheelbase": "117.1 inches 297 cm",
+          "Weight": "16685 to 18585 pounds",
+          "Front tire": "11.00-16",
+          "2WD Rear tire": "20.8-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4650 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "4650 Serial Number Location",
+          "__seccion_2__": "Differential on rear of tractor."
+        },
+        {
+          "1983": "1000",
+          "1984": "7001",
+          "1985": "10001",
+          "1986": "12501",
+          "1987": "14001",
+          "1988": "15501",
+          "1989": "17501",
+          "__seccion_1__": "4650 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "72",
+          "&nbsp": "12 Opt Optional",
+          "Batteries": "2",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Loaders, Spreaders and Blades published in 1984, by John Deere",
+          "__seccion_3__": "Tractors 100 to 190 HP published in 1984, by John Deere",
+          "__seccion_4__": "Tractors 105 to 190 HP published in 1984, by John Deere",
+          "__seccion_5__": "Row-Crop Tractors Product Information Handbook published in 1984, by John Deere",
+          "__seccion_6__": "Row-Crop Tractors Product Information Handbook published in 1986, by John Deere",
+          "__seccion_7__": "Mechanical Front-Wheel Drive published in 1984, by John Deere",
+          "__seccion_8__": "Agricultural Price List published in 1983, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 30, 2023",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1983 - 1988",
+          "__seccion_2__": "50 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 4650 Tires",
+          "2WD Standard tires (ag)": "Front: 11.00-16. Rear: 20.8-38",
+          "4WD Standard tires (ag)": "Front: 18.4-26. Rear: 20.8-38",
+          "Ag rear": "16.9-38",
+          "&nbsp": "18.4R42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "118.5 inches 300 cm",
+          "4WD Wheelbase": "117.1 inches 297 cm",
+          "Length": "179.7 inches (2WD) 456 cm",
+          "&nbsp": "108 inches (optional axle) 274 cm",
+          "Width": "118 inches (standard axle) 299 cm",
+          "Height": "117.8 inches 299 cm",
+          "Shipping weight": "16,685 lbs 7568 kg",
+          "Operating weight": "18,585 lbs (2WD Power Shift) 8430 kg",
+          "Ground clearance": "14.92 inches 37 cm",
+          "Rack-and-pinion rear axle": "3.94 by 118 inches 100 by 2997 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 30, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1983 - 1988",
+          "__seccion_2__": "50 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 1460: diesel Power Shift 2WD",
+          "__seccion_3__": "NTTL 1477: diesel Quad-Range 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1460"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1460",
+          "__seccion_2__": "Diesel Power Shift 2WD October 9 - 28, 1982 Link: Nebraska Tractor Test 1460 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "165.52 hp 123.4 kW",
+          "Fuel use": "9.6 gal/hour 36.3 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "137.31 hp 102.4 kW",
+          "__seccion_5__": "Gear 10 used for power test.",
+          "Max pull": "16,746 lbs 7595 kg",
+          "__seccion_6__": "Gear 5 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1477"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1477",
+          "__seccion_2__": "Diesel Quad-Range 2WD April 7 - 26, 1983 Link: Nebraska Tractor Test 1477 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "165.70 hp 123.6 kW",
+          "Fuel use": "9.5 gal/hour 36.0 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "142.31 hp 106.1 kW",
+          "Max pull": "16,814 lbs 7626 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 30, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1983 - 1988",
+          "__seccion_2__": "50 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "intercooled turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "466 ci 7.6 L",
+          "Bore/Stroke": "4.56x4.75 inches 116 x 121 mm",
+          "Power": "187.7 hp 140.0 kW",
+          "Air cleaner": "dry",
+          "Compression": "15.8:1",
+          "Rated RPM": "2200",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Oil capacity": "21 qts 19.9 L",
+          "Coolant capacity": "32 qts 30.3 L"
+        },
+        {
+          "__seccion_1__": "John Deere 4650 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 30, 2023"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/126/126-td4-b01-ext000.jpg"
+}

@@ -1,0 +1,236 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/8/5/1850-kubota-l3130.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/8/5/1850-kubota-l3130-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/8/5/1850-kubota-l3130-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1850,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:54:44.870Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1850/1850-photo-001-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 187 KB"
+  },
+  "tractor_data_id": 1850,
+  "name": "Kubota L3130",
+  "brand": "Kubota",
+  "model": "L3130",
+  "years": {
+    "desde": 2003,
+    "hasta": 2007
+  },
+  "model_year": 2003,
+  "engine_power_hp": 32.1,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 25.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1499,
+  "weight_basis": "4WD Hydro Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 9.4,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-24",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1145,
+  "tire_front": {
+    "original": "7.2-16",
+    "radial": false,
+    "width_mm": 183,
+    "rim_in": 16,
+    "diameter_mm_est": 717,
+    "tipo": "Diagonal",
+    "texto": "7.2-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1850/1850-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1850/1850-photo-001-ext000.jpg",
+  "image_url": "/uploads/tractors/td1850.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2003 - 2007",
+          "__seccion_2__": "L30 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "L3130F": "2WD",
+          "L3130DT": "4WD 8 speed",
+          "L3130GST": "4WD 12 speed",
+          "L3130HST": "4WD hydro"
+        },
+        {
+          "__seccion_1__": "Kubota L3130 Engine",
+          "__seccion_2__": "Kubota 1.5L 3-cyl diesel",
+          "Fuel tank": "10.6 gal 40.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L3130 Transmissions",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "8-speed fully synchronized",
+          "__seccion_4__": "12-speed power shift",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L3130 Power",
+          "Engine (gross)": "32.1 hp 23.9 kW",
+          "Engine (net)": "31 hp 23.1 kW",
+          "Gear PTO (claimed)": "25.5 hp 19.0 kW",
+          "Hydro PTO (claimed)": "24 hp 17.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota L3130 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "3 Opt Optional",
+          "Pump flow": "8.3 gpm 31.4 lpm",
+          "Total flow": "13.2 gpm 50.0 lpm",
+          "Steering flow": "4.9 gpm 18.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control with optional draft control",
+          "Rear lift (at 24\"/610mm)": "2650 lbs 1202 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic",
+          "Rear PTO Type": "540 (1.375)",
+          "Mid PTO": "independent Opt Optional",
+          "Mid PTO Type": "2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "71.3 inches 181 cm",
+          "4WD Wheelbase": "71.1 inches 180 cm",
+          "Weight": "3120 to 3305 pounds",
+          "Front tire": "6.00-16",
+          "2WD Rear tire": "12.4-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota L3130 attachments",
+          "__seccion_2__": "72\" mid-mount mower deck",
+          "__seccion_3__": "snowblower",
+          "__seccion_4__": "blade",
+          "__seccion_5__": "front-end loader",
+          "__seccion_6__": "backhoe",
+          "__seccion_7__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "L3130 Serial Number Location",
+          "__seccion_2__": "Serial number decal on the left side of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Grand L 30 Series published in 2004, by Kubota *",
+          "__seccion_3__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 7, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2003 - 2007",
+          "__seccion_2__": "L30 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota L3130 Tires",
+          "2WD Standard tires (ag)": "Front: 6.00-16. Rear: 12.4-24",
+          "4WD Standard tires (ag)": "Front: 7.2-16. Rear: 12.4-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "71.3 inches 181 cm",
+          "4WD Wheelbase": "71.1 inches 180 cm",
+          "2WD Length": "119.1 inches 302 cm",
+          "4WD Length": "114.8 inches 291 cm",
+          "Width": "59.8 inches 151 cm",
+          "Height (ROPS)": "90.7 inches 230 cm",
+          "2WD Gear Weight": "3120 lbs 1415 kg",
+          "4WD Hydro Weight": "3305 lbs 1499 kg",
+          "Ground clearance": "14.2 inches 36 cm",
+          "2WD Front tread": "47.6/51.6/55.5/59.4 inches 120/131/140/150 cm",
+          "4WD Front tread": "45.5 inches 115 cm",
+          "Rear tread": "47.2/51.2/54.5/58.3 inches 119/130/138/148 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 7, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2003 - 2007",
+          "__seccion_2__": "L30 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota D1503",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "91.5 ci 1.5 L",
+          "Bore/Stroke": "3.268x3.638 inches 83 x 92 mm",
+          "Power (net)": "31 hp 23.1 kW",
+          "Power (gross)": "32.1 hp 23.9 kW",
+          "Fuel system": "indirect injection",
+          "Air cleaner": "dual dry element",
+          "Rated RPM": "2700",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 7, 2023"
+        }
+      ]
+    }
+  }
+}

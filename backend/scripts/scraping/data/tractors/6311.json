@@ -1,0 +1,242 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/3/1/6311-caseih-farmall-90.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/3/1/6311-caseih-farmall-90-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/006/3/1/6311-caseih-farmall-90-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/3/1/6311-caseih-farmall-90-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 6311,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:46:10.450Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6311/6311-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 44 KB"
+  },
+  "tractor_data_id": 6311,
+  "name": "CaseIH Farmall 90",
+  "brand": "Turk Tractor",
+  "model": "farmall 90",
+  "years": {
+    "desde": 2008,
+    "hasta": 2010
+  },
+  "model_year": 2008,
+  "engine_power_hp": 84,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 70,
+  "pto_tested_hp": 73.5,
+  "drawbar_tested_hp": 65.2,
+  "weight_kg": 2586,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 32.3,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 17.8,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F006/6311/6311-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6311/6311-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td6311.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2008 - 2010",
+          "__seccion_2__": "Farmall Utility Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Turk Tractor built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "CaseIH",
+          "Manufacturer": "Turk Tractor",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Ankara, Turkey"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 90 Engine",
+          "__seccion_2__": "FPT 4.5L 4-cyl diesel",
+          "Fuel tank": "23.8 gal 90.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 90 Transmissions",
+          "__seccion_2__": "12-speed mechanical shuttle",
+          "__seccion_3__": "20-speed mechanical shuttle with creeper",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 90 Power",
+          "Engine (gross)": "84 hp 62.6 kW",
+          "PTO (claimed)": "70 hp 52.2 kW",
+          "Drawbar (tested)": "65.2 hp 48.6 kW",
+          "PTO (tested)": "73.5 hp 54.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Flat deck platform with ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH Farmall 90 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2755 psi 190.0 bar",
+          "Rear valves": "1 to 3",
+          "Pump flow": "13.6 gpm 51.5 lpm",
+          "Total flow": "21.7 gpm 82.1 lpm",
+          "Steering flow": "8.1 gpm 30.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position control and mechanical lower-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "5025 lbs 2279 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "mechanical dry clutch",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "91 inches 231 cm",
+          "4WD Wheelbase": "87 inches 220 cm",
+          "Weight": "5702 to 6915 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 90 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "85",
+          "Battery CCA": "800",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Farmall Series Utility Tractors published in 2008, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2008 - 2010",
+          "__seccion_2__": "Farmall Utility Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Turk Tractor built"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 90 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "91 inches 231 cm",
+          "4WD Wheelbase": "87 inches 220 cm",
+          "Height (ROPS)": "101.1 inches 256 cm",
+          "Height (cab)": "103.1 inches 261 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 90 Weight",
+          "Shipping": "5,702 lbs (2WD ROPS) 2586 kg",
+          "&nbsp": "6,915 lbs (4WD cab) 3136 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2008 - 2010",
+          "__seccion_2__": "Farmall Utility Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Turk Tractor built"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2509"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2509",
+          "__seccion_2__": "Diesel 12-speed 4WD December 2008 - 2008, Link: OCED Tractor Test 2509 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "65.2 hp 48.6 kW",
+          "Fuel use": "4.5 gal/hour 17.0 l/hour",
+          "Power at rated engine speed": "72.7 hp 54.2 kW",
+          "Power at rated PTO speed": "70.3 hp 52.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "7,265 lbs 3295 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2008 - 2010",
+          "__seccion_2__": "Farmall Utility Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Turk Tractor built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "274 ci 4.5 L",
+          "Bore/Stroke": "4.094x5.196 inches 104 x 132 mm",
+          "Emissions": "Tier 3",
+          "Power (gross)": "84 hp 62.6 kW",
+          "Fuel system": "direct injection with mechanical governor",
+          "Air cleaner": "dual dry elements",
+          "Pre-heating": "thermostart",
+          "Rated RPM": "2300",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2025"
+        }
+      ]
+    }
+  }
+}

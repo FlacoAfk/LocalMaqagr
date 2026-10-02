@@ -1,0 +1,182 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/9/2/3929-massey-ferguson-543.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/9/2/3929-massey-ferguson-543-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/9/2/3929-massey-ferguson-543-engine.html",
+    "source_id": 3929,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:34:08.564Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3929/3929-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 3929,
+  "name": "Massey Ferguson 543",
+  "brand": "Massey Ferguson",
+  "model": "543",
+  "years": {
+    "desde": 2006,
+    "hasta": 2008
+  },
+  "model_year": 2006,
+  "engine_power_hp": 52,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 45,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2250,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 16.5,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F003/3929/3929-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td3929.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2006 - 2008",
+          "__seccion_2__": "500 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Brazil"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 543 Engine",
+          "__seccion_2__": "Perkins 3.3L 3-cyl diesel",
+          "Fuel tank": "12.7 gal 48.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 543 Transmission",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 543 Power",
+          "Engine": "52 hp 38.8 kW",
+          "PTO (claimed)": "45 hp 33.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 MFWD 4WD (optional)",
+          "Final drives": "planetary",
+          "Steering": "hydrostatic power",
+          "__seccion_2__": "Wet disc brakes",
+          "__seccion_3__": "Two-post foldable ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 543 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "2",
+          "Pump flow": "13.4 gpm 50.7 lpm",
+          "Total flow": "18.9 gpm 71.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I/II",
+          "Rear lift (at 24\"/610mm)": "2,711 lbs 1229 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "&nbsp": "independent (optional)",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "76.4 inches 194 cm",
+          "Weight": "4962 to 5456 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 22, 2012"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2006 - 2008",
+          "__seccion_2__": "500 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 543 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "76.4 inches 194 cm",
+          "Length": "126.8 inches 322 cm",
+          "Width": "66.9 inches 169 cm",
+          "Height": "92.5 inches 234 cm",
+          "Shipping weight": "4,962 lbs (2WD) 2250 kg",
+          "&nbsp": "5,456 lbs (4WD) 2474 kg",
+          "Ground clearance": "13 inches 33 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 22, 2012"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2006 - 2008",
+          "__seccion_2__": "500 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins 1103C-33",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "201.4 ci 3.3 L",
+          "Bore/Stroke": "4.134x5.00 inches 105 x 127 mm",
+          "Power": "52 hp 38.8 kW",
+          "Rated RPM": "2200",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 22, 2012"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/5/251-ford-1600.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/5/251-ford-1600-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/2/5/251-ford-1600-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/5/251-ford-1600-engine.html",
+    "source_id": 251,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:10:00.870Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/251/251-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 94 KB"
+  },
+  "tractor_data_id": 251,
+  "name": "Ford 1600",
+  "brand": "Shibaura",
+  "model": "1600",
+  "years": {
+    "desde": 1976,
+    "hasta": 1979
+  },
+  "model_year": 1976,
+  "engine_power_hp": 23,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 23,
+  "pto_tested_hp": 23,
+  "drawbar_tested_hp": 18.09,
+  "weight_kg": 1128,
+  "weight_basis": "4WD Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 11.7,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 11.2-24",
+  "tire_width_mm": 284,
+  "tire_diameter_mm": 1093,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": 6.4,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/251/251-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/251/251-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td251.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1976 - 1979",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Ford",
+          "Manufacturer": "Shibaura",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan",
+          "__seccion_4__": "Original price was $5,425 in 1979"
+        },
+        {
+          "__seccion_1__": "Ford 1600 Engine",
+          "__seccion_2__": "Shibaura 1.3L 2-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 1600 Transmission",
+          "__seccion_2__": "9-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 1600 Power",
+          "PTO (claimed)": "23 hp 17.2 kW",
+          "Drawbar (tested)": "18.09 hp 13.5 kW",
+          "PTO (tested)": "23.0 hp 17.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Differential mechanical expanding shoe brakes",
+          "__seccion_5__": "Open operator station. Two-post fixed ROPS optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 1600 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "5.8 gal 22.0 L",
+          "Hydraulic system": "2.6 gal 9.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "2.6 gal 9.8 L",
+          "Pressure": "1422 psi 98.0 bar",
+          "Total flow": "4.2 gpm 15.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at ends)": "1700 lbs 771 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1955"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "62.6 inches 159 cm",
+          "4WD Wheelbase": "66.3 inches 168 cm",
+          "Weight": "2288 to 2690 pounds",
+          "Front tire": "5.00-15",
+          "2WD Rear tire": "11.2-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 1600 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "front-end loader",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "1600 Serial Number Location",
+          "__seccion_2__": "On the tractor's clutch housing, left side."
+        },
+        {
+          "1976": "U103361",
+          "1977": "U105013",
+          "1978": "U108849",
+          "1979": "U113129",
+          "__seccion_1__": "1600 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "10",
+          "Battery volts": "12",
+          "Battery AH": "70"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "1600 Tractor Four-Wheel Drive Option published in 1978, by Ford",
+          "__seccion_3__": "Operator's Manual 1600 (SE 3551) published in 1976",
+          "__seccion_4__": "Ford 1600 published in 1978"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 9, 2023",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1976 - 1979",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Ford 1600 Tires",
+          "2WD Standard tires (ag)": "Front: 5.00-15. Rear: 11.2-24",
+          "4WD Standard tires (ag)": "Front: 6.00-16. Rear: 11.2-24",
+          "2WD Lawn/turf front": "20x8.00-10",
+          "2WD Lawn/turf rear": "13.6-16"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "62.6 inches 159 cm",
+          "4WD Wheelbase": "66.3 inches 168 cm",
+          "2WD Length": "100 inches 254 cm",
+          "4WD Length": "102 inches 259 cm",
+          "Height (hood)": "54.7 inches 138 cm",
+          "Height (exhaust)": "70.6 inches 179 cm",
+          "2WD Clearance (front axle)": "14 inches 35 cm",
+          "4WD Clearance (front axle)": "13 inches 33 cm",
+          "2WD Front tread": "43 to 60 inches 109 to 152 cm",
+          "4WD Front tread": "45/52 inches 114/132 cm",
+          "Rear tread": "48 to 60 inches 121 to 152 cm"
+        },
+        {
+          "__seccion_1__": "Ford 1600 Weight",
+          "2WD Shipping": "2288 lbs 1037 kg",
+          "4WD Shipping": "2487 lbs 1128 kg",
+          "2WD Operating": "2690 lbs 1220 kg",
+          "Max capacity": "3850 lbs 1746 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 9, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1976 - 1979",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1228"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1228",
+          "__seccion_2__": "Diesel 9-speed 2WD October 15 - 22, 1976 Link: Nebraska Tractor Test 1228 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "23.0 hp 17.2 kW",
+          "Fuel use": "1.6 gal/hour 6.1 l/hour",
+          "Power at rated PTO speed": "19.78 hp 14.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "18.09 hp 13.5 kW",
+          "__seccion_5__": "Gear 1H used for power test.",
+          "Max pull": "2,634 lbs 1194 kg",
+          "__seccion_6__": "Gear 1M used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 9, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1976 - 1979",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibaura LE892",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "77.6 ci 1.3 L",
+          "Bore/Stroke": "3.54x3.94 inches 90 x 100 mm",
+          "Air cleaner": "oil bath",
+          "Pre-heating": "glow plugs",
+          "Compression": "21:1",
+          "Rated RPM": "2500",
+          "Idle RPM": "750-2700",
+          "Starter volts": "12",
+          "Coolant capacity": "5.6 qts 5.3 L",
+          "Intake valve clearance": "0.012 inches (hot) 0.305 mm",
+          "Exhaust valve clearance": "0.012 inches (hot) 0.305 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "2WD Oil capacity": "5.3 qts 5.0 L",
+          "4WD Oil capacity": "4.2 qts 4.0 L",
+          "Oil change": "100 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 9, 2023"
+        }
+      ]
+    }
+  }
+}

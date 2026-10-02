@@ -1,0 +1,261 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/6/4/1645-caseih-mx285.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/6/4/1645-caseih-mx285-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/6/4/1645-caseih-mx285-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/6/4/1645-caseih-mx285-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1645,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:40:12.719Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1645/1645-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 77 KB"
+  },
+  "tractor_data_id": 1645,
+  "name": "CaseIH MX285 Magnum",
+  "brand": "CaseIH (a part of CNH)",
+  "model": "mx285",
+  "years": {
+    "desde": 2003,
+    "hasta": 2006
+  },
+  "model_year": 2003,
+  "engine_power_hp": 287,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 240,
+  "pto_tested_hp": 276.12,
+  "drawbar_tested_hp": 203.74,
+  "weight_kg": 9162,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 92.6,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 55.6,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1645/1645-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1645/1645-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1645.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2003 - 2006",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH (a part of CNH)",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "TG285": "similar New Holland model"
+        },
+        {
+          "__seccion_1__": "CaseIH MX285 Engine",
+          "__seccion_2__": "CDC 8.3L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH MX285 Transmission",
+          "__seccion_2__": "18-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH MX285 Power",
+          "Engine": "287 hp 214.0 kW",
+          "PTO (claimed)": "240 hp 179.0 kW",
+          "Drawbar (tested)": "203.74 hp 151.9 kW",
+          "PTO (tested)": "276.12 hp 205.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Differential hydraulic wet disc brakes",
+          "__seccion_4__": "Surveyor Cab standard with air-conditioning. Optional automatic climate control."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH MX285 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "160 gal 605.6 L",
+          "Hydraulic system": "45.5 gal 172.2 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure flow compensated with parallel priority (PFC)",
+          "Capacity": "45.5 gal 172.2 L",
+          "Pressure": "2950 psi 203.4 bar",
+          "Valves": "3 to 5",
+          "Total flow": "38.6 gpm 146.1 lpm",
+          "&nbsp": "53.1 gpm (optional) 201.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/IIIN",
+          "Control": "electronic draft control",
+          "Rear lift": "14,970 lbs 6790 kg",
+          "&nbsp": "17,920 lbs (optional) 8128 kg",
+          "Front Hitch": "optional",
+          "Front lift": "7,170 lbs 3252 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (1.75)",
+          "&nbsp": "540/1000 (1.375 optional)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "118.3 inches 300 cm",
+          "Weight": "20200 to 21630 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "MX285 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the tractor frame, above the front axle."
+        },
+        {
+          "2003": "JAZ125000",
+          "2004": "JAZ129400",
+          "2005": "JAZ134001",
+          "2006": "JAZ138614",
+          "__seccion_1__": "MX285 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "135",
+          "Charging volts": "12",
+          "Batteries": "2",
+          "Battery CCA": "1000",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MX Series Magnum Tractors published in 2003, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 9, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2003 - 2006",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH MX285 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "118.3 inches 300 cm",
+          "Height (cab)": "124.6 inches 316 cm",
+          "Rear axle": "4.5 by 120 inches 114 by 3048 mm",
+          "Front tread": "60 to 88 inches 152 to 223 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH MX285 Weight",
+          "Shipping": "20,200 lbs 9162 kg",
+          "Operating": "21,630 lbs 9811 kg",
+          "Ballasted": "31,500 lbs 14288 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 9, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2003 - 2006",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1828"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1828",
+          "__seccion_2__": "Diesel 18-speed 4WD September 9 - October 24, 2003 Link: OCED Tractor Test 1828 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "203.74 hp 151.9 kW",
+          "Fuel use": "13.6 gal/hour 51.5 l/hour",
+          "Power at rated engine speed": "242.24 hp 180.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 7 used for power test.",
+          "Max pull": "20,820 lbs 9443 kg",
+          "__seccion_6__": "Gear 5 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 9, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2003 - 2006",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CDC",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "504.5 ci 8.3 L",
+          "Bore/Stroke": "4.488x5.315 inches 114 x 135 mm",
+          "Emissions": "Tier II",
+          "Power": "287 hp 214.0 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "17.0:1",
+          "Rated RPM": "2000",
+          "Torque": "1853 lb-ft 2512.7 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12",
+          "Oil capacity": "22 qts 20.8 L",
+          "Coolant capacity": "24 qts 22.7 L"
+        },
+        {
+          "__seccion_1__": "CaseIH MX285 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 9, 2024"
+        }
+      ]
+    }
+  }
+}

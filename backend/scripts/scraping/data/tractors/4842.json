@@ -1,0 +1,159 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/004/8/4/4842-john-deere-2351.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/004/8/4/4842-john-deere-2351-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/004/8/4/4842-john-deere-2351-engine.html",
+    "source_id": 4842,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:43:19.312Z",
+    "foto_original": "https://www.tractordata.com/photos/F004/4842/4842-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 36 KB"
+  },
+  "tractor_data_id": 4842,
+  "name": "John Deere 2351",
+  "brand": "John Deere",
+  "model": "2351",
+  "years": {
+    "desde": 1987,
+    "hasta": 1993
+  },
+  "model_year": 1987,
+  "engine_power_hp": 73.7,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3089,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 27,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F004/4842/4842-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F004/4842/4842-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td4842.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1987 - 1993",
+          "__seccion_2__": "51 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Nigel, South Africa"
+        },
+        {
+          "__seccion_1__": "John Deere 2351 Engine",
+          "__seccion_2__": "ADE 3.9L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2351 Transmission",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2351 Power",
+          "Engine": "73.7 hp 55.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Open operator station. Two-post Roll-Gard ROPS optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 2351 photos..."
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "6810 lbs 3089 kg",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 19, 2015",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1987 - 1993",
+          "__seccion_2__": "51 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 2351 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Operating weight": "6810 lbs * 2WD ROPS 3089 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 19, 2015"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1987 - 1993",
+          "__seccion_2__": "51 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "ADE",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "235.6 ci 3.9 L",
+          "Bore/Stroke": "3.875x5.00 inches 98 x 127 mm",
+          "Power": "73.7 hp 55.0 kW",
+          "Rated RPM": "2300",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 19, 2015"
+        }
+      ]
+    }
+  }
+}

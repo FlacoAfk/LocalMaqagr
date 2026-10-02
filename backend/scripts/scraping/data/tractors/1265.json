@@ -1,0 +1,217 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/2/6/1265-kubota-b4200.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/2/6/1265-kubota-b4200-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/2/6/1265-kubota-b4200-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1265,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:50:14.666Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1265/1265-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 45 KB"
+  },
+  "tractor_data_id": 1265,
+  "name": "Kubota B4200",
+  "brand": "Kubota",
+  "model": "B4200",
+  "years": {
+    "desde": 1987,
+    "hasta": 1996
+  },
+  "model_year": 1987,
+  "engine_power_hp": 12.5,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 10,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 420,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 3.7,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "20x8.00-10",
+    "radial": false,
+    "width_mm": 203,
+    "rim_in": 10,
+    "diameter_mm_est": 508,
+    "tipo": "Diagonal",
+    "texto": "20x8.00-10"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1265/1265-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1265/1265-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1265.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1987 - 1996",
+          "__seccion_2__": "B Series",
+          "__seccion_3__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota B4200 Engine",
+          "__seccion_2__": "Kubota 0.6L 2-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B4200 Transmission",
+          "__seccion_2__": "6-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B4200 Power",
+          "Engine (gross)": "12.5 hp 9.3 kW",
+          "PTO (claimed)": "10 hp 7.5 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Mechanical drum brakes",
+          "__seccion_5__": "Two-post fixed ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota B4200 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "2.1 gal 7.9 L",
+          "Hydraulic system": "open gal 0.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Capacity": "open gal 0.0 L",
+          "Pump flow": "2.75 gpm 10.4 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2600",
+          "&nbsp": "860@2600",
+          "Mid PTO Type": "2563"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "48.4 inches 122 cm",
+          "Weight": "926 lbs 420 kg",
+          "Front tire": "4.5-10",
+          "Rear tire": "7-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota B4200 attachments",
+          "__seccion_2__": "44\" mid-mount mower deck",
+          "__seccion_3__": "front-end loader",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Mid-Mount Mowers B/L Series published in 1994, by Kubota *",
+          "__seccion_3__": "Front Loaders published in 1988, by Kubota",
+          "__seccion_4__": "Front Loaders B, L and M-Series published in 1994, by Kubota *",
+          "__seccion_5__": "B4200 4WD published in 1988, by Kubota",
+          "__seccion_6__": "Diesel Tractor B4200 4WD published in 1993, by Kubota",
+          "__seccion_7__": "Product Catalog published in 1990, by Kubota",
+          "__seccion_8__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 24, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1987 - 1996",
+          "__seccion_2__": "B Series",
+          "__seccion_3__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota B4200 Tires",
+          "Ag front": "4.5-10",
+          "Ag rear": "7-16",
+          "Lawn/turf front": "20x8.00-10",
+          "Lawn/turf rear": "212/80D-15"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "48.4 inches 122 cm",
+          "Length": "87.2 inches 221 cm",
+          "Width": "33.1 inches 84 cm",
+          "Height (steering wheel)": "44.1 inches 112 cm",
+          "Shipping weight": "926 lbs 420 kg",
+          "Ground clearance": "8.7 inches 22 cm",
+          "Front tread": "27 inches 68 cm",
+          "Rear tread": "25.2/29.1/31.7 inches 64/73/80 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 24, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1987 - 1996",
+          "__seccion_2__": "B Series",
+          "__seccion_3__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota Z-600A",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "34.8 ci 0.6 L",
+          "Bore/Stroke": "2.76x2.83 inches 70 x 72 mm",
+          "Power (gross)": "12.5 hp 9.3 kW",
+          "Rated RPM": "2600",
+          "Torque": "25.75 lb-ft 34.9 Nm",
+          "Torque RPM": "2000",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 24, 2023"
+        }
+      ]
+    }
+  }
+}

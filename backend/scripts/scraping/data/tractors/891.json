@@ -1,0 +1,268 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/9/891-massey-ferguson-4880.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/9/891-massey-ferguson-4880-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/8/9/891-massey-ferguson-4880-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/9/891-massey-ferguson-4880-engine.html",
+    "source_id": 891,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:29:28.053Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/891/891-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 107 KB"
+  },
+  "tractor_data_id": 891,
+  "name": "Massey Ferguson 4880",
+  "brand": "Massey Ferguson",
+  "model": "4880",
+  "years": {
+    "desde": 1978,
+    "hasta": 1983
+  },
+  "model_year": 1978,
+  "engine_power_hp": 320,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": 270,
+  "pto_tested_hp": 272.81,
+  "drawbar_tested_hp": 235.4,
+  "weight_kg": 12247,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 130.2,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "18.4-38",
+    "radial": false,
+    "width_mm": 467,
+    "rim_in": 38,
+    "diameter_mm_est": 1760,
+    "tipo": "Diagonal",
+    "texto": "18.4-38"
+  },
+  "fuel_consumption_lph": 65.9,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/891/891-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/891/891-photo-001.jpg",
+  "image_url": "/uploads/tractors/td891.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1978 - 1983",
+          "__seccion_2__": "4000 4WD Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Original price was $110,500 in 1983"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4880 Engine",
+          "__seccion_2__": "Cummins 14.8L 8-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4880 Transmissions",
+          "__seccion_2__": "18-speed partial power shift",
+          "__seccion_3__": "12-speed gear",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4880 Power",
+          "Engine (net)": "320 hp 238.6 kW",
+          "PTO (claimed)": "270 hp 201.3 kW",
+          "Drawbar (tested)": "235.40 hp 175.5 kW",
+          "PTO (tested)": "272.81 hp 203.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "planetary",
+          "__seccion_3__": "Articulated power steering",
+          "__seccion_4__": "Hydraulic caliper brakes",
+          "__seccion_5__": "Cab standard with heat and air-conditioning. Optional AM/FM 8-track stereo."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 4880 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "190 gal 719.1 L",
+          "Steering": "96 qts 90.9 L",
+          "Front axle": "42 qts 39.7 L",
+          "Rear axle": "84 qts 79.5 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "3 to 4",
+          "Pump flow": "16 gpm (transmission) 60.6 lpm",
+          "&nbsp": "28 gpm (auxiliary) 106.0 lpm",
+          "Total flow": "60 gpm 227.1 lpm",
+          "Steering cap.": "96 qts 90.9 L"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IV",
+          "Control": "position control with electronic lower link sensing",
+          "Rear lift (at 24\"/610mm)": "13,000 lbs 5896 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (1.75)",
+          "Engine RPM": "1000@2350"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "137 inches 347 cm",
+          "Weight": "27000 to 31090 pounds",
+          "Front tire": "23.1-34",
+          "Rear tire": "23.1-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1978": "9D001001",
+          "1979": "9D001031",
+          "1980": "9D002102",
+          "1981": "9D002752",
+          "1982": "9D003515",
+          "1983": "9D003897",
+          "__seccion_1__": "4880 Serial Numbers",
+          "Location:": "Rear, right-side of cab",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "60",
+          "Batteries": "4",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF 4000 Series 4-Wheel Drives published in 1979, by Massey Ferguson",
+          "__seccion_3__": "MF 4000 Series 4-Wheel Drives published in 1984, by Massey Ferguson",
+          "__seccion_4__": "Product Information Manual MF4840-MF4880 4 Wheel Drive Tractors published in 1978, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 30, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1978 - 1983",
+          "__seccion_2__": "4000 4WD Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4880 Tires",
+          "Ag front": "18.4-38",
+          "Ag rear": "18.4-38",
+          "&nbsp": "30.5-32"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "137 inches 347 cm",
+          "Length": "252 inches 640 cm",
+          "Width": "108 inches 274 cm",
+          "Height": "130 inches 330 cm",
+          "Front axle": "4 inch diameter 101 mm",
+          "Rear axle": "4 inch diameter 101 mm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4880 Weight",
+          "Shipping": "27000 lbs 12247 kg",
+          "Operating": "31090 lbs 14102 kg",
+          "Ballasted": "32450 lbs 14719 kg",
+          "Max capacity": "34000 lbs 15422 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 30, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1978 - 1983",
+          "__seccion_2__": "4000 4WD Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1344"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1344",
+          "__seccion_2__": "Diesel 18-speed 4WD April 19 - May 9, 1980 Link: Nebraska Tractor Test 1344 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "272.81 hp 203.4 kW",
+          "Fuel use": "17.4 gal/hour 65.9 l/hour",
+          "Power at rated PTO speed": "267.38 hp 199.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "235.40 hp 175.5 kW",
+          "__seccion_5__": "Gear 2L-I used for power test.",
+          "Max pull": "29,272 lbs 13277 kg",
+          "__seccion_6__": "Gear 1L-I used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 30, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1978 - 1983",
+          "__seccion_2__": "4000 4WD Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Cummins VT-903",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "8-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "903 ci 14.8 L",
+          "Bore/Stroke": "5.50x4.75 inches 140 x 121 mm",
+          "Power (net)": "320 hp 238.6 kW",
+          "Air cleaner": "dual dry elements",
+          "Compression": "15.5:1",
+          "Rated RPM": "2600",
+          "Idle RPM": "1000-2800",
+          "Starter volts": "12",
+          "Oil capacity": "37.5 qts 35.5 L",
+          "Coolant capacity": "60 qts 56.8 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 30, 2024"
+        }
+      ]
+    }
+  }
+}

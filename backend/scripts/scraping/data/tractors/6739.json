@@ -1,0 +1,242 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/7/3/6739-caseih-puma-170.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/7/3/6739-caseih-puma-170-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/006/7/3/6739-caseih-puma-170-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/7/3/6739-caseih-puma-170-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 6739,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:48:19.317Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6739/6739-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 6739,
+  "name": "CaseIH Puma 170",
+  "brand": "CaseIH",
+  "model": "Puma 170",
+  "years": {
+    "desde": 2011,
+    "hasta": 2013
+  },
+  "model_year": 2011,
+  "engine_power_hp": 167,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 135,
+  "pto_tested_hp": 172.2,
+  "drawbar_tested_hp": 132.8,
+  "weight_kg": 8500,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 76.5,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 33.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F006/6739/6739-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td6739.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "Puma Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Basildon, England"
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 170 Engine",
+          "__seccion_2__": "FPT 6.7L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 170 Transmissions",
+          "__seccion_2__": "18-speed full power shift",
+          "__seccion_3__": "19-speed full power shift",
+          "__seccion_4__": "continuously variable transmission (CVT)",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 170 Power",
+          "Engine (gross)": "167 hp 124.5 kW",
+          "Engine (max)": "218 hp 162.6 kW",
+          "PTO (claimed)": "135 hp 100.7 kW",
+          "Drawbar (tested)": "132.8 hp 99.0 kW",
+          "PTO (tested)": "172.2 hp 128.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Cab standard. Optional cab suspension."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH Puma 170 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "104 gal 393.6 L",
+          "Exhaust fluid (DEF)": "13.2 gal 50.0 L",
+          "Hydraulic system": "22 gal 83.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure flow compensating (PFC)",
+          "Capacity": "22 gal 83.3 L",
+          "Rear valves": "3 to 4 (mechanical)",
+          "&nbsp": "57 gpm (CVT opt) 215.7 lpm",
+          "Pump flow": "32 gpm (powershift) 121.1 lpm",
+          "Total flow": "49 gpm (powershift) 185.5 lpm",
+          "Steering flow": "17 gpm 64.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "2/3N",
+          "Rear lift": "10,200 lbs 4626 kg",
+          "&nbsp": "13,400 lbs (optional) 6078 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "&nbsp": "1000/1000E"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "113.6 inches 288 cm",
+          "Weight": "18740 lbs 8500 kg",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 170 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "150",
+          "&nbsp": "200 Opt Optional",
+          "Battery CCA": "1300",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Puma Series Tractors published in 2010, by CaseIH",
+          "__seccion_3__": "Puma Series Tractors published in 2011, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 3, 2014"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "Puma Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 170 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "113.6 inches 288 cm",
+          "Operating weight": "18740 lbs 8500 kg",
+          "Bar rear axle": "4.125 by 119 inches 104 by 3022 mm",
+          "Front tread": "60 to 88 inches 152 to 223 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 3, 2014"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "Puma Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2609"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2609",
+          "__seccion_2__": "Diesel 19-speed 4WD January 2011 - March 2011, Link: OCED Tractor Test 2609 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "132.8 hp 99.0 kW",
+          "Fuel use": "8.8 gal/hour 33.3 l/hour",
+          "Power at rated engine speed": "150.9 hp 112.5 kW",
+          "Power at rated PTO speed": "170.8 hp 127.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 9 used for power test.",
+          "Max pull": "17205 lbs 7804 kg",
+          "__seccion_6__": "Gear 8 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 3, 2014"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "Puma Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "410.6 ci 6.7 L",
+          "Bore/Stroke": "4.094x5.197 inches 104 x 132 mm",
+          "Emissions": "Interim Tier 4",
+          "Emission control": "selective catalytic reduction (SCR)",
+          "Rated Power (gross)": "167 hp 124.5 kW",
+          "Maximum Power (gross)": "218 hp 162.6 kW",
+          "Air cleaner": "dual paper elements",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "16 qts 15.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 3, 2014"
+        }
+      ]
+    }
+  }
+}

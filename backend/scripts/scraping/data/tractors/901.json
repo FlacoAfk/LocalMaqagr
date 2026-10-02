@@ -1,0 +1,239 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/9/0/901-massey-ferguson-6280.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/9/0/901-massey-ferguson-6280-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/9/0/901-massey-ferguson-6280-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/9/0/901-massey-ferguson-6280-engine.html",
+    "source_id": 901,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:30:00.247Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/901/901-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 901,
+  "name": "Massey Ferguson 6280",
+  "brand": "Massey Ferguson",
+  "model": "6280",
+  "years": {
+    "desde": 1999,
+    "hasta": 2003
+  },
+  "model_year": 1999,
+  "engine_power_hp": 110,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 110,
+  "pto_tested_hp": 111.3,
+  "drawbar_tested_hp": 114.3,
+  "weight_kg": 4814,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 51.3,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "10.00-16",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 16,
+    "diameter_mm_est": 838,
+    "tipo": "Diagonal",
+    "texto": "10.00-16"
+  },
+  "fuel_consumption_lph": 27.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/901/901-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td901.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1999 - 2003",
+          "__seccion_2__": "6200 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Beauvais, France",
+          "Original price": "$53,000"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 6280 Engine",
+          "__seccion_2__": "Perkins 6.0L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 6280 Transmission",
+          "__seccion_2__": "32-speed four-speed power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 6280 Power",
+          "PTO (claimed)": "110 hp 82.0 kW",
+          "Drawbar (tested)": "114.3 hp 85.2 kW",
+          "PTO (tested)": "111.3 hp 83.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Independent hydraulic wet discs brakes",
+          "__seccion_4__": "Cab standard. Two-post ROPS platform available. Fieldstar optional"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 6280 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "59 gal 223.3 L",
+          "Hydraulic system": "16.4 gal 62.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "&nbsp": "closed center pressure flow compensated optional",
+          "Capacity": "16.4 gal 62.1 L",
+          "Valves": "2",
+          "Pump flow": "14.9 gpm 56.4 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "9200 lbs 4173 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "106.3 inches 270 cm",
+          "Weight": "10615 to 11430 pounds",
+          "Front tire": "10.00-16",
+          "Rear tire": "16.9R-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 6280 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF Loaders for Compact & Agricultural Tractors published in 2003, by Massey Ferguson",
+          "__seccion_3__": "MF 6200 - New high-productivity tractors published in 1999, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 5, 2016"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1999 - 2003",
+          "__seccion_2__": "6200 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 6280 Tires",
+          "Ag front": "10.00-16",
+          "Ag rear": "16.9R-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "106.3 inches 270 cm",
+          "Length": "185 inches 469 cm",
+          "Height (cab)": "122.2 inches 310 cm",
+          "Operating weight": "10,615 lbs (2WD) 4814 kg",
+          "&nbsp": "11,430 lbs (4WD) 5184 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 5, 2016"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1999 - 2003",
+          "__seccion_2__": "6200 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1853"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1853",
+          "__seccion_2__": "Diesel 32-speed 4WD February 1 - June 1, 1999 Link: OCED Tractor Test 1853 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "111.3 hp 83.0 kW",
+          "Fuel use": "7.2 gal/hour 27.3 l/hour",
+          "Power at rated PTO speed": "116.9 hp 87.2 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "114.3 hp 85.2 kW",
+          "__seccion_5__": "Gear 19 used for power test.",
+          "Max pull": "11535 lbs 5232 kg",
+          "__seccion_6__": "Gear 11 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 5, 2016"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1999 - 2003",
+          "__seccion_2__": "6200 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "365.2 ci 6.0 L",
+          "Bore/Stroke": "3.937x5.00 inches 100 x 127 mm",
+          "Air cleaner": "dual paper elements",
+          "Compression": "16.0:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12",
+          "Coolant capacity": "26.4 qts 25.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 5, 2016"
+        }
+      ]
+    }
+  }
+}

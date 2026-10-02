@@ -1,0 +1,253 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/2/8/1287-kubota-l305.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/2/8/1287-kubota-l305-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/2/8/1287-kubota-l305-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/2/8/1287-kubota-l305-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1287,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:51:25.147Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1287/1287-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 1287,
+  "name": "Kubota L305",
+  "brand": "Kubota",
+  "model": "L305",
+  "years": {
+    "desde": 1979,
+    "hasta": 1985
+  },
+  "model_year": 1979,
+  "engine_power_hp": 30,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 26,
+  "pto_tested_hp": 26.21,
+  "drawbar_tested_hp": 21.78,
+  "weight_kg": 1295,
+  "weight_basis": "4WD Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 19.6,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 13.6-24",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1197,
+  "tire_front": {
+    "original": "8.3-16",
+    "radial": false,
+    "width_mm": 211,
+    "rim_in": 16,
+    "diameter_mm_est": 765,
+    "tipo": "Diagonal",
+    "texto": "8.3-16"
+  },
+  "fuel_consumption_lph": 7.6,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1287/1287-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td1287.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1979 - 1985",
+          "__seccion_2__": "L Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "L305F": "2WD",
+          "L305DT": "4WD"
+        },
+        {
+          "__seccion_1__": "Kubota L305 Engine",
+          "__seccion_2__": "Kubota 1.3L 3-cyl diesel",
+          "Fuel tank": "8.8 gal 33.3 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L305 Transmission",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L305 Power",
+          "Engine": "30 hp 22.4 kW",
+          "PTO (claimed)": "26 hp 19.4 kW",
+          "Drawbar (tested)": "21.78 hp 16.2 kW",
+          "PTO (tested)": "26.21 hp 19.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "Steering": "power assist",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Two-post fixed ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Kubota L305 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "6.4 gpm 24.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position and draft control",
+          "Rear lift": "2028 lbs 919 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@2530",
+          "&nbsp": "1050@2350",
+          "Front PTO": "optional",
+          "Front PTO Type": "2800"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "72.8 inches 184 cm",
+          "Weight": "2650 to 3140 pounds",
+          "Front tire": "5.50-16",
+          "2WD Rear tire": "13.6-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota L305 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Tractors and Excavators published in 1981, by Kubota",
+          "__seccion_3__": "Tractors and Excavators published in 1982, by Kubota",
+          "__seccion_4__": "Kubota Tractors Diesel L295/L305/L345 published in 1981"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 1, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1979 - 1985",
+          "__seccion_2__": "L Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota L305 Tires",
+          "2WD Standard tires (ag)": "Front: 5.50-16. Rear: 13.6-24",
+          "4WD Standard tires (ag)": "Front: 8.3-16. Rear: 13.6-24",
+          "Optional tires (ag)": "Front: 7.00-16. Rear: 12.4-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "72.8 inches 184 cm",
+          "Length": "126.4 inches 321 cm",
+          "Width": "64.2 inches 163 cm",
+          "Height (exhaust)": "79.9 inches 202 cm",
+          "Ground clearance": "13.75 inches 34 cm",
+          "Front tread": "48.1 inches 122 cm",
+          "Rear tread": "50.4 to 66.9 inches 128 to 169 cm"
+        },
+        {
+          "__seccion_1__": "Kubota L305 Weight",
+          "2WD Shipping": "2650 lbs 1202 kg",
+          "4WD Shipping": "2855 lbs 1295 kg",
+          "Operating": "3140 lbs 1424 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 1, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1979 - 1985",
+          "__seccion_2__": "L Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1371"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1371",
+          "__seccion_2__": "Diesel 8-speed 4WD October 7 - 24, 1980 Link: Nebraska Tractor Test 1371 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "26.21 hp 19.5 kW",
+          "Fuel use": "2.0 gal/hour 7.6 l/hour",
+          "Power at rated PTO speed": "25.14 hp 18.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "21.78 hp 16.2 kW",
+          "Max pull": "4,397 lbs 1994 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 1, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1979 - 1985",
+          "__seccion_2__": "L Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota D1301",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "79.27 ci 1.3 L",
+          "Bore/Stroke": "3.23x3.23 inches 82 x 82 mm",
+          "Power": "30 hp 22.4 kW",
+          "Air cleaner": "dry element",
+          "Compression": "21:1",
+          "Rated RPM": "2800",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 1, 2022"
+        }
+      ]
+    }
+  }
+}

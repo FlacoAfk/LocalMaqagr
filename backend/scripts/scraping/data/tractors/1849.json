@@ -1,0 +1,227 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/8/4/1849-kubota-mx5000.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/8/4/1849-kubota-mx5000-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/8/4/1849-kubota-mx5000-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1849,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:54:41.649Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1849/1849-photo-001-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 75 KB"
+  },
+  "tractor_data_id": 1849,
+  "name": "Kubota MX5000",
+  "brand": "Kubota",
+  "model": "MX5000",
+  "years": {
+    "desde": 2002,
+    "hasta": 2008
+  },
+  "model_year": 2002,
+  "engine_power_hp": 52.2,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 44,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1489,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 16.1,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 44x18-20",
+  "tire_width_mm": 457,
+  "tire_diameter_mm": 1118,
+  "tire_front": {
+    "original": "9.5-16",
+    "radial": false,
+    "width_mm": 241,
+    "rim_in": 16,
+    "diameter_mm_est": 817,
+    "tipo": "Diagonal",
+    "texto": "9.5-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1849/1849-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1849/1849-photo-001-ext000.jpg",
+  "image_url": "/uploads/tractors/td1849.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2002 - 2008",
+          "__seccion_2__": "MX Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "The Kubota MX5000 was marketed as an intermediate model between the L and M series line. It was less expensive than the similar M4900 and used a more basic transmission and hydraulic system."
+        },
+        {
+          "__seccion_1__": "Variants",
+          "MX5000F": "2WD",
+          "MX5000DT": "4WD",
+          "MX5000SU": "basic model"
+        },
+        {
+          "__seccion_1__": "Kubota MX5000 Engine",
+          "__seccion_2__": "Kubota 2.4L 4-cyl diesel",
+          "Fuel tank": "13.2 gal 50.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota MX5000 Transmission",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota MX5000 Power",
+          "Engine (gross)": "52.2 hp 38.9 kW",
+          "Engine (net)": "50 hp 37.3 kW",
+          "PTO (claimed)": "44 hp 32.8 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "spur gear",
+          "Differential lock": "mechanical rear lock standard",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Mechanical wet disc brakes",
+          "__seccion_4__": "Two-post ROPS. Canopy optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota MX5000 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Valves": "3 (optional)",
+          "Pump flow": "9.2 gpm 34.8 lpm",
+          "Total flow": "14 gpm 53.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "2/1",
+          "Control": "position control",
+          "&nbsp": "draft control (optional)",
+          "Rear lift (at ends)": "2,866 lbs 1300 kg",
+          "Rear lift (at 24\"/610mm)": "2,315 lbs 1050 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "71.6 inches 181 cm",
+          "4WD Wheelbase": "71.1 inches 180 cm",
+          "Weight": "3284 to 3560 pounds",
+          "Front tire": "7.5L-15",
+          "Rear tire": "14.9-26",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota MX5000 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "Battery CCA": "582",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 27, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2002 - 2008",
+          "__seccion_2__": "MX Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota MX5000 Tires",
+          "Ag front": "7.5L-15 (2WD)",
+          "&nbsp": "9.5-16 (4WD)",
+          "Ag rear": "14.9-26",
+          "Lawn/turf front": "29x12.5-15",
+          "Lawn/turf rear": "44x18-20",
+          "Industrial front": "12-16.5",
+          "Industrial rear": "17.5L-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "71.6 inches 181 cm",
+          "4WD Wheelbase": "71.1 inches 180 cm",
+          "Length": "132.5 inches (2WD) 336 cm",
+          "&nbsp": "15.2 inches (4WD) 38 cm",
+          "Width": "62.4 inches 158 cm",
+          "Height": "84.8 inches 215 cm",
+          "Weight": "3,284 lbs (2WD) 1489 kg",
+          "Clearance (front axle)": "15.9 inches (2WD) 40 cm",
+          "2WD Front tread": "48.8 to 59.6 inches 123 to 151 cm",
+          "4WD Front tread": "52.2 inches 132 cm",
+          "Rear tread": "54.1 to 58.7 inches 137 to 149 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 27, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2002 - 2008",
+          "__seccion_2__": "MX Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V2403",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "148.5 ci 2.4 L",
+          "Bore/Stroke": "3.43x4.03 inches 87 x 102 mm",
+          "Power (net)": "50 hp 37.3 kW",
+          "Power (gross)": "52.2 hp 38.9 kW",
+          "Fuel system": "indirect injection",
+          "Air cleaner": "dry, dual element",
+          "Rated RPM": "2700",
+          "Starter volts": "12",
+          "Oil capacity": "8 qts 7.6 L",
+          "Coolant capacity": "7.9 qts 7.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 27, 2024"
+        }
+      ]
+    }
+  }
+}

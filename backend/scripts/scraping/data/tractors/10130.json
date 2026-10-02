@@ -1,0 +1,177 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/1/3/10130-massey-ferguson-42.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/1/3/10130-massey-ferguson-42-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/1/3/10130-massey-ferguson-42-engine.html",
+    "source_id": 10130,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:50:19.400Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10130/10130-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 74 KB"
+  },
+  "tractor_data_id": 10130,
+  "name": "Massey Ferguson 42",
+  "brand": "Massey Ferguson",
+  "model": "42",
+  "years": {
+    "desde": 1962,
+    "hasta": 1965
+  },
+  "model_year": 1962,
+  "engine_power_hp": 42,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1650,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 15.4,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 11-28",
+  "tire_width_mm": 279,
+  "tire_diameter_mm": 1186,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F010/10130/10130-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F010/10130/10130-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td10130.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1962 - 1965",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Beauvais, France"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 42 Engine",
+          "__seccion_2__": "Perkins 2.5L 3-cyl diesel",
+          "Fuel tank": "10.2 gal 38.6 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 42 Transmissions",
+          "__seccion_2__": "6-speed gear",
+          "__seccion_3__": "12-speed two-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 42 Power",
+          "Engine": "42 hp 31.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 42 photos..."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1600"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "72.1 inches 183 cm",
+          "Weight": "3638 lbs 1650 kg",
+          "Front tire": "6.00-16",
+          "Rear tire": "11-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 26, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1962 - 1965",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 42 Tires",
+          "Ag front": "6.00-19",
+          "Ag rear": "12-28",
+          "&nbsp": "11-32"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "72.1 inches 183 cm",
+          "Length": "118.1 inches 299 cm",
+          "Width": "72.1 inches 183 cm",
+          "Height": "56.1 inches 142 cm",
+          "Weight": "3638 lbs 1650 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 26, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1962 - 1965",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A3.152",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "152 ci 2.5 L",
+          "Bore/Stroke": "3.60x5.00 inches 91 x 127 mm",
+          "Power": "42 hp 31.3 kW",
+          "Compression": "17.4:1",
+          "Rated RPM": "2250",
+          "Idle RPM": "600-2500",
+          "Firing order": "1-2-3",
+          "Starter": "12",
+          "Starter volts": "electric",
+          "Coolant capacity": "10.8 qts 10.2 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 26, 2021"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/8/6/8861-caseih-farmall-90c.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/8/6/8861-caseih-farmall-90c-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/008/8/6/8861-caseih-farmall-90c-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/8/6/8861-caseih-farmall-90c-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 8861,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:52:33.814Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8861/8861-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 70 KB"
+  },
+  "tractor_data_id": 8861,
+  "name": "CaseIH Farmall 90C",
+  "brand": "CaseIH (a part of CNH)",
+  "model": "farmall 90c",
+  "years": {
+    "desde": 2015,
+    "hasta": 2027
+  },
+  "model_year": 2015,
+  "engine_power_hp": 86,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 73,
+  "pto_tested_hp": 75.6,
+  "drawbar_tested_hp": 51.4,
+  "weight_kg": 3480,
+  "weight_basis": "4WD ROPS",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 30.1,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 18.4R34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "14.9R24",
+    "radial": true,
+    "width_mm": 378,
+    "rim_in": 24,
+    "diameter_mm_est": 1253,
+    "tipo": "Radial",
+    "texto": "14.9R24"
+  },
+  "fuel_consumption_lph": 16.7,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F008/8861/8861-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F008/8861/8861-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td8861.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2015 - 2027",
+          "__seccion_2__": "Model year 2015-2025 2026-2027",
+          "__seccion_3__": "Farmall C Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH (a part of CNH)",
+          "__seccion_2__": "Utility tractor",
+          "Original price": "$50,906 (2016 mech-shuttle ROPS 2WD)",
+          "__seccion_3__": "$74,557 (2016 Hi-Lo Cab 4WD)"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "PowerStar 90": "similar New Holland model"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 90C Engine",
+          "__seccion_2__": "FPT 3.4L 4-cyl diesel",
+          "Fuel tank": "30.3 gal 114.7 L",
+          "Exhaust fluid (DEF)": "2.8 gal 10.6 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 90C Transmissions",
+          "__seccion_2__": "12-speed mechanical shuttle",
+          "__seccion_3__": "12-speed power shuttle",
+          "__seccion_4__": "24-speed",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 90C Power",
+          "Engine (gross)": "86 hp 64.1 kW",
+          "PTO (claimed)": "73 hp 54.4 kW",
+          "Drawbar (tested)": "51.4 hp 38.3 kW",
+          "PTO (tested)": "75.6 hp 56.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH Farmall 90C photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "2 or 3",
+          "Pump flow": "16..9 gpm 60.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "top link draft sensing",
+          "Rear lift (at 24\"/610mm)": "4339 lbs 1968 kg",
+          "&nbsp": "5620 lbs Opt Optional 2549 kg",
+          "Rear Arms": "telescopic link ends",
+          "Drawbar": "swinging extendable drawbar"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1957",
+          "&nbsp": "1000@2125"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "92.2 inches 234 cm",
+          "4WD Wheelbase": "90 inches 228 cm",
+          "Weight": "6989 to 8157 pounds",
+          "Front tire": "7.50x16",
+          "2WD Rear tire": "16.9R30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 90C attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Farmall C Series Tractor Specifications published in 2015, by CaseIH",
+          "__seccion_3__": "Farmall Utility Series Tractors published in 2021, by CaseIH",
+          "__seccion_4__": "Farmall Utility Series Tractors published in 2022, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on March 14, 2026"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2015 - 2027",
+          "__seccion_2__": "Model year 2015-2025 2026-2027",
+          "__seccion_3__": "Farmall C Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 90C Tires",
+          "2WD Standard tires (ag)": "Front: 7.50x16. Rear: 16.9R30",
+          "4WD Standard tires (ag)": "Front: 14.9R24. Rear: 18.4R34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "92.2 inches 234 cm",
+          "4WD Wheelbase": "90 inches 228 cm",
+          "2WD Length": "163.1 inches 414 cm",
+          "4WD Length": "160.1 inches 406 cm",
+          "Width": "75.7 inches 192 cm",
+          "Height (ROPS)": "106.5 inches 270 cm",
+          "Height (cab)": "102.1 inches 259 cm",
+          "__seccion_2__": "Flange rear axle"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 90C Weight",
+          "2WD ROPS": "6989 lbs 3170 kg",
+          "4WD ROPS": "7672 lbs 3480 kg",
+          "2WD Cab": "7474 lbs 3390 kg",
+          "4WD Cab": "8157 lbs 3700 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 14, 2026"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2015 - 2027",
+          "__seccion_2__": "Model year 2015-2025 2026-2027",
+          "__seccion_3__": "Farmall C Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 3002"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 3002",
+          "__seccion_2__": "Diesel 12-speed 4WD April 2016 - 2016, Link: OCED Tractor Test 3002 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "51.4 hp 38.3 kW",
+          "Fuel use": "4.3 gal/hour 16.3 l/hour",
+          "Power at rated engine speed": "66.6 hp 49.7 kW",
+          "Power at rated PTO speed": "75.6 hp 56.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 3M used for power test.",
+          "Max pull": "6765 lbs 3068 kg",
+          "__seccion_6__": "Gear 2M used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 14, 2026"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2015 - 2027",
+          "__seccion_2__": "Model year 2015-2025 2026-2027",
+          "__seccion_3__": "Farmall C Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT",
+          "__seccion_3__": "wastegate turbocharged and aftercooled diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "206.7 ci 3.4 L",
+          "Bore/Stroke": "3.90x4.33 inches 99 x 110 mm",
+          "Emissions": "Tier IV",
+          "Emission control": "selective catalytic reduction with cooled exhaust-gas recirculation (SCR)",
+          "Power (gross)": "86 hp 64.1 kW",
+          "Fuel system": "high pressure common rail electronic direct injection",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 14, 2026"
+        }
+      ]
+    }
+  }
+}

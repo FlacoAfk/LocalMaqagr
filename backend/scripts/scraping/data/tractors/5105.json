@@ -1,0 +1,253 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/1/0/5105-ji-case-310-b.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/1/0/5105-ji-case-310-b-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/1/0/5105-ji-case-310-b-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 5105,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:08:37.416Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5105/5105-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 800px/q55 → 61 KB"
+  },
+  "tractor_data_id": 5105,
+  "name": "J.I. Case 310-B",
+  "brand": "J.I. Case",
+  "model": "310 B",
+  "years": {
+    "desde": 1958,
+    "hasta": 1959
+  },
+  "model_year": 1958,
+  "engine_power_hp": 37,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 37,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1323,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 13.6,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 11-24",
+  "tire_width_mm": 279,
+  "tire_diameter_mm": 1085,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F005/5105/5105-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5105/5105-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td5105.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1958 - 1959",
+          "__seccion_2__": "300B Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Rock Island, Illinois, USA"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "300B": "diesel utility",
+          "301B": "diesel row-crop",
+          "302B": "diesel high-crop",
+          "310B": "gasoline utility",
+          "311B": "gasoline row-crop",
+          "312B": "gasoline high-crop",
+          "320B": "industrial"
+        },
+        {
+          "__seccion_1__": "J.I. Case 310-B Engine",
+          "__seccion_2__": "J.I. Case 2.4L 4-cyl gasoline",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 310-B Transmissions",
+          "__seccion_2__": "4-speed gear",
+          "__seccion_3__": "12-speed gear",
+          "__seccion_4__": "8-speed shuttle",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 310-B Power",
+          "PTO (claimed)": "37 hp 27.6 kW",
+          "Plows": "3"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential mechanical dry disc brakes",
+          "__seccion_5__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "J.I. Case 310-B photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "13 gal 49.2 L",
+          "Hydraulic system": "3 gal 11.4 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "3 gal 11.4 L",
+          "Pressure": "1200 psi 82.7 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Type": "Eagle Hitch"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "continuous",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "533@1750"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "75.25 inches 191 cm",
+          "Weight": "2918 lbs 1323 kg",
+          "Front tire": "6.00-16",
+          "Rear tire": "11-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 310-B attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "310-B Serial Number Location",
+          "__seccion_2__": "Serial number plate on the left side of the tractor's instrument panel."
+        },
+        {
+          "1958": "6095001",
+          "1959": "6120001",
+          "__seccion_1__": "310-B Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Belt Pulley",
+          "Diameter": "9.25 inches 23 cm",
+          "Width": "6.375 inches 16 cm",
+          "RPM": "1290",
+          "Speed": "3125 ft/min 952.50 meters/min"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive",
+          "Charging system": "generator",
+          "Battery volts": "12",
+          "Battery AH": "50"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operator's Instruction Manual 300B and 400B Series Wheel Tractors (9-471) published in 1958",
+          "__seccion_3__": "300B-400B Tractors Operator's Manual (9-472) published in 1958",
+          "__seccion_4__": "J.I. Case presents published in 1957"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 13, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1958 - 1959",
+          "__seccion_2__": "300B Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "J.I. Case 310-B Tires",
+          "Ag front": "7.50-16",
+          "Ag rear": "10-24",
+          "&nbsp": "13-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "75.25 inches 191 cm",
+          "Length": "130.75 inches 332 cm",
+          "Width": "61.675 inches 156 cm",
+          "Height (steering wheel)": "55.5 inches 140 cm",
+          "Weight": "2918 lbs 1323 kg",
+          "Front tread": "47.5 inches 120 cm",
+          "Rear tread": "48 to 68 inches 121 to 172 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 13, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1958 - 1959",
+          "__seccion_2__": "300B Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "J.I. Case",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "148 ci 2.4 L",
+          "Bore/Stroke": "3.375x4.125 inches 86 x 105 mm",
+          "Fuel system": "carburetor",
+          "Air cleaner": "oil bath",
+          "Compression": "7.1:1",
+          "Rated RPM": "1900",
+          "Idle RPM": "500-2050",
+          "Firing order": "1-3-4-2",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Coolant capacity": "13 qts 12.3 L",
+          "Sparkplug": "Champion D-16",
+          "Sparkplug gap": "0.025 inches 0.635 mm",
+          "Intake valve clearance": "0.014 inches (cold) 0.356 mm",
+          "Exhaust valve clearance": "0.014 inches (cold) 0.356 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "5 qts 4.7 L",
+          "Oil change": "100 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 13, 2025"
+        }
+      ]
+    }
+  }
+}

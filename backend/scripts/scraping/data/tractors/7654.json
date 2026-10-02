@@ -1,0 +1,213 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/6/5/7654-kubota-m126gx.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/6/5/7654-kubota-m126gx-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/6/5/7654-kubota-m126gx-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 7654,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:00:42.472Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7654/7654-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 37 KB"
+  },
+  "tractor_data_id": 7654,
+  "name": "Kubota M126GX",
+  "brand": "Kubota",
+  "model": "M126GX",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 125,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 108,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4705,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 39.6,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 18.4R38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "14.9R24",
+    "radial": true,
+    "width_mm": 378,
+    "rim_in": 24,
+    "diameter_mm_est": 1253,
+    "tipo": "Radial",
+    "texto": "14.9R24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7654/7654-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7654/7654-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td7654.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2012 -",
+          "__seccion_2__": "Grand X Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Original price was $78,152 in 2014"
+        },
+        {
+          "__seccion_1__": "Kubota M126GX Engine",
+          "__seccion_2__": "Kubota 6.1L 4-cyl diesel",
+          "Fuel tank": "50.2 gal 190.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M126GX Transmissions",
+          "__seccion_2__": "24-speed eight-speed power shift",
+          "__seccion_3__": "32-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M126GX Power",
+          "Engine": "125 hp 93.2 kW",
+          "PTO (claimed)": "108 hp 80.5 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "electro-hydraulic front and rear",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Grand X Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota M126GX photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Valves": "2 to 4",
+          "Pump flow": "18.7 gpm 70.8 lpm",
+          "Steering flow": "16 gpm 60.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "electronic lower-link draft control",
+          "Rear lift (at 24\"/610mm)": "6834 lbs 3099 kg",
+          "&nbsp": "9447 lbs (optional) 4285 kg",
+          "Rear Arms": "telescopic lower link ends"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "105.9 inches 268 cm",
+          "Weight": "10373 lbs 4705 kg",
+          "Front tire": "14.9R24",
+          "Rear tire": "18.4R38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota M126GX attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "80",
+          "Battery CCA": "1090",
+          "Battery volts": "12",
+          "Battery AH": "160"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 2, 2019"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2012 -",
+          "__seccion_2__": "Grand X Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M126GX Tires",
+          "Ag front": "14.9R24",
+          "Ag rear": "18.4R38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "105.9 inches 268 cm",
+          "Length": "171.7 inches 436 cm",
+          "Width": "85.8 inches 217 cm",
+          "Height": "113.2 inches 287 cm",
+          "Weight": "10373 lbs 4705 kg",
+          "Ground clearance": "22.2 inches 56 cm",
+          "Front axle": "4WD",
+          "Front tread": "69.9 to 73.8 inches 177 to 187 cm",
+          "Rear tread": "62.6 to 82.3 inches 159 to 209 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 2, 2019"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2012 -",
+          "__seccion_2__": "Grand X Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V6108-TI-CRS",
+          "__seccion_3__": "turbocharged and intercooled diesel",
+          "__seccion_4__": "4-cylinder 16-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "374 ci 6.1 L",
+          "Bore/Stroke": "4.65x5.51 inches 118 x 140 mm",
+          "Emissions": "Interim Tier IV",
+          "Emission control": "exhaust gas recirculation and diesel particulate filter (DPF) (EGR)",
+          "Power": "125 hp 93.2 kW",
+          "Fuel system": "common rail direct injection",
+          "Air cleaner": "dual dry element",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 2, 2019"
+        }
+      ]
+    }
+  }
+}

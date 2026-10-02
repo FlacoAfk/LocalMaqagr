@@ -1,0 +1,224 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/1/5/1150-caseih-485.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/1/5/1150-caseih-485-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/1/5/1150-caseih-485-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1150,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:33:55.579Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1150/1150-photo-001-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 99 KB"
+  },
+  "tractor_data_id": 1150,
+  "name": "CaseIH 485",
+  "brand": "CaseIH",
+  "model": "485",
+  "years": {
+    "desde": 1985,
+    "hasta": 1991
+  },
+  "model_year": 1985,
+  "engine_power_hp": 53,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 43,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2358,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 15.8,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 13.6-28",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1298,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1150/1150-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1150/1150-photo-001-ext090.jpg",
+  "image_url": "/uploads/tractors/td1150.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1985 - 1991",
+          "__seccion_2__": "85 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Doncaster, England",
+          "Original price": "$16,000 (1990)"
+        },
+        {
+          "485": "utility",
+          "__seccion_1__": "Variants",
+          "485-O": "orchard"
+        },
+        {
+          "__seccion_1__": "CaseIH 485 Engine",
+          "__seccion_2__": "CaseIH 2.9L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 485 Transmissions",
+          "__seccion_2__": "8-speed synchromesh",
+          "__seccion_3__": "16-speed partial power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 485 Power",
+          "Engine": "53 hp 39.5 kW",
+          "Drawbar (claimed)": "36.7 hp 27.4 kW",
+          "PTO (claimed)": "43 hp 32.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH 485 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "20 gal 75.7 L",
+          "Hydraulic system": "9 gal 34.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "9 gal 34.1 L",
+          "Valves": "1 or 2",
+          "Pump flow": "15.9 gpm 60.2 lpm",
+          "&nbsp": "17 gpm (optional) 64.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I,II",
+          "Rear lift": "2,338 lbs 1060 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "79.6 inches 202 cm",
+          "Weight": "5,200 lbs 2358 kg",
+          "Front tire": "6.00-16",
+          "Rear tire": "13.6-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "485 Serial Number Location",
+          "__seccion_2__": "Near front axle on right."
+        },
+        {
+          "1985": "15000",
+          "1986": "18000",
+          "1987": "19057",
+          "1988": "21250",
+          "1989": "23490",
+          "1990": "24938",
+          "1991": "26386",
+          "__seccion_1__": "485 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "45"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "85 Series published in 1985, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on September 3, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1985 - 1991",
+          "__seccion_2__": "85 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH 485 Tires",
+          "Ag front": "6.00-16",
+          "Ag rear": "13.6-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "79.6 inches 202 cm",
+          "Length": "141.6 inches 359 cm",
+          "Width": "73.2 inches 185 cm",
+          "Height": "93.5 inches 237 cm",
+          "Shipping weight": "5,200 lbs 2358 kg",
+          "Max weight": "10,150 lbs 4604 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 3, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1985 - 1991",
+          "__seccion_2__": "85 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CaseIH D-179",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "179 ci 2.9 L",
+          "Bore/Stroke": "3.88x5.06 inches 99 x 129 mm",
+          "Power": "53 hp 39.5 kW",
+          "Compression": "15:1",
+          "Rated RPM": "2200",
+          "Torque": "134.2 lb-ft 182.0 Nm",
+          "Torque RPM": "1400"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 3, 2024"
+        }
+      ]
+    }
+  }
+}

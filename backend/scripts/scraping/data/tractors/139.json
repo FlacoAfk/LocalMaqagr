@@ -1,0 +1,279 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/3/139-john-deere-2955.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/3/139-john-deere-2955-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/1/3/139-john-deere-2955-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/3/139-john-deere-2955-engine.html",
+    "source_id": 139,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:49:50.228Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/139/139-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 73 KB"
+  },
+  "tractor_data_id": 139,
+  "name": "John Deere 2955",
+  "brand": "John Deere",
+  "model": "2955",
+  "years": {
+    "desde": 1987,
+    "hasta": 1992
+  },
+  "model_year": 1987,
+  "engine_power_hp": 97,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 85,
+  "pto_tested_hp": 86.22,
+  "drawbar_tested_hp": 72.99,
+  "weight_kg": 3713,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 44.3,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 15.5-38",
+  "tire_width_mm": 394,
+  "tire_diameter_mm": 1634,
+  "tire_front": null,
+  "fuel_consumption_lph": 18.9,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/139/139-td3a.jpg",
+  "image_url": "/uploads/tractors/td139.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1987 - 1992",
+          "__seccion_2__": "55 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany",
+          "__seccion_4__": "Original price was $39,000 in 1992"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "High-crop": "high-clearance"
+        },
+        {
+          "__seccion_1__": "John Deere 2955 Engine",
+          "__seccion_2__": "John Deere 5.9L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2955 Transmissions",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "16-speed partial power shift",
+          "__seccion_4__": "12-speed",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2955 Power",
+          "Engine": "97 hp 72.3 kW",
+          "Drawbar (claimed)": "74.2 hp 55.3 kW",
+          "PTO (claimed)": "85 hp 63.4 kW",
+          "Drawbar (tested)": "72.99 hp 54.4 kW",
+          "PTO (tested)": "86.22 hp 64.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Roll-Gard ROPS. Optional Sound-Gard cab."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 2955 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "32 gal 121.1 L",
+          "Hydraulic system": "11.9 gal 45.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "11.9 gal 45.0 L",
+          "Valves": "1 to 3",
+          "Total flow": "21 gpm 79.5 lpm",
+          "Steering press.": "2320 psi 160.0 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "5235 lbs 2374 kg",
+          "Front Hitch": "II Opt Optional",
+          "Front lift": "3372 lbs 1529 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Front PTO": "independent Opt Optional",
+          "Front PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "102 inches 259 cm",
+          "Weight": "8186 to 10845 pounds",
+          "Rear tire": "18.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2955 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "2955 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the tractor frame, above the front axle."
+        },
+        {
+          "1987": "600000",
+          "1988": "624800",
+          "1989": "652968",
+          "1990": "685843",
+          "1991": "718292",
+          "1992": "742062",
+          "__seccion_1__": "2955 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "55",
+          "Cab Charging amps": "85",
+          "Batteries": "2",
+          "Battery CCA": "600",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Questions",
+          "__seccion_2__": "I'm looking at two different 148 loaders. One comes off a 4440, one comes off a 3020. I have a 2955. What kind of issues am I looking at with the mounts. Do either of these tractors have the same size as my 2955? The 3020 and 4440 used the same mounts, but the mount would have been trimmed for the 3020. For your 2955 you need the utility tractor mounting brackets: AW20617 and AW20618.",
+          "__seccion_3__": "Email: Peter@TractorData.com"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Powerful Pickups published in 1990, by John Deere",
+          "__seccion_3__": "Tractors 40 to 85 HP published in 1986, by John Deere",
+          "__seccion_4__": "Tractors 40 to 95 HP published in 1988, by John Deere",
+          "__seccion_5__": "Task Masters published in 1990, by John Deere",
+          "__seccion_6__": "Task Masters published in 1991, by John Deere",
+          "__seccion_7__": "40 to 100 HP Tractors Product Information Handbook published in 1987, by John Deere",
+          "__seccion_8__": "40 to 100 HP Tractors Product Information Handbook published in 1988, by John Deere",
+          "__seccion_9__": "40 to 100 HP Tractors Product Information Handbook published in 1991, by John Deere",
+          "__seccion_10__": "The 1991 Long Green Line Agricultural Equipment Review published by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on September 10, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1987 - 1992",
+          "__seccion_2__": "55 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 2955 Tires",
+          "Ag rear": "18.4-38",
+          "&nbsp": "16.9-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "102 inches 259 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 2955 Weight",
+          "Shipping": "8186 lbs (2WD ROPS) 3713 kg",
+          "&nbsp": "9316 lbs (4WD cab) 4225 kg",
+          "Operating": "10845 lbs (4WD cab) 4919 kg",
+          "Ballasted": "11150 lbs 5057 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 10, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1987 - 1992",
+          "__seccion_2__": "55 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1606"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1606",
+          "__seccion_2__": "Diesel 16-speed 4WD November 10 - 20, 1986 Link: Nebraska Tractor Test 1606 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "86.22 hp 64.3 kW",
+          "Fuel use": "4.9 gal/hour 18.5 l/hour",
+          "Power at rated PTO speed": "85.54 hp 63.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "72.99 hp 54.4 kW",
+          "__seccion_5__": "Gear 5H used for power test.",
+          "Max pull": "9971 lbs 4522 kg",
+          "__seccion_6__": "Gear 3L used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 10, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1987 - 1992",
+          "__seccion_2__": "55 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "359 ci 5.9 L",
+          "Bore/Stroke": "4.19x4.33 inches 106 x 110 mm",
+          "Power": "97 hp 72.3 kW",
+          "Air cleaner": "two paper elements",
+          "Compression": "17.8:1",
+          "Rated RPM": "2300",
+          "Starter volts": "12",
+          "Oil capacity": "12.2 qts 11.5 L",
+          "Coolant capacity": "18 qts 17.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 10, 2025"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/139/139-td4-b01-ext000.jpg"
+}

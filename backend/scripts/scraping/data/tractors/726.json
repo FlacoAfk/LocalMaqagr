@@ -1,0 +1,233 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/7/2/726-massey-ferguson-25.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/7/2/726-massey-ferguson-25-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/7/2/726-massey-ferguson-25-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/7/2/726-massey-ferguson-25-engine.html",
+    "source_id": 726,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:22:22.877Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/726/726-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 101 KB"
+  },
+  "tractor_data_id": 726,
+  "name": "Massey Ferguson 25",
+  "brand": "Massey Ferguson",
+  "model": "25",
+  "years": {
+    "desde": 1963,
+    "hasta": 1965
+  },
+  "model_year": 1963,
+  "engine_power_hp": 25,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 24,
+  "pto_tested_hp": 24.39,
+  "drawbar_tested_hp": 20.06,
+  "weight_kg": 1412,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 14.1,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 10-28",
+  "tire_width_mm": 254,
+  "tire_diameter_mm": 1143,
+  "tire_front": {
+    "original": "5.50-16",
+    "radial": false,
+    "width_mm": 140,
+    "rim_in": 16,
+    "diameter_mm_est": 644,
+    "tipo": "Diagonal",
+    "texto": "5.50-16"
+  },
+  "fuel_consumption_lph": 6.4,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/726/726-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/726/726-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td726.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1963 - 1965",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Beauvais, France",
+          "__seccion_4__": "Original price was $2,545 in 1965",
+          "__seccion_5__": "The Massey Ferguson 825 is the designation for the version of the model 25 sold in France."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 25 Engine",
+          "__seccion_2__": "Perkins 1.8L 4-cyl diesel",
+          "Fuel tank": "12 gal 45.4 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 25 Transmission",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 25 Power",
+          "Engine": "25 hp 18.6 kW",
+          "PTO (claimed)": "24 hp 17.9 kW",
+          "Plows": "2",
+          "Drawbar (tested)": "20.06 hp 15.0 kW",
+          "PTO (tested)": "24.39 hp 18.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Mechanical drum brakes",
+          "__seccion_5__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 25 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2000 psi 137.9 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live * Two-stage foot clutch.",
+          "Clutch": "228.6mm dry disc",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1890"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "72 inches 182 cm",
+          "Weight": "2600 to 3115 pounds",
+          "Front tire": "5.50-16",
+          "Rear tire": "10-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "25 Serial Numbers",
+          "Location:": "Serial number plate on tractor's dashboard."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF 25 Diesel Tractor published in 1963, by Massey Ferguson",
+          "__seccion_3__": "Installation & Operation of Basic & Auxiliary Hydraulic Systems (690 562 M2) published in 1968"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on October 16, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1963 - 1965",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 25 Tires",
+          "Ag front": "5.50-16",
+          "Ag rear": "10-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "72 inches 182 cm",
+          "Height (steering wheel)": "56 inches 142 cm",
+          "Height (hood)": "50 inches 127 cm",
+          "Weight": "3115 lbs 1412 kg",
+          "Shipping weight": "2600 lbs 1179 kg",
+          "Clearance (front axle)": "20 inches 50 cm",
+          "Clearance (rear axle)": "19 inches 48 cm",
+          "Front tread": "48 to 72 inches 121 to 182 cm",
+          "Rear tread": "48 to 76 inches 121 to 193 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 16, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1963 - 1965",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 854"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 854",
+          "__seccion_2__": "Diesel 8-speed 2WD October 11 - 16, 1963 Link: Nebraska Tractor Test 854 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "24.39 hp 18.2 kW",
+          "Fuel use": "1.6 gal/hour 6.1 l/hour",
+          "Power at rated PTO speed": "23.79 hp 17.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "20.06 hp 15.0 kW",
+          "__seccion_5__": "Gear 5 used for power test.",
+          "Max pull": "3178 lbs 1441 kg",
+          "__seccion_6__": "Gear 3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 16, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1963 - 1965",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A4-107",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "107 ci 1.8 L",
+          "Bore/Stroke": "3.125x3.50 inches 79 x 89 mm",
+          "Power": "25 hp 18.6 kW",
+          "Air cleaner": "oil bath",
+          "Compression": "22.5:1",
+          "Rated RPM": "2000",
+          "Torque": "75 lb-ft 101.7 Nm",
+          "Torque RPM": "1200",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 16, 2025"
+        }
+      ]
+    }
+  }
+}

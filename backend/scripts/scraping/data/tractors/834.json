@@ -1,0 +1,229 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/3/834-massey-ferguson-1160.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/3/834-massey-ferguson-1160-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/3/834-massey-ferguson-1160-engine.html",
+    "source_id": 834,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:26:24.719Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/834/834-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 137 KB"
+  },
+  "tractor_data_id": 834,
+  "name": "Massey Ferguson 1160",
+  "brand": "Massey Ferguson",
+  "model": "1160",
+  "years": {
+    "desde": 1992,
+    "hasta": 1999
+  },
+  "model_year": 1992,
+  "engine_power_hp": 41,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 37,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1745,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 13.6,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/834/834-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/834/834-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td834.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1992 - 1999",
+          "__seccion_2__": "1100 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Original price was $24,700 in 1999"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "TA417": "similar Iseki model"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1160 Engine",
+          "__seccion_2__": "Isuzu 2.2L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1160 Transmission",
+          "__seccion_2__": "16-speed synchronized shuttle",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1160 Power",
+          "Engine": "41 hp 30.6 kW",
+          "PTO (claimed)": "37 hp 27.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "power",
+          "__seccion_3__": "Mechanical wet disc brakes",
+          "__seccion_4__": "Two-post fixed ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 1160 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "12.7 gal 48.1 L",
+          "Hydraulic system": "7.7 gal 29.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "7.7 gal 29.1 L",
+          "Pressure": "2275 psi 156.9 bar",
+          "Valves": "0 to 2",
+          "Pump flow": "8.2 gpm 31.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "draft, position, and response control",
+          "Rear lift (at ends)": "3086 lbs 1399 kg",
+          "Rear lift (at 24\"/610mm)": "2600 lbs 1179 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "74.8 inches 189 cm",
+          "Weight": "3848 lbs 1745 kg",
+          "Front tire": "9.5x16",
+          "Rear tire": "13.6x28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1160 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1992": "A70101",
+          "1993": "B70101",
+          "1994": "C00101",
+          "1995": "D00101",
+          "1996": "E00101",
+          "1997": "F01001",
+          "1998": "G01001",
+          "1999": "H01001",
+          "__seccion_1__": "1160 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "45",
+          "Battery CCA": "662",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF 1100 Series published in 1995, by Massey Ferguson",
+          "__seccion_3__": "1160 published in 1991, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 5, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1992 - 1999",
+          "__seccion_2__": "1100 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1160 Tires",
+          "Ag front": "9.5x16",
+          "Ag rear": "13.6x28",
+          "Lawn/turf front": "212/80D-15",
+          "Lawn/turf rear": "475/65D-20"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "74.8 inches 189 cm",
+          "Length": "130 inches 330 cm",
+          "Width": "58.7 inches 149 cm",
+          "Height (ROPS)": "89 inches 226 cm",
+          "Shipping weight": "3848 lbs 1745 kg",
+          "Ground clearance": "12 inches 30 cm",
+          "Front tread": "50.3 inches 127 cm",
+          "Rear tread": "45.6 to 57.9 inches 115 to 147 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 5, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1992 - 1999",
+          "__seccion_2__": "1100 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Isuzu 4JC1",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "136.5 ci 2.2 L",
+          "Bore/Stroke": "3.465x3.622 inches 88 x 92 mm",
+          "Power": "41 hp 30.6 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dual dry element",
+          "Pre-heating": "glow plugs",
+          "Rated RPM": "2500",
+          "Torque": "183 lb-ft 248.1 Nm",
+          "Torque RPM": "1600",
+          "Starter volts": "12",
+          "Coolant capacity": "9.6 qts 9.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 5, 2023"
+        }
+      ]
+    }
+  }
+}

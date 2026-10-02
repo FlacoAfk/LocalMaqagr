@@ -1,0 +1,227 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/004/0/7/4077-john-deere-3045b.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/004/0/7/4077-john-deere-3045b-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/004/0/7/4077-john-deere-3045b-engine.html",
+    "source_id": 4077,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:42:05.206Z",
+    "foto_original": "https://www.tractordata.com/photos/F004/4077/4077-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 4077,
+  "name": "John Deere 3045B",
+  "brand": "John Deere",
+  "model": "3045B",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 45,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 38.2,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1999,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 14,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 11.2-28",
+  "tire_width_mm": 284,
+  "tire_diameter_mm": 1195,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F004/4077/4077-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td4077.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2018 -",
+          "__seccion_2__": "3B Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Ningbo, China"
+        },
+        {
+          "__seccion_1__": "John Deere 3045B Engine",
+          "__seccion_2__": "XinChai 3.0L 4-cyl diesel",
+          "Fuel tank": "17.4 gal 65.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3045B Transmission",
+          "__seccion_2__": "12-speed mechanical shuttle",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3045B Power",
+          "Engine": "45 hp 33.6 kW",
+          "PTO (claimed)": "38.2 hp 28.5 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical disc brakes",
+          "Trailer brakes": "pneumatic Opt Optional",
+          "__seccion_5__": "Two-post folding ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 3045B are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2321 psi 160.0 bar",
+          "Rear valves": "1 or 2",
+          "Pump flow": "5.4 gpm 20.4 lpm",
+          "Total flow": "7 gpm 26.5 lpm",
+          "Steering flow": "1.6 gpm 6.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at ends)": "2381 lbs 1080 kg",
+          "Rear lift (at 24\"/610mm)": "2046 lbs 928 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "dry disc",
+          "Rear PTO Type": "540/720 (38mm 8-spline)",
+          "&nbsp": "720@2020",
+          "Engine RPM": "540@1970"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "77.2 inches 196 cm",
+          "Weight": "4409 lbs 1999 kg",
+          "Front tire": "7.50-16",
+          "Rear tire": "11.2-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "3045B Serial Numbers",
+          "Location:": "Serial number plate on the left side of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging volts": "14",
+          "Battery volts": "12",
+          "Battery AH": "90"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "3B Series Tractors published in 2018, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 7, 2020",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2018 -",
+          "__seccion_2__": "3B Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 3045B Tires",
+          "Standard tires (ag)": "Front: 7.50-16. Rear: 11.2-28",
+          "Optional tires (ag)": "Front: 7.50-16. Rear: 12.4-28",
+          "&nbsp": "Front: 7.50-16. Rear: 11-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "77.2 inches 196 cm",
+          "Length": "140.6 inches 357 cm",
+          "Width": "69.7 inches 177 cm",
+          "Height (ROPS)": "95.3 inches 242 cm",
+          "Height (exhaust)": "82.7 inches 210 cm",
+          "Weight": "4409 lbs 1999 kg",
+          "Max weight": "7716 lbs 3499 kg",
+          "Ground clearance": "12 inches 30 cm",
+          "Front tread": "51.2 inches 130 cm",
+          "Rear tread": "51.2 inches 130 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 7, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2018 -",
+          "__seccion_2__": "3B Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "XinChai A495BT-5",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder 8-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "181.7 ci 3.0 L",
+          "Bore/Stroke": "3.74x4.13 inches 95 x 105 mm",
+          "Emissions": "Tier II",
+          "Power": "45 hp 33.6 kW",
+          "Fuel system": "direct injection",
+          "Compression": "18.5:1",
+          "Rated RPM": "2300",
+          "Idle RPM": "750-2484",
+          "Torque": "121.6 lb-ft 164.9 Nm",
+          "Torque RPM": "1600",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "8.5 qts 8.0 L",
+          "Oil change": "250 h",
+          "Coolant capacity": "9.8 qts 9.3 L",
+          "Coolant change": "2000 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 7, 2020"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/5/7/579-new-holland-1215.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/5/7/579-new-holland-1215-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/5/7/579-new-holland-1215-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 579,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:19:16.272Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/579/579-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 38 KB"
+  },
+  "tractor_data_id": 579,
+  "name": "New Holland 1215",
+  "brand": "Shibaura",
+  "model": "holland 1215",
+  "years": {
+    "desde": 1996,
+    "hasta": 1998
+  },
+  "model_year": 1996,
+  "engine_power_hp": 16,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 13.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 616,
+  "weight_basis": "4WD Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 8x16",
+  "tire_width_mm": 203,
+  "tire_diameter_mm": 752,
+  "tire_front": {
+    "original": "5x12",
+    "radial": false,
+    "width_mm": 127,
+    "rim_in": 12,
+    "diameter_mm_est": 521,
+    "tipo": "Diagonal",
+    "texto": "5x12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": null,
+  "photo_url_large": "https://www.tractordata.com/photos/F000/579/579-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td579.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1996 - 1998",
+          "__seccion_2__": "15 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Note: the New Holland model 1215 is the same as the Ford 1215. The following data is from the 1215 listing."
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "New Holland",
+          "Manufacturer": "Shibaura",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan",
+          "__seccion_4__": "Original price was $9,000 in 1998"
+        },
+        {
+          "__seccion_1__": "New Holland 1215 Engine",
+          "__seccion_2__": "Shibaura 0.9L 3-cyl diesel",
+          "Fuel tank": "4.8 gal 18.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland 1215 Transmissions",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "6-speed gear",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland 1215 Power",
+          "Engine (gross)": "16 hp 11.9 kW",
+          "Engine (net)": "14 hp 10.4 kW",
+          "Gear PTO (claimed)": "13.5 hp 10.1 kW",
+          "Hydro PTO (claimed)": "13 hp 9.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post fixed ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland 1215 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "3.9 gpm 14.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at ends)": "1474 lbs 668 kg",
+          "Rear lift (at 24\"/610mm)": "1265 lbs 573 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Gear Rear PTO": "transmission",
+          "Hydro Rear PTO": "live",
+          "Rear PTO Type": "540",
+          "Mid PTO": "optional",
+          "Mid PTO Type": "2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "55.3 inches 140 cm",
+          "Weight": "1292 to 1360 pounds",
+          "Front tire": "4.00x12",
+          "2WD Rear tire": "8x16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "New Holland 1215 attachments",
+          "__seccion_2__": "48\" mid-mount mower deck",
+          "__seccion_3__": "60\" mid-mount mower deck",
+          "__seccion_4__": "snowblower",
+          "__seccion_5__": "blade",
+          "__seccion_6__": "front-end loader",
+          "__seccion_7__": "backhoe",
+          "__seccion_8__": "Attachment details ..."
+        },
+        {
+          "1993": "UA20001",
+          "1994": "UA20462",
+          "1995": "UA21150",
+          "1996": "UA21632",
+          "1997": "UA21874",
+          "1998": "UA22187",
+          "__seccion_1__": "1215 Serial Numbers",
+          "Location:": "transmission housing on left",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Compact Diesel Tractors published in 1996, by New Holland",
+          "__seccion_3__": "North American Buyer's Guide published in 1997, by New Holland"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 9, 2023",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1996 - 1998",
+          "__seccion_2__": "15 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Note: the New Holland model 1215 is the same as the Ford 1215. The following data is from the 1215 listing."
+        },
+        {
+          "__seccion_1__": "New Holland 1215 Tires",
+          "2WD Standard tires (ag)": "Front: 4.00x12. Rear: 8x16",
+          "4WD Standard tires (ag)": "Front: 5x12. Rear: 8x16"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "55.3 inches 140 cm",
+          "Length": "106.3 inches 270 cm",
+          "Width": "40.9 inches 103 cm",
+          "Height (ROPS)": "80.3 inches 203 cm",
+          "2WD Shipping weight": "1292 lbs 586 kg",
+          "4WD Shipping weight": "1360 lbs 616 kg",
+          "2WD Ground clearance": "10.1 inches 25 cm",
+          "4WD Ground clearance": "9.6 inches 24 cm",
+          "2WD Front tread": "33.6 to 35.4 inches 85 to 89 cm",
+          "4WD Front tread": "32.3 inches 82 cm",
+          "Rear tread": "33.5 to 39.3 inches 85 to 99 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 9, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1996 - 1998",
+          "__seccion_2__": "15 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Note: the New Holland model 1215 is the same as the Ford 1215. The following data is from the 1215 listing."
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibaura S723",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "53.6 ci 0.9 L",
+          "Bore/Stroke": "2.83x2.83 inches 72 x 72 mm",
+          "Power (net)": "14 hp 10.4 kW",
+          "Power (gross)": "16 hp 11.9 kW",
+          "Rated RPM": "2500",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 9, 2023"
+        }
+      ]
+    }
+  }
+}

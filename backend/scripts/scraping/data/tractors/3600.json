@@ -1,0 +1,172 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/6/0/3600-caseih-cs-58.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/6/0/3600-caseih-cs-58-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/6/0/3600-caseih-cs-58-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3600,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:41:20.672Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3600/3600-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 3600,
+  "name": "CaseIH CS 58",
+  "brand": "CaseIH",
+  "model": "CS 58",
+  "years": {
+    "desde": 1996,
+    "hasta": 2001
+  },
+  "model_year": 1996,
+  "engine_power_hp": 58,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2750,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 21.3,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 14.9R30",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1405,
+  "tire_front": {
+    "original": "340/75R20",
+    "radial": true,
+    "width_mm": 340,
+    "rim_in": 20,
+    "diameter_mm_est": 1018,
+    "tipo": "Radial",
+    "texto": "340/75R20"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3600/3600-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td3600.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1996 - 2001",
+          "__seccion_2__": "CS Series"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH"
+        },
+        {
+          "__seccion_1__": "CaseIH CS 58 Engine",
+          "__seccion_2__": "Perkins 2.7L 3-cyl diesel",
+          "Fuel tank": "19.3 gal 73.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH CS 58 Transmission",
+          "__seccion_2__": "16-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH CS 58 Power",
+          "Engine": "58 hp 43.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Disc brakes"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH CS 58 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Total flow": "10 gpm 37.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear lift": "5049.45 lbs 2290 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "430/540/ 750/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "83.5 inches 212 cm",
+          "Weight": "6,064 lbs 2750 kg",
+          "Front tire": "7.50-18",
+          "Rear tire": "14.9R30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 13, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1996 - 2001",
+          "__seccion_2__": "CS Series"
+        },
+        {
+          "__seccion_1__": "CaseIH CS 58 Tires",
+          "Ag front": "340/75R20",
+          "Ag rear": "14.9R30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "83.5 inches 212 cm",
+          "Length": "138.6 inches 352 cm",
+          "Height": "93.7 inches 237 cm",
+          "Weight": "6,064 lbs 2750 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 13, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1996 - 2001",
+          "__seccion_2__": "CS Series"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins 903.27T",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "3-cylinder",
+          "Displacement": "164.8 ci 2.7 L",
+          "Bore/Stroke": "3.74x5.00 inches 95 x 127 mm",
+          "Power": "58 hp 43.3 kW",
+          "Rated RPM": "2250",
+          "Torque": "164 lb-ft 222.4 Nm",
+          "Torque RPM": "1400"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 13, 2020"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/9/7/1975-fiat-450.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/9/7/1975-fiat-450-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/9/7/1975-fiat-450-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1975,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:13:03.141Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1975/1975-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 2 KB"
+  },
+  "tractor_data_id": 1975,
+  "name": "Fiat 450",
+  "brand": "Fiat",
+  "model": "450",
+  "years": {
+    "desde": 1968,
+    "hasta": 1981
+  },
+  "model_year": 1968,
+  "engine_power_hp": 45,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 36,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2195,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 13.2,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "7.50-20",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 20,
+    "diameter_mm_est": 832,
+    "tipo": "Diagonal",
+    "texto": "7.50-20"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1975/1975-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td1975.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1968 - 1981"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Fiat"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "450DT": "4WD"
+        },
+        {
+          "__seccion_1__": "Fiat 450 Engine",
+          "__seccion_2__": "Fiat 2.3L 3-cyl diesel",
+          "Fuel tank": "14.3 gal 54.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 450 Transmissions",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "9-speed partically synchronized",
+          "__seccion_4__": "12-speed creeper",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 450 Power",
+          "Engine": "45 hp 33.6 kW",
+          "PTO (claimed)": "36 hp 26.8 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "Steering": "power Opt Optional",
+          "__seccion_3__": "Mechanical band brakes",
+          "__seccion_4__": "Open operator station. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Fiat 450 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2135 psi 147.2 bar",
+          "Pump flow": "5.76 gpm 21.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position and draft control",
+          "Rear lift (at ends)": "3086 lbs 1399 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1970"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "77 inches 195 cm",
+          "Weight": "3880 to 4840 pounds",
+          "Front tire": "6.00-16",
+          "2WD Rear tire": "12.4/11-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "450 published in 1976, by Fiat",
+          "__seccion_3__": "450 DT published in 1970, by Fiat",
+          "__seccion_4__": "450 Vigneto published in 1971, by Fiat"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 27, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1968 - 1981"
+        },
+        {
+          "__seccion_1__": "Fiat 450 Tires",
+          "2WD Standard tires (ag)": "Front: 6.00-16. Rear: 12.4/11-28",
+          "4WD Standard tires (ag)": "Front: 7.50-20. Rear: 12.4/11-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "77 inches 195 cm",
+          "Length": "123.6 inches 313 cm",
+          "2WD Weight": "3880 lbs 1759 kg",
+          "4WD Weight": "4840 lbs 2195 kg",
+          "2WD Clearance (front axle)": "18.25 inches 46 cm",
+          "4WD Clearance (front axle)": "11.25 inches 28 cm",
+          "2WD Front tread": "50/54/58/62/66/70/74 inches 127/137/147/157/167/177/187 cm",
+          "4WD Front tread": "56.25 inches 142 cm",
+          "Rear tread": "52/56/60/64/68/72/76 inches 132/142/152/162/172/182/193 cm"
+        },
+        {
+          "__seccion_1__": "Fiat 450 Height",
+          "Steering wheel": "57.625 inches 146 cm",
+          "Hood": "54.125 inches 137 cm",
+          "Cab": "86.25 inches 219 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 27, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1968 - 1981"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Fiat 8035",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "142.8 ci 2.3 L",
+          "Bore/Stroke": "3.74x4.33 inches 95 x 110 mm",
+          "Power": "45 hp 33.6 kW",
+          "Compression": "17:1",
+          "Rated RPM": "2400",
+          "Torque": "115 lb-ft 155.9 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12",
+          "Starter power": "4 hp 3.0 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 27, 2023"
+        }
+      ]
+    }
+  }
+}

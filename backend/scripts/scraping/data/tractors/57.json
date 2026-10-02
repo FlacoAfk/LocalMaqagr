@@ -1,0 +1,278 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/5/57-john-deere-1010c.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/5/57-john-deere-1010c-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/5/57-john-deere-1010c-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/5/57-john-deere-1010c-engine.html",
+    "source_id": 57,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:45:24.453Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/57/57-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 135 KB",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1391/",
+    "nebraska_test": 798
+  },
+  "tractor_data_id": 57,
+  "name": "John Deere 1010C",
+  "brand": "John Deere",
+  "model": "1010C",
+  "years": {
+    "desde": 1960,
+    "hasta": 1964
+  },
+  "model_year": 1960,
+  "engine_power_hp": 35,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 35,
+  "pto_tested_hp": 36.31,
+  "drawbar_tested_hp": 28.71,
+  "weight_kg": 3438,
+  "weight_basis": "Operating weight",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 33.3,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 9.8,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/57/57-td3a.jpg",
+  "image_url": "/uploads/tractors/td57.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1960 - 1964",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Agricultural Crawler tractor",
+          "__seccion_3__": "Built in Dubuque, Iowa, USA",
+          "Total built": "506 (total)",
+          "&nbsp": "127 (diesel)"
+        },
+        {
+          "1010": "farm tractor",
+          "__seccion_1__": "Variants",
+          "1010C Ag": "farm crawler",
+          "1010W": "industrial tractor",
+          "1010C": "industrial crawler"
+        },
+        {
+          "__seccion_1__": "John Deere 1010C Engines",
+          "__seccion_2__": "John Deere 1.9L 4-cyl gasoline",
+          "__seccion_3__": "John Deere 2.4L 4-cyl diesel",
+          "Fuel tank": "12 gal 45.4 L",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 1010C Transmission",
+          "__seccion_2__": "4-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 1010C Power",
+          "PTO (claimed)": "35 hp 26.1 kW",
+          "Plows": "4",
+          "Drawbar (tested)": "28.71 hp 21.4 kW",
+          "PTO (tested)": "36.31 hp 27.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "crawler",
+          "Steering": "multiple disc clutch and brake",
+          "__seccion_2__": "Mechancial contracting band brakes",
+          "__seccion_3__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 1010C photos..."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I Opt Optional"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tracks",
+          "Weight": "7,580 lbs 3438 kg",
+          "__seccion_2__": "12-inch tracks",
+          "__seccion_3__": "Full dimensions and tracks ..."
+        },
+        {
+          "1960": "10001",
+          "1961": "13692",
+          "1962": "23630",
+          "1963": "32188",
+          "1964": "43900",
+          "1965": "53722",
+          "__seccion_1__": "1010C Serial Numbers",
+          "Final": "57312",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive",
+          "Batteries": "1 (gas)",
+          "&nbsp": "2 (diesel)",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere 10 Series New Generation Tractors published in 2004, by Hain Publishing",
+          "__seccion_3__": "Ten Ten Agricultural Crawler published in 1965, by John Deere",
+          "__seccion_4__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_5__": "Modern Farming published in 1962, by John Deere",
+          "__seccion_6__": "Modern Farming published in 1965, by John Deere",
+          "__seccion_7__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 1, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1960 - 1964",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 1010C Tracks",
+          "4-roller width": "12 inches 30 cm",
+          "4-roller area on ground": "1413 in&sup2; 0.9 m&sup2;",
+          "5-roller width": "12 inches 30 cm",
+          "5-roller area on ground": "1662 in&sup2; 1.1 m&sup2;",
+          "Width": "14 inches 35 cm"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Length": "102.1 inches 259 cm",
+          "Width": "61.1 inches 155 cm",
+          "Height (hood)": "53.6 inches 136 cm",
+          "Operating weight": "7,580 lbs 3438 kg",
+          "Gauge": "48 inches 121 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 1, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1960 - 1964",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 798: diesel 4-speed crawler",
+          "__seccion_3__": "NTTL 801: gasoline 4-speed crawler"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 798"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 798",
+          "__seccion_2__": "Diesel 4-speed crawler June 5 - 13, 1961 Link: Nebraska Tractor Test 798 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "36.31 hp 27.1 kW",
+          "Fuel use": "2.6 gal/hour 9.8 l/hour",
+          "Power at rated PTO speed": "24.82 hp 18.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "28.71 hp 21.4 kW",
+          "__seccion_5__": "Gear 3 used for power test.",
+          "Max pull": "7,484 lbs 3394 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 801"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 801",
+          "__seccion_2__": "Gasoline 4-speed crawler June 13 - 19, 1961 Link: Nebraska Tractor Test 801 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "35.93 hp 26.8 kW",
+          "Fuel use": "3.2 gal/hour 12.1 l/hour",
+          "Power at rated PTO speed": "22.55 hp 16.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "27.38 hp 20.4 kW",
+          "__seccion_5__": "Gear 3 used for power test.",
+          "Max pull": "7,179 lbs 3256 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 1, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1960 - 1964",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "John Deere 1.9L 4-cyl gasoline",
+          "__seccion_3__": "John Deere 2.4L 4-cyl diesel"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "115.5 ci 1.9 L",
+          "Bore/Stroke": "3.50x3.00 inches 89 x 76 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "oil bath",
+          "Rated RPM": "2500",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "144.5 ci 2.4 L",
+          "Bore/Stroke": "3.625x3.50 inches 92 x 89 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "19:1",
+          "Rated RPM": "2500",
+          "Starter volts": "24"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 1, 2022"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/57/57-td4-b01.jpg"
+}

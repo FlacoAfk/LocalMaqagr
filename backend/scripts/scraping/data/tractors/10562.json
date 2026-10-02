@@ -1,0 +1,242 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/5/6/10562-john-deere-5625.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/5/6/10562-john-deere-5625-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/5/6/10562-john-deere-5625-engine.html",
+    "source_id": 10562,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:08:10.344Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10562/10562-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 10562,
+  "name": "John Deere 5625",
+  "brand": "John Deere",
+  "model": "5625",
+  "years": {
+    "desde": 2006,
+    "hasta": 2012
+  },
+  "model_year": 2006,
+  "engine_power_hp": 81,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 70,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2686,
+  "weight_basis": "4WD OOS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 25.7,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4x30",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1557,
+  "tire_front": {
+    "original": "12.4x24",
+    "radial": false,
+    "width_mm": 315,
+    "rim_in": 24,
+    "diameter_mm_est": 1145,
+    "tipo": "Diagonal",
+    "texto": "12.4x24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F010/10562/10562-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td10562.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2006 - 2012",
+          "__seccion_2__": "5025 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Saltillo, Mexico"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "5625HC": "high-crop"
+        },
+        {
+          "__seccion_1__": "John Deere 5625 Engine",
+          "__seccion_2__": "John Deere 4.6L 4-cyl diesel",
+          "OOS Fuel tank": "25 gal 94.6 L",
+          "IOOS Fuel tank": "37 gal 140.0 L",
+          "Cab Fuel tank": "37 gal 140.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5625 Transmission",
+          "__seccion_2__": "9-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5625 Power",
+          "Engine": "81 hp 60.4 kW",
+          "PTO (claimed)": "70 hp 52.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post fixed ROPS. Foldable ROPS optional. Optional isolate platform (IOOS). Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 5625 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2800 psi 193.1 bar",
+          "Pump flow": "15.9 gpm 60.2 lpm",
+          "Steering flow": "6.6 gpm 25.0 lpm",
+          "Steering press.": "1900 psi 131.0 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "top-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "3374 lbs 1530 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2400",
+          "&nbsp": "540E@1700"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "85.8 inches 217 cm",
+          "Weight": "5512 to 7130 pounds",
+          "Front tire": "12.4x24",
+          "Rear tire": "18.4x30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "5625 Serial Numbers",
+          "Location:": "Serial number plate on the left side of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "70",
+          "Cab Charging amps": "90",
+          "Battery CCA": "550",
+          "Battery volts": "12",
+          "Battery Group": "27F"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Tractores Serie 5025 published in 2007, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 18, 2020",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2006 - 2012",
+          "__seccion_2__": "5025 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 5625 Tires",
+          "Standard tires (ag)": "Front: 12.4x24. Rear: 18.4x30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "85.8 inches 217 cm",
+          "OOS Length": "140.5 inches 356 cm",
+          "IOOS Length": "149.5 inches 379 cm",
+          "Cab Length": "149.5 inches 379 cm",
+          "Width": "82.6 inches 209 cm",
+          "2WD Clearance (front axle)": "20 inches 50 cm",
+          "4WD Clearance (front axle)": "16.5 inches 41 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 5625 Weight",
+          "2WD OOS Shipping": "5512 lbs 2500 kg",
+          "4WD OOS Shipping": "5923 lbs 2686 kg",
+          "2WD IOOS Shipping": "6520 lbs 2957 kg",
+          "4WD IOOS Shipping": "6647 lbs 3015 kg",
+          "2WD Cab Shipping": "6711 lbs 3044 kg",
+          "4WD Cab Shipping": "7130 lbs 3234 kg"
+        },
+        {
+          "__seccion_1__": "John Deere 5625 Height",
+          "Steering wheel": "77.5 inches 196 cm",
+          "OOS Hood": "70.2 inches 178 cm",
+          "IOOS Hood": "67.7 inches 171 cm",
+          "OOS ROPS": "100 inches 254 cm",
+          "IOOS ROPS": "102.6 inches 260 cm",
+          "Cab": "101.7 inches 258 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 18, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2006 - 2012",
+          "__seccion_2__": "5025 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "278 ci 4.6 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Tier 0",
+          "Power": "81 hp 60.4 kW",
+          "Compression": "17.6:1",
+          "Rated RPM": "2400",
+          "Idle RPM": "800-2600",
+          "Operating RPM": "1600-2400",
+          "Firing order": "1-3-4-2",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "9 qts 8.5 L",
+          "Coolant capacity": "11.4 qts 10.8 L",
+          "Intake valve clearance": "0.014 inches 0.356 mm",
+          "Exhaust valve clearance": "0.018 inches 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 18, 2020"
+        }
+      ]
+    }
+  }
+}

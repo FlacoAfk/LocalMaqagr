@@ -55,9 +55,27 @@ crea automáticamente en el primer arranque con el schema completo
 ## Documentación
 
 - **[Formulas de cálculo](docs/formulas.md)** — referencia completa del cálculo
-  de potencia tractor–implemento: modelo legacy, modelo v2.1 secuencial por
-  implemento (Tabla 1 de Chaparro), tablas de coeficientes, casos de
+  de potencia tractor–implemento: cadena vigente (0,92 → pérdidas → 0,86 → ET),
+  ruta TDP (ecs. 28/29 de Zoz & Grisso), modelo legacy, modelo v2.1 secuencial
+  por implemento (Tabla 1 de Chaparro), tablas de coeficientes, casos de
   validación y supuestos.
+- **[Notas de versión](docs/releases/)** — qué cambió en cada release.
+
+### Modelo de cálculo vigente (resumen)
+
+```
+P_N   = 0,92 · P_B
+P_ALT = (A/300)·1%·P_N          (solo aspirados, A > 300 m)
+P_TEMP= ((T−15)/5)·1%·P_N       (solo aspirados, T > 15 °C)
+P_PAT = pat % · P_N             (dato del ejercicio, p. ej. Pat. 12 %)
+P_ROD = W·V·(ρ·cosα + senα)/274
+P_EJE = (P_N − P_ALT − P_TEMP − P_PAT − P_ROD) · 0,86
+P_BDT = P_EJE · ET              (ET de la Fig. 47, columna AXLE)
+```
+
+Ruta TDP (verificada contra el ejemplo de 350 hp: 246,88 hp):
+`P_BDT(TDP) = 0,96 · TDP − P_ROD`, con `TDP` = dato del usuario o
+`0,85 · P_B` (ec. 29).
 
 ## Instalación
 

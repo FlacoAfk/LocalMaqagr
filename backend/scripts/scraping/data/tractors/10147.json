@@ -1,0 +1,247 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/1/4/10147-ford-946.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/1/4/10147-ford-946-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/1/4/10147-ford-946-engine.html",
+    "source_id": 10147,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:17:12.604Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10147/10147-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 70 KB"
+  },
+  "tractor_data_id": 10147,
+  "name": "Ford 946",
+  "brand": "Ford",
+  "model": "946",
+  "years": {
+    "desde": 1989,
+    "hasta": 1993
+  },
+  "model_year": 1989,
+  "engine_power_hp": 325,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 286,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 14742,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 104.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4x38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "18.4x38",
+    "radial": false,
+    "width_mm": 467,
+    "rim_in": 38,
+    "diameter_mm_est": 1760,
+    "tipo": "Diagonal",
+    "texto": "18.4x38"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F010/10147/10147-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F010/10147/10147-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td10147.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1989 - 1993",
+          "__seccion_2__": "900 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Note: the Ford model 946 is the same as the Versatile 946. The following data is from the 946 listing."
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Winnipeg, Manitoba, Canada",
+          "__seccion_4__": "Original price was $106,000 in 1993"
+        },
+        {
+          "__seccion_1__": "Ford 946 Engine",
+          "__seccion_2__": "Cummins 14.0L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 946 Transmissions",
+          "__seccion_2__": "12-speed constant mesh",
+          "__seccion_3__": "12-speed full power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 946 Power",
+          "Engine": "325 hp 242.4 kW",
+          "PTO (claimed)": "286 hp 213.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "outboard planetary",
+          "__seccion_3__": "Articulated power steering",
+          "__seccion_4__": "Hydraulic disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 946 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "286 gal 1082.5 L",
+          "Hydraulic system": "15.3 gal 57.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing * Steering pump is open center.",
+          "Capacity": "15.3 gal 57.9 L",
+          "Pressure": "2400 psi 165.5 bar",
+          "Valves": "4 to 5",
+          "Pump flow": "24.5 gpm 92.7 lpm",
+          "Steering flow": "26.1 gpm 98.8 lpm",
+          "Steering press.": "2300 psi 158.6 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IVN/III",
+          "Control": "position control",
+          "Rear lift (at 24\"/610mm)": "13036 lbs 5913 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent * PTO available only with power shift transmission.",
+          "Rear PTO Type": "1000 (1.75)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "130 inches 330 cm",
+          "Weight": "32500 lbs 14742 kg",
+          "Front tire": "24.5-32",
+          "Rear tire": "24.5-32",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1989": "946 89 D430119",
+          "1990": "946 90 D450110",
+          "1991": "946 91 D475066",
+          "1992": "946 92 D485002",
+          "1993": "946 93 D930045",
+          "__seccion_1__": "946 Serial Numbers",
+          "Location:": "Serial number plate on the cab door post.",
+          "Final": "946 93 D931121",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "90",
+          "Batteries": "4",
+          "Battery CCA": "625",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Versatile 230 to 360 hp 4WD Tractors published in 1989, by Ford",
+          "__seccion_3__": "Tractor Buyer's Guide published in 1989, by Ford"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 5, 2020",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1989 - 1993",
+          "__seccion_2__": "900 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Note: the Ford model 946 is the same as the Versatile 946. The following data is from the 946 listing."
+        },
+        {
+          "__seccion_1__": "Ford 946 Tires",
+          "Ag front": "18.4x38",
+          "Ag rear": "18.4x38",
+          "&nbsp": "30.5x32"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "130 inches 330 cm",
+          "Length": "260 inches 660 cm",
+          "Weight": "32500 lbs 14742 kg",
+          "Ground clearance": "16.1 inches 40 cm"
+        },
+        {
+          "__seccion_1__": "Ford 946 Height",
+          "Steering wheel": "102.4 inches 260 cm",
+          "Cab": "125 inches 317 cm",
+          "Exhaust": "131 inches 332 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 5, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1989 - 1993",
+          "__seccion_2__": "900 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Note: the Ford model 946 is the same as the Versatile 946. The following data is from the 946 listing."
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Cummins NTA-855-A325",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "855 ci 14.0 L",
+          "Bore/Stroke": "5.50x6.00 inches 140 x 152 mm",
+          "Power": "325 hp 242.4 kW",
+          "Air cleaner": "dry dry element",
+          "Pre-heating": "ether injection",
+          "&nbsp": "block heater",
+          "Rated RPM": "2100",
+          "Idle RPM": "1000-2100",
+          "Torque": "1057 lb-ft 1433.3 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12",
+          "Oil capacity": "39.1 qts 37.0 L",
+          "Coolant capacity": "63.7 qts 60.3 L"
+        },
+        {
+          "__seccion_1__": "Ford 946 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 5, 2020"
+        }
+      ]
+    }
+  }
+}

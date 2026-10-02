@@ -1,0 +1,243 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/004/0/5/4052-john-deere-3155.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/004/0/5/4052-john-deere-3155-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/004/0/5/4052-john-deere-3155-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/004/0/5/4052-john-deere-3155-engine.html",
+    "source_id": 4052,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:41:49.098Z",
+    "foto_original": "https://www.tractordata.com/photos/F004/4052/4052-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 89 KB"
+  },
+  "tractor_data_id": 4052,
+  "name": "John Deere 3155",
+  "brand": "John Deere",
+  "model": "3155",
+  "years": {
+    "desde": 1988,
+    "hasta": 1992
+  },
+  "model_year": 1988,
+  "engine_power_hp": 95,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 95,
+  "pto_tested_hp": 96.06,
+  "drawbar_tested_hp": 81.92,
+  "weight_kg": 4581,
+  "weight_basis": "ROPS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 46.7,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 22,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F004/4052/4052-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F004/4052/4052-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td4052.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1988 - 1992",
+          "__seccion_2__": "55 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany",
+          "__seccion_4__": "Original price was $43,000 in 1992"
+        },
+        {
+          "__seccion_1__": "John Deere 3155 Engine",
+          "__seccion_2__": "John Deere 5.9L 6-cyl diesel",
+          "Fuel tank": "45.7 gal 173.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3155 Transmissions",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "16-speed partial power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3155 Power",
+          "PTO (claimed)": "95 hp 70.8 kW",
+          "Drawbar (tested)": "81.92 hp 61.1 kW",
+          "PTO (tested)": "96.06 hp 71.6 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Sound-Gard Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 3155 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Valves": "2 or 3",
+          "Pump flow": "22 gpm 83.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "6308 lbs 2861 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "101.7 inches 258 cm",
+          "Weight": "10100 to 11770 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3155 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1987": "618645",
+          "1988": "624591",
+          "1989": "653652",
+          "1990": "685545",
+          "1991": "717916",
+          "__seccion_1__": "3155 Serial Numbers",
+          "Location:": "Serial number plate on the right side of the tractor frame.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "85",
+          "Batteries": "2",
+          "Battery CCA": "610",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Powerful Pickups published in 1990, by John Deere",
+          "__seccion_3__": "Tractors 40 to 95 HP published in 1988, by John Deere",
+          "__seccion_4__": "Task Masters published in 1990, by John Deere",
+          "__seccion_5__": "40 to 100 HP Tractors Product Information Handbook published in 1988, by John Deere",
+          "__seccion_6__": "The 1991 Long Green Line Agricultural Equipment Review published by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 4, 2018",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1988 - 1992",
+          "__seccion_2__": "55 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 3155 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "101.7 inches 258 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 3155 Weight",
+          "ROPS Shipping": "10100 lbs 4581 kg",
+          "Cab Shipping": "10450 lbs 4740 kg",
+          "Cab Operating": "11770 lbs 5338 kg",
+          "Ballasted": "12300 lbs 5579 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 4, 2018"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1988 - 1992",
+          "__seccion_2__": "55 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1589"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1589",
+          "__seccion_2__": "Diesel 16-speed 4WD April 1 - 14, 1986 Link: Nebraska Tractor Test 1589 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "96.06 hp 71.6 kW",
+          "Fuel use": "5.8 gal/hour 22.0 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "81.92 hp 61.1 kW",
+          "__seccion_5__": "Gear 5L used for power test.",
+          "Max pull": "10,507 lbs 4765 kg",
+          "__seccion_6__": "Gear 2H used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 4, 2018"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1988 - 1992",
+          "__seccion_2__": "55 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "359 ci 5.9 L",
+          "Bore/Stroke": "4.19x4.33 inches 106 x 110 mm",
+          "Air cleaner": "dual paper elements",
+          "Compression": "17.8:1",
+          "Rated RPM": "2400",
+          "Starter volts": "12",
+          "Oil capacity": "12.2 qts 11.5 L",
+          "Coolant capacity": "18 qts 17.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 4, 2018"
+        }
+      ]
+    }
+  }
+}

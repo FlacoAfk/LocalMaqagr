@@ -1,0 +1,247 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/8/4/1847-kubota-m7040.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/8/4/1847-kubota-m7040-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/8/4/1847-kubota-m7040-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1847,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:54:35.199Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1847/1847-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 79 KB"
+  },
+  "tractor_data_id": 1847,
+  "name": "Kubota M7040",
+  "brand": "Kubota",
+  "model": "M7040",
+  "years": {
+    "desde": 2007,
+    "hasta": 2013
+  },
+  "model_year": 2007,
+  "engine_power_hp": 67,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": 62,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2179,
+  "weight_basis": "&nbsp",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 22.7,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9-30",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1492,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1847/1847-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1847/1847-photo-001.jpg",
+  "image_url": "/uploads/tractors/td1847.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2007 - 2013",
+          "__seccion_2__": "Model year 2007-2009 2010-2013",
+          "__seccion_3__": "M40 Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "M7040SU": "economy model",
+          "M7040HDN": "narrow chassis",
+          "M7040F": "2WD ROPS sync-shuttle",
+          "M7040FC": "2WD cab sync-shuttle",
+          "M7040DT": "4WD ROPS sync-shuttle",
+          "M7040HD": "4WD ROPS hyd-shuttle",
+          "M7040DTC": "4WD cab sync-shuttle",
+          "M7040HDC": "4WD cab hyd-shuttle"
+        },
+        {
+          "__seccion_1__": "Kubota M7040 Engine",
+          "__seccion_2__": "Kubota 3.3L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M7040 Transmissions",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "8-speed power shuttle",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M7040 Power",
+          "Engine (net)": "67 hp 50.0 kW",
+          "PTO (claimed)": "62 hp 46.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post ROPS with optional canopy. Ultra Grand Cab optional with heat and air-conditioning"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota M7040 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "ROPS, 29.1 Cab} Fuel": "18.5 gal 70.0 L",
+          "Hydraulic system": "10.6 gal 40.1 L",
+          "Front axle": "8.5 qts 8.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "10.6 gal 40.1 L",
+          "Pressure": "2770 psi 191.0 bar",
+          "Valves": "1 to 3",
+          "Pump flow": "11 gpm 41.6 lpm",
+          "Total flow": "17.2 gpm 65.1 lpm",
+          "Steering flow": "6.1 gpm 23.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at ends)": "4200 lbs 1905 kg",
+          "Rear lift (at 24\"/610mm)": "3307 lbs 1500 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2295"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "80.7 inches (4WD ROPS) 204 cm",
+          "&nbsp": "84.4 inches (2WD cab) 214 cm",
+          "Weight": "4675 to 5470 pounds",
+          "Front tire": "7.50-16",
+          "Rear tire": "16.9-30 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota M7040 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "45 (ROPS)",
+          "&nbsp": "80 (optional)",
+          "Battery CCA": "900",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "M5040/M6040/M7040/M8540/M9540 published in 2005, by Kubota",
+          "__seccion_3__": "New Product Guide M-Series Tractors published in 2005, by Kubota"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 22, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2007 - 2013",
+          "__seccion_2__": "Model year 2007-2009 2010-2013",
+          "__seccion_3__": "M40 Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M7040 Tires",
+          "Standard tires (ag)": "Front: 7.50-16. Rear: 16.9-30 (2WD)",
+          "&nbsp": "21.5L-16.1",
+          "Optional tires (ag)": "Front: 9.5L-15. Rear: 16.9-28 (2WD)",
+          "Lawn/turf front": "29x12.5-15",
+          "Lawn/turf rear": "18.4-26",
+          "Industrial front": "14.7-17.5L (4WD)",
+          "Industrial rear": "16.9-24 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "80.7 inches (4WD ROPS) 204 cm",
+          "&nbsp": "135.6 inches (4WD ROPS) 344 cm",
+          "Length": "142.7 inches (2WD cab) 362 cm",
+          "Width": "73.2 inches 185 cm",
+          "Height (ROPS)": "97.2 inches 246 cm",
+          "Height (cab)": "101.0 inches 256 cm",
+          "Ground clearance": "16.9 inches 42 cm",
+          "Front tread": "55.9 to 59.8 inches 141 to 151 cm (4WD)",
+          "Rear tread": "52 to 67.7 inches 132 to 171 cm"
+        },
+        {
+          "__seccion_1__": "Kubota M7040 Weight",
+          "__seccion_2__": "4675 lbs (2WD ROPS) 2120 kg",
+          "&nbsp": "5470 lbs (4WD cab) 2481 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 22, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2007 - 2013",
+          "__seccion_2__": "Model year 2007-2009 2010-2013",
+          "__seccion_3__": "M40 Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V3307-DI",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "203 ci 3.3 L",
+          "Bore/Stroke": "3.70x4.70 inches 94 x 119 mm",
+          "Emissions": "Tier II",
+          "Power (net)": "67 hp 50.0 kW",
+          "Air cleaner": "dual element dry",
+          "Rated RPM": "2600",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 22, 2025"
+        }
+      ]
+    }
+  }
+}

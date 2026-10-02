@@ -1,0 +1,5 @@
+# Caché HTML del scraping (no versionar el contenido descargado)
+data/cache/
+
+# Registro de errores efímero
+data/tractors/_errors.log

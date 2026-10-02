@@ -1,0 +1,183 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/009/6/4/9648-kubota-gm90.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/009/6/4/9648-kubota-gm90-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/009/6/4/9648-kubota-gm90-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 9648,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:07:41.597Z",
+    "foto_original": "https://www.tractordata.com/photos/F009/9648/9648-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 4 KB"
+  },
+  "tractor_data_id": 9648,
+  "name": "Kubota GM90",
+  "brand": "Kubota",
+  "model": "GM90",
+  "years": {
+    "desde": 1998,
+    "hasta": 2007
+  },
+  "model_year": 1998,
+  "engine_power_hp": 87.8,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2869,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 32.2,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 13.6-38",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1552,
+  "tire_front": {
+    "original": "11.2-24",
+    "radial": false,
+    "width_mm": 284,
+    "rim_in": 24,
+    "diameter_mm_est": 1093,
+    "tipo": "Diagonal",
+    "texto": "11.2-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F009/9648/9648-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td9648.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1998 - 2007",
+          "__seccion_2__": "GM Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota GM90 Engine",
+          "__seccion_2__": "Kubota 3.3L 4-cyl diesel",
+          "Fuel tank": "27.7 gal 104.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota GM90 Transmission",
+          "__seccion_2__": "24-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota GM90 Power",
+          "Engine": "87.8 hp 65.5 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Kubota GM90 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position and draft control"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "587/827/1170 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "92.7 inches 235 cm",
+          "Weight": "6327 lbs 2869 kg",
+          "Front tire": "11.2-24",
+          "Rear tire": "13.6-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "electric",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 6, 2017"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1998 - 2007",
+          "__seccion_2__": "GM Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota GM90 Tires",
+          "Standard tires (ag)": "Front: 11.2-24. Rear: 13.6-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "92.7 inches 235 cm",
+          "Length": "156.9 inches 398 cm",
+          "Width": "70.1 inches 178 cm",
+          "Height (cab)": "101.4 inches 257 cm",
+          "Weight": "6327 lbs 2869 kg",
+          "Ground clearance": "19.1 inches 48 cm",
+          "Front tread": "47.6 to 55.1 inches 120 to 139 cm",
+          "Rear tread": "48 to 55.1 inches 121 to 139 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 6, 2017"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1998 - 2007",
+          "__seccion_2__": "GM Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V3300T",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "202.5 ci 3.3 L",
+          "Bore/Stroke": "3.86x4.33 inches 98 x 110 mm",
+          "Power": "87.8 hp 65.5 kW",
+          "Rated RPM": "2600",
+          "Starter": "negative",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 6, 2017"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/5/55-john-deere-8010.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/5/55-john-deere-8010-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/5/55-john-deere-8010-engine.html",
+    "source_id": 55,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:45:17.970Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/55/55-photo-001-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 49 KB"
+  },
+  "tractor_data_id": 55,
+  "name": "John Deere 8010",
+  "brand": "John Deere",
+  "model": "8010",
+  "years": {
+    "desde": 1961,
+    "hasta": 1964
+  },
+  "model_year": 1961,
+  "engine_power_hp": 215,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 8935,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 78.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.00x25",
+  "tire_width_mm": 457,
+  "tire_diameter_mm": 1412,
+  "tire_front": {
+    "original": "18.00x25",
+    "radial": false,
+    "width_mm": 457,
+    "rim_in": 25,
+    "diameter_mm_est": 1412,
+    "tipo": "Diagonal",
+    "texto": "18.00x25"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/55/55-td3a.jpg",
+  "image_url": "/uploads/tractors/td55.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1960",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "Total built": "100",
+          "__seccion_4__": "Original price was $30,000 in 1960",
+          "__seccion_5__": "Due to transmission issues, the John Deere 8010s were returned to the factory and converted into 8020s. One 8010 escaped the recall and is currently in the Keller collection."
+        },
+        {
+          "__seccion_1__": "John Deere 8010 Engine",
+          "__seccion_2__": "Detroit Diesel 7.0L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8010 Transmission",
+          "__seccion_2__": "9-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8010 Power",
+          "Engine": "215 hp 160.3 kW",
+          "Drawbar (claimed)": "150 hp 111.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "planetary",
+          "__seccion_3__": "Articulated power steering",
+          "__seccion_4__": "Pneumatic drum brakes",
+          "__seccion_5__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 8010 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "106 gal 401.2 L",
+          "Hydraulic system": "25 gal 94.6 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Capacity": "25 gal 94.6 L",
+          "Pump flow": "40 gpm 151.4 lpm",
+          "&nbsp": "60 gpm Opt Optional 227.1 lpm"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "120 inches 304 cm",
+          "Weight": "19700 lbs 8935 kg",
+          "Front tire": "23.1-26",
+          "Rear tire": "23.1-26",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1961": "1000",
+          "__seccion_1__": "8010 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "generator",
+          "Charging volts": "24"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere 10 Series New Generation Tractors published in 2004, by Hain Publishing",
+          "__seccion_3__": "New John Deere 8010 Diesel published in 1960",
+          "__seccion_4__": "Operator's Manual 8010 Diesel Tractor (OM-R30814) published in 1960",
+          "__seccion_5__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_6__": "Modern Farming published in 1962, by John Deere",
+          "__seccion_7__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 24, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1960",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8010 Tires",
+          "Ag front": "23.1-26",
+          "Ag rear": "23.1-26",
+          "Industrial front": "18.00x25",
+          "Industrial rear": "18.00x25"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "120 inches 304 cm",
+          "Length": "238 inches 604 cm",
+          "Width": "96 inches 243 cm",
+          "Height (steering wheel)": "99 inches 251 cm",
+          "Height (exhaust)": "112.5 inches 285 cm",
+          "Weight": "19700 lbs 8935 kg",
+          "Ballasted weight": "26350 lbs 11952 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 24, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1960",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Detroit Diesel 6-71",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "425 ci 7.0 L",
+          "Bore/Stroke": "4.25x5.00 inches 108 x 127 mm",
+          "Power": "215 hp 160.3 kW",
+          "Compression": "17:1",
+          "Rated RPM": "2100",
+          "Starter": "electric",
+          "Starter volts": "24",
+          "Oil capacity": "18 qts 17.0 L",
+          "Coolant capacity": "48 qts 45.4 L"
+        },
+        {
+          "__seccion_1__": "John Deere 8010 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 24, 2025"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/55/55-photo-001-ext045.jpg"
+}

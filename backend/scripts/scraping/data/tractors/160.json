@@ -1,0 +1,315 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/6/160-john-deere-5400.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/6/160-john-deere-5400-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/1/6/160-john-deere-5400-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/6/160-john-deere-5400-engine.html",
+    "source_id": 160,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:50:58.287Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/160/160-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 81 KB"
+  },
+  "tractor_data_id": 160,
+  "name": "John Deere 5400",
+  "brand": "John Deere",
+  "model": "5400",
+  "years": {
+    "desde": 1992,
+    "hasta": 1997
+  },
+  "model_year": 1992,
+  "engine_power_hp": 68.4,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 60,
+  "pto_tested_hp": 62.56,
+  "drawbar_tested_hp": 52.61,
+  "weight_kg": 2299,
+  "weight_basis": "4WD ROPS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 26,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 16.9-30",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1492,
+  "tire_front": {
+    "original": "11.2-24",
+    "radial": false,
+    "width_mm": 284,
+    "rim_in": 24,
+    "diameter_mm_est": 1093,
+    "tipo": "Diagonal",
+    "texto": "11.2-24"
+  },
+  "fuel_consumption_lph": 13.2,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/160/160-td3a.jpg",
+  "image_url": "/uploads/tractors/td160.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "5000 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Augusta, Georgia, USA"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "5400N": "narrow, orchard tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 5400 Engine",
+          "__seccion_2__": "John Deere 2.9L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5400 Transmissions",
+          "__seccion_2__": "9-speed unsynchronized gear",
+          "__seccion_3__": "9-speed partially synchronized",
+          "__seccion_4__": "12-speed power shuttle",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5400 Power",
+          "Engine (gross)": "68.4 hp 51.0 kW",
+          "PTO (claimed)": "60 hp 44.7 kW",
+          "Drawbar (tested)": "52.61 hp 39.2 kW",
+          "PTO (tested)": "62.56 hp 46.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 5400 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "ROPS Fuel": "18 gal 68.1 L",
+          "Cab Fuel": "22 gal 83.3 L",
+          "Hydraulic system": "10 gal 37.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "10 gal 37.9 L",
+          "Pressure": "2750 psi 189.6 bar",
+          "Valves": "1 to 3",
+          "Pump flow": "11.4 gpm 43.1 lpm",
+          "Total flow": "18.2 gpm 68.9 lpm",
+          "Steering flow": "6.8 gpm 25.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position control with top-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "3374 lbs 1530 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "Engine RPM": "540@2400"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "80.7 inches 204 cm",
+          "Weight": "4560 to 5970 pounds",
+          "Front tire": "7.50-16",
+          "2WD Rear tire": "16.9-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5400 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "1992": "130000",
+          "1993": "240000",
+          "1994": "------",
+          "1995": "440274",
+          "1996": "540001",
+          "1997": "640000",
+          "__seccion_1__": "5400 Serial Numbers",
+          "Location:": "On main right side of main tractor frame, near front axle.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Links",
+          "__seccion_2__": "Temperature sensor : potential cold-start advance sensor failure leading to a no-start condition"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "40",
+          "Cab Charging amps": "60",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Lawn & Grounds Care Sales Manual published in 1997, by John Deere *",
+          "__seccion_3__": "Golf & Turf Equipment Purchasing Guide published in 1993, by John Deere",
+          "__seccion_4__": "Golf & Turf Equipment Purchasing Guide published in 1997, by John Deere",
+          "__seccion_5__": "Golf and Turf Equipment Purchasing Guide published in 1998, by John Deere",
+          "__seccion_6__": "The spirit of value - three brand new tractors from 40 to 60 HP published in 1991, by John Deere",
+          "__seccion_7__": "40- to 73-HP 5000 Series Tractors published in 1995, by John Deere",
+          "__seccion_8__": "Utility Tractors published in 1995, by John Deere",
+          "__seccion_9__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 4, 2021",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "5000 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 5400 Tires",
+          "2WD Standard tires (ag)": "Front: 7.50-16. Rear: 16.9-30",
+          "4WD Standard tires (ag)": "Front: 11.2-24. Rear: 16.9-30",
+          "2WD Lawn/turf front": "27/9.5-15",
+          "4WD Lawn/turf front": "12LL-16",
+          "Lawn/turf rear": "22.5LL-16.1"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "80.7 inches 204 cm",
+          "2WD Length": "125.9 inches 319 cm",
+          "4WD Length": "131 inches 332 cm",
+          "Width": "70.7 inches * Minimum width. 179 cm",
+          "2WD Clearance (front axle)": "18.8 inches 47 cm",
+          "4WD Clearance (front axle)": "17.7 inches 44 cm",
+          "2WD Clearance (drawbar)": "18.6 inches 47 cm",
+          "4WD Clearance (drawbar)": "18.0 inches 45 cm",
+          "Flange rear axle": "57.3 inch length 1455 mm",
+          "2WD Front tread": "56.5 to 76.2 inches 143 to 193 cm",
+          "4WD Front tread": "50.9 to 79 inches 129 to 200 cm",
+          "Rear tread": "60.4 to 80.4 inches 153 to 204 cm (cast)"
+        },
+        {
+          "__seccion_1__": "John Deere 5400 Weight",
+          "2WD ROPS Shipping": "4560 lbs 2068 kg",
+          "4WD ROPS Shipping": "5070 lbs 2299 kg",
+          "2WD Cab Shipping": "5460 lbs 2476 kg",
+          "4WD Cab Shipping": "5970 lbs 2707 kg",
+          "4WD ROPS Operating": "5118 lbs 2321 kg",
+          "2WD Max front axle": "8100 lbs 3674 kg",
+          "4WD Max front axle": "8430 lbs 3823 kg",
+          "Max rear axle": "12500 lbs 5670 kg"
+        },
+        {
+          "__seccion_1__": "John Deere 5400 Height",
+          "2WD Steering wheel": "65.4 inches 166 cm",
+          "4WD Steering wheel": "66.3 inches 168 cm",
+          "2WD Hood": "53.8 inches 136 cm",
+          "4WD Hood": "55.5 inches 140 cm",
+          "ROPS": "90.9 inches 230 cm",
+          "Height (Folded ROPS)": "77.8 inches 197 cm",
+          "Cab": "99.1 inches 251 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 4, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "5000 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1662"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1662",
+          "__seccion_2__": "Diesel 9-speed 4WD September 29 - October 9, 1992 Link: OCED Tractor Test 1662 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "52.61 hp 39.2 kW",
+          "Fuel use": "3.7 gal/hour 14.0 l/hour",
+          "Power at rated engine speed": "60.67 hp 45.2 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 1C used for power test.",
+          "Max pull": "5,842 lbs 2649 kg",
+          "__seccion_6__": "Gear 2B used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 4, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "5000 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "179 ci 2.9 L",
+          "Bore/Stroke": "4.19x4.33 inches 106 x 110 mm",
+          "Power (gross)": "68.4 hp 51.0 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dual dry elements",
+          "Pre-heating": "thermostart",
+          "Compression": "17.8:1",
+          "Rated RPM": "2400",
+          "Operating RPM": "1600-2400",
+          "Starter volts": "12",
+          "Oil capacity": "9 qts 8.5 L",
+          "Coolant capacity": "10 qts 9.5 L"
+        },
+        {
+          "__seccion_1__": "John Deere 5400 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 4, 2021"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/160/160-td4-b01.jpg"
+}

@@ -1,0 +1,165 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/3/1/10311-fiat-400e.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/3/1/10311-fiat-400e-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/3/1/10311-fiat-400e-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 10311,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:19:10.228Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10311/10311-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 3 KB"
+  },
+  "tractor_data_id": 10311,
+  "name": "Fiat 400E",
+  "brand": "Fiat",
+  "model": "400E",
+  "years": {
+    "desde": 1974,
+    "hasta": 1980
+  },
+  "model_year": 1974,
+  "engine_power_hp": 45,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1930,
+  "weight_basis": "Row-crop Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 16.5,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F010/10311/10311-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td10311.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1974 - 1980",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Fiat",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Sauce Viejo, Argentina"
+        },
+        {
+          "__seccion_1__": "Fiat 400E Engine",
+          "__seccion_2__": "Fiat 3.4L 3-cyl diesel",
+          "Fuel tank": "19.8 gal 74.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 400E Transmission",
+          "__seccion_2__": "6-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 400E Power",
+          "Engine": "45 hp 33.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Mechanical band brakes",
+          "__seccion_5__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Fiat 400E are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Row-crop Wheelbase": "88.4 inches 224 cm",
+          "Standard Wheelbase": "72.2 inches 183 cm",
+          "Weight": "3671 to 4255 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 13, 2019"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1974 - 1980",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Fiat 400E Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Row-crop Wheelbase": "88.4 inches 224 cm",
+          "Standard Wheelbase": "72.2 inches 183 cm",
+          "Row-crop Length": "145.7 inches 370 cm",
+          "Standard Length": "122.8 inches 311 cm",
+          "Row-crop Height (steering wheel)": "72.8 inches 184 cm",
+          "Standard Height (steering wheel)": "61 inches 154 cm",
+          "Row-crop Weight": "4255 lbs 1930 kg",
+          "Standard Weight": "3671 lbs 1665 kg",
+          "Front tread": "51.2 to 79.5 inches 130 to 201 cm",
+          "Rear tread": "49.2 to 72.8 inches 124 to 184 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 13, 2019"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1974 - 1980",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Fiat CN3/615",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "208.8 ci 3.4 L",
+          "Bore/Stroke": "4.33x4.72 inches 110 x 120 mm",
+          "Power": "45 hp 33.6 kW",
+          "Compression": "17:1",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 13, 2019"
+        }
+      ]
+    }
+  }
+}

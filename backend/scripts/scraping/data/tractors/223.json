@@ -1,0 +1,372 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/2/223-ford-8n.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/2/223-ford-8n-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/2/2/223-ford-8n-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/2/223-ford-8n-engine.html",
+    "source_id": 223,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:08:50.072Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/223/223-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 86 KB"
+  },
+  "tractor_data_id": 223,
+  "name": "Ford 8N",
+  "brand": "Ford",
+  "model": "8N",
+  "years": {
+    "desde": 1947,
+    "hasta": 1952
+  },
+  "model_year": 1947,
+  "engine_power_hp": 27.32,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 27.32,
+  "pto_tested_hp": 23.24,
+  "drawbar_tested_hp": 21.95,
+  "weight_kg": 1093,
+  "weight_basis": "Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 12.5,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 10-28",
+  "tire_width_mm": 254,
+  "tire_diameter_mm": 1143,
+  "tire_front": {
+    "original": "4.00-19",
+    "radial": false,
+    "width_mm": 102,
+    "rim_in": 19,
+    "diameter_mm_est": 655,
+    "tipo": "Diagonal",
+    "texto": "4.00-19"
+  },
+  "fuel_consumption_lph": 9.5,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/223/223-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/223/223-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td223.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1947 - 1952",
+          "__seccion_2__": "N Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Highland Park, Michigan, USA",
+          "Total built": "524,000",
+          "__seccion_4__": "Original price was $1,404 in 1952"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "8NAN": "distillate engine"
+        },
+        {
+          "__seccion_1__": "Ford 8N Engines",
+          "__seccion_2__": "Ford 2.0L 4-cyl gasoline",
+          "__seccion_3__": "Ford 2.0L 4-cyl distillate",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 8N Transmissions",
+          "__seccion_2__": "4-speed",
+          "__seccion_3__": "12-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 8N Power",
+          "Drawbar (claimed)": "23.16 hp 17.3 kW",
+          "PTO (claimed)": "27.32 hp 20.4 kW",
+          "Drawbar (tested)": "21.95 hp 16.4 kW",
+          "PTO (tested)": "23.24 hp 17.3 kW",
+          "Belt (tested)": "25.77 hp 19.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "mechanical",
+          "__seccion_3__": "Manual drum brakes",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 8N photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "10 gal 37.9 L",
+          "Hydraulic system": "5 gal 18.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Capacity": "5 gal 18.9 L",
+          "Pressure": "1700 psi 117.2 bar",
+          "Pump flow": "2.85 gpm 10.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift": "800 lbs 362 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Rear PTO Type": "545 (1.125)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "70 inches 177 cm",
+          "Weight": "2410 to 2717 pounds",
+          "Front tire": "4.00-19",
+          "Rear tire": "10-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "8N Serial Number Location",
+          "__seccion_2__": "On the engine block, left-hand side, just behind oil filter. A star indicates steel sleeves, a diamond indicates cast-iron sleeves."
+        },
+        {
+          "1947": "1",
+          "1948": "37908",
+          "1949": "141370",
+          "1950": "245637",
+          "1951": "343198",
+          "1952": "442035",
+          "__seccion_1__": "8N Serial Numbers",
+          "Final": "524076",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Links",
+          "__seccion_2__": "8N Tractors : Parts, manuals, and information for the 8N",
+          "__seccion_3__": "N Tractor Club :",
+          "__seccion_4__": "8N Manual : online at NewOldManuals.com"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive",
+          "Charging system": "generator",
+          "Charging amps": "20",
+          "Battery volts": "6",
+          "Battery AH": "80"
+        },
+        {
+          "__seccion_1__": "Questions",
+          "__seccion_2__": "I have several tractors that I need to relocate 330 miles from my family's place to my place. I want to reasonably max out load weight each trip. Since \"pounds count\" do you have a more focused weight for this specific tractor? The dimensions page for the tractor provides details on weight ranges. In the case of the 8N, that range is between the shipping weight as published by Ford, and the operating weight as University of Nebraska measured it on their scale. If that particular tractor you are moving has fluid in the tires, then a ballasted weight would be more appropriate (4,000+).",
+          "__seccion_3__": "Email: Peter@TractorData.com"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The Great New Ford Tractor published in 1947",
+          "__seccion_3__": "Ford Tractor published in 1950",
+          "__seccion_4__": "Operator's Manual Model 8N (3729-52-C) published in 1952"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 18, 2021",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1947 - 1952",
+          "__seccion_2__": "N Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Ford 8N Tires",
+          "Ag front": "4.00-19",
+          "&nbsp": "11.2-28",
+          "Ag rear": "10-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "70 inches 177 cm",
+          "Length": "115 inches 292 cm",
+          "Width": "64.75 inches 164 cm",
+          "Height": "54.5 inches 138 cm",
+          "Ground clearance": "13 inches 33 cm",
+          "Clearance (front axle)": "21 inches 53 cm",
+          "Front tread": "48/52/56/60/64/68/72/76 inches 121/132/142/152/162/172/182/193 cm",
+          "Rear tread": "48/52/56/60/64/68/72/76 inches 121/132/142/152/162/172/182/193 cm"
+        },
+        {
+          "__seccion_1__": "Ford 8N Weight",
+          "Shipping": "2,410 lbs 1093 kg",
+          "Operating": "2,717 lbs 1232 kg",
+          "Ballasted": "4,043 lbs 1833 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 18, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1947 - 1952",
+          "__seccion_2__": "N Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 385: gasoline 4-speed 2WD",
+          "__seccion_3__": "NTTL 393: gasoline 4-speed 2WD",
+          "__seccion_4__": "NTTL 443: gasoline 4-speed 2WD",
+          "__seccion_5__": "NTTL 444: distillate (8NAN) 4-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 385"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 385",
+          "__seccion_2__": "Gasoline 4-speed 2WD September 8 - 19, 1947 Link: Nebraska Tractor Test 385 file",
+          "Belt power (max)": "21.06 hp 15.7 kW",
+          "Belt fuel use (max)": "2.7 gal/hour 10.2 l/hour",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "18.35 hp 13.7 kW",
+          "Fuel use": "2.5 gal/hour 9.5 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "20.8 hp 15.5 kW",
+          "Max pull": "2,810 lbs 1274 kg"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 393"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 393",
+          "__seccion_2__": "Gasoline 4-speed 2WD May 11 - 18, 1948 Link: Nebraska Tractor Test 393 file",
+          "Belt power (max)": "25.77 hp 19.2 kW",
+          "Belt fuel use (max)": "2.4 gal/hour 9.1 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "21.72 hp 16.2 kW",
+          "__seccion_4__": "Gear 2 used for power test.",
+          "Max pull": "2,751 lbs 1247 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 443"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 443",
+          "__seccion_2__": "Gasoline 4-speed 2WD June 16 - 27, 1950 Link: Nebraska Tractor Test 443 file",
+          "Belt power (max)": "25.49 hp 19.0 kW",
+          "Belt fuel use (max)": "2.3 gal/hour 8.7 l/hour",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "23.24 hp 17.3 kW",
+          "Fuel use": "2.1 gal/hour 7.9 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "21.95 hp 16.4 kW",
+          "__seccion_5__": "Gear 2 used for power test.",
+          "Max pull": "2,810 lbs 1274 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 444"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 444",
+          "__seccion_2__": "Distillate (8NAN) 4-speed 2WD June 22 - 29, 1950 Link: Nebraska Tractor Test 444 file",
+          "Belt power (max)": "21.87 hp 16.3 kW",
+          "Belt fuel use (max)": "2.4 gal/hour 9.1 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "18.79 hp 14.0 kW",
+          "__seccion_4__": "Gear 2 used for power test.",
+          "Max pull": "2,355 lbs 1068 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 18, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1947 - 1952",
+          "__seccion_2__": "N Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Ford 2.0L 4-cyl gasoline",
+          "__seccion_3__": "Ford 2.0L 4-cyl distillate"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder 8-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "119.7 ci 2.0 L",
+          "Bore/Stroke": "3.188x3.75 inches 81 x 95 mm",
+          "Compression": "6:1",
+          "&nbsp": "0.025 inches (side-mount) 0.635 mm",
+          "Rated RPM": "2000",
+          "Torque": "92 lb-ft 124.8 Nm",
+          "Torque RPM": "1500",
+          "Firing order": "1-2-4-3",
+          "Starter volts": "6",
+          "Coolant capacity": "12 qts 11.4 L",
+          "Sparkplug gap": "0.025 inches 0.635 mm",
+          "Point gap": "0.015 inches (front-mount) 0.381 mm",
+          "Intake valve clearance": "0.011 inches * Cold 0.279 mm",
+          "Exhaust valve clearance": "0.015 inches * Cold 0.381 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "6 qts 5.7 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "distillate",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "__seccion_6__": "The distillate engine was used on the 8NAN variant.",
+          "Displacement": "119.7 ci 2.0 L",
+          "Bore/Stroke": "3.188x3.75 inches 81 x 95 mm",
+          "Compression": "4.75:1",
+          "Rated RPM": "2000",
+          "Firing order": "1-2-4-3",
+          "Starter volts": "6",
+          "Coolant capacity": "12 qts 11.4 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "6 qts 5.7 L"
+        },
+        {
+          "__seccion_1__": "Ford 8N Engine",
+          "__seccion_2__": "Image courtesy of Javier Cardozo"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 18, 2021"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/9/9/8994-john-deere-4240.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/9/9/8994-john-deere-4240-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/9/9/8994-john-deere-4240-engine.html",
+    "source_id": 8994,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:04:37.587Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8994/8994-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 95 KB"
+  },
+  "tractor_data_id": 8994,
+  "name": "John Deere 4240",
+  "brand": "John Deere",
+  "model": "4240",
+  "years": {
+    "desde": 1977,
+    "hasta": 1984
+  },
+  "model_year": 1977,
+  "engine_power_hp": 134.1,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 114,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 5109,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 41.8,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4-38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "11.00-16",
+    "radial": false,
+    "width_mm": 279,
+    "rim_in": 16,
+    "diameter_mm_est": 881,
+    "tipo": "Diagonal",
+    "texto": "11.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F008/8994/8994-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F008/8994/8994-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td8994.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1977 - 1984",
+          "__seccion_2__": "4040 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany"
+        },
+        {
+          "__seccion_1__": "John Deere 4240 Engine",
+          "__seccion_2__": "John Deere 7.6L 6-cyl diesel",
+          "Fuel tank": "37 gal 140.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4240 Transmissions",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "8-speed partially synchronized",
+          "__seccion_4__": "8-speed full power shift",
+          "__seccion_5__": "13-speed creeper",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4240 Power",
+          "Engine (gross)": "134.1 hp 100.0 kW",
+          "Engine (net)": "126.1 hp 94.0 kW",
+          "PTO (claimed)": "114 hp 85.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 HFWD 4WD",
+          "Final drives": "planetary",
+          "Differential lock": "hydro-mechanical",
+          "__seccion_2__": "Power steering",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Sound-Gard cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 4240 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Pressure": "2250 psi 155.1 bar",
+          "Pump flow": "25.4 gpm 96.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position and draft control",
+          "Rear lift": "10590 lbs 4803 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "106.7 inches 271 cm",
+          "Weight": "11265 lbs 5109 kg",
+          "Front tire": "11.00-16",
+          "Rear tire": "18.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "4240 Serial Number Location",
+          "__seccion_2__": "Serial number tag on the front right of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "55",
+          "Batteries": "2",
+          "Battery volts": "12",
+          "Battery AH": "88"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "4040 4240 4440 4640 published in 1980, by John Deere",
+          "__seccion_3__": "Product Information Manual published in 1977, by John Deere",
+          "__seccion_4__": "Move up to John Deere... published in 1981"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 20, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1977 - 1984",
+          "__seccion_2__": "4040 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 4240 Tires",
+          "Ag front": "10.00-16",
+          "Ag rear": "16.9-38",
+          "&nbsp": "20.8-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "106.7 inches 271 cm",
+          "Length": "179.2 inches 455 cm",
+          "Height (cab)": "115 inches 292 cm",
+          "Shipping weight": "11265 lbs 5109 kg",
+          "Clearance (front axle)": "21.3 inches 54 cm",
+          "Clearance (rear axle)": "27 inches 68 cm",
+          "Clearance (drawbar)": "14.3 inches 36 cm",
+          "Rack-and-pinion rear axle": "3.39 by 113 inches 86 by 2870 mm",
+          "Front tread": "53.5 to 74 inches 135 to 187 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 20, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1977 - 1984",
+          "__seccion_2__": "4040 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "466 ci 7.6 L",
+          "Bore/Stroke": "4.56x4.75 inches 116 x 121 mm",
+          "Power (net)": "126.1 hp 94.0 kW",
+          "Power (gross)": "134.1 hp 100.0 kW",
+          "Fuel system": "direct injection",
+          "Compression": "17.5:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "810-2380",
+          "Operating RPM": "1500-2200",
+          "Torque": "346.7 lb-ft 470.1 Nm",
+          "Torque RPM": "1500",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 20, 2022"
+        }
+      ]
+    }
+  }
+}

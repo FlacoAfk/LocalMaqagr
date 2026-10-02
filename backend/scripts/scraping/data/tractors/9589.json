@@ -1,0 +1,200 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/009/5/8/9589-kubota-gl241.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/009/5/8/9589-kubota-gl241-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/009/5/8/9589-kubota-gl241-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 9589,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:06:01.470Z",
+    "foto_original": "https://www.tractordata.com/photos/F009/9589/9589-photo-001-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 76 KB"
+  },
+  "tractor_data_id": 9589,
+  "name": "Kubota GL241",
+  "brand": "Kubota",
+  "model": "GL241",
+  "years": {
+    "desde": 1996,
+    "hasta": 2001
+  },
+  "model_year": 1996,
+  "engine_power_hp": 24.7,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 23.7,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1104,
+  "weight_basis": "ROPS Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 8.7,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 9.5-24",
+  "tire_width_mm": 241,
+  "tire_diameter_mm": 1020,
+  "tire_front": {
+    "original": "6-14",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 14,
+    "diameter_mm_est": 615,
+    "tipo": "Diagonal",
+    "texto": "6-14"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F009/9589/9589-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F009/9589/9589-photo-001-ext045.jpg",
+  "image_url": "/uploads/tractors/td9589.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1996 - 2001",
+          "__seccion_2__": "GL Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota GL241 Engine",
+          "__seccion_2__": "Kubota 1.5L 3-cyl diesel",
+          "Fuel tank": "7.1 gal 26.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota GL241 Transmissions",
+          "__seccion_2__": "16-speed gear",
+          "__seccion_3__": "16-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota GL241 Power",
+          "Engine": "24.7 hp 18.4 kW",
+          "PTO (claimed)": "23.7 hp 17.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota GL241 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Pump flow": "6.1 gpm 23.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "JIS1",
+          "Rear lift": "1841 lbs 835 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "544@2600",
+          "&nbsp": "-770@2600"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "ROPS Wheelbase": "61 inches 154 cm",
+          "Cab Wheelbase": "62.4 inches 158 cm",
+          "Weight": "2436 to 2877 pounds",
+          "Front tire": "6-14",
+          "Rear tire": "9.5-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "GL (T0270-1920-8) published in 1996"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 27, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1996 - 2001",
+          "__seccion_2__": "GL Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota GL241 Tires",
+          "Standard tires (ag)": "Front: 6-14. Rear: 9.5-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "ROPS Wheelbase": "61 inches 154 cm",
+          "Cab Wheelbase": "62.4 inches 158 cm",
+          "ROPS Length": "116.1 inches 294 cm",
+          "Cab Length": "118.3 inches 300 cm",
+          "Width": "49 inches 124 cm",
+          "Height (ROPS)": "78 inches 198 cm",
+          "Height (cab)": "78.5 inches 199 cm",
+          "ROPS Weight": "2436 lbs 1104 kg",
+          "Cab Weight": "2877 lbs 1305 kg",
+          "Ground clearance": "13.8 inches 35 cm",
+          "Front tread": "37.4 inches 94 cm",
+          "Rear tread": "39.8 to 44.5 inches 101 to 113 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 27, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1996 - 2001",
+          "__seccion_2__": "GL Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota D1463",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "89.3 ci 1.5 L",
+          "Bore/Stroke": "3.23x3.64 inches 82 x 92 mm",
+          "Power": "24.7 hp 18.4 kW",
+          "Rated RPM": "2600",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 27, 2025"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/6/262-ford-4000.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/6/262-ford-4000-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/6/262-ford-4000-engine.html",
+    "source_id": 262,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:10:36.669Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/262/262-photo-001-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 112 KB"
+  },
+  "tractor_data_id": 262,
+  "name": "Ford 4000",
+  "brand": "Ford",
+  "model": "4000",
+  "years": {
+    "desde": 1962,
+    "hasta": 1975
+  },
+  "model_year": 1962,
+  "engine_power_hp": 62.5,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 43.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1434,
+  "weight_basis": "Utility Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 16,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 13.6x28",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1298,
+  "tire_front": {
+    "original": "6.00x16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00x16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/262/262-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/262/262-photo-001-ext000.jpg",
+  "image_url": "/uploads/tractors/td262.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1962 - 1975",
+          "__seccion_2__": "Model year 1962-1965 1965-1968 1968-1975",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Highland Park, Michigan, USA"
+        },
+        {
+          "__seccion_1__": "Ford 4000 Engines",
+          "__seccion_2__": "Ford 2.8L 4-cyl gasoline",
+          "__seccion_3__": "Ford 2.8L 4-cyl diesel",
+          "__seccion_4__": "Ford 2.8L 4-cyl LP gas",
+          "Fuel tank": "17 gal 64.3 L",
+          "__seccion_5__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 4000 Transmissions",
+          "__seccion_2__": "4-speed gear",
+          "__seccion_3__": "10-speed full power shift",
+          "__seccion_4__": "5-speed gear",
+          "__seccion_5__": "12-speed",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 4000 Power",
+          "Engine (gross)": "62.5 hp 46.6 kW",
+          "Drawbar (claimed)": "37.8 hp 28.2 kW",
+          "PTO (claimed)": "43.5 hp 32.4 kW",
+          "Plows": "4"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Utility Steering": "manual",
+          "Row-crop Steering": "power",
+          "__seccion_3__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 4000 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "5.4 gpm 20.4 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I,II",
+          "Rear lift (at ends)": "2360 lbs 1070 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "tranmission",
+          "&nbsp": "540/1000 Opt Optional",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "84.5 inches 214 cm",
+          "Weight": "3162 to 3502 pounds",
+          "Front tire": "6.00x16",
+          "Rear tire": "13.6x28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 4000 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "4000 Serial Number Location",
+          "__seccion_2__": "Serial number stamped into the starter mounting flange on the left side of the tractor."
+        },
+        {
+          "1962": "1001",
+          "1963": "11949",
+          "1964": "38931",
+          "__seccion_1__": "4000 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "generator",
+          "Gas Battery volts": "6",
+          "Diesel Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Industrial Tractors and Equipment published in 1964, by Ford",
+          "__seccion_3__": "1200 Farm Loaders published in 1966, by Ford",
+          "__seccion_4__": "Ford 4000 published in 1962",
+          "__seccion_5__": "4000 and 2000 published in 1962, by Ford"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on April 10, 2026",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1962 - 1975",
+          "__seccion_2__": "Model year 1962-1965 1965-1968 1968-1975",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Ford 4000 Tires",
+          "Ag front": "7.50-16",
+          "Ag rear": "14.9-24",
+          "&nbsp": "14.9-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "84.5 inches 214 cm",
+          "Length": "120.8 inches 306 cm",
+          "Height (hood)": "57.3 inches 145 cm",
+          "Height (exhaust)": "78 inches 198 cm",
+          "Utility Weight": "3162 lbs 1434 kg",
+          "Row-crop Weight": "3502 lbs 1588 kg",
+          "Utility Clearance (front axle)": "21.5 inches 54 cm",
+          "Row-crop Clearance (front axle)": "27.5 inches 69 cm",
+          "Clearance (rear axle)": "14 inches 35 cm",
+          "Utility Front tread": "52 to 76 inches 132 to 193 cm",
+          "Row-crop Front tread": "42 to 80 inches 106 to 203 cm",
+          "Utility Rear tread": "52 to 76 inches 132 to 193 cm",
+          "Row-crop Rear tread": "56 to 84 inches 142 to 213 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 10, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1962 - 1975",
+          "__seccion_2__": "Model year 1962-1965 1965-1968 1968-1975",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Ford 2.8L 4-cyl gasoline",
+          "__seccion_3__": "Ford 2.8L 4-cyl diesel",
+          "__seccion_4__": "Ford 2.8L 4-cyl LP gas"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "172 ci 2.8 L",
+          "Bore/Stroke": "3.90x3.60 inches 99 x 91 mm",
+          "Power (gross)": "62.5 hp 46.6 kW",
+          "Air cleaner": "oil bath",
+          "Compression": "7.5:1",
+          "Rated RPM": "2200",
+          "Torque": "158 lb-ft 214.2 Nm",
+          "Torque RPM": "1600",
+          "Firing order": "1-2-4-3",
+          "Starter": "electric",
+          "Starter volts": "6",
+          "Oil capacity": "5 qts 4.7 L",
+          "Coolant capacity": "14 qts 13.2 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "172 ci 2.8 L",
+          "Bore/Stroke": "3.90x3.60 inches 99 x 91 mm",
+          "Power (gross)": "56.3 hp 42.0 kW",
+          "Compression": "16.8:1",
+          "Rated RPM": "2000",
+          "Torque": "140.4 lb-ft 190.4 Nm",
+          "Torque RPM": "1400",
+          "Firing order": "1-2-4-3",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "5 qts 4.7 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "LP gas",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "172 ci 2.8 L",
+          "Bore/Stroke": "3.90x3.60 inches 99 x 91 mm",
+          "Compression": "8.65:1",
+          "Rated RPM": "2200",
+          "Firing order": "1-2-4-3"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 10, 2026"
+        }
+      ]
+    }
+  }
+}

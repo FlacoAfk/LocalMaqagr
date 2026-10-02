@@ -1,0 +1,306 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/8/81-john-deere-4430.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/8/81-john-deere-4430-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/8/81-john-deere-4430-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/8/81-john-deere-4430-engine.html",
+    "source_id": 81,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:46:42.393Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/81/81-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 50 KB"
+  },
+  "tractor_data_id": 81,
+  "name": "John Deere 4430",
+  "brand": "John Deere",
+  "model": "4430",
+  "years": {
+    "desde": 1973,
+    "hasta": 1977
+  },
+  "model_year": 1973,
+  "engine_power_hp": 125,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 125,
+  "pto_tested_hp": 125.88,
+  "drawbar_tested_hp": 104.99,
+  "weight_kg": 4414,
+  "weight_basis": "ROPS Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 53.5,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "10.00-16",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 16,
+    "diameter_mm_est": 838,
+    "tipo": "Diagonal",
+    "texto": "10.00-16"
+  },
+  "fuel_consumption_lph": 30.7,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/81/81-td3a.jpg",
+  "image_url": "/uploads/tractors/td81.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1973 - 1977",
+          "__seccion_2__": "Generation II Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "__seccion_4__": "Original price was $23,000 in 1977"
+        },
+        {
+          "4430": "row-crop",
+          "__seccion_1__": "Variants",
+          "4430 Hi-Crop": "high clearance"
+        },
+        {
+          "__seccion_1__": "John Deere 4430 Engine",
+          "__seccion_2__": "John Deere 6.6L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4430 Transmissions",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "16-speed partial power shift",
+          "__seccion_4__": "8-speed full power shift",
+          "__seccion_5__": "13-speed creeper",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4430 Power",
+          "PTO (claimed)": "125 hp 93.2 kW",
+          "Drawbar (tested)": "104.99 hp 78.3 kW",
+          "PTO (tested)": "125.88 hp 93.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 HFWD 4WD",
+          "Final drives": "planetary",
+          "Differential lock": "hydro-mechanical rear",
+          "__seccion_2__": "Power steering",
+          "__seccion_3__": "Differential hydraulic wet disc brakes",
+          "__seccion_4__": "Optional Roll-Gard ROPS. Optional Sound Gard body and cab."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 4430 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "46 gal 174.1 L",
+          "Hydraulic system": "11 gal 41.6 L",
+          "&nbsp": "10 gal (Power Shift) 37.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "11 gal 41.6 L",
+          "&nbsp": "10 gal (Power Shift) 37.9 L",
+          "Pressure": "2250 psi 155.1 bar",
+          "Valves": "1 to 3",
+          "Pump flow": "22 gpm 83.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "4550 lbs 2063 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@2200",
+          "&nbsp": "1000@2200"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "106.6 inches 270 cm",
+          "Weight": "9732 to 11350 pounds",
+          "Front tire": "10.00-16",
+          "Rear tire": "18.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4430 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "4430 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the rear of the John Deere 4430, right side, above the PTO shaft."
+        },
+        {
+          "1973": "1000",
+          "1974": "17500",
+          "1975": "33050",
+          "1976": "47222",
+          "1977": "62960",
+          "__seccion_1__": "4430 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "37",
+          "Cab Charging amps": "55",
+          "Batteries": "2",
+          "Battery CCA": "800",
+          "Battery volts": "6",
+          "Battery Group": "5D"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "4230-4430-4630 published in 1974, by John Deere",
+          "__seccion_3__": "Tractors 80 to 150 hp published in 1975, by John Deere",
+          "__seccion_4__": "Making you next tractor a John Deere has traditionally been a good investment published in 1975",
+          "__seccion_5__": "John Deere 4430 Tractor (OM-R65532 A7) published in 1976",
+          "__seccion_6__": "Operator's Manual John Deere 4430 Tractor (OM-R65532) published in 1976",
+          "__seccion_7__": "Product Information Manual published in 1975, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 8, 2021",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1973 - 1977",
+          "__seccion_2__": "Generation II Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 4430 Tires",
+          "Ag front": "7.5L-15",
+          "Ag rear": "23.1-30",
+          "&nbsp": "16.9-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "106.6 inches 270 cm",
+          "Length": "160.75 inches 408 cm",
+          "Width": "89.625 inches (axle) 227 cm",
+          "&nbsp": "82 inches (cab fenders) 208 cm",
+          "Rack-and-pinion rear axle": "3.62 by 113 inches 91 by 2870 mm",
+          "Front tread": "64 to 88 inches 162 to 223 cm (4WD)",
+          "Rear tread": "61 to 118 inches 154 to 299 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 4430 Weight",
+          "ROPS Shipping": "9732 lbs 4414 kg",
+          "Cab Shipping": "10762 lbs 4881 kg",
+          "Operating": "11350 lbs 5148 kg",
+          "Ballasted": "15060 lbs 6831 kg"
+        },
+        {
+          "__seccion_1__": "John Deere 4430 Height",
+          "Steering wheel": "85.25 inches 216 cm",
+          "Cab": "114 inches 289 cm",
+          "ROPS Exhaust": "109.3 inches 277 cm",
+          "Cab Exhaust": "125.25 inches 318 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 8, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1973 - 1977",
+          "__seccion_2__": "Generation II Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1110"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1110",
+          "__seccion_2__": "Diesel Quad-Range 2WD October 5 - 13, 1974 Link: Nebraska Tractor Test 1110 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "125.88 hp 93.9 kW",
+          "Fuel use": "8.1 gal/hour 30.7 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "104.99 hp 78.3 kW",
+          "Max pull": "12032 lbs 5457 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 8, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1973 - 1977",
+          "__seccion_2__": "Generation II Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline horizontal-shaft",
+          "Displacement": "404 ci 6.6 L",
+          "Bore/Stroke": "4.25x4.75 inches 108 x 121 mm",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dry with secondary element",
+          "Pre-heating": "ether injection",
+          "&nbsp": "32 qts (with heater) 30.3 L",
+          "Compression": "15.5:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "800-2200",
+          "Operating RPM": "1500-2200",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Coolant capacity": "30 qts 28.4 L",
+          "Intake valve clearance": "0.018 inches 0.457 mm",
+          "Exhaust valve clearance": "0.028 inches 0.711 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "17 qts 16.1 L",
+          "Oil change": "100 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 8, 2021"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/81/81-td4-b01.jpg"
+}

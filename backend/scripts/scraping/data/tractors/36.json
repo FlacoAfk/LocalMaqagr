@@ -1,0 +1,364 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/3/36-john-deere-60.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/3/36-john-deere-60-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/3/36-john-deere-60-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/3/36-john-deere-60-engine.html",
+    "source_id": 36,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:34:50.044Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/36/36-photo-001-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 84 KB",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1069/",
+    "nebraska_test": 472
+  },
+  "tractor_data_id": 36,
+  "name": "John Deere 60",
+  "brand": "John Deere",
+  "model": "60",
+  "years": {
+    "desde": 1952,
+    "hasta": 1956
+  },
+  "model_year": 1952,
+  "engine_power_hp": 41.57,
+  "engine_power_source": "belt_claimed (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 37.68,
+  "weight_kg": 2404,
+  "weight_basis": "Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 19.4,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 11-38",
+  "tire_width_mm": 279,
+  "tire_diameter_mm": 1440,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/36/36-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/36/36-photo-001-ext000.jpg",
+  "image_url": "/uploads/tractors/td36.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1952 - 1956",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "Total built": "57,166",
+          "__seccion_4__": "Original price was $2,500 in 1956",
+          "__seccion_5__": "Five variants of the John Deere model 60 were made. The basic 60, the standard 60S, the high-seat standard 60S6 (in 1955 and 1956 only), the orchard model 60-O, and the high-crop 60H with 32-inch clearance."
+        },
+        {
+          "60": "row-crop",
+          "__seccion_1__": "Variants",
+          "60S": "standard-tread",
+          "60O": "orchard",
+          "60 Hi-Crop": "high-clearance"
+        },
+        {
+          "__seccion_1__": "John Deere 60 Engines",
+          "__seccion_2__": "John Deere 5.3L 2-cyl gasoline",
+          "__seccion_3__": "John Deere 5.3L 2-cyl all-fuel",
+          "__seccion_4__": "John Deere 5.3L 2-cyl LP gas",
+          "__seccion_5__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 60 Transmission",
+          "__seccion_2__": "6-speed unsynchronized gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 60 Power",
+          "Drawbar (claimed)": "36.94 hp (gas) 27.5 kW",
+          "&nbsp": "33.26 hp (all-fuel) 24.8 kW",
+          "Belt (claimed)": "41.57 hp (gas) 31.0 kW",
+          "Plows": "3 (14-inch)",
+          "Drawbar (tested)": "37.68 hp 28.1 kW",
+          "Belt (tested)": "41.18 hp 30.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "manual",
+          "&nbsp": "power optional (1954 on)",
+          "__seccion_3__": "Differential mechanical expanding shoe brakes",
+          "__seccion_4__": "Open operator station with foam padded seat."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 60 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "20.5 gal 77.6 L",
+          "&nbsp": "28 gal (LP gas) 106.0 L",
+          "Aux. fuel": "1 gal 3.8 L",
+          "Hydraulic system": "1.5 gal 5.7 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "1.5 gal 5.7 L",
+          "Pressure": "930 psi 64.1 bar",
+          "Valves": "1",
+          "Pump flow": "8.9 gpm 33.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Type": "John Deere 800"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "&nbsp": "independent Opt Optional",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "90 inches 228 cm",
+          "Weight": "5300 to 5800 pounds",
+          "Front tire": "6.00-16",
+          "Rear tire": "11-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 60 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "60 Serial Number Location",
+          "__seccion_2__": "Right side of tractor. Either on top of frame, below the distributor or in front of the belt pulley."
+        },
+        {
+          "1952": "6000001",
+          "1953": "6007694",
+          "1954": "6027995",
+          "1955": "6042500",
+          "1956": "6057650",
+          "__seccion_1__": "60 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Belt Pulley",
+          "Diameter": "12.8 inches 32 cm",
+          "Width": "7.4 inches 18 cm",
+          "RPM": "975",
+          "Speed": "3270 ft/min 996.70 meters/min"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive",
+          "Batteries": "2",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The First Numbered Series of John Deere Tractors published in 2004, by Hain Publishing",
+          "__seccion_3__": "Highlights of the new John Deere 50 and 60 Tractors published in 1952",
+          "__seccion_4__": "Operator's Manual 60 Tractors (OM-R2034) published in 1952",
+          "__seccion_5__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_6__": "50 & 60 General-Purpose Tractors published in 1952, by John Deere",
+          "__seccion_7__": "General-Purpose Tractors published in 1953, by John Deere",
+          "__seccion_8__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on September 3, 2026",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1952 - 1956",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 60 Tires",
+          "Ag front": "7.50-16",
+          "Ag rear": "12-38",
+          "&nbsp": "11-42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "90 inches 228 cm",
+          "Length": "139 inches 353 cm",
+          "Width": "86.625 inches 220 cm",
+          "Height (hood)": "65.6 inches 166 cm",
+          "Height (exhaust)": "84.1 inches 213 cm",
+          "Rear axle": "3.125 inch diameter 79 mm",
+          "Rear tread": "56 to 88 inches 142 to 223 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 60 Weight",
+          "Shipping": "5300 lbs 2404 kg",
+          "Operating": "5800 lbs 2630 kg",
+          "Ballasted": "7400 lbs 3356 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 3, 2026"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1952 - 1956",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 472: gasoline 6-speed 2WD",
+          "__seccion_3__": "NTTL 490: tractor fuel 6-speed 2WD",
+          "__seccion_4__": "NTTL 513: LP gas 6-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 472"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 472",
+          "__seccion_2__": "Gasoline 6-speed 2WD May 26 - June 2, 1952 Link: Nebraska Tractor Test 472 file",
+          "Belt power (max)": "40.24 hp 30.0 kW",
+          "Belt fuel use (max)": "3.8 gal/hour 14.4 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "35.18 hp 26.2 kW",
+          "__seccion_4__": "Gear 4 used for power test.",
+          "Max pull": "4,372 lbs 1983 kg",
+          "__seccion_5__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 490"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 490",
+          "__seccion_2__": "Tractor fuel 6-speed 2WD April 15 - 21, 1953 Link: Nebraska Tractor Test 490 file",
+          "Belt power (max)": "32.48 hp 24.2 kW",
+          "Belt fuel use (max)": "3.2 gal/hour 12.1 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "29.17 hp 21.8 kW",
+          "__seccion_4__": "Gear 4 used for power test.",
+          "Max pull": "4,499 lbs 2040 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 513"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 513",
+          "__seccion_2__": "LP gas 6-speed 2WD November 6 - 12, 1953 Link: Nebraska Tractor Test 513 file",
+          "Belt power (max)": "41.18 hp 30.7 kW",
+          "Belt fuel use (max)": "4.7 gal/hour 17.8 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "37.68 hp 28.1 kW",
+          "__seccion_4__": "Gear 3 used for power test.",
+          "Max pull": "5,352 lbs 2427 kg",
+          "__seccion_5__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 3, 2026"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1952 - 1956",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "John Deere 5.3L 2-cyl gasoline",
+          "__seccion_3__": "John Deere 5.3L 2-cyl all-fuel",
+          "__seccion_4__": "John Deere 5.3L 2-cyl LP gas"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "321 ci 5.3 L",
+          "Bore/Stroke": "5.50x6.75 inches 140 x 171 mm",
+          "Fuel system": "duplex carburetor",
+          "Air cleaner": "oil bath",
+          "Compression": "6:1",
+          "Rated RPM": "975",
+          "Firing order": "1-2",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "8 qts 7.6 L",
+          "Coolant capacity": "33 qts 31.2 L",
+          "Sparkplug gap": "0.030 inches 0.762 mm",
+          "Point gap": "0.022 inches 0.559 mm"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "all-fuel",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "321 ci 5.3 L",
+          "Bore/Stroke": "5.50x6.75 inches 140 x 171 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "4.7:1",
+          "Rated RPM": "975",
+          "Firing order": "1-2",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "LP gas",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "321 ci 5.3 L",
+          "Bore/Stroke": "5.50x6.75 inches 140 x 171 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "7.3:1",
+          "Rated RPM": "975",
+          "Firing order": "1-2",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 3, 2026"
+        }
+      ]
+    }
+  }
+}

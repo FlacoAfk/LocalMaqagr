@@ -1,0 +1,303 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/5/6/1569-john-deere-5220.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/5/6/1569-john-deere-5220-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/5/6/1569-john-deere-5220-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/5/6/1569-john-deere-5220-engine.html",
+    "source_id": 1569,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:35:48.324Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1569/1569-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 111 KB"
+  },
+  "tractor_data_id": 1569,
+  "name": "John Deere 5220",
+  "brand": "John Deere",
+  "model": "5220",
+  "years": {
+    "desde": 2001,
+    "hasta": 2004
+  },
+  "model_year": 2001,
+  "engine_power_hp": 53,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 45,
+  "pto_tested_hp": 46.16,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2095,
+  "weight_basis": "4WD Max front axle",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 16.9,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "6.5-16",
+    "radial": false,
+    "width_mm": 165,
+    "rim_in": 16,
+    "diameter_mm_est": 687,
+    "tipo": "Diagonal",
+    "texto": "6.5-16"
+  },
+  "fuel_consumption_lph": 10.6,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1569/1569-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1569/1569-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1569.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2001 - 2004",
+          "__seccion_2__": "5000 Twenty Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Augusta, Georgia, USA",
+          "__seccion_4__": "Original price was $22,500 in 2004",
+          "__seccion_5__": "The John Deere 5220 is nearly identical to the model 5210 it replaced."
+        },
+        {
+          "__seccion_1__": "John Deere 5220 Engine",
+          "__seccion_2__": "John Deere 2.9L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5220 Transmissions",
+          "__seccion_2__": "9-speed collar shift",
+          "__seccion_3__": "9-speed partially synchronized",
+          "__seccion_4__": "12-speed power shuttle",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5220 Power",
+          "Engine": "53 hp 39.5 kW",
+          "PTO (claimed)": "45 hp 33.6 kW",
+          "PTO (tested)": "46.16 hp 34.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "ROPS with straddle-mount platform. Optional ROPS with isolated platform (IOOS). Optional cab."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 5220 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "18 gal (ROPS early) 68.1 L",
+          "&nbsp": "11.5 gal (PowrReverser) 43.5 L",
+          "Hydraulic system": "10 gal 37.9 L",
+          "Front axle": "6.6 qts 6.2 L",
+          "Front hubs": "0.74 qts (each) 0.7 L",
+          "Front diff.": "5.2 qts 4.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "10 gal 37.9 L",
+          "&nbsp": "11.5 gal (PowrReverser) 43.5 L",
+          "Pressure": "2800 psi 193.1 bar",
+          "Valves": "2 to 3",
+          "Pump flow": "11.4 gpm 43.1 lpm",
+          "Steering flow": "6.8 gpm 25.7 lpm",
+          "Steering press.": "1900 psi 131.0 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift (at 24\"/610mm)": "3,374 lbs 1530 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "&nbsp": "540E@1700",
+          "Engine RPM": "540@2400"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "ROPS Wheelbase": "80.7 inches 204 cm",
+          "2WD Cab Wheelbase": "79 inches 200 cm",
+          "4WD Cab Wheelbase": "80 inches 203 cm",
+          "Weight": "3576 to 6031 pounds",
+          "Front tire": "6.5-16",
+          "Rear tire": "13.6-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5220 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "2002": "220001",
+          "2003": "320001",
+          "2004": "420001",
+          "__seccion_1__": "5220 Serial Numbers",
+          "Location:": "The tractor's serial number plate is on the right side of the frame, above the front axle.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Links",
+          "__seccion_2__": "Temperature sensor : potential cold-start advance sensor failure leading to a no-start condition"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "40",
+          "Cab Charging amps": "60",
+          "Battery CCA": "700 (early)",
+          "&nbsp": "950 (late)",
+          "Battery volts": "12",
+          "Battery Group": "31"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Grounds Care Equipment Purchasing Guide published in 2001, by John Deere",
+          "__seccion_3__": "5020 Series Tractors published in 2004, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 18, 2023",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2001 - 2004",
+          "__seccion_2__": "5000 Twenty Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 5220 Tires",
+          "Ag front": "6.5-16",
+          "Ag rear": "13.6-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "ROPS Wheelbase": "80.7 inches 204 cm",
+          "2WD Cab Wheelbase": "79 inches 200 cm",
+          "4WD Cab Wheelbase": "80 inches 203 cm",
+          "2WD ROPS Length": "136.9 inches 347 cm",
+          "4WD ROPS Length": "141.6 inches 359 cm",
+          "2WD Cab Length": "139.5 inches 354 cm",
+          "4WD Cab Length": "142 inches 360 cm",
+          "ROPS Width": "70.9 inches 180 cm",
+          "Cab Width": "69.4 inches 176 cm",
+          "2WD Ground clearance": "18 inches 45 cm",
+          "4WD Ground clearance": "15.8 inches 40 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 5220 Weight",
+          "Shipping": "3,576 lbs (2WD straddle ROPS) 1622 kg",
+          "&nbsp": "6210 lbs (4WD with loader) 2816 kg",
+          "Max Drawbar": "1,675 lbs (extended) 759 kg",
+          "2WD Max front axle": "4700 lbs 2131 kg",
+          "4WD Max front axle": "4620 lbs 2095 kg",
+          "Max rear axle": "8360 lbs 3792 kg"
+        },
+        {
+          "__seccion_1__": "John Deere 5220 Height",
+          "Steering wheel": "62.7 inches (straddle) 159 cm",
+          "&nbsp": "82.7 inches (IOOS folded) 210 cm",
+          "Hood": "53.6 inches 136 cm",
+          "ROPS": "93.9 inches 238 cm",
+          "Cab": "97.5 inches 247 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 18, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2001 - 2004",
+          "__seccion_2__": "5000 Twenty Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1754"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1754",
+          "__seccion_2__": "Diesel 9-speed 4WD October 12 - 19, 1998 Link: Nebraska Tractor Test 1754 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "46.16 hp 34.4 kW",
+          "Fuel use": "2.8 gal/hour 10.6 l/hour"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 18, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2001 - 2004",
+          "__seccion_2__": "5000 Twenty Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 3029D",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "179 ci 2.9 L",
+          "Bore/Stroke": "4.19x4.33 inches 106 x 110 mm",
+          "Power": "53 hp 39.5 kW",
+          "Fuel use": "2.84 gal/hour 10.7 l/hour",
+          "Compression": "17.8:1",
+          "Rated RPM": "2400",
+          "Idle RPM": "825-2625",
+          "Operating RPM": "1600-2400",
+          "Torque": "119.5 lb-ft 162.0 Nm",
+          "Torque RPM": "1400",
+          "Firing order": "1-2-3",
+          "Starter volts": "12",
+          "Coolant capacity": "10 qts 9.5 L",
+          "Intake valve clearance": "0.014 inches 0.356 mm",
+          "Exhaust valve clearance": "0.018 inches 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "9 qts 8.5 L",
+          "Oil change": "100 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 18, 2023"
+        }
+      ]
+    }
+  }
+}

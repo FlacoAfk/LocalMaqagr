@@ -1,0 +1,237 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/8/3/1834-kubota-l4240.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/8/3/1834-kubota-l4240-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/8/3/1834-kubota-l4240-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1834,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:53:53.601Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1834/1834-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 87 KB"
+  },
+  "tractor_data_id": 1834,
+  "name": "Kubota L4240",
+  "brand": "Kubota",
+  "model": "L4240",
+  "years": {
+    "desde": 2007,
+    "hasta": 2013
+  },
+  "model_year": 2007,
+  "engine_power_hp": 44,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 36.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1599,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 13.4,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14.9-24",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1253,
+  "tire_front": {
+    "original": "8.3-16",
+    "radial": false,
+    "width_mm": 211,
+    "rim_in": 16,
+    "diameter_mm_est": 765,
+    "tipo": "Diagonal",
+    "texto": "8.3-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1834/1834-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1834/1834-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1834.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2007 - 2013",
+          "__seccion_2__": "L40 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor",
+          "Original price": "$23,949 (2011)",
+          "__seccion_3__": "The \"semi-independent\" mid PTO is linked with the rear PTO. Whenever the mid PTO is engaged, the rear PTO will also be engaged. The rear PTO can be run without the mid PTO."
+        },
+        {
+          "__seccion_1__": "Variants",
+          "L4240DT": "8-speed",
+          "L4240GST": "12-speed",
+          "L4240HST": "hydro",
+          "L4240HSTC": "hydro cab"
+        },
+        {
+          "__seccion_1__": "Kubota L4240 Engine",
+          "__seccion_2__": "Kubota 2.2L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L4240 Transmissions",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "8-speed",
+          "__seccion_4__": "12-speed",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L4240 Power",
+          "Engine (gross)": "44 hp 32.8 kW",
+          "Engine (net)": "42 hp 31.3 kW",
+          "Gear PTO (claimed)": "36.5 hp 27.2 kW",
+          "Hydro PTO (claimed)": "35 hp 26.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "standard",
+          "Steering": "hydrostatic power steering",
+          "__seccion_3__": "Mechanical wet disc brakes",
+          "__seccion_4__": "Two-post ROPS. Grand CAB on HSTC."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota L4240 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "13.2 gal 50.0 L",
+          "Hydraulic system": "11.4 gal 43.1 L",
+          "Front axle": "9.5 qts 9.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "11.4 gal 43.1 L",
+          "Valves": "2 to 3",
+          "Pump flow": "9.8 gpm 37.1 lpm",
+          "Total flow": "14.7 gpm 55.6 lpm",
+          "Steering flow": "4.9 gpm 18.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at ends)": "3,860 lbs 1750 kg",
+          "Rear lift (at 24\"/610mm)": "2,760 lbs 1251 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "Engine RPM": "540@2550",
+          "Mid PTO": "semi-independent (optional)",
+          "Mid PTO Type": "2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "74.6 inches 189 cm",
+          "Weight": "3527 to 4001 pounds",
+          "Front tire": "8.3-16",
+          "Rear tire": "14.9-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota L4240 attachments",
+          "__seccion_2__": "snowblower",
+          "__seccion_3__": "blade",
+          "__seccion_4__": "front-end loader",
+          "__seccion_5__": "backhoe",
+          "__seccion_6__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "&nbsp": "55 (cab)",
+          "Battery CCA": "582",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 21, 2014"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2007 - 2013",
+          "__seccion_2__": "L40 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota L4240 Tires",
+          "Standard tires (ag)": "Front: 8.3-16. Rear: 14.9-24",
+          "Lawn/turf front": "29x12.50-15",
+          "&nbsp": "610R470",
+          "Lawn/turf rear": "44x18-20",
+          "Industrial front": "10-16.5",
+          "Industrial rear": "17.5L-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "74.6 inches 189 cm",
+          "Length": "121.5 inches 308 cm",
+          "Width": "66.5 inches 168 cm",
+          "Height (ROPS)": "94.4 inches 239 cm",
+          "Weight": "3,527 lbs (DT) 1599 kg",
+          "&nbsp": "4,001 lbs (HSTC) 1814 kg",
+          "Ground clearance": "14.6 inches 37 cm",
+          "Front tread": "51.2 inches 130 cm",
+          "Rear tread": "50.6 to 60.2 inches 128 to 152 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 21, 2014"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2007 - 2013",
+          "__seccion_2__": "L40 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "134.1 ci 2.2 L",
+          "Bore/Stroke": "3.4x3.6 inches 86 x 91 mm",
+          "Power (net)": "42 hp 31.3 kW",
+          "Power (gross)": "44 hp 32.8 kW",
+          "Rated RPM": "2700",
+          "Starter volts": "12",
+          "Oil capacity": "8.7 qts 8.2 L",
+          "Coolant capacity": "7.9 qts 7.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 21, 2014"
+        }
+      ]
+    }
+  }
+}

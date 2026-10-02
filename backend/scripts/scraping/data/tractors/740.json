@@ -1,0 +1,168 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/7/4/740-massey-ferguson-98.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/7/4/740-massey-ferguson-98-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/7/4/740-massey-ferguson-98-engine.html",
+    "source_id": 740,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:22:48.924Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/740/740-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 59 KB"
+  },
+  "tractor_data_id": 740,
+  "name": "Massey Ferguson 98",
+  "brand": "Oliver",
+  "model": "ferguson 98",
+  "years": {
+    "desde": 1960,
+    "hasta": 1962
+  },
+  "model_year": 1960,
+  "engine_power_hp": 84.1,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 84.1,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 6804,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 30.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 15-34",
+  "tire_width_mm": 381,
+  "tire_diameter_mm": 1511,
+  "tire_front": {
+    "original": "7.50-18",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 18,
+    "diameter_mm_est": 781,
+    "tipo": "Diagonal",
+    "texto": "7.50-18"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/740/740-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/740/740-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td740.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1960 - 1962",
+          "__seccion_2__": "Standard-tread tractor",
+          "__seccion_3__": "Oliver built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Massey Ferguson",
+          "Manufacturer": "Oliver",
+          "__seccion_2__": "Standard-tread tractor",
+          "__seccion_3__": "Original price was $8,188 in 1962",
+          "__seccion_4__": "The Massey 98 is essentially the same as an Oliver 990. Only the hood and grill are different."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 98 Engine",
+          "__seccion_2__": "Detroit Diesel 3.5L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 98 Transmission",
+          "__seccion_2__": "6-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 98 Power",
+          "Drawbar (claimed)": "61.1 hp 45.6 kW",
+          "PTO (claimed)": "84.1 hp 62.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 98 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "1"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "15,000 lbs 6804 kg",
+          "Front tire": "7.50-18",
+          "Rear tire": "15-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 20, 2015"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1960 - 1962",
+          "__seccion_2__": "Standard-tread tractor",
+          "__seccion_3__": "Oliver built"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 98 Tires",
+          "Ag front": "7.50-18",
+          "Ag rear": "15-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Operating weight": "15,000 lbs 6804 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 20, 2015"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1960 - 1962",
+          "__seccion_2__": "Standard-tread tractor",
+          "__seccion_3__": "Oliver built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Detroit Diesel 3-71",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "213 ci 3.5 L",
+          "Rated RPM": "1675"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 20, 2015"
+        }
+      ]
+    }
+  }
+}

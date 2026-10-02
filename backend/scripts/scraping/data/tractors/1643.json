@@ -1,0 +1,265 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/6/4/1643-caseih-mx230.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/6/4/1643-caseih-mx230-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/6/4/1643-caseih-mx230-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/6/4/1643-caseih-mx230-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1643,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:40:06.329Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1643/1643-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 72 KB"
+  },
+  "tractor_data_id": 1643,
+  "name": "CaseIH MX230 Magnum",
+  "brand": "CaseIH (a part of CNH)",
+  "model": "mx230",
+  "years": {
+    "desde": 2003,
+    "hasta": 2006
+  },
+  "model_year": 2003,
+  "engine_power_hp": 234,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 190,
+  "pto_tested_hp": 216.55,
+  "drawbar_tested_hp": 165.17,
+  "weight_kg": 8482,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 87.3,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 47.7,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1643/1643-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1643/1643-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1643.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2003 - 2006",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH (a part of CNH)",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "TG230": "similar New Holland model"
+        },
+        {
+          "__seccion_1__": "CaseIH MX230 Engine",
+          "__seccion_2__": "CDC 8.3L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH MX230 Transmission",
+          "__seccion_2__": "18-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH MX230 Power",
+          "Engine": "234 hp 174.5 kW",
+          "PTO (claimed)": "190 hp 141.7 kW",
+          "Drawbar (tested)": "165.17 hp 123.2 kW",
+          "PTO (tested)": "216.55 hp 161.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Differential hydraulic wet disc brakes",
+          "__seccion_4__": "Surveyor Cab standard with air-conditioning. Optional automatic climate control."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH MX230 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "130 gal 492.1 L",
+          "&nbsp": "160 gal (optional) 605.6 L",
+          "Hydraulic system": "45.5 gal 172.2 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure flow compensated with parallel priority (PFC)",
+          "Capacity": "45.5 gal 172.2 L",
+          "Pressure": "2950 psi 203.4 bar",
+          "Valves": "3 to 5",
+          "Total flow": "38.6 gpm 146.1 lpm",
+          "&nbsp": "53.1 gpm (optional) 201.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/IIIN",
+          "Control": "electronic draft control",
+          "Rear lift": "13,960 lbs 6332 kg",
+          "&nbsp": "15,970 lbs (optional) 7243 kg",
+          "Front Hitch": "optional",
+          "Front lift": "7,170 lbs 3252 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (1.75)",
+          "&nbsp": "540/1000 (1.375 optional)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "120 inches (2WD) 304 cm",
+          "&nbsp": "118.3 inches (4WD) 300 cm",
+          "Weight": "18700 to 20100 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "MX230 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the tractor frame, above the front axle."
+        },
+        {
+          "2003": "JAZ125000",
+          "2004": "JAZ129400",
+          "2005": "JAZ134001",
+          "2006": "JAZ138614",
+          "__seccion_1__": "MX230 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "135",
+          "Charging volts": "12",
+          "Batteries": "2",
+          "Battery CCA": "1000",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MX Series Magnum Tractors published in 2003, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 9, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2003 - 2006",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH MX230 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "120 inches (2WD) 304 cm",
+          "&nbsp": "118.3 inches (4WD) 300 cm",
+          "Height (cab)": "124.6 inches 316 cm",
+          "Rear axle": "4 by 120 inches 101 by 3048 mm",
+          "Front tread": "60 to 88 inches 152 to 223 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH MX230 Weight",
+          "Shipping": "18,700 lbs (2WD) 8482 kg",
+          "&nbsp": "19,700 lbs (4WD) 8935 kg",
+          "Operating": "20,100 lbs (4WD) 9117 kg",
+          "Ballasted": "25,030 lbs 11353 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 9, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2003 - 2006",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1826"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1826",
+          "__seccion_2__": "Diesel 18-speed 4WD October 9 - 27, 2003 Link: OCED Tractor Test 1826 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "165.17 hp 123.2 kW",
+          "Fuel use": "12.4 gal/hour 46.9 l/hour",
+          "Power at rated engine speed": "192.02 hp 143.2 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 7 used for power test.",
+          "Max pull": "19,628 lbs 8903 kg",
+          "__seccion_6__": "Gear 4 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 9, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2003 - 2006",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CDC",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "6-cylinder 12-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "504.5 ci 8.3 L",
+          "Bore/Stroke": "4.488x5.315 inches 114 x 135 mm",
+          "Emissions": "Tier II",
+          "Power": "234 hp 174.5 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "17.0:1",
+          "Rated RPM": "2000",
+          "Torque": "1445 lb-ft 1959.4 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12",
+          "Oil capacity": "22 qts 20.8 L",
+          "Coolant capacity": "24 qts 22.7 L"
+        },
+        {
+          "__seccion_1__": "CaseIH MX230 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 9, 2024"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/1/113-john-deere-650.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/1/113-john-deere-650-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/1/113-john-deere-650-engine.html",
+    "source_id": 113,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:48:25.994Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/113/113-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 81 KB"
+  },
+  "tractor_data_id": 113,
+  "name": "John Deere 650",
+  "brand": "Yanmar",
+  "model": "deere 650",
+  "years": {
+    "desde": 1981,
+    "hasta": 1988
+  },
+  "model_year": 1981,
+  "engine_power_hp": 17,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 14.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 743,
+  "weight_basis": "4WD Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 5.3,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 9.5-16",
+  "tire_width_mm": 241,
+  "tire_diameter_mm": 817,
+  "tire_front": {
+    "original": "5.00-12",
+    "radial": false,
+    "width_mm": 127,
+    "rim_in": 12,
+    "diameter_mm_est": 521,
+    "tipo": "Diagonal",
+    "texto": "5.00-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/113/113-td3a.jpg",
+  "image_url": "/uploads/tractors/td113.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1981 - 1988",
+          "__seccion_2__": "50 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "John Deere",
+          "Manufacturer": "Yanmar",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan",
+          "Original price": "$6,030 (1983 2WD )",
+          "__seccion_4__": "$8,400 (1989 2WD )",
+          "__seccion_5__": "$9,300 (1989 4WD )"
+        },
+        {
+          "__seccion_1__": "John Deere 650 Engine",
+          "__seccion_2__": "Yanmar 0.9L 2-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 650 Transmission",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 650 Power",
+          "Engine (gross)": "17 hp 12.7 kW",
+          "PTO (claimed)": "14.5 hp 10.8 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "Steering": "manual",
+          "&nbsp": "power Opt Optional",
+          "__seccion_3__": "Differential mechanical dry, internal expanding shoe brakes",
+          "__seccion_4__": "Two-post fixed ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 650 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "6.2 gal 23.5 L",
+          "Hydraulic system": "3.75 gal 14.2 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "3.75 gal 14.2 L",
+          "Pressure": "2030 psi 140.0 bar",
+          "Valves": "2 Opt Optional"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Clutch": "electro-magnetic",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2350",
+          "Front PTO": "independent Opt Optional"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "56.1 inches 142 cm",
+          "Weight": "1530 to 1640 pounds",
+          "Front tire": "5.00-12",
+          "Rear tire": "9.5-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 650 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "snowblower",
+          "__seccion_4__": "blade",
+          "__seccion_5__": "front-end loader",
+          "__seccion_6__": "backhoe",
+          "__seccion_7__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "650 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the rear of the tractor, above the PTO shaft."
+        },
+        {
+          "1981": "1000",
+          "1982": "3539",
+          "1983": "6250",
+          "1984": "10543",
+          "1985": "15001",
+          "1986": "19001",
+          "1987": "22501",
+          "1988": "24298",
+          "__seccion_1__": "650 Serial Numbers",
+          "Final": "25426",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "15",
+          "Battery CCA": "370",
+          "Battery volts": "12",
+          "Battery Group": "BCI 24"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Consumer Products Price List published in 1983, by John Deere",
+          "__seccion_3__": "Grounds Care Equipment Purchasing Guide published in 1983, by John Deere",
+          "__seccion_4__": "Powerful Pickups published in 1990, by John Deere",
+          "__seccion_5__": "Compact Utility/Utility Tractors Product Information Handbook published in 1983, by John Deere",
+          "__seccion_6__": "Compact Utility Tractors published in 1981, by John Deere",
+          "__seccion_7__": "Compact Utility Diesel Tractors 14.5 to 40 PTO hp published in 1982, by John Deere",
+          "__seccion_8__": "Diesel Tractors 14.5 to 60 PTO hp published in 1984, by John Deere",
+          "__seccion_9__": "Mechanical Front-Wheel Drive published in 1984, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 11, 2023",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1981 - 1988",
+          "__seccion_2__": "50 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "John Deere 650 Tires",
+          "Standard tires (ag)": "Front: 5.00-12. Rear: 9.5-16",
+          "&nbsp": "Front: 6-12. Rear: 9.5-16",
+          "Lawn/turf front": "23/8.5-12",
+          "Lawn/turf rear": "31/15.5-15"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "56.1 inches 142 cm",
+          "Length": "107.5 inches 273 cm",
+          "Width": "43.2 inches 109 cm",
+          "2WD Clearance (front axle)": "13.5 inches 34 cm",
+          "4WD Clearance (front axle)": "10.4 inches 26 cm",
+          "2WD Front tread": "33 inches 83 cm",
+          "4WD Front tread": "34 inches 86 cm",
+          "Rear tread": "32/35 inches 81/88 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 650 Weight",
+          "2WD Shipping": "1530 lbs 694 kg",
+          "4WD Shipping": "1640 lbs 743 kg",
+          "Max Drawbar": "550 lbs 249 kg"
+        },
+        {
+          "__seccion_1__": "John Deere 650 Height",
+          "2WD Hood": "43.1 inches 109 cm",
+          "4WD Hood": "44.7 inches 113 cm",
+          "ROPS": "73.4 inches 186 cm",
+          "Exhaust": "75.2 inches 191 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 11, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1981 - 1988",
+          "__seccion_2__": "50 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Yanmar 2T80",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "52.1 ci 0.9 L",
+          "Bore/Stroke": "3.15x3.35 inches 80 x 85 mm",
+          "Power (gross)": "17 hp 12.7 kW",
+          "Air cleaner": "dry",
+          "Pre-heating": "therostart",
+          "Compression": "22.5:1",
+          "Rated RPM": "2600",
+          "Starter volts": "12",
+          "Oil capacity": "2.5 qts 2.4 L",
+          "Coolant capacity": "4.0 qts 3.8 L",
+          "Intake valve clearance": "0.008 inches 0.203 mm",
+          "Exhaust valve clearance": "0.008 inches 0.203 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 11, 2023"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/113/113-td4-b01-ext000.jpg"
+}

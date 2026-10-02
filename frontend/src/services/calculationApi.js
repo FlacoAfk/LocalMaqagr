@@ -43,6 +43,10 @@ const V3_GROSS_TO_NET_EFFICIENCY = 0.92;
 /** Eficiencia neta→eje: punto medio del rango 0,84–0,88 (Fig. 43 de Zoz & Grisso). */
 const V3_NET_TO_AXLE_EFFICIENCY = 0.86;
 
+/** Eficiencia TDP→eje 0,96 (ec. 28 de Zoz & Grisso). Ruta TDP del profesor (H2):
+ *  P_BDT = 0,96·TDP − P_ROD con TDP = 0,85·P_B (ec. 29) → 246,88 hp. */
+const V3_TDP_TO_AXLE_EFFICIENCY = 0.96;
+
 /** ρ de resistencia al rodamiento por superficie (lámina 26 del profesor).
  *  Columnas: llantas / oruga. Concreto no aplica para oruga (N.A.). */
 const V3_RHO_SUPERFICIE = {
@@ -105,6 +109,17 @@ const mockDirectPowerLoss = async (payload) => {
       const tempLoss =
         !hasTurbo && temperatureC > 15 ? pN * ((temperatureC - 15) / 5) * 0.01 : 0;
 
+      // 2b. Patinamiento (dato del ejercicio, p. ej. "Pat. 12 %" en H2): se resta dentro
+      //     del corchete sobre P_N, igual que en el backend (decisión 2026-10-01).
+      const slippageNumber = Number(payload.slippagePercent);
+      const hasSlippageData =
+        payload.slippagePercent !== undefined &&
+        payload.slippagePercent !== null &&
+        payload.slippagePercent !== '' &&
+        Number.isFinite(slippageNumber) &&
+        slippageNumber > 0;
+      const slippageLoss = hasSlippageData ? pN * (slippageNumber / 100) : 0;
+
       // 3. Rodadura + pendiente combinadas (lám. 26/27): la hoja del profesor redondea
       //    la conversión y presenta P_ROD = W·V·(ρ·cosα + senα)/274.
       const zozTractorType = mapTractionTypeToZozV3(payload.tractionType);
@@ -127,7 +142,7 @@ const mockDirectPowerLoss = async (payload) => {
       // Invariante bruta − total = neta: cuando P_ROD supera lo disponible
       // (P_N − P_ALT − P_TEMP) se escala proporcionalmente al máximo disponible
       // (misma conducta que el backend).
-      const availableBeforeRod = pN - altLoss - tempLoss;
+      const availableBeforeRod = pN - altLoss - tempLoss - slippageLoss;
       const pRodRaw = rollingPart + slopePart;
       if (pRodRaw > availableBeforeRod) {
         const scale = availableBeforeRod > 0 ? availableBeforeRod / pRodRaw : 0;
@@ -136,7 +151,7 @@ const mockDirectPowerLoss = async (payload) => {
       }
       const pRod = rollingPart + slopePart;
 
-      // 4. Potencia en el eje: P_EJE = (P_N − P_ALT − P_TEMP − P_ROD) · 0,86
+      // 4. Potencia en el eje: P_EJE = (P_N − P_ALT − P_TEMP − P_PAT − P_ROD) · 0,86
       const effectiveBase = Math.max(0, availableBeforeRod - pRod);
       const pEje = effectiveBase * V3_NET_TO_AXLE_EFFICIENCY;
 
@@ -166,7 +181,7 @@ const mockDirectPowerLoss = async (payload) => {
       const grossToNetLoss = enginePowerHp - pN;
       const netToAxleLossHp = effectiveBase * (1 - V3_NET_TO_AXLE_EFFICIENCY);
       const transmissionLossHp = grossToNetLoss + netToAxleLossHp + tractionLossHp;
-      const totalLossHp = altLoss + tempLoss + transmissionLossHp + rollingPart + slopePart;
+      const totalLossHp = altLoss + tempLoss + slippageLoss + transmissionLossHp + rollingPart + slopePart;
       const efficiencyPercentage =
         enginePowerHp > 0 ? (netPowerHp / enginePowerHp) * 100 : 0;
 
@@ -177,14 +192,19 @@ const mockDirectPowerLoss = async (payload) => {
           ? null
           : Number(payload.pmaxTdpHp);
       if (pmaxTdpHpNumber !== null && (!Number.isFinite(pmaxTdpHpNumber) || pmaxTdpHpNumber <= 0)) {
-        warnings.push('Pmax TDP inválida, se usó el default 86% de la potencia bruta');
+        warnings.push('Pmax TDP inválida, se usó el default 85% de la potencia bruta');
         pmaxTdpHpNumber = null;
       }
       const hasUserPto = pmaxTdpHpNumber !== null;
-      const ptoPowerHp = hasUserPto ? pmaxTdpHpNumber : enginePowerHp * 0.86;
+      const ptoPowerHp = hasUserPto ? pmaxTdpHpNumber : enginePowerHp * 0.85;
       const ptoSource = hasUserPto
         ? 'ingresada por el usuario'
-        : 'default 86% de la potencia bruta';
+        : 'default 85% de la potencia bruta';
+
+      // Ruta TDP del profesor (reproduce el 246,88 de la hoja H2): TDP → eje (0,96)
+      // menos rodadura, sin pérdidas atmosféricas ni ET.
+      const pEjeTdpHp = ptoPowerHp * V3_TDP_TO_AXLE_EFFICIENCY;
+      const pBdtTdpHp = Math.max(0, pEjeTdpHp - pRod);
 
       resolve({
         success: true,
@@ -200,7 +220,7 @@ const mockDirectPowerLoss = async (payload) => {
             slopeLossHp: round2(slopePart),
             altitudeLossHp: round2(altLoss),
             rollingResistanceLossHp: round2(rollingPart),
-            slippageLossHp: 0, // No se resta aparte: absorbido en la ET de Fig. 47
+            slippageLossHp: round2(slippageLoss), // Dato del ejercicio: se resta en el corchete
             transmissionLossHp: round2(transmissionLossHp),
             totalLossHp: round2(totalLossHp),
           },
@@ -219,6 +239,7 @@ const mockDirectPowerLoss = async (payload) => {
             pNHp: round2(pN),
             pAltHp: round2(altLoss),
             pTempHp: round2(tempLoss),
+            pPatHp: round2(slippageLoss),
             pRodHp: round2(pRod),
             pEjeHp: round2(pEje),
             rho,
@@ -229,8 +250,12 @@ const mockDirectPowerLoss = async (payload) => {
             et: round2(et),
             ptoPowerHp: round2(ptoPowerHp),
             ptoSource,
+            // Ruta TDP del profesor (ec. 28/29): reproduce el 246,88 de la hoja H2
+            pEjeTdpHp: round2(pEjeTdpHp),
+            pBdtTdpHp: round2(pBdtTdpHp),
+            tdpToAxleEfficiency: V3_TDP_TO_AXLE_EFFICIENCY,
             rollingIncludedInEt: false, // En v3 la rodadura SÍ se resta aparte (P_ROD)
-            slippageAbsorbed: true,
+            slippageAbsorbed: false, // Pat. es dato del ejercicio: se resta en el corchete
           },
         },
       });

@@ -1,0 +1,263 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/2/0/1201-caseih-8910.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/2/0/1201-caseih-8910-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/2/0/1201-caseih-8910-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/2/0/1201-caseih-8910-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1201,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:36:39.973Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1201/1201-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 51 KB"
+  },
+  "tractor_data_id": 1201,
+  "name": "CaseIH 8910",
+  "brand": "CaseIH",
+  "model": "8910",
+  "years": {
+    "desde": 1997,
+    "hasta": 1998
+  },
+  "model_year": 1997,
+  "engine_power_hp": 135,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 135,
+  "pto_tested_hp": 147.91,
+  "drawbar_tested_hp": 116.38,
+  "weight_kg": 7361,
+  "weight_basis": "4WD Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 73.5,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 32.9,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1201/1201-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1201/1201-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1201.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1997 - 1998",
+          "__seccion_2__": "Magnum 8900 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA",
+          "__seccion_4__": "Original price was $78,000 in 1998"
+        },
+        {
+          "__seccion_1__": "CaseIH 8910 Engine",
+          "__seccion_2__": "CDC 8.3L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 8910 Transmissions",
+          "__seccion_2__": "18-speed full power shift",
+          "__seccion_3__": "24-speed creeper",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 8910 Power",
+          "PTO (claimed)": "135 hp 100.7 kW",
+          "Drawbar (tested)": "116.38 hp 86.8 kW",
+          "PTO (tested)": "147.91 hp 110.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "electric rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH 8910 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "87 gal 329.3 L",
+          "&nbsp": "117 gal Opt Optional 442.8 L",
+          "Hydraulic system": "45.5 gal 172.2 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure-flow compensated",
+          "Capacity": "45.5 gal 172.2 L",
+          "Pressure": "2200 psi 151.7 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "29 gpm 109.8 lpm",
+          "SCV flow": "27 gpm 102.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/IIIN",
+          "Control": "electronic lower-link draft sensing",
+          "Rear lift": "9500 lbs 4309 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540/1000 (dual-shaft 1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "118.3 inches 300 cm",
+          "Weight": "15215 to 17224 pounds",
+          "Front tire": "14L-16.1",
+          "Rear tire": "20.8R-42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 8910 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1997": "JJA0072001",
+          "1998": "JJA0083000",
+          "1999": "JJA0097438",
+          "__seccion_1__": "8910 Serial Numbers",
+          "Location:": "Serial number plate on the dashboard console inside the tractor cab, near the floor.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "110",
+          "Charging volts": "12",
+          "Batteries": "2",
+          "Battery CCA": "950",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Introducing The New 8900 Series Magnum Tractors published in 1996, by CaseIH",
+          "__seccion_3__": "8900 Series Tractors published in 1997, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 10, 2018"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1997 - 1998",
+          "__seccion_2__": "Magnum 8900 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH 8910 Tires",
+          "Ag front": "14L-16.1",
+          "Ag rear": "20.8R-42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "118.3 inches 300 cm",
+          "2WD Clearance (front axle)": "22.4 inches 56 cm",
+          "4WD Clearance (front axle)": "16.6 inches 42 cm",
+          "Rear axle": "3.5 by 96 inches 88 by 2438 mm",
+          "Front tread": "60 to 88 inches 152 to 223 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH 8910 Weight",
+          "2WD Shipping": "15215 lbs 6901 kg",
+          "4WD Shipping": "16230 lbs 7361 kg",
+          "Operating": "17,224 lbs 7812 kg",
+          "Ballasted": "18,956 lbs 8598 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 10, 2018"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1997 - 1998",
+          "__seccion_2__": "Magnum 8900 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1734"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1734",
+          "__seccion_2__": "Diesel 18-speed 4WD September 10 - October 1, 1997 Link: OCED Tractor Test 1734 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "116.38 hp 86.8 kW",
+          "Fuel use": "8.6 gal/hour 32.6 l/hour",
+          "Power at rated engine speed": "137.44 hp 102.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 8 used for power test.",
+          "Max pull": "16529 lbs 7497 kg",
+          "__seccion_6__": "Gear 4 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 10, 2018"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1997 - 1998",
+          "__seccion_2__": "Magnum 8900 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CDC",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "504.5 ci 8.3 L",
+          "Bore/Stroke": "4.488x5.315 inches 114 x 135 mm",
+          "Fuel system": "mechanical injection",
+          "Air cleaner": "dual dry element",
+          "Compression": "16.5:1",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "22 qts 20.8 L",
+          "Coolant capacity": "28 qts 26.5 L"
+        },
+        {
+          "__seccion_1__": "CaseIH 8910 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 10, 2018"
+        }
+      ]
+    }
+  }
+}

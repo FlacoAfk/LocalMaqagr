@@ -1,0 +1,167 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/002/2/0/2202-deutz-d-16006.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/002/2/0/2202-deutz-d-16006-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/002/2/0/2202-deutz-d-16006-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 2202,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T23:01:37.001Z",
+    "foto_original": "https://www.tractordata.com/photos/F002/2202/2202-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 46 KB"
+  },
+  "tractor_data_id": 2202,
+  "name": "Deutz D 16006",
+  "brand": "Deutz",
+  "model": "D 16006",
+  "years": {
+    "desde": 1970,
+    "hasta": 1975
+  },
+  "model_year": 1970,
+  "engine_power_hp": 160,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 9001,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 58.7,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 23.1-30",
+  "tire_width_mm": 587,
+  "tire_diameter_mm": 1759,
+  "tire_front": {
+    "original": "23.1-30",
+    "radial": false,
+    "width_mm": 587,
+    "rim_in": 30,
+    "diameter_mm_est": 1759,
+    "tipo": "Diagonal",
+    "texto": "23.1-30"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F002/2202/2202-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F002/2202/2202-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td2202.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1970 - 1975",
+          "__seccion_2__": "06 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Deutz",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Deutz D 16006 Engine",
+          "__seccion_2__": "Deutz 11.3L 8-cyl diesel",
+          "Fuel tank": "100.4 gal 380.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Deutz D 16006 Transmission",
+          "__seccion_2__": "4-speed torque converter",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Deutz D 16006 Power",
+          "Engine": "160 hp 119.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Articulated power steering",
+          "__seccion_4__": "Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Deutz D 16006 photos..."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear lift": "7717 lbs 3500 kg"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "120.08 inches 305 cm",
+          "Weight": "19,845 lbs 9001 kg",
+          "Front tire": "18.4-34",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 18, 2016"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1970 - 1975",
+          "__seccion_2__": "06 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Deutz D 16006 Tires",
+          "Ag front": "18.4-34",
+          "&nbsp": "23.1-30",
+          "Ag rear": "18.4-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "120.08 inches 305 cm",
+          "Length": "244.1 inches 620 cm",
+          "Height": "126 inches 320 cm",
+          "Weight": "19,845 lbs 9001 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 18, 2016"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1970 - 1975",
+          "__seccion_2__": "06 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Deutz F8L 413",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "8-cylinder",
+          "Displacement": "688.92 ci 11.3 L",
+          "Bore/Stroke": "4.72x4.72 inches 120 x 120 mm",
+          "Power": "160 hp 119.3 kW",
+          "Rated RPM": "2300"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 18, 2016"
+        }
+      ]
+    }
+  }
+}

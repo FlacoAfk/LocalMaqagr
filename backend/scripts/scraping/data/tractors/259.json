@@ -1,0 +1,477 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/5/259-ford-3000.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/5/259-ford-3000-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/2/5/259-ford-3000-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/5/259-ford-3000-engine.html",
+    "source_id": 259,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:10:26.747Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/259/259-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 97 KB"
+  },
+  "tractor_data_id": 259,
+  "name": "Ford 3000",
+  "brand": "Ford",
+  "model": "3000",
+  "years": {
+    "desde": 1965,
+    "hasta": 1975
+  },
+  "model_year": 1965,
+  "engine_power_hp": 46.7,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 39.1,
+  "pto_tested_hp": 40.63,
+  "drawbar_tested_hp": 35.43,
+  "weight_kg": 1678,
+  "weight_basis": "Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 22.7,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 12.4-28",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1247,
+  "tire_front": {
+    "original": "5.50-16",
+    "radial": false,
+    "width_mm": 140,
+    "rim_in": 16,
+    "diameter_mm_est": 644,
+    "tipo": "Diagonal",
+    "texto": "5.50-16"
+  },
+  "fuel_consumption_lph": 9.1,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/259/259-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/259/259-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td259.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1965 - 1975",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Utility tractor",
+          "Factories": "Highland Park, Michigan, USA",
+          "&nbsp": "Antwerp, Belgium",
+          "__seccion_3__": "Original price was $6,300 in 1975",
+          "__seccion_4__": "The Ford 3000 would have an A (Belgium), B (England), or C (United States) prefix to the serial number depending on where it was built."
+        },
+        {
+          "3100": "all-purpose",
+          "3300": "vineyard",
+          "3310": "narrow chassis",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Ford 3000 Engines",
+          "__seccion_2__": "Ford 2.6L 3-cyl gasoline",
+          "__seccion_3__": "Ford 2.9L 3-cyl diesel",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 3000 Transmissions",
+          "__seccion_2__": "10-speed full power shift",
+          "__seccion_3__": "12-speed gear",
+          "__seccion_4__": "8-speed gear",
+          "__seccion_5__": "6-speed gear",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 3000 Power",
+          "Engine": "46.7 hp 34.8 kW",
+          "Gas 4-speed PTO (claimed)": "39.1 hp 29.2 kW",
+          "Gas 6-speed PTO (claimed)": "38.3 hp 28.6 kW",
+          "&nbsp": "37.8 hp 28.2 kW",
+          "Gas 10-speed PTO (claimed)": "36.5 hp 27.2 kW",
+          "Diesel 4-speed PTO (claimed)": "39.4 hp 29.4 kW",
+          "Diesel 6-speed PTO (claimed)": "40.6 hp 30.3 kW",
+          "Diesel 8-speed PTO (claimed)": "39.2 hp 29.2 kW",
+          "Diesel 10-speed PTO (claimed)": "38 hp 28.3 kW",
+          "Drawbar (tested)": "35.43 hp 26.4 kW",
+          "PTO (tested)": "40.63 hp 30.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Differential lock": "mechanical rear Opt Optional",
+          "Steering": "power Opt Optional",
+          "__seccion_3__": "Mechanical expanding shoe brakes",
+          "__seccion_4__": "Open operator station. Canvas cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 3000 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "13 gal 49.2 L",
+          "Hydraulic system": "6.3 gal 23.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "6.3 gal 23.8 L",
+          "Pressure": "2500 psi 172.4 bar",
+          "Pump flow": "5 gpm 18.9 lpm",
+          "Steering flow": "4.25 gpm 16.1 lpm",
+          "Steering press.": "600 psi 41.4 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at 24\"/610mm)": "1700 lbs 771 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission * Continuous-running transmission PTO on the 4- and 8-speed",
+          "&nbsp": "540/1000 * 1000-RPM only available with Select-O-Speed transmission.",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "75.8 inches 192 cm",
+          "Weight": "3700 to 4185 pounds",
+          "Front tire": "5.50-16",
+          "Rear tire": "12.4-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 3000 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "3000 Serial Number Location",
+          "__seccion_2__": "Transmission, front upper-right corner, stamped into top of casting"
+        },
+        {
+          "1965": "C100000",
+          "1966": "C124200",
+          "1967": "C161300",
+          "1968": "C190200",
+          "1969": "C226000",
+          "1970": "C257600",
+          "1971": "C292100",
+          "1972": "C327200",
+          "1973": "C367300",
+          "1974": "C405200",
+          "1975": "C450700",
+          "__seccion_1__": "3000 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "generator",
+          "Charging amps": "22",
+          "Battery volts": "12",
+          "Gas Battery AH": "80",
+          "Diesel Battery AH": "128"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Tractors For Industrial Use published in 1967, by Ford",
+          "__seccion_3__": "Industrial Tractors - Equipment published in 1968, by Ford",
+          "__seccion_4__": "Industrial Tractors & Equipment Specifications 1969 published by Ford",
+          "__seccion_5__": "Buyer's Guide '73 published in 1973, by Ford",
+          "__seccion_6__": "Buyer's Guide '74 published in 1974, by Ford",
+          "__seccion_7__": "1200 Farm Loaders published in 1966, by Ford",
+          "__seccion_8__": "2000 - 3000 published in 1972, by Ford",
+          "__seccion_9__": "2000 - 3000 published by Ford",
+          "__seccion_10__": "New-Size 2-3 Plow 3000 published in 1964, by Ford",
+          "__seccion_11__": "3000 published in 1965, by Ford",
+          "__seccion_12__": "3000 published by Ford",
+          "__seccion_13__": "Ford Tractor Sales Handbook published in 1968",
+          "__seccion_14__": "New-Size Fords published in 1964",
+          "__seccion_15__": "Heavier-Stronger-Tougher Compare New-Size Fords published in 1965",
+          "__seccion_16__": "2, 3, or 4-plow tractor? Here's why farmers favor Fords. published in 1968",
+          "__seccion_17__": "Ford Tractor Operator's Manual 2000 3000 4000 5000 (SE3006) published in 1966",
+          "__seccion_18__": "Operator's Manual 2000 3000 4000 5000 (SE 3225) published in 1968",
+          "__seccion_19__": "Operator's Manual Supplement 2000 3000 4000 5000 (SE 3225-S2A) published in 1968"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on September 29, 2025",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1965 - 1975",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Ford 3000 Tires",
+          "Ag front": "6.00-16",
+          "Ag rear": "14.9-24",
+          "&nbsp": "13.6-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "75.8 inches 192 cm",
+          "Length": "127 inches 322 cm",
+          "Width": "64 inches 162 cm",
+          "Ground clearance": "13.4 inches (transmission) 34 cm",
+          "Clearance (front axle)": "21.5 inches 54 cm",
+          "Front tread": "52 to 80 inches 132 to 203 cm",
+          "Rear tread": "52 to 76 inches 132 to 193 cm"
+        },
+        {
+          "__seccion_1__": "Ford 3000 Weight",
+          "Shipping": "3,700 lbs 1678 kg",
+          "Operating": "4,185 lbs 1898 kg",
+          "Ballasted": "6,940 lbs 3147 kg"
+        },
+        {
+          "__seccion_1__": "Ford 3000 Height",
+          "Steering wheel": "58 inches 147 cm",
+          "Hood": "54 inches 137 cm",
+          "Exhaust": "83 inches 210 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 29, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1965 - 1975",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 881: diesel 8-speed 2WD",
+          "__seccion_3__": "NTTL 882: diesel Select-O-Speed 2WD",
+          "__seccion_4__": "NTTL 883: diesel 12-speed 2WD",
+          "__seccion_5__": "NTTL 885: gasoline Select-O-Speed 2WD",
+          "__seccion_6__": "NTTL 888: gasoline 8-speed 2WD",
+          "__seccion_7__": "NTTL 889: gasoline 12-speed 2WD",
+          "__seccion_8__": "NTTL 1051: gasoline 6-speed 2WD",
+          "__seccion_9__": "NTTL 1052: diesel 6-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 881"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 881",
+          "__seccion_2__": "Diesel 8-speed 2WD March 29 - April 6, 1965 Link: Nebraska Tractor Test 881 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "39.20 hp 29.2 kW",
+          "Fuel use": "2.5 gal/hour 9.5 l/hour",
+          "Power at rated PTO speed": "37.34 hp 27.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "34.88 hp 26.0 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "5,106 lbs 2316 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 882"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 882",
+          "__seccion_2__": "Diesel Select-O-Speed 2WD March 24 - April 9, 1965 Link: Nebraska Tractor Test 882 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "38.08 hp 28.4 kW",
+          "Fuel use": "2.5 gal/hour 9.5 l/hour",
+          "Power at rated PTO speed": "37.85 hp 28.2 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "30.60 hp 22.8 kW",
+          "__seccion_5__": "Gear 5 used for power test.",
+          "Max pull": "5,016 lbs 2275 kg",
+          "__seccion_6__": "Gear 4 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 883"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 883",
+          "__seccion_2__": "Diesel 12-speed 2WD March 27 - April 7, 1965 Link: Nebraska Tractor Test 883 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "39.46 hp 29.4 kW",
+          "Fuel use": "2.6 gal/hour 9.8 l/hour",
+          "Power at rated PTO speed": "31.81 hp 23.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "35.43 hp 26.4 kW",
+          "__seccion_5__": "Gear 2D used for power test.",
+          "Max pull": "4,629 lbs 2099 kg",
+          "__seccion_6__": "Gear 1U used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 885"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 885",
+          "__seccion_2__": "Gasoline Select-O-Speed 2WD April 8 - 26, 1965 Link: Nebraska Tractor Test 885 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "36.49 hp 27.2 kW",
+          "Fuel use": "3.1 gal/hour 11.7 l/hour",
+          "Power at rated PTO speed": "35.30 hp 26.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "29.76 hp 22.2 kW",
+          "__seccion_5__": "Gear 6 used for power test.",
+          "Max pull": "5,019 lbs 2276 kg",
+          "__seccion_6__": "Gear 3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 888"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 888",
+          "__seccion_2__": "Gasoline 8-speed 2WD April 20 - 27, 1965 Link: Nebraska Tractor Test 888 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "37.84 hp 28.2 kW",
+          "Fuel use": "3.3 gal/hour 12.5 l/hour",
+          "Power at rated PTO speed": "34.62 hp 25.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "32.52 hp 24.3 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "5,059 lbs 2294 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 889"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 889",
+          "__seccion_2__": "Gasoline 12-speed 2WD April 20 - May 6, 1965 Link: Nebraska Tractor Test 889 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "39.17 hp 29.2 kW",
+          "Fuel use": "3.3 gal/hour 12.5 l/hour",
+          "Power at rated PTO speed": "30.64 hp 22.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "33.04 hp 24.6 kW",
+          "__seccion_5__": "Gear 2D used for power test.",
+          "Max pull": "4,622 lbs 2096 kg",
+          "__seccion_6__": "Gear 1U used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1051"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1051",
+          "__seccion_2__": "Gasoline 6-speed 2WD September 29 - October 5, 1970 Link: Nebraska Tractor Test 1051 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "38.33 hp 28.6 kW",
+          "Fuel use": "3.4 gal/hour 12.9 l/hour",
+          "Power at rated PTO speed": "34.34 hp 25.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "31.15 hp 23.2 kW",
+          "__seccion_5__": "Gear 3 used for power test.",
+          "Max pull": "5,109 lbs 2317 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1052"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1052",
+          "__seccion_2__": "Diesel 6-speed 2WD September 28 - October 14, 1970 Link: Nebraska Tractor Test 1052 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "40.63 hp 30.3 kW",
+          "Fuel use": "2.6 gal/hour 9.8 l/hour",
+          "Power at rated PTO speed": "39.07 hp 29.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "34.96 hp 26.1 kW",
+          "__seccion_5__": "Gear 3 used for power test.",
+          "Max pull": "5,208 lbs 2362 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 29, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1965 - 1975",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Ford 2.6L 3-cyl gasoline",
+          "__seccion_3__": "Ford 2.9L 3-cyl diesel"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "158 ci 2.6 L",
+          "Bore/Stroke": "4.20x3.80 inches 107 x 97 mm",
+          "Power": "46.7 hp 34.8 kW",
+          "Air cleaner": "dry",
+          "Compression": "8:1",
+          "Rated RPM": "2100",
+          "Torque": "123 lb-ft 166.8 Nm",
+          "Torque RPM": "1350",
+          "Firing order": "1-2-3",
+          "Starter volts": "12",
+          "Coolant capacity": "13.8 qts 13.1 L",
+          "Sparkplug gap": "0.023-0.027 inches 0.584 mm",
+          "Point gap": "0.022-0.028 inches 0.559 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "8 qts 7.6 L"
+        },
+        {
+          "__seccion_1__": "Ford 3000 Engine"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "175 ci 2.9 L",
+          "Bore/Stroke": "4.20x4.20 inches 107 x 107 mm",
+          "Power": "44.1 hp 32.9 kW",
+          "Air cleaner": "oil bath",
+          "Compression": "16.5:1",
+          "Rated RPM": "2000",
+          "Torque": "125.7 lb-ft 170.4 Nm",
+          "Torque RPM": "1150",
+          "Firing order": "1-2-3"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "8 qts 7.6 L"
+        },
+        {
+          "__seccion_1__": "Ford 3000 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 29, 2025"
+        }
+      ]
+    }
+  }
+}

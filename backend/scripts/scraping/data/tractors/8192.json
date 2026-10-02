@@ -1,0 +1,209 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/1/9/8192-caseih-685xl.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/1/9/8192-caseih-685xl-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/1/9/8192-caseih-685xl-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 8192,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:51:36.232Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8192/8192-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 8192,
+  "name": "CaseIH 685XL",
+  "brand": "CaseIH",
+  "model": "685XL",
+  "years": {
+    "desde": 1985,
+    "hasta": 1990
+  },
+  "model_year": 1985,
+  "engine_power_hp": 69,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 64.2,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3265,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 23.6,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9-34",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1593,
+  "tire_front": {
+    "original": "12.4-24",
+    "radial": false,
+    "width_mm": 315,
+    "rim_in": 24,
+    "diameter_mm_est": 1145,
+    "tipo": "Diagonal",
+    "texto": "12.4-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F008/8192/8192-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td8192.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1985 - 1990",
+          "__seccion_2__": "85 XL Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Doncaster, England"
+        },
+        {
+          "__seccion_1__": "CaseIH 685XL Engine",
+          "__seccion_2__": "CaseIH 3.9L 4-cyl diesel",
+          "Fuel tank": "29.6 gal 112.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 685XL Transmissions",
+          "__seccion_2__": "8-speed synchromesh",
+          "__seccion_3__": "16-speed two-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 685XL Power",
+          "Engine": "69 hp 51.5 kW",
+          "PTO (claimed)": "64.2 hp 47.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Secura cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH 685XL are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Pressure": "2500 psi 172.4 bar",
+          "Pump flow": "12.4 gpm 46.9 lpm",
+          "Steering flow": "2.6 gpm 9.8 lpm",
+          "Steering press.": "1550 psi 106.9 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "Top-link draft sensing.",
+          "Rear lift": "5250 lbs 2381 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "540/1000",
+          "Engine RPM": "540@2140",
+          "&nbsp": "1000@2190"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "88.2 inches 224 cm",
+          "4WD Wheelbase": "85.4 inches 216 cm",
+          "Weight": "6700 to 7200 pounds",
+          "Front tire": "10.00-16",
+          "2WD Rear tire": "16.9-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "45",
+          "Battery CCA": "420",
+          "Battery volts": "12",
+          "Battery AH": "95"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "85 Series published in 1985, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 30, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1985 - 1990",
+          "__seccion_2__": "85 XL Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH 685XL Tires",
+          "2WD Standard tires (ag)": "Front: 10.00-16. Rear: 16.9-34",
+          "4WD Standard tires (ag)": "Front: 12.4-24. Rear: 16.9-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "88.2 inches 224 cm",
+          "4WD Wheelbase": "85.4 inches 216 cm",
+          "Length": "147.6 inches 374 cm",
+          "Height (cab)": "104 inches 264 cm",
+          "2WD Weight": "6700 lbs 3039 kg",
+          "4WD Weight": "7200 lbs 3265 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 30, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1985 - 1990",
+          "__seccion_2__": "85 XL Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CaseIH D-239",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "238.8 ci 3.9 L",
+          "Bore/Stroke": "3.875x5.06 inches 98 x 129 mm",
+          "Power": "69 hp 51.5 kW",
+          "Compression": "15:1",
+          "Rated RPM": "2300",
+          "Torque": "175.5 lb-ft 238.0 Nm",
+          "Torque RPM": "1600",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 30, 2022"
+        }
+      ]
+    }
+  }
+}

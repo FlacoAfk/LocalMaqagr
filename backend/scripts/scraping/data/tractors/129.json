@@ -1,0 +1,281 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/2/129-john-deere-755.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/2/129-john-deere-755-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/2/129-john-deere-755-engine.html",
+    "source_id": 129,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:49:18.224Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/129/129-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 108 KB"
+  },
+  "tractor_data_id": 129,
+  "name": "John Deere 755",
+  "brand": "John Deere",
+  "model": "755",
+  "years": {
+    "desde": 1986,
+    "hasta": 1998
+  },
+  "model_year": 1986,
+  "engine_power_hp": 20,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 15,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 807,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 5.5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 9.5x16",
+  "tire_width_mm": 241,
+  "tire_diameter_mm": 817,
+  "tire_front": {
+    "original": "6-12",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 12,
+    "diameter_mm_est": 564,
+    "tipo": "Diagonal",
+    "texto": "6-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/129/129-td3a.jpg",
+  "image_url": "/uploads/tractors/td129.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1986 - 1998",
+          "__seccion_2__": "55 Compact Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Compact Utility tractor",
+          "Factories": "Horicon, Wisconsin, USA",
+          "&nbsp": "Augusta, Georgia, USA",
+          "__seccion_3__": "Original price was $15,000 in 1998"
+        },
+        {
+          "755": "utility tractor",
+          "756": "turf mowing tractor",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "John Deere 755 Engine",
+          "__seccion_2__": "Yanmar 0.9L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 755 Transmission",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 755 Power",
+          "Engine": "20 hp 14.9 kW",
+          "PTO (claimed)": "15 hp 11.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post Roll-Gard ROPS. Optional canopy and high ROPS with extra headroom. Optional weather enclosure."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 755 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "4.4 gal 16.7 L",
+          "Hydraulic system": "4.5 gal 17.0 L",
+          "Front axle": "2.25 qts 2.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "4.5 gal 17.0 L",
+          "Pressure": "2050 psi 141.3 bar",
+          "Rear valves": "2 Opt Optional",
+          "Mid valves": "2 Opt Optional",
+          "Total flow": "5.6 gpm 21.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at 24\"/610mm)": "785 lbs (early) 356 kg",
+          "&nbsp": "1005 lbs (late) 455 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "2100@3200",
+          "Mid PTO": "independent",
+          "Mid PTO Type": "2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "57 inches 144 cm",
+          "Weight": "1645 to 1780 pounds",
+          "Front tire": "4.00x15",
+          "2WD Rear tire": "8.3x16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 755 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "snowblower",
+          "__seccion_4__": "blade",
+          "__seccion_5__": "front-end loader",
+          "__seccion_6__": "backhoe",
+          "__seccion_7__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "755 Serial Number Location",
+          "__seccion_2__": "Serial number plate located below the rear PTO shaft."
+        },
+        {
+          "1986": "M0360001",
+          "1987": "M0420001",
+          "1988": "M0475001",
+          "1989": "M0595001",
+          "1990": "M0010001",
+          "1991": "M0100001",
+          "1992": "LV0755D 125700",
+          "1993": "LV0755D 160000",
+          "1994": "LV0755D 180001",
+          "1995": "LV0755D 180872",
+          "1996": "LV0755E 190001",
+          "1997": "LV0755E 200000",
+          "__seccion_1__": "755 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "Battery CCA": "491",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Grounds Care & Recreation Products Sales Manual published in 1989, by John Deere",
+          "__seccion_3__": "Lawn & Grounds Care Sales Manual published in 1997, by John Deere *",
+          "__seccion_4__": "Commercial & Consumer Equipment Sales Manual published in 1999, by John Deere",
+          "__seccion_5__": "Golf & Turf Equipment Purchasing Guide published in 1993, by John Deere",
+          "__seccion_6__": "Golf & Turf Equipment Purchasing Guide published in 1997, by John Deere",
+          "__seccion_7__": "Golf and Turf Equipment Purchasing Guide published in 1998, by John Deere",
+          "__seccion_8__": "Hydrostatic Diesel Tractors published in 1987, by John Deere",
+          "__seccion_9__": "Hydrostatic Diesel Tractors published in 1988, by John Deere",
+          "__seccion_10__": "Compact Tractors Under 40 Horsepower published in 1991, by John Deere",
+          "__seccion_11__": "Compact Utility Tractors published in 1993, by John Deere",
+          "__seccion_12__": "John Deere Compact Utility Tractors published in 1995",
+          "__seccion_13__": "Compact Utility Tractors Product Information Handbook published in 1991, by John Deere",
+          "__seccion_14__": "*Publication contains known errors.",
+          "__seccion_15__": "Operator's Manual 51 and 52 Loaders (OMTY20793) published in 1986",
+          "__seccion_16__": "Operator's Manual 655, 755 and 855 Tractors (OMM70367) published in 1986",
+          "__seccion_17__": "Operator's Manual 655, 755 and 855 Tractors (OMM75873) published in 1988",
+          "__seccion_18__": "Operator's Manual 655, 755, 855 and 955 Tractors (OMM92614) published in 1990",
+          "__seccion_19__": "Operator's Manual 755, 855 and 955 Tractors (OMM95303) published in 1991",
+          "__seccion_20__": "Technical Manual 655, 755, 855, 955, 756 and 856 Compact Utility Tractors (TM1360) published in 1996"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on August 17, 2026",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1986 - 1998",
+          "__seccion_2__": "55 Compact Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 755 Tires",
+          "2WD Standard tires (ag)": "Front: 4.00x15. Rear: 8.3x16",
+          "4WD Standard tires (ag)": "Front: 6-12. Rear: 9.5x16",
+          "Lawn/turf front": "23x8.50-12",
+          "Lawn/turf rear": "31x12.50-15 (2WD)",
+          "&nbsp": "33x12.50-15 (2/4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "57 inches 144 cm",
+          "Length": "88 inches 223 cm",
+          "&nbsp": "51.3 inches (max) 130 cm",
+          "Width": "42.6 inches (min) 108 cm",
+          "Height (hood)": "51.6 inches 131 cm",
+          "Height (ROPS)": "74.9 inches 190 cm",
+          "2WD Weight": "1645 lbs 746 kg",
+          "4WD Weight": "1780 lbs 807 kg",
+          "2WD Clearance (drawbar)": "12.7 inches 32 cm",
+          "4WD Clearance (drawbar)": "9.9 inches 25 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 17, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1986 - 1998",
+          "__seccion_2__": "55 Compact Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Yanmar 3TNA72UK",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "53.6 ci 0.9 L",
+          "Bore/Stroke": "2.835x2.835 inches 72 x 72 mm",
+          "Power": "20 hp 14.9 kW",
+          "Fuel system": "indirect injection",
+          "Air cleaner": "dry element",
+          "Pre-heating": "glow plugs",
+          "Compression": "22.3:1",
+          "Rated RPM": "3200",
+          "Operating RPM": "1400-3425",
+          "Starter volts": "12",
+          "Coolant capacity": "4 qts 3.8 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "2.86 qts 2.7 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 17, 2026"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/129/129-photo-001.jpg"
+}

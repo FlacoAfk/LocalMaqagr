@@ -1,0 +1,255 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/8/5/6854-john-deere-7200r.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/8/5/6854-john-deere-7200r-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/006/8/5/6854-john-deere-7200r-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/8/5/6854-john-deere-7200r-engine.html",
+    "source_id": 6854,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:51:35.420Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6854/6854-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 6854,
+  "name": "John Deere 7200R",
+  "brand": "John Deere",
+  "model": "7200R",
+  "years": {
+    "desde": 2011,
+    "hasta": 2013
+  },
+  "model_year": 2011,
+  "engine_power_hp": 200,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 164,
+  "pto_tested_hp": 197.02,
+  "drawbar_tested_hp": 154.77,
+  "weight_kg": 10469,
+  "weight_basis": "4WD",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 91.8,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 42,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F006/6854/6854-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td6854.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "7R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA"
+        },
+        {
+          "__seccion_1__": "John Deere 7200R Engine",
+          "__seccion_2__": "John Deere 6.8L 6-cyl diesel",
+          "Fuel tank": "133 gal (PowrQuad) 503.4 L",
+          "&nbsp": "138 gal (IVT) 522.3 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7200R Transmissions",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "20-speed partial power shift",
+          "__seccion_4__": "20-speed power shift",
+          "__seccion_5__": "infinitely variable transmission",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7200R Power",
+          "Engine (gross)": "200 hp 149.1 kW",
+          "Engine (max)": "220 hp 164.1 kW",
+          "PTO (claimed)": "164 hp 122.3 kW",
+          "Drawbar (tested)": "154.77 hp 115.4 kW",
+          "PTO (tested)": "197.02 hp 146.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD (optional)",
+          "&nbsp": "ActiveCommand Steering optional",
+          "Differential lock": "full-locking electrohydraulic rear. Limited slip 4WD front axle. Electrohydraulic on TLS Plus front axle with front brakes.",
+          "Steering": "hydrostatic power",
+          "__seccion_2__": "CommandView II Cab. AutoTrac ready, except on 2WD. ISO 1178.3 ISOBUS connection. JDLink and Service ADVISOR Remote available."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 7200R are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed-center pressure and flow compensated (PFC)",
+          "Pressure": "2958 psi 204.0 bar",
+          "Rear valves": "6 (max)",
+          "Mid valves": "0 to 2",
+          "Pump flow": "32 gpm 121.1 lpm",
+          "&nbsp": "59 gpm (optional) 223.3 lpm",
+          "SCV flow": "35 gpm 132.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "3/3N",
+          "Control": "electrohydraulic sensing",
+          "Rear lift": "12,000 lbs 5443 kg",
+          "&nbsp": "15,200 lbs (optional) 6894 kg",
+          "Front Hitch": "3N (optional)",
+          "Front lift": "11,464 lbs 5200 kg",
+          "Drawbar": "Category 3 drawbar standard with 4,050 to 6,000 pound rating. High-capacity 10,000 Cat. 3 drawbar optional."
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (1.75)",
+          "&nbsp": "1000 (1.75)",
+          "Engine RPM": "540@1950",
+          "Front PTO": "optional",
+          "Front PTO Type": "1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "119.4 inches 303 cm",
+          "4WD Wheelbase": "115.2 inches 292 cm",
+          "Weight": "18104 to 26335 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7200R attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "200",
+          "Batteries": "2",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 29, 2013",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "7R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 7200R Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "119.4 inches 303 cm",
+          "4WD Wheelbase": "115.2 inches 292 cm",
+          "Front axle": "2WD optional inch diameter 50 mm",
+          "Standard axle rear axle": "3.94 by 118.5 inches 100 by 3009 mm",
+          "Rear axle": "3.94 by 110.5 inches 100 by 2806 mm",
+          "Front tread": "60 to 88 inches 152 to 223 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 7200R Weight",
+          "2WD": "18,104 lbs 8211 kg",
+          "4WD": "23,080 lbs 10469 kg",
+          "TLS Plus": "26,335 lbs 11945 kg",
+          "Max capacity": "31,967 lbs 14500 kg",
+          "Max front axle": "14,330 lbs 6500 kg",
+          "Max rear axle": "23,149 lbs 10500 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 29, 2013"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "7R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2021"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2021",
+          "__seccion_2__": "Diesel Autoquad Plus 4WD April 26 - May 15, 2012 Link: OCED Tractor Test 2021 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "154.77 hp 115.4 kW",
+          "Fuel use": "10.2 gal/hour 38.6 l/hour",
+          "Power at rated engine speed": "169.95 hp 126.7 kW",
+          "Power at rated PTO speed": "190.62 hp 142.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "20642 lbs 9363 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 29, 2013"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "7R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech PSX",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "414 ci 6.8 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Tier 4A",
+          "Emission control": "exhaust gas recirculation (EGR)",
+          "Rated Power (gross)": "200 hp 149.1 kW",
+          "Maximum Power (gross)": "220 hp 164.1 kW",
+          "Fuel system": "electronic high-pressure common rail",
+          "Air cleaner": "dual stage dry",
+          "Compression": "17.2:1",
+          "Rated RPM": "2100",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 29, 2013"
+        }
+      ]
+    }
+  }
+}

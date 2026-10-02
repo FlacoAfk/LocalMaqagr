@@ -1,0 +1,375 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/4/44-john-deere-720.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/4/44-john-deere-720-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/4/44-john-deere-720-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/4/44-john-deere-720-engine.html",
+    "source_id": 44,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:44:42.442Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/44/44-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 106 KB",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1082/",
+    "nebraska_test": 593
+  },
+  "tractor_data_id": 44,
+  "name": "John Deere 720",
+  "brand": "John Deere",
+  "model": "720",
+  "years": {
+    "desde": 1956,
+    "hasta": 1958
+  },
+  "model_year": 1956,
+  "engine_power_hp": 59,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 59,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 53.41,
+  "weight_kg": 3079,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 29.8,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 12-38",
+  "tire_width_mm": 305,
+  "tire_diameter_mm": 1483,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/44/44-td3a.jpg",
+  "image_url": "/uploads/tractors/td44.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "Two-Cylinder 20 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "Total built": "22,925 (total row-crop)",
+          "&nbsp": "408 (all-fuel)",
+          "__seccion_4__": "Original price was $3,700 in 1958",
+          "__seccion_5__": "The John Deere model 720 was available in row-crop, standard, or high-crop versions."
+        },
+        {
+          "720": "row-crop chassis",
+          "__seccion_1__": "Variants",
+          "720S": "standard-tread",
+          "720HC": "high-crop"
+        },
+        {
+          "__seccion_1__": "John Deere 720 Engines",
+          "__seccion_2__": "John Deere 5.9L 2-cyl gasoline",
+          "__seccion_3__": "John Deere 5.9L 2-cyl all-fuel",
+          "__seccion_4__": "John Deere 5.9L 2-cyl LP gas",
+          "__seccion_5__": "John Deere 6.2L 2-cyl diesel",
+          "Fuel tank": "24.5 gal (all-fuel) 92.7 L",
+          "&nbsp": "0.25 gal (diesel) 0.9 L",
+          "Aux. fuel": "1 gal (all-fuel) 3.8 L",
+          "__seccion_6__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 720 Transmission",
+          "__seccion_2__": "6-speed unsynchronized gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 720 Power",
+          "Drawbar (claimed)": "53 hp 39.5 kW",
+          "PTO (claimed)": "59 hp 44.0 kW",
+          "Belt (claimed)": "50.67 hp 37.8 kW",
+          "Drawbar (tested)": "53.41 hp 39.8 kW",
+          "Belt (tested)": "57.77 hp 43.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "manual",
+          "&nbsp": "power Opt Optional",
+          "__seccion_3__": "Differential mechanical expanding shoe brakes",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 720 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "1"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "93.7 inches 237 cm",
+          "Weight": "6790 lbs 3079 kg",
+          "Front tire": "6.00-16",
+          "Rear tire": "12-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 720 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "720 Serial Number Location",
+          "__seccion_2__": "Right side of tractor in front of and below pulley."
+        },
+        {
+          "1956": "7200000",
+          "1957": "7203420",
+          "1958": "7217368",
+          "__seccion_1__": "720 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive * Positive ground for the 6V and 12V systems.",
+          "&nbsp": "4 (diesel electric)",
+          "Charging system": "generator",
+          "Batteries": "1 (diesel pony)",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere 20 series Two Cylinder Tractors by Benjamin Hain",
+          "__seccion_3__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_4__": "The 1957 John Deere Tractors are here!",
+          "__seccion_5__": "Facts about horsepower and fuel economy published in 1957, by John Deere",
+          "__seccion_6__": "*Publication contains known errors.",
+          "__seccion_7__": "Operator's Manual 720 (OM-R2055) published in 1956",
+          "__seccion_8__": "Operator's Manual 720 Diesel (OM-R2057) published in 1956",
+          "__seccion_9__": "Operator's Manual 720 (OM-R2082) published in 1957"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "Two-Cylinder 20 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 720 Tires",
+          "Ag front": "6.00-16",
+          "Ag rear": "12-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "93.7 inches 237 cm",
+          "Length": "135.25 inches 343 cm",
+          "Width": "86.625 inches 220 cm",
+          "Height": "88.25 inches 224 cm",
+          "Weight": "6790 lbs 3079 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "Two-Cylinder 20 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 593: LP gas 6-speed 2WD",
+          "__seccion_3__": "NTTL 594: diesel 6-speed 2WD",
+          "__seccion_4__": "NTTL 605: gasoline 6-speed 2WD",
+          "__seccion_5__": "NTTL 606: tractor fuel 6-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 593"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 593",
+          "__seccion_2__": "LP gas 6-speed 2WD September 17 - 19, 1956 Link: Nebraska Tractor Test 593 file",
+          "Belt power (max)": "57.33 hp 42.8 kW",
+          "Belt fuel use (max)": "6.3 gal/hour 23.8 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "52.38 hp 39.1 kW",
+          "__seccion_4__": "Gear 4 used for power test.",
+          "Max pull": "6,697 lbs 3037 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 594"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 594",
+          "__seccion_2__": "Diesel 6-speed 2WD September 18 - 22, 1956 Link: Nebraska Tractor Test 594 file",
+          "Belt power (max)": "56.66 hp 42.3 kW",
+          "Belt fuel use (max)": "3.2 gal/hour 12.1 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "51.83 hp 38.6 kW",
+          "__seccion_4__": "Gear 4 used for power test.",
+          "Max pull": "6,547 lbs 2969 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 605"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 605",
+          "__seccion_2__": "Gasoline 6-speed 2WD November 6 - 12, 1956 Link: Nebraska Tractor Test 605 file",
+          "Belt power (max)": "57.77 hp 43.1 kW",
+          "Belt fuel use (max)": "5.2 gal/hour 19.7 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "53.41 hp 39.8 kW",
+          "__seccion_4__": "Gear 4 used for power test.",
+          "Max pull": "6,647 lbs 3015 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 606"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 606",
+          "__seccion_2__": "Tractor fuel 6-speed 2WD November 12 - 19, 1956 Link: Nebraska Tractor Test 606 file",
+          "Belt power (max)": "44.13 hp 32.9 kW",
+          "Belt fuel use (max)": "4.4 gal/hour 16.7 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "40.78 hp 30.4 kW",
+          "__seccion_4__": "Gear 4 used for power test.",
+          "Max pull": "6,608 lbs 2997 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "Two-Cylinder 20 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "John Deere 5.9L 2-cyl gasoline",
+          "__seccion_3__": "John Deere 5.9L 2-cyl all-fuel",
+          "__seccion_4__": "John Deere 5.9L 2-cyl LP gas",
+          "__seccion_5__": "John Deere 6.2L 2-cyl diesel"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "2-cylinder 4-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "360.5 ci 5.9 L",
+          "Bore/Stroke": "6.00x6.375 inches 152 x 162 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "6.14:1",
+          "Rated RPM": "1125",
+          "Firing order": "1-2",
+          "Starter type": "electric",
+          "Oil capacity": "12 qts (early) 11.4 L",
+          "&nbsp": "10 qts (late) * Lower capacity specified beginning at tractor SN 7214900. 9.5 L",
+          "Coolant capacity": "29 qts 27.4 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "all-fuel",
+          "__seccion_4__": "2-cylinder 4-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "360.5 ci 5.9 L",
+          "Bore/Stroke": "6.00x6.375 inches 152 x 162 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "4.91:1",
+          "Rated RPM": "1125",
+          "Firing order": "1-2",
+          "Starter type": "electric",
+          "Oil capacity": "12 qts (early) 11.4 L",
+          "&nbsp": "10 qts (late) * Lower capacity specified beginning at tractor SN 7214900. 9.5 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "LP gas",
+          "__seccion_4__": "2-cylinder 4-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "360.5 ci 5.9 L",
+          "Bore/Stroke": "6.00x6.375 inches 152 x 162 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "7.94:1",
+          "Rated RPM": "1125",
+          "Firing order": "1-2",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "2-cylinder 4-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "376 ci 6.2 L",
+          "Bore/Stroke": "6.125x6.375 inches 156 x 162 mm",
+          "Compression": "16:1",
+          "Rated RPM": "1125",
+          "Firing order": "1-2",
+          "Starter": "pony motor * Four-cylinder 6V electric-start gasoline pony power used to warm and start the diesel engine.",
+          "&nbsp": "1 qts (pony) 0.9 L",
+          "Starter volts": "6 (diesel pony)",
+          "Oil capacity": "11 qts (diesel) 10.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/44/44-td4-b01-ext000.jpg"
+}

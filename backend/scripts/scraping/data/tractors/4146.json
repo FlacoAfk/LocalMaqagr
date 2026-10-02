@@ -1,0 +1,234 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/004/1/4/4146-massey-ferguson-194.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/004/1/4/4146-massey-ferguson-194-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/004/1/4/4146-massey-ferguson-194-engine.html",
+    "source_id": 4146,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:35:52.418Z",
+    "foto_original": "https://www.tractordata.com/photos/F011/11333/11333-serial-300x250.jpg",
+    "foto_calidad": "webp 960px/q65 → 17 KB"
+  },
+  "tractor_data_id": 4146,
+  "name": "Massey Ferguson 194",
+  "brand": "Landini",
+  "model": "ferguson 194",
+  "years": {
+    "desde": 1977,
+    "hasta": 1983
+  },
+  "model_year": 1977,
+  "engine_power_hp": 75,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2980,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 27.5,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F004/4146/4146-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F011/11333/11333-serial-300x250.jpg",
+  "image_url": "/uploads/tractors/td4146.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1977 - 1983",
+          "__seccion_2__": "104 Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Landini built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Massey Ferguson",
+          "Manufacturer": "Landini",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Italy"
+        },
+        {
+          "194": "2WD",
+          "8500": "similar Landini model",
+          "__seccion_1__": "Variants",
+          "194-4": "4WD"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 194 Engine",
+          "__seccion_2__": "Perkins 4.1L 4-cyl diesel",
+          "Fuel tank": "16 gal 60.6 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 194 Transmission",
+          "__seccion_2__": "12-speed partially synchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 194 Power",
+          "Engine": "75 hp 55.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Dry disc brakes",
+          "__seccion_5__": "Open operator station. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 194 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2418 psi 166.7 bar",
+          "Total flow": "7.5 gpm 28.4 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position and draft control",
+          "Rear lift (at ends)": "5842 lbs 2649 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "dry disc",
+          "Rear PTO Type": "540 (1.375)",
+          "&nbsp": "1000@1916",
+          "Engine RPM": "540@1944"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "90.6 inches 230 cm",
+          "4WD Wheelbase": "89.4 inches 227 cm",
+          "Weight": "6041 to 6570 pounds",
+          "Front tire": "7.50-20",
+          "2WD Rear tire": "18.4/15-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 194 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "194 Serial Number Location",
+          "__seccion_2__": "Serial number stamped into the rear of the tractor, above and to the left of the PTO shaft."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Loaders - Compact and Agricultural published in 1989, by Massey Ferguson",
+          "__seccion_3__": "Operator Instruction Book 154 - 174 - 184 - 194 (3300912M2) *",
+          "__seccion_4__": "MF 194-4 4-Wheel Drive Tractor published in 1977, by Massey Ferguson",
+          "__seccion_5__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 17, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1977 - 1983",
+          "__seccion_2__": "104 Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Landini built"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 194 Tires",
+          "2WD Standard tires (ag)": "Front: 7.50-20. Rear: 18.4/15-30",
+          "4WD Standard tires (ag)": "Front: 12.4/11-24. Rear: 18.4/15-30",
+          "2WD Optional tires (ag)": "Front: 7.50-20. Rear: 13.6/12-38",
+          "4WD Optional tires (ag)": "Front: 12.4/11-24. Rear: 13.6/12-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "90.6 inches 230 cm",
+          "4WD Wheelbase": "89.4 inches 227 cm",
+          "2WD Length": "146.7 inches 372 cm",
+          "4WD Length": "150.8 inches 383 cm",
+          "Width": "69.7 inches * Minimum width 177 cm",
+          "2WD Weight": "6041 lbs 2740 kg",
+          "4WD Weight": "6570 lbs 2980 kg",
+          "2WD Clearance (front axle)": "22.1 inches 56 cm",
+          "4WD Clearance (front axle)": "16.5 inches 41 cm",
+          "2WD Front tread": "55.1 to 74.8 inches 139 to 189 cm",
+          "4WD Front tread": "61.2 inches 155 cm",
+          "Rear tread": "51.2 to 79.7 inches 130 to 202 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 194 Height",
+          "Steering wheel": "65.5 inches 166 cm",
+          "Hood": "57.3 inches 145 cm",
+          "ROPS": "92.9 inches 235 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 17, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1977 - 1983",
+          "__seccion_2__": "104 Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Landini built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A4.248",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "248 ci 4.1 L",
+          "Bore/Stroke": "3.975x5.00 inches 101 x 127 mm",
+          "Power": "75 hp 55.9 kW",
+          "Fuel system": "direct injection",
+          "Compression": "16:1",
+          "Rated RPM": "2100",
+          "Idle RPM": "650-22600",
+          "Torque": "206.5 lb-ft 280.0 Nm",
+          "Torque RPM": "1380",
+          "Firing order": "1-3-4-2",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Coolant capacity": "15.9 qts 15.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 17, 2023"
+        }
+      ]
+    }
+  }
+}

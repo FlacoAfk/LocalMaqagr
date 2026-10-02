@@ -1,0 +1,267 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/1/4/3140-new-holland-tm175.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/1/4/3140-new-holland-tm175-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/1/4/3140-new-holland-tm175-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/1/4/3140-new-holland-tm175-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3140,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:24:45.160Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3140/3140-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 28 KB"
+  },
+  "tractor_data_id": 3140,
+  "name": "New Holland TM175",
+  "brand": "New Holland",
+  "model": "TM175",
+  "years": {
+    "desde": 2002,
+    "hasta": 2007
+  },
+  "model_year": 2002,
+  "engine_power_hp": 175,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 145,
+  "pto_tested_hp": 160.8,
+  "drawbar_tested_hp": 123.6,
+  "weight_kg": 6967,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 59,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 20.8R42",
+  "tire_width_mm": 528,
+  "tire_diameter_mm": 1965,
+  "tire_front": {
+    "original": "14.9R30",
+    "radial": true,
+    "width_mm": 378,
+    "rim_in": 30,
+    "diameter_mm_est": 1405,
+    "tipo": "Radial",
+    "texto": "14.9R30"
+  },
+  "fuel_consumption_lph": 34.1,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3140/3140-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3140/3140-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td3140.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2002 - 2007",
+          "__seccion_2__": "TM Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Basildon, England"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "MXM175": "similar CaseIH model"
+        },
+        {
+          "__seccion_1__": "New Holland TM175 Engine",
+          "__seccion_2__": "CNH 7.5L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TM175 Transmission",
+          "__seccion_2__": "19-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TM175 Power",
+          "Engine": "175 hp 130.5 kW",
+          "PTO (claimed)": "145 hp 108.1 kW",
+          "Drawbar (tested)": "123.6 hp 92.2 kW",
+          "PTO (tested)": "160.8 hp 119.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "electro-hydraulic",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with heat and air-conditioning. Optional heated air-ride seat."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland TM175 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "105.1 gal 397.8 L",
+          "Hydraulic system": "26.4 gal 99.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing (CCLS)",
+          "Capacity": "26.4 gal 99.9 L",
+          "Pressure": "2750 psi 189.6 bar",
+          "Rear valves": "4",
+          "Mid valves": "2 to 4",
+          "Pump flow": "31.7 gpm 120.0 lpm",
+          "Total flow": "48.7 gpm 184.3 lpm",
+          "Steering flow": "17 gpm 64.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/IIIN",
+          "Control": "electronic lower-link draft control",
+          "Rear lift (at ends)": "17500 lbs 7938 kg",
+          "Front Hitch": "II Opt Optional",
+          "Front lift": "7208 lbs 3269 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "110.9 inches 281 cm",
+          "Weight": "15360 to 15795 pounds",
+          "Front tire": "14.9R30",
+          "Rear tire": "20.8R42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "Battery CCA": "1300",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "95 to 160 PTO hp Tractors published in 2005, by New Holland",
+          "__seccion_3__": "Operator's Manual TM Tractors (82999263) published in 2006",
+          "__seccion_4__": "Operator's Manual TM Tractors (87014174) published in 2002"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 16, 2025",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2002 - 2007",
+          "__seccion_2__": "TM Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "New Holland TM175 Tires",
+          "Standard tires (ag)": "Front: 14.9R30. Rear: 20.8R42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "110.9 inches 281 cm",
+          "Length": "189.4 inches 481 cm",
+          "Width": "79.2 inches * Minimum width at standard fender. 201 cm",
+          "Height": "113.4 inches 288 cm",
+          "Ground clearance": "18 inches 45 cm",
+          "Front axle": "TerraGlide suspension",
+          "Bar rear axle": "119 inch length 3022 mm",
+          "2WD Front tread": "60.9 to 88.9 inches 154 to 225 cm",
+          "4WD Front tread": "61.1 to 89.3 inches 155 to 226 cm",
+          "Rear tread": "60 to 118 inches 152 to 299 cm"
+        },
+        {
+          "__seccion_1__": "New Holland TM175 Weight",
+          "Shipping": "15360 lbs 6967 kg",
+          "Operating": "15795 lbs 7164 kg",
+          "Max capacity": "26455 lbs 11999 kg",
+          "Max front axle": "11463 lbs 5199 kg",
+          "Max rear axle": "20943 lbs 9499 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 16, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2002 - 2007",
+          "__seccion_2__": "TM Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2142"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2142",
+          "__seccion_2__": "Diesel 19-speed 4WD September 1, 2003 - April 1, 2004 Link: OCED Tractor Test 2142 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "123.6 hp 92.2 kW",
+          "Fuel use": "9.5 gal/hour 36.0 l/hour",
+          "Power at rated engine speed": "151.3 hp 112.8 kW",
+          "Power at rated PTO speed": "154.2 hp 115.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 9 used for power test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 16, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2002 - 2007",
+          "__seccion_2__": "TM Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CNH Genesis",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "456 ci 7.5 L",
+          "Bore/Stroke": "4.40x5.00 inches 112 x 127 mm",
+          "Power": "175 hp 130.5 kW",
+          "Air cleaner": "dual paper elements with aspirator",
+          "Compression": "17.0:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "800-2375",
+          "Torque RPM": "1400",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Oil capacity": "20 qts 18.9 L",
+          "Coolant capacity": "27.6 qts 26.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 16, 2025"
+        }
+      ]
+    }
+  }
+}

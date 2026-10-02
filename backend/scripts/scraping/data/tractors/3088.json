@@ -1,0 +1,198 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/0/8/3088-new-holland-tz22da.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/0/8/3088-new-holland-tz22da-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/0/8/3088-new-holland-tz22da-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3088,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:22:07.107Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3088/3088-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 3088,
+  "name": "New Holland Boomer TZ22DA",
+  "brand": "New Holland (a part of CNH)",
+  "model": "holland tz22da",
+  "years": {
+    "desde": 2004,
+    "hasta": 2008
+  },
+  "model_year": 2004,
+  "engine_power_hp": 22,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 17,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 598,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 6.2,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F003/3088/3088-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td3088.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2004 - 2008",
+          "__seccion_2__": "Boomer TZ Series",
+          "__seccion_3__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland (a part of CNH)",
+          "__seccion_2__": "Sub-Compact Utility tractor",
+          "__seccion_3__": "The New Holland TZ18DA is similar to the Shibaura SX21."
+        },
+        {
+          "__seccion_1__": "Variants",
+          "Farmall DX22E": "similar New Holland model"
+        },
+        {
+          "__seccion_1__": "New Holland TZ22DA Engine",
+          "__seccion_2__": "Shibaura 1.0L 3-cyl diesel",
+          "Fuel tank": "7.9 gal 29.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TZ22DA Transmission",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TZ22DA Power",
+          "Engine (gross)": "22 hp 16.4 kW",
+          "PTO (claimed)": "17 hp 12.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post fixed ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the New Holland TZ22DA are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "3.75 gpm 14.2 lpm",
+          "Total flow": "5.6 gpm 21.2 lpm",
+          "Steering flow": "1.85 gpm 7.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at 24\"/610mm)": "700 lbs 317 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Mid PTO": "independent",
+          "Mid PTO Type": "2200"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "1320 lbs 598 kg",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "New Holland TZ22DA attachments",
+          "__seccion_2__": "54\" mid-mount mower deck",
+          "__seccion_3__": "60\" mid-mount mower deck",
+          "__seccion_4__": "snowblower",
+          "__seccion_5__": "blade",
+          "__seccion_6__": "front-end loader",
+          "__seccion_7__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "36",
+          "Battery CCA": "325",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "BOOMER Tractor Implements, Attachments and Accessories published in 2005, by New Holland",
+          "__seccion_3__": "BOOMER 18 To 55 HP Tractors published in 2005, by New Holland"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 7, 2025",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2004 - 2008",
+          "__seccion_2__": "Boomer TZ Series",
+          "__seccion_3__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "New Holland TZ22DA Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Weight": "1320 lbs 598 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 7, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2004 - 2008",
+          "__seccion_2__": "Boomer TZ Series",
+          "__seccion_3__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibaura S753",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "58.2 ci 1.0 L",
+          "Bore/Stroke": "2.953x2.835 inches 75 x 72 mm",
+          "Power (gross)": "22 hp 16.4 kW",
+          "Pre-heating": "glow plugs",
+          "Rated RPM": "3000",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 7, 2025"
+        }
+      ]
+    }
+  }
+}

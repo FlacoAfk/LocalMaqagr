@@ -89,6 +89,8 @@ CREATE TABLE tractor (
     maintenance_cost_per_hour DOUBLE PRECISION,
     status VARCHAR(20) DEFAULT 'available',
     registration_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    prioridad BOOLEAN DEFAULT FALSE,
+    ficha_pdf_url VARCHAR(300),
     image_url TEXT,
     CHECK (image_url IS NULL OR image_url ~* '^(https?://|/uploads/)')
 );
@@ -110,6 +112,7 @@ CREATE TABLE implement (
     implement_type VARCHAR(50) NOT NULL,
     status VARCHAR(20) DEFAULT 'available',
     registration_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    ficha_pdf_url VARCHAR(500),
     image_url TEXT,
     CHECK (image_url IS NULL OR image_url ~* '^(https?://|/uploads/)')
 );

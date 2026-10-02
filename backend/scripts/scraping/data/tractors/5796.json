@@ -1,0 +1,267 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/7/9/5796-john-deere-5101e.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/7/9/5796-john-deere-5101e-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/7/9/5796-john-deere-5101e-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/7/9/5796-john-deere-5101e-engine.html",
+    "source_id": 5796,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:47:17.671Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5796/5796-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 55 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 5796,
+  "name": "John Deere 5101E",
+  "brand": "John Deere",
+  "model": "5101E",
+  "years": {
+    "desde": 2008,
+    "hasta": 2012
+  },
+  "model_year": 2008,
+  "engine_power_hp": 101,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 82,
+  "pto_tested_hp": 83.78,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3320,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 30.7,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 20.4,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5796/5796-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5796/5796-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td5796.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2008 - 2012",
+          "__seccion_2__": "Model year 2008-2011 2012-2012",
+          "__seccion_3__": "5E Limited Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Augusta, Georgia, USA",
+          "Original price": "$48,135 (2011)"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "5101E": "utility chassis",
+          "5101EN": "narrow chassis"
+        },
+        {
+          "__seccion_1__": "John Deere 5101E Engine",
+          "__seccion_2__": "John Deere 4.5L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5101E Transmission",
+          "__seccion_2__": "12-speed partially synchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5101E Power",
+          "Engine (gross)": "101 hp 75.3 kW",
+          "PTO (claimed)": "82 hp 61.1 kW",
+          "PTO (tested)": "83.78 hp 62.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "rear standard",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Independent hydraulic wet disc brakes",
+          "__seccion_4__": "Cab standard with heat and air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 5101E photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "33.5 gal 126.8 L",
+          "Front hubs": "0.74 qts 0.7 L",
+          "Front diff.": "4.8 qts 4.5 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2828 psi 195.0 bar",
+          "Rear valves": "1 to 3",
+          "Mid valves": "2 (optional)",
+          "Pump flow": "15.9 gpm 60.2 lpm",
+          "Total flow": "22.5 gpm 85.2 lpm",
+          "Steering flow": "6.6 gpm 25.0 lpm",
+          "Steering press.": "1900 psi 131.0 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "2/1",
+          "Control": "position control and top-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "3,213 lbs 1457 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "mechanical",
+          "Rear PTO Type": "540/540E",
+          "&nbsp": "540/1000 (optional)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "85.8 inches 217 cm",
+          "Weight": "7,320 lbs 3320 kg",
+          "Front tire": "12.4-24",
+          "Rear tire": "18.4-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5101E attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "5101E Serial Numbers",
+          "Location:": "Left side of tractor above front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "90",
+          "&nbsp": "120 (optional)",
+          "Battery CCA": "950",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "New 5 Series Utility Tractors published in 2009, by John Deere",
+          "__seccion_3__": "5 Series published in 2009, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 17, 2014",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2008 - 2012",
+          "__seccion_2__": "Model year 2008-2011 2012-2012",
+          "__seccion_3__": "5E Limited Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 5101E Tires",
+          "Ag front": "12.4-24",
+          "Ag rear": "18.4-30",
+          "Industrial front": "12.5/80-18",
+          "Industrial rear": "19.5L-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "85.8 inches 217 cm",
+          "Length": "147.6 inches 374 cm",
+          "Width": "64.6 inches (axle flange) 164 cm",
+          "Height (hood)": "54.3 inches 137 cm",
+          "Height (cab)": "98.8 inches 250 cm",
+          "Operating weight": "7,320 lbs 3320 kg",
+          "Clearance (front axle)": "16.5 inches 41 cm",
+          "__seccion_2__": "Flange axle rear axle"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 17, 2014"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2008 - 2012",
+          "__seccion_2__": "Model year 2008-2011 2012-2012",
+          "__seccion_3__": "5E Limited Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1905A"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1905A",
+          "__seccion_2__": "Diesel 12-speed 4WD September 6 - 11, 2007 Link: Nebraska Tractor Test 1905A file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "83.78 hp 62.5 kW",
+          "Fuel use": "5.6 gal/hour 21.2 l/hour",
+          "Power at rated engine speed": "82.81 hp 61.8 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 17, 2014"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2008 - 2012",
+          "__seccion_2__": "Model year 2008-2011 2012-2012",
+          "__seccion_3__": "5E Limited Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech 4045",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "276 ci 4.5 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Tier 2",
+          "Rated Power (gross)": "101 hp 75.3 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dry",
+          "Compression": "17.6:1",
+          "Rated RPM": "2400",
+          "Idle RPM": "825-2625",
+          "Firing order": "1-3-4-2",
+          "Starter volts": "12",
+          "Oil capacity": "9 qts 8.5 L",
+          "Coolant capacity": "12 qts 11.4 L",
+          "Intake valve clearance": "0.014 inches 0.356 mm",
+          "Exhaust valve clearance": "0.018 inches 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 17, 2014"
+        }
+      ]
+    }
+  }
+}

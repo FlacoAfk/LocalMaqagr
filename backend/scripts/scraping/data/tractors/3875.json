@@ -1,0 +1,219 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/8/7/3875-massey-ferguson-1455.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/8/7/3875-massey-ferguson-1455-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/8/7/3875-massey-ferguson-1455-engine.html",
+    "source_id": 3875,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:32:44.894Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3875/3875-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 3875,
+  "name": "Massey Ferguson 1455",
+  "brand": "Iseki",
+  "model": "ferguson 1455",
+  "years": {
+    "desde": 2002,
+    "hasta": 2005
+  },
+  "model_year": 2002,
+  "engine_power_hp": 55.3,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 45.6,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1719,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 16.7,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14.9-28",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1355,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F003/3875/3875-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td3875.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2002 - 2005",
+          "__seccion_2__": "1400 Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Massey Ferguson",
+          "Manufacturer": "Iseki",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Matsuyama, Japan"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "1455V": "value model"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1455 Engine",
+          "__seccion_2__": "Iseki 2.8L 4-cyl diesel",
+          "Fuel tank": "12.7 gal 48.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1455 Transmissions",
+          "__seccion_2__": "16-speed",
+          "__seccion_3__": "8-speed",
+          "__seccion_4__": "12-speed",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1455 Power",
+          "Engine (gross)": "55.3 hp 41.2 kW",
+          "PTO (claimed)": "45.6 hp 34.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 1455 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2276 psi 156.9 bar",
+          "Pump flow": "11.4 gpm 43.1 lpm",
+          "Total flow": "17.3 gpm 65.5 lpm",
+          "Steering flow": "5.9 gpm 22.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position and draft control",
+          "Rear lift (at ends)": "3086 lbs 1399 kg",
+          "Rear Arms": "telescopic link ends and stabilizers"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "78.9 inches 200 cm",
+          "Weight": "3791 lbs 1719 kg",
+          "Rear tire": "13.6-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1455 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "2002": "LX0001",
+          "2003": "MX0001",
+          "2004": "NX0001",
+          "2005": "P0001",
+          "__seccion_1__": "1455 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF Loaders for Compact & Agricultural Tractors published in 2003, by Massey Ferguson",
+          "__seccion_3__": "MF 1400 Series published in 2002, by Massey Ferguson",
+          "__seccion_4__": "MF 1400 Series published in 2003, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 16, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2002 - 2005",
+          "__seccion_2__": "1400 Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1455 Tires",
+          "Ag rear": "13.6-28",
+          "&nbsp": "14.9-28",
+          "Industrial rear": "17.5L-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "78.9 inches 200 cm",
+          "Length": "137 inches 347 cm",
+          "Width": "64.6 inches (min) 164 cm",
+          "Height (ROPS)": "98.8 inches 250 cm",
+          "Height (Folded ROPS)": "75.5 inches 191 cm",
+          "Weight": "3791 lbs 1719 kg",
+          "Front tread": "54.5 inches 138 cm",
+          "Rear tread": "57 to 62 inches 144 to 157 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 16, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2002 - 2005",
+          "__seccion_2__": "1400 Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iseki",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "173 ci 2.8 L",
+          "Emissions": "Tier 2",
+          "Power (gross)": "55.3 hp 41.2 kW",
+          "Fuel system": "indirect injection",
+          "Rated RPM": "2500",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 16, 2024"
+        }
+      ]
+    }
+  }
+}

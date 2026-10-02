@@ -1,0 +1,247 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/2/227-ford-fw-20.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/2/227-ford-fw-20-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/2/2/227-ford-fw-20-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/2/227-ford-fw-20-engine.html",
+    "source_id": 227,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:08:59.591Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/227/227-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 227,
+  "name": "Ford FW-20",
+  "brand": "Steiger",
+  "model": "fw 20",
+  "years": {
+    "desde": 1977,
+    "hasta": 1982
+  },
+  "model_year": 1977,
+  "engine_power_hp": 210,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 57,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 150.51,
+  "weight_kg": 13433,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 120.8,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 24.5x32",
+  "tire_width_mm": 622,
+  "tire_diameter_mm": 1871,
+  "tire_front": {
+    "original": "24.5x32",
+    "radial": false,
+    "width_mm": 622,
+    "rim_in": 32,
+    "diameter_mm_est": 1871,
+    "tipo": "Diagonal",
+    "texto": "24.5x32"
+  },
+  "fuel_consumption_lph": 46.9,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/227/227-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td227.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1977 - 1982",
+          "__seccion_2__": "FW Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_4__": "Steiger built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Ford",
+          "Manufacturer": "Steiger",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Fargo, North Dakota, USA",
+          "Original price": "$70,699"
+        },
+        {
+          "__seccion_1__": "Ford FW-20 Engine",
+          "__seccion_2__": "Cummins 9.1L 8-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford FW-20 Transmissions",
+          "__seccion_2__": "10-speed",
+          "__seccion_3__": "20-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford FW-20 Power",
+          "Engine (gross)": "210 hp 156.6 kW",
+          "Drawbar (claimed)": "155 hp 115.6 kW",
+          "PTO (claimed)": "57 hp (540 RPM) 42.5 kW",
+          "&nbsp": "105 hp (1000 RPM) 78.3 kW",
+          "Drawbar (tested)": "150.51 hp 112.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "outboard planetary",
+          "__seccion_3__": "Articulated power steering",
+          "__seccion_4__": "Hydraulic dry disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Ford FW-20 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "225 gal 851.6 L",
+          "Hydraulic system": "25 gal 94.6 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "25 gal 94.6 L",
+          "Pressure": "2250 psi 155.1 bar",
+          "Valves": "4 or 5",
+          "Pump flow": "33.3 gpm 126.0 lpm",
+          "SCV flow": "20 gpm 75.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Rear lift (at 24\"/610mm)": "12500 lbs 5670 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent * Optional. Hydrostatic-driven PTO",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "132.5 inches 336 cm",
+          "Weight": "29615 lbs 13433 kg",
+          "Front tire": "18.4x38",
+          "Rear tire": "18.4x38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "80",
+          "Batteries": "4",
+          "Battery CCA": "475 * Each",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "4-wheel drive tractors published in 1977, by Ford"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 13, 2015",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1977 - 1982",
+          "__seccion_2__": "FW Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_4__": "Steiger built"
+        },
+        {
+          "__seccion_1__": "Ford FW-20 Tires",
+          "Ag front": "24.5x32",
+          "Ag rear": "24.5x32",
+          "&nbsp": "24.5x32"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "132.5 inches 336 cm",
+          "Length": "267 inches 678 cm",
+          "Height (hood)": "94.3 inches 239 cm",
+          "Height (cab)": "134.3 inches 341 cm",
+          "Operating weight": "29615 lbs * Weight with 23.1-30 duals. 13433 kg",
+          "Ballasted weight": "31000 lbs 14061 kg",
+          "Ground clearance": "12 inches 30 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 13, 2015"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1977 - 1982",
+          "__seccion_2__": "FW Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_4__": "Steiger built"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1291",
+          "__seccion_2__": "Diesel 20-speed 4WD October 5 - 12, 1978 Link: Nebraska Tractor Test 1291 file",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "150.51 hp 112.2 kW",
+          "Fuel use": "12.4 gal/hour 46.9 l/hour",
+          "__seccion_4__": "Gear 3-LO used for power test.",
+          "Max pull": "27155 lbs 12317 kg",
+          "__seccion_5__": "Gear 1-LS used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 13, 2015"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1977 - 1982",
+          "__seccion_2__": "FW Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_4__": "Steiger built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Cummins",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "8-cylinder",
+          "__seccion_5__": "liquid-cooled V-8",
+          "Displacement": "555 ci 9.1 L",
+          "Bore/Stroke": "4.625x4.125 inches 117 x 105 mm",
+          "Power (gross)": "210 hp 156.6 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "17:1",
+          "Rated RPM": "2850",
+          "Starter volts": "12",
+          "Oil capacity": "31.6 qts 29.9 L",
+          "Coolant capacity": "54.4 qts 51.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 13, 2015"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/9/7/3970-new-holland-td75d.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/9/7/3970-new-holland-td75d-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/9/7/3970-new-holland-td75d-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3970,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:26:03.050Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3970/3970-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 3970,
+  "name": "New Holland TD75D",
+  "brand": "Turk Traktor",
+  "model": "holland td75d",
+  "years": {
+    "desde": 2002,
+    "hasta": 2006
+  },
+  "model_year": 2002,
+  "engine_power_hp": 72,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 62,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2586,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 22.7,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 18.4R30",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1557,
+  "tire_front": {
+    "original": "12.4R24",
+    "radial": true,
+    "width_mm": 315,
+    "rim_in": 24,
+    "diameter_mm_est": 1145,
+    "tipo": "Radial",
+    "texto": "12.4R24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F003/3970/3970-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td3970.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2002 - 2006",
+          "__seccion_2__": "TDD Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Turk Traktor built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "New Holland",
+          "Manufacturer": "Turk Traktor",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Ankara, Turkey"
+        },
+        {
+          "__seccion_1__": "New Holland TD75D Engine",
+          "__seccion_2__": "Iveco 3.9L 4-cyl diesel",
+          "Fuel tank": "23.8 gal 90.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TD75D Transmissions",
+          "__seccion_2__": "12-speed mechanical shuttle",
+          "__seccion_3__": "20-speed mechanical shuttle with creeper",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TD75D Power",
+          "Engine": "72 hp 53.7 kW",
+          "PTO (claimed)": "62 hp 46.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 MFWD 4WD (optional)",
+          "Steering": "hydrostatic power",
+          "__seccion_2__": "Mechanical wet disc brakes",
+          "__seccion_3__": "Two-post foldable ROPS. Cab with heat and air-conditioning optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the New Holland TD75D are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2755 psi 190.0 bar",
+          "Valves": "1 to 3",
+          "Pump flow": "13.6 gpm 51.5 lpm",
+          "Total flow": "21.7 gpm 82.1 lpm",
+          "Steering flow": "8.1 gpm 30.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "mechanical draft control",
+          "Rear lift (at 24\"/610mm)": "5,025 lbs 2279 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "mechanical dry",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "91 inches (2WD) 231 cm",
+          "&nbsp": "87 inches (4WD) 220 cm",
+          "Weight": "5702 to 6915 pounds",
+          "Front tire": "10.00-16",
+          "2WD Rear tire": "16.9-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging amps": "65",
+          "Battery CCA": "800",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 29, 2012",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2002 - 2006",
+          "__seccion_2__": "TDD Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Turk Traktor built"
+        },
+        {
+          "__seccion_1__": "New Holland TD75D Tires",
+          "2WD Standard tires (ag)": "Front: 10.00-16. Rear: 18.4R30",
+          "4WD Standard tires (ag)": "Front: 12.4R24. Rear: 18.4R30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "91 inches (2WD) 231 cm",
+          "&nbsp": "87 inches (4WD) 220 cm",
+          "Height": "103.1 inches 261 cm",
+          "2WD Front tread": "55.5 to 75.2 inches 140 to 191 cm",
+          "4WD Front tread": "56.9 to 73.8 inches 144 to 187 cm",
+          "Rear tread": "55.1 to 78.8 inches 139 to 200 cm"
+        },
+        {
+          "__seccion_1__": "New Holland TD75D Weight",
+          "Shipping": "5,702 lbs (2WD ROPS) 2586 kg",
+          "&nbsp": "6,915 lbs (4WD cab) 3136 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 29, 2012"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2002 - 2006",
+          "__seccion_2__": "TDD Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Turk Traktor built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iveco 8045.06",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "238 ci 3.9 L",
+          "Power": "72 hp 53.7 kW",
+          "Fuel system": "Bosch injection pump",
+          "Air cleaner": "dual dry elements",
+          "Pre-heating": "thermostart",
+          "&nbsp": "block heater optional",
+          "Rated RPM": "2500",
+          "Torque": "184.4 lb-ft 250.0 Nm",
+          "Torque RPM": "1500",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 29, 2012"
+        }
+      ]
+    }
+  }
+}

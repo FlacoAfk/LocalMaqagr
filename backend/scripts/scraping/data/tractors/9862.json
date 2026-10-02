@@ -1,0 +1,162 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/009/8/6/9862-massey-ferguson-134c.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/009/8/6/9862-massey-ferguson-134c-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/009/8/6/9862-massey-ferguson-134c-engine.html",
+    "source_id": 9862,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:48:52.165Z",
+    "foto_original": "https://www.tractordata.com/photos/F009/9862/9862-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 100 KB"
+  },
+  "tractor_data_id": 9862,
+  "name": "Massey Ferguson 134C",
+  "brand": "Massey Ferguson",
+  "model": "134C",
+  "years": {
+    "desde": 2000,
+    "hasta": 2025
+  },
+  "model_year": 2000,
+  "engine_power_hp": 46.4,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2600,
+  "weight_basis": "Weight",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 17,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F009/9862/9862-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F009/9862/9862-photo-001.jpg",
+  "image_url": "/uploads/tractors/td9862.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 134C Engine",
+          "__seccion_2__": "Perkins 2.5L 3-cyl diesel",
+          "Fuel tank": "16 gal 60.6 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 134C Transmission",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 134C Power",
+          "Engine": "46.4 hp 34.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "crawler",
+          "__seccion_2__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 134C photos..."
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1944",
+          "&nbsp": "1000@1916"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tracks",
+          "Wheelbase": "52.9 inches 134 cm",
+          "Weight": "5732 lbs 2600 kg",
+          "__seccion_2__": "11-inch tracks",
+          "__seccion_3__": "Full dimensions and tracks ..."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF 134 C published in 1977, by Ebro"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 8, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 134C Tracks",
+          "Width": "12.2 inches 30 cm"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "52.9 inches 134 cm",
+          "Length": "102.4 inches 260 cm",
+          "Width": "52 inches 132 cm",
+          "Height (hood)": "46.1 inches 117 cm",
+          "Weight": "5732 lbs 2600 kg",
+          "Gauge": "40.9 inches 103 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 8, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "152.7 ci 2.5 L",
+          "Bore/Stroke": "3.60x5.00 inches 91 x 127 mm",
+          "Power": "46.4 hp 34.6 kW",
+          "Fuel system": "direct injection",
+          "Compression": "17.4:1",
+          "Rated RPM": "2200",
+          "Starter type": "electric",
+          "Oil capacity": "7.2 qts 6.8 L",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 8, 2025"
+        }
+      ]
+    }
+  }
+}

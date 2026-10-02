@@ -1,0 +1,243 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/6/5/650-ford-8830.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/6/5/650-ford-8830-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/6/5/650-ford-8830-engine.html",
+    "source_id": 650,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:12:16.515Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/650/650-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 83 KB"
+  },
+  "tractor_data_id": 650,
+  "name": "Ford 8830",
+  "brand": "Ford",
+  "model": "8830",
+  "years": {
+    "desde": 1990,
+    "hasta": 1993
+  },
+  "model_year": 1990,
+  "engine_power_hp": 170,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 170,
+  "pto_tested_hp": 171.12,
+  "drawbar_tested_hp": 145.69,
+  "weight_kg": 6441,
+  "weight_basis": "4WD ROPS",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 62.8,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/650/650-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/650/650-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td650.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1990 - 1993",
+          "__seccion_2__": "8030 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Antwerp, Belgium",
+          "__seccion_4__": "Original price was $63,000 in 1993"
+        },
+        {
+          "__seccion_1__": "Ford 8830 Engine",
+          "__seccion_2__": "Ford 6.6L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 8830 Transmissions",
+          "__seccion_2__": "18-speed",
+          "__seccion_3__": "16-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 8830 Power",
+          "PTO (claimed)": "170 hp 126.8 kW",
+          "Drawbar (tested)": "145.69 hp 108.6 kW",
+          "PTO (tested)": "171.12 hp 127.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Power disc brakes",
+          "__seccion_5__": "Optional cab with heat and air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 8830 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "75 gal 283.9 L",
+          "&nbsp": "24.5 gal (auxiliary tank) 92.7 L",
+          "Steering": "2 qts 1.9 L",
+          "Front hubs": "0.8 qts (each) 0.8 L",
+          "Front diff.": "7.9 qts 7.5 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center gear pump, dual pumps optional",
+          "Pressure": "2500 psi 172.4 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "20 gpm 75.7 lpm",
+          "&nbsp": "19 gpm * Dual pumps 71.9 lpm",
+          "SCV flow": "16.9 gpm 64.0 lpm",
+          "Steering cap.": "2 qts 1.9 L",
+          "Steering press.": "2025 psi 139.6 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "3/2",
+          "Control": "position and draft control"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "111 inches 281 cm",
+          "Weight": "12995 to 15520 pounds",
+          "Front tire": "11.00-16",
+          "Rear tire": "18.4/15-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 8830 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1990": "A925439",
+          "1991": "A928924",
+          "1992": "A930626",
+          "1993": "A931957",
+          "__seccion_1__": "8830 Serial Numbers",
+          "Location:": "Tractor's rear axle.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "90",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Front-end Loaders published in 1992, by Ford",
+          "__seccion_3__": "Front-end Loaders published in 1995, by New Holland",
+          "__seccion_4__": "121 to 170 PTO hp Tractors published in 1993, by Ford",
+          "__seccion_5__": "8030 Series Tractors published in 1990, by Ford",
+          "__seccion_6__": "Operator's Manual 8530 - 8630 - 8730 - 8830 (SE4812) published in 1990"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 12, 2021",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1990 - 1993",
+          "__seccion_2__": "8030 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Ford 8830 Tires",
+          "Ag front": "11.00-16 (2WD)",
+          "&nbsp": "14.9/13-28 (4WD)",
+          "Ag rear": "18.4/15-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "111 inches 281 cm",
+          "Length": "191 inches 485 cm",
+          "Width": "82 inches 208 cm",
+          "Ground clearance": "16.4 inches 41 cm"
+        },
+        {
+          "__seccion_1__": "Ford 8830 Weight",
+          "2WD ROPS": "12995 lbs 5894 kg",
+          "2WD cab": "13595 lbs 6166 kg",
+          "4WD ROPS": "14200 lbs 6441 kg",
+          "4WD cab": "14800 lbs 6713 kg",
+          "4WD cab Powershift": "15520 lbs 7039 kg"
+        },
+        {
+          "__seccion_1__": "Ford 8830 Height",
+          "ROPS": "115 inches 292 cm",
+          "Cab": "113.8 inches 289 cm",
+          "Exhaust": "124.6 inches 316 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 12, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1990 - 1993",
+          "__seccion_2__": "8030 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "intercooled turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "401 ci 6.6 L",
+          "Bore/Stroke": "4.40x4.40 inches 112 x 112 mm",
+          "Compression": "15.6:1",
+          "Rated RPM": "2200",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Coolant capacity": "22.8 qts 21.6 L",
+          "&nbsp": "24.4 qts (with heater) 23.1 L",
+          "Intake valve clearance": "0.014-0.016 inches (cold) 0.356 mm",
+          "Exhaust valve clearance": "0.017-0.019 inches (cold) 0.432 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "19.6 qts 18.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 12, 2021"
+        }
+      ]
+    }
+  }
+}

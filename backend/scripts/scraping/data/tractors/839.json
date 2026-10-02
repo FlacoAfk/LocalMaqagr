@@ -1,0 +1,248 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/3/839-massey-ferguson-1210.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/3/839-massey-ferguson-1210-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/3/839-massey-ferguson-1210-engine.html",
+    "source_id": 839,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:26:40.921Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/839/839-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 839,
+  "name": "Massey Ferguson 1210",
+  "brand": "Iseki",
+  "model": "ferguson 1210",
+  "years": {
+    "desde": 1993,
+    "hasta": 1995
+  },
+  "model_year": 1993,
+  "engine_power_hp": 15,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 15,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 720,
+  "weight_basis": "4WD Gear Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 5.5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 8-16",
+  "tire_width_mm": 203,
+  "tire_diameter_mm": 752,
+  "tire_front": {
+    "original": "5.00-12",
+    "radial": false,
+    "width_mm": 127,
+    "rim_in": 12,
+    "diameter_mm_est": 521,
+    "tipo": "Diagonal",
+    "texto": "5.00-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/839/839-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td839.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1993 - 1995",
+          "__seccion_2__": "1200 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Massey Ferguson",
+          "Manufacturer": "Iseki",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan",
+          "__seccion_4__": "Original price was $10,500 in 1996"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "TF173": "similar Iseki model"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1210 Engine",
+          "__seccion_2__": "Iseki 1.0L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1210 Transmissions",
+          "__seccion_2__": "6-speed gear",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "9-speed creeper",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1210 Power",
+          "Gear PTO (claimed)": "15 hp 11.2 kW",
+          "Hydro PTO (claimed)": "14 hp 10.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "spur gear",
+          "Differential lock": "mechanical rear",
+          "Steering": "power Opt Optional",
+          "__seccion_3__": "Mechanical wet disc brakes",
+          "__seccion_4__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 1210 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "4.75 gal 18.0 L",
+          "Hydraulic system": "2.64 gal 10.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "2.64 gal 10.0 L",
+          "Pump flow": "5.2 gpm 19.7 lpm",
+          "Total flow": "7.7 gpm 29.1 lpm",
+          "Steering flow": "2.5 gpm 9.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at ends)": "1210 lbs 548 kg",
+          "Rear lift (at 24\"/610mm)": "882 lbs 400 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Clutch": "dry disc",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2307",
+          "Mid PTO Type": "2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "59.4 inches 150 cm",
+          "Weight": "1433 to 1610 pounds",
+          "Front tire": "4.50-10",
+          "2WD Rear tire": "8-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "1210 Serial Numbers",
+          "Location:": "Serial number decal on the right side of the tractor, just ahead and below the seat."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "Battery CCA": "325",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF 1200 Series Tractors published in 1993, by Massey Ferguson",
+          "__seccion_3__": "MF 1210/1220/1230 Training Manual (1449259M23768270M1) published in 1992"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 14, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1993 - 1995",
+          "__seccion_2__": "1200 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1210 Tires",
+          "2WD Standard tires (ag)": "Front: 4.50-10. Rear: 8-16",
+          "4WD Standard tires (ag)": "Front: 5.00-12. Rear: 8-16",
+          "Lawn/turf front": "24x8.50-12",
+          "Lawn/turf rear": "315x75D-15"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "59.4 inches 150 cm",
+          "Length": "108.3 inches 275 cm",
+          "Width": "40.9 inches * Minimum width 103 cm",
+          "Height (Folded ROPS)": "59.5 inches 151 cm",
+          "Ground clearance": "10 inches 25 cm",
+          "2WD Front tread": "32.7/36.2 inches 83/91 cm",
+          "4WD Front tread": "32.7 inches 83 cm",
+          "Rear tread": "33.5/39.4 inches 85/100 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1210 Weight",
+          "2WD Gear Shipping": "1433 lbs 650 kg",
+          "2WD Hydro Shipping": "1455 lbs 659 kg",
+          "4WD Gear Shipping": "1588 lbs 720 kg",
+          "4WD Hydro Shipping": "1610 lbs 730 kg",
+          "2WD Max capacity": "3181 lbs 1442 kg",
+          "4WD Max capacity": "3582 lbs 1624 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 14, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1993 - 1995",
+          "__seccion_2__": "1200 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iseki E3100",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "61.4 ci 1.0 L",
+          "Bore/Stroke": "2.913x3.070 inches 74 x 78 mm",
+          "Maximum Power (net)": "17.4 hp 13.0 kW",
+          "Fuel system": "indirect injection",
+          "Air cleaner": "dry",
+          "Pre-heating": "glow plugs",
+          "Compression": "22.5:1",
+          "Rated RPM": "2500",
+          "Idle RPM": "950-2750",
+          "Torque": "41.5 lb-ft 56.3 Nm",
+          "Torque RPM": "1800",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "3.3 qts 3.1 L",
+          "Coolant capacity": "5.4 qts 5.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 14, 2024"
+        }
+      ]
+    }
+  }
+}

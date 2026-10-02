@@ -1,0 +1,267 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/6/5/10652-john-deere-6140m.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/6/5/10652-john-deere-6140m-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/010/6/5/10652-john-deere-6140m-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/6/5/10652-john-deere-6140m-engine.html",
+    "source_id": 10652,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:09:08.016Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10652/10652-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 4 KB"
+  },
+  "tractor_data_id": 10652,
+  "name": "John Deere 6140M",
+  "brand": "John Deere",
+  "model": "6140M",
+  "years": {
+    "desde": 2020,
+    "hasta": 2024
+  },
+  "model_year": 2020,
+  "engine_power_hp": 140,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 109,
+  "pto_tested_hp": 127.48,
+  "drawbar_tested_hp": 110.86,
+  "weight_kg": 5799,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 52.2,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 600/65R38",
+  "tire_width_mm": 600,
+  "tire_diameter_mm": 1745,
+  "tire_front": {
+    "original": "540/65R24",
+    "radial": true,
+    "width_mm": 540,
+    "rim_in": 24,
+    "diameter_mm_est": 1312,
+    "tipo": "Radial",
+    "texto": "540/65R24"
+  },
+  "fuel_consumption_lph": 28,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F010/10652/10652-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td10652.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2020 - 2024",
+          "__seccion_2__": "6M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany",
+          "__seccion_4__": "Original price was $125,822 in 2020"
+        },
+        {
+          "__seccion_1__": "John Deere 6140M Engine",
+          "__seccion_2__": "John Deere 4.5L 4-cyl diesel",
+          "Fuel tank": "51.5 gal 194.9 L",
+          "Exhaust fluid (DEF)": "3.4 gal 12.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6140M Transmissions",
+          "__seccion_2__": "16-speed four-speed power shift",
+          "__seccion_3__": "24-speed four-speed power shift",
+          "__seccion_4__": "infinitely variable transmission (IVT)",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6140M Power",
+          "Engine (gross)": "140 hp 104.4 kW",
+          "Engine (max)": "166 hp 123.8 kW",
+          "PTO (claimed)": "109 hp 81.3 kW",
+          "Drawbar (tested)": "110.86 hp 82.7 kW",
+          "PTO (tested)": "127.48 hp 95.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "electro-hydraulic",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning. AutoTrac ((Optional));JDLink ((Optional))"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 6140M are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "&nbsp": "30 gpm (closed) 113.6 lpm",
+          "Rear valves": "2 to 4",
+          "Front valves": "0 to 3",
+          "Pump flow": "21.2 gpm (open) 80.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IIIN",
+          "Control": "electronic lower link draft sensing",
+          "Rear lift (at ends)": "11023 lbs * Actual tested lift was 9225 pounds. 5000 kg",
+          "&nbsp": "12556 lbs Opt Optional 5695 kg",
+          "Front Hitch": "IIIN Opt Optional",
+          "Front lift": "9700 lbs 4399 kg",
+          "Drawbar": "Cat. 2"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "1000@1969",
+          "&nbsp": "1000@1972",
+          "Front PTO": "independent Opt Optional",
+          "Front PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "101.6 inches 258 cm",
+          "Weight": "12786 lbs 5799 kg",
+          "Front tire": "540/65R24",
+          "Rear tire": "600/65R38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6140M attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "6140M Serial Numbers",
+          "Location:": "Serial number plate on the right side of the main tractor frame."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alterntor",
+          "Charging amps": "120",
+          "&nbsp": "174 Opt Optional",
+          "Charging volts": "14",
+          "Battery volts": "12",
+          "Battery AH": "154"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "6M Tractors published in 2020, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 31, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2020 - 2024",
+          "__seccion_2__": "6M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 6140M Tires",
+          "Standard tires (ag)": "Front: 540/65R24. Rear: 600/65R38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "101.6 inches 258 cm",
+          "Length": "176.6 inches 448 cm",
+          "Height (cab)": "113.8 inches 289 cm",
+          "Weight": "12786 lbs 5799 kg",
+          "Max weight": "23038 lbs 10450 kg",
+          "Clearance (front axle)": "19.3 inches 49 cm",
+          "__seccion_2__": "Flange rear axle",
+          "Rack-and-pinion rear axle": "3.11 by 100.6 inches 78 by 2555 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 31, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2020 - 2024",
+          "__seccion_2__": "6M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2261"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2261",
+          "__seccion_2__": "Diesel CommandQuad 4WD November 30 - December 7, 2022 Link: OCED Tractor Test 2261 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "110.86 hp 82.7 kW",
+          "Fuel use": "7.0 gal/hour 26.5 l/hour",
+          "Power at rated engine speed": "112.36 hp 83.8 kW",
+          "Power at rated PTO speed": "122.54 hp 91.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "11735 lbs 5322 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 31, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2020 - 2024",
+          "__seccion_2__": "6M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 4045HL556",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "276.1 ci 4.5 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Stage V",
+          "Rated Power (gross)": "140 hp 104.4 kW",
+          "&nbsp": "160 hp (IPM) 119.3 kW",
+          "Maximum Power (gross)": "166 hp 123.8 kW",
+          "Rated RPM": "2100",
+          "Torque": "483.8 lb-ft 656.0 Nm",
+          "Torque RPM": "1600",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "16.9 qts 16.0 L",
+          "Coolant capacity": "23.3 qts 22.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 31, 2025"
+        }
+      ]
+    }
+  }
+}

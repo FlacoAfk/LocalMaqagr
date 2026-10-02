@@ -1,0 +1,238 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/9/4/5943-ford-4230.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/9/4/5943-ford-4230-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/9/4/5943-ford-4230-engine.html",
+    "source_id": 5943,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:14:41.154Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5943/5943-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 51 KB"
+  },
+  "tractor_data_id": 5943,
+  "name": "Ford 4230",
+  "brand": "Fiat",
+  "model": "4230",
+  "years": {
+    "desde": 1992,
+    "hasta": 1997
+  },
+  "model_year": 1992,
+  "engine_power_hp": 62,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 62,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2399,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 22.7,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14.9x24",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1253,
+  "tire_front": {
+    "original": "9.5-16",
+    "radial": false,
+    "width_mm": 241,
+    "rim_in": 16,
+    "diameter_mm_est": 817,
+    "tipo": "Diagonal",
+    "texto": "9.5-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F005/5943/5943-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5943/5943-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td5943.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "Orchard/Vineyard tractor",
+          "__seccion_3__": "Fiat built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Ford",
+          "Manufacturer": "Fiat",
+          "__seccion_2__": "Orchard/Vineyard tractor",
+          "__seccion_3__": "Original price was $25,000 in 1997",
+          "__seccion_4__": "The Ford/New Holland 4230 is the same as the Fiat 72-86."
+        },
+        {
+          "__seccion_1__": "Ford 4230 Engine",
+          "__seccion_2__": "Fiat 3.6L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 4230 Transmissions",
+          "__seccion_2__": "12-speed gear",
+          "__seccion_3__": "12-speed shuttle",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 4230 Power",
+          "PTO (claimed)": "62 hp 46.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical wet disc brakes",
+          "__seccion_5__": "Two-post mid-mount ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 4230 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "13.7 gal 51.9 L",
+          "Hydraulic system": "11.3 gal 42.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "11.3 gal 42.8 L",
+          "Pressure": "2740 psi 188.9 bar",
+          "Valves": "2 or 3",
+          "Pump flow": "11 gpm 41.6 lpm",
+          "Steering flow": "8.1 gpm 30.7 lpm",
+          "Steering press.": "1450 psi 100.0 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position control and lower-link draft sensing",
+          "Rear lift": "5931 lbs 2690 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "78.8 inches 200 cm",
+          "4WD Wheelbase": "83.1 inches 211 cm",
+          "Weight": "4871 to 5290 pounds",
+          "Front tire": "27x9.50-15",
+          "2WD Rear tire": "14.9x24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1992": "F622650",
+          "1993": "F656580",
+          "1994": "F021000",
+          "1995": "1069303",
+          "1996": "1078767",
+          "1997": "1106731",
+          "__seccion_1__": "4230 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "33",
+          "Cab Charging amps": "65",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "45 to 70 hp Narrow Tractors published in 1992, by Ford",
+          "__seccion_3__": "Ford Narrow Tractors published in 1995, by New Holland",
+          "__seccion_4__": "45 to 70 PTO hp Narrow Tractors published in 1996, by New Holland"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2022",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "Orchard/Vineyard tractor",
+          "__seccion_3__": "Fiat built"
+        },
+        {
+          "__seccion_1__": "Ford 4230 Tires",
+          "2WD Standard tires (ag)": "Front: 27x9.50-15. Rear: 14.9x24",
+          "4WD Standard tires (ag)": "Front: 9.5-16. Rear: 14.9x24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "78.8 inches 200 cm",
+          "4WD Wheelbase": "83.1 inches 211 cm",
+          "2WD Length": "138.5 inches 351 cm",
+          "4WD Length": "144.5 inches 367 cm",
+          "2WD Width": "57.5 inches 146 cm",
+          "4WD Width": "58.5 inches 148 cm",
+          "2WD Weight": "4871 lbs 2209 kg",
+          "4WD Weight": "5290 lbs 2399 kg",
+          "4WD Clearance (front axle)": "15.5 inches 39 cm",
+          "2WD Front tread": "46 to 58 inches 116 to 147 cm",
+          "4WD Front tread": "47 to 53 inches 119 to 134 cm",
+          "Rear tread": "42 to 57 inches 106 to 144 cm"
+        },
+        {
+          "__seccion_1__": "Ford 4230 Height",
+          "2WD Steering wheel": "52.8 inches 134 cm",
+          "4WD Steering wheel": "54.5 inches 138 cm",
+          "2WD Hood": "48.5 inches 123 cm",
+          "4WD Hood": "50.2 inches 127 cm",
+          "2WD ROPS": "83.4 inches 211 cm",
+          "4WD ROPS": "85 inches 215 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "Orchard/Vineyard tractor",
+          "__seccion_3__": "Fiat built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Fiat",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "220.5 ci 3.6 L",
+          "Bore/Stroke": "3.937x4.527 inches 100 x 115 mm",
+          "Pre-heating": "thermostart",
+          "Rated RPM": "2500",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2022"
+        }
+      ]
+    }
+  }
+}

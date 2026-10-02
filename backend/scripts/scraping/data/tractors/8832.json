@@ -1,0 +1,201 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/8/3/8832-ford-4600.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/8/3/8832-ford-4600-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/8/3/8832-ford-4600-engine.html",
+    "source_id": 8832,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:16:34.262Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8832/8832-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 8832,
+  "name": "Ford 4600",
+  "brand": "Ford",
+  "model": "4600",
+  "years": {
+    "desde": 1976,
+    "hasta": 1984
+  },
+  "model_year": 1976,
+  "engine_power_hp": 63.1,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 55,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2032,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 20.2,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 13x28",
+  "tire_width_mm": 330,
+  "tire_diameter_mm": 1273,
+  "tire_front": {
+    "original": "6.00x16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00x16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F008/8832/8832-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td8832.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1976 - 1984"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Built in São Bernardo do Campo, Brazil"
+        },
+        {
+          "__seccion_1__": "Ford 4600 Engine",
+          "__seccion_2__": "Ford 3.3L 3-cyl diesel",
+          "Fuel tank": "16 gal 60.6 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 4600 Transmission",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 4600 Power",
+          "Engine": "63.1 hp 47.1 kW",
+          "PTO (claimed)": "55 hp 41.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Differential lock": "mechanical rear",
+          "Steering": "mechanical",
+          "&nbsp": "hydrostatic power Opt Optional",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Ford 4600 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2646 psi 182.4 bar",
+          "Pump flow": "8.5 gpm 32.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position and draft control",
+          "Rear lift (at 24\"/610mm)": "2535 lbs 1149 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1800"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "84.5 inches 214 cm",
+          "Weight": "4480 lbs 2032 kg",
+          "Front tire": "6.00x16",
+          "Rear tire": "13x28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "27",
+          "Battery volts": "12",
+          "Battery AH": "60"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Ford 4600"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 29, 2016",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1976 - 1984"
+        },
+        {
+          "__seccion_1__": "Ford 4600 Tires",
+          "Ag front": "6.00x16",
+          "&nbsp": "12x38",
+          "Ag rear": "13x28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "84.5 inches 214 cm",
+          "Length": "137.4 inches 348 cm",
+          "Height (hood)": "57.5 inches 146 cm",
+          "Shipping weight": "4480 lbs 2032 kg",
+          "Clearance (front axle)": "19.5 inches 49 cm",
+          "Front tread": "52 to 80 inches 132 to 203 cm",
+          "Rear tread": "52 to 80 inches 132 to 203 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 29, 2016"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1976 - 1984"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford OHV 3201",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "201 ci 3.3 L",
+          "Bore/Stroke": "4.4x4.4 inches 112 x 112 mm",
+          "Power": "63.1 hp 47.1 kW",
+          "Compression": "16.3:1",
+          "Rated RPM": "2200",
+          "Torque": "166.7 lb-ft 226.0 Nm",
+          "Torque RPM": "1400",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "7 qts 6.6 L",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 29, 2016"
+        }
+      ]
+    }
+  }
+}

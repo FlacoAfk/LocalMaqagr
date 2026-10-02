@@ -1,0 +1,185 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/002/0/1/2014-fiat-90-90.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/002/0/1/2014-fiat-90-90-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/002/0/1/2014-fiat-90-90-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 2014,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:15:05.214Z",
+    "foto_original": "https://www.tractordata.com/photos/F002/2014/2014-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 38 KB"
+  },
+  "tractor_data_id": 2014,
+  "name": "Fiat 90-90",
+  "brand": "Fiat",
+  "model": "90 90",
+  "years": {
+    "desde": 1984,
+    "hasta": 1991
+  },
+  "model_year": 1984,
+  "engine_power_hp": 90,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3870,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 33,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F002/2014/2014-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F002/2014/2014-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td2014.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1984 - 1991",
+          "__seccion_2__": "90 Series"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Fiat"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "90-90": "2WD",
+          "90-90DT": "4WD"
+        },
+        {
+          "__seccion_1__": "Fiat 90-90 Engine",
+          "__seccion_2__": "Fiat 4.9L 5-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 90-90 Transmissions",
+          "__seccion_2__": "15-speed synchronized",
+          "__seccion_3__": "20-speed creeper",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 90-90 Power",
+          "Engine": "90 hp 67.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "rear standard",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic optional",
+          "__seccion_4__": "Supercomfort cab with air-conditioning optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Fiat 90-90 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "24.6 gal 93.1 L",
+          "&nbsp": "35.1 gal 132.9 L",
+          "Hydraulic system": "11.7 gal 44.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "11.7 gal 44.3 L",
+          "Pressure": "2700 psi 186.2 bar",
+          "Valves": "1 to 3",
+          "Pump flow": "11.6 gpm 43.9 lpm",
+          "&nbsp": "12.7 gpm 48.1 lpm"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "304.8mm dry disc",
+          "Rear PTO Type": "540/ground",
+          "&nbsp": "1000@2409",
+          "Engine RPM": "540@2124"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "97.2 inches 246 cm",
+          "Weight": "8533 to 9812 pounds",
+          "Front tire": "7.50-18",
+          "Rear tire": "13.6/12-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 6, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1984 - 1991",
+          "__seccion_2__": "90 Series"
+        },
+        {
+          "__seccion_1__": "Fiat 90-90 Tires",
+          "Ag front": "7.50-18 (2WD)",
+          "&nbsp": "16.9/14-34",
+          "Ag rear": "13.6/12-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "97.2 inches 246 cm",
+          "Length": "151.6 inches 385 cm",
+          "Height": "102.4 inches 260 cm",
+          "Weight": "8,533 lbs 3870 kg",
+          "&nbsp": "9,812 lbs (4WD) 4450 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 6, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1984 - 1991",
+          "__seccion_2__": "90 Series"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Fiat 8055.05",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "5-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "298.1 ci 4.9 L",
+          "Bore/Stroke": "4.0945x4.53 inches 104 x 115 mm",
+          "Power": "90 hp 67.1 kW",
+          "Rated RPM": "2500",
+          "Oil capacity": "14.5 qts 13.7 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 6, 2021"
+        }
+      ]
+    }
+  }
+}

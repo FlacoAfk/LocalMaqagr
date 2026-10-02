@@ -1,0 +1,164 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/6/3/3632-caseih-cvx-150.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/6/3/3632-caseih-cvx-150-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/6/3/3632-caseih-cvx-150-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3632,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:41:52.925Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3632/3632-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 3632,
+  "name": "CaseIH CVX 150",
+  "brand": "CaseIH",
+  "model": "CVX 150",
+  "years": {
+    "desde": 2000,
+    "hasta": 2003
+  },
+  "model_year": 2000,
+  "engine_power_hp": 150,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 6371,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 55,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 580/70R42",
+  "tire_width_mm": 580,
+  "tire_diameter_mm": 1879,
+  "tire_front": {
+    "original": "480/70R30",
+    "radial": true,
+    "width_mm": 480,
+    "rim_in": 30,
+    "diameter_mm_est": 1434,
+    "tipo": "Radial",
+    "texto": "480/70R30"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F003/3632/3632-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td3632.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2000 - 2003"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH"
+        },
+        {
+          "__seccion_1__": "CaseIH CVX 150 Engine",
+          "__seccion_2__": "Sisu 6.6L 6-cyl diesel",
+          "Fuel tank": "82 gal 310.4 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH CVX 150 Power",
+          "Engine": "150 hp 111.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Disc brakes"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH CVX 150 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Total flow": "30.6 gpm 115.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear lift": "21983.85 lbs 9971 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540/750/1000/1400"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "111.4 inches 282 cm",
+          "Weight": "14,046 lbs 6371 kg",
+          "Front tire": "480/70R30",
+          "Rear tire": "580/70R42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2010"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2000 - 2003"
+        },
+        {
+          "__seccion_1__": "CaseIH CVX 150 Tires",
+          "Ag front": "480/70R30",
+          "Ag rear": "580/70R42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "111.4 inches 282 cm",
+          "Length": "188.6 inches 479 cm",
+          "Height": "119.7 inches 304 cm",
+          "Weight": "14,046 lbs 6371 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2010"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2000 - 2003"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Sisu 620.83",
+          "__seccion_3__": "turbo diesel",
+          "__seccion_4__": "6-cylinder",
+          "Displacement": "402.5 ci 6.6 L",
+          "Bore/Stroke": "4.25x4.72 inches 108 x 120 mm",
+          "Power": "150 hp 111.9 kW",
+          "Rated RPM": "2300",
+          "Torque": "427 lb-ft 579.0 Nm",
+          "Torque RPM": "1300"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2010"
+        }
+      ]
+    }
+  }
+}

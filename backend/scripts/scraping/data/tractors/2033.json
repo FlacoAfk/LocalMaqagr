@@ -1,0 +1,168 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/002/0/3/2033-fiat-700.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/002/0/3/2033-fiat-700-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/002/0/3/2033-fiat-700-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 2033,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:16:06.389Z"
+  },
+  "tractor_data_id": 2033,
+  "name": "Fiat 700",
+  "brand": "Fiat",
+  "model": "700",
+  "years": {
+    "desde": 1997,
+    "hasta": 2002
+  },
+  "model_year": 1997,
+  "engine_power_hp": 70,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3210,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 25.7,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 16.9R30",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1492,
+  "tire_front": {
+    "original": "10.00-16",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 16,
+    "diameter_mm_est": 838,
+    "tipo": "Diagonal",
+    "texto": "10.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": null,
+  "photo_url_large": null,
+  "image_url": null,
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1997 - 2002"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Fiat",
+          "Original price": "$31,000 (2002)"
+        },
+        {
+          "__seccion_1__": "Fiat 700 Engine",
+          "__seccion_2__": "Valmet 3.3L 3-cyl diesel",
+          "Fuel tank": "19.3 gal 73.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 700 Transmissions",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "12-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 700 Power",
+          "Engine": "70 hp 52.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 MFWD 4WD optional"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Fiat 700 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Valves": "2",
+          "Pump flow": "9.774 gpm 37.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear lift": "6,173 lbs 2800 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "7077 to 7584 pounds",
+          "Front tire": "10.00-16",
+          "Rear tire": "16.9R30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 25, 2009"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1997 - 2002"
+        },
+        {
+          "__seccion_1__": "Fiat 700 Tires",
+          "Ag front": "10.00-16",
+          "Ag rear": "16.9R30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Length": "152 inches 386 cm",
+          "Height": "104.7 inches 265 cm",
+          "Weight": "7,077 lbs 3210 kg",
+          "&nbsp": "7,584 lbs (4WD) 3440 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 25, 2009"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1997 - 2002"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Valmet",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "201 ci 3.3 L",
+          "Bore/Stroke": "4.252x4.724 inches 108 x 120 mm",
+          "Power": "70 hp 52.2 kW",
+          "Rated RPM": "2270"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 25, 2009"
+        }
+      ]
+    }
+  }
+}

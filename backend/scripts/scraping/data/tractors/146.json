@@ -1,0 +1,238 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/4/146-john-deere-8560.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/4/146-john-deere-8560-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/1/4/146-john-deere-8560-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/4/146-john-deere-8560-engine.html",
+    "source_id": 146,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:50:12.945Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/146/146-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 65 KB"
+  },
+  "tractor_data_id": 146,
+  "name": "John Deere 8560",
+  "brand": "John Deere",
+  "model": "8560",
+  "years": {
+    "desde": 1989,
+    "hasta": 1993
+  },
+  "model_year": 1989,
+  "engine_power_hp": 235,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 200,
+  "pto_tested_hp": 210.25,
+  "drawbar_tested_hp": 180.74,
+  "weight_kg": 14549,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 143.1,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 44.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/146/146-td3a.jpg",
+  "image_url": "/uploads/tractors/td146.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1989 - 1993",
+          "__seccion_2__": "8060 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA"
+        },
+        {
+          "__seccion_1__": "John Deere 8560 Engine",
+          "__seccion_2__": "John Deere 7.6L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8560 Transmissions",
+          "__seccion_2__": "12-speed partially synchronized",
+          "__seccion_3__": "24-speed partial power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8560 Power",
+          "Engine": "235 hp 175.2 kW",
+          "PTO (claimed)": "200 hp 149.1 kW",
+          "Drawbar (tested)": "180.74 hp 134.8 kW",
+          "PTO (tested)": "210.25 hp 156.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Articulated power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Sound-Gard Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 8560 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "220 gal 832.7 L",
+          "Hydraulic system": "37 gal 140.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed-center pressure compensated",
+          "Capacity": "37 gal 140.0 L",
+          "Pump flow": "44.8 gpm 169.6 lpm",
+          "SCV flow": "33.3 gpm 126.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Rear lift": "14983 lbs 6796 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "133.9 inches 340 cm",
+          "Weight": "32075 lbs 14549 kg",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "8560 Serial Number Location",
+          "__seccion_2__": "Data plate behind left-side step"
+        },
+        {
+          "1989": "1001",
+          "1990": "1501",
+          "1991": "2001",
+          "1992": "2331",
+          "1993": "3325",
+          "__seccion_1__": "8560 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "Batteries": "2",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Big-Power Efficiency published in 1990, by John Deere",
+          "__seccion_3__": "4-Wheel Drive Product Information Handbook published in 1989, by John Deere",
+          "__seccion_4__": "The 1991 Long Green Line Agricultural Equipment Review published by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 2, 2016",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1989 - 1993",
+          "__seccion_2__": "8060 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8560 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "133.9 inches 340 cm",
+          "Length": "268.9 inches 683 cm",
+          "Operating weight": "32075 lbs * Weight with 18.4R42 duals. 14549 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 2, 2016"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1989 - 1993",
+          "__seccion_2__": "8060 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1623"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1623",
+          "__seccion_2__": "Diesel PowrSync 4WD May 1989 - 1989, Link: OCED Tractor Test 1623 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "180.74 hp 134.8 kW",
+          "Fuel use": "11.8 gal/hour 44.7 l/hour",
+          "Power at rated engine speed": "202.65 hp 151.1 kW",
+          "Power at rated PTO speed": "210.12 hp 156.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "32,166 lbs 14590 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 2, 2016"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1989 - 1993",
+          "__seccion_2__": "8060 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "466 ci 7.6 L",
+          "Bore/Stroke": "4.5625x4.75 inches 116 x 121 mm",
+          "Power": "235 hp 175.2 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "16:1",
+          "Rated RPM": "2100",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Coolant capacity": "58 qts 54.9 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 2, 2016"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/146/146-td4-b01-ext045.jpg"
+}

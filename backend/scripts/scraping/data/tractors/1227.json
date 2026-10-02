@@ -1,0 +1,254 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/2/2/1227-john-deere-790.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/2/2/1227-john-deere-790-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/2/2/1227-john-deere-790-engine.html",
+    "source_id": 1227,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:52:00.175Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1227/1227-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 111 KB"
+  },
+  "tractor_data_id": 1227,
+  "name": "John Deere 790",
+  "brand": "Yanmar",
+  "model": "deere 790",
+  "years": {
+    "desde": 2000,
+    "hasta": 2007
+  },
+  "model_year": 2000,
+  "engine_power_hp": 30,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 26,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 954,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 9.5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 11.2-24",
+  "tire_width_mm": 284,
+  "tire_diameter_mm": 1093,
+  "tire_front": {
+    "original": "7.00-14",
+    "radial": false,
+    "width_mm": 178,
+    "rim_in": 14,
+    "diameter_mm_est": 658,
+    "tipo": "Diagonal",
+    "texto": "7.00-14"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1227/1227-td3a.jpg",
+  "image_url": "/uploads/tractors/td1227.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2000 - 2007",
+          "__seccion_2__": "Model year 2000-2002 2003-2007",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "John Deere",
+          "Manufacturer": "Yanmar",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan"
+        },
+        {
+          "__seccion_1__": "John Deere 790 Engine",
+          "__seccion_2__": "Yanmar 1.5L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 790 Transmission",
+          "__seccion_2__": "8-speed unsynchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 790 Power",
+          "Engine (gross)": "30 hp 22.4 kW",
+          "PTO (claimed)": "26 hp 19.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "2WD Steering": "manual",
+          "4WD Steering": "hydrostatic power",
+          "__seccion_3__": "Independent dry shoe brakes",
+          "__seccion_4__": "ROPS"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 790 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "6.3 gal 23.8 L",
+          "Hydraulic system": "4 gal 15.1 L",
+          "Front diff.": "2.32 qts 2.2 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "4 gal 15.1 L",
+          "Pressure": "2050 psi 141.3 bar",
+          "Pump flow": "5.4 gpm 20.4 lpm",
+          "Steering flow": "4.2 gpm 15.9 lpm",
+          "Steering press.": "2050 psi 141.3 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at 24\"/610mm)": "815 lbs 369 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "&nbsp": "live (two-stage clutch)",
+          "Rear PTO Type": "540",
+          "Mid PTO Type": "2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "60.4 inches 153 cm",
+          "Weight": "1930 to 2105 pounds",
+          "Front tire": "6.00-12",
+          "Rear tire": "12.4-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 790 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "blade",
+          "__seccion_4__": "front-end loader",
+          "__seccion_5__": "backhoe",
+          "__seccion_6__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "790 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the rear of the tractor."
+        },
+        {
+          "1999": "LV0790G190001",
+          "2000": "LV0790G390001",
+          "2001": "LV0790G490001",
+          "2002": "LV0790G570001",
+          "2003": "LV0790G592446",
+          "2004": "LV0790G790001",
+          "2005": "LV0790G890001",
+          "2006": "LV0790G990001",
+          "2007": "LV0790S190001",
+          "__seccion_1__": "790 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "20",
+          "Battery CCA": "500",
+          "Battery volts": "12",
+          "Battery Group": "45"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Grounds Care Equipment Purchasing Guide published in 1999, by John Deere",
+          "__seccion_3__": "Grounds Care Equipment Purchasing Guide published in 2000, by John Deere",
+          "__seccion_4__": "Grounds Care Equipment Purchasing Guide published in 2001, by John Deere",
+          "__seccion_5__": "4000 Series Product Information Handbook published in 2000, by John Deere",
+          "__seccion_6__": "Commercial & Consumer Equipment Purchase Guide published in 2005, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 22, 2023",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2000 - 2007",
+          "__seccion_2__": "Model year 2000-2002 2003-2007",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "John Deere 790 Tires",
+          "Ag front": "6.00-12 (early)",
+          "2WD Ag front": "5.00-15",
+          "4WD Ag front": "7.00-14",
+          "Ag rear": "12.4-16 (early)",
+          "&nbsp": "11.2-24",
+          "Lawn/turf front": "25x8.50-14",
+          "Lawn/turf rear": "13.6-16",
+          "Industrial front": "25x8.50-14",
+          "Industrial rear": "15.0-19.6"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "60.4 inches 153 cm",
+          "Length": "87.8 inches 223 cm",
+          "&nbsp": "111 inches (with 3-point) 281 cm",
+          "Height (hood)": "51.2 inches 130 cm",
+          "Height (ROPS)": "82 inches 208 cm",
+          "2WD Weight": "1,930 lbs 875 kg",
+          "4WD Weight": "2,105 lbs 954 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 22, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2000 - 2007",
+          "__seccion_2__": "Model year 2000-2002 2003-2007",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Yanmar 3TNE84",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "__seccion_6__": "The 91 cubic inch engine was used through serial number 592445.",
+          "Displacement": "91.3 ci 1.5 L",
+          "Bore/Stroke": "3.31x3.54 inches 84 x 90 mm",
+          "Power (gross)": "30 hp 22.4 kW",
+          "Air cleaner": "dry",
+          "Compression": "18:1",
+          "Rated RPM": "2600",
+          "Starter volts": "12",
+          "Oil capacity": "4.2 qts 4.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 22, 2023"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1227/1227-td4-b01.jpg"
+}

@@ -1,0 +1,215 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/002/9/6/2965-john-deere-4640.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/002/9/6/2965-john-deere-4640-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/002/9/6/2965-john-deere-4640-engine.html",
+    "source_id": 2965,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:38:48.980Z",
+    "foto_original": "https://www.tractordata.com/photos/F002/2965/2965-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 2965,
+  "name": "John Deere 4640",
+  "brand": "John Deere",
+  "model": "4640",
+  "years": {
+    "desde": 1977,
+    "hasta": 1984
+  },
+  "model_year": 1977,
+  "engine_power_hp": 185.1,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 155.6,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 6509,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 57.1,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 20.8-38",
+  "tire_width_mm": 528,
+  "tire_diameter_mm": 1863,
+  "tire_front": {
+    "original": "11.00-16",
+    "radial": false,
+    "width_mm": 279,
+    "rim_in": 16,
+    "diameter_mm_est": 881,
+    "tipo": "Diagonal",
+    "texto": "11.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F002/2965/2965-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td2965.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1977 - 1984",
+          "__seccion_2__": "4040 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 4640 Engine",
+          "__seccion_2__": "John Deere 7.6L 6-cyl diesel",
+          "Fuel tank": "83 gal 314.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4640 Transmissions",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "8-speed full power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4640 Power",
+          "Engine (gross)": "185.1 hp 138.0 kW",
+          "Engine (net)": "174.3 hp 130.0 kW",
+          "PTO (claimed)": "155.6 hp 116.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 MFWD 4WD",
+          "Final drives": "planetary",
+          "Differential lock": "hydro-mechanical",
+          "__seccion_2__": "Power steering",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 4640 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Control": "position and draft control"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "1000 (1.75)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "118.5 inches 300 cm",
+          "Weight": "14350 lbs 6509 kg",
+          "Front tire": "11.00-16",
+          "Rear tire": "20.8-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "88",
+          "Batteries": "2",
+          "Battery volts": "12",
+          "Battery AH": "88"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "4040 4240 4440 4640 published in 1980, by John Deere",
+          "__seccion_3__": "Product Information Manual published in 1977, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 20, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1977 - 1984",
+          "__seccion_2__": "4040 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 4640 Tires",
+          "Optional tires (ag)": "Front: 18.4-38. Rear:",
+          "Ag front": "11.00-16",
+          "Ag rear": "20.8-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "118.5 inches 300 cm",
+          "Length": "171.1 inches 434 cm",
+          "Height (cab)": "118.1 inches 299 cm",
+          "Shipping weight": "14350 lbs 6509 kg",
+          "Clearance (front axle)": "26 inches 66 cm",
+          "Clearance (rear axle)": "28 inches 71 cm",
+          "Clearance (drawbar)": "14.8 inches 37 cm",
+          "Rack-and-pinion rear axle": "3.937 by 118 inches 99 by 2997 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 20, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1977 - 1984",
+          "__seccion_2__": "4040 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "466 ci 7.6 L",
+          "Bore/Stroke": "4.5625x4.75 inches 116 x 121 mm",
+          "Power (net)": "174.3 hp 130.0 kW",
+          "Power (gross)": "185.1 hp 138.0 kW",
+          "Fuel system": "direct injection",
+          "Compression": "14.9:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "800-2400",
+          "Operating RPM": "1400-2200",
+          "Torque": "529.6 lb-ft 718.1 Nm",
+          "Torque RPM": "1400",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "20.1 qts 19.0 L",
+          "Coolant capacity": "38 qts 36.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 20, 2022"
+        }
+      ]
+    }
+  }
+}

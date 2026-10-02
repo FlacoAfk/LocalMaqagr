@@ -1,0 +1,316 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/7/4/749-massey-ferguson-180.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/7/4/749-massey-ferguson-180-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/7/4/749-massey-ferguson-180-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/7/4/749-massey-ferguson-180-engine.html",
+    "source_id": 749,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:23:14.590Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/749/749-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 55 KB"
+  },
+  "tractor_data_id": 749,
+  "name": "Massey Ferguson 180",
+  "brand": "Massey Ferguson",
+  "model": "180",
+  "years": {
+    "desde": 1964,
+    "hasta": 1975
+  },
+  "model_year": 1964,
+  "engine_power_hp": 64,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 64,
+  "pto_tested_hp": 63.68,
+  "drawbar_tested_hp": 53.84,
+  "weight_kg": 3032,
+  "weight_basis": "Gas Operating",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 27.1,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 15.5-38",
+  "tire_width_mm": 394,
+  "tire_diameter_mm": 1634,
+  "tire_front": {
+    "original": "7.50-15",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 15,
+    "diameter_mm_est": 705,
+    "tipo": "Diagonal",
+    "texto": "7.50-15"
+  },
+  "fuel_consumption_lph": 14.4,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/749/749-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/749/749-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td749.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1964 - 1975",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Detroit, Michigan, USA",
+          "__seccion_4__": "Original price was $7,600 in 1975"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 180 Engines",
+          "__seccion_2__": "Perkins 3.9L 4-cyl diesel",
+          "__seccion_3__": "Perkins 3.9L 4-cyl gasoline",
+          "__seccion_4__": "Continental 3.4L 4-cyl gasoline",
+          "Fuel tank": "29 gal 109.8 L",
+          "__seccion_5__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 180 Transmissions",
+          "__seccion_2__": "12-speed partial power shift",
+          "__seccion_3__": "6-speed unsynchronized gear",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 180 Power",
+          "Drawbar (claimed)": "54 hp 40.3 kW",
+          "PTO (claimed)": "64 hp 47.7 kW",
+          "Drawbar (tested)": "53.84 hp 40.1 kW",
+          "PTO (tested)": "63.68 hp 47.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Final drives": "planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential mechanical disc brakes",
+          "__seccion_5__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 180 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "1500 psi 103.4 bar",
+          "Valves": "1",
+          "Total flow": "4.8 gpm 18.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live * Two-stage clutch",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "93 inches 236 cm",
+          "Weight": "6685 to 6755 pounds",
+          "Front tire": "7.50-15",
+          "Rear tire": "15.5-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 180 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1965": "645000001",
+          "1966": "645002423",
+          "1967": "9A1000",
+          "1968": "9A39836",
+          "1969": "9A63158",
+          "1970": "9A87325",
+          "1971": "9A107597",
+          "1972": "9A128141",
+          "1973": "9A152025",
+          "1974": "9A179544",
+          "__seccion_1__": "180 Serial Numbers",
+          "Location:": "Serial number plate mounted below the instrument panel on the 180.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "generator",
+          "Charging amps": "25",
+          "Charging volts": "12",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF 175 - MF180 Tractors published in 1967, by Massey Ferguson",
+          "__seccion_3__": "MF 180 Tractor published in 1964, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 24, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1964 - 1975",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 180 Tires",
+          "Ag front": "7.50-15",
+          "Ag rear": "15.5-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "93 inches 236 cm",
+          "Length": "126 inches 320 cm",
+          "Width": "73 inches 185 cm",
+          "Height (steering wheel)": "81.75 inches 207 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 180 Weight",
+          "Gas Operating": "6685 lbs 3032 kg",
+          "Diesel Operating": "6755 lbs 3064 kg",
+          "Ballasted": "8665 lbs 3930 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 24, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1964 - 1975",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 900: diesel 12-speed 2WD",
+          "__seccion_3__": "NTTL 1021: Perkins gasoline 12-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 900"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 900",
+          "__seccion_2__": "Diesel 12-speed 2WD May 25 - June 9, 1965 Link: Nebraska Tractor Test 900 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "63.68 hp 47.5 kW",
+          "Fuel use": "3.7 gal/hour 14.0 l/hour",
+          "Power at rated PTO speed": "57.11 hp 42.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "53.84 hp 40.1 kW",
+          "__seccion_5__": "Gear 1-H-L used for power test.",
+          "Max pull": "6,092 lbs 2763 kg",
+          "__seccion_6__": "Gear 2-L-H used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1021"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1021",
+          "__seccion_2__": "Perkins gasoline 12-speed 2WD September 11 - 24, 1969 Link: Nebraska Tractor Test 1021 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "62.33 hp 46.5 kW",
+          "Fuel use": "5.4 gal/hour 20.4 l/hour",
+          "Power at rated PTO speed": "56.72 hp 42.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "51.92 hp 38.7 kW",
+          "__seccion_5__": "Gear 1-H-L used for power test.",
+          "Max pull": "7,053 lbs 3199 kg",
+          "__seccion_6__": "Gear 2-L-H used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 24, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1964 - 1975",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Perkins 3.9L 4-cyl diesel",
+          "__seccion_3__": "Perkins 3.9L 4-cyl gasoline",
+          "__seccion_4__": "Continental 3.4L 4-cyl gasoline"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A4.236",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder 8-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "236 ci 3.9 L",
+          "Bore/Stroke": "3.875x5.00 inches 98 x 127 mm",
+          "Air cleaner": "paper element",
+          "Compression": "16:1",
+          "Rated RPM": "2000",
+          "Starter volts": "12",
+          "Oil capacity": "8.5 qts 8.0 L"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 180 Engine"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins AG4.236",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder 8-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "__seccion_6__": "The Perkins AG4.236 became the gasoline engine option in 1969.",
+          "Displacement": "236 ci 3.9 L",
+          "Bore/Stroke": "3.875x5.00 inches 98 x 127 mm",
+          "Air cleaner": "dry",
+          "Compression": "7:1",
+          "Rated RPM": "2000",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Continental G-206",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder 8-valve",
+          "__seccion_5__": "liquid-cooled",
+          "__seccion_6__": "The G206 was used in the Massey Ferguson 180 from 1964 to 1968.",
+          "Displacement": "206 ci 3.4 L",
+          "Bore/Stroke": "3.812x4.50 inches 97 x 114 mm",
+          "Air cleaner": "dry",
+          "Compression": "7.1:1",
+          "Rated RPM": "2000"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 180 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 24, 2024"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/7/4/1741-zetor-50-super.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/7/4/1741-zetor-50-super-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/7/4/1741-zetor-50-super-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1741,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:48:52.082Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1741/1741-photo-001.jpg",
+    "foto_calidad": "webp 800px/q55 → 55 KB"
+  },
+  "tractor_data_id": 1741,
+  "name": "Zetor 50 Super",
+  "brand": "Zetor",
+  "model": "50 Super",
+  "years": {
+    "desde": 1960,
+    "hasta": 1968
+  },
+  "model_year": 1960,
+  "engine_power_hp": 50,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2550,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 18.3,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 13-28",
+  "tire_width_mm": 330,
+  "tire_diameter_mm": 1273,
+  "tire_front": {
+    "original": "6.00-20",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 20,
+    "diameter_mm_est": 767,
+    "tipo": "Diagonal",
+    "texto": "6.00-20"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1741/1741-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1741/1741-photo-001.jpg",
+  "image_url": "/uploads/tractors/td1741.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1960 - 1968"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Zetor",
+          "__seccion_2__": "Built in Brno, Czechoslovakia",
+          "__seccion_3__": "The Zetor 50 Super was sold in some countries as the Zetor Super 550."
+        },
+        {
+          "__seccion_1__": "Zetor 50 Super Engine",
+          "__seccion_2__": "Zetor 4.2L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 50 Super Transmissions",
+          "__seccion_2__": "5-speed",
+          "__seccion_3__": "10-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 50 Super Power",
+          "Engine": "50 hp 37.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Zetor 50 Super photos..."
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "5622 lbs 2550 kg",
+          "Front tire": "6.00-20",
+          "Rear tire": "13-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 19, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1960 - 1968"
+        },
+        {
+          "__seccion_1__": "Zetor 50 Super Tires",
+          "Ag front": "6.00-20",
+          "Ag rear": "13-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Weight": "5622 lbs 2550 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 19, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1960 - 1968"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Zetor",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "Displacement": "253.6 ci 4.2 L",
+          "Bore/Stroke": "4.134x4.724 inches 105 x 120 mm",
+          "Power": "50 hp 37.3 kW",
+          "Rated RPM": "1500"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 19, 2021"
+        }
+      ]
+    }
+  }
+}

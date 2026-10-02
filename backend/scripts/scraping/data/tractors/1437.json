@@ -1,0 +1,217 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/4/3/1437-belarus-570.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/4/3/1437-belarus-570-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/4/3/1437-belarus-570-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/4/3/1437-belarus-570-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1437,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:25:23.792Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1437/1437-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 54 KB"
+  },
+  "tractor_data_id": 1437,
+  "name": "Belarus 570",
+  "brand": "Belarus",
+  "model": "570",
+  "years": {
+    "desde": 1992,
+    "hasta": 1996
+  },
+  "model_year": 1992,
+  "engine_power_hp": 61.24,
+  "engine_power_source": "pto_tested (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": 61.24,
+  "drawbar_tested_hp": 53.49,
+  "weight_kg": 3855,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 41.5,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 15.5-38",
+  "tire_width_mm": 394,
+  "tire_diameter_mm": 1634,
+  "tire_front": {
+    "original": "7.50-20",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 20,
+    "diameter_mm_est": 832,
+    "tipo": "Diagonal",
+    "texto": "7.50-20"
+  },
+  "fuel_consumption_lph": 13.6,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1437/1437-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1437/1437-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1437.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1992 - 1996"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Belarus",
+          "__seccion_2__": "Built in Minsk, Belarus",
+          "Original price": "$17,000 (1996)"
+        },
+        {
+          "570": "2WD",
+          "572": "4WD",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Belarus 570 Engine",
+          "__seccion_2__": "Belarus 4.8L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Belarus 570 Transmissions",
+          "__seccion_2__": "18-speed",
+          "__seccion_3__": "9-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Belarus 570 Power",
+          "Drawbar (tested)": "53.49 hp 39.9 kW",
+          "PTO (tested)": "61.24 hp 45.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Cab with heat."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Belarus 570 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "34.3 gal 129.8 L",
+          "Hydraulic system": "5.4 gal 20.4 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open",
+          "Capacity": "5.4 gal 20.4 L",
+          "Valves": "2",
+          "Total flow": "10.2 gpm 38.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "4,366 lbs 1980 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "93.5 inches 237 cm",
+          "Weight": "8500 lbs 3855 kg",
+          "Front tire": "7.50-20",
+          "Rear tire": "15.5-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operators Manual 500 Series, 800 Series and 900 Series Tractors (904805) published in 1992"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 12, 2012"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1992 - 1996"
+        },
+        {
+          "__seccion_1__": "Belarus 570 Tires",
+          "Ag front": "7.50-20",
+          "Ag rear": "15.5-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "93.5 inches 237 cm",
+          "Length": "150.4 inches 382 cm",
+          "Width": "77.6 inches 197 cm",
+          "Height (cab)": "109.4 inches 277 cm",
+          "Weight": "8500 lbs 3855 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 12, 2012"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1992 - 1996"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1655",
+          "__seccion_2__": "Diesel 18-speed 4WD October 16 - 25, 1991 Link: Nebraska Tractor Test 1655 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "61.24 hp 45.7 kW",
+          "Fuel use": "3.5 gal/hour 13.2 l/hour",
+          "Power at rated PTO speed": "59.41 hp 44.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "53.49 hp 39.9 kW",
+          "__seccion_5__": "Gear 5H used for power test.",
+          "Max pull": "9,321 lbs 4228 kg",
+          "__seccion_6__": "Gear 2H used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 12, 2012"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1992 - 1996"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Belarus D-242",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "290 ci 4.8 L",
+          "Bore/Stroke": "4.33x4.92 inches 110 x 125 mm",
+          "Compression": "16:1",
+          "Rated RPM": "1800",
+          "Coolant capacity": "21.08 qts 20.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 12, 2012"
+        }
+      ]
+    }
+  }
+}

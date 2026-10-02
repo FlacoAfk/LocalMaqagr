@@ -1,0 +1,271 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/7/72-john-deere-4000.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/7/72-john-deere-4000-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/7/72-john-deere-4000-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/7/72-john-deere-4000-engine.html",
+    "source_id": 72,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:46:13.080Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/72/72-photo-001-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 53 KB"
+  },
+  "tractor_data_id": 72,
+  "name": "John Deere 4000",
+  "brand": "John Deere",
+  "model": "4000",
+  "years": {
+    "desde": 1969,
+    "hasta": 1972
+  },
+  "model_year": 1969,
+  "engine_power_hp": 96.89,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 96.89,
+  "pto_tested_hp": 96.89,
+  "drawbar_tested_hp": 82.59,
+  "weight_kg": 3365,
+  "weight_basis": "Gas Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 36.5,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 16.9-34",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1593,
+  "tire_front": null,
+  "fuel_consumption_lph": 23.5,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/72/72-td3a.jpg",
+  "image_url": "/uploads/tractors/td72.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1969 - 1972",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "Total built": "7,987 (total)",
+          "&nbsp": "9 (gas Power Shift)",
+          "__seccion_4__": "The 4000 was a high horsepower-to-weight tractor, designed as a \"runner\". Using the same engine as the 4020, but being almost 1000 lbs lighter, the 4000 could, in the same amount of time, pull a 4-bottom plow fast enough to cover the same acreage as a 4020 with a 5-bottom plow. The John Deere 4000 was also an economy tractor, providing the same power as the 4020 with fewer features and smaller rear axles."
+        },
+        {
+          "__seccion_1__": "John Deere 4000 Engines",
+          "__seccion_2__": "John Deere 6.6L 6-cyl diesel",
+          "__seccion_3__": "John Deere 5.9L 6-cyl gasoline",
+          "Fuel tank": "34 gal 128.7 L",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4000 Transmissions",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "8-speed full power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4000 Power",
+          "Drawbar (claimed)": "84.82 hp 63.3 kW",
+          "PTO (claimed)": "96.89 hp 72.3 kW",
+          "Drawbar (tested)": "82.59 hp 61.6 kW",
+          "PTO (tested)": "96.89 hp 72.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Independent hydraulic wet disc brakes",
+          "__seccion_5__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 4000 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000",
+          "&nbsp": "540/1000 Opt Optional"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "100.25 inches 254 cm",
+          "Weight": "7420 to 8605 pounds",
+          "Front tire": "9.5L-15",
+          "Rear tire": "16.9-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4000 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "4000 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the rear of the John Deere 4000, above the PTO shaft."
+        },
+        {
+          "1969": "211422",
+          "1970": "222143",
+          "1971": "250000",
+          "1972": "260791",
+          "__seccion_1__": "4000 Serial Numbers",
+          "Final": "270280",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "generator",
+          "&nbsp": "Motorola alternator",
+          "Charging amps": "35",
+          "Batteries": "2",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere 20 Series New Generation Tractors by Benjamin Hain",
+          "__seccion_3__": "Operator's Manual 4000 and 4020 (OM-R46934) published in 1969",
+          "__seccion_4__": "Operator's Manual 4000 and 4020 (OM-R48273) published in 1971",
+          "__seccion_5__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_6__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on February 21, 2026",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1969 - 1972",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 4000 Tires",
+          "Ag front": "9.5L-15",
+          "Ag rear": "16.9-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "100.25 inches 254 cm",
+          "Length": "152.75 inches 387 cm",
+          "Width": "89.625 inches 227 cm",
+          "Height (steering wheel)": "78.375 inches 199 cm",
+          "Height (exhaust)": "89.25 inches 226 cm",
+          "Rear axle": "3.125 inch diameter 79 mm"
+        },
+        {
+          "__seccion_1__": "John Deere 4000 Weight",
+          "Gas Shipping": "7420 lbs 3365 kg",
+          "Diesel Shipping": "7670 lbs 3479 kg",
+          "Operating": "8605 lbs 3903 kg",
+          "Ballasted": "10870 lbs 4930 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 21, 2026"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1969 - 1972",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1023"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1023",
+          "__seccion_2__": "Diesel 8-speed 2WD September 30 - October 14, 1969 Link: Nebraska Tractor Test 1023 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "96.89 hp 72.3 kW",
+          "Fuel use": "6.2 gal/hour 23.5 l/hour",
+          "Power at rated PTO speed": "88.88 hp 66.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "82.59 hp 61.6 kW",
+          "__seccion_5__": "Gear 5 used for power test.",
+          "Max pull": "8215 lbs 3726 kg",
+          "__seccion_6__": "Gear 3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 21, 2026"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1969 - 1972",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "John Deere 6.6L 6-cyl diesel",
+          "__seccion_3__": "John Deere 5.9L 6-cyl gasoline"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "404 ci 6.6 L",
+          "Bore/Stroke": "4.25x4.75 inches 108 x 121 mm",
+          "Compression": "16.5:1",
+          "Rated RPM": "2200",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "360 ci 5.9 L",
+          "Bore/Stroke": "4.25x4.25 inches 108 x 108 mm",
+          "Compression": "7.5:1",
+          "Rated RPM": "2200"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 21, 2026"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/72/72-photo-001-ext045.jpg"
+}

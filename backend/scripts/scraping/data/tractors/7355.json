@@ -1,0 +1,168 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/3/5/7355-belarus-5470.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/3/5/7355-belarus-5470-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/3/5/7355-belarus-5470-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 7355,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:30:55.433Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7355/7355-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 2 KB"
+  },
+  "tractor_data_id": 7355,
+  "name": "Belarus 5470",
+  "brand": "Belarus",
+  "model": "5470",
+  "years": {
+    "desde": 1997,
+    "hasta": 2007
+  },
+  "model_year": 1997,
+  "engine_power_hp": 74,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 74,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": null,
+  "weight_basis": null,
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 27.1,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F007/7355/7355-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td7355.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "???? - 2009",
+          "__seccion_2__": "5400 Series"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Belarus"
+        },
+        {
+          "5470": "14-speed",
+          "__seccion_1__": "Variants",
+          "5470S": "9-speed shuttle"
+        },
+        {
+          "__seccion_1__": "Belarus 5470 Engine",
+          "__seccion_2__": "Belarus 4.8L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Belarus 5470 Transmissions",
+          "__seccion_2__": "14-speed partially synchronized",
+          "__seccion_3__": "9-speed shuttle",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Belarus 5470 Power",
+          "PTO (claimed)": "74 hp 55.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Cab with heater."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Belarus 5470 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "50",
+          "Batteries": "2",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 24, 2013"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "???? - 2009",
+          "__seccion_2__": "5400 Series"
+        },
+        {
+          "__seccion_1__": "Belarus 5470 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 24, 2013"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "???? - 2009",
+          "__seccion_2__": "5400 Series"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Belarus D243",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "289.9 ci 4.8 L",
+          "Bore/Stroke": "4.33x4.92 inches 110 x 125 mm",
+          "Fuel system": "direct injection",
+          "Starter": "electric",
+          "Starter volts": "24"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 24, 2013"
+        }
+      ]
+    }
+  }
+}

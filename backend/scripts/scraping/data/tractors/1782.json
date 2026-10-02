@@ -1,0 +1,257 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/7/8/1782-john-deere-4710.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/7/8/1782-john-deere-4710-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/7/8/1782-john-deere-4710-engine.html",
+    "source_id": 1782,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:37:44.591Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1782/1782-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 140 KB"
+  },
+  "tractor_data_id": 1782,
+  "name": "John Deere 4710",
+  "brand": "John Deere",
+  "model": "4710",
+  "years": {
+    "desde": 2002,
+    "hasta": 2004
+  },
+  "model_year": 2002,
+  "engine_power_hp": 46.3,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 38.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1564,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 14.1,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 13.6-28",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1298,
+  "tire_front": {
+    "original": "7.00-16",
+    "radial": false,
+    "width_mm": 178,
+    "rim_in": 16,
+    "diameter_mm_est": 709,
+    "tipo": "Diagonal",
+    "texto": "7.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1782/1782-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1782/1782-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1782.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2002 - 2004",
+          "__seccion_2__": "4000 Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Augusta, Georgia, USA"
+        },
+        {
+          "__seccion_1__": "John Deere 4710 Engine",
+          "__seccion_2__": "Yanmar 2.2L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4710 Transmissions",
+          "__seccion_2__": "12-speed power shuttle",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4710 Power",
+          "Engine (gross)": "46.3 hp 34.5 kW",
+          "Hydro PTO (claimed)": "38.5 hp 28.7 kW",
+          "Gear PTO (claimed)": "40 hp 29.8 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Platform with two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 4710 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "12.5 gal 47.3 L",
+          "Hydraulic system": "9.7 gal 36.7 L",
+          "&nbsp": "9.2 gal (hydrostatic) 34.8 L",
+          "Front axle": "5.2 qts 4.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "9.7 gal 36.7 L",
+          "&nbsp": "9.2 gal (hydrostatic) 34.8 L",
+          "Pressure": "2500 psi 172.4 bar",
+          "Pump flow": "10.6 gpm 40.1 lpm",
+          "Total flow": "15.9 gpm 60.2 lpm",
+          "Steering flow": "5.3 gpm 20.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift": "2500 lbs 1134 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "wet disc",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2600",
+          "Mid PTO": "independent Opt Optional",
+          "Mid PTO Type": "2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "71.5 inches 181 cm",
+          "Weight": "3450 lbs 1564 kg",
+          "Front tire": "6.00-16",
+          "Rear tire": "13.6-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4710 attachments",
+          "__seccion_2__": "72\" mid-mount mower deck",
+          "__seccion_3__": "blade",
+          "__seccion_4__": "front-end loader",
+          "__seccion_5__": "backhoe",
+          "__seccion_6__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "4710 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the tractor frame, above the front axle."
+        },
+        {
+          "2002": "170001",
+          "2003": "270001",
+          "2004": "370001",
+          "__seccion_1__": "4710 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "Battery CCA": "690",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "4000 TEN Series 18 To 48 HP published in 2001, by John Deere",
+          "__seccion_3__": "The New John Deere 4000 TEN Series Tractors published in 2002",
+          "__seccion_4__": "4000 TEN Series - The tractor redefined published in 2001, by John Deere",
+          "__seccion_5__": "4000 TEN Series - Take Command published in 2001, by John Deere",
+          "__seccion_6__": "4000 TEN Series Product Information Handbook published in 2003, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 12, 2024",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2002 - 2004",
+          "__seccion_2__": "4000 Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 4710 Tires",
+          "Ag front": "6.00-16 (2WD)",
+          "&nbsp": "22.5LL-16.1",
+          "Ag rear": "13.6-24",
+          "Lawn/turf front": "27x10.5-15",
+          "Lawn/turf rear": "44x18.00-20",
+          "Industrial front": "10.00-16.5 (4WD)",
+          "Industrial rear": "17.5L-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "71.5 inches 181 cm",
+          "Length": "135 inches 342 cm",
+          "Width": "62 inches * Minimum width. 157 cm",
+          "Shipping weight": "3450 lbs 1564 kg"
+        },
+        {
+          "__seccion_1__": "John Deere 4710 Height",
+          "Hood": "51 inches 129 cm",
+          "ROPS": "91.6 inches 232 cm",
+          "&nbsp": "97.6 inches (folding) 247 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 12, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2002 - 2004",
+          "__seccion_2__": "4000 Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Yanmar 4TNE88",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "133 ci 2.2 L",
+          "Bore/Stroke": "3.456x3.543 inches 88 x 90 mm",
+          "Power (gross)": "46.3 hp 34.5 kW",
+          "Air cleaner": "dry with safety element",
+          "Compression": "18:1",
+          "Rated RPM": "2600",
+          "Torque": "108 lb-ft 146.4 Nm",
+          "Torque RPM": "1700",
+          "Starter volts": "12",
+          "Starter power": "2.7 hp 2.0 kW",
+          "Coolant capacity": "6.8 qts 6.4 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "5.1 qts 4.8 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 12, 2024"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/1/0/8101-massey-ferguson-275.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/1/0/8101-massey-ferguson-275-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/1/0/8101-massey-ferguson-275-engine.html",
+    "source_id": 8101,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:45:26.154Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8101/8101-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 8101,
+  "name": "Massey Ferguson 275",
+  "brand": "Massey Ferguson",
+  "model": "275",
+  "years": {
+    "desde": 1977,
+    "hasta": 1987
+  },
+  "model_year": 1977,
+  "engine_power_hp": 70,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2522,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 25.7,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4x30",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1557,
+  "tire_front": {
+    "original": "7.50x16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50x16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F008/8101/8101-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td8101.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1977 - 1987",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 275 Engine",
+          "__seccion_2__": "Perkins 3.9L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 275 Transmissions",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "12-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 275 Power",
+          "Engine (gross)": "70 hp 52.2 kW",
+          "Engine (net)": "66 hp 49.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "manual",
+          "&nbsp": "power Opt Optional",
+          "__seccion_3__": "Mechanical wet disc brakes",
+          "__seccion_4__": "Open operator station. Cab optional with available air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 275 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "21 gal 79.5 L",
+          "Hydraulic system": "10.3 gal 39.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "10.3 gal 39.0 L",
+          "Pressure": "2500 psi 172.4 bar",
+          "Valves": "1",
+          "Pump flow": "13.7 gpm 51.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at ends)": "3962 lbs 1797 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1685"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "88.6 inches 225 cm",
+          "Weight": "5560 lbs 2522 kg",
+          "Front tire": "7.50x16",
+          "Rear tire": "18.4x30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 21, 2014"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1977 - 1987",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 275 Tires",
+          "Ag front": "7.50x16",
+          "Ag rear": "18.4x30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "88.6 inches 225 cm",
+          "Length": "148.8 inches 377 cm",
+          "Width": "72 inches 182 cm",
+          "Height (steering wheel)": "68.1 inches 172 cm",
+          "Weight": "5560 lbs 2522 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 21, 2014"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1977 - 1987",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A4.236",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "236 ci 3.9 L",
+          "Bore/Stroke": "3.875x5.00 inches 98 x 127 mm",
+          "Power (net)": "66 hp 49.2 kW",
+          "Power (gross)": "70 hp 52.2 kW",
+          "Compression": "16:1",
+          "Rated RPM": "2000",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 21, 2014"
+        }
+      ]
+    }
+  }
+}

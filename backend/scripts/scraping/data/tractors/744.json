@@ -1,0 +1,304 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/7/4/744-massey-ferguson-150.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/7/4/744-massey-ferguson-150-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/7/4/744-massey-ferguson-150-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/7/4/744-massey-ferguson-150-engine.html",
+    "source_id": 744,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:22:58.473Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/744/744-td4-b01-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 65 KB"
+  },
+  "tractor_data_id": 744,
+  "name": "Massey Ferguson 150",
+  "brand": "Massey Ferguson",
+  "model": "150",
+  "years": {
+    "desde": 1964,
+    "hasta": 1975
+  },
+  "model_year": 1964,
+  "engine_power_hp": 45.5,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 38,
+  "pto_tested_hp": 37.88,
+  "drawbar_tested_hp": 33.07,
+  "weight_kg": 2179,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 21.3,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": 7.9,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/744/744-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/744/744-td4-b01-ext090.jpg",
+  "image_url": "/uploads/tractors/td744.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1964 - 1975"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Built in Detroit, Michigan, USA",
+          "__seccion_3__": "Original price was $5,693 in 1975"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "Standard": "fixed wide-front",
+          "Wide Row Crop": "adjustable wide-front",
+          "Tricycle": "narrow row-crop front"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 150 Engines",
+          "__seccion_2__": "Perkins 2.5L 3-cyl diesel",
+          "__seccion_3__": "Continental 2.4L 4-cyl gasoline",
+          "__seccion_4__": "Perkins 2.5L 3-cyl gasoline",
+          "__seccion_5__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 150 Transmissions",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "12-speed partial power shift",
+          "__seccion_4__": "6-speed gear",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 150 Power",
+          "Engine": "45.5 hp 33.9 kW",
+          "Drawbar (claimed)": "33 hp 24.6 kW",
+          "PTO (claimed)": "38 hp 28.3 kW",
+          "Plows": "3",
+          "Drawbar (tested)": "33.07 hp 24.7 kW",
+          "PTO (tested)": "37.88 hp 28.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential mechanical disc brakes",
+          "__seccion_5__": "Open operator station. Two-post ROPS and canopy optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 150 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "18.5 gal 70.0 L",
+          "Hydraulic system": "8 gal 30.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Capacity": "8 gal 30.3 L",
+          "Total flow": "4.8 gpm 18.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "&nbsp": "independent (optional)",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "81.1 inches 205 cm",
+          "&nbsp": "84.3 inches (tricycle) 214 cm",
+          "Weight": "4805 lbs 2179 kg",
+          "Front tire": "6.00-16",
+          "Rear tire": "13.6/12x28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 150 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1964": "642000003",
+          "1965": "642000859",
+          "1966": "642003946",
+          "1967": "9A1000",
+          "1968": "9A39836",
+          "1969": "9A63158",
+          "1970": "9A87325",
+          "1971": "9A107597",
+          "1972": "9A128141",
+          "1973": "9A152025",
+          "1974": "9A179544",
+          "1975": "9A207681",
+          "__seccion_1__": "150 Serial Numbers",
+          "Location:": "Below instrument panel",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF 135 / MF 150 / MF 165 published in 1975, by Massey Ferguson",
+          "__seccion_3__": "MF 135 / MF 150 Tractors published in 1972, by Massey Ferguson",
+          "__seccion_4__": "MF 150 Tractor published in 1964, by Massey Ferguson",
+          "__seccion_5__": "Installation & Operation of Basic & Auxiliary Hydraulic Systems (690 562 M2) published in 1968"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 7, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1964 - 1975"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 150 Tires",
+          "Ag front": "6.00-16",
+          "&nbsp": "12.4/11-38",
+          "Ag rear": "13.6/12x28 (standard front)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "81.1 inches 205 cm",
+          "&nbsp": "15 inches (wide row-crop) 38 cm",
+          "Length": "131.5 inches 334 cm",
+          "Width": "63.4 inches 161 cm",
+          "Height (steering wheel)": "65 inches 165 cm",
+          "Operating weight": "4805 lbs (diesel) 2179 kg",
+          "Ballasted weight": "6605 lbs (diesel) 2996 kg",
+          "Ground clearance": "12.6 inches 32 cm",
+          "Front tread": "48 to 72 inches 121 to 182 cm",
+          "Rear tread": "52 to 72 inches 132 to 182 cm (power)"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 7, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1964 - 1975"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 901"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 901",
+          "__seccion_2__": "Diesel 12-speed 2WD May 25 - June 9, 1965 Link: Nebraska Tractor Test 901 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "37.88 hp 28.2 kW",
+          "Fuel use": "2.2 gal/hour 8.3 l/hour",
+          "Power at rated PTO speed": "35.38 hp 26.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "33.07 hp 24.7 kW",
+          "__seccion_5__": "Gear 1HL used for power test.",
+          "Max pull": "4,787 lbs 2171 kg",
+          "__seccion_6__": "Gear 2LH used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 7, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1964 - 1975"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Perkins 2.5L 3-cyl diesel",
+          "__seccion_3__": "Continental 2.4L 4-cyl gasoline",
+          "__seccion_4__": "Perkins 2.5L 3-cyl gasoline"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins AD3.152",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "152.7 ci 2.5 L",
+          "Bore/Stroke": "3.6x5.0 inches 91 x 127 mm",
+          "Power": "45.5 hp 33.9 kW",
+          "Air cleaner": "oil bath",
+          "Compression": "17.4:1",
+          "Rated RPM": "2000",
+          "Torque": "115 lb-ft 155.9 Nm",
+          "Torque RPM": "1200",
+          "Starter volts": "12",
+          "Oil capacity": "6.3 qts 6.0 L",
+          "Coolant capacity": "10.5 qts 9.9 L"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 150 Engine"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Continental Z-145",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "145 ci 2.4 L",
+          "Bore/Stroke": "3.375x4.062 inches 86 x 103 mm",
+          "Compression": "7.1:1",
+          "Rated RPM": "2000",
+          "Torque": "125 lb-ft 169.5 Nm",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 150 Engine"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins AG3.152",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "152.7 ci 2.5 L",
+          "Bore/Stroke": "3.6x5.0 inches 91 x 127 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "7.5:1",
+          "Rated RPM": "2000",
+          "Starter volts": "12",
+          "Coolant capacity": "10.5 qts 9.9 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 7, 2022"
+        }
+      ]
+    }
+  }
+}

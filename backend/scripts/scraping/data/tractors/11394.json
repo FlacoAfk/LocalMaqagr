@@ -1,0 +1,234 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/011/3/9/11394-kubota-l2502.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/011/3/9/11394-kubota-l2502-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/011/3/9/11394-kubota-l2502-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 11394,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:22:02.304Z",
+    "foto_original": "https://www.tractordata.com/photos/F011/11394/11394-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 136 KB"
+  },
+  "tractor_data_id": 11394,
+  "name": "Kubota L2502",
+  "brand": "Kubota",
+  "model": "L2502",
+  "years": {
+    "desde": 2014,
+    "hasta": 2022
+  },
+  "model_year": 2014,
+  "engine_power_hp": 24.8,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 20.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1275,
+  "weight_basis": "4WD Gear",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 7.5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 11.2-24",
+  "tire_width_mm": 284,
+  "tire_diameter_mm": 1093,
+  "tire_front": {
+    "original": "7.2-16",
+    "radial": false,
+    "width_mm": 183,
+    "rim_in": 16,
+    "diameter_mm_est": 717,
+    "tipo": "Diagonal",
+    "texto": "7.2-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F011/11394/11394-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F011/11394/11394-photo-001.jpg",
+  "image_url": "/uploads/tractors/td11394.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2022 -",
+          "__seccion_2__": "L02 Standard Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Original price was $16,694 in 2023"
+        },
+        {
+          "__seccion_1__": "Kubota L2502 Engine",
+          "__seccion_2__": "Kubota 1.6L 3-cyl diesel",
+          "Fuel tank": "11.1 gal 42.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L2502 Transmissions",
+          "__seccion_2__": "8-speed mechanical shuttle",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L2502 Power",
+          "Engine (gross)": "24.8 hp 18.5 kW",
+          "Engine (net)": "24.0 hp 17.9 kW",
+          "Gear PTO (claimed)": "20.5 hp 15.3 kW",
+          "Hydro PTO (claimed)": "19 hp 14.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota L2502 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "5.2 gpm 19.7 lpm",
+          "Steering flow": "3.1 gpm 11.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at ends)": "1874 lbs 850 kg",
+          "Rear lift (at 24\"/610mm)": "1389 lbs 630 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Gear Rear PTO": "transmission",
+          "Hydro Rear PTO": "independent",
+          "Clutch": "overrunning dry disc (gear)",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1910 (gear)",
+          "&nbsp": "540@2020 (hydro)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "63.8 inches 162 cm",
+          "4WD Wheelbase": "63.4 inches 161 cm",
+          "Weight": "2601 to 2833 pounds",
+          "Front tire": "5.00-15",
+          "2WD Rear tire": "11.2-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota L2502 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "Charging volts": "12",
+          "Gear Battery CCA": "580",
+          "Hydro Battery CCA": "600",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "L02 Series published in 2022, by Kubota"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 17, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2022 -",
+          "__seccion_2__": "L02 Standard Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota L2502 Tires",
+          "2WD Standard tires (ag)": "Front: 5.00-15. Rear: 11.2-24",
+          "4WD Standard tires (ag)": "Front: 7.2-16. Rear: 11.2-24",
+          "2WD Lawn/turf front": "23x8.50-12",
+          "4WD Lawn/turf front": "25x8.50-14",
+          "Lawn/turf rear": "13.6-16",
+          "4WD Industrial front": "29x9.50-15",
+          "4WD Industrial rear": "43x16-20"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "63.8 inches 162 cm",
+          "4WD Wheelbase": "63.4 inches 161 cm",
+          "2WD Length": "110.6 inches 280 cm",
+          "4WD Length": "108.5 inches 275 cm",
+          "Width": "55.1 inches 139 cm",
+          "Height (ROPS)": "91.7 inches 232 cm",
+          "2WD Ground clearance": "13.6 inches 34 cm",
+          "4WD Ground clearance": "13.4 inches 34 cm",
+          "2WD Front tread": "41.3 inches 104 cm",
+          "4WD Front tread": "43.1 inches 109 cm",
+          "Rear tread": "43.9/47.1/50.8 inches 111/119/129 cm"
+        },
+        {
+          "__seccion_1__": "Kubota L2502 Weight",
+          "2WD Gear": "2601 lbs 1179 kg",
+          "4WD Gear": "2811 lbs 1275 kg",
+          "4WD Hydro": "2833 lbs 1285 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 17, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2022 -",
+          "__seccion_2__": "L02 Standard Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "100.5 ci 1.6 L",
+          "Bore/Stroke": "3.43x3.64 inches 87 x 92 mm",
+          "Power (net)": "24.0 hp 17.9 kW",
+          "Power (gross)": "24.8 hp 18.5 kW",
+          "Fuel system": "direct injection",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 17, 2023"
+        }
+      ]
+    }
+  }
+}

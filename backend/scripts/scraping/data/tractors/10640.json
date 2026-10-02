@@ -1,0 +1,264 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/6/4/10640-john-deere-8r-410.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/6/4/10640-john-deere-8r-410-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/010/6/4/10640-john-deere-8r-410-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/6/4/10640-john-deere-8r-410-engine.html",
+    "source_id": 10640,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:09:04.795Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10640/10640-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 10640,
+  "name": "John Deere 8R 410",
+  "brand": "John Deere",
+  "model": "8R 410",
+  "years": {
+    "desde": 2016,
+    "hasta": 2019
+  },
+  "model_year": 2016,
+  "engine_power_hp": 410,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 310,
+  "pto_tested_hp": 384.1,
+  "drawbar_tested_hp": 330.42,
+  "weight_kg": 13630,
+  "weight_basis": "Operating",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 135.5,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 480/80R50",
+  "tire_width_mm": 480,
+  "tire_diameter_mm": 2038,
+  "tire_front": {
+    "original": "420/85R34",
+    "radial": true,
+    "width_mm": 420,
+    "rim_in": 34,
+    "diameter_mm_est": 1578,
+    "tipo": "Radial",
+    "texto": "420/85R34"
+  },
+  "fuel_consumption_lph": 71.5,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F010/10640/10640-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td10640.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2019 -",
+          "__seccion_2__": "8R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "__seccion_4__": "Original price was $462,726 in 2020"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "8R 410": "wheeled",
+          "8RT 410": "two-track",
+          "8RX 410": "four-track"
+        },
+        {
+          "__seccion_1__": "John Deere 8R 410 Engine",
+          "__seccion_2__": "John Deere 9.0L 6-cyl diesel",
+          "Fuel tank": "192 gal 726.7 L",
+          "Exhaust fluid (DEF)": "9.8 gal 37.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8R 410 Transmission",
+          "__seccion_2__": "23-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8R 410 Power",
+          "Engine (gross)": "410 hp 305.7 kW",
+          "Engine (max)": "443 hp 330.3 kW",
+          "PTO (claimed)": "310 hp 231.2 kW",
+          "Drawbar (tested)": "330.42 hp 246.4 kW",
+          "PTO (tested)": "384.10 hp 286.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 8R 410 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed-center pressure flow compensated",
+          "Pressure": "2958 psi 204.0 bar",
+          "Rear valves": "4 to 6",
+          "Pump flow": "60 gpm 227.1 lpm",
+          "&nbsp": "84 gpm Opt Optional 317.9 lpm",
+          "SCV flow": "35 gpm (rear) 132.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IVN/III",
+          "Control": "electro-hydraulic draft sensing",
+          "Rear lift (at 24\"/610mm)": "20000 lbs 9072 kg",
+          "&nbsp": "15200 lbs Opt Optional 6894 kg",
+          "Front Hitch": "IIIN",
+          "Front lift (at ends)": "11464 lbs 5200 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "1000 (1.75)",
+          "Engine RPM": "1000@2000",
+          "&nbsp": "1000E@1596",
+          "Front PTO": "independent Opt Optional",
+          "Front PTO Type": "1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "120.1 inches 305 cm",
+          "Weight": "27800 to 30050 pounds",
+          "Front tire": "420/85R34",
+          "Rear tire": "480/80R50",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "250",
+          "&nbsp": "330 Opt Optional",
+          "Batteries": "2",
+          "Battery CCA": "925",
+          "Battery volts": "12",
+          "Battery Group": "31"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operator's Manual 8R Tractors (OMRE593195) published in 2021"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 23, 2021",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2019 -",
+          "__seccion_2__": "8R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8R 410 Tires",
+          "Standard tires (ag)": "Front: 420/85R34. Rear: 480/80R50"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "120.1 inches 305 cm",
+          "Length": "252.8 inches 642 cm",
+          "Height (cab)": "137.8 inches * Height with Group 49 tires, exclusive antennas and beacons. 350 cm",
+          "Clearance (rear axle)": "31.5 inches 80 cm",
+          "Rear axle": "4.72 by 118.5 inches 119 by 3009 mm",
+          "Front tread": "60 to 144 inches 152 to 365 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 8R 410 Weight",
+          "__seccion_2__": "27800 lbs * Weight with IVT and ILS 12610 kg",
+          "Operating": "30050 lbs * Power shift tractor with 480/80R50 duals. 13630 kg",
+          "Ballasted": "40275 lbs * Power shift tractor with 480/80R50 triples. 18268 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 23, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2019 -",
+          "__seccion_2__": "8R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2224"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2224",
+          "__seccion_2__": "Diesel e23 4WD October 14 - 22, 2020 Link: OCED Tractor Test 2224 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "330.42 hp 246.4 kW",
+          "Fuel use": "19.1 gal/hour 72.3 l/hour",
+          "Power at rated engine speed": "339.73 hp 253.3 kW",
+          "Power at rated PTO speed": "369.06 hp 275.2 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 10 used for power test.",
+          "Max pull": "30452 lbs 13813 kg",
+          "__seccion_6__": "Gear 8 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 23, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2019 -",
+          "__seccion_2__": "8R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "549 ci 9.0 L",
+          "Bore/Stroke": "4.66x5.35 inches 118 x 136 mm",
+          "Emissions": "Tier IV",
+          "Rated Power (gross)": "410 hp 305.7 kW",
+          "Maximum Power (gross)": "443 hp 330.3 kW",
+          "Fuel system": "electronic high-pressure common rail",
+          "Compression": "16.0:1",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 23, 2021"
+        }
+      ]
+    }
+  }
+}

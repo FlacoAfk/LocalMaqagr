@@ -1,0 +1,218 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/3/1/1312-john-deere-2850.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/3/1/1312-john-deere-2850-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/3/1/1312-john-deere-2850-engine.html",
+    "source_id": 1312,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:52:03.053Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1312/1312-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 102 KB"
+  },
+  "tractor_data_id": 1312,
+  "name": "John Deere 2850",
+  "brand": "John Deere",
+  "model": "2850",
+  "years": {
+    "desde": 1986,
+    "hasta": 1994
+  },
+  "model_year": 1986,
+  "engine_power_hp": 86,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3925,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 31.6,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 14.9R38",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1609,
+  "tire_front": {
+    "original": "12.4R28",
+    "radial": true,
+    "width_mm": 315,
+    "rim_in": 28,
+    "diameter_mm_est": 1247,
+    "tipo": "Radial",
+    "texto": "12.4R28"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1312/1312-td3a.jpg",
+  "image_url": "/uploads/tractors/td1312.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1986 - 1994",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "Factories": "Mannheim, Baden-Württemberg, Germany",
+          "&nbsp": "Rosario, Argentina"
+        },
+        {
+          "__seccion_1__": "John Deere 2850 Engine",
+          "__seccion_2__": "John Deere 3.9L 4-cyl diesel",
+          "Fuel tank": "22.2 gal 84.0 L",
+          "&nbsp": "35.9 gal * With optional 35L tank. 135.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2850 Transmission",
+          "__seccion_2__": "16-speed two-speed power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2850 Power",
+          "Engine": "86 hp 64.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "ROPS. Sound-Gard and CC2 cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 2850 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed-center constant presure",
+          "Pressure": "2756 psi 190.0 bar",
+          "Total flow": "11.6 gpm 43.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "positon and draft control",
+          "2WD Rear lift (at ends)": "8003 lbs 3630 kg",
+          "4WD Rear lift (at ends)": "8818 lbs 3999 kg",
+          "Front Hitch": "II",
+          "Front lift (at ends)": "3594 lbs 1630 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "540/1000",
+          "Engine RPM": "1000@2172",
+          "&nbsp": "1000@2172",
+          "Front PTO": "independent",
+          "Front PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "89.2 inches 226 cm",
+          "4WD Wheelbase": "90 inches 228 cm",
+          "Weight": "7694 to 8653 pounds",
+          "Front tire": "10.00-16",
+          "2WD Rear tire": "14.9R38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging amps": "55",
+          "Batteries": "2",
+          "Battery volts": "12",
+          "Battery AH": "55"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operator's Manual 2650 and 2850 Tractors published in 1992, by John Deere",
+          "__seccion_3__": "2850 Traktor published in 1986, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 16, 2021",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1986 - 1994",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 2850 Tires",
+          "2WD Standard tires (ag)": "Front: 10.00-16. Rear: 14.9R38",
+          "4WD Standard tires (ag)": "Front: 12.4R28. Rear: 14.9R38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "89.2 inches 226 cm",
+          "4WD Wheelbase": "90 inches 228 cm",
+          "Length": "167.1 inches 424 cm",
+          "Width": "81.4 inches 206 cm",
+          "Height (cab)": "100.3 inches (low-profile) 254 cm",
+          "&nbsp": "105.8 inches (SG2) 268 cm",
+          "2WD Weight": "7694 lbs 3489 kg",
+          "4WD Weight": "8653 lbs 3925 kg",
+          "4WD Clearance (front axle)": "20.5 inches 52 cm",
+          "2WD Clearance (front axle)": "26.5 inches 67 cm",
+          "2WD Front tread": "53.5 to 79.1 inches 135 to 200 cm",
+          "4WD Front tread": "59.1 to 79.1 inches 150 to 200 cm",
+          "Rear tread": "59.1 to 78.7 inches 150 to 199 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 16, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1986 - 1994",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 4239TL",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "239 ci 3.9 L",
+          "Bore/Stroke": "4.19x4.33 inches 106 x 110 mm",
+          "Power": "86 hp 64.1 kW",
+          "Air cleaner": "dry",
+          "Rated RPM": "2300",
+          "Torque": "232.3 lb-ft 315.0 Nm",
+          "Torque RPM": "1500",
+          "Starter volts": "12",
+          "Starter power": "4 hp 3.0 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 16, 2021"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1312/1312-photo-001.jpg"
+}

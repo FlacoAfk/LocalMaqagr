@@ -1,0 +1,183 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/4/6/5462-john-deere-85f.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/4/6/5462-john-deere-85f-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/4/6/5462-john-deere-85f-engine.html",
+    "source_id": 5462,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:45:34.941Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5462/5462-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 5462,
+  "name": "John Deere 85F",
+  "brand": "Goldoni",
+  "model": "deere 85f",
+  "years": {
+    "desde": 2008,
+    "hasta": 2011
+  },
+  "model_year": 2008,
+  "engine_power_hp": 83,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 73,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2500,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 26.8,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5462/5462-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td5462.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2008 - 2011",
+          "__seccion_2__": "Orchard/Vineyard tractor",
+          "__seccion_3__": "Goldoni built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "John Deere",
+          "Manufacturer": "Goldoni",
+          "__seccion_2__": "Orchard/Vineyard tractor",
+          "__seccion_3__": "Built in Italy"
+        },
+        {
+          "__seccion_1__": "John Deere 85F Engine",
+          "__seccion_2__": "Detroit Diesel 2.7L 4-cyl diesel",
+          "Fuel tank": "16 gal 60.6 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 85F Transmissions",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "16-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 85F Power",
+          "Engine": "83 hp 61.9 kW",
+          "PTO (claimed)": "73 hp 54.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 85F are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2828 psi 195.0 bar",
+          "Valves": "2 or 3",
+          "Total flow": "10 gpm 37.9 lpm",
+          "Steering press.": "1958 psi 135.0 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "1/1N/2",
+          "Rear lift (at 24\"/610mm)": "5,511 lbs 2499 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "77 inches 195 cm",
+          "Weight": "5,512 lbs 2500 kg",
+          "Front tire": "240/70x16",
+          "Rear tire": "380/70x20",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Specialty Tractors published in 2008, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 14, 2015",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2008 - 2011",
+          "__seccion_2__": "Orchard/Vineyard tractor",
+          "__seccion_3__": "Goldoni built"
+        },
+        {
+          "__seccion_1__": "John Deere 85F Tires",
+          "Ag front": "240/70x16",
+          "Ag rear": "380/70x20"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "77 inches 195 cm",
+          "Width": "57 inches 144 cm",
+          "Shipping weight": "5,512 lbs (ROPS) 2500 kg",
+          "Ground clearance": "11 inches (front axle) 27 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 14, 2015"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2008 - 2011",
+          "__seccion_2__": "Orchard/Vineyard tractor",
+          "__seccion_3__": "Goldoni built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Detroit Diesel",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "166 ci 2.7 L",
+          "Power": "83 hp 61.9 kW",
+          "Rated RPM": "2600",
+          "Torque": "213 lb-ft 288.8 Nm",
+          "Torque RPM": "1400"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 14, 2015"
+        }
+      ]
+    }
+  }
+}

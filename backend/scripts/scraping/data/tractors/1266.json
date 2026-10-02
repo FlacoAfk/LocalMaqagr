@@ -1,0 +1,219 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/2/6/1266-kubota-b5100.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/2/6/1266-kubota-b5100-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/2/6/1266-kubota-b5100-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1266,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:50:17.516Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1266/1266-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 120 KB"
+  },
+  "tractor_data_id": 1266,
+  "name": "Kubota B5100",
+  "brand": "Kubota",
+  "model": "B5100",
+  "years": {
+    "desde": 1978,
+    "hasta": 1984
+  },
+  "model_year": 1978,
+  "engine_power_hp": 12,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 10,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 405,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 3.7,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 27x8.50-15",
+  "tire_width_mm": 216,
+  "tire_diameter_mm": 686,
+  "tire_front": {
+    "original": "4.50-10",
+    "radial": false,
+    "width_mm": 114,
+    "rim_in": 10,
+    "diameter_mm_est": 448,
+    "tipo": "Diagonal",
+    "texto": "4.50-10"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1266/1266-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1266/1266-photo-001.jpg",
+  "image_url": "/uploads/tractors/td1266.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1978 - 1984",
+          "__seccion_2__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Sub-Compact Utility tractor",
+          "__seccion_3__": "Built in Japan"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "B5100DT": "4WD",
+          "B5100E": "2WD"
+        },
+        {
+          "__seccion_1__": "Kubota B5100 Engine",
+          "__seccion_2__": "Kubota 0.5L 2-cyl diesel",
+          "Fuel tank": "2.1 gal 7.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B5100 Transmission",
+          "__seccion_2__": "6-speed unsynchronized gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B5100 Power",
+          "Engine": "12 hp 8.9 kW",
+          "PTO (claimed)": "10 hp 7.5 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Mechanical wet disc brakes",
+          "__seccion_5__": "Open operator station. Two-post fixed ROPS available."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota B5100 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "3.17 gpm 12.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift": "300 lbs 136 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2687",
+          "&nbsp": "963@3000",
+          "Front PTO Type": "3000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "46.5 inches 118 cm",
+          "Weight": "805 to 893 pounds",
+          "Front tire": "4.00-9",
+          "Rear tire": "7.00-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12",
+          "Battery AH": "35"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Diesel B B5100/B6100/B7100 published in 1982, by Kubota",
+          "__seccion_3__": "Operator's Manual published in 1978, by Kubota",
+          "__seccion_4__": "Tractors and Excavators published in 1981, by Kubota",
+          "__seccion_5__": "Tractors and Excavators published in 1982, by Kubota"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on August 4, 2026"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1978 - 1984",
+          "__seccion_2__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota B5100 Tires",
+          "2WD Ag front": "4.00-9",
+          "4WD Ag front": "4.50-10",
+          "Ag rear": "7.00-16",
+          "Lawn/turf front": "18x6.50-8",
+          "Lawn/turf rear": "27x8.50-15"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "46.5 inches 118 cm",
+          "Length": "71.6 inches 181 cm",
+          "Width": "36.25 inches 92 cm",
+          "Height (steering wheel)": "44.1 inches 112 cm",
+          "2WD Weight": "805 lbs 365 kg",
+          "4WD Weight": "893 lbs 405 kg",
+          "4WD Clearance (front axle)": "8.625 inches 21 cm",
+          "2WD Clearance (rear axle)": "10.25 inches 26 cm",
+          "2WD Front tread": "26 inches 66 cm",
+          "4WD Front tread": "26.4 inches 67 cm",
+          "Rear tread": "25/29 inches 63/73 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 4, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1978 - 1984",
+          "__seccion_2__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota Z500-1A",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "31 ci 0.5 L",
+          "Bore/Stroke": "2.625x2.75 inches 67 x 70 mm",
+          "Power": "12 hp 8.9 kW",
+          "Pre-heating": "glow plugs",
+          "Rated RPM": "3000",
+          "Starter volts": "12",
+          "Starter power": "1.1 hp 0.8 kW",
+          "Coolant capacity": "3.2 qts 3.0 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "2.4 qts 2.3 L",
+          "Oil change": "75 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 4, 2026"
+        }
+      ]
+    }
+  }
+}

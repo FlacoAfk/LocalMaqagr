@@ -1,0 +1,249 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/5/2/528-ji-case-1690.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/5/2/528-ji-case-1690-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/5/2/528-ji-case-1690-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/5/2/528-ji-case-1690-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 528,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:06:54.304Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/528/528-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 42 KB"
+  },
+  "tractor_data_id": 528,
+  "name": "J.I. Case 1690",
+  "brand": "J.I. Case",
+  "model": "1690",
+  "years": {
+    "desde": 1980,
+    "hasta": 1983
+  },
+  "model_year": 1980,
+  "engine_power_hp": 90,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 90,
+  "pto_tested_hp": 90.39,
+  "drawbar_tested_hp": 72.55,
+  "weight_kg": 3971,
+  "weight_basis": "4WD ROPS Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 46.9,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "10.00-16",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 16,
+    "diameter_mm_est": 838,
+    "tipo": "Diagonal",
+    "texto": "10.00-16"
+  },
+  "fuel_consumption_lph": 22,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/528/528-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/528/528-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td528.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1980 - 1983",
+          "__seccion_2__": "90 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Meltham Mills, Huddersfield, England",
+          "__seccion_4__": "Original price was $30,000 in 1983"
+        },
+        {
+          "__seccion_1__": "J.I. Case 1690 Engine",
+          "__seccion_2__": "J.I. Case 5.4L 6-cyl diesel",
+          "Fuel tank": "26 gal 98.4 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 1690 Transmissions",
+          "__seccion_2__": "12-speed synchromesh",
+          "__seccion_3__": "12-speed partial power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 1690 Power",
+          "PTO (claimed)": "90 hp 67.1 kW",
+          "Drawbar (tested)": "72.55 hp 54.1 kW",
+          "PTO (tested)": "90.39 hp 67.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "J.I. Case 1690 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "20 gpm 75.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "100.5 inches 255 cm",
+          "Weight": "8755 lbs 3971 kg",
+          "Front tire": "10.00-16",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 1690 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "1690 Serial Number Location",
+          "__seccion_2__": "Serial number stamped into the top of the tractor's frame on the right side, next to the engine."
+        },
+        {
+          "1980": "11120101",
+          "1981": "11211841",
+          "1982": "11213684",
+          "1983": "11214373",
+          "__seccion_1__": "1690 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Model 56L & 66L Farm Loaders published in 1980, by J.I. Case",
+          "__seccion_3__": "Models 74L & 56L Farm Loaders published in 1983, by J.I. Case",
+          "__seccion_4__": "1490/1690 General purpose Tractors published in 1981, by J.I. Case",
+          "__seccion_5__": "A great new Ninety Series General Purpose line published in 1980, by J.I. Case",
+          "__seccion_6__": "Power for all-season productivity published in 1982, by J.I. Case",
+          "__seccion_7__": "The Tractor Specialist Buyers Guide published in 1983, by J.I. Case"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 6, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1980 - 1983",
+          "__seccion_2__": "90 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "J.I. Case 1690 Tires",
+          "Ag front": "10.00-16",
+          "Ag rear": "18.4-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "100.5 inches 255 cm",
+          "4WD ROPS Operating weight": "8755 lbs 3971 kg",
+          "Ballasted weight": "12470 lbs 5656 kg",
+          "4WD Front tread": "59 to 71 inches 149 to 180 cm",
+          "Rear tread": "60.75 to 85 inches 154 to 215 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 6, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1980 - 1983",
+          "__seccion_2__": "90 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1383"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1383",
+          "__seccion_2__": "Diesel 12-speed synchro 4WD March 27 - April 21, 1981 Link: Nebraska Tractor Test 1383 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "90.39 hp 67.4 kW",
+          "Fuel use": "5.5 gal/hour 20.8 l/hour",
+          "Power at rated PTO speed": "87.76 hp 65.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "72.55 hp 54.1 kW",
+          "__seccion_5__": "Gear 3-2 used for power test.",
+          "Max pull": "10536 lbs 4779 kg",
+          "__seccion_6__": "Gear 3-1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 6, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1980 - 1983",
+          "__seccion_2__": "90 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "J.I. Case",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "329 ci 5.4 L",
+          "Bore/Stroke": "3.939x4.50 inches 100 x 114 mm",
+          "Air cleaner": "dual paper elements",
+          "Compression": "16:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12",
+          "Coolant capacity": "16 qts 15.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 6, 2024"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/5/5/1554-john-deere-4310.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/5/5/1554-john-deere-4310-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/5/5/1554-john-deere-4310-engine.html",
+    "source_id": 1554,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:35:00.259Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1554/1554-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 74 KB"
+  },
+  "tractor_data_id": 1554,
+  "name": "John Deere 4310",
+  "brand": "John Deere",
+  "model": "4310",
+  "years": {
+    "desde": 2002,
+    "hasta": 2004
+  },
+  "model_year": 2002,
+  "engine_power_hp": 31.2,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 27,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1315,
+  "weight_basis": "4WD",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 9.9,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "7.00-14",
+    "radial": false,
+    "width_mm": 178,
+    "rim_in": 14,
+    "diameter_mm_est": 658,
+    "tipo": "Diagonal",
+    "texto": "7.00-14"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1554/1554-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1554/1554-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td1554.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2002 - 2004",
+          "__seccion_2__": "4000 Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Augusta, Georgia, USA"
+        },
+        {
+          "__seccion_1__": "John Deere 4310 Engine",
+          "__seccion_2__": "Yanmar 1.5L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4310 Transmissions",
+          "__seccion_2__": "9-speed partially synchronized",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "12-speed power shuttle",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4310 Power",
+          "Engine (gross)": "31.2 hp 23.3 kW",
+          "PTO (claimed)": "27 hp 20.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "spur gear",
+          "Differential lock": "mechanical rear",
+          "Steering": "power",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Two-post fixed ROPS. Two-post folding ROPS optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 4310 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "10 gal 37.9 L",
+          "Hydraulic system": "6.3 gal (gear) 23.8 L",
+          "&nbsp": "6.8 gal (hydro) 25.7 L",
+          "Front axle": "4.7 qts 4.4 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "6.3 gal (gear) 23.8 L",
+          "&nbsp": "6.8 gal (hydro) 25.7 L",
+          "Pressure": "2500 psi 172.4 bar",
+          "Valves": "5",
+          "Pump flow": "8.6 gpm 32.6 lpm",
+          "Total flow": "13.9 gpm 52.6 lpm",
+          "Steering flow": "5.3 gpm 20.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at 24\"/610mm)": "2,200 lbs 997 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "wet disc",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2600",
+          "Mid PTO": "independent Opt Optional",
+          "Mid PTO Type": "2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "68 inches 172 cm",
+          "Weight": "2600 to 2900 pounds",
+          "Front tire": "5.00-15",
+          "Rear tire": "11.2-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4310 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "72\" mid-mount mower deck",
+          "__seccion_4__": "snowblower",
+          "__seccion_5__": "blade",
+          "__seccion_6__": "front-end loader",
+          "__seccion_7__": "backhoe",
+          "__seccion_8__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "4310 Serial Number Location",
+          "__seccion_2__": "On right side of tractor frame above the front axle."
+        },
+        {
+          "2002": "130001",
+          "2003": "230001",
+          "2004": "330001",
+          "__seccion_1__": "4310 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "&nbsp": "55 (optional)",
+          "Battery CCA": "500",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operator's Manual 410 and 420 Loaders (OMC49370) published in 2005",
+          "__seccion_3__": "4000 TEN Series 18 To 48 HP published in 2001, by John Deere",
+          "__seccion_4__": "The New John Deere 4000 TEN Series Tractors published in 2002",
+          "__seccion_5__": "4000 TEN Series - The tractor redefined published in 2001, by John Deere",
+          "__seccion_6__": "4000 TEN Series - Take Command published in 2001, by John Deere",
+          "__seccion_7__": "4000 TEN Series Product Information Handbook published in 2003, by John Deere",
+          "__seccion_8__": "Commercial & Consumer Equipment Purchase Guide published in 2005, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 12, 2024",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2002 - 2004",
+          "__seccion_2__": "4000 Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 4310 Tires",
+          "Ag front": "5.00-15 (2WD)",
+          "&nbsp": "7.00-14 (4WD)",
+          "Ag rear": "11.2-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "68 inches 172 cm",
+          "Length": "117 inches 297 cm",
+          "Width": "50 inches 127 cm",
+          "Ground clearance": "13.4 inches 34 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 4310 Weight",
+          "2WD": "2600 lbs 1179 kg",
+          "4WD": "2900 lbs 1315 kg",
+          "Max Drawbar": "562 lbs 254 kg",
+          "Max front axle": "1588 lbs 720 kg",
+          "Max rear axle": "4410 lbs 2000 kg"
+        },
+        {
+          "__seccion_1__": "John Deere 4310 Height",
+          "Hood": "53.3 inches 135 cm",
+          "ROPS": "82.4 inches (fixed) 209 cm",
+          "&nbsp": "90 inches (folding) 228 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 12, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2002 - 2004",
+          "__seccion_2__": "4000 Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Yanmar 3TNE84",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "92 ci 1.5 L",
+          "Power (gross)": "31.2 hp 23.3 kW",
+          "Air cleaner": "dry",
+          "Compression": "18.5:1",
+          "Rated RPM": "2600",
+          "Idle RPM": "1000-2810",
+          "Starter volts": "12",
+          "Starter power": "1.9 hp 1.4 kW",
+          "Oil capacity": "4.5 qts 4.3 L",
+          "Coolant capacity": "6 qts 5.7 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 12, 2024"
+        }
+      ]
+    }
+  }
+}

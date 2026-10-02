@@ -1,0 +1,352 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/3/234-ford-641.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/3/234-ford-641-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/2/3/234-ford-641-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/3/234-ford-641-engine.html",
+    "source_id": 234,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:09:22.267Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/234/234-photo-001-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 64 KB"
+  },
+  "tractor_data_id": 234,
+  "name": "Ford 641",
+  "brand": "Ford",
+  "model": "641",
+  "years": {
+    "desde": 1957,
+    "hasta": 1962
+  },
+  "model_year": 1957,
+  "engine_power_hp": 48.4,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": 31.78,
+  "drawbar_tested_hp": 29.82,
+  "weight_kg": 1492,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 18.2,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 11-28",
+  "tire_width_mm": 279,
+  "tire_diameter_mm": 1186,
+  "tire_front": {
+    "original": "5.50-16",
+    "radial": false,
+    "width_mm": 140,
+    "rim_in": 16,
+    "diameter_mm_est": 644,
+    "tipo": "Diagonal",
+    "texto": "5.50-16"
+  },
+  "fuel_consumption_lph": 8.3,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/234/234-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/234/234-photo-001-ext000.jpg",
+  "image_url": "/uploads/tractors/td234.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1957 - 1962",
+          "__seccion_2__": "601 Workmaster Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Highland Park, Michigan, USA",
+          "__seccion_4__": "Original price was $3,096 in 1961",
+          "__seccion_5__": "An orchard variant was also available, with a model number of 641-21."
+        },
+        {
+          "611": "Select-O-Speed, no PTO",
+          "621": "Four-speed, no PTO or 3-point",
+          "631": "Four-speed, no PTO",
+          "641": "Four-speed",
+          "651": "Five-speed",
+          "661": "Five-speed, live PTO",
+          "671": "Select-O-Speed",
+          "681": "Select-O-Speed, dual-speed PTO",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Ford 641 Engines",
+          "__seccion_2__": "Ford 2.2L 4-cyl gasoline",
+          "__seccion_3__": "Ford 2.4L 4-cyl diesel",
+          "__seccion_4__": "Ford 2.2L 4-cyl LP gas",
+          "__seccion_5__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 641 Transmissions",
+          "__seccion_2__": "4-speed unsynchronized gear",
+          "__seccion_3__": "12-speed unsynchronized gear",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 641 Power",
+          "Engine (gross)": "48.4 hp 36.1 kW",
+          "Belt (claimed)": "32 hp 23.9 kW",
+          "Plows": "2 (14-inch)",
+          "Drawbar (tested)": "29.82 hp 22.2 kW",
+          "PTO (tested)": "31.78 hp 23.7 kW",
+          "Belt (tested)": "33.65 hp 25.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "manual",
+          "&nbsp": "power assist optional",
+          "__seccion_3__": "Differential mechanical expanding shoe brakes",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 641 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "13 gal 49.2 L",
+          "Hydraulic system": "2 gal 7.6 L",
+          "Rear axle": "8 qts 7.6 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "2 gal 7.6 L",
+          "Total flow": "4 gpm 15.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position and draft control",
+          "Rear lift": "1250 lbs 567 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1485"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "3291 lbs 1492 kg",
+          "Front tire": "5.50-16",
+          "Rear tire": "11-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 641 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "641 Serial Number Location",
+          "__seccion_2__": "Transmission case, top left, behind the starter."
+        },
+        {
+          "1957": "1001",
+          "1958": "11977",
+          "1959": "58312",
+          "1960": "105943",
+          "1961": "131427",
+          "1962": "155531",
+          "__seccion_1__": "641 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive (6V)",
+          "&nbsp": "135 (12V)",
+          "Charging system": "generator",
+          "Charging amps": "20",
+          "Battery volts": "6 (gas/lp)",
+          "Battery AH": "80 (6V)"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Tractors For Industrial Use published in 1958, by Ford",
+          "__seccion_3__": "1200 Farm Loaders published in 1966, by Ford",
+          "__seccion_4__": "Power Up with Ford published in 1957",
+          "__seccion_5__": "Diesel Tractors published in 1959, by Ford",
+          "__seccion_6__": "New Ford 601 Series Workmaster Tractors published in 1957",
+          "__seccion_7__": "New Ford Workmaster Tractors published in 1957",
+          "__seccion_8__": "1955-1960 Tractor Shop Manual (SE-8175) published in 1961",
+          "__seccion_9__": "Owner's Manual Series 601 and 801 (SE6085C) published in 1957",
+          "__seccion_10__": "Owner's Manual Series 601 D and 801 D (SE6970A) published in 1959"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on July 13, 2026",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1957 - 1962",
+          "__seccion_2__": "601 Workmaster Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Ford 641 Tires",
+          "Ag front": "5.50-16",
+          "Ag rear": "11-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Operating weight": "3291 lbs 1492 kg",
+          "Ballasted weight": "5523 lbs 2505 kg",
+          "Front tread": "52 to 80 inches 132 to 203 cm",
+          "Rear tread": "52 to 76 inches 132 to 193 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 13, 2026"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1957 - 1962",
+          "__seccion_2__": "601 Workmaster Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 642: gasoline 12-speed 2WD",
+          "__seccion_3__": "NTTL 686: diesel 12-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 642"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 642",
+          "__seccion_2__": "Gasoline 12-speed 2WD March 20 - 31, 1958 Link: Nebraska Tractor Test 642 file",
+          "Belt power (max)": "33.65 hp 25.1 kW",
+          "Belt fuel use (max)": "3.4 gal/hour 12.9 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "29.82 hp 22.2 kW",
+          "__seccion_4__": "Gear 5 used for power test.",
+          "Max pull": "4,101 lbs 1860 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 686"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 686",
+          "__seccion_2__": "Diesel 12-speed 2WD March 11 - 18, 1959 Link: Nebraska Tractor Test 686 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "31.78 hp 23.7 kW",
+          "Fuel use": "2.3 gal/hour 8.7 l/hour",
+          "Power at rated PTO speed": "25.29 hp 18.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "29.33 hp 21.9 kW",
+          "__seccion_5__": "Gear 5 used for power test.",
+          "Max pull": "4,230 lbs 1918 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 13, 2026"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1957 - 1962",
+          "__seccion_2__": "601 Workmaster Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Ford 2.2L 4-cyl gasoline",
+          "__seccion_3__": "Ford 2.4L 4-cyl diesel",
+          "__seccion_4__": "Ford 2.2L 4-cyl LP gas"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford EAE Red Tiger",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder 8-valve",
+          "__seccion_5__": "liquid-cooled vertical inline",
+          "Displacement": "134 ci 2.2 L",
+          "Bore/Stroke": "3.4375x3.60 inches 87 x 91 mm",
+          "Emissions": "Tier 0",
+          "Power (gross)": "48.4 hp 36.1 kW",
+          "Air cleaner": "oil bath",
+          "Compression": "7.5:1",
+          "Rated RPM": "2200",
+          "Torque": "126.8 lb-ft 171.9 Nm",
+          "Torque RPM": "1600",
+          "Firing order": "1-2-4-3",
+          "Starter volts": "6",
+          "Coolant capacity": "15 qts 14.2 L",
+          "Sparkplug": "14MM",
+          "Sparkplug gap": "0.025 inches (min) 0.635 mm",
+          "&nbsp": "0.028 inches (max) 0.711 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "5 qts 4.7 L",
+          "Oil change": "100 h"
+        },
+        {
+          "__seccion_1__": "Ford 641 Engine"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder 8-valve",
+          "__seccion_5__": "liquid-cooled vertical inline",
+          "Displacement": "144 ci 2.4 L",
+          "Bore/Stroke": "3.562x3.60 inches 90 x 91 mm",
+          "Power (gross)": "42.7 hp 31.8 kW",
+          "Air cleaner": "oil bath",
+          "Compression": "16.8:1",
+          "Rated RPM": "2200",
+          "Firing order": "1-2-4-3",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford EAE Red Tiger",
+          "__seccion_3__": "LP gas",
+          "__seccion_4__": "4-cylinder 8-valve",
+          "__seccion_5__": "liquid-cooled vertical inline",
+          "Displacement": "134 ci 2.2 L",
+          "Bore/Stroke": "3.4375x3.60 inches 87 x 91 mm",
+          "Compression": "7.5:1",
+          "Rated RPM": "2200",
+          "Firing order": "1-2-4-3",
+          "Starter volts": "6"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 13, 2026"
+        }
+      ]
+    }
+  }
+}

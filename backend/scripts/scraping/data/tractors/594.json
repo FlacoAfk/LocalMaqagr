@@ -1,0 +1,313 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/5/9/594-ford-2110.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/5/9/594-ford-2110-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/5/9/594-ford-2110-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/5/9/594-ford-2110-engine.html",
+    "source_id": 594,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:11:53.538Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/594/594-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 80 KB"
+  },
+  "tractor_data_id": 594,
+  "name": "Ford 2110",
+  "brand": "Shibaura",
+  "model": "2110",
+  "years": {
+    "desde": 1983,
+    "hasta": 1987
+  },
+  "model_year": 1983,
+  "engine_power_hp": 38,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 34.5,
+  "pto_tested_hp": 35.11,
+  "drawbar_tested_hp": 30.1,
+  "weight_kg": 1789,
+  "weight_basis": "4WD",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 17.2,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 13.6-28",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1298,
+  "tire_front": {
+    "original": "8.00-18",
+    "radial": false,
+    "width_mm": 203,
+    "rim_in": 18,
+    "diameter_mm_est": 803,
+    "tipo": "Diagonal",
+    "texto": "8.00-18"
+  },
+  "fuel_consumption_lph": 9.5,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/594/594-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/594/594-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td594.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1983 - 1987",
+          "__seccion_2__": "Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Ford",
+          "Manufacturer": "Shibaura",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan",
+          "__seccion_4__": "Original price was $13,200 in 1987"
+        },
+        {
+          "__seccion_1__": "Ford 2110 Engine",
+          "__seccion_2__": "Shibaura 2.3L 4-cyl diesel",
+          "Fuel tank": "10.6 gal 40.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 2110 Transmissions",
+          "__seccion_2__": "12-speed unsynchronized gear",
+          "__seccion_3__": "12-speed partially synchronized",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 2110 Power",
+          "Engine": "38 hp 28.3 kW",
+          "PTO (claimed)": "34.5 hp 25.7 kW",
+          "Drawbar (tested)": "30.10 hp 22.4 kW",
+          "PTO (tested)": "35.11 hp 26.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "spur gear",
+          "Differential lock": "mechanical rear",
+          "Steering": "power",
+          "__seccion_3__": "Differential mechanical drum brakes",
+          "__seccion_4__": "Two-post fixed ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 2110 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2133 psi 147.1 bar",
+          "Pump flow": "8.6 gpm 32.6 lpm",
+          "Total flow": "12.1 gpm 45.8 lpm",
+          "Steering flow": "3.5 gpm 13.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position and draft control",
+          "Rear lift (at 24\"/610mm)": "2013 lbs 913 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2392"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "73.4 inches 186 cm",
+          "4WD Wheelbase": "75.6 inches 192 cm",
+          "Weight": "3635 to 3946 pounds",
+          "Front tire": "6.00-16",
+          "2WD Rear tire": "13.6-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 2110 attachments",
+          "__seccion_2__": "snowblower",
+          "__seccion_3__": "front-end loader",
+          "__seccion_4__": "backhoe",
+          "__seccion_5__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "2110 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the left side of the Ford 2110, near the clutch pedal."
+        },
+        {
+          "1983": "UV00001",
+          "1984": "UV00442",
+          "1985": "UV02153",
+          "1986": "UV03580",
+          "1987": "UV04673",
+          "__seccion_1__": "2110 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "35",
+          "Charging volts": "12",
+          "Battery volts": "12",
+          "Battery AH": "100"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Ford Shop Manual by Peter Letourneau",
+          "__seccion_3__": "Farm Loaders published in 1988, by Ford",
+          "__seccion_4__": "32-52 hp Tractors published in 1985, by Ford",
+          "__seccion_5__": "32-52 hp Tractors published in 1986, by Ford",
+          "__seccion_6__": "32-52 hp Tractors published in 1987, by Ford",
+          "__seccion_7__": "Salesman's Reference published in 1986, by Ford",
+          "__seccion_8__": "Sales Reference Guide published in 1986, by Ford"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 12, 2021",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1983 - 1987",
+          "__seccion_2__": "Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Ford 2110 Tires",
+          "2WD Standard tires (ag)": "Front: 6.00-16. Rear: 13.6-28",
+          "4WD Standard tires (ag)": "Front: 8.00-18. Rear: 13.6-28",
+          "Lawn/turf front": "25x8.50-14 (2WD)",
+          "&nbsp": "27x8.50-15 (4WD)",
+          "Lawn/turf rear": "18.4x16.1"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "73.4 inches 186 cm",
+          "4WD Wheelbase": "75.6 inches 192 cm",
+          "Length": "131.1 inches 332 cm",
+          "Width": "61.7 inches 156 cm",
+          "Height (steering wheel)": "63 inches 160 cm",
+          "Height (exhaust)": "79.9 inches 202 cm",
+          "Ground clearance": "15.6 inches 39 cm",
+          "2WD Front tread": "48 to 72 inches 121 to 182 cm",
+          "4WD Front tread": "46.8 inches 118 cm",
+          "Rear tread": "48 to 72 inches 121 to 182 cm"
+        },
+        {
+          "__seccion_1__": "Ford 2110 Weight",
+          "2WD": "3635 lbs 1648 kg",
+          "4WD": "3946 lbs 1789 kg",
+          "Ballasted": "5110 lbs 2317 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 12, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1983 - 1987",
+          "__seccion_2__": "Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 1509: diesel manual 2WD",
+          "__seccion_3__": "NTTL 1510: diesel synchromesh 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1509"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1509",
+          "__seccion_2__": "Diesel manual 2WD March 30 - April 13, 1984 Link: Nebraska Tractor Test 1509 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "34.79 hp 25.9 kW",
+          "Fuel use": "2.4 gal/hour 9.1 l/hour",
+          "Power at rated PTO speed": "34.91 hp 26.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "28.84 hp 21.5 kW",
+          "__seccion_5__": "Gear 3-2 used for power test.",
+          "Max pull": "3,868 lbs 1754 kg",
+          "__seccion_6__": "Gear 2-2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1510"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1510",
+          "__seccion_2__": "Diesel synchromesh 2WD March 30 - April 9, 1984 Link: Nebraska Tractor Test 1510 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "35.11 hp 26.2 kW",
+          "Fuel use": "2.6 gal/hour 9.8 l/hour",
+          "Power at rated PTO speed": "35.56 hp 26.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "30.10 hp 22.4 kW",
+          "__seccion_5__": "Gear 3-2 used for power test.",
+          "Max pull": "3,728 lbs 1691 kg",
+          "__seccion_6__": "Gear 2-3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 12, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1983 - 1987",
+          "__seccion_2__": "Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibaura",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "138.5 ci 2.3 L",
+          "Bore/Stroke": "3.346x3.937 inches 85 x 100 mm",
+          "Power": "38 hp 28.3 kW",
+          "Fuel use": "2.52 gal/hour 9.5 l/hour",
+          "Air cleaner": "dry",
+          "Pre-heating": "glow plugs",
+          "Compression": "21:1",
+          "Rated RPM": "2500",
+          "Torque": "89.5 lb-ft 121.4 Nm",
+          "Torque RPM": "2000",
+          "Starter volts": "12",
+          "Oil capacity": "8 qts 7.6 L",
+          "Coolant capacity": "9.1 qts 8.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 12, 2021"
+        }
+      ]
+    }
+  }
+}

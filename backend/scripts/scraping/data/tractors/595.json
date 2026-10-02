@@ -1,0 +1,250 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/5/9/595-new-holland-2120.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/5/9/595-new-holland-2120-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/5/9/595-new-holland-2120-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 595,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:19:54.685Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/595/595-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 53 KB"
+  },
+  "tractor_data_id": 595,
+  "name": "New Holland 2120",
+  "brand": "Shibaura",
+  "model": "holland 2120",
+  "years": {
+    "desde": 1996,
+    "hasta": 2000
+  },
+  "model_year": 1996,
+  "engine_power_hp": 42.6,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 34.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1749,
+  "weight_basis": "4WD Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 12.7,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 13.6x28",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1298,
+  "tire_front": {
+    "original": "8.00-18",
+    "radial": false,
+    "width_mm": 203,
+    "rim_in": 18,
+    "diameter_mm_est": 803,
+    "tipo": "Diagonal",
+    "texto": "8.00-18"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/595/595-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/595/595-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td595.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1996 - 2000",
+          "__seccion_2__": "Twenty Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Note: the New Holland model 2120 is the same as the Ford 2120. The following data is from the 2120 listing."
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "New Holland",
+          "Manufacturer": "Shibaura",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan",
+          "Original price": "$21,200"
+        },
+        {
+          "__seccion_1__": "New Holland 2120 Engine",
+          "__seccion_2__": "Shibaura 2.3L 4-cyl diesel",
+          "Fuel tank": "11.1 gal 42.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland 2120 Transmissions",
+          "__seccion_2__": "12-speed gear",
+          "__seccion_3__": "12-speed power shuttle",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland 2120 Power",
+          "Engine (gross)": "42.6 hp 31.8 kW",
+          "Engine (net)": "40 hp 29.8 kW",
+          "PTO (claimed)": "34.5 hp 25.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Optional FOPS canopy."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland 2120 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "9.3 gpm 35.2 lpm",
+          "Total flow": "12.1 gpm 45.8 lpm",
+          "Steering flow": "2.8 gpm 10.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "draft control",
+          "Rear lift (at 24\"/610mm)": "2574 lbs 1167 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "74.8 inches 189 cm",
+          "Weight": "3572 to 3858 pounds",
+          "Front tire": "6.00x16",
+          "2WD Rear tire": "13.6x28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "New Holland 2120 attachments",
+          "__seccion_2__": "blade",
+          "__seccion_3__": "front-end loader",
+          "__seccion_4__": "backhoe",
+          "__seccion_5__": "Attachment details ..."
+        },
+        {
+          "1988": "UV21003",
+          "1989": "UV22274",
+          "1990": "UV23599",
+          "1991": "UV24295",
+          "1992": "UV25141",
+          "1993": "UV25891",
+          "1994": "UV26738",
+          "1995": "UV27935",
+          "1996": "UV28911",
+          "1997": "UV29898",
+          "1998": "UV30679",
+          "1999": "UV31770",
+          "__seccion_1__": "2120 Serial Numbers",
+          "Location:": "Transmission housing, left side",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Compact Diesel Tractors published in 1996, by New Holland",
+          "__seccion_3__": "North American Buyer's Guide published in 1997, by New Holland"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 19, 2021",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1996 - 2000",
+          "__seccion_2__": "Twenty Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Note: the New Holland model 2120 is the same as the Ford 2120. The following data is from the 2120 listing."
+        },
+        {
+          "__seccion_1__": "New Holland 2120 Tires",
+          "2WD Standard tires (ag)": "Front: 6.00x16. Rear: 13.6x28",
+          "4WD Standard tires (ag)": "Front: 8.00-18. Rear: 13.6x28",
+          "Lawn/turf front": "25x8.50-14",
+          "&nbsp": "18.4x16.1",
+          "Lawn/turf rear": "14.9x26"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "74.8 inches 189 cm",
+          "Length": "137.2 inches 348 cm",
+          "Width": "62 inches 157 cm",
+          "Height (ROPS)": "93.3 inches 236 cm",
+          "2WD Shipping weight": "3572 lbs 1620 kg",
+          "4WD Shipping weight": "3858 lbs 1749 kg",
+          "4WD Ground clearance": "14 inches 35 cm",
+          "2WD Ground clearance": "14.6 inches 37 cm",
+          "2WD Front tread": "48 to 76 inches 121 to 193 cm",
+          "4WD Front tread": "49.2 inches 124 cm",
+          "Rear tread": "48.8 to 76.4 inches 123 to 194 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 19, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1996 - 2000",
+          "__seccion_2__": "Twenty Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Note: the New Holland model 2120 is the same as the Ford 2120. The following data is from the 2120 listing."
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibaura T854",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "138.4 ci 2.3 L",
+          "Bore/Stroke": "3.346x3.937 inches 85 x 100 mm",
+          "Power (net)": "40 hp 29.8 kW",
+          "Power (gross)": "42.6 hp 31.8 kW",
+          "Compression": "18:1",
+          "Rated RPM": "2500",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Coolant capacity": "8.5 qts 8.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 19, 2021"
+        }
+      ]
+    }
+  }
+}

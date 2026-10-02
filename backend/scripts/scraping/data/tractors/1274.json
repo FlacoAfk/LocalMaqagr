@@ -1,0 +1,255 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/2/7/1274-kubota-b8200.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/2/7/1274-kubota-b8200-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/2/7/1274-kubota-b8200-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1274,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:50:43.280Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1274/1274-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 138 KB"
+  },
+  "tractor_data_id": 1274,
+  "name": "Kubota B8200",
+  "brand": "Kubota",
+  "model": "B8200",
+  "years": {
+    "desde": 1983,
+    "hasta": 1990
+  },
+  "model_year": 1983,
+  "engine_power_hp": 19,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 16,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 709,
+  "weight_basis": "4WD gear",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 5.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 8.3-24",
+  "tire_width_mm": 211,
+  "tire_diameter_mm": 968,
+  "tire_front": {
+    "original": "4.00-12",
+    "radial": false,
+    "width_mm": 102,
+    "rim_in": 12,
+    "diameter_mm_est": 478,
+    "tipo": "Diagonal",
+    "texto": "4.00-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1274/1274-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1274/1274-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1274.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1983 - 1990",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan",
+          "Original price": "$11,400 (1990 B8200HST-D)"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "B8200F": "2WD gear",
+          "B8200DT": "4WD gear",
+          "B8200E": "2WD gear",
+          "B8200D": "4WD gear",
+          "B8200HST-E": "2WD hydro",
+          "B8200HST-D": "4WD hydro"
+        },
+        {
+          "__seccion_1__": "Kubota B8200 Engine",
+          "__seccion_2__": "Kubota 0.9L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B8200 Transmissions",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "9-speed gear",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B8200 Power",
+          "Engine (gross)": "19 hp 14.2 kW",
+          "Gear PTO (claimed)": "16 hp 11.9 kW",
+          "Hydro PTO (claimed)": "14.5 hp 10.8 kW",
+          "Plows": "1 * 14-inch"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "Steering": "manual",
+          "&nbsp": "power Opt Optional",
+          "__seccion_3__": "Dry internal expanding brakes",
+          "__seccion_4__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota B8200 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "5.3 gal 20.1 L",
+          "Hydraulic system": "4.8 gal 18.2 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "4.8 gal 18.2 L",
+          "Pressure": "1715 psi 118.2 bar",
+          "Total flow": "4 gpm (2WD early) 15.1 lpm",
+          "&nbsp": "6.5 gpm (late) 24.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at ends)": "1280 lbs 580 kg",
+          "Rear lift (at 24\"/610mm)": "1015 lbs 460 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "2600@2600",
+          "&nbsp": "2416@2534",
+          "Mid PTO": "independent (hydro)",
+          "Mid PTO Type": "31/32 10-spline",
+          "Front PTO": "continuous",
+          "Front PTO Type": "pulley"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "60.4 inches 153 cm",
+          "Weight": "1420 to 1698 pounds",
+          "Front tire": "4.00-12",
+          "Rear tire": "8.3-24 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota B8200 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "snowblower",
+          "__seccion_4__": "front-end loader",
+          "__seccion_5__": "backhoe",
+          "__seccion_6__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "B8200 Serial Numbers",
+          "Location:": "Left side of transmission"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "35 Opt Optional",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Backhoes published in 1992, by Kubota",
+          "__seccion_3__": "Backhoes published in 1994, by Kubota",
+          "__seccion_4__": "Front Loaders published in 1988, by Kubota",
+          "__seccion_5__": "B-Series published in 1986, by Kubota",
+          "__seccion_6__": "B8200 published in 1983, by Kubota",
+          "__seccion_7__": "Operator's Manual B8200 (67810-6291) published in 1983",
+          "__seccion_8__": "B8200HST published in 1984, by Kubota",
+          "__seccion_9__": "B8200HST New Product Guide published in 1983, by Kubota",
+          "__seccion_10__": "Tractors and Excavators published in 1982, by Kubota"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 23, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1983 - 1990",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota B8200 Tires",
+          "Standard tires (ag)": "Front: 4.00-12. Rear: 8.3-24 (2WD)",
+          "&nbsp": "Front: 6-12. Rear: 8.3-24 (4WD)",
+          "Optional tires (ag)": "Front: 6.50-10. Rear: 12.4-16 (2WD)",
+          "Lawn/turf front": "24x8.5-12",
+          "Lawn/turf rear": "13.6-16"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "60.4 inches 153 cm",
+          "Length": "106.7 inches 271 cm",
+          "Width": "55.3 inches 140 cm",
+          "Height (exhaust)": "79.6 inches 202 cm",
+          "Ground clearance": "9.3 inches 23 cm",
+          "Front tread": "35.4 inches 89 cm (4WD)",
+          "Rear tread": "41.3 inches 104 cm"
+        },
+        {
+          "__seccion_1__": "Kubota B8200 Weight",
+          "2WD gear": "1420 lbs 644 kg",
+          "4WD gear": "1565 lbs 709 kg",
+          "2WD hydro": "1581 lbs 717 kg",
+          "4WD hydro": "1698 lbs 770 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 23, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1983 - 1990",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota D950-A-DT",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "56.6 ci 0.9 L",
+          "Bore/Stroke": "2.96x2.75 inches 75 x 70 mm",
+          "Power (gross)": "19 hp 14.2 kW",
+          "Air cleaner": "dry paper element",
+          "Rated RPM": "2600",
+          "Starter volts": "12",
+          "Oil capacity": "3.3 qts * Some literature specifies 4.1 US quarts, the reason for the difference is unknown. 3.1 L",
+          "Coolant capacity": "4.2 qts 4.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 23, 2024"
+        }
+      ]
+    }
+  }
+}

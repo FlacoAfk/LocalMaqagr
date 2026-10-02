@@ -1,0 +1,220 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/1/5/1159-caseih-1120.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/1/5/1159-caseih-1120-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/1/5/1159-caseih-1120-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1159,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:34:25.008Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1159/1159-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 94 KB"
+  },
+  "tractor_data_id": 1159,
+  "name": "CaseIH 1120",
+  "brand": "Mitsubishi",
+  "model": "1120",
+  "years": {
+    "desde": 1986,
+    "hasta": 1990
+  },
+  "model_year": 1986,
+  "engine_power_hp": 19,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 16.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 625,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 6.1,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 9.5-16",
+  "tire_width_mm": 241,
+  "tire_diameter_mm": 817,
+  "tire_front": {
+    "original": "6-12",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 12,
+    "diameter_mm_est": 564,
+    "tipo": "Diagonal",
+    "texto": "6-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1159/1159-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1159/1159-photo-001.jpg",
+  "image_url": "/uploads/tractors/td1159.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1991",
+          "__seccion_2__": "1100 Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Mitsubishi built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "CaseIH",
+          "Manufacturer": "Mitsubishi",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Original price was $11,600 in 1991"
+        },
+        {
+          "__seccion_1__": "CaseIH 1120 Engine",
+          "__seccion_2__": "Mitsubishi 1.1L 3-cyl diesel",
+          "Fuel tank": "5.3 gal 20.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 1120 Transmissions",
+          "__seccion_2__": "6-speed gear",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 1120 Power",
+          "Engine": "19 hp 14.2 kW",
+          "Gear PTO (claimed)": "16.5 hp 12.3 kW",
+          "Hydro PTO (claimed)": "15 hp 11.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical drum brakes",
+          "__seccion_5__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH 1120 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2133 psi 147.1 bar",
+          "Pump flow": "5.4 gpm 20.4 lpm",
+          "Steering flow": "3.2 gpm 12.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at ends)": "1400 lbs 635 kg",
+          "Rear lift (at 24\"/610mm)": "980 lbs 444 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "&nbsp": "live * Live PTO standard with hydrostatic transmission. Optional with gear transmission.",
+          "Rear PTO Type": "540 (1.375)",
+          "Mid PTO": "independent",
+          "Mid PTO Type": "2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "57.9 inches 147 cm",
+          "Weight": "1380 to 1480 pounds",
+          "Front tire": "4.00-12",
+          "2WD Rear tire": "9.5-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 1120 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "snowblower",
+          "__seccion_4__": "blade",
+          "__seccion_5__": "front-end loader",
+          "__seccion_6__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "1100 Series Tractors published in 1991, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 3, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1991",
+          "__seccion_2__": "1100 Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Mitsubishi built"
+        },
+        {
+          "__seccion_1__": "CaseIH 1120 Tires",
+          "2WD Standard tires (ag)": "Front: 4.00-12. Rear: 9.5-16",
+          "4WD Standard tires (ag)": "Front: 6-12. Rear: 9.5-16",
+          "2WD Lawn/turf front": "20x8.00-10",
+          "4WD Lawn/turf front": "23x8.50-152",
+          "Lawn/turf rear": "33x12.50-15"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "57.9 inches 147 cm",
+          "Length": "106.3 inches 270 cm",
+          "Width": "46.3 inches 117 cm",
+          "Height (ROPS)": "78.9 inches 200 cm",
+          "Shipping weight": "1,380 lbs (2WD) 625 kg",
+          "&nbsp": "1,480 lbs (4WD) 671 kg",
+          "2WD Front tread": "33.3 inches 84 cm",
+          "4WD Front tread": "37 inches 93 cm",
+          "Rear tread": "36.4 to 38.6 inches 92 to 98 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 3, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1991",
+          "__seccion_2__": "1100 Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Mitsubishi built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Mitsubishi",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "64.7 ci 1.1 L",
+          "Bore/Stroke": "2.99x3.07 inches 76 x 78 mm",
+          "Power": "19 hp 14.2 kW",
+          "Fuel system": "indirect injection",
+          "Rated RPM": "2500",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 3, 2024"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/6/0/8609-fiat-566.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/6/0/8609-fiat-566-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/6/0/8609-fiat-566-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 8609,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:18:11.979Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8609/8609-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 3 KB"
+  },
+  "tractor_data_id": 8609,
+  "name": "Fiat 566",
+  "brand": "Fiat",
+  "model": "566",
+  "years": {
+    "desde": 1982,
+    "hasta": 1986
+  },
+  "model_year": 1982,
+  "engine_power_hp": 58,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3030,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 21.3,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-36",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1450,
+  "tire_front": {
+    "original": "11.2-24",
+    "radial": false,
+    "width_mm": 284,
+    "rim_in": 24,
+    "diameter_mm_est": 1093,
+    "tipo": "Diagonal",
+    "texto": "11.2-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F008/8609/8609-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td8609.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1982 - 1986",
+          "__seccion_2__": "66 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Fiat",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "566": "2WD",
+          "__seccion_1__": "Variants",
+          "566DT": "4WD"
+        },
+        {
+          "__seccion_1__": "Fiat 566 Engine",
+          "__seccion_2__": "Fiat 2.8L 3-cyl diesel",
+          "Fuel tank": "19.2 gal 72.7 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 566 Transmission",
+          "__seccion_2__": "12-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 566 Power",
+          "Engine": "58 hp 43.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering ((Four-wheel drive models.))",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Fiat 566 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Pump flow": "8.9 gpm 33.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "5732 lbs 2600 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "85.8 inches 217 cm",
+          "4WD Wheelbase": "83.5 inches 212 cm",
+          "Weight": "6195 to 6680 pounds",
+          "Front tire": "7.50-16",
+          "2WD Rear tire": "12.4-36",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 30, 2015"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1982 - 1986",
+          "__seccion_2__": "66 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Fiat 566 Tires",
+          "2WD Standard tires (ag)": "Front: 7.50-16. Rear: 12.4-36",
+          "4WD Standard tires (ag)": "Front: 11.2-24. Rear: 12.4-36"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "85.8 inches 217 cm",
+          "4WD Wheelbase": "83.5 inches 212 cm",
+          "Length": "145 inches 368 cm",
+          "2WD Weight": "6195 lbs 2810 kg",
+          "4WD Weight": "6680 lbs 3030 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 30, 2015"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1982 - 1986",
+          "__seccion_2__": "66 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Fiat 8035.04",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "167.8 ci 2.8 L",
+          "Bore/Stroke": "4.06x4.33 inches 103 x 110 mm",
+          "Power": "58 hp 43.3 kW",
+          "Rated RPM": "2500",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 30, 2015"
+        }
+      ]
+    }
+  }
+}

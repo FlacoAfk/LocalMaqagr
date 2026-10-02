@@ -1,0 +1,227 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/4/0/3403-caseih-mx245.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/4/0/3403-caseih-mx245-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/4/0/3403-caseih-mx245-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/4/0/3403-caseih-mx245-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3403,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:40:51.393Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3403/3403-td4-b01-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 33 KB"
+  },
+  "tractor_data_id": 3403,
+  "name": "CaseIH MX245 Magnum",
+  "brand": "CaseIH",
+  "model": "MX245 Magnum",
+  "years": {
+    "desde": 2006,
+    "hasta": 2007
+  },
+  "model_year": 2006,
+  "engine_power_hp": 248,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 200,
+  "pto_tested_hp": 203.97,
+  "drawbar_tested_hp": 172.67,
+  "weight_kg": 9609,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 89.5,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 47.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3403/3403-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3403/3403-td4-b01-ext090.jpg",
+  "image_url": "/uploads/tractors/td3403.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2006 - 2007",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA"
+        },
+        {
+          "__seccion_1__": "CaseIH MX245 Engine",
+          "__seccion_2__": "CNH 8.3L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH MX245 Transmissions",
+          "__seccion_2__": "18-speed full power shift",
+          "__seccion_3__": "19-speed full power shift - overdrive",
+          "__seccion_4__": "23-speed Creeper",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH MX245 Power",
+          "Engine": "248 hp 184.9 kW",
+          "PTO (claimed)": "200 hp 149.1 kW",
+          "Drawbar (tested)": "172.67 hp 128.8 kW",
+          "PTO (tested)": "203.97 hp 152.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Independent hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH MX245 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "180 gal 681.3 L",
+          "Hydraulic system": "45.5 gal 172.2 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "pressure flow compensating",
+          "Capacity": "45.5 gal 172.2 L",
+          "Valves": "3 to 5",
+          "Total flow": "38.6 gpm 146.1 lpm",
+          "&nbsp": "58 gpm Opt Optional 219.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Rear lift": "13960 lbs 6332 kg",
+          "&nbsp": "15970 lbs Opt Optional 7243 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "118.3 inches 300 cm",
+          "Weight": "21185 lbs 9609 kg",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging amps": "150",
+          "&nbsp": "175 Opt Optional",
+          "Battery CCA": "2000",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 10, 2018"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2006 - 2007",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH MX245 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "118.3 inches 300 cm",
+          "Height": "128.5 inches 326 cm",
+          "Operating weight": "21185 lbs 9609 kg",
+          "Ballasted weight": "27420 lbs 12437 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 10, 2018"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2006 - 2007",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 566"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 566",
+          "__seccion_2__": "Diesel 19 speed 4WD May 1 - 18, 2007 Link: OCED Tractor Test 566 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "203.97 hp 152.1 kW",
+          "Fuel use": "12.5 gal/hour 47.3 l/hour",
+          "Power at rated PTO speed": "242.84 hp 181.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "172.67 hp 128.8 kW",
+          "__seccion_5__": "Gear 7 used for power test.",
+          "Max pull": "20129 lbs 9130 kg",
+          "__seccion_6__": "Gear 5 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 10, 2018"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2006 - 2007",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CNH",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "504.5 ci 8.3 L",
+          "Bore/Stroke": "4.488x5.315 inches 114 x 135 mm",
+          "Power": "248 hp 184.9 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "17:1",
+          "Rated RPM": "2000",
+          "Torque": "1616 lb-ft 2191.3 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12",
+          "Oil capacity": "22 qts 20.8 L",
+          "Coolant capacity": "24 qts 22.7 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 10, 2018"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/3/0/7300-massey-ferguson-5450.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/3/0/7300-massey-ferguson-5450-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/3/0/7300-massey-ferguson-5450-engine.html",
+    "source_id": 7300,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:41:40.077Z"
+  },
+  "tractor_data_id": 7300,
+  "name": "Massey Ferguson 5450",
+  "brand": "Massey Ferguson",
+  "model": "5450",
+  "years": {
+    "desde": 2011,
+    "hasta": 2013
+  },
+  "model_year": 2011,
+  "engine_power_hp": 75,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 75,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3799,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 27.5,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": null,
+  "photo_url_large": null,
+  "image_url": null,
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "5400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5450 Engine",
+          "__seccion_2__": "Perkins 4.4L 4-cyl diesel",
+          "Fuel tank": "38 gal 143.8 L",
+          "&nbsp": "50 gal * Total capacity with optional 45 liter tank. 189.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5450 Transmission",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5450 Power",
+          "PTO (claimed)": "75 hp 55.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "electro-hydraulic rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 5450 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "2 to 4",
+          "SCV flow": "15 gpm 56.8 lpm",
+          "&nbsp": "26 gpm (optional) 98.4 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "lower-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "7100 lbs 3220 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "97.2 inches 246 cm",
+          "Weight": "7826 to 8377 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5450 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 14, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "5400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5450 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "97.2 inches 246 cm",
+          "Length": "166.3 inches 422 cm",
+          "Width": "79.3 inches (min) 201 cm",
+          "&nbsp": "100.4 inches (max) 255 cm",
+          "Height (cab)": "108.3 inches 275 cm",
+          "2WD Weight": "7826 lbs 3549 kg",
+          "4WD Weight": "8377 lbs 3799 kg",
+          "Front tread": "59.9 to 74.6 inches 152 to 189 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 14, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "5400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins 1104D-44TA",
+          "__seccion_3__": "turbocharged air-to-air aftercooled diesel",
+          "__seccion_4__": "4-cylinder 8-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "268 ci 4.4 L",
+          "Bore/Stroke": "4.134x5.00 inches 105 x 127 mm",
+          "Emissions": "Tier III",
+          "Air cleaner": "dry",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 14, 2020"
+        }
+      ]
+    }
+  }
+}

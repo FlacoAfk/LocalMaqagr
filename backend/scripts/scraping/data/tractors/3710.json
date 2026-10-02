@@ -1,0 +1,205 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/7/1/3710-john-deere-2400.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/7/1/3710-john-deere-2400-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/7/1/3710-john-deere-2400-engine.html",
+    "source_id": 3710,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:41:10.402Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3710/3710-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 3710,
+  "name": "John Deere 2400",
+  "brand": "Zetor",
+  "model": "deere 2400",
+  "years": {
+    "desde": 1993,
+    "hasta": 1998
+  },
+  "model_year": 1993,
+  "engine_power_hp": 78,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": 71.1,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3519,
+  "weight_basis": "4WD Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 26.1,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9-34",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1593,
+  "tire_front": {
+    "original": "12.4-24",
+    "radial": false,
+    "width_mm": 315,
+    "rim_in": 24,
+    "diameter_mm_est": 1145,
+    "tipo": "Diagonal",
+    "texto": "12.4-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3710/3710-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td3710.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1993 - 1998",
+          "__seccion_2__": "2000 Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Zetor built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "John Deere",
+          "Manufacturer": "Zetor",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Brno, Czech Republic"
+        },
+        {
+          "__seccion_1__": "John Deere 2400 Engine",
+          "__seccion_2__": "Zetor 3.9L 4-cyl diesel",
+          "Fuel tank": "18.5 gal 70.0 L",
+          "&nbsp": "25.1 gal Opt Optional 95.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2400 Transmission",
+          "__seccion_2__": "10-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2400 Power",
+          "Engine (net)": "78 hp 58.2 kW",
+          "PTO (claimed)": "71.1 hp 53.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic disc brakes",
+          "__seccion_5__": "Open platform. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 2400 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2610 psi 180.0 bar",
+          "Valves": "1",
+          "Pump flow": "10.6 gpm 40.1 lpm",
+          "SCV flow": "4.2 gpm 15.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "top link draft sensing",
+          "Rear lift": "7868 lbs 3568 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "&nbsp": "540/1000 Opt Optional",
+          "Engine RPM": "540@1994"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "6669 to 7760 pounds",
+          "Front tire": "9.00-16",
+          "2WD Rear tire": "16.9-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "55",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operator's Manual 2000, 2100, 2200, 2300 and 2400 Tractors (OMZT001) published in 1995",
+          "__seccion_3__": "2000 Series Tractors published in 1993, by John Deere",
+          "__seccion_4__": "2000 Reeks Trekkers published by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 5, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1993 - 1998",
+          "__seccion_2__": "2000 Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Zetor built"
+        },
+        {
+          "__seccion_1__": "John Deere 2400 Tires",
+          "2WD Standard tires (ag)": "Front: 9.00-16. Rear: 16.9-34",
+          "4WD Standard tires (ag)": "Front: 12.4-24. Rear: 16.9-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Shipping weight": "6669 lbs 3025 kg",
+          "4WD Shipping weight": "7760 lbs 3519 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 5, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1993 - 1998",
+          "__seccion_2__": "2000 Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Zetor built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Zetor",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "238 ci 3.9 L",
+          "Bore/Stroke": "4.02x4.72 inches 102 x 120 mm",
+          "Rated Power (net)": "78 hp 58.2 kW",
+          "Air cleaner": "dry",
+          "Compression": "17:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 5, 2022"
+        }
+      ]
+    }
+  }
+}

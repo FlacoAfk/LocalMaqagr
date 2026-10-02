@@ -1,0 +1,213 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/4/1/1415-belarus-220.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/4/1/1415-belarus-220-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/4/1/1415-belarus-220-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1415,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:24:19.723Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1415/1415-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 2 KB"
+  },
+  "tractor_data_id": 1415,
+  "name": "Belarus 220",
+  "brand": "Belarus",
+  "model": "220",
+  "years": {
+    "desde": 1995,
+    "hasta": 1996
+  },
+  "model_year": 1995,
+  "engine_power_hp": 22,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 19,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1230,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 7,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-16",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 942,
+  "tire_front": {
+    "original": "5.5-16",
+    "radial": false,
+    "width_mm": 140,
+    "rim_in": 16,
+    "diameter_mm_est": 644,
+    "tipo": "Diagonal",
+    "texto": "5.5-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1415/1415-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td1415.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1995 - 1996",
+          "__seccion_2__": "200 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Belarus",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Minsk, Belarus",
+          "__seccion_4__": "Original price was $8,300 in 1996"
+        },
+        {
+          "__seccion_1__": "Belarus 220 Engine",
+          "__seccion_2__": "Slavia 1.1L 2-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Belarus 220 Transmission",
+          "__seccion_2__": "16-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Belarus 220 Power",
+          "Engine (gross)": "22 hp 16.4 kW",
+          "PTO (claimed)": "19 hp 14.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "spur gear",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Belarus 220 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "8 gal 30.3 L",
+          "Hydraulic system": "2.2 gal 8.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "2.2 gal 8.3 L",
+          "Pressure": "2320 psi 160.0 bar",
+          "Valves": "1 Opt Optional",
+          "Pump flow": "4.2 gpm 15.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift": "1000 lbs 453 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@2857",
+          "&nbsp": "1000@2921"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "64.8 inches 164 cm",
+          "Weight": "2712 lbs 1230 kg",
+          "Front tire": "5.5-16",
+          "Rear tire": "12.4-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "200 Series published in 1996, by Belarus"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on May 18, 2026"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1995 - 1996",
+          "__seccion_2__": "200 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Belarus 220 Tires",
+          "Ag front": "5.5-16",
+          "Ag rear": "12.4-16"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "64.8 inches 164 cm",
+          "Length": "106.3 inches 270 cm",
+          "Width": "48.4 inches 122 cm",
+          "Height (ROPS)": "80.7 inches 204 cm",
+          "Shipping weight": "2712 lbs 1230 kg",
+          "Ground clearance": "13.4 inches 34 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 18, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1995 - 1996",
+          "__seccion_2__": "200 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Slavia 2S90A",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "air-cooled inline",
+          "Displacement": "69.9 ci 1.1 L",
+          "Bore/Stroke": "3.54x3.54 inches 90 x 90 mm",
+          "Power (gross)": "22 hp 16.4 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "oil bath",
+          "Compression": "17.6:1",
+          "Rated RPM": "3000",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "5.2 qts 4.9 L"
+        },
+        {
+          "__seccion_1__": "Belarus 220 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 18, 2026"
+        }
+      ]
+    }
+  }
+}

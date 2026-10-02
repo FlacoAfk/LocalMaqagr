@@ -1,0 +1,199 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/3/3/6332-new-holland-tj530.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/3/3/6332-new-holland-tj530-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/3/3/6332-new-holland-tj530-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 6332,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:29:10.408Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6332/6332-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 6332,
+  "name": "New Holland TJ530",
+  "brand": "New Holland",
+  "model": "TJ530",
+  "years": {
+    "desde": 2006,
+    "hasta": 2007
+  },
+  "model_year": 2006,
+  "engine_power_hp": 530,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 530,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 24494,
+  "weight_basis": "Max weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 194.4,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 20.8R42",
+  "tire_width_mm": 528,
+  "tire_diameter_mm": 1965,
+  "tire_front": {
+    "original": "20.8R42",
+    "radial": true,
+    "width_mm": 528,
+    "rim_in": 42,
+    "diameter_mm_est": 1965,
+    "tipo": "Radial",
+    "texto": "20.8R42"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F006/6332/6332-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td6332.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2006 - 2007",
+          "__seccion_2__": "TJ II Series"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Built in Fargo, North Dakota, USA"
+        },
+        {
+          "__seccion_1__": "New Holland TJ530 Engine",
+          "__seccion_2__": "Cummins 14.9L 6-cyl diesel",
+          "Fuel tank": "300 gal 1135.5 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TJ530 Transmission",
+          "__seccion_2__": "16-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TJ530 Power",
+          "Engine": "530 hp 395.2 kW",
+          "PTO (claimed)": "530 hp 395.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Integral hydraulic wet disc brakes",
+          "__seccion_4__": "Cab standard with heat and air-conditioning"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the New Holland TJ530 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing (CCLS)",
+          "Pressure": "2000 psi 137.9 bar",
+          "Valves": "4 to 9",
+          "Pump flow": "33 gpm 124.9 lpm",
+          "Total flow": "42 gpm 159.0 lpm",
+          "&nbsp": "94 gpm (optional MegaFlow) 355.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IVN (optional)",
+          "Rear lift (at 24\"/610mm)": "19,620 lbs 8899 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (optional)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "154 inches 391 cm",
+          "Front tire": "20.8R42",
+          "Rear tire": "20.8R42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "150",
+          "&nbsp": "175 (optional)",
+          "Batteries": "2",
+          "Battery volts": "12",
+          "Battery AH": "1000"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 27, 2011",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2006 - 2007",
+          "__seccion_2__": "TJ II Series"
+        },
+        {
+          "__seccion_1__": "New Holland TJ530 Tires",
+          "Ag front": "20.8R42",
+          "Ag rear": "20.8R42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "154 inches 391 cm",
+          "Length": "298 inches 756 cm",
+          "Height": "150 inches 381 cm",
+          "Max weight": "54,000 lbs 24494 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 27, 2011"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2006 - 2007",
+          "__seccion_2__": "TJ II Series"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Cummins QSX15",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "912 ci 14.9 L",
+          "Bore/Stroke": "5.394x6.654 inches 137 x 169 mm",
+          "Power": "530 hp 395.2 kW",
+          "Maximum Power": "584 hp 435.5 kW",
+          "Compression": "17.0:1",
+          "Rated RPM": "2000",
+          "Torque": "1873 lb-ft 2539.8 Nm",
+          "Torque RPM": "1400",
+          "Starter": "electric",
+          "Starter volts": "24",
+          "Oil capacity": "52 qts 49.2 L",
+          "Coolant capacity": "84.4 qts 79.9 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 27, 2011"
+        }
+      ]
+    }
+  }
+}

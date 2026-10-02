@@ -1,0 +1,241 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/8/2/3822-challenger-mt535.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/8/2/3822-challenger-mt535-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/8/2/3822-challenger-mt535-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/8/2/3822-challenger-mt535-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3822,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:35:26.465Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3822/3822-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 2 KB"
+  },
+  "tractor_data_id": 3822,
+  "name": "Challenger MT535",
+  "brand": "Challenger (a part of AGCO)",
+  "model": "mt535",
+  "years": {
+    "desde": 2002,
+    "hasta": 2003
+  },
+  "model_year": 2002,
+  "engine_power_hp": 100,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 100,
+  "pto_tested_hp": 103.9,
+  "drawbar_tested_hp": 98.8,
+  "weight_kg": 4632,
+  "weight_basis": "4WD ROPS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 43.1,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "14.9R28",
+    "radial": true,
+    "width_mm": 378,
+    "rim_in": 28,
+    "diameter_mm_est": 1355,
+    "tipo": "Radial",
+    "texto": "14.9R28"
+  },
+  "fuel_consumption_lph": 22.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3822/3822-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td3822.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2002 - 2003",
+          "__seccion_2__": "MT500 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Challenger (a part of AGCO)",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Beauvais, France"
+        },
+        {
+          "6270": "similar Massey Ferguson model",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Challenger MT535 Engine",
+          "__seccion_2__": "Caterpillar 6.0L 6-cyl diesel",
+          "Cab Fuel tank": "59.4 gal 224.8 L",
+          "ROPS Fuel tank": "42.3 gal 160.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Challenger MT535 Transmission",
+          "__seccion_2__": "32-speed partial power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Challenger MT535 Power",
+          "PTO (claimed)": "100 hp 74.6 kW",
+          "Drawbar (tested)": "98.8 hp 73.7 kW",
+          "PTO (tested)": "103.9 hp 77.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Challenger MT535 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure flow compensated (PFC)",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "2 to 4",
+          "Total flow": "28 gpm 106.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at 24\"/610mm)": "7000 lbs 3175 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "108.3 inches 275 cm",
+          "Weight": "9600 to 10763 pounds",
+          "Front tire": "11.00-16",
+          "Rear tire": "18.4R38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Challenger MT500/MT600 published in 2002, by AGCO"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 20, 2017"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2002 - 2003",
+          "__seccion_2__": "MT500 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Challenger MT535 Tires",
+          "Ag front": "11.00-16 (2WD)",
+          "&nbsp": "14.9R28 (4WD)",
+          "Ag rear": "18.4R38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "108.3 inches 275 cm",
+          "Length": "179 inches 454 cm",
+          "Width": "88 inches * Minimum width 223 cm",
+          "Height (cab)": "109 inches 276 cm"
+        },
+        {
+          "__seccion_1__": "Challenger MT535 Weight",
+          "2WD ROPS Shipping": "9634 lbs 4369 kg",
+          "4WD ROPS Shipping": "10212 lbs 4632 kg",
+          "2WD Cab Shipping": "10185 lbs 4619 kg",
+          "4WD Cab Shipping": "10763 lbs 4882 kg",
+          "Operating": "9,600 lbs (2WD) 4354 kg",
+          "&nbsp": "10,540 lbs (4WD) 4780 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 20, 2017"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2002 - 2003",
+          "__seccion_2__": "MT500 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1861"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1861",
+          "__seccion_2__": "Diesel 32-speed 4WD December 1997 - September 1999, Link: OCED Tractor Test 1861 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "98.8 hp 73.7 kW",
+          "Fuel use": "6.0 gal/hour 22.7 l/hour",
+          "Power at rated engine speed": "100.2 hp 74.7 kW",
+          "Power at rated PTO speed": "103.5 hp 77.2 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 2LA used for power test.",
+          "Max pull": "9,690 lbs 4395 kg",
+          "__seccion_6__": "Gear 3TC used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 20, 2017"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2002 - 2003",
+          "__seccion_2__": "MT500 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Caterpillar 3056",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled vertical",
+          "Displacement": "365 ci 6.0 L",
+          "Bore/Stroke": "3.937x5.00 inches 100 x 127 mm",
+          "Air cleaner": "dual paper elements",
+          "Compression": "16.0:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 20, 2017"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/4/6/8460-john-deere-9470rx.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/4/6/8460-john-deere-9470rx-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/008/4/6/8460-john-deere-9470rx-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/4/6/8460-john-deere-9470rx-engine.html",
+    "source_id": 8460,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:02:37.964Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8460/8460-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 4 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 8460,
+  "name": "John Deere 9470RX",
+  "brand": "John Deere",
+  "model": "9470RX",
+  "years": {
+    "desde": 2016,
+    "hasta": 2021
+  },
+  "model_year": 2016,
+  "engine_power_hp": 470,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": 363.62,
+  "drawbar_tested_hp": 352.69,
+  "weight_kg": 24494,
+  "weight_basis": "Shipping",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 239.1,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 74.9,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F008/8460/8460-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td8460.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2016 - 2021",
+          "__seccion_2__": "9R Series",
+          "__seccion_3__": "Articulated Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Articulated Crawler tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "__seccion_4__": "Original price was $497,645 in 2015"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "9470R": "wheeled 4WD",
+          "9470RT": "crawler",
+          "9470RX": "articulated crawler"
+        },
+        {
+          "__seccion_1__": "John Deere 9470RX Engine",
+          "__seccion_2__": "John Deere 13.5L 6-cyl diesel",
+          "Fuel tank": "400 gal 1514.0 L",
+          "Exhaust fluid (DEF)": "22 gal 83.3 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 9470RX Transmission",
+          "__seccion_2__": "18-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 9470RX Power",
+          "Engine (gross)": "470 hp 350.5 kW",
+          "Drawbar (tested)": "352.69 hp 263.0 kW",
+          "PTO (tested)": "363.62 hp 271.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "articulated-crawler",
+          "__seccion_2__": "CommandView III cab standard with suspension and air-conditioning. AutoTrac ready; ISOBUS 11783; JDLink ready"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 9470RX are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed-center pressure/flow compensated",
+          "Valves": "4 to 8",
+          "Pump flow": "58 gpm 219.5 lpm",
+          "&nbsp": "42 gpm * Flow at 19.1mm coupler with high-flow hydraulic option. 159.0 lpm",
+          "SCV flow": "35 gpm 132.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IVN/III Opt Optional",
+          "&nbsp": "Cat. 5 HD Opt Optional",
+          "Rear lift": "15000 lbs 6804 kg",
+          "Drawbar": "Cat. 4"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent Opt Optional",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "1000 (1.75)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tracks",
+          "Wheelbase": "163.5 inches 415 cm",
+          "Weight": "54000 lbs 24494 kg",
+          "__seccion_2__": "30-inch tracks",
+          "__seccion_3__": "Full dimensions and tracks ..."
+        },
+        {
+          "__seccion_1__": "9470RX Serial Numbers",
+          "Location:": "The John Deere 9470RX serial number plate on the right side of the tractor frame, just ahead of the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "200",
+          "&nbsp": "240 Opt Optional",
+          "Charging volts": "12",
+          "Batteries": "3",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "9RX Series Tractors published in 2015, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 9, 2023",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2016 - 2021",
+          "__seccion_2__": "9R Series",
+          "__seccion_3__": "Articulated Crawler tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 9470RX Tracks",
+          "Width": "36 inches 91 cm"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "163.5 inches 415 cm",
+          "Length": "322 inches 817 cm",
+          "Width": "117.2 inches (30-inch tracks) 297 cm",
+          "&nbsp": "123.2 inches (36-inch tracks) 312 cm",
+          "Height (exhaust)": "156.6 inches 397 cm",
+          "Clearance (drawbar)": "15.75 inches 40 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 9470RX Weight",
+          "Shipping": "54000 lbs 24494 kg",
+          "Max capacity": "62000 lbs 28123 kg",
+          "Max Drawbar": "5450 lbs * Cat. 4 and Cat. 4 HD 2472 kg",
+          "&nbsp": "12000 lbs * Cat. 5 5443 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 9, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2016 - 2021",
+          "__seccion_2__": "9R Series",
+          "__seccion_3__": "Articulated Crawler tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2170"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2170",
+          "__seccion_2__": "Diesel 18-speed crawler November 14 - 28, 2016 Link: OCED Tractor Test 2170 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "352.69 hp 263.0 kW",
+          "Fuel use": "23.8 gal/hour 90.1 l/hour",
+          "Power at rated engine speed": "312.16 hp 232.8 kW",
+          "Power at rated PTO speed": "349.60 hp 260.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 7 used for power test.",
+          "Max pull": "53762 lbs 24386 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 9, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2016 - 2021",
+          "__seccion_2__": "9R Series",
+          "__seccion_3__": "Articulated Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PSS",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "826.7 ci 13.5 L",
+          "Bore/Stroke": "5.197x6.496 inches 132 x 165 mm",
+          "Emissions": "Tier IV",
+          "Rated Power (gross)": "470 hp 350.5 kW",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 9, 2023"
+        }
+      ]
+    }
+  }
+}

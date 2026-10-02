@@ -1,0 +1,187 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/5/5/5553-john-deere-1420.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/5/5/5553-john-deere-1420-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/5/5/5553-john-deere-1420-engine.html",
+    "source_id": 5553,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:45:57.384Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5553/5553-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 5553,
+  "name": "John Deere 1420",
+  "brand": "John Deere",
+  "model": "1420",
+  "years": {
+    "desde": 1970,
+    "hasta": 1975
+  },
+  "model_year": 1970,
+  "engine_power_hp": 43,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1065,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 15.8,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 13.6x24",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1197,
+  "tire_front": {
+    "original": "5.00x15",
+    "radial": false,
+    "width_mm": 127,
+    "rim_in": 15,
+    "diameter_mm_est": 597,
+    "tipo": "Diagonal",
+    "texto": "5.00x15"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F005/5553/5553-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td5553.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1970 - 1975",
+          "__seccion_2__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Orchard/Vineyard tractor",
+          "__seccion_3__": "Built in Rosario, Argentina"
+        },
+        {
+          "__seccion_1__": "John Deere 1420 Engine",
+          "__seccion_2__": "John Deere 2.7L 3-cyl diesel",
+          "Fuel tank": "15.1 gal 57.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 1420 Transmission",
+          "__seccion_2__": "5-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 1420 Power",
+          "Engine": "43 hp 32.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Dry disc brakes",
+          "__seccion_5__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 1420 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "continuous",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "78.4 inches 199 cm",
+          "Weight": "2,350 lbs 1065 kg",
+          "Front tire": "5.00x15",
+          "Rear tire": "13.6x24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "28",
+          "Battery volts": "12",
+          "Battery AH": "70"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 15, 2015",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1970 - 1975",
+          "__seccion_2__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 1420 Tires",
+          "Ag front": "5.00x15",
+          "Ag rear": "13.6x24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "78.4 inches 199 cm",
+          "Length": "133.5 inches 339 cm",
+          "Width": "50 inches * Minimum width 127 cm",
+          "Height (hood)": "52 inches 132 cm",
+          "Shipping weight": "2,350 lbs 1065 kg",
+          "Ground clearance": "12.6 inches 32 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 15, 2015"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1970 - 1975",
+          "__seccion_2__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "164.5 ci 2.7 L",
+          "Bore/Stroke": "4.016x4.331 inches 102 x 110 mm",
+          "Power": "43 hp 32.1 kW",
+          "Rated RPM": "2200",
+          "Starter volts": "12",
+          "Oil capacity": "6.3 qts 6.0 L",
+          "Coolant capacity": "10.6 qts 10.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 15, 2015"
+        }
+      ]
+    }
+  }
+}

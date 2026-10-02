@@ -1,0 +1,231 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/8/3/3831-challenger-mt655.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/8/3/3831-challenger-mt655-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/8/3/3831-challenger-mt655-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/8/3/3831-challenger-mt655-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3831,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:35:55.453Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3831/3831-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 2 KB"
+  },
+  "tractor_data_id": 3831,
+  "name": "Challenger MT655",
+  "brand": "Challenger (a part of AGCO)",
+  "model": "mt655",
+  "years": {
+    "desde": 2002,
+    "hasta": 2003
+  },
+  "model_year": 2002,
+  "engine_power_hp": 200,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 200,
+  "pto_tested_hp": 216.7,
+  "drawbar_tested_hp": 165.1,
+  "weight_kg": 9752,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 92.4,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 650/85R38",
+  "tire_width_mm": 650,
+  "tire_diameter_mm": 2070,
+  "tire_front": {
+    "original": "600/70R28",
+    "radial": true,
+    "width_mm": 600,
+    "rim_in": 28,
+    "diameter_mm_est": 1551,
+    "tipo": "Radial",
+    "texto": "600/70R28"
+  },
+  "fuel_consumption_lph": 46.9,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3831/3831-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td3831.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2002 - 2003",
+          "__seccion_2__": "MT600 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Challenger (a part of AGCO)",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Beauvais, France",
+          "__seccion_4__": "The Challenger MT655 is similar to the Massey Ferguson 8270."
+        },
+        {
+          "__seccion_1__": "Challenger MT655 Engine",
+          "__seccion_2__": "Sisu 8.4L 6-cyl diesel",
+          "Fuel tank": "120 gal 454.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Challenger MT655 Transmission",
+          "__seccion_2__": "18-speed power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Challenger MT655 Power",
+          "PTO (claimed)": "200 hp 149.1 kW",
+          "Drawbar (tested)": "165.1 hp 123.1 kW",
+          "PTO (tested)": "216.7 hp 161.6 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Challenger MT655 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure flow compensated (PFC)",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "4",
+          "Total flow": "29 gpm 109.8 lpm",
+          "&nbsp": "39 gpm Opt Optional 147.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Rear lift (at 24\"/610mm)": "19700 lbs 8935 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000",
+          "Engine RPM": "1000@2091"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "121 inches 307 cm",
+          "Weight": "21500 lbs 9752 kg",
+          "Front tire": "600/70R28",
+          "Rear tire": "650/85R38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Challenger MT500/MT600 published in 2002, by AGCO"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 20, 2017"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2002 - 2003",
+          "__seccion_2__": "MT600 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Challenger MT655 Tires",
+          "Ag front": "600/70R28",
+          "Ag rear": "650/85R38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "121 inches 307 cm",
+          "Length": "203 inches 515 cm",
+          "Width": "98.2 inches * Minimum width 249 cm",
+          "Height (cab)": "121 inches 307 cm",
+          "Shipping weight": "21500 lbs 9752 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 20, 2017"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2002 - 2003",
+          "__seccion_2__": "MT600 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1770"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1770",
+          "__seccion_2__": "Diesel 18-speed 4WD April 1998 - May 1998, Link: OCED Tractor Test 1770 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "165.1 hp 123.1 kW",
+          "Fuel use": "13.2 gal/hour 50.0 l/hour",
+          "Power at rated engine speed": "205.4 hp 153.2 kW",
+          "Power at rated PTO speed": "212.3 hp 158.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 10 used for power test.",
+          "Max pull": "20765 lbs 9419 kg",
+          "__seccion_6__": "Gear 6 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 20, 2017"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2002 - 2003",
+          "__seccion_2__": "MT600 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Sisu",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled vertical",
+          "Displacement": "513 ci 8.4 L",
+          "Bore/Stroke": "4.370x5.709 inches 111 x 145 mm",
+          "Air cleaner": "dual paper elements",
+          "Compression": "16.5:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 20, 2017"
+        }
+      ]
+    }
+  }
+}

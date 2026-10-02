@@ -1,0 +1,262 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/5/855-massey-ferguson-2640.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/5/855-massey-ferguson-2640-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/8/5/855-massey-ferguson-2640-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/5/855-massey-ferguson-2640-engine.html",
+    "source_id": 855,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:27:32.098Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/855/855-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 44 KB"
+  },
+  "tractor_data_id": 855,
+  "name": "Massey Ferguson 2640",
+  "brand": "Massey Ferguson",
+  "model": "2640",
+  "years": {
+    "desde": 1980,
+    "hasta": 1985
+  },
+  "model_year": 1980,
+  "engine_power_hp": 110,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 90,
+  "pto_tested_hp": 90.95,
+  "drawbar_tested_hp": 74.77,
+  "weight_kg": 5715,
+  "weight_basis": "4WD Operating",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 61,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "14.9-28",
+    "radial": false,
+    "width_mm": 378,
+    "rim_in": 28,
+    "diameter_mm_est": 1355,
+    "tipo": "Diagonal",
+    "texto": "14.9-28"
+  },
+  "fuel_consumption_lph": 23.5,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/855/855-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/855/855-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td855.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1980 - 1985",
+          "__seccion_2__": "2000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Beauvais, France",
+          "__seccion_4__": "Original price was $38,000 in 1983"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2640 Engine",
+          "__seccion_2__": "Perkins 5.8L 6-cyl diesel",
+          "Fuel tank": "56.3 gal 213.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2640 Transmission",
+          "__seccion_2__": "16-speed two-speed power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2640 Power",
+          "Engine": "110 hp 82.0 kW",
+          "PTO (claimed)": "90 hp 67.1 kW",
+          "Drawbar (tested)": "74.77 hp 55.8 kW",
+          "PTO (tested)": "90.95 hp 67.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "hydraulic",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 2640 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "2 or 3",
+          "Pump flow": "15 gpm 56.8 lpm",
+          "Total flow": "34.8 gpm 131.7 lpm",
+          "Steering flow": "14.5 gpm 54.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position and draft control",
+          "Rear lift (at ends)": "9921 lbs 4500 kg",
+          "Rear lift (at 24\"/610mm)": "7600 lbs 3447 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic disc",
+          "Rear PTO Type": "540 (1.375)",
+          "&nbsp": "1000@2090",
+          "Engine RPM": "540@1900"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "105 inches 266 cm",
+          "4WD Wheelbase": "107.3 inches 272 cm",
+          "Weight": "11200 to 12600 pounds",
+          "Front tire": "10.00-16",
+          "2WD Rear tire": "18.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Batteries": "2",
+          "Battery volts": "12",
+          "Battery AH": "85"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "2640 published in 1982, by Massey Ferguson",
+          "__seccion_3__": "Product Information Manual MF 2640 Tractor published in 1982, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 30, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1980 - 1985",
+          "__seccion_2__": "2000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2640 Tires",
+          "2WD Standard tires (ag)": "Front: 10.00-16. Rear: 18.4-38",
+          "4WD Standard tires (ag)": "Front: 14.9-28. Rear: 18.4-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "105 inches 266 cm",
+          "4WD Wheelbase": "107.3 inches 272 cm",
+          "Length": "204 inches 518 cm",
+          "Width": "84 inches 213 cm",
+          "Height (cab)": "112 inches 284 cm",
+          "Ground clearance": "19 inches 48 cm",
+          "2WD Front tread": "62 to 85 inches 157 to 215 cm",
+          "4WD Front tread": "63 to 81 inches 160 to 205 cm",
+          "Rear tread": "60 to 84 inches 152 to 213 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2640 Weight",
+          "2WD Operating": "11200 lbs 5080 kg",
+          "4WD Operating": "12600 lbs 5715 kg",
+          "Ballasted": "16380 lbs 7429 kg",
+          "Max capacity": "18000 lbs 8164 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 30, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1980 - 1985",
+          "__seccion_2__": "2000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1481"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1481",
+          "__seccion_2__": "Diesel 16-speed 4WD May 9 - 18, 1983 Link: Nebraska Tractor Test 1481 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "90.95 hp 67.8 kW",
+          "Fuel use": "6.0 gal/hour 22.7 l/hour",
+          "Power at rated PTO speed": "87.60 hp 65.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "74.77 hp 55.8 kW",
+          "__seccion_5__": "Gear 5L used for power test.",
+          "Max pull": "13,707 lbs 6217 kg",
+          "__seccion_6__": "Gear 2L used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 30, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1980 - 1985",
+          "__seccion_2__": "2000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A6.354.4",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "353.8 ci 5.8 L",
+          "Bore/Stroke": "3.875x5.00 inches 98 x 127 mm",
+          "Power": "110 hp 82.0 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dry",
+          "Pre-heating": "ether injection",
+          "Compression": "16:1",
+          "Rated RPM": "2400",
+          "Idle RPM": "950-2750",
+          "Torque": "270.7 lb-ft 367.1 Nm",
+          "Torque RPM": "1450",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "20.1 qts 19.0 L",
+          "Coolant capacity": "28.5 qts 27.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 30, 2024"
+        }
+      ]
+    }
+  }
+}

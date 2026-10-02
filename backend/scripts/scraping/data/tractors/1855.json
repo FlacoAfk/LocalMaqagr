@@ -1,0 +1,264 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/8/5/1855-kubota-l5030.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/8/5/1855-kubota-l5030-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/8/5/1855-kubota-l5030-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/8/5/1855-kubota-l5030-engine.html",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1369/",
+    "source_id": 1855,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:55:00.992Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1855/1855-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 59 KB",
+    "nebraska_test": 1891
+  },
+  "tractor_data_id": 1855,
+  "name": "Kubota L5030",
+  "brand": "Kubota",
+  "model": "L5030",
+  "years": {
+    "desde": 2003,
+    "hasta": 2007
+  },
+  "model_year": 2003,
+  "engine_power_hp": 52.2,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 44,
+  "pto_tested_hp": 45.89,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1680,
+  "weight_basis": "ROPS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 16.8,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14.9-26",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1304,
+  "tire_front": {
+    "original": "9.5-16",
+    "radial": false,
+    "width_mm": 241,
+    "rim_in": 16,
+    "diameter_mm_est": 817,
+    "tipo": "Diagonal",
+    "texto": "9.5-16"
+  },
+  "fuel_consumption_lph": 12.1,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1855/1855-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1855/1855-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1855.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2003 - 2007",
+          "__seccion_2__": "L30 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "L5030GST": "Glide-shift",
+          "L5030HST": "hydrostatic",
+          "L5030HSTC": "hydrostatic with cab"
+        },
+        {
+          "__seccion_1__": "Kubota L5030 Engine",
+          "__seccion_2__": "Kubota 2.4L 4-cyl diesel",
+          "Fuel tank": "11.4 gal 43.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L5030 Transmissions",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "12-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L5030 Power",
+          "Engine (gross)": "52.2 hp 38.9 kW",
+          "Engine (net)": "50 hp 37.3 kW",
+          "Gross PTO (claimed)": "44 hp 32.8 kW",
+          "Hydro PTO (claimed)": "42.5 hp 31.7 kW",
+          "PTO (tested)": "45.89 hp 34.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Grand Cab optional"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota L5030 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "3 Opt Optional",
+          "Pump flow": "9.8 gpm 37.1 lpm",
+          "Total flow": "14.7 gpm 55.6 lpm",
+          "Steering flow": "4.9 gpm 18.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position control with optional draft control",
+          "Rear lift (at 24\"/610mm)": "2980 lbs 1351 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2550",
+          "Mid PTO": "independent Opt Optional",
+          "Mid PTO Type": "2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "75.4 inches 191 cm",
+          "Weight": "3705 to 4090 pounds",
+          "Front tire": "9.5-16",
+          "Rear tire": "14.9-26",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota L5030 attachments",
+          "__seccion_2__": "snowblower",
+          "__seccion_3__": "blade",
+          "__seccion_4__": "front-end loader",
+          "__seccion_5__": "backhoe",
+          "__seccion_6__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "L5030 Serial Numbers",
+          "Location:": "Serial number decal on the left side of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "45",
+          "Cab Charging amps": "60",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Grand L 30 Series published in 2004, by Kubota *",
+          "__seccion_3__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 7, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2003 - 2007",
+          "__seccion_2__": "L30 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota L5030 Tires",
+          "Standard tires (ag)": "Front: 9.5-16. Rear: 14.9-26"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "75.4 inches 191 cm",
+          "Length": "126.2 inches 320 cm",
+          "Width": "67.3 inches 170 cm",
+          "Height (ROPS)": "92.7 inches 235 cm",
+          "Height (cab)": "89.4 inches 227 cm",
+          "Ground clearance": "15.9 inches 40 cm",
+          "Front tread": "52.8 inches 134 cm",
+          "Rear tread": "52.2/56.3 inches 132/143 cm"
+        },
+        {
+          "__seccion_1__": "Kubota L5030 Weight",
+          "ROPS Shipping": "3705 lbs 1680 kg",
+          "Cab Shipping": "4090 lbs 1855 kg",
+          "ROPS Operating": "3,800 lbs 1723 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 7, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2003 - 2007",
+          "__seccion_2__": "L30 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1891"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1891",
+          "__seccion_2__": "Diesel Glideshift 4WD November 14 - 16, 2006 Link: Nebraska Tractor Test 1891 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "45.89 hp 34.2 kW",
+          "Fuel use": "3.1 gal/hour 11.7 l/hour",
+          "Power at rated PTO speed": "44.80 hp 33.4 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 7, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2003 - 2007",
+          "__seccion_2__": "L30 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V2403",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "148.6 ci 2.4 L",
+          "Bore/Stroke": "3.425x4.031 inches 87 x 102 mm",
+          "Power (net)": "50 hp 37.3 kW",
+          "Power (gross)": "52.2 hp 38.9 kW",
+          "Fuel system": "indirect injection",
+          "Air cleaner": "dual dry element",
+          "Compression": "23.8:1",
+          "Rated RPM": "2700",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 7, 2023"
+        }
+      ]
+    }
+  }
+}

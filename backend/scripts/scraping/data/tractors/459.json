@@ -1,0 +1,253 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/4/5/459-ji-case-301.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/4/5/459-ji-case-301-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/4/5/459-ji-case-301-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/4/5/459-ji-case-301-engine.html",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1015/",
+    "source_id": 459,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:04:16.337Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/459/459-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 2 KB",
+    "nebraska_test": 614
+  },
+  "tractor_data_id": 459,
+  "name": "J.I. Case 301",
+  "brand": "J.I. Case",
+  "model": "301",
+  "years": {
+    "desde": 1956,
+    "hasta": 1958
+  },
+  "model_year": 1956,
+  "engine_power_hp": 27,
+  "engine_power_source": "belt_claimed (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 26.31,
+  "weight_kg": 1701,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 18.1,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 11x28",
+  "tire_width_mm": 279,
+  "tire_diameter_mm": 1186,
+  "tire_front": {
+    "original": "5.50x16",
+    "radial": false,
+    "width_mm": 140,
+    "rim_in": 16,
+    "diameter_mm_est": 644,
+    "tipo": "Diagonal",
+    "texto": "5.50x16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/459/459-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td459.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "300 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Rock Island, Illinois, USA",
+          "Total built": "905",
+          "Original price": "$3,600 (1958)"
+        },
+        {
+          "300": "diesel utility",
+          "301": "diesel row-crop",
+          "302": "diesel high-crop",
+          "310": "gasoline utility",
+          "311": "gasoline row-crop",
+          "312": "gasoline high-crop",
+          "320": "industrial",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "J.I. Case 301 Engine",
+          "__seccion_2__": "Continental 2.6L 4-cyl diesel",
+          "Fuel tank": "13 gal 49.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 301 Transmissions",
+          "__seccion_2__": "4-speed sliding gear",
+          "__seccion_3__": "12-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 301 Power",
+          "Drawbar (claimed)": "22 hp 16.4 kW",
+          "Belt (claimed)": "27 hp 20.1 kW",
+          "Plows": "3",
+          "Drawbar (tested)": "26.31 hp 19.6 kW",
+          "Belt (tested)": "30.80 hp 23.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "manual",
+          "__seccion_3__": "6-inch disc brakes",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the J.I. Case 301 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "Duo-Control",
+          "Valves": "1 (optional)"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Type": "Case Eagle Hitch"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission (4-speed)",
+          "&nbsp": "live (Tripl-Range)",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Tricycle Wheelbase": "84.3 inches 214 cm",
+          "Wide front Wheelbase": "79.7 inches 202 cm",
+          "Weight": "3,750 lbs 1701 kg",
+          "Front tire": "5.50x16",
+          "Rear tire": "11x28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1956": "6050301",
+          "1957": "6075001",
+          "1958": "6095001",
+          "__seccion_1__": "301 Serial Numbers",
+          "Location:": "Instrument panel",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "New Case \"300\" published in 1955, by J.I. Case"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 18, 2012"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "300 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "J.I. Case 301 Tires",
+          "Ag front": "5.50x16",
+          "Ag rear": "11x28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Tricycle Wheelbase": "84.3 inches 214 cm",
+          "Wide front Wheelbase": "79.7 inches 202 cm",
+          "Tricycle Length": "131 inches 332 cm",
+          "Wide-front Length": "125 inches 317 cm",
+          "Height": "61 inches 154 cm",
+          "Operating weight": "3,750 lbs 1701 kg",
+          "Ballasted weight": "6,161 lbs 2794 kg",
+          "Ground clearance": "21 inches 53 cm",
+          "Front tread": "52 to 80 inches 132 to 203 cm (wide-front)",
+          "Rear tread": "48 to 88 inches 121 to 223 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 18, 2012"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "300 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 614"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 614",
+          "__seccion_2__": "Diesel 4-speed 2WD April 15 - 23, 1957 Link: Nebraska Tractor Test 614 file",
+          "Belt power (max)": "30.80 hp 23.0 kW",
+          "Belt fuel use (max)": "2.2 gal/hour 8.3 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "26.31 hp 19.6 kW",
+          "__seccion_4__": "Gear 3 used for power test.",
+          "Max pull": "4,067 lbs 1844 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 18, 2012"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "300 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Continental GD157",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled vertical I-head",
+          "Displacement": "157 ci 2.6 L",
+          "Bore/Stroke": "3.375x4.375 inches 86 x 111 mm",
+          "Air cleaner": "oil bath",
+          "Pre-heating": "ether",
+          "Compression": "15.5:1",
+          "Rated RPM": "1750",
+          "Starter volts": "12",
+          "Coolant capacity": "12 qts 11.4 L"
+        },
+        {
+          "__seccion_1__": "J.I. Case 301 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 18, 2012"
+        }
+      ]
+    }
+  }
+}

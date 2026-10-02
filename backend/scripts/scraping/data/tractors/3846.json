@@ -1,0 +1,285 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/8/4/3846-new-holland-9482.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/8/4/3846-new-holland-9482-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/8/4/3846-new-holland-9482-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/8/4/3846-new-holland-9482-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3846,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:25:53.133Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3846/3846-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 82 KB"
+  },
+  "tractor_data_id": 3846,
+  "name": "New Holland 9482",
+  "brand": "Versatile",
+  "model": "holland 9482",
+  "years": {
+    "desde": 1996,
+    "hasta": 2000
+  },
+  "model_year": 1996,
+  "engine_power_hp": 310,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 274,
+  "pto_tested_hp": 283.9,
+  "drawbar_tested_hp": 239.1,
+  "weight_kg": 8547,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 149,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 20.8R42",
+  "tire_width_mm": 528,
+  "tire_diameter_mm": 1965,
+  "tire_front": {
+    "original": "20.8R42",
+    "radial": true,
+    "width_mm": 528,
+    "rim_in": 42,
+    "diameter_mm_est": 1965,
+    "tipo": "Radial",
+    "texto": "20.8R42"
+  },
+  "fuel_consumption_lph": 56.4,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3846/3846-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3846/3846-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td3846.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1996 - 2000",
+          "__seccion_2__": "9082 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_4__": "Versatile built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "New Holland",
+          "Manufacturer": "Versatile",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Winnipeg, Manitoba, Canada"
+        },
+        {
+          "__seccion_1__": "New Holland 9482 Engine",
+          "__seccion_2__": "Cummins 10.8L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland 9482 Transmissions",
+          "__seccion_2__": "12-speed partially synchronized",
+          "__seccion_3__": "12-speed full power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland 9482 Power",
+          "Engine": "310 hp 231.2 kW",
+          "Drawbar (claimed)": "239 hp 178.2 kW",
+          "PTO (claimed)": "274 hp 204.3 kW",
+          "Drawbar (tested)": "239.1 hp 178.3 kW",
+          "PTO (tested)": "283.9 hp 211.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic dry disc brakes",
+          "__seccion_4__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland 9482 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "245 gal * Total capacity 927.3 L",
+          "&nbsp": "33 gal (with 3-point) 124.9 L",
+          "Hydraulic system": "31 gal 117.3 L",
+          "Front hubs": "8 qts 7.6 L",
+          "Front diff.": "28.4 qts 26.9 L",
+          "Rear hubs": "8 qts 7.6 L",
+          "Rear diff.": "28.4 qts 26.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing",
+          "Capacity": "31 gal 117.3 L",
+          "&nbsp": "33 gal (with 3-point) 124.9 L",
+          "Pressure": "2250 psi 155.1 bar",
+          "Valves": "1 to 4",
+          "Pump flow": "45 gpm 170.3 lpm",
+          "SCV flow": "30 gpm 113.6 lpm",
+          "Steering flow": "27 gpm 102.2 lpm",
+          "Steering press.": "2500 psi 172.4 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IVN/3 Opt Optional",
+          "Rear lift (at 24\"/610mm)": "13000 lbs 5896 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent Opt Optional",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "1000 (1.75)",
+          "Engine RPM": "1000@2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "133 inches 337 cm",
+          "Weight": "18844 to 30000 pounds",
+          "Front tire": "20.8R42",
+          "Rear tire": "20.8R42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1996": "D103399",
+          "1997": "D104389",
+          "1998": "D106500",
+          "1999": "D107868",
+          "__seccion_1__": "9482 Serial Numbers",
+          "Location:": "Rear lower-left side of the tractor cab, just above platform.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "130",
+          "Charging volts": "12",
+          "Batteries": "3",
+          "Battery CCA": "625",
+          "Battery volts": "12",
+          "Battery Group": "SAE31"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "82 Series Versatile 260 to 425 hp 4WD Tractors published in 1995, by New Holland",
+          "__seccion_3__": "Operator's Manual Tractors 9282, 9482, 9682 and 9882 (42928241) published in 1996",
+          "__seccion_4__": "North American Buyer's Guide published in 1997, by New Holland"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 11, 2024",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1996 - 2000",
+          "__seccion_2__": "9082 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_4__": "Versatile built"
+        },
+        {
+          "__seccion_1__": "New Holland 9482 Tires",
+          "Ag front": "20.8R42",
+          "Ag rear": "20.8R42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "133 inches 337 cm",
+          "Length": "266 inches 675 cm",
+          "Width": "150.2 inches * Width with 20.8R42 duals. 381 cm",
+          "Height (cab)": "136.9 inches 347 cm",
+          "Height (exhaust)": "146.5 inches 372 cm"
+        },
+        {
+          "__seccion_1__": "New Holland 9482 Weight",
+          "Shipping": "18,844 lbs 8547 kg",
+          "Operating": "30,000 lbs (20.8R42 duals) 13608 kg",
+          "Max capacity": "34,000 lbs 15422 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 11, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1996 - 2000",
+          "__seccion_2__": "9082 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_4__": "Versatile built"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1815"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1815",
+          "__seccion_2__": "Diesel Quadra-Sync 4WD October 1998 - November 1998, Link: OCED Tractor Test 1815 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "239.1 hp 178.3 kW",
+          "Fuel use": "15.1 gal/hour 57.2 l/hour",
+          "Power at rated engine speed": "273.7 hp 204.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 1M used for power test.",
+          "Max pull": "33,490 lbs 15191 kg",
+          "__seccion_6__": "Gear 1L used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 11, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1996 - 2000",
+          "__seccion_2__": "9082 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_4__": "Versatile built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Cummins M11",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled vertical",
+          "Displacement": "660 ci 10.8 L",
+          "Bore/Stroke": "4.921x5.787 inches 125 x 147 mm",
+          "Power": "310 hp 231.2 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "16.1:1",
+          "Rated RPM": "2100",
+          "Idle RPM": "900-2460",
+          "Torque": "1050 lb-ft 1423.8 Nm",
+          "Torque RPM": "1400",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Coolant capacity": "61.2 qts 57.9 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "38.8 qts 36.7 L",
+          "Oil change": "250 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 11, 2024"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/009/2/0/9204-fiat-715.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/009/2/0/9204-fiat-715-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/009/2/0/9204-fiat-715-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 9204,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:18:24.875Z",
+    "foto_original": "https://www.tractordata.com/photos/F009/9204/9204-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 3 KB"
+  },
+  "tractor_data_id": 9204,
+  "name": "Fiat 715",
+  "brand": "Fiat",
+  "model": "715",
+  "years": {
+    "desde": 1967,
+    "hasta": 1968
+  },
+  "model_year": 1967,
+  "engine_power_hp": 70,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3319,
+  "weight_basis": "4WD",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 25.7,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14-34",
+  "tire_width_mm": 356,
+  "tire_diameter_mm": 1468,
+  "tire_front": {
+    "original": "10-24",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 24,
+    "diameter_mm_est": 1041,
+    "tipo": "Diagonal",
+    "texto": "10-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F009/9204/9204-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td9204.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1967 - 1968",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Fiat",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Fiat 715 Engine",
+          "__seccion_2__": "Fiat 4.4L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 715 Transmission",
+          "__seccion_2__": "14-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 715 Power",
+          "Engine": "70 hp 52.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Disc brakes",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Fiat 715 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "4409 lbs 1999 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540 (1.375)",
+          "&nbsp": "1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "86.6 inches 219 cm",
+          "4WD Wheelbase": "81.9 inches 208 cm",
+          "Weight": "6393 to 7319 pounds",
+          "Front tire": "6.50-20",
+          "2WD Rear tire": "14-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 15, 2016"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1967 - 1968",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Fiat 715 Tires",
+          "2WD Standard tires (ag)": "Front: 6.50-20. Rear: 14-30",
+          "4WD Standard tires (ag)": "Front: 10-24. Rear: 14-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "86.6 inches 219 cm",
+          "4WD Wheelbase": "81.9 inches 208 cm",
+          "Length": "149.6 inches 379 cm",
+          "Ground clearance": "18.5 inches 46 cm",
+          "2WD Front tread": "55.1 to 85 inches 139 to 215 cm",
+          "4WD Front tread": "66.9 inches 169 cm",
+          "Rear tread": "55.1 to 78.7 inches 139 to 199 cm"
+        },
+        {
+          "__seccion_1__": "Fiat 715 Weight",
+          "2WD": "6393 lbs 2899 kg",
+          "4WD": "7319 lbs 3319 kg",
+          "Ballasted": "7557 lbs 3427 kg"
+        },
+        {
+          "__seccion_1__": "Fiat 715 Height",
+          "2WD Hood": "60.2 inches 152 cm",
+          "4WD Hood": "61.8 inches 156 cm",
+          "Exhaust": "88.6 inches 225 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 15, 2016"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1967 - 1968",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Fiat",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "268.3 ci 4.4 L",
+          "Bore/Stroke": "4.25x4.72 inches 108 x 120 mm",
+          "Power": "70 hp 52.2 kW",
+          "Fuel system": "direct injection",
+          "Rated RPM": "1900"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 15, 2016"
+        }
+      ]
+    }
+  }
+}

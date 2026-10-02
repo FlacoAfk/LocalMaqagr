@@ -1,0 +1,297 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/6/167-john-deere-6300.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/6/167-john-deere-6300-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/1/6/167-john-deere-6300-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/6/167-john-deere-6300-engine.html",
+    "source_id": 167,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:51:20.973Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/167/167-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 70 KB"
+  },
+  "tractor_data_id": 167,
+  "name": "John Deere 6300",
+  "brand": "John Deere",
+  "model": "6300",
+  "years": {
+    "desde": 1992,
+    "hasta": 1997
+  },
+  "model_year": 1992,
+  "engine_power_hp": 75,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 75,
+  "pto_tested_hp": 79.8,
+  "drawbar_tested_hp": 62.5,
+  "weight_kg": 3400,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 38.2,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-30",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1557,
+  "tire_front": {
+    "original": "7.50-18",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 18,
+    "diameter_mm_est": 781,
+    "tipo": "Diagonal",
+    "texto": "7.50-18"
+  },
+  "fuel_consumption_lph": 16.7,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/167/167-td3a.jpg",
+  "image_url": "/uploads/tractors/td167.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "6000 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany"
+        },
+        {
+          "6300": "utility tractor",
+          "__seccion_1__": "Variants",
+          "6300L": "low-profile"
+        },
+        {
+          "__seccion_1__": "John Deere 6300 Engine",
+          "__seccion_2__": "John Deere 3.9L 4-cyl diesel",
+          "ROPS Fuel tank": "29 gal 109.8 L",
+          "Cab Fuel tank": "43.6 gal 165.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6300 Transmissions",
+          "__seccion_2__": "12-speed fully synchronized",
+          "__seccion_3__": "16-speed partial power shift",
+          "__seccion_4__": "21-speed partially synchronized",
+          "__seccion_5__": "28-speed partial power shift",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6300 Power",
+          "PTO (claimed)": "75 hp 55.9 kW",
+          "Drawbar (tested)": "62.5 hp 46.6 kW",
+          "PTO (tested)": "79.8 hp 59.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS. ComfortGard Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 6300 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed-center pressure flow compensated (PFC)",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "1 to 5",
+          "Total flow": "16 gpm 60.6 lpm",
+          "&nbsp": "25 gpm Opt Optional 94.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "lower link draft sensing",
+          "Rear lift (at 24\"/610mm)": "4900 lbs 2222 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "&nbsp": "540/1000 Opt Optional"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "94.5 inches 240 cm",
+          "Weight": "7497 to 9295 pounds",
+          "Front tire": "7.50-18",
+          "Rear tire": "18.4-30 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6300 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "6300 Serial Number Location",
+          "__seccion_2__": "Serial number tag on the right side of the Deere 6400 tractor frame, above the front axle."
+        },
+        {
+          "1993": "100000",
+          "1994": "117697",
+          "1995": "135565",
+          "1996": "153567",
+          "1997": "177240",
+          "__seccion_1__": "6300 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "New 66- to 85-HP 6000 Series Tractors published in 1992, by John Deere",
+          "__seccion_3__": "66- to 85-HP 6000 Series Tractors published in 1996, by John Deere",
+          "__seccion_4__": "Operator's Manual 6200, 6200L, 6300, 6300L, 6400, 6400L and 6500L Tractors (OMAL77469) published in 1994",
+          "__seccion_5__": "6000 Series Tractors and Advantage Series Tractors Product Information Handbook published in 1997, by John Deere",
+          "__seccion_6__": "66- to 85-HP 6000 Series Tractors published in 1996, by John Deere",
+          "__seccion_7__": "Special Dimension Tractors published in 1992, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 7, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "6000 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 6300 Tires",
+          "Standard tires (ag)": "Front: 7.50-18. Rear: 18.4-30 (2WD)",
+          "&nbsp": "Front: 13.6-38. Rear: 13.6-46 (High-Clearance)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "94.5 inches 240 cm",
+          "Clearance (front axle)": "18 inches (4WD) 45 cm",
+          "&nbsp": "26.4 inches (High-Clearance) 67 cm",
+          "Clearance (rear axle)": "29.8 inches (High-Clearance) 75 cm",
+          "2WD Front tread": "58.5 to 98 inches 148 to 248 cm",
+          "4WD Front tread": "59.7 to 79.5 inches 151 to 201 cm",
+          "Rear tread": "60.1 to 105.8 inches 152 to 268 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 6300 Weight",
+          "Shipping": "7497 lbs (2WD ROPS) 3400 kg",
+          "&nbsp": "8511 lbs (4WD cab) 3860 kg",
+          "Operating": "9295 lbs (4WD Cab) 4216 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 7, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "6000 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "OECD 1524: diesel 12-speed 4WD",
+          "__seccion_3__": "OECD 1524: diesel 16-speed 4WD"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1524"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1524",
+          "__seccion_2__": "Diesel 12-speed 4WD January 1994 - June 1994, Link: OCED Tractor Test 1524 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "62.5 hp 46.6 kW",
+          "Fuel use": "4.4 gal/hour 16.7 l/hour",
+          "Power at rated engine speed": "77.6 hp 57.9 kW",
+          "Power at rated PTO speed": "79.5 hp 59.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 1C used for power test.",
+          "Max pull": "8590 lbs 3896 kg",
+          "__seccion_6__": "Gear 1B used for pull test."
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1524"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1524",
+          "__seccion_2__": "Diesel 16-speed 4WD June 1994 - 1994, Link: OCED Tractor Test 1524 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "61.5 hp 45.9 kW",
+          "Fuel use": "4.4 gal/hour 16.7 l/hour",
+          "Power at rated engine speed": "76.0 hp 56.7 kW",
+          "Power at rated PTO speed": "77.5 hp 57.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 1C used for power test.",
+          "Max pull": "8480 lbs 3846 kg",
+          "__seccion_6__": "Gear 1B used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 7, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "6000 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere CD4039",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "239 ci 3.9 L",
+          "Bore/Stroke": "4.19x4.33 inches 106 x 110 mm",
+          "Rated RPM": "2300",
+          "Idle RPM": "1840-2300",
+          "Starter volts": "12",
+          "Oil capacity": "12.8 qts 12.1 L",
+          "Coolant capacity": "14.5 qts (ROPS) 13.7 L",
+          "&nbsp": "18.5 qts (cab) 17.5 L"
+        },
+        {
+          "__seccion_1__": "John Deere 6300 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 7, 2022"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/167/167-td4-b01.jpg"
+}

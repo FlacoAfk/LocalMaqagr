@@ -1,0 +1,271 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/5/3/7532-john-deere-6125m.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/5/3/7532-john-deere-6125m-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/007/5/3/7532-john-deere-6125m-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/5/3/7532-john-deere-6125m-engine.html",
+    "source_id": 7532,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:59:34.271Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7532/7532-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 57 KB"
+  },
+  "tractor_data_id": 7532,
+  "name": "John Deere 6125M",
+  "brand": "John Deere",
+  "model": "6125M",
+  "years": {
+    "desde": 2013,
+    "hasta": 2015
+  },
+  "model_year": 2013,
+  "engine_power_hp": 125,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 102,
+  "pto_tested_hp": 114.88,
+  "drawbar_tested_hp": 98.31,
+  "weight_kg": 5225,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 48.2,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 460/85R34",
+  "tire_width_mm": 460,
+  "tire_diameter_mm": 1646,
+  "tire_front": {
+    "original": "10.00-16",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 16,
+    "diameter_mm_est": 838,
+    "tipo": "Diagonal",
+    "texto": "10.00-16"
+  },
+  "fuel_consumption_lph": 25.4,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7532/7532-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7532/7532-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td7532.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2013 - 2015",
+          "__seccion_2__": "6M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany",
+          "Original price": "$74,324 (2014 SyncroPlus ROPS 2WD )",
+          "__seccion_4__": "$101,397 (2014 AutoQuad Cab 4WD )"
+        },
+        {
+          "__seccion_1__": "John Deere 6125M Engine",
+          "__seccion_2__": "John Deere 4.5L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6125M Transmissions",
+          "__seccion_2__": "12-speed fully synchronized",
+          "__seccion_3__": "16-speed partial power shift",
+          "__seccion_4__": "24-speed partial power shift",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6125M Power",
+          "Engine (gross)": "125 hp 93.2 kW",
+          "Engine (max)": "130 hp 96.9 kW",
+          "PTO (claimed)": "102 hp 76.1 kW",
+          "Drawbar (tested)": "98.31 hp 73.3 kW",
+          "PTO (tested)": "114.88 hp 85.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "Electro-hydraulic rear",
+          "&nbsp": "limit-slip front (4WD)",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Two-post foldable ROPS. Cab optional with air-conditioning. GreenStar (optional); AutoTrac (optional)"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 6125M photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "58 gal 219.5 L",
+          "Hydraulic system": "13.7 gal 51.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center pressure compensated",
+          "&nbsp": "30 gpm (optional) 113.6 lpm",
+          "Capacity": "13.7 gal 51.9 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "Rear valves": "1 to 3",
+          "Mid valves": "2 or 3 (optional)",
+          "Pump flow": "21.1 gpm 79.9 lpm",
+          "SCV flow": "21.1 gpm 79.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/IIIN",
+          "Control": "electrohydraulic load sensing",
+          "Rear lift (at 24\"/610mm)": "5154 lbs 2337 kg",
+          "&nbsp": "6247 lbs (optional) 2833 kg",
+          "Drawbar": "Cat. II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@1932",
+          "&nbsp": "1000@1932"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "101.6 inches 258 cm",
+          "Weight": "11519 lbs 5225 kg",
+          "Front tire": "10.00-16",
+          "Rear tire": "460/85R34 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6125M attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "6125M Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "90",
+          "&nbsp": "150 (optional)",
+          "Charging volts": "14",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "6M Series Tractors published in 2013, by John Deere",
+          "__seccion_3__": "Specialty Tractors published in 2014, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 7, 2023",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2013 - 2015",
+          "__seccion_2__": "6M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 6125M Tires",
+          "Standard tires (ag)": "Front: 10.00-16. Rear: 460/85R34 (2WD)",
+          "&nbsp": "Front: 380/85R24. Rear: 460/85R34 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "101.6 inches 258 cm",
+          "Weight": "11519 lbs 5225 kg",
+          "Max weight": "19180 lbs 8700 kg",
+          "Clearance (front axle)": "20.47 inches (4WD) 51 cm",
+          "__seccion_2__": "Flange rear axle",
+          "Bar rear axle": "3.1 by 100.6 inches 78 by 2555 mm",
+          "Front tread": "60.4 to 80.4 inches 153 to 204 cm (2WD)"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 7, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2013 - 2015",
+          "__seccion_2__": "6M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2078"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2078",
+          "__seccion_2__": "Diesel 24-speed PowrQuad Plus 4WD October 22 - 30, 2013 Link: OCED Tractor Test 2078 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "98.31 hp 73.3 kW",
+          "Fuel use": "6.7 gal/hour 25.4 l/hour",
+          "Power at rated engine speed": "105.13 hp 78.4 kW",
+          "Power at rated PTO speed": "114.39 hp 85.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "10828 lbs 4911 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 7, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2013 - 2015",
+          "__seccion_2__": "6M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech PVX",
+          "__seccion_3__": "variable geometry turbocharger with intercooler diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "276 ci 4.5 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Interim Tier IV",
+          "Emission control": "cooled exhaust gas recirculation",
+          "Rated Power (gross)": "125 hp 93.2 kW",
+          "Maximum Power (gross)": "130 hp 96.9 kW",
+          "Fuel system": "high pressure common rail",
+          "Compression": "16.1:1",
+          "Rated RPM": "2100",
+          "Torque": "415 lb-ft 562.7 Nm",
+          "Torque RPM": "1600",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "16.9 qts 16.0 L",
+          "Coolant capacity": "23.3 qts 22.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 7, 2023"
+        }
+      ]
+    }
+  }
+}

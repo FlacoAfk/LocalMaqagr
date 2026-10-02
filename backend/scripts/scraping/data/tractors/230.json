@@ -1,0 +1,270 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/3/230-ford-tw-30.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/3/230-ford-tw-30-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/2/3/230-ford-tw-30-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/3/230-ford-tw-30-engine.html",
+    "source_id": 230,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:09:09.310Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/230/230-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 144 KB"
+  },
+  "tractor_data_id": 230,
+  "name": "Ford TW-30",
+  "brand": "Ford",
+  "model": "TW 30",
+  "years": {
+    "desde": 1979,
+    "hasta": 1983
+  },
+  "model_year": 1979,
+  "engine_power_hp": 188.2,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 163,
+  "pto_tested_hp": 163.28,
+  "drawbar_tested_hp": 142.21,
+  "weight_kg": 6622,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 73.6,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 24.5x32",
+  "tire_width_mm": 622,
+  "tire_diameter_mm": 1871,
+  "tire_front": {
+    "original": "14.9x24",
+    "radial": false,
+    "width_mm": 378,
+    "rim_in": 24,
+    "diameter_mm_est": 1253,
+    "tipo": "Diagonal",
+    "texto": "14.9x24"
+  },
+  "fuel_consumption_lph": 39.4,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/230/230-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/230/230-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td230.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1979 - 1983",
+          "__seccion_2__": "TW Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Romeo, Michigan, USA",
+          "Original price": "$52,277"
+        },
+        {
+          "__seccion_1__": "Ford TW-30 Engine",
+          "__seccion_2__": "Ford 6.6L 6-cyl diesel",
+          "Fuel tank": "75 gal 283.9 L",
+          "&nbsp": "24 gal (auxiliary tank) 90.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford TW-30 Transmission",
+          "__seccion_2__": "16-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford TW-30 Power",
+          "Engine (gross)": "188.2 hp 140.3 kW",
+          "Engine": "175 hp 130.5 kW",
+          "Drawbar (claimed)": "144.2 hp 107.5 kW",
+          "PTO (claimed)": "163 hp 121.5 kW",
+          "Drawbar (tested)": "142.21 hp 106.0 kW",
+          "PTO (tested)": "163.28 hp 121.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Differential power assist wet disc brakes",
+          "__seccion_4__": "Cab optional with available air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford TW-30 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "23",
+          "Pressure": "2500 psi 172.4 bar",
+          "Pump flow": "20 gpm 75.7 lpm",
+          "&nbsp": "8 gpm (service pump) 30.3 lpm",
+          "Steering flow": "4.2 gpm 15.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Rear lift (at 24\"/610mm)": "6,825 lbs 3095 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "110.5 inches 280 cm",
+          "Weight": "14,600 lbs 6622 kg",
+          "Front tire": "11.00-16",
+          "Rear tire": "18.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1979": "C592200",
+          "1980": "C635700",
+          "1981": "C660700",
+          "1982": "C682200",
+          "1983": "C694500",
+          "__seccion_1__": "TW-30 Serial Numbers",
+          "Location:": "Under right grill panel",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "72",
+          "Battery volts": "12",
+          "Battery AH": "128"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Farm Loaders published in 1982, by Ford",
+          "__seccion_3__": "TW-10, TW-20, TW-30 published by Ford",
+          "__seccion_4__": "Operator's Manual TW-10, TW-20, & TW-30 (SE 3967) published in 1978"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 19, 2020",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1979 - 1983",
+          "__seccion_2__": "TW Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Ford TW-30 Tires",
+          "Ag front": "14Lx16.1 (2WD)",
+          "Ag rear": "24.5x32",
+          "&nbsp": "30.5x32"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "110.5 inches 280 cm",
+          "Length": "190.9 inches 484 cm",
+          "Width": "106.4 inches 270 cm",
+          "Operating weight": "14,600 lbs (cab) 6622 kg",
+          "Ballasted weight": "19,830 lbs 8994 kg",
+          "Ground clearance": "25.2 inches (2WD) 64 cm",
+          "&nbsp": "16 inches (4WD) 40 cm",
+          "Bar rear axle": "105 inch length 2667 mm",
+          "Front tread": "60 to 84 inches 152 to 213 cm",
+          "Rear tread": "60 to 110 inches 152 to 279 cm"
+        },
+        {
+          "__seccion_1__": "Ford TW-30 Height",
+          "Hood": "80 inches 203 cm",
+          "ROPS": "112.7 inches 286 cm",
+          "Cab": "116 inches 294 cm",
+          "Exhaust": "122.9 inches 312 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 19, 2020"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1979 - 1983",
+          "__seccion_2__": "TW Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1299"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1299",
+          "__seccion_2__": "Diesel 16-speed 2WD March 27 - April 11, 1979 Link: Nebraska Tractor Test 1299 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "163.28 hp 121.8 kW",
+          "Fuel use": "10.4 gal/hour 39.4 l/hour",
+          "Power at rated PTO speed": "157.04 hp 117.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "142.21 hp 106.0 kW",
+          "__seccion_5__": "Gear 5PD used for power test.",
+          "Max pull": "16,553 lbs 7508 kg",
+          "__seccion_6__": "Gear 2PD used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 19, 2020"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1979 - 1983",
+          "__seccion_2__": "TW Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "401 ci 6.6 L",
+          "Bore/Stroke": "4.40x4.40 inches 112 x 112 mm",
+          "Power": "175 hp 130.5 kW",
+          "Power (gross)": "188.2 hp 140.3 kW",
+          "Air cleaner": "dry with precleaner",
+          "Compression": "15.6:1",
+          "Rated RPM": "2200",
+          "Torque": "494 lb-ft 669.9 Nm",
+          "Torque RPM": "1600",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Oil capacity": "20 qts 18.9 L",
+          "Coolant capacity": "23 qts 21.8 L",
+          "&nbsp": "24.5 qts (with heater) 23.2 L",
+          "Intake valve clearance": "0.014-0.016 inches 0.356 mm",
+          "Exhaust valve clearance": "0.017-0.019 inches 0.432 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 19, 2020"
+        }
+      ]
+    }
+  }
+}

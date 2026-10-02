@@ -1,0 +1,217 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/1/1/7110-john-deere-6145j.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/1/1/7110-john-deere-6145j-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/1/1/7110-john-deere-6145j-engine.html",
+    "source_id": 7110,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:53:15.661Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7110/7110-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 7110,
+  "name": "John Deere 6145J",
+  "brand": "John Deere",
+  "model": "6145J",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 145,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 123,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 5651,
+  "weight_basis": "&nbsp",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 45.1,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 24.5-32",
+  "tire_width_mm": 622,
+  "tire_diameter_mm": 1871,
+  "tire_front": {
+    "original": "18.4-26",
+    "radial": false,
+    "width_mm": 467,
+    "rim_in": 26,
+    "diameter_mm_est": 1455,
+    "tipo": "Diagonal",
+    "texto": "18.4-26"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7110/7110-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td7110.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2010 -",
+          "__seccion_2__": "6J Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Montenegro, Brazil"
+        },
+        {
+          "__seccion_1__": "John Deere 6145J Engine",
+          "__seccion_2__": "John Deere 6.8L 6-cyl diesel",
+          "Fuel tank": "83.2 gal 314.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6145J Transmission",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6145J Power",
+          "Engine": "145 hp 108.1 kW",
+          "PTO (claimed)": "123 hp 91.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "electro-hydraulic",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Four-post ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 6145J are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure-flow compensated (PFC)",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "2",
+          "Pump flow": "26.42 gpm 100.0 lpm",
+          "SCV flow": "26.36 gpm 99.8 lpm",
+          "Oil type": "JD Hy-Gard"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "electronic lower link",
+          "Rear lift (at ends)": "10,160 lbs 4608 kg",
+          "&nbsp": "11,640 lbs (optional) 5279 kg",
+          "Rear lift (at 24\"/610mm)": "7,893 lbs 3580 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "104.3 inches 264 cm",
+          "Weight": "11290 to 12460 pounds",
+          "Front tire": "18.4-26",
+          "Rear tire": "24.5-32",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "90",
+          "Battery volts": "12",
+          "Battery AH": "150"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 12, 2018",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2010 -",
+          "__seccion_2__": "6J Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 6145J Tires",
+          "Standard tires (ag)": "Front: 18.4-26. Rear: 24.5-32",
+          "Optional tires (ag)": "Front: 16.9-26. Rear: 18.4-38",
+          "&nbsp": "Front: 16.9-24. Rear: 18.4-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "104.3 inches 264 cm",
+          "Length": "195.6 inches 496 cm",
+          "Height": "112.7 inches 286 cm",
+          "Ground clearance": "22.4 inches 56 cm",
+          "Bar rear axle": "3.386 by 108 inches 86 by 2743 mm",
+          "Front tread": "62.9 to 82.6 inches 159 to 209 cm",
+          "Rear tread": "66.5 to 104.3 inches 168 to 264 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 6145J Weight",
+          "__seccion_2__": "11,290 lbs (ROPS) 5121 kg",
+          "&nbsp": "12,460 lbs (cab) 5651 kg",
+          "Ballasted": "17,640 lbs 8001 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 12, 2018"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2010 -",
+          "__seccion_2__": "6J Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 6068 PowerTech",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "414.4 ci 6.8 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Power": "145 hp 108.1 kW",
+          "Fuel system": "rotary injection pump",
+          "Rated RPM": "2100",
+          "Torque": "448.4 lb-ft 608.0 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12",
+          "Coolant capacity": "26.4 qts 25.0 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "20.1 qts 19.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 12, 2018"
+        }
+      ]
+    }
+  }
+}

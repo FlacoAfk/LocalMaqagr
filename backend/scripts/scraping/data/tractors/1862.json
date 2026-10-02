@@ -1,0 +1,225 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/8/6/1862-kubota-b2630.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/8/6/1862-kubota-b2630-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/8/6/1862-kubota-b2630-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1862,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:55:23.549Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1862/1862-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 1862,
+  "name": "Kubota B2630",
+  "brand": "Kubota",
+  "model": "B2630",
+  "years": {
+    "desde": 2006,
+    "hasta": 2012
+  },
+  "model_year": 2006,
+  "engine_power_hp": 26,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 19.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 810,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 7.2,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-16",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 942,
+  "tire_front": {
+    "original": "7-12",
+    "radial": false,
+    "width_mm": 178,
+    "rim_in": 12,
+    "diameter_mm_est": 607,
+    "tipo": "Diagonal",
+    "texto": "7-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1862/1862-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td1862.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2006 - 2012",
+          "__seccion_2__": "B30 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Original price was $16,433 in 2011"
+        },
+        {
+          "__seccion_1__": "Kubota B2630 Engine",
+          "__seccion_2__": "Kubota 1.1L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B2630 Transmission",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B2630 Power",
+          "Engine (gross)": "26 hp 19.4 kW",
+          "PTO (claimed)": "19.5 hp 14.5 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "spur gear",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post fixed ROPS. Folding ROPS optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Kubota B2630 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "8.1 gal 30.7 L",
+          "Hydraulic system": "4 gal 15.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "4 gal 15.1 L",
+          "Rear valves": "1",
+          "Front valves": "1",
+          "Pump flow": "5.6 gpm 21.2 lpm",
+          "Total flow": "9.8 gpm 37.1 lpm",
+          "Steering flow": "4.23 gpm 16.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at ends)": "2139 lbs 970 kg",
+          "Rear lift (at 24\"/610mm)": "1676 lbs 760 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "2500@2753",
+          "Mid PTO": "independent",
+          "Mid PTO Type": "2500"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "65.6 inches 166 cm",
+          "Weight": "1,786 lbs 810 kg",
+          "Front tire": "7-12",
+          "Rear tire": "12.4-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota B2630 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "72\" mid-mount mower deck",
+          "__seccion_4__": "snowblower",
+          "__seccion_5__": "blade",
+          "__seccion_6__": "front-end loader",
+          "__seccion_7__": "backhoe",
+          "__seccion_8__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "14.5",
+          "Battery volts": "12",
+          "Battery AH": "36"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "B Series Standard and Premier Tractors published in 2007, by Kubota"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 17, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2006 - 2012",
+          "__seccion_2__": "B30 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota B2630 Tires",
+          "Ag front": "7-12",
+          "Ag rear": "12.4-16"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "65.6 inches 166 cm",
+          "Length": "99.2 inches 251 cm",
+          "Width": "53.7 inches 136 cm",
+          "Weight": "1,786 lbs 810 kg",
+          "Ground clearance": "14.6 inches 37 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 17, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2006 - 2012",
+          "__seccion_2__": "B30 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota D1105-E2-D21",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "68.5 ci 1.1 L",
+          "Bore/Stroke": "3.071x3.087 inches 78 x 78 mm",
+          "Emissions": "Interim Tier IV",
+          "Power (gross)": "26 hp 19.4 kW",
+          "Air cleaner": "dual paper element",
+          "Rated RPM": "2800",
+          "Starter volts": "12",
+          "Oil capacity": "3.2 qts 3.0 L",
+          "Coolant capacity": "4.2 qts 4.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 17, 2025"
+        }
+      ]
+    }
+  }
+}

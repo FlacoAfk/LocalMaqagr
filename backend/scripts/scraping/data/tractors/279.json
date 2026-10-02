@@ -1,0 +1,307 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/7/279-ford-8000.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/7/279-ford-8000-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/2/7/279-ford-8000-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/7/279-ford-8000-engine.html",
+    "source_id": 279,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:11:27.847Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/279/279-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 40 KB"
+  },
+  "tractor_data_id": 279,
+  "name": "Ford 8000",
+  "brand": "Ford",
+  "model": "8000",
+  "years": {
+    "desde": 1968,
+    "hasta": 1972
+  },
+  "model_year": 1968,
+  "engine_power_hp": 115.5,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 105,
+  "pto_tested_hp": 105.74,
+  "drawbar_tested_hp": 92.61,
+  "weight_kg": 4526,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 51.2,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "7.50-18",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 18,
+    "diameter_mm_est": 781,
+    "tipo": "Diagonal",
+    "texto": "7.50-18"
+  },
+  "fuel_consumption_lph": 25,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/279/279-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/279/279-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td279.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1968 - 1972",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Highland Park, Michigan, USA",
+          "__seccion_4__": "Original price was $10,000 in 1972"
+        },
+        {
+          "8100": "all-purpose",
+          "8200": "row-crop",
+          "8400": "industrial tractor",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Ford 8000 Engine",
+          "__seccion_2__": "Ford 6.6L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 8000 Transmissions",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "16-speed two-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 8000 Power",
+          "Engine": "115.5 hp 86.1 kW",
+          "PTO (claimed)": "105 hp 78.3 kW",
+          "Drawbar (tested)": "92.61 hp 69.1 kW",
+          "PTO (tested)": "105.74 hp 78.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Differential lock": "hydraulic rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Open operator station. Cab optional with optional heat and air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 8000 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "43 gal 162.8 L",
+          "Hydraulic system": "10 gal 37.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "10 gal 37.9 L",
+          "Pressure": "2500 psi 172.4 bar",
+          "Pump flow": "12 gpm 45.4 lpm",
+          "Steering flow": "4.2 gpm 15.9 lpm",
+          "Steering press.": "1550 psi 106.9 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000",
+          "Engine RPM": "540@1900",
+          "&nbsp": "1000@1935"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "108 inches (row crop) 274 cm",
+          "&nbsp": "91.5 inches (all purpose) 232 cm",
+          "Weight": "9980 lbs 4526 kg",
+          "Front tire": "7.50-18",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 8000 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1968": "C190200",
+          "1969": "C226000",
+          "1970": "C257600",
+          "1971": "C292100",
+          "1972": "C327200",
+          "__seccion_1__": "8000 Serial Numbers",
+          "Location:": "Inside tool box cover and on top of rear axle, near top link mount.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "generator",
+          "&nbsp": "55 (alt)",
+          "Charging amps": "22 (gen)",
+          "Battery volts": "12",
+          "Battery AH": "128"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Industrial Tractors & Equipment Specifications 1969 published by Ford",
+          "__seccion_3__": "Buyer's Guide '73 published in 1973, by Ford",
+          "__seccion_4__": "8000, 8600, 9000 and 9600 Repair Time Schedule (SE 3410) published in 1973",
+          "__seccion_5__": "8000 published in 1968, by Ford",
+          "__seccion_6__": "Ford 8000 (SE 3096) published in 1968",
+          "__seccion_7__": "Ford Tractor Sales Handbook published in 1968"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 10, 2023",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1968 - 1972",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Ford 8000 Tires",
+          "Ag front": "10.00-16",
+          "&nbsp": "15.5-38",
+          "Ag rear": "23.1-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "108 inches (row crop) 274 cm",
+          "&nbsp": "26.7 inches (all purpose rear axle) 67 cm",
+          "Length": "154.8 inches (row crop) 393 cm",
+          "Width": "85 inches 215 cm",
+          "Operating weight": "9980 lbs 4526 kg",
+          "Ballasted weight": "15000 lbs 6804 kg",
+          "Ground clearance": "24 inches (row crop front axle) 60 cm",
+          "Rear axle": "3.375 inch diameter 85 mm"
+        },
+        {
+          "__seccion_1__": "Ford 8000 Height",
+          "Hood": "73 inches (row crop) 185 cm",
+          "&nbsp": "106 inches (all purpose) 269 cm",
+          "Exhaust": "104.6 inches (row crop) 265 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 10, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1968 - 1972",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 973: diesel 8-speed 2WD",
+          "__seccion_3__": "NTTL 1026: diesel 16-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 973"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 973",
+          "__seccion_2__": "Diesel 8-speed 2WD May 6 - 11, 1968 Link: Nebraska Tractor Test 973 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "105.74 hp 78.9 kW",
+          "Fuel use": "6.5 gal/hour 24.6 l/hour",
+          "Power at rated PTO speed": "94.43 hp 70.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "86.72 hp 64.7 kW",
+          "__seccion_5__": "Gear 3 used for power test.",
+          "Max pull": "11,502 lbs 5217 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1026"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1026",
+          "__seccion_2__": "Diesel 16-speed 2WD October 21 - 30, 1969 Link: Nebraska Tractor Test 1026 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "105.73 hp 78.8 kW",
+          "Fuel use": "6.8 gal/hour 25.7 l/hour",
+          "Power at rated PTO speed": "94.33 hp 70.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "92.61 hp 69.1 kW",
+          "__seccion_5__": "Gear 8 used for power test.",
+          "Max pull": "11,362 lbs 5153 kg",
+          "__seccion_6__": "Gear 2DD used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 10, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1968 - 1972",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "401 ci 6.6 L",
+          "Bore/Stroke": "4.40x4.40 inches 112 x 112 mm",
+          "Power": "115.5 hp 86.1 kW",
+          "Air cleaner": "dry",
+          "Compression": "16.5:1",
+          "Rated RPM": "2300",
+          "Torque": "283.5 lb-ft 384.4 Nm",
+          "Torque RPM": "1400",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Coolant capacity": "18 qts 17.0 L",
+          "Intake valve clearance": "0.015 inches (hot) 0.381 mm",
+          "Exhaust valve clearance": "0.018 inches (hot) 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "12 qts 11.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 10, 2023"
+        }
+      ]
+    }
+  }
+}

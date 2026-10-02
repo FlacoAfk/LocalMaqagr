@@ -1,0 +1,238 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/5/7/7570-john-deere-4052m.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/5/7/7570-john-deere-4052m-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/5/7/7570-john-deere-4052m-engine.html",
+    "source_id": 7570,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:00:03.631Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7570/7570-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 107 KB"
+  },
+  "tractor_data_id": 7570,
+  "name": "John Deere 4052M",
+  "brand": "John Deere",
+  "model": "4052M",
+  "years": {
+    "desde": 2009,
+    "hasta": 2014
+  },
+  "model_year": 2009,
+  "engine_power_hp": 50.8,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 40.8,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1710,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 15,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 44x18-20",
+  "tire_width_mm": 457,
+  "tire_diameter_mm": 1118,
+  "tire_front": {
+    "original": "27x10.50-15",
+    "radial": false,
+    "width_mm": 267,
+    "rim_in": 15,
+    "diameter_mm_est": 686,
+    "tipo": "Diagonal",
+    "texto": "27x10.50-15"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7570/7570-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7570/7570-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td7570.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2014 -",
+          "__seccion_2__": "4M Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Augusta, Georgia, USA",
+          "__seccion_4__": "The 4052M Heavy-Duty uses the same front axle as the 4052R."
+        },
+        {
+          "__seccion_1__": "Variants",
+          "4052M": "base model",
+          "4052R": "deluxe model",
+          "4052M HD": "heavy-duty front axle"
+        },
+        {
+          "__seccion_1__": "John Deere 4052M Engine",
+          "__seccion_2__": "Yanmar 2.1L 4-cyl diesel",
+          "Fuel tank": "13 gal 49.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4052M Transmissions",
+          "__seccion_2__": "12-speed power shuttle",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4052M Power",
+          "Engine (gross)": "50.8 hp 37.9 kW",
+          "Gear PTO (claimed)": "40.8 hp * Sales brochure lists 42.2 30.4 kW",
+          "Hydro PTO (claimed)": "39.1 hp * Sales brochure lists 41.2 29.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 4052M photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2500 psi 172.4 bar",
+          "Pump flow": "10.2 gpm 38.6 lpm",
+          "Total flow": "15.9 gpm 60.2 lpm",
+          "Steering flow": "5.7 gpm 21.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at ends)": "3130 lbs 1419 kg",
+          "Rear lift (at 24\"/610mm)": "2500 lbs 1134 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2600"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "73 inches 185 cm",
+          "Weight": "3770 lbs 1710 kg",
+          "Front tire": "8.00-16",
+          "Rear tire": "13.6-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4052M attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "4052M Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the 4052M tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "75",
+          "Battery CCA": "770",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "4 Family published in 2015, by John Deere",
+          "__seccion_3__": "4 Family published in 2017, by John Deere",
+          "__seccion_4__": "4 Series published in 2020, by John Deere",
+          "__seccion_5__": "4 Series published in 2023, by John Deere",
+          "__seccion_6__": "Operator's Manual 4 Series (OMTR11452) published in 2019 *",
+          "__seccion_7__": "Operator's Manual 4 Series (OMTR130411) published in 2023 *",
+          "__seccion_8__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 26, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2014 -",
+          "__seccion_2__": "4M Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 4052M Tires",
+          "Ag front": "8.00-16",
+          "Ag rear": "13.6-28",
+          "Lawn/turf front": "27x10.50-15",
+          "Lawn/turf rear": "44x18-20"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "73 inches 185 cm",
+          "Length": "130.6 inches 331 cm",
+          "Height (ROPS)": "100.2 inches 254 cm",
+          "Height (cab)": "97.4 inches 247 cm",
+          "Weight": "3770 lbs 1710 kg",
+          "Clearance (front axle)": "13.8 inches 35 cm",
+          "Front tread": "53.6 inches 136 cm",
+          "Rear tread": "59.9 inches 152 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 26, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2014 -",
+          "__seccion_2__": "4M Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Yanmar 4TNV86",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "127.5 ci 2.1 L",
+          "Bore/Stroke": "3.39x3.54 inches 86 x 90 mm",
+          "Emissions": "Tier IV",
+          "Emission control": "diesel particulate filter (DPF)",
+          "Rated Power (gross)": "50.8 hp 37.9 kW",
+          "Rated RPM": "2600",
+          "Torque": "124 lb-ft 168.1 Nm",
+          "Torque RPM": "1690",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 26, 2025"
+        }
+      ]
+    }
+  }
+}

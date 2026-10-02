@@ -1,0 +1,212 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/9/0/8904-new-holland-t465.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/9/0/8904-new-holland-t465-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/9/0/8904-new-holland-t465-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 8904,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:38:21.241Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8904/8904-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 112 KB"
+  },
+  "tractor_data_id": 8904,
+  "name": "New Holland T4.65",
+  "brand": "New Holland",
+  "model": "T4.65",
+  "years": {
+    "desde": 2015,
+    "hasta": 2017
+  },
+  "model_year": 2015,
+  "engine_power_hp": 64,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 50,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2830,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 18.3,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 16.9R30",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1492,
+  "tire_front": {
+    "original": "11.2R24",
+    "radial": true,
+    "width_mm": 284,
+    "rim_in": 24,
+    "diameter_mm_est": 1093,
+    "tipo": "Radial",
+    "texto": "11.2R24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F008/8904/8904-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F008/8904/8904-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td8904.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2015 - 2017",
+          "__seccion_2__": "T4 PowerStar Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "New Holland T4.65 Engine",
+          "__seccion_2__": "FPT 3.4L 4-cyl diesel",
+          "Fuel tank": "23.8 gal 90.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland T4.65 Transmission",
+          "__seccion_2__": "12-speed power shuttle",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland T4.65 Power",
+          "Engine (gross)": "64 hp 47.7 kW",
+          "PTO (claimed)": "50 hp 37.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland T4.65 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "2 or 3",
+          "Pump flow": "12.5 gpm 47.3 lpm",
+          "Steering flow": "9.5 gpm 36.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "top-link draft sensing",
+          "Rear lift (at ends)": "4832 lbs 2191 kg",
+          "Rear lift (at 24\"/610mm)": "3664 lbs 1661 kg",
+          "Rear Arms": "telescopic link ends"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "Engine RPM": "540@1958",
+          "&nbsp": "540E@1592"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "83.9 inches 213 cm",
+          "Weight": "6239 lbs 2830 kg",
+          "Front tire": "11.2R24",
+          "Rear tire": "16.9R30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "New Holland T4.65 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Powerstar Tractors published in 2016, by New Holland"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 14, 2024",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2015 - 2017",
+          "__seccion_2__": "T4 PowerStar Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "New Holland T4.65 Tires",
+          "Standard tires (ag)": "Front: 11.2R24. Rear: 16.9R30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "83.9 inches 213 cm",
+          "Length": "151 inches 383 cm",
+          "Width": "75.7 inches 192 cm",
+          "Height (cab)": "97.8 inches 248 cm",
+          "Weight": "6239 lbs 2830 kg",
+          "Max weight": "7338 lbs 3328 kg",
+          "__seccion_2__": "Flange rear axle"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 14, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2015 - 2017",
+          "__seccion_2__": "T4 PowerStar Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT F5D",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "207 ci 3.4 L",
+          "Bore/Stroke": "3.898x4.331 inches 99 x 110 mm",
+          "Emissions": "Tier IV",
+          "Emission control": "cooled exhaust-gas recirculation",
+          "Power (gross)": "64 hp 47.7 kW",
+          "Fuel system": "electronic high-pressure common rail direct injection",
+          "Rated RPM": "2300",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 14, 2024"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/2/3/5233-john-deere-7330.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/2/3/5233-john-deere-7330-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/2/3/5233-john-deere-7330-engine.html",
+    "source_id": 5233,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:44:49.488Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5233/5233-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 73 KB"
+  },
+  "tractor_data_id": 5233,
+  "name": "John Deere 7330",
+  "brand": "John Deere",
+  "model": "7330",
+  "years": {
+    "desde": 2007,
+    "hasta": 2011
+  },
+  "model_year": 2007,
+  "engine_power_hp": 150,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 125,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4898,
+  "weight_basis": "Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 45.9,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 18.4R38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "10.00-16",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 16,
+    "diameter_mm_est": 838,
+    "tipo": "Diagonal",
+    "texto": "10.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5233/5233-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5233/5233-photo-001.jpg",
+  "image_url": "/uploads/tractors/td5233.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "7030 Small-Frame Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "Factories": "Waterloo, Iowa, USA",
+          "&nbsp": "Mannheim, Baden-Württemberg, Germany",
+          "Original price": "$77,688 (2011)",
+          "__seccion_3__": "In the spring of 2011, production of the 7330 was moved from Waterloo to Mannheim. The 110-inch rear axle option was dropped at that time. The 7330 was available with ROPS or a basic cab. Upgraded hydraulics and hitch were optional with ROPS but upgraded systems with a cab were only available on the 7330 Premium."
+        },
+        {
+          "7330": "base tractor",
+          "__seccion_1__": "Variants",
+          "7330 Premium": "deluxe tractor",
+          "7330 Premium High-Crop": "high-clearance"
+        },
+        {
+          "__seccion_1__": "John Deere 7330 Engine",
+          "__seccion_2__": "John Deere 6.8L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7330 Transmissions",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "20-speed partial power shift",
+          "__seccion_4__": "32-speed partial power shift",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7330 Power",
+          "Engine (gross)": "150 hp 111.9 kW",
+          "PTO (claimed)": "125 hp 93.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 MFWD 4WD (optional)",
+          "Steering": "hydrostatic power",
+          "__seccion_2__": "Differential hydraulic wet disc brakes",
+          "__seccion_3__": "Two-post Roll-Gard ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 7330 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "66 gal 249.8 L",
+          "Hydraulic system": "13.7 gal 51.9 L",
+          "Front axle": "8.8 qts 8.3 L",
+          "Front hubs": "1.6 qts 1.5 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "constant flow load sensing",
+          "&nbsp": "29 gpm (optional ROPS) 109.8 lpm",
+          "Capacity": "13.7 gal 51.9 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "21.1 gpm 79.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "&nbsp": "8,200 lbs (3N/2) 3719 kg",
+          "Control": "position control",
+          "Rear lift (at 24\"/610mm)": "8,800 lbs (II) 3991 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000",
+          "Engine RPM": "540@1995",
+          "&nbsp": "1000@1995"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "104.3 inches 264 cm",
+          "Weight": "10800 to 12965 pounds",
+          "Front tire": "10.00-16",
+          "Rear tire": "18.4R38 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "7330 Serial Number Location",
+          "__seccion_2__": "Right side of main frame above front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging volts": "14",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "6030 and 7030 Series Tractors published in 2007, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2021",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "7030 Small-Frame Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 7330 Tires",
+          "Standard tires (ag)": "Front: 10.00-16. Rear: 18.4R38 (2WD)",
+          "&nbsp": "Front: 14.9R28. Rear: 18.4R38 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "104.3 inches 264 cm",
+          "Length": "187.3 inches 475 cm",
+          "Width": "65.5 inches (flange axle) 166 cm",
+          "Clearance (front axle)": "21.6 inches (2WD) 54 cm",
+          "&nbsp": "23 inches (4WD) 58 cm",
+          "Clearance (rear axle)": "28.2 inches 71 cm",
+          "Clearance (drawbar)": "19 inches 48 cm",
+          "Rear axle": "3.385 by 110.5 inches 85 by 2806 mm (optional long bar)",
+          "Front tread": "77 to 101 inches 195 to 256 cm (2WD)",
+          "Rear tread": "60 to 88 inches 152 to 223 cm (bar)"
+        },
+        {
+          "__seccion_1__": "John Deere 7330 Weight",
+          "Shipping": "10,800 lbs (2WD) 4898 kg",
+          "&nbsp": "15,650 lbs (4WD with loader) 7098 kg",
+          "Max capacity": "23,150 lbs 10500 kg",
+          "Max Drawbar": "4,960 lbs 2249 kg",
+          "Max front axle": "4,520 lbs (2WD) 2050 kg",
+          "Max rear axle": "16,535 lbs 7500 kg"
+        },
+        {
+          "__seccion_1__": "John Deere 7330 Height",
+          "ROPS": "115.2 inches 292 cm",
+          "&nbsp": "90.8 inches (folded) 230 cm",
+          "Cab": "114.4 inches 290 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "7030 Small-Frame Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 6068HRW74",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "6-cylinder 12-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "414.4 ci 6.8 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Rated Power (gross)": "150 hp 111.9 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "17.0:1",
+          "Rated RPM": "2100",
+          "Idle RPM": "850-2250",
+          "Operating RPM": "1500-2100",
+          "Torque": "507 lb-ft 687.5 Nm",
+          "Torque RPM": "1500",
+          "Firing order": "1-5-3-6-2-4",
+          "Oil capacity": "20.8 qts 19.7 L",
+          "Coolant capacity": "32.8 qts (ROPS) 31.0 L",
+          "&nbsp": "35.6 qts (cab) 33.7 L",
+          "Intake valve clearance": "0.014 inches 0.356 mm",
+          "Exhaust valve clearance": "0.018 inches 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2021"
+        }
+      ]
+    }
+  }
+}

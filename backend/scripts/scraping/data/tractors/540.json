@@ -1,0 +1,244 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/5/4/540-ji-case-4890.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/5/4/540-ji-case-4890-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/5/4/540-ji-case-4890-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/5/4/540-ji-case-4890-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 540,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:07:33.013Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/540/540-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 39 KB"
+  },
+  "tractor_data_id": 540,
+  "name": "J.I. Case 4890",
+  "brand": "J.I. Case",
+  "model": "4890",
+  "years": {
+    "desde": 1979,
+    "hasta": 1983
+  },
+  "model_year": 1979,
+  "engine_power_hp": 300,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 253,
+  "pto_tested_hp": 253.41,
+  "drawbar_tested_hp": 218.68,
+  "weight_kg": 11680,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 122.9,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 20.8-34",
+  "tire_width_mm": 528,
+  "tire_diameter_mm": 1762,
+  "tire_front": {
+    "original": "20.8-34",
+    "radial": false,
+    "width_mm": 528,
+    "rim_in": 34,
+    "diameter_mm_est": 1762,
+    "tipo": "Diagonal",
+    "texto": "20.8-34"
+  },
+  "fuel_consumption_lph": 58.7,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/540/540-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/540/540-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td540.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1979 - 1983",
+          "__seccion_2__": "4WD 90 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA",
+          "Total built": "2,716",
+          "__seccion_4__": "Original price was $100,000 in 1983"
+        },
+        {
+          "__seccion_1__": "J.I. Case 4890 Engine",
+          "__seccion_2__": "Saab-Scania 11.0L 6-cyl diesel",
+          "Fuel tank": "150 gal 567.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 4890 Transmission",
+          "__seccion_2__": "12-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 4890 Power",
+          "Engine": "300 hp 223.7 kW",
+          "Drawbar (claimed)": "224 hp 167.0 kW",
+          "PTO (claimed)": "253 hp 188.7 kW",
+          "Drawbar (tested)": "218.68 hp 163.1 kW",
+          "PTO (tested)": "253.41 hp 189.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x4 4WD",
+          "Steering": "hydraulic, front, rear or four-wheel crab steering",
+          "__seccion_2__": "Hydraulic dry disc brakes",
+          "__seccion_3__": "Silent Guardian cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "J.I. Case 4890 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center PFC",
+          "Pressure": "2250 psi 155.1 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "24 gpm 90.8 lpm",
+          "Total flow": "31 gpm 117.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Rear lift (at 24\"/610mm)": "12,750 lbs 5783 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "110 inches 279 cm",
+          "Weight": "25,750 lbs 11680 kg",
+          "Front tire": "18.4-34",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "72",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "4890 Tractor published in 1979, by J.I. Case",
+          "__seccion_3__": "The most advanced design 4-wheel drive tractors Case ever built published in 1979, by J.I. Case",
+          "__seccion_4__": "The new look in farm power published in 1981, by J.I. Case",
+          "__seccion_5__": "Power for all-season productivity published in 1982, by J.I. Case",
+          "__seccion_6__": "The Tractor Specialist Buyers Guide published in 1983, by J.I. Case",
+          "__seccion_7__": "The Tractor Specialist Buyers Guide published in 1984, by J.I. Case"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 18, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1979 - 1983",
+          "__seccion_2__": "4WD 90 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "J.I. Case 4890 Tires",
+          "Ag front": "20.8-34",
+          "Ag rear": "20.8-34",
+          "&nbsp": "30.5-32"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "110 inches 279 cm",
+          "Length": "243 inches 617 cm",
+          "Width": "99 inches 251 cm",
+          "Operating weight": "25,750 lbs 11680 kg",
+          "Ballasted weight": "28,460 lbs 12909 kg",
+          "Ground clearance": "18 inches 45 cm",
+          "Front tread": "74 to 94 inches 187 to 238 cm",
+          "Rear tread": "74 to 94 inches 187 to 238 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 18, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1979 - 1983",
+          "__seccion_2__": "4WD 90 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1330"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1330",
+          "__seccion_2__": "Diesel 12-speed 4WD October 22 - 29, 1979 Link: Nebraska Tractor Test 1330 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "253.41 hp 189.0 kW",
+          "Fuel use": "15.4 gal/hour 58.3 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "218.68 hp 163.1 kW",
+          "__seccion_5__": "Gear 8 used for power test.",
+          "Max pull": "27,627 lbs 12531 kg",
+          "__seccion_6__": "Gear 1I used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 18, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1979 - 1983",
+          "__seccion_2__": "4WD 90 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Saab-Scania",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "674 ci 11.0 L",
+          "Bore/Stroke": "5.00x5.71 inches 127 x 145 mm",
+          "Power": "300 hp 223.7 kW",
+          "Compression": "14.7:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12",
+          "Oil capacity": "28.4 qts 26.9 L",
+          "Coolant capacity": "44 qts 41.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 18, 2022"
+        }
+      ]
+    }
+  }
+}

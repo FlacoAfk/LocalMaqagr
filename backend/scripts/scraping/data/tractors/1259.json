@@ -1,0 +1,229 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/2/5/1259-kubota-b1550.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/2/5/1259-kubota-b1550-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/2/5/1259-kubota-b1550-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1259,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:49:54.982Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1259/1259-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 147 KB"
+  },
+  "tractor_data_id": 1259,
+  "name": "Kubota B1550",
+  "brand": "Kubota",
+  "model": "B1550",
+  "years": {
+    "desde": 1988,
+    "hasta": 1997
+  },
+  "model_year": 1988,
+  "engine_power_hp": 17,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 14,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 610,
+  "weight_basis": "4WD gear Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 5.1,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 8-16",
+  "tire_width_mm": 203,
+  "tire_diameter_mm": 752,
+  "tire_front": {
+    "original": "6-12",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 12,
+    "diameter_mm_est": 564,
+    "tipo": "Diagonal",
+    "texto": "6-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1259/1259-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1259/1259-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1259.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1988 - 1997",
+          "__seccion_2__": "B Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota B1550 Engine",
+          "__seccion_2__": "Kubota 0.9L 3-cyl diesel",
+          "Fuel tank": "4.8 gal 18.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B1550 Transmissions",
+          "__seccion_2__": "6-speed gear",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B1550 Power",
+          "Engine (gross)": "17 hp 12.7 kW",
+          "Gear PTO (claimed)": "14 hp 10.4 kW",
+          "Hydro PTO (claimed)": "12.5 hp 9.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "Steering": "manual",
+          "&nbsp": "power optional",
+          "__seccion_3__": "Dry disc brakes",
+          "__seccion_4__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota B1550 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "5.5 gpm 20.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift": "827 lbs 375 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Gear Rear PTO": "transmission",
+          "Hydro Rear PTO": "live",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "2455@2517",
+          "&nbsp": "858@2517",
+          "Mid PTO": "live * Mid PTO is linked with the rear PTO.",
+          "Mid PTO Type": "2455 (Kubota 10 tooth)",
+          "Front PTO": "optional"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "57.9 inches 147 cm",
+          "Weight": "1224 to 1389 pounds",
+          "Front tire": "5.00-10",
+          "2WD Rear tire": "8-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota B1550 attachments",
+          "__seccion_2__": "48\" mid-mount mower deck",
+          "__seccion_3__": "54\" mid-mount mower deck",
+          "__seccion_4__": "60\" mid-mount mower deck",
+          "__seccion_5__": "front-end loader",
+          "__seccion_6__": "backhoe",
+          "__seccion_7__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Backhoes published in 1992, by Kubota",
+          "__seccion_3__": "Backhoes published in 1994, by Kubota",
+          "__seccion_4__": "Mid-Mount Mowers B/L Series published in 1994, by Kubota *",
+          "__seccion_5__": "Front Loaders published in 1988, by Kubota",
+          "__seccion_6__": "Front Loaders B, L and M-Series published in 1994, by Kubota *",
+          "__seccion_7__": "B1550/B1750/B2150 published in 1989, by Kubota",
+          "__seccion_8__": "B1550HST B1750HST (66417-62914) published in 2002",
+          "__seccion_9__": "Product Catalog published in 1990, by Kubota",
+          "__seccion_10__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 25, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1988 - 1997",
+          "__seccion_2__": "B Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota B1550 Tires",
+          "2WD Standard tires (ag)": "Front: 5.00-10. Rear: 8-16",
+          "4WD Standard tires (ag)": "Front: 6-12. Rear: 8-16"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "57.9 inches 147 cm",
+          "Length": "101 inches 256 cm",
+          "Width": "39 inches 99 cm",
+          "Height": "73.7 inches 187 cm",
+          "__seccion_2__": "Flange rear axle",
+          "2WD Front tread": "28 inches 71 cm",
+          "4WD Front tread": "31.3 inches 79 cm",
+          "Rear tread": "31 to 35.8 inches 78 to 90 cm"
+        },
+        {
+          "__seccion_1__": "Kubota B1550 Weight",
+          "2WD gear Shipping": "1224 lbs 555 kg",
+          "4WD gear Shipping": "1345 lbs 610 kg",
+          "2WD hydro Shipping": "1257 lbs 570 kg",
+          "4WD hydro Shipping": "1389 lbs 630 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 25, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1988 - 1997",
+          "__seccion_2__": "B Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "52.2 ci 0.9 L",
+          "Bore/Stroke": "2.835x2.756 inches 72 x 70 mm",
+          "Power (gross)": "17 hp 12.7 kW",
+          "Rated RPM": "2600",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 25, 2023"
+        }
+      ]
+    }
+  }
+}

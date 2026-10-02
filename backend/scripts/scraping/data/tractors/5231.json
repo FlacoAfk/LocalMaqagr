@@ -1,0 +1,318 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/2/3/5231-john-deere-7130.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/2/3/5231-john-deere-7130-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/2/3/5231-john-deere-7130-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/2/3/5231-john-deere-7130-engine.html",
+    "source_id": 5231,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:44:43.171Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5231/5231-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 50 KB"
+  },
+  "tractor_data_id": 5231,
+  "name": "John Deere 7130",
+  "brand": "John Deere",
+  "model": "7130",
+  "years": {
+    "desde": 2007,
+    "hasta": 2011
+  },
+  "model_year": 2007,
+  "engine_power_hp": 125,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 100,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 94.11,
+  "weight_kg": 4380,
+  "weight_basis": "Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 36.7,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 18.4R38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "10.00-16",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 16,
+    "diameter_mm_est": 838,
+    "tipo": "Diagonal",
+    "texto": "10.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5231/5231-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5231/5231-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td5231.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "7030 Small-Frame Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany",
+          "__seccion_4__": "The basic Deere 7130 was available a basic cab or open-operator station with ROPS. Upgraded hydraulics and hitch were optional on open-operator station models. Upgraded systems with a cab were only available on the 7130 Premium."
+        },
+        {
+          "7130": "base tractor",
+          "__seccion_1__": "Variants",
+          "7130 Premium": "deluxe tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 7130 Engines",
+          "__seccion_2__": "John Deere 6.8L 6-cyl diesel",
+          "__seccion_3__": "John Deere 4.5L 4-cyl diesel",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7130 Transmissions",
+          "__seccion_2__": "12-speed full synchro shift",
+          "__seccion_3__": "16-speed full synchro shift",
+          "__seccion_4__": "16-speed partial power shift",
+          "__seccion_5__": "24-speed partial power shift",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7130 Power",
+          "Engine (gross)": "125 hp 93.2 kW",
+          "PTO (claimed)": "100 hp 74.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 MFWD 4WD (optional)",
+          "Steering": "hydrostatic power",
+          "__seccion_2__": "Differential hydraulic wet disc brakes",
+          "__seccion_3__": "Two-post Roll-Gard ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 7130 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "54.7 gal 207.0 L",
+          "&nbsp": "15.9 gal 60.2 L",
+          "Hydraulic system": "13.7 gal 51.9 L",
+          "Front axle": "8.8 qts 8.3 L",
+          "Front hubs": "1.6 qts 1.5 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "constant flow load sensing",
+          "&nbsp": "29 gpm (optional with ROPS) 109.8 lpm",
+          "Capacity": "13.7 gal 51.9 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "1 to 4",
+          "Pump flow": "21.1 gpm 79.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position control",
+          "&nbsp": "electronic lower-link (optional with ROPS)",
+          "Rear lift (at 24\"/610mm)": "5,915 lbs 2683 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "106.3 inches (2WD) 270 cm",
+          "&nbsp": "104.3 inches 264 cm",
+          "Weight": "9657 to 12340 pounds",
+          "Front tire": "10.00-16",
+          "Rear tire": "18.4R38 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "7130 Serial Number Location",
+          "__seccion_2__": "Right side of main frame above front axle"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "90",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "6030 and 7030 Series Tractors published in 2007, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2021",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "7030 Small-Frame Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 7130 Tires",
+          "Standard tires (ag)": "Front: 10.00-16. Rear: 18.4R38 (2WD)",
+          "&nbsp": "Front: 14.9R24. Rear: 18.4R38 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "106.3 inches (2WD) 270 cm",
+          "&nbsp": "23 inches (4WD) 58 cm",
+          "Length": "187.3 inches 475 cm",
+          "Width": "65.5 inches (flange axle ends) 166 cm",
+          "Clearance (front axle)": "21.6 inches (2WD) 54 cm",
+          "Clearance (rear axle)": "28.2 inches 71 cm",
+          "Clearance (drawbar)": "19 inches 48 cm",
+          "Rear axle": "3.1 by 100.6 inches 78 by 2555 mm (optional bar)",
+          "Front tread": "59.4 to 88 inches 150 to 223 cm (4WD)",
+          "Rear tread": "63.5 to 72.5 inches 161 to 184 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 7130 Weight",
+          "Shipping": "9,657 lbs (2WD) 4380 kg",
+          "&nbsp": "14,505 lbs (4WD with loader) 6579 kg",
+          "Operating": "12,340 lbs 5597 kg",
+          "Max capacity": "18,740 lbs 8500 kg",
+          "Max Drawbar": "4,960 lbs 2249 kg",
+          "Max front axle": "4,520 lbs (2WD) 2050 kg",
+          "Max rear axle": "14,330 lbs 6500 kg"
+        },
+        {
+          "__seccion_1__": "John Deere 7130 Height",
+          "ROPS": "115.2 inches 292 cm",
+          "&nbsp": "90.8 inches (folded) 230 cm",
+          "Cab": "114.4 inches 290 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "Tractors > John Deere > 7130"
+        },
+        {
+          "Tractors: -Farm Tractors -Lawn Tractors -Compare tractors -Brand search: \" onClick=\"tdMfGo()\" class=\"mfsbutt\"/> Classifieds -Tractors for sale -Place free ad Sections: -Articles/News -Tractor Shows -Store": "John Deere 7130 - tests 7030 Small-Frame Series",
+          "__seccion_1__": "Row-Crop tractor",
+          "Larger:": "John Deere 7230",
+          "__seccion_2__": "more John Deere 7130 specifications..."
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1921:",
+          "Nebraska summary:": "591",
+          "Test Date:": "March 26 - April 29, 2008",
+          "Type:": "PowrQuad Plus 4WD",
+          "Engine:": "diesel",
+          "PTO power (max):": "117.50 hp [87.6 kW]",
+          "PTO fuel use (max):": "7.1 gal/hour [26.9 l/hour]",
+          "PTO power (rated engine speed):": "101.98 hp [76.0 kW]",
+          "PTO fuel use (engine speed):": "6.7 gal/hour [25.4 l/hour]",
+          "PTO power (rated PTO speed):": "109.04 hp [81.3 kW]",
+          "PTO fuel use (PTO speed):": "6.6 gal/hour [25.0 l/hour]",
+          "Drawbar power (max):": "94.11 hp [70.2 kW]",
+          "Drawbar fuel use (max):": "6.7 gal/hour [25.4 l/hour]",
+          "Drawbar pull (max):": "9,352 lbs [4242 kg]",
+          "Max pull gear:": "B1",
+          "Test report:": "PDF file",
+          "__seccion_2__": "Page information:",
+          "Last update:": "February 28, 2011",
+          "Copyright:": "Copyright 2011 TractorData LLC",
+          "Contact:": "Peter@TractorData.com"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "7030 Small-Frame Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "John Deere 6.8L 6-cyl diesel",
+          "__seccion_3__": "John Deere 4.5L 4-cyl diesel"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 6068HL280",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder 12-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "414.4 ci 6.8 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Tier III",
+          "Rated Power (gross)": "121 hp 90.2 kW",
+          "Air cleaner": "dual paper elements",
+          "Rated RPM": "2300",
+          "Idle RPM": "850-2460",
+          "Operating RPM": "1600-2300",
+          "Torque": "358 lb-ft 485.4 Nm",
+          "Torque RPM": "1500",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Starter power": "4 hp 3.0 kW",
+          "Oil capacity": "20.8 qts 19.7 L",
+          "Intake valve clearance": "0.014 inches 0.356 mm",
+          "Exhaust valve clearance": "0.018 inches 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech E 4045HL288",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder 8-valve",
+          "__seccion_5__": "liquid-cooled",
+          "__seccion_6__": "The Deere 7130 switched to a four-cylinder engine with the 2010 model year.",
+          "Displacement": "276 ci 4.5 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Tier III",
+          "Rated Power (gross)": "125 hp 93.2 kW",
+          "Fuel system": "high-pressure common rail",
+          "Air cleaner": "dual paper elements",
+          "Compression": "19:1",
+          "Rated RPM": "2300",
+          "Idle RPM": "850-2460",
+          "Operating RPM": "1600-2300",
+          "Torque": "372 lb-ft 504.4 Nm",
+          "Torque RPM": "1600",
+          "Firing order": "1-3-4-2",
+          "Starter volts": "12",
+          "Starter power": "4 hp 3.0 kW",
+          "Oil capacity": "16.8 qts 15.9 L",
+          "Intake valve clearance": "0.014 inches 0.356 mm",
+          "Exhaust valve clearance": "0.018 inches 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2021"
+        }
+      ]
+    }
+  }
+}

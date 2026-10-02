@@ -1,0 +1,171 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/3/6/3362-zetor-6911.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/3/6/3362-zetor-6911-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/3/6/3362-zetor-6911-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3362,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:51:13.733Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3362/3362-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 35 KB"
+  },
+  "tractor_data_id": 3362,
+  "name": "Zetor 6911",
+  "brand": "Zetor",
+  "model": "6911",
+  "years": {
+    "desde": 1977,
+    "hasta": 1980
+  },
+  "model_year": 1977,
+  "engine_power_hp": 65,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2950,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 23.8,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-36",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1450,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F003/3362/3362-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3362/3362-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td3362.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1977 - 1980",
+          "__seccion_2__": "UR1 9 Series Series"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Zetor"
+        },
+        {
+          "6911": "2WD",
+          "6945": "4WD",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Zetor 6911 Engine",
+          "__seccion_2__": "Zetor 3.6L 4-cyl diesel",
+          "Fuel tank": "17.7 gal 67.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 6911 Transmission",
+          "__seccion_2__": "10-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 6911 Power",
+          "Engine": "65 hp 48.5 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Zetor 6911 photos..."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear lift": "3,859 lbs 1750 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "89 inches 226 cm",
+          "Weight": "6,504 lbs 2950 kg",
+          "Front tire": "7.50-16",
+          "Rear tire": "12.4-36",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 18, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1977 - 1980",
+          "__seccion_2__": "UR1 9 Series Series"
+        },
+        {
+          "__seccion_1__": "Zetor 6911 Tires",
+          "Ag front": "7.50-16",
+          "Ag rear": "12.4-36"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "89 inches 226 cm",
+          "Length": "146 inches 370 cm",
+          "Weight": "6,504 lbs 2950 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 18, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1977 - 1980",
+          "__seccion_2__": "UR1 9 Series Series"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Zetor Z6901",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "219.4 ci 3.6 L",
+          "Bore/Stroke": "4.02x4.33 inches 102 x 110 mm",
+          "Power": "65 hp 48.5 kW",
+          "Rated RPM": "2200",
+          "Torque": "46.1 lb-ft 62.5 Nm",
+          "Torque RPM": "1500"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 18, 2021"
+        }
+      ]
+    }
+  }
+}

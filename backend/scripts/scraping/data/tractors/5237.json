@@ -1,0 +1,266 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/2/3/5237-john-deere-9430.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/2/3/5237-john-deere-9430-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/2/3/5237-john-deere-9430-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/2/3/5237-john-deere-9430-engine.html",
+    "source_id": 5237,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:45:02.366Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5237/5237-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 57 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 5237,
+  "name": "John Deere 9430",
+  "brand": "John Deere",
+  "model": "9430",
+  "years": {
+    "desde": 2007,
+    "hasta": 2011
+  },
+  "model_year": 2007,
+  "engine_power_hp": 425,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 320,
+  "pto_tested_hp": 383.62,
+  "drawbar_tested_hp": 343.05,
+  "weight_kg": 16492,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 196.3,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 84,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5237/5237-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5237/5237-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td5237.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "9030 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA"
+        },
+        {
+          "9630": "wheeled",
+          "__seccion_1__": "Variants",
+          "9430T": "crawler"
+        },
+        {
+          "__seccion_1__": "John Deere 9430 Engine",
+          "__seccion_2__": "John Deere 13.5L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 9430 Transmissions",
+          "__seccion_2__": "24-speed partial power shift",
+          "__seccion_3__": "18-speed full power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 9430 Power",
+          "Engine": "425 hp 316.9 kW",
+          "PTO (claimed)": "320 hp 238.6 kW",
+          "Drawbar (tested)": "343.05 hp 255.8 kW",
+          "PTO (tested)": "383.62 hp 286.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "hydraulic differential lock optional",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet discs brakes",
+          "Trailer brakes": "hydraulic optional",
+          "__seccion_4__": "CommandView Cab standard with air-conditioning. Optional automatic climate control and leather trim."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 9430 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "350 gal 1324.8 L",
+          "Hydraulic system": "27 gal 102.2 L",
+          "&nbsp": "31 gal (high-flow and 3-point) 117.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed-center pressure and flow compensating",
+          "Capacity": "27 gal 102.2 L",
+          "&nbsp": "31 gal (high-flow and 3-point) 117.3 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "4 to 6",
+          "SCV flow": "30 gpm 113.6 lpm",
+          "PowrSync Total flow": "44 gpm 166.5 lpm",
+          "PowerShift Total flow": "48 gpm 181.7 lpm",
+          "Hi-Flow Total flow": "78 gpm 295.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "4N/3",
+          "&nbsp": "4N/4",
+          "Rear lift (at 24\"/610mm)": "15,300 lbs 6940 kg",
+          "Drawbar": "Catergory 4 standard with secondary chain support. Optional reinforcement up to 11,000 pounds. Optional 12,000 pounds Catergory 5 drawbar, not available with 3-point hitch or PTO."
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent (optional)",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "1000 (1.75)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "36359 to 38600 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "9430 Serial Number Location",
+          "__seccion_2__": "Rear-left of tractor hinge frame on early models. Right side of tractor frame, ahead of front axle, on late models."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "200",
+          "Batteries": "2",
+          "Battery CCA": "950",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "New 9030 Series Tractors published in 2007, by John Deere",
+          "__seccion_3__": "9230, 9330, 9430, 9530 and 9630 Tractors (OMAR283034) published in 2009",
+          "__seccion_4__": "9230, 9330, 9430, 9530 and 9630 Tractors (OMRE325893) published in 2011"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2021",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "9030 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 9430 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Length": "270 inches 685 cm",
+          "&nbsp": "285 inches (with 3-point) 723 cm",
+          "Width": "118.6 inches 301 cm",
+          "Shipping weight": "36359 lbs 16492 kg",
+          "Operating weight": "38600 lbs * Weight with 480/80R46 triples. 17508 kg",
+          "Hinge pin Ground clearance": "20.5 inches 52 cm",
+          "Clearance (rear axle)": "30.8 inches 78 cm",
+          "Rear axle": "4.331 by 120 inches 110 by 3048 mm"
+        },
+        {
+          "__seccion_1__": "John Deere 9430 Height",
+          "Hood": "107 inches 271 cm",
+          "Cab": "142 inches 360 cm",
+          "Exhaust": "156 inches 396 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "9030 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1942"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1942",
+          "__seccion_2__": "Diesel 18-speed 4WD October 10 - November 5, 2008 Link: OCED Tractor Test 1942 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "343.05 hp 255.8 kW",
+          "Fuel use": "22.0 gal/hour 83.3 l/hour",
+          "Power at rated engine speed": "337.90 hp 252.0 kW",
+          "Power at rated PTO speed": "378.62 hp 282.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 8 used for power test.",
+          "Max pull": "44,141 lbs 20022 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "9030 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "826.7 ci 13.5 L",
+          "Bore/Stroke": "5.197x6.496 inches 132 x 165 mm",
+          "Emissions": "Tier III",
+          "Power": "425 hp 316.9 kW",
+          "Air cleaner": "aspirator and dual paper elemnts",
+          "Compression": "16.0:1",
+          "Rated RPM": "2100",
+          "Starter volts": "12",
+          "Coolant capacity": "70 qts 66.2 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "44 qts 41.6 L"
+        },
+        {
+          "__seccion_1__": "John Deere 9430 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2021"
+        }
+      ]
+    }
+  }
+}

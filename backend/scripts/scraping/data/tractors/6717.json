@@ -1,0 +1,298 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/7/1/6717-john-deere-8360r.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/7/1/6717-john-deere-8360r-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/006/7/1/6717-john-deere-8360r-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/7/1/6717-john-deere-8360r-engine.html",
+    "source_id": 6717,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:50:31.105Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6717/6717-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 55 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 6717,
+  "name": "John Deere 8360R",
+  "brand": "John Deere",
+  "model": "8360R",
+  "years": {
+    "desde": 2011,
+    "hasta": 2013
+  },
+  "model_year": 2011,
+  "engine_power_hp": 360,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 305,
+  "pto_tested_hp": 355.36,
+  "drawbar_tested_hp": 279.15,
+  "weight_kg": 12346,
+  "weight_basis": "Operating",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 121.9,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "420/85R34",
+    "radial": true,
+    "width_mm": 420,
+    "rim_in": 34,
+    "diameter_mm_est": 1578,
+    "tipo": "Radial",
+    "texto": "420/85R34"
+  },
+  "fuel_consumption_lph": 72.7,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F006/6717/6717-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6717/6717-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td6717.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "8R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "Original price": "$296,312 (2011)",
+          "__seccion_4__": "Three-point hitch capacity on the John Deere 8360R increased by four-hundred pounds for the 2012 model year."
+        },
+        {
+          "__seccion_1__": "Variants",
+          "8360R": "wheeled tractor",
+          "8360RT": "tracked tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8360R Engine",
+          "__seccion_2__": "John Deere 9.0L 6-cyl diesel",
+          "Fuel tank": "183.6 gal 694.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8360R Transmission",
+          "__seccion_2__": "infinitely variable transmission (IVT)",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8360R Power",
+          "Engine (gross)": "360 hp 268.5 kW",
+          "Engine (max)": "396 hp 295.3 kW",
+          "PTO (claimed)": "305 hp 227.4 kW",
+          "Drawbar (tested)": "279.15 hp 208.2 kW",
+          "PTO (tested)": "355.36 hp 265.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "front and rear lock",
+          "Steering": "hydrostatic power",
+          "&nbsp": "ActiveCommand Steering optional (ACS)",
+          "__seccion_3__": "Differential hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic and air optional",
+          "__seccion_4__": "CommandView II cab standard with heat and air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 8360R photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure-flow compensated",
+          "Pressure": "2900 psi 200.0 bar",
+          "Rear valves": "3 to 5",
+          "Pump flow": "35 gpm 132.5 lpm",
+          "Total flow": "60 gpm 227.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "4N/3",
+          "Rear lift (at 24\"/610mm)": "18,300 lbs (2011) 8300 kg",
+          "&nbsp": "12,300 lbs 5579 kg",
+          "Front Hitch": "3N/2 (optional)",
+          "Front lift (at ends)": "8,800 lbs 3991 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (1-3/4)",
+          "&nbsp": "540 (1-3/8 optional)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "118.9 inches 302 cm",
+          "Weight": "27218 to 30252 pounds",
+          "Front tire": "420/85R34",
+          "Rear tire": "480/80R50",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8360R attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "200",
+          "Batteries": "2",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operator's Manual 8235R, 8260R, 8285R, 8310R, 8335R and 8360R Tractors (OMRE317037) published in 2011",
+          "__seccion_3__": "Operator's Manual 8235R, 8260R, 8285R, 8310R, 8335R and 8360R Tractors (OMRE564172) published in 2013"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 26, 2021",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "8R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8360R Tires",
+          "Ag front": "420/85R34",
+          "Ag rear": "480/80R50"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "118.9 inches 302 cm",
+          "Length": "243.9 inches 619 cm",
+          "&nbsp": "20.1 inches (ILS) 51 cm",
+          "Width": "96 inches (axle) 243 cm",
+          "Height (cab)": "138.9 inches 352 cm",
+          "Clearance (front axle)": "23.5 inches (1500) 59 cm",
+          "Clearance (rear axle)": "26.3 inches 66 cm",
+          "Clearance (drawbar)": "13.9 inches 35 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 8360R Weight",
+          "Operating": "27,218 lbs 12346 kg",
+          "&nbsp": "30,252 lbs (ILS) 13722 kg",
+          "Max capacity": "39,683 lbs 18000 kg",
+          "Max front axle": "17,637 lbs 8000 kg",
+          "Max rear axle": "25,353 lbs 11500 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 26, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "8R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "OECD 1991: diesel IVT 4WD",
+          "__seccion_3__": "OECD 1991A: diesel IVT 4WD"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1991"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1991",
+          "__seccion_2__": "Diesel IVT 4WD April 20 - May 5, 2011 Link: OCED Tractor Test 1991 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "279.15 hp 208.2 kW",
+          "Fuel use": "17.6 gal/hour 66.6 l/hour",
+          "Power at rated engine speed": "321.84 hp 240.0 kW",
+          "Power at rated PTO speed": "346.28 hp 258.2 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Pull at 9 kph",
+          "Max pull": "27,396 lbs 12426 kg",
+          "__seccion_6__": "Pull at 6 kph"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1991A"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1991A",
+          "__seccion_2__": "Diesel IVT 4WD April 20 - May 5, 2011 Link: OCED Tractor Test 1991A file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "279.15 hp 208.2 kW",
+          "Fuel use": "17.6 gal/hour 66.6 l/hour",
+          "Power at rated engine speed": "321.84 hp 240.0 kW",
+          "Power at rated PTO speed": "346.28 hp 258.2 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Pull at 9 kph",
+          "Max pull": "27,396 lbs 12426 kg",
+          "__seccion_6__": "Pull at 6 kph"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 26, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "8R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech PSX",
+          "__seccion_3__": "dual turbochargers diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "__seccion_6__": "Optional Intelligent Power Management (IPM) provides a 35HP increase at rated speed.",
+          "Displacement": "548 ci 9.0 L",
+          "Bore/Stroke": "4.66x5.35 inches 118 x 136 mm",
+          "Emissions": "Interim Tier IV",
+          "&nbsp": "500 h (JD Plus-50 II oil)",
+          "Emission control": "exhaust gas recirculation (EGR)",
+          "Rated Power (gross)": "360 hp 268.5 kW",
+          "Maximum Power (gross)": "396 hp 295.3 kW",
+          "Air cleaner": "dual stage",
+          "Pre-heating": "ether (optional)",
+          "Compression": "16:1",
+          "Rated RPM": "2100",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "29.5 qts 27.9 L",
+          "Oil change": "250 h",
+          "Coolant capacity": "43.3 qts 41.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 26, 2021"
+        }
+      ]
+    }
+  }
+}

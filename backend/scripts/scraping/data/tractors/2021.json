@@ -1,0 +1,202 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/002/0/2/2021-fiat-180-90.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/002/0/2/2021-fiat-180-90-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/002/0/2/2021-fiat-180-90-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 2021,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:15:27.745Z",
+    "foto_original": "https://www.tractordata.com/photos/F002/2021/2021-td4-b01-ext270.jpg",
+    "foto_calidad": "webp 800px/q55 → 24 KB"
+  },
+  "tractor_data_id": 2021,
+  "name": "Fiat 180-90",
+  "brand": "Fiat",
+  "model": "180 90",
+  "years": {
+    "desde": 1984,
+    "hasta": 1994
+  },
+  "model_year": 1984,
+  "engine_power_hp": 180,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 6890,
+  "weight_basis": "4WD Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 66,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F002/2021/2021-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F002/2021/2021-td4-b01-ext270.jpg",
+  "image_url": "/uploads/tractors/td2021.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1984 - 1994",
+          "__seccion_2__": "90 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Fiat",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "180-90": "similar Hesston model"
+        },
+        {
+          "__seccion_1__": "Fiat 180-90 Engine",
+          "__seccion_2__": "Fiat-Iveco 8.1L 6-cyl diesel",
+          "Fuel tank": "74 gal 280.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 180-90 Transmissions",
+          "__seccion_2__": "24-speed partial power shift",
+          "__seccion_3__": "16-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 180-90 Power",
+          "Engine": "180 hp 134.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with available air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Fiat 180-90 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Pump flow": "14.5 gpm 54.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "14650 lbs 6645 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "dry",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "116.7 inches 296 cm",
+          "4WD Wheelbase": "112.7 inches 286 cm",
+          "Weight": "13955 to 15190 pounds",
+          "Front tire": "11.00-16",
+          "2WD Rear tire": "20.8-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Battery volts": "12",
+          "Battery AH": "176"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "180-90 turbo published by Fiat"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 9, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1984 - 1994",
+          "__seccion_2__": "90 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Fiat 180-90 Tires",
+          "2WD Standard tires (ag)": "Front: 11.00-16. Rear: 20.8-38",
+          "4WD Standard tires (ag)": "Front: 16.9/14-28. Rear: 20.8/8-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "116.7 inches 296 cm",
+          "4WD Wheelbase": "112.7 inches 286 cm",
+          "2WD Length": "184.8 inches 469 cm",
+          "4WD Length": "177.6 inches 451 cm",
+          "2WD Operating weight": "13955 lbs 6329 kg",
+          "4WD Operating weight": "15190 lbs 6890 kg"
+        },
+        {
+          "__seccion_1__": "Fiat 180-90 Height",
+          "Steering wheel": "86.2 inches 218 cm",
+          "Hood": "71.3 inches 181 cm",
+          "ROPS": "109.7 inches 278 cm",
+          "Cab": "112.2 inches 284 cm",
+          "Exhaust": "116.5 inches 295 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 9, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1984 - 1994",
+          "__seccion_2__": "90 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Fiat-Iveco 8365.25",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "494.4 ci 8.1 L",
+          "Bore/Stroke": "4.53x5.12 inches 115 x 130 mm",
+          "Power": "180 hp 134.2 kW",
+          "Fuel system": "direct injection",
+          "Pre-heating": "thermostart",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "19.3 qts 18.3 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 9, 2024"
+        }
+      ]
+    }
+  }
+}

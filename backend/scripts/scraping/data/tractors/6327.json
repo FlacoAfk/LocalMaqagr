@@ -1,0 +1,197 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/3/2/6327-new-holland-tj280.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/3/2/6327-new-holland-tj280-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/3/2/6327-new-holland-tj280-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 6327,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:28:54.252Z"
+  },
+  "tractor_data_id": 6327,
+  "name": "New Holland TJ280",
+  "brand": "New Holland",
+  "model": "TJ280",
+  "years": {
+    "desde": 2006,
+    "hasta": 2007
+  },
+  "model_year": 2006,
+  "engine_power_hp": 280,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 280,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 17962,
+  "weight_basis": "Max weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 102.7,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 20.8R42",
+  "tire_width_mm": 528,
+  "tire_diameter_mm": 1965,
+  "tire_front": {
+    "original": "20.8R42",
+    "radial": true,
+    "width_mm": 528,
+    "rim_in": 42,
+    "diameter_mm_est": 1965,
+    "tipo": "Radial",
+    "texto": "20.8R42"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": null,
+  "photo_url_large": null,
+  "image_url": null,
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2006 - 2007",
+          "__seccion_2__": "TJ II Series"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Built in Fargo, North Dakota, USA"
+        },
+        {
+          "__seccion_1__": "New Holland TJ280 Engine",
+          "__seccion_2__": "CNH 8.3L 6-cyl diesel",
+          "Fuel tank": "200 gal 757.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TJ280 Transmissions",
+          "__seccion_2__": "16-speed full power shift",
+          "__seccion_3__": "24-speed full synchro shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TJ280 Power",
+          "Engine": "280 hp 208.8 kW",
+          "PTO (claimed)": "280 hp 208.8 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Integral hydraulic wet disc brakes",
+          "__seccion_4__": "Cab standard with heat and air-conditioning"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the New Holland TJ280 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing (CCLS)",
+          "Pressure": "2000 psi 137.9 bar",
+          "Valves": "4 to 9",
+          "Pump flow": "33 gpm 124.9 lpm",
+          "Total flow": "40 gpm 151.4 lpm",
+          "&nbsp": "90 gpm (optional MegaFlow) 340.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IVN/III (optional)",
+          "Rear lift (at 24\"/610mm)": "15,669 lbs 7107 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (optional)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "139 inches 353 cm",
+          "Front tire": "20.8R42",
+          "Rear tire": "20.8R42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "150",
+          "&nbsp": "175 (optional)",
+          "Batteries": "2",
+          "Battery volts": "12",
+          "Battery AH": "1000"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 27, 2011",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2006 - 2007",
+          "__seccion_2__": "TJ II Series"
+        },
+        {
+          "__seccion_1__": "New Holland TJ280 Tires",
+          "Ag front": "20.8R42",
+          "Ag rear": "20.8R42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "139 inches 353 cm",
+          "Length": "276 inches 701 cm",
+          "Height": "142 inches 360 cm",
+          "Max weight": "39,600 lbs 17962 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 27, 2011"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2006 - 2007",
+          "__seccion_2__": "TJ II Series"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CNH",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "506.5 ci 8.3 L",
+          "Bore/Stroke": "4.488x5.315 inches 114 x 135 mm",
+          "Power": "280 hp 208.8 kW",
+          "Maximum Power": "308 hp 229.7 kW",
+          "Rated RPM": "2000",
+          "Torque": "1003 lb-ft 1360.1 Nm",
+          "Torque RPM": "1400",
+          "Starter": "electric",
+          "Starter volts": "24",
+          "Oil capacity": "25.4 qts 24.0 L",
+          "Coolant capacity": "45.6 qts 43.2 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 27, 2011"
+        }
+      ]
+    }
+  }
+}

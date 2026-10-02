@@ -1,0 +1,211 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/3/9/3396-ji-case-15-27.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/3/9/3396-ji-case-15-27-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/3/9/3396-ji-case-15-27-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/3/9/3396-ji-case-15-27-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3396,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:07:58.766Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3396/3396-photo-001.jpg",
+    "foto_calidad": "webp 800px/q55 → 60 KB"
+  },
+  "tractor_data_id": 3396,
+  "name": "J.I. Case 15-27",
+  "brand": "J.I. Case",
+  "model": "15 27",
+  "years": {
+    "desde": 1919,
+    "hasta": 1924
+  },
+  "model_year": 1919,
+  "engine_power_hp": 27,
+  "engine_power_source": "belt_claimed (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 21.81,
+  "weight_kg": 2930,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 15.3,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 52x14",
+  "tire_width_mm": 1321,
+  "tire_diameter_mm": 2601,
+  "tire_front": {
+    "original": "32x6",
+    "radial": false,
+    "width_mm": 813,
+    "rim_in": 6,
+    "diameter_mm_est": 1534,
+    "tipo": "Diagonal",
+    "texto": "32x6 steel"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F003/3396/3396-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3396/3396-photo-001.jpg",
+  "image_url": "/uploads/tractors/td3396.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1919 - 1924",
+          "__seccion_2__": "Crossmotor Series",
+          "__seccion_3__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Standard-tread tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA",
+          "Total built": "17,628"
+        },
+        {
+          "__seccion_1__": "J.I. Case 15-27 Engine",
+          "__seccion_2__": "J.I. Case 6.3L 4-cyl kerosene",
+          "Fuel tank": "20 gal 75.7 L",
+          "Aux. fuel": "2.75 gal 10.4 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 15-27 Transmission",
+          "__seccion_2__": "2-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 15-27 Power",
+          "Drawbar (claimed)": "15 hp 11.2 kW",
+          "Belt (claimed)": "27 hp 20.1 kW",
+          "Plows": "3",
+          "Drawbar (tested)": "21.81 hp 16.3 kW",
+          "Belt (tested)": "31.23 hp 23.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "manual",
+          "__seccion_3__": "Open operator station. Optional canopy."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "J.I. Case 15-27 photos..."
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission (optional)",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "6,460 lbs 2930 kg",
+          "Front tire": "32x6",
+          "Rear tire": "52x14",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Belt Pulley",
+          "Diameter": "16 inches 40 cm",
+          "Width": "6.5 inches 16 cm",
+          "RPM": "900",
+          "Speed": "3,762 ft/min 1146.66 meters/min"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Instructions on Operation and Care of the CASE 15-27 Tractor published in 1922",
+          "__seccion_3__": "Power Farming Machinery published in 1919, by J.I. Case"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 5, 2013"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1919 - 1924",
+          "__seccion_2__": "Crossmotor Series",
+          "__seccion_3__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "J.I. Case 15-27 Tires",
+          "Ag front": "32x6 steel",
+          "Ag rear": "52x14 steel"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Length": "127 inches 322 cm",
+          "Width": "72 inches 182 cm",
+          "Height": "68 inches 172 cm",
+          "Weight": "6,460 lbs 2930 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 5, 2013"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1919 - 1924",
+          "__seccion_2__": "Crossmotor Series",
+          "__seccion_3__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 4",
+          "__seccion_2__": "Kerosene 2-speed 2WD April 2 - 30, 1920 Link: Nebraska Tractor Test 4 file",
+          "Belt power (max)": "31.23 hp 23.3 kW",
+          "Belt fuel use (max)": "3.2 gal/hour 12.1 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "21.81 hp 16.3 kW",
+          "Max pull": "3,440 lbs 1560 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 5, 2013"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1919 - 1924",
+          "__seccion_2__": "Crossmotor Series",
+          "__seccion_3__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "J.I. Case",
+          "__seccion_3__": "kerosene",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "381.7 ci 6.3 L",
+          "Bore/Stroke": "4.50x6.00 inches 114 x 152 mm",
+          "Rated RPM": "900",
+          "Starter type": "hand-crank",
+          "Coolant capacity": "44 qts 41.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 5, 2013"
+        }
+      ]
+    }
+  }
+}

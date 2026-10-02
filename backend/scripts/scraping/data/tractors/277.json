@@ -1,0 +1,294 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/7/277-ford-7600.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/7/277-ford-7600-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/2/7/277-ford-7600-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/7/277-ford-7600-engine.html",
+    "source_id": 277,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:11:21.487Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/277/277-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 51 KB"
+  },
+  "tractor_data_id": 277,
+  "name": "Ford 7600",
+  "brand": "Ford",
+  "model": "7600",
+  "years": {
+    "desde": 1975,
+    "hasta": 1981
+  },
+  "model_year": 1975,
+  "engine_power_hp": 96.7,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 84,
+  "pto_tested_hp": 84.79,
+  "drawbar_tested_hp": 65.33,
+  "weight_kg": 2531,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 34.6,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 15.5-38",
+  "tire_width_mm": 394,
+  "tire_diameter_mm": 1634,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": 20.4,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/277/277-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/277/277-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td277.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Original price was $13,300 in 1981"
+        },
+        {
+          "7600": "utility chassis",
+          "7700": "row-crop chassis",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Ford 7600 Engines",
+          "__seccion_2__": "Ford 4.2L 4-cyl diesel",
+          "__seccion_3__": "Ford 4.4L 4-cyl diesel",
+          "Fuel tank": "20 gal (main) 75.7 L",
+          "&nbsp": "16 gal (auxiliary) 60.6 L",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 7600 Transmissions",
+          "__seccion_2__": "16-speed two-speed power shift",
+          "__seccion_3__": "8-speed gear",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 7600 Power",
+          "Engine (gross)": "96.7 hp 72.1 kW",
+          "Engine (net)": "91 hp 67.9 kW",
+          "PTO (claimed)": "84 hp 62.6 kW",
+          "Drawbar (tested)": "65.33 hp 48.7 kW",
+          "PTO (tested)": "84.79 hp 63.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential wet disc brakes",
+          "__seccion_5__": "Open operator station. Two-post fixed ROPS available. Cab optional with available heat and air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 7600 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2100 psi 144.8 bar",
+          "Pump flow": "9.7 gpm 36.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position and draft control",
+          "Rear lift (at 24\"/610mm)": "4435 lbs 2011 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@1900",
+          "&nbsp": "1000@1900"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "88 inches 223 cm",
+          "Weight": "5580 to 7440 pounds",
+          "Front tire": "7.50-16",
+          "Rear tire": "16.9-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 7600 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1975": "C450700",
+          "1976": "C490300",
+          "1977": "C527300",
+          "1978": "C560500",
+          "1979": "C595800",
+          "1980": "C635700",
+          "1981": "C660700",
+          "__seccion_1__": "7600 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "51",
+          "Battery volts": "12",
+          "Battery AH": "128"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "7600 published in 1975, by Ford",
+          "__seccion_3__": "7600 published in 1976, by Ford",
+          "__seccion_4__": "7600 published in 1977, by Ford",
+          "__seccion_5__": "Blue Power Specials published in 1980, by Ford",
+          "__seccion_6__": "Ford now offer tractors from 37 to 295 horsepower published in 1979 *",
+          "__seccion_7__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on January 6, 2026",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Ford 7600 Tires",
+          "Ag front": "7.50-16",
+          "Ag rear": "16.9-30",
+          "&nbsp": "15.5-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "88 inches 223 cm",
+          "Length": "145.3 inches 369 cm",
+          "Width": "73.2 inches * With over fender with factory cab. 185 cm",
+          "Height (hood)": "68.5 inches 173 cm",
+          "Height (cab)": "106.6 inches 270 cm",
+          "Clearance (front axle)": "18.2 inches 46 cm",
+          "&nbsp": "24 inches * Optional high-clearance front axle. 60 cm",
+          "Front tread": "52.5 to 80.5 inches 133 to 204 cm",
+          "Rear tread": "66 to 90 inches 167 to 228 cm (power-adjust)"
+        },
+        {
+          "__seccion_1__": "Ford 7600 Weight",
+          "Shipping": "5580 lbs 2531 kg",
+          "Operating": "7440 lbs (with cab) 3374 kg",
+          "Ballasted": "10760 lbs 4880 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 6, 2026"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1225"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1225",
+          "__seccion_2__": "Diesel 16-speed 2WD September 22 - October 8, 1976 Link: Nebraska Tractor Test 1225 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "84.79 hp 63.2 kW",
+          "Fuel use": "5.3 gal/hour 20.1 l/hour",
+          "Power at rated PTO speed": "85.16 hp 63.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "65.33 hp 48.7 kW",
+          "__seccion_5__": "Gear 8 used for power test.",
+          "Max pull": "7,779 lbs 3528 kg",
+          "__seccion_6__": "Gear 5 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 6, 2026"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Ford 4.2L 4-cyl diesel",
+          "__seccion_3__": "Ford 4.4L 4-cyl diesel"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "256 ci 4.2 L",
+          "Bore/Stroke": "4.4094x4.2126 inches 112 x 107 mm",
+          "Power (net)": "91 hp 67.9 kW",
+          "Power (gross)": "96.7 hp 72.1 kW",
+          "Air cleaner": "paper element with precleaner",
+          "Compression": "15.6:1",
+          "Rated RPM": "2100",
+          "Torque": "272 lb-ft 368.8 Nm",
+          "Torque RPM": "1600",
+          "Starter volts": "12",
+          "Oil capacity": "9 qts 8.5 L",
+          "Coolant capacity": "14 qts 13.2 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "__seccion_6__": "The larger Blue Power Special engine was available in 1981 only. Advertised power performance was the same as the 4.2L.",
+          "Displacement": "267.9 ci 4.4 L",
+          "Bore/Stroke": "4.4094x4.4094 inches 112 x 112 mm",
+          "Rated RPM": "2100"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 6, 2026"
+        }
+      ]
+    }
+  }
+}

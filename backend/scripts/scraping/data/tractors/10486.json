@@ -1,0 +1,209 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/4/8/10486-massey-ferguson-4455.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/4/8/10486-massey-ferguson-4455-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/4/8/10486-massey-ferguson-4455-engine.html",
+    "source_id": 10486,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:51:13.914Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10486/10486-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 10486,
+  "name": "Massey Ferguson 4455",
+  "brand": "Massey Ferguson (a part of AGCO)",
+  "model": "ferguson 4455",
+  "years": {
+    "desde": 2004,
+    "hasta": 2011
+  },
+  "model_year": 2004,
+  "engine_power_hp": 99.9,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3680,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 36.7,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 16.9R34",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1593,
+  "tire_front": {
+    "original": "13.6R24",
+    "radial": true,
+    "width_mm": 345,
+    "rim_in": 24,
+    "diameter_mm_est": 1197,
+    "tipo": "Radial",
+    "texto": "13.6R24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F010/10486/10486-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td10486.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2004 - 2011",
+          "__seccion_2__": "4400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson (a part of AGCO)",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4455 Engine",
+          "__seccion_2__": "SISU 4.4L 4-cyl diesel",
+          "Fuel tank": "18.5 gal 70.0 L",
+          "&nbsp": "25.1 gal Opt Optional 95.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4455 Transmission",
+          "__seccion_2__": "12-speed mechanical shuttle",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4455 Power",
+          "Engine": "99.9 hp 74.5 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WDl 4x4 MFWD 4WD",
+          "__seccion_2__": "Power steering",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic",
+          "__seccion_4__": "Cab standard with heat. Air-conditioning optional. Two-post ROPS platform model available."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 4455 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Pressure": "2756 psi 190.0 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "14.5 gpm 54.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position control and top-link draft sensing",
+          "Rear lift (at ends)": "7275 lbs 3299 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "mechanical",
+          "&nbsp": "1000@2074",
+          "Rear PTO Type": "540/1000",
+          "Engine RPM": "540@1890"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "88.2 inches 224 cm",
+          "4WD Wheelbase": "94.1 inches 239 cm",
+          "Weight": "7606 to 8113 pounds",
+          "Front tire": "10.00-16",
+          "2WD Rear tire": "16.9R34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF 4400 published in 2004, by Massey Ferguson",
+          "__seccion_3__": "MF 4400 published in 2009, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 5, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2004 - 2011",
+          "__seccion_2__": "4400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4455 Tires",
+          "2WD Standard tires (ag)": "Front: 10.00-16. Rear: 16.9R34",
+          "4WD Standard tires (ag)": "Front: 13.6R24. Rear: 16.9R34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "88.2 inches 224 cm",
+          "4WD Wheelbase": "94.1 inches 239 cm",
+          "2WD Length": "155.9 inches 395 cm",
+          "4WD Length": "159.8 inches 405 cm",
+          "Width": "85.8 inches 217 cm",
+          "Height (cab)": "106.3 inches (standard) 270 cm",
+          "&nbsp": "100 inches (low-profile) 254 cm",
+          "2WD Weight": "7606 lbs 3450 kg",
+          "4WD Weight": "8113 lbs 3680 kg",
+          "2WD Front tread": "55.5 to 63.4 inches 140 to 161 cm",
+          "4WD Front tread": "51.2 to 71.5 inches 130 to 181 cm",
+          "Rear tread": "55.5 to 83.1 inches 140 to 211 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 5, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2004 - 2011",
+          "__seccion_2__": "4400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "SISU 44DTA",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "268.5 ci 4.4 L",
+          "Bore/Stroke": "4.25x4.72 inches 108 x 120 mm",
+          "Power": "99.9 hp 74.5 kW",
+          "Air cleaner": "dry",
+          "Rated RPM": "2270",
+          "Torque": "265 lb-ft 359.3 Nm",
+          "Torque RPM": "1400",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 5, 2020"
+        }
+      ]
+    }
+  }
+}

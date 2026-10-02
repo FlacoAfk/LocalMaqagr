@@ -1,0 +1,204 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/1/2/3127-new-holland-tj425.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/1/2/3127-new-holland-tj425-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/1/2/3127-new-holland-tj425-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3127,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:24:03.535Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3127/3127-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 3127,
+  "name": "New Holland TJ425",
+  "brand": "New Holland",
+  "model": "TJ425",
+  "years": {
+    "desde": 2002,
+    "hasta": 2005
+  },
+  "model_year": 2002,
+  "engine_power_hp": 425,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 370,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": null,
+  "weight_basis": null,
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 135.7,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 18.4R46",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1963,
+  "tire_front": {
+    "original": "18.4R46",
+    "radial": true,
+    "width_mm": 467,
+    "rim_in": 46,
+    "diameter_mm_est": 1963,
+    "tipo": "Radial",
+    "texto": "18.4R46"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3127/3127-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td3127.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2002 - 2005",
+          "__seccion_2__": "TJ I Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Fargo, North Dakota, USA"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "STX425": "similar CaseIH model"
+        },
+        {
+          "__seccion_1__": "New Holland TJ425 Engine",
+          "__seccion_2__": "Cummins 14.9L 6-cyl diesel",
+          "Fuel tank": "300 gal 1135.5 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TJ425 Transmissions",
+          "__seccion_2__": "16-speed full power shift",
+          "__seccion_3__": "24-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TJ425 Power",
+          "Engine": "425 hp 316.9 kW",
+          "PTO (claimed)": "370 hp 275.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x4 articualted 4WD",
+          "Final drives": "inboard planetary",
+          "__seccion_2__": "Hydraulic wet disc brakes",
+          "__seccion_3__": "Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the New Holland TJ425 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing",
+          "Rear valves": "4 to 7",
+          "SCV flow": "35 gpm 132.5 lpm",
+          "Total flow": "40 gpm 151.4 lpm",
+          "&nbsp": "90 gpm Opt Optional 340.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IVN/III",
+          "Rear lift (at 24\"/610mm)": "19500 lbs 8845 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent Opt Optional",
+          "Rear PTO Type": "1000 (1.75)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "154 inches 391 cm",
+          "Front tire": "18.4R46",
+          "Rear tire": "18.4R46",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "135",
+          "Battery CCA": "1000",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "TJ 4WD Tractors published in 2001, by New Holland"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 21, 2024",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2002 - 2005",
+          "__seccion_2__": "TJ I Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "New Holland TJ425 Tires",
+          "Ag front": "18.4R46",
+          "Ag rear": "18.4R46"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "154 inches 391 cm",
+          "Length": "317.5 inches 806 cm",
+          "Height": "152.1 inches 386 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 21, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2002 - 2005",
+          "__seccion_2__": "TJ I Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Cummins QSX 15",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "__seccion_6__": "When equipped with the manual transmission the TJ425 is limited to 1500 lb-ft of torque.",
+          "Displacement": "912 ci 14.9 L",
+          "Bore/Stroke": "5.39x6.65 inches 137 x 169 mm",
+          "Power": "425 hp 316.9 kW",
+          "Rated RPM": "2000",
+          "Torque": "1594 lb-ft 2161.5 Nm",
+          "Oil capacity": "52 qts 49.2 L",
+          "Coolant capacity": "21.1 qts 20.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 21, 2024"
+        }
+      ]
+    }
+  }
+}

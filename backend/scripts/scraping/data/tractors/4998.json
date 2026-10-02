@@ -1,0 +1,229 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/004/9/9/4998-john-deere-3050.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/004/9/9/4998-john-deere-3050-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/004/9/9/4998-john-deere-3050-engine.html",
+    "source_id": 4998,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:43:54.760Z",
+    "foto_original": "https://www.tractordata.com/photos/F004/4998/4998-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 43 KB"
+  },
+  "tractor_data_id": 4998,
+  "name": "John Deere 3050",
+  "brand": "John Deere",
+  "model": "3050",
+  "years": {
+    "desde": 1986,
+    "hasta": 1993
+  },
+  "model_year": 1986,
+  "engine_power_hp": 90.7,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 84.3,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4859,
+  "weight_basis": "4WD",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 30.9,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "13.6x28",
+    "radial": false,
+    "width_mm": 345,
+    "rim_in": 28,
+    "diameter_mm_est": 1298,
+    "tipo": "Diagonal",
+    "texto": "13.6x28"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F004/4998/4998-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F004/4998/4998-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td4998.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1986 - 1993",
+          "__seccion_2__": "3050 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany"
+        },
+        {
+          "__seccion_1__": "John Deere 3050 Engine",
+          "__seccion_2__": "John Deere 5.9L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3050 Transmission",
+          "__seccion_2__": "16-speed two-speed power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3050 Power",
+          "Engine": "90.7 hp 67.6 kW",
+          "PTO (claimed)": "84.3 hp 62.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "SG2 Cab standard with optional air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 3050 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "32 gal 121.1 L",
+          "&nbsp": "13.74 gal (4WD) 52.0 L",
+          "Hydraulic system": "12.94 gal (2WD) 49.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed-center constant pressure",
+          "Capacity": "12.94 gal (2WD) 49.0 L",
+          "&nbsp": "13.74 gal (4WD) 52.0 L",
+          "Pressure": "2698 psi 186.0 bar",
+          "Total flow": "11.62 gpm 44.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/IIIN",
+          "Control": "position and draft control",
+          "2WD Rear lift (at ends)": "8988 lbs 4076 kg",
+          "4WD Rear lift (at ends)": "10800 lbs 4898 kg",
+          "Front Hitch": "II",
+          "Front lift": "3594 lbs 1630 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "540/1000",
+          "Engine RPM": "1000@2172",
+          "&nbsp": "1000@2172",
+          "Front PTO": "independent",
+          "Front PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "100.4 inches 255 cm",
+          "4WD Wheelbase": "101.8 inches 258 cm",
+          "Weight": "9149 to 10714 pounds",
+          "Front tire": "11.00x16",
+          "Rear tire": "18.4x38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging amps": "55",
+          "Batteries": "2",
+          "Battery volts": "12",
+          "Battery AH": "88"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 6, 2021",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1986 - 1993",
+          "__seccion_2__": "3050 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 3050 Tires",
+          "Ag front": "14.9x26",
+          "&nbsp": "13.6x28 (4WD)",
+          "Ag rear": "521/70x38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "100.4 inches 255 cm",
+          "4WD Wheelbase": "101.8 inches 258 cm",
+          "Length": "184.1 inches 467 cm",
+          "Width": "85.4 inches 216 cm",
+          "Height": "113.4 inches 288 cm",
+          "4WD Ground clearance": "20 inches 50 cm",
+          "2WD Ground clearance": "27 inches 68 cm",
+          "2WD Front tread": "56.9 to 82.4 inches 144 to 209 cm",
+          "4WD Front tread": "59.8 to 79.1 inches 151 to 200 cm",
+          "Rear tread": "59.1 to 78.7 inches 150 to 199 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 3050 Weight",
+          "2WD": "9149 lbs 4149 kg",
+          "4WD": "10714 lbs 4859 kg",
+          "4WD Max capacity": "16534 lbs 7499 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 6, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1986 - 1993",
+          "__seccion_2__": "3050 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 6359 DL008",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "359 ci 5.9 L",
+          "Bore/Stroke": "4.193x4.331 inches 107 x 110 mm",
+          "Power": "90.7 hp 67.6 kW",
+          "Compression": "17.4:1",
+          "Rated RPM": "2300",
+          "Torque": "250.8 lb-ft 340.1 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12",
+          "Starter power": "4 hp 3.0 kW",
+          "Oil capacity": "12.15 qts 11.5 L",
+          "Coolant capacity": "20.08 qts 19.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 6, 2021"
+        }
+      ]
+    }
+  }
+}

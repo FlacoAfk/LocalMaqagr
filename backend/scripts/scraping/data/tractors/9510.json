@@ -1,0 +1,227 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/009/5/1/9510-caseih-5120.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/009/5/1/9510-caseih-5120-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/009/5/1/9510-caseih-5120-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 9510,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:53:16.030Z",
+    "foto_original": "https://www.tractordata.com/photos/F009/9510/9510-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 9510,
+  "name": "CaseIH 5120 Maxxum",
+  "brand": "CaseIH",
+  "model": "5120 Maxxum",
+  "years": {
+    "desde": 1990,
+    "hasta": 1997
+  },
+  "model_year": 1990,
+  "engine_power_hp": 94,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 77,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4700,
+  "weight_basis": "4WD Cab Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 28.3,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 16.9R38",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1695,
+  "tire_front": {
+    "original": "13.6R28",
+    "radial": true,
+    "width_mm": 345,
+    "rim_in": 28,
+    "diameter_mm_est": 1298,
+    "tipo": "Radial",
+    "texto": "13.6R28"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F009/9510/9510-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td9510.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1990 - 1997",
+          "__seccion_2__": "Maxxum Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Neuss, Germany"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "5120HC": "high clearance"
+        },
+        {
+          "__seccion_1__": "CaseIH 5120 Engine",
+          "__seccion_2__": "CDC 3.9L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 5120 Transmissions",
+          "__seccion_2__": "16-speed power shuttle",
+          "__seccion_3__": "16-speed four-speed power shift",
+          "__seccion_4__": "24-speed creeper",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 5120 Power",
+          "Engine": "94 hp 70.1 kW",
+          "PTO (claimed)": "77 hp 57.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH 5120 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "44.9 gal 169.9 L",
+          "Hydraulic system": "20.1 gal 76.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Capacity": "20.1 gal 76.1 L",
+          "Pressure": "2756 psi 190.0 bar",
+          "Pump flow": "20.7 gpm 78.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "electro-hydraulic lower-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "7700 lbs 3492 kg",
+          "Front Hitch": "II Opt Optional",
+          "Front lift (at 24\"/610mm)": "5200 lbs 2358 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@1870",
+          "&nbsp": "1000@2200"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "94.3 inches 239 cm",
+          "4WD Wheelbase": "92.3 inches 234 cm",
+          "Weight": "8620 to 10362 pounds",
+          "Front tire": "13.6R28",
+          "Rear tire": "16.9R38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "65",
+          "Battery volts": "12",
+          "Battery AH": "105"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 16, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1990 - 1997",
+          "__seccion_2__": "Maxxum Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH 5120 Tires",
+          "Standard tires (ag)": "Front: 13.6R28. Rear: 16.9R38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "94.3 inches 239 cm",
+          "4WD Wheelbase": "92.3 inches 234 cm",
+          "Length": "165.9 inches 421 cm",
+          "Width": "86.8 inches 220 cm",
+          "Height (cab)": "106.1 inches 269 cm",
+          "Ground clearance": "18.4 inches 46 cm",
+          "__seccion_2__": "Flange rear axle",
+          "__seccion_3__": "Bar rear axle",
+          "Front tread": "60 to 88 inches 152 to 223 cm",
+          "Rear tread": "60 to 100 inches 152 to 254 cm (bar axle)"
+        },
+        {
+          "__seccion_1__": "CaseIH 5120 Weight",
+          "2WD ROPS Shipping": "8620 lbs 3910 kg",
+          "4WD Cab Shipping": "10362 lbs 4700 kg",
+          "Max capacity": "16535 lbs 7500 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 16, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1990 - 1997",
+          "__seccion_2__": "Maxxum Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CDC 4 TA 390",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "239.3 ci 3.9 L",
+          "Bore/Stroke": "4.02x4.72 inches 102 x 120 mm",
+          "Power": "94 hp 70.1 kW",
+          "Fuel system": "direct injection",
+          "Compression": "16.5:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "850-2355",
+          "Torque": "261.1 lb-ft 354.1 Nm",
+          "Torque RPM": "1500",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "11 qts 10.4 L",
+          "Coolant capacity": "18.6 qts 17.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 16, 2023"
+        }
+      ]
+    }
+  }
+}

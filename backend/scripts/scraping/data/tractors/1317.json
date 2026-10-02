@@ -1,0 +1,270 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/3/1/1317-kubota-m5030.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/3/1/1317-kubota-m5030-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/3/1/1317-kubota-m5030-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/3/1/1317-kubota-m5030-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1317,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:52:58.563Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1317/1317-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 58 KB"
+  },
+  "tractor_data_id": 1317,
+  "name": "Kubota M5030",
+  "brand": "Kubota",
+  "model": "M5030",
+  "years": {
+    "desde": 1986,
+    "hasta": 1996
+  },
+  "model_year": 1986,
+  "engine_power_hp": 54,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 49,
+  "pto_tested_hp": 49.77,
+  "drawbar_tested_hp": 41.27,
+  "weight_kg": 2259,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 26.7,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 14.9-28",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1355,
+  "tire_front": {
+    "original": "9.5-22",
+    "radial": false,
+    "width_mm": 241,
+    "rim_in": 22,
+    "diameter_mm_est": 969,
+    "tipo": "Diagonal",
+    "texto": "9.5-22"
+  },
+  "fuel_consumption_lph": 11.4,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1317/1317-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1317/1317-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td1317.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1986 - 1996",
+          "__seccion_2__": "M30 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "The Kubota M5030 was available in both utility and low-profile chassis."
+        },
+        {
+          "__seccion_1__": "Variants",
+          "M5030F": "2WD",
+          "M5030DT": "4WD"
+        },
+        {
+          "__seccion_1__": "Kubota M5030 Engine",
+          "__seccion_2__": "Kubota 2.8L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M5030 Transmission",
+          "__seccion_2__": "16-speed partially synchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M5030 Power",
+          "Engine": "54 hp 40.3 kW",
+          "Drawbar (claimed)": "42 hp 31.3 kW",
+          "PTO (claimed)": "49 hp 36.5 kW",
+          "Drawbar (tested)": "41.27 hp 30.8 kW",
+          "PTO (tested)": "49.77 hp 37.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "standard",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential mechanical wet disc brakes",
+          "__seccion_5__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota M5030 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "16.9 gal 64.0 L",
+          "2WD Hydraulic system": "12.7 gal 48.1 L",
+          "4WD Hydraulic system": "14.9 gal 56.4 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "2WD Capacity": "12.7 gal 48.1 L",
+          "4WD Capacity": "14.9 gal 56.4 L",
+          "Pressure": "2630 psi 181.3 bar",
+          "Valves": "1",
+          "Total flow": "11 gpm 41.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift (at ends)": "3968 lbs 1799 kg",
+          "Rear lift (at 24\"/610mm)": "3,307 lbs 1500 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "78.7 inches 199 cm",
+          "4WD Wheelbase": "79.1 inches 200 cm",
+          "Weight": "4188 to 4982 pounds",
+          "Front tire": "6.00-16",
+          "2WD Rear tire": "14.9-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota M5030 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "M5030 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the left side of the transmission housing."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Front Loaders published in 1988, by Kubota",
+          "__seccion_3__": "Front Loaders B, L and M-Series published in 1994, by Kubota *",
+          "__seccion_4__": "Product Catalog published in 1990, by Kubota",
+          "__seccion_5__": "M30 Series - Utility/Agri/Low Profile published in 1986, by Kubota",
+          "__seccion_6__": "M30 Series - Utility-Agri/Low Profile/Narrow/Mudder published in 1991, by Kubota",
+          "__seccion_7__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 11, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1986 - 1996",
+          "__seccion_2__": "M30 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M5030 Tires",
+          "2WD Standard tires (ag)": "Front: 6.00-16. Rear: 14.9-28",
+          "4WD Standard tires (ag)": "Front: 9.5-22. Rear: 14.9-28",
+          "&nbsp": "Front: 9.00-10. Rear: 18.4-16 (2WD Low Profile)",
+          "2WD Optional tires (ag)": "Front: 6.50-16. Rear: 16.9-28",
+          "4WD Optional tires (ag)": "Front: 9.5-22. Rear: 16.9-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "78.7 inches 199 cm",
+          "4WD Wheelbase": "79.1 inches 200 cm",
+          "2WD Length": "135 inches 342 cm",
+          "4WD Length": "138.1 inches 350 cm",
+          "Width": "74.9 inches 190 cm",
+          "&nbsp": "14.4 inches (4WD Low Profile) 36 cm",
+          "2WD Weight": "4188 lbs 1899 kg",
+          "4WD Weight": "4982 lbs 2259 kg",
+          "2WD Ground clearance": "18.9 inches 48 cm",
+          "4WD Ground clearance": "17.3 inches 43 cm",
+          "2WD Front tread": "55.1 to 78.7 inches 139 to 199 cm",
+          "4WD Front tread": "52.4 to 59.8 inches 133 to 151 cm",
+          "Rear tread": "59.9 to 75.6 inches 152 to 192 cm"
+        },
+        {
+          "__seccion_1__": "Kubota M5030 Height",
+          "Hood": "56.1 inches 142 cm",
+          "&nbsp": "53.1 inches (Low Profile) 134 cm",
+          "Exhaust": "89.7 inches 227 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 11, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1986 - 1996",
+          "__seccion_2__": "M30 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1595"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1595",
+          "__seccion_2__": "Diesel 16-speed 4WD May 12 - 22, 1986 Link: Nebraska Tractor Test 1595 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "49.77 hp 37.1 kW",
+          "Fuel use": "3.0 gal/hour 11.4 l/hour",
+          "Power at rated PTO speed": "48.94 hp 36.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "41.27 hp 30.8 kW",
+          "Max pull": "6,004 lbs 2723 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 11, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1986 - 1996",
+          "__seccion_2__": "M30 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota S2802",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "170.3 ci 2.8 L",
+          "Bore/Stroke": "3.35x3.23 inches 85 x 82 mm",
+          "Power": "54 hp 40.3 kW",
+          "Air cleaner": "dual dry element",
+          "Rated RPM": "2600",
+          "Starter volts": "12",
+          "Oil capacity": "15.6 qts 14.8 L",
+          "Coolant capacity": "8.7 qts 8.2 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 11, 2024"
+        }
+      ]
+    }
+  }
+}

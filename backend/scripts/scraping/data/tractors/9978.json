@@ -1,0 +1,202 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/009/9/7/9978-caseih-puma-165-x.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/009/9/7/9978-caseih-puma-165-x-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/009/9/7/9978-caseih-puma-165-x-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 9978,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:53:35.022Z",
+    "foto_original": "https://www.tractordata.com/photos/F009/9978/9978-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 9978,
+  "name": "CaseIH Puma 165 X",
+  "brand": "CaseIH",
+  "model": "Puma 165 X",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 165,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": null,
+  "weight_basis": null,
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 60.5,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 520/85R28",
+  "tire_width_mm": 520,
+  "tire_diameter_mm": 1595,
+  "tire_front": {
+    "original": "420/85R28",
+    "radial": true,
+    "width_mm": 420,
+    "rim_in": 28,
+    "diameter_mm_est": 1425,
+    "tipo": "Radial",
+    "texto": "420/85R28"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F009/9978/9978-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td9978.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2018 -",
+          "__seccion_2__": "Puma Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in St. Valentin, Austria"
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 165 X Engine",
+          "__seccion_2__": "FPT 6.7L 6-cyl diesel",
+          "Fuel tank": "87.2 gal 330.1 L",
+          "Exhaust fluid (DEF)": "12.7 gal 48.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 165 X Transmission",
+          "__seccion_2__": "19-speed partial power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 165 X Power",
+          "Engine (gross)": "165 hp 123.0 kW",
+          "Engine (max)": "180 hp 134.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "rear standard",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic",
+          "&nbsp": "pneumatic Opt Optional",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH Puma 165 X are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "pressure flow compensated",
+          "Pressure": "3045 psi 210.0 bar",
+          "Rear valves": "4",
+          "Mid valves": "3",
+          "Pump flow": "29.1 gpm 110.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/II",
+          "Control": "electronic draft control",
+          "Rear lift (at 24\"/610mm)": "14586 lbs 6616 kg",
+          "Front lift": "7873 lbs 3571 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/540E/1000 (1.375)",
+          "&nbsp": "1000E@1621",
+          "Engine RPM": "1000@1895",
+          "Front PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Front tire": "420/85R28",
+          "Rear tire": "520/85R28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "&nbsp": "200 Opt Optional",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 20, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2018 -",
+          "__seccion_2__": "Puma Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 165 X Tires",
+          "Standard tires (ag)": "Front: 420/85R28. Rear: 520/85R28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "__seccion_2__": "Flange rear axle",
+          "Bar rear axle": "98 inch length 2489 mm Opt Optional"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 20, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2018 -",
+          "__seccion_2__": "Puma Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "410.6 ci 6.7 L",
+          "Bore/Stroke": "4.09x5.20 inches 104 x 132 mm",
+          "Emissions": "Stage IV",
+          "Rated Power (gross)": "165 hp 123.0 kW",
+          "Maximum Power (gross)": "180 hp 134.2 kW",
+          "Rated RPM": "2200",
+          "Torque": "568 lb-ft 770.2 Nm",
+          "Torque RPM": "1500",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 20, 2020"
+        }
+      ]
+    }
+  }
+}

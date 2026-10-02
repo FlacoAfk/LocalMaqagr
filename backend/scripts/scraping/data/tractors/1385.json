@@ -1,0 +1,257 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/3/8/1385-john-deere-9320t.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/3/8/1385-john-deere-9320t-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/3/8/1385-john-deere-9320t-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/3/8/1385-john-deere-9320t-engine.html",
+    "source_id": 1385,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:52:45.116Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1385/1385-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 84 KB"
+  },
+  "tractor_data_id": 1385,
+  "name": "John Deere 9320T",
+  "brand": "John Deere",
+  "model": "9320T",
+  "years": {
+    "desde": 2002,
+    "hasta": 2007
+  },
+  "model_year": 2002,
+  "engine_power_hp": 375,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 302,
+  "pto_tested_hp": 389.14,
+  "drawbar_tested_hp": 305.74,
+  "weight_kg": 17690,
+  "weight_basis": "Shipping",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 184.5,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 83.6,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1385/1385-td3a.jpg",
+  "image_url": "/uploads/tractors/td1385.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2002 - 2007",
+          "__seccion_2__": "9020 Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Agricultural Crawler tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA"
+        },
+        {
+          "9320": "wheeled tractor",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "John Deere 9320T Engine",
+          "__seccion_2__": "John Deere 12.5L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 9320T Transmissions",
+          "__seccion_2__": "18-speed full power shift",
+          "__seccion_3__": "24-speed partial power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 9320T Power",
+          "Engine": "375 hp 279.6 kW",
+          "PTO (claimed)": "302 hp 225.2 kW",
+          "Drawbar (tested)": "305.74 hp 228.0 kW",
+          "PTO (tested)": "389.14 hp 290.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "crawler",
+          "Steering": "electro-hydraulic power",
+          "__seccion_2__": "Hydraulic wet disc brakes",
+          "__seccion_3__": "Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 9320T photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "320 gal 1211.2 L",
+          "Hydraulic system": "27 gal 102.2 L",
+          "&nbsp": "27.5 gal (with 3-pt) 104.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure/flow compensated",
+          "Capacity": "27 gal 102.2 L",
+          "&nbsp": "48 gpm (Powershift) 181.7 lpm",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "4 or 5",
+          "Pump flow": "30 gpm 113.6 lpm",
+          "Total flow": "44 gpm (PowrSync) 166.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III, IV/IVN",
+          "Rear lift": "13,871 lbs 6291 kg",
+          "&nbsp": "14,445 lbs Opt Optional 6552 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tracks",
+          "Wheelbase": "111 inches 281 cm",
+          "Weight": "39000 to 42840 pounds",
+          "__seccion_2__": "30-inch tracks",
+          "__seccion_3__": "Full dimensions and tracks ..."
+        },
+        {
+          "__seccion_1__": "9320T Serial Number Location",
+          "__seccion_2__": "Serial number plate on the left side of the tractor frame."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "140",
+          "Batteries": "3",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "8020T/9020T Series published in 2003, by John Deere",
+          "__seccion_3__": "Operator's Manual 9320T, 9420T, 9520T and 9620T (OMAR288229) published in 2006"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 22, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2002 - 2007",
+          "__seccion_2__": "9020 Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 9320T Tracks",
+          "Width": "36 inches 91 cm",
+          "Length on ground": "111 inches 281 cm",
+          "Area on ground": "7992 in&sup2; 5.2 m&sup2;"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "111 inches 281 cm",
+          "Length": "237 inches 601 cm",
+          "&nbsp": "19 inches (drawbar) 48 cm",
+          "Width": "141 inches (36-inch track) 358 cm",
+          "Height (cab)": "136 inches 345 cm",
+          "Height (exhaust)": "138.5 inches 351 cm",
+          "Ground clearance": "16 inches 40 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 9320T Weight",
+          "Shipping": "39,000 lbs 17690 kg",
+          "Operating": "42,840 lbs 19432 kg",
+          "Max capacity": "50,000 lbs 22680 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 22, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2002 - 2007",
+          "__seccion_2__": "9020 Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1804"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1804",
+          "__seccion_2__": "Diesel 18-speed crawler April 5 - May 31, 2002 Link: OCED Tractor Test 1804 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "305.74 hp 228.0 kW",
+          "Fuel use": "19.7 gal/hour 74.6 l/hour",
+          "Power at rated engine speed": "389.14 hp 290.2 kW",
+          "Power at rated PTO speed": "358.95 hp 267.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 7 used for power test.",
+          "Max pull": "41,473 lbs 18812 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 22, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2002 - 2007",
+          "__seccion_2__": "9020 Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "765 ci 12.5 L",
+          "Bore/Stroke": "5.00x6.50 inches 127 x 165 mm",
+          "Emissions": "Tier II",
+          "Power": "375 hp 279.6 kW",
+          "Compression": "17:1",
+          "Rated RPM": "2100",
+          "Starter volts": "12",
+          "Coolant capacity": "64 qts 60.6 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "44 qts 41.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 22, 2022"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1385/1385-td4-b01.jpg"
+}

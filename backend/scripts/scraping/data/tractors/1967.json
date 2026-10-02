@@ -1,0 +1,180 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/9/6/1967-fiat-215.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/9/6/1967-fiat-215-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/9/6/1967-fiat-215-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1967,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:12:37.412Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1967/1967-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 3 KB"
+  },
+  "tractor_data_id": 1967,
+  "name": "Fiat 215",
+  "brand": "Fiat",
+  "model": "215",
+  "years": {
+    "desde": 1965,
+    "hasta": 1968
+  },
+  "model_year": 1965,
+  "engine_power_hp": 22,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1099,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 8.1,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 9.5-24",
+  "tire_width_mm": 241,
+  "tire_diameter_mm": 1020,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1967/1967-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td1967.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1965 - 1968",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Fiat",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Modena, Italy"
+        },
+        {
+          "__seccion_1__": "Fiat 215 Engine",
+          "__seccion_2__": "Fiat 1.1L 2-cyl diesel",
+          "Fuel tank": "6.3 gal 23.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 215 Transmission",
+          "__seccion_2__": "6-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 215 Power",
+          "Engine": "22 hp 16.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Fiat 215 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "2.1 gpm 7.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at ends)": "1212 lbs 549 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2120"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "66.9 inches 169 cm",
+          "Weight": "2138 to 2425 pounds",
+          "Front tire": "5.00-15",
+          "Rear tire": "9.5-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 15, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1965 - 1968",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Fiat 215 Tires",
+          "Ag front": "5.00-15",
+          "&nbsp": "7.50-16 (4WD)",
+          "Ag rear": "9.5-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "66.9 inches 169 cm",
+          "Length": "102.4 inches 260 cm",
+          "Height": "51.6 inches 131 cm",
+          "2WD Weight": "2138 lbs 969 kg",
+          "4WD Weight": "2425 lbs 1099 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 15, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1965 - 1968",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Fiat 614",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "69.3 ci 1.1 L",
+          "Bore/Stroke": "3.35x3.94 inches 85 x 100 mm",
+          "Power": "22 hp 16.4 kW",
+          "Rated RPM": "2300",
+          "Torque": "49 lb-ft 66.4 Nm",
+          "Torque RPM": "1520"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 15, 2025"
+        }
+      ]
+    }
+  }
+}

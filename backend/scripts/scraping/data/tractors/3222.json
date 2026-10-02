@@ -1,0 +1,279 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/2/2/3222-john-deere-8100.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/2/2/3222-john-deere-8100-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/2/2/3222-john-deere-8100-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/2/2/3222-john-deere-8100-engine.html",
+    "source_id": 3222,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:39:17.605Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3222/3222-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 95 KB"
+  },
+  "tractor_data_id": 3222,
+  "name": "John Deere 8100",
+  "brand": "John Deere",
+  "model": "8100",
+  "years": {
+    "desde": 1995,
+    "hasta": 1999
+  },
+  "model_year": 1995,
+  "engine_power_hp": 160,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 160,
+  "pto_tested_hp": 179.15,
+  "drawbar_tested_hp": 141.81,
+  "weight_kg": 8108,
+  "weight_basis": "4WD Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 96,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 18.4R46",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1963,
+  "tire_front": {
+    "original": "11.00-24",
+    "radial": false,
+    "width_mm": 279,
+    "rim_in": 24,
+    "diameter_mm_est": 1085,
+    "tipo": "Diagonal",
+    "texto": "11.00-24"
+  },
+  "fuel_consumption_lph": 36.7,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3222/3222-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3222/3222-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td3222.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1995 - 1999",
+          "__seccion_2__": "Model year 1995-1996 1997-1999",
+          "__seccion_3__": "8000/8000T Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA"
+        },
+        {
+          "__seccion_1__": "John Deere 8100 Engine",
+          "__seccion_2__": "John Deere 7.6L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8100 Transmission",
+          "__seccion_2__": "16-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8100 Power",
+          "PTO (claimed)": "160 hp 119.3 kW",
+          "Drawbar (tested)": "141.81 hp 105.7 kW",
+          "PTO (tested)": "179.15 hp 133.6 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "electro-hydraulic",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "CommandView Cab standard. Row-Trak guidance optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 8100 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "135 gal 511.0 L",
+          "Hydraulic system": "37 gal 140.0 L",
+          "Front hubs": "3.2 qts (each) 3.0 L",
+          "Front diff.": "11.5 qts 10.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure-flow compensated (PFC)",
+          "Capacity": "37 gal 140.0 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "3 to 5",
+          "SCV flow": "30 gpm 113.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/IIIN",
+          "Control": "electro-hydraulic draft sensing",
+          "Rear lift": "10400 lbs 4717 kg",
+          "&nbsp": "14165 lbs Opt Optional 6425 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "1000 (1.75)",
+          "&nbsp": "1000@2200",
+          "Engine RPM": "540@1930"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "122.8 inches 311 cm",
+          "4WD Wheelbase": "116.1 inches 294 cm",
+          "Weight": "16435 to 18914 pounds",
+          "Front tire": "11.00-24",
+          "2WD Rear tire": "18.4R46",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "8100 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the rear of the tractor, above the PTO shaft."
+        },
+        {
+          "1995": "1001",
+          "1996": "4001",
+          "1997": "10001",
+          "1998": "20001",
+          "1999": "24001",
+          "__seccion_1__": "8100 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "140",
+          "Batteries": "2",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "New 8000 Series Tractors published in 1995, by John Deere",
+          "__seccion_3__": "8000 Series Tractors published in 1996, by John Deere",
+          "__seccion_4__": "Operator's Manual 8100, 8200, 8300 and 8400 Tractors (OMAR113872) published in 1994"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 10, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1995 - 1999",
+          "__seccion_2__": "Model year 1995-1996 1997-1999",
+          "__seccion_3__": "8000/8000T Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8100 Tires",
+          "2WD Standard tires (ag)": "Front: 11.00-24. Rear: 18.4R46",
+          "&nbsp": "Front: 14.9R34. Rear: 18.4R46"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "122.8 inches 311 cm",
+          "4WD Wheelbase": "116.1 inches 294 cm",
+          "Length": "206.5 inches 524 cm",
+          "Height": "120.2 inches 305 cm",
+          "4WD Ground clearance": "23.2 inches 58 cm",
+          "2WD Ground clearance": "31.5 inches 80 cm",
+          "Optional short axle rear axle": "3.937 by 110.5 inches 99 by 2806 mm",
+          "Standard axle rear axle": "3.937 by 118.5 inches 99 by 3009 mm",
+          "Optional large axle rear axle": "4.331 by 118.5 inches 110 by 3009 mm",
+          "2WD Front tread": "60 to 84 inches 152 to 213 cm",
+          "4WD Front tread": "60 to 88 inches 152 to 223 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 8100 Weight",
+          "2WD Shipping": "16435 lbs 7454 kg",
+          "4WD Shipping": "17876 lbs 8108 kg",
+          "Operating": "18914 lbs 8579 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 10, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1995 - 1999",
+          "__seccion_2__": "Model year 1995-1996 1997-1999",
+          "__seccion_3__": "8000/8000T Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1688"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1688",
+          "__seccion_2__": "16-speed 4WD April 19 - May 15, 1995 Link: Nebraska Tractor Test 1688 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "141.81 hp 105.7 kW",
+          "Fuel use": "9.1 gal/hour 34.4 l/hour",
+          "Power at rated engine speed": "160.40 hp 119.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 8 used for power test.",
+          "Max pull": "21,586 lbs 9791 kg",
+          "__seccion_6__": "Gear 3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 10, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1995 - 1999",
+          "__seccion_2__": "Model year 1995-1996 1997-1999",
+          "__seccion_3__": "8000/8000T Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "466 ci 7.6 L",
+          "Bore/Stroke": "4.5625x4.75 inches 116 x 121 mm",
+          "Air cleaner": "dual paper elements with aspirator",
+          "Compression": "15.1:1",
+          "Rated RPM": "2200",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Oil capacity": "22.7 qts 21.5 L",
+          "Coolant capacity": "28.8 qts 27.3 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 10, 2025"
+        }
+      ]
+    }
+  }
+}

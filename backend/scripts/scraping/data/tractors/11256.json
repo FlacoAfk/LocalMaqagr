@@ -1,0 +1,165 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/011/2/5/11256-fiat-80-88.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/011/2/5/11256-fiat-80-88-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/011/2/5/11256-fiat-80-88-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 11256,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:21:02.658Z"
+  },
+  "tractor_data_id": 11256,
+  "name": "Fiat 80-88",
+  "brand": "Fiat",
+  "model": "80 88",
+  "years": {
+    "desde": 1990,
+    "hasta": 1995
+  },
+  "model_year": 1990,
+  "engine_power_hp": 78.9,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3430,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 28.9,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": null,
+  "photo_url_large": null,
+  "image_url": null,
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1990 - 1995",
+          "__seccion_2__": "88 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Fiat",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Fiat 80-88 Engine",
+          "__seccion_2__": "Fiat 3.9L 4-cyl diesel",
+          "Fuel tank": "24.6 gal 93.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 80-88 Transmissions",
+          "__seccion_2__": "12-speed",
+          "__seccion_3__": "20-speed creeper",
+          "__seccion_4__": "12-speed shuttle",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 80-88 Power",
+          "Engine": "78.9 hp 58.8 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with heat."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Fiat 80-88 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Pump flow": "11.6 gpm 43.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "7562 lbs 3430 kg",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 25, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1990 - 1995",
+          "__seccion_2__": "88 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Fiat 80-88 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Weight": "7562 lbs 3430 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 25, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1990 - 1995",
+          "__seccion_2__": "88 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Fiat 8045.05",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "238.5 ci 3.9 L",
+          "Bore/Stroke": "4.09x4.53 inches 104 x 115 mm",
+          "Power": "78.9 hp 58.8 kW",
+          "Rated RPM": "2500",
+          "Torque": "196.9 lb-ft 267.0 Nm",
+          "Torque RPM": "1400",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 25, 2022"
+        }
+      ]
+    }
+  }
+}

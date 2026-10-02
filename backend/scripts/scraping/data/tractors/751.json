@@ -1,0 +1,301 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/7/5/751-massey-ferguson-210.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/7/5/751-massey-ferguson-210-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/7/5/751-massey-ferguson-210-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/7/5/751-massey-ferguson-210-engine.html",
+    "source_id": 751,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:23:20.892Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/751/751-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 78 KB"
+  },
+  "tractor_data_id": 751,
+  "name": "Massey Ferguson 210",
+  "brand": "Hinomoto",
+  "model": "ferguson 210",
+  "years": {
+    "desde": 1978,
+    "hasta": 1984
+  },
+  "model_year": 1978,
+  "engine_power_hp": 25,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 22,
+  "pto_tested_hp": 21.96,
+  "drawbar_tested_hp": 17.28,
+  "weight_kg": 1179,
+  "weight_basis": "4WD Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 9.6,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 13.6-16",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 994,
+  "tire_front": {
+    "original": "6.00-14",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 14,
+    "diameter_mm_est": 615,
+    "tipo": "Diagonal",
+    "texto": "6.00-14"
+  },
+  "fuel_consumption_lph": 6.1,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/751/751-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/751/751-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td751.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1978 - 1984",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Hinomoto built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Massey Ferguson",
+          "Manufacturer": "Hinomoto",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Osaka, Japan",
+          "__seccion_4__": "Original price was $7,800 in 1984",
+          "__seccion_5__": "The Massey-Ferguson 210 is similar to the Allis 5020, the Simplicity 9523, and the Hinomoto E23."
+        },
+        {
+          "210": "2WD",
+          "__seccion_1__": "Variants",
+          "210-4": "4WD"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 210 Engine",
+          "__seccion_2__": "Toyosha 1.3L 2-cyl diesel",
+          "Fuel tank": "7.1 gal 26.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 210 Transmission",
+          "__seccion_2__": "12-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 210 Power",
+          "Engine": "25 hp 18.6 kW",
+          "PTO (claimed)": "22 hp 16.4 kW",
+          "Drawbar (tested)": "17.28 hp 12.9 kW",
+          "PTO (tested)": "21.96 hp 16.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Mechanical drum brakes",
+          "__seccion_5__": "Open operator station. Two-post fixed ROPS available."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 210 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "1700 psi 117.2 bar",
+          "Pump flow": "5.4 gpm 20.4 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2327",
+          "Front PTO": "independent Opt Optional",
+          "Clutch": "electro-magnetic"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "60.4 inches 153 cm",
+          "4WD Wheelbase": "59.4 inches 150 cm",
+          "Weight": "2325 to 3180 pounds",
+          "Front tire": "5.00-15",
+          "2WD Rear tire": "11.2/10-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 210 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "72\" mid-mount mower deck",
+          "__seccion_4__": "front-end loader",
+          "__seccion_5__": "Attachment details ..."
+        },
+        {
+          "1978": "00101",
+          "1979": "00101 (4WD)",
+          "1980": "00711 (4WD)",
+          "1981": "00764 (4WD)",
+          "1982": "01595 (4WD)",
+          "1983": "01915 (4WD)",
+          "1984": "02209 (4WD)",
+          "__seccion_1__": "210 Serial Numbers",
+          "Location:": "Serial number plate under the tractor instrument panel.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "15",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Industrial Machinery Buyer's Guide published in 1980, by Massey Ferguson",
+          "__seccion_3__": "Compact Tractor Attachment published in 1982, by Massey Ferguson",
+          "__seccion_4__": "Loaders and Spreaders published in 1979, by Massey Ferguson",
+          "__seccion_5__": "MF Compact Tractors published in 1979, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 13, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1978 - 1984",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Hinomoto built"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 210 Tires",
+          "2WD Standard tires (ag)": "Front: 5.00-15. Rear: 11.2/10-24",
+          "4WD Standard tires (ag)": "Front: 6.00-14. Rear: 11.2/10-24",
+          "Lawn/turf front": "20x8.00-10",
+          "Lawn/turf rear": "13.6-16"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "60.4 inches 153 cm",
+          "4WD Wheelbase": "59.4 inches 150 cm",
+          "2WD Width": "50.2 inches 127 cm",
+          "4WD Width": "51.7 inches 131 cm",
+          "2WD Height (steering wheel)": "53.1 inches 134 cm",
+          "4WD Height (steering wheel)": "57.2 inches 145 cm",
+          "2WD Front tread": "39.8 to 52 inches 101 to 132 cm",
+          "4WD Front tread": "39.6 inches 100 cm",
+          "Rear tread": "39.1 to 50.9 inches 99 to 129 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 210 Weight",
+          "2WD Shipping": "2325 lbs 1054 kg",
+          "4WD Shipping": "2600 lbs 1179 kg",
+          "2WD Operating": "2764 lbs 1253 kg",
+          "4WD Operating": "3180 lbs 1442 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 13, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1978 - 1984",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Hinomoto built"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 1365: diesel 12-speed 2WD",
+          "__seccion_3__": "NTTL 1366: diesel 12-speed 4WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1365"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1365",
+          "__seccion_2__": "Diesel 12-speed 2WD September 15 - 24, 1980 Link: Nebraska Tractor Test 1365 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "21.96 hp 16.4 kW",
+          "Fuel use": "1.6 gal/hour 6.1 l/hour",
+          "Power at rated PTO speed": "21.23 hp 15.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "17.28 hp 12.9 kW",
+          "Max pull": "2159 lbs 979 kg"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1366"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1366",
+          "__seccion_2__": "Diesel 12-speed 4WD September 17 - October 2, 1980 Link: Nebraska Tractor Test 1366 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "21.77 hp 16.2 kW",
+          "Fuel use": "1.7 gal/hour 6.4 l/hour",
+          "Power at rated PTO speed": "21.02 hp 15.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "17.22 hp 12.8 kW",
+          "__seccion_5__": "Gear 10 used for power test.",
+          "Max pull": "16.97 lbs 7 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 13, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1978 - 1984",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Hinomoto built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Toyosha P126",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "77.1 ci 1.3 L",
+          "Bore/Stroke": "3.62x3.74 inches 92 x 95 mm",
+          "Power": "25 hp 18.6 kW",
+          "Fuel system": "indirect injection",
+          "Air cleaner": "paper element",
+          "Pre-heating": "glow plugs",
+          "Compression": "23:1",
+          "Rated RPM": "2500",
+          "Torque": "54 lb-ft 73.2 Nm",
+          "Torque RPM": "1800",
+          "Starter volts": "12",
+          "Oil capacity": "4.2 qts 4.0 L",
+          "Coolant capacity": "5.3 qts 5.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 13, 2025"
+        }
+      ]
+    }
+  }
+}

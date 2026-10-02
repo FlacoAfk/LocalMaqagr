@@ -1,0 +1,167 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/7/5/1759-zetor-5516.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/7/5/1759-zetor-5516-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/7/5/1759-zetor-5516-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1759,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:49:50.035Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1759/1759-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 4 KB"
+  },
+  "tractor_data_id": 1759,
+  "name": "Zetor 5516",
+  "brand": "Zetor",
+  "model": "5516",
+  "years": {
+    "desde": 1968,
+    "hasta": 1972
+  },
+  "model_year": 1968,
+  "engine_power_hp": 60,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2439,
+  "weight_basis": "Weight",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 22,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "6.00-20",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 20,
+    "diameter_mm_est": 767,
+    "tipo": "Diagonal",
+    "texto": "6.00-20"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1759/1759-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td1759.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1968 - 1972",
+          "__seccion_2__": "Half-track Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Zetor",
+          "__seccion_2__": "Half-track Crawler tractor",
+          "__seccion_3__": "Built in Brno, Czechoslovakia"
+        },
+        {
+          "__seccion_1__": "Zetor 5516 Engine",
+          "__seccion_2__": "Zetor 3.1L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 5516 Transmission",
+          "__seccion_2__": "10-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 5516 Power",
+          "Engine": "60 hp 44.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "half-track",
+          "__seccion_2__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Zetor 5516 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "3594 lbs 1630 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540,1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "89 inches 226 cm",
+          "Weight": "5379 lbs 2439 kg",
+          "Front tire": "6.00-20",
+          "Rear tire": "tracks",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 23, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1968 - 1972",
+          "__seccion_2__": "Half-track Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Zetor 5516 Tires",
+          "Ag front": "6.00-20",
+          "Ag rear": "tracks"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "89 inches 226 cm",
+          "Weight": "5379 lbs 2439 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 23, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1968 - 1972",
+          "__seccion_2__": "Half-track Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Zetor",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "190.3 ci 3.1 L",
+          "Bore/Stroke": "3.74x4.331 inches 95 x 110 mm",
+          "Power": "60 hp 44.7 kW",
+          "Rated RPM": "2200"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 23, 2022"
+        }
+      ]
+    }
+  }
+}

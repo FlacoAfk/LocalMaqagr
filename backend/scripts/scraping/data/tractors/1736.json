@@ -1,0 +1,158 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/7/3/1736-zetor-25.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/7/3/1736-zetor-25-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/7/3/1736-zetor-25-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1736,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:48:35.983Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1736/1736-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 800px/q55 → 87 KB"
+  },
+  "tractor_data_id": 1736,
+  "name": "Zetor 25",
+  "brand": "Zetor",
+  "model": "25",
+  "years": {
+    "desde": 1946,
+    "hasta": 1948
+  },
+  "model_year": 1946,
+  "engine_power_hp": 25,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1749,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 9.2,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 11.25-24",
+  "tire_width_mm": 286,
+  "tire_diameter_mm": 1095,
+  "tire_front": {
+    "original": "5.50-16",
+    "radial": false,
+    "width_mm": 140,
+    "rim_in": 16,
+    "diameter_mm_est": 644,
+    "tipo": "Diagonal",
+    "texto": "5.50-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1736/1736-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1736/1736-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td1736.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1946 - 1948"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Zetor",
+          "__seccion_2__": "Built in Brno, Czechoslovakia"
+        },
+        {
+          "__seccion_1__": "Zetor 25 Engine",
+          "__seccion_2__": "Zetor 2.1L 2-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 25 Transmission",
+          "__seccion_2__": "6-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 25 Power",
+          "Engine": "25 hp 18.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Zetor 25 photos..."
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "74.8 inches 189 cm",
+          "Weight": "3858 lbs 1749 kg",
+          "Front tire": "5.50-16",
+          "Rear tire": "11.25-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 3, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1946 - 1948"
+        },
+        {
+          "__seccion_1__": "Zetor 25 Tires",
+          "Ag front": "5.50-16",
+          "Ag rear": "11.25-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "74.8 inches 189 cm",
+          "Weight": "3858 lbs 1749 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 3, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1946 - 1948"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Zetor",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "2-cylinder",
+          "Displacement": "126.8 ci 2.1 L",
+          "Bore/Stroke": "4.134x4.724 inches 105 x 120 mm",
+          "Power": "25 hp 18.6 kW",
+          "Rated RPM": "1800"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 3, 2024"
+        }
+      ]
+    }
+  }
+}

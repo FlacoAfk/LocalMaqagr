@@ -1,0 +1,230 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/2/3/10234-john-deere-2036r.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/2/3/10234-john-deere-2036r-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/2/3/10234-john-deere-2036r-engine.html",
+    "source_id": 10234,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:05:51.716Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10234/10234-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 10234,
+  "name": "John Deere 2036R",
+  "brand": "John Deere",
+  "model": "2036R",
+  "years": {
+    "desde": 2016,
+    "hasta": 2020
+  },
+  "model_year": 2016,
+  "engine_power_hp": 36.6,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 30,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1099,
+  "weight_basis": "ROPS",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 11,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-16",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 942,
+  "tire_front": {
+    "original": "7.00-12",
+    "radial": false,
+    "width_mm": 178,
+    "rim_in": 12,
+    "diameter_mm_est": 607,
+    "tipo": "Diagonal",
+    "texto": "7.00-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F010/10234/10234-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td10234.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2016 - 2020",
+          "__seccion_2__": "2R Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 2036R Engine",
+          "__seccion_2__": "Yanmar 1.5L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2036R Transmission",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2036R Power",
+          "Engine (gross)": "36.6 hp 27.3 kW",
+          "Engine (net)": "35.9 hp 26.8 kW",
+          "PTO (claimed)": "30 hp 22.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "spur gear",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 2036R are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "8.5 gal 32.2 L",
+          "Hydraulic system": "6.2 gal 23.5 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "6.2 gal 23.5 L",
+          "Pressure": "2500 psi 172.4 bar",
+          "Pump flow": "5.3 gpm 20.1 lpm",
+          "Total flow": "9.3 gpm 35.2 lpm",
+          "Steering flow": "4 gpm 15.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at ends)": "2086 lbs 946 kg",
+          "Rear lift (at 24\"/610mm)": "1356 lbs 615 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "wet disc",
+          "Rear PTO Type": "540 (1.375)",
+          "Mid PTO": "independent",
+          "Mid PTO Type": "2100",
+          "Front PTO": "independent Opt Optional",
+          "Front PTO Type": "2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "67.9 inches 172 cm",
+          "Weight": "2425 to 2921 pounds",
+          "Front tire": "7.00-12",
+          "Rear tire": "12.4-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "75",
+          "Battery CCA": "500",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Compact Utility Tractors published in 2016, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on March 2, 2026",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2016 - 2020",
+          "__seccion_2__": "2R Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 2036R Tires",
+          "Standard tires (ag)": "Front: 7.00-12. Rear: 12.4-16",
+          "Lawn/turf front": "200/60R15",
+          "Lawn/turf rear": "300/70R20",
+          "Industrial front": "23x8.5-14",
+          "Industrial rear": "14-17.5"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "67.9 inches 172 cm",
+          "Length": "113.2 inches 287 cm",
+          "Width": "50.4 inches 128 cm",
+          "Height (ROPS)": "93.7 inches 237 cm",
+          "Height (cab)": "84.5 inches 214 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 2036R Weight",
+          "ROPS": "2425 lbs 1099 kg",
+          "Cab": "2921 lbs 1324 kg",
+          "Max capacity": "3291 lbs 1492 kg",
+          "Max front axle": "1764 lbs 800 kg",
+          "Max rear axle": "3968 lbs 1799 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 2, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2016 - 2020",
+          "__seccion_2__": "2R Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Yanmar 3TNV84T",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "91.5 ci 1.5 L",
+          "Bore/Stroke": "3.31x3.54 inches 84 x 90 mm",
+          "Rated Power (net)": "35.9 hp 26.8 kW",
+          "Rated Power (gross)": "36.6 hp 27.3 kW",
+          "Air cleaner": "dry",
+          "Rated RPM": "2500",
+          "Torque": "88.5 lb-ft 120.0 Nm",
+          "Torque RPM": "1800",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "4.5 qts 4.3 L",
+          "ROPS Coolant capacity": "5.5 qts 5.2 L",
+          "Cab Coolant capacity": "6 qts 5.7 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 2, 2026"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/1/0/5103-massey-ferguson-5710sl.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/1/0/5103-massey-ferguson-5710sl-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/1/0/5103-massey-ferguson-5710sl-engine.html",
+    "source_id": 5103,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:36:30.765Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5103/5103-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 5103,
+  "name": "Massey Ferguson 5710SL",
+  "brand": "Massey Ferguson (a part of AGCO)",
+  "model": "ferguson 5710sl",
+  "years": {
+    "desde": 2016,
+    "hasta": 2018
+  },
+  "model_year": 2016,
+  "engine_power_hp": 95,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4799,
+  "weight_basis": "4WD",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 34.9,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 460/85R34",
+  "tire_width_mm": 460,
+  "tire_diameter_mm": 1646,
+  "tire_front": {
+    "original": "380/85R24",
+    "radial": true,
+    "width_mm": 380,
+    "rim_in": 24,
+    "diameter_mm_est": 1256,
+    "tipo": "Radial",
+    "texto": "380/85R24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5103/5103-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td5103.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2016 - 2018",
+          "__seccion_2__": "5700SL Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson (a part of AGCO)",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Beauvais, France"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5710SL Engine",
+          "__seccion_2__": "AGCO Power 4.4L 4-cyl diesel",
+          "Fuel tank": "47.5 gal 179.8 L",
+          "Exhaust fluid (DEF)": "6.6 gal 25.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5710SL Transmissions",
+          "__seccion_2__": "16-speed four-speed power shift",
+          "__seccion_3__": "24-speed six-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5710SL Power",
+          "Engine": "95 hp 70.8 kW",
+          "Engine (max)": "100 hp 74.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "electro-hydraulic front and rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic Opt Optional",
+          "&nbsp": "pneumatic Opt Optional",
+          "__seccion_5__": "Cab standard with air-conditioning. Auto-Guide 3000 ((Optional))"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 5710SL are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "&nbsp": "29 gpm (CCLS) 109.8 lpm",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "1 to 4",
+          "Pump flow": "15 gpm 56.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/II",
+          "Control": "lower-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "8575 lbs 3889 kg",
+          "Drawbar": "Cat. 2"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540/540E (1.375)",
+          "&nbsp": "540/540E/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "100.4 inches 255 cm",
+          "Weight": "8929 to 10582 pounds",
+          "Front tire": "380/85R24",
+          "Rear tire": "460/85R34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5710SL attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Classic Charging amps": "120",
+          "Deluxe Charging amps": "175",
+          "Battery CCA": "600",
+          "Battery volts": "12",
+          "Battery Group": "1"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF 5700 SL published in 2015, by Massey Ferguson",
+          "__seccion_3__": "MF 5700 SL Product Book published in 2015, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on November 29, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2016 - 2018",
+          "__seccion_2__": "5700SL Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5710SL Tires",
+          "Standard tires (ag)": "Front: 380/85R24. Rear: 460/85R34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "100.4 inches 255 cm",
+          "Length": "171.5 inches 435 cm",
+          "Width": "90.6 inches * Width over rear fenders. 230 cm",
+          "Height (cab)": "111.3 inches 282 cm",
+          "__seccion_2__": "Flange rear axle"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5710SL Weight",
+          "2WD": "8929 lbs 4050 kg",
+          "4WD": "10582 lbs 4799 kg",
+          "1WD Max capacity": "16094 lbs 7300 kg",
+          "4WD Max capacity": "18739 lbs 8500 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 29, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2016 - 2018",
+          "__seccion_2__": "5700SL Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "AGCO Power",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "4-cylinder 16-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "268.5 ci 4.4 L",
+          "Bore/Stroke": "4.25x4.72 inches 108 x 120 mm",
+          "Emissions": "Tier IV",
+          "Emission control": "selective catalytic reduction",
+          "Power": "95 hp 70.8 kW",
+          "Maximum Power": "100 hp 74.6 kW",
+          "Fuel system": "high-pressure common rail",
+          "Cooling system": "electronic viscous fan",
+          "Air cleaner": "dual element dry",
+          "Pre-heating": "block heater",
+          "Rated RPM": "2200",
+          "Torque": "309.8 lb-ft 420.1 Nm",
+          "Torque RPM": "1600",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5710SL Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 29, 2025"
+        }
+      ]
+    }
+  }
+}

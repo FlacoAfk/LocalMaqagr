@@ -1,0 +1,254 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/2/9/7298-caseih-farmall-105c.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/2/9/7298-caseih-farmall-105c-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/007/2/9/7298-caseih-farmall-105c-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/2/9/7298-caseih-farmall-105c-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 7298,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:49:20.544Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7298/7298-td4-b01-ext270.jpg",
+    "foto_calidad": "webp 960px/q65 → 68 KB"
+  },
+  "tractor_data_id": 7298,
+  "name": "CaseIH Farmall 105C",
+  "brand": "CaseIH",
+  "model": "Farmall 105C",
+  "years": {
+    "desde": 2013,
+    "hasta": 2015
+  },
+  "model_year": 2013,
+  "engine_power_hp": 106,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 91,
+  "pto_tested_hp": 94.5,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3600,
+  "weight_basis": "4WD Cab Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 34.7,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 16.9R34",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1593,
+  "tire_front": null,
+  "fuel_consumption_lph": 22.7,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7298/7298-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7298/7298-td4-b01-ext270.jpg",
+  "image_url": "/uploads/tractors/td7298.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2013 - 2015",
+          "__seccion_2__": "Farmall C Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 105C Engine",
+          "__seccion_2__": "Fiat Powertrain Technologies (FPT) 3.4L 4-cyl diesel",
+          "Fuel tank": "30.3 gal 114.7 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 105C Transmissions",
+          "__seccion_2__": "12-speed mechanical shuttle",
+          "__seccion_3__": "12-speed power shuttle",
+          "__seccion_4__": "20-speed creeper",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 105C Power",
+          "Engine": "106 hp 79.0 kW",
+          "PTO (claimed)": "91 hp 67.9 kW",
+          "PTO (tested)": "94.5 hp 70.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "ROPS Brakes": "mechanical wet disc",
+          "Cab Brakes": "hydraulic wet disc",
+          "__seccion_4__": "Two-post foldable ROPS. Cab optional with heat and air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH Farmall 105C photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "1 or 2",
+          "Pump flow": "12.9 gpm 48.8 lpm",
+          "&nbsp": "16.9 gpm Opt Optional 64.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "mechanical upper-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "5620 lbs 2549 kg",
+          "Drawbar": "swinging drawbar"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "&nbsp": "540/1000 Opt Optional"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "4WD Wheelbase": "89 inches 226 cm",
+          "Weight": "7937 lbs 3600 kg",
+          "Rear tire": "16.9R34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 105C attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "ROPS Battery CCA": "730",
+          "Cab Battery CCA": "800",
+          "Battery volts": "121"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Farmall C Series Tractors published in 2013, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 4, 2016"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2013 - 2015",
+          "__seccion_2__": "Farmall C Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 105C Tires",
+          "Ag rear": "16.9R34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "4WD Wheelbase": "89 inches 226 cm",
+          "Length": "149 inches 378 cm",
+          "Width": "83 inches 210 cm",
+          "Height (ROPS)": "103 inches 261 cm",
+          "Height (cab)": "100 inches 254 cm",
+          "4WD Cab Weight": "7937 lbs 3600 kg",
+          "__seccion_2__": "Flange axle rear axle",
+          "2WD Front tread": "60.2 to 79.9 inches 152 to 202 cm",
+          "4WD Front tread": "60.8 to 76.6 inches 154 to 194 cm",
+          "Rear tread": "52.2 to 76.6 inches 132 to 194 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 4, 2016"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2013 - 2015",
+          "__seccion_2__": "Farmall C Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "OECD 2813: diesel 12-speed 4WD ROPS",
+          "__seccion_3__": "OECD 2815: diesel 12-speed 4WD Cab"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2813"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2813",
+          "__seccion_2__": "Diesel 12-speed 4WD ROPS August 2013 - December 2013, Link: OCED Tractor Test 2813 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "94.4 hp 70.4 kW",
+          "Fuel use": "5.7 gal/hour 21.6 l/hour",
+          "Power at rated PTO speed": "96.7 hp 72.1 kW"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2815"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2815",
+          "__seccion_2__": "Diesel 12-speed 4WD Cab August 2013 - December 2013, Link: OCED Tractor Test 2815 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "94.5 hp 70.5 kW",
+          "Fuel use": "5.7 gal/hour 21.6 l/hour",
+          "Power at rated PTO speed": "96.6 hp 72.0 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 4, 2016"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2013 - 2015",
+          "__seccion_2__": "Farmall C Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Fiat Powertrain Technologies (FPT) F5H",
+          "__seccion_3__": "turbocharged air-to-air aftercooled diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "207 ci 3.4 L",
+          "Bore/Stroke": "3.90x4.33 inches 99 x 110 mm",
+          "Emissions": "Interim Tier 4",
+          "Emission control": "cooled exhaust-gas recirculation (EGR)",
+          "Power": "106 hp 79.0 kW",
+          "Fuel system": "electronic high-pressure common rail direct injection",
+          "Air cleaner": "dual dry element",
+          "Pre-heating": "grid heater",
+          "Rated RPM": "2300",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 4, 2016"
+        }
+      ]
+    }
+  }
+}

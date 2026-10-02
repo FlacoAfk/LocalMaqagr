@@ -1,0 +1,245 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/3/1/6310-caseih-farmall-80.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/3/1/6310-caseih-farmall-80-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/006/3/1/6310-caseih-farmall-80-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/3/1/6310-caseih-farmall-80-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 6310,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:46:07.225Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6310/6310-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 6310,
+  "name": "CaseIH Farmall 80",
+  "brand": "Turk Tractor",
+  "model": "farmall 80",
+  "years": {
+    "desde": 2008,
+    "hasta": 2010
+  },
+  "model_year": 2008,
+  "engine_power_hp": 72,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 62,
+  "pto_tested_hp": 72.1,
+  "drawbar_tested_hp": 59.7,
+  "weight_kg": 2586,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 21.3,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 16.7,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F006/6310/6310-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td6310.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2008 - 2010",
+          "__seccion_2__": "Farmall Utility Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Turk Tractor built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "CaseIH",
+          "Manufacturer": "Turk Tractor",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Ankara, Turkey"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "TD5030": "similar New Holland model"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 80 Engine",
+          "__seccion_2__": "FPT 3.2L 4-cyl diesel",
+          "Fuel tank": "23.8 gal 90.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 80 Transmissions",
+          "__seccion_2__": "12-speed mechanical shuttle",
+          "__seccion_3__": "20-speed mechanical shuttle with creeper",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 80 Power",
+          "Engine (gross)": "72 hp 53.7 kW",
+          "PTO (claimed)": "62 hp 46.2 kW",
+          "Drawbar (tested)": "59.7 hp 44.5 kW",
+          "PTO (tested)": "72.1 hp 53.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Flat deck platform with ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH Farmall 80 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Rear valves": "1 to 3",
+          "Pump flow": "13.6 gpm 51.5 lpm",
+          "Total flow": "21.7 gpm 82.1 lpm",
+          "Steering flow": "8.1 gpm 30.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position control and mechanical lower-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "5025 lbs 2279 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "mechanical dry clutch",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "91 inches 231 cm",
+          "4WD Wheelbase": "87 inches 220 cm",
+          "Weight": "5702 to 6915 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 80 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "85",
+          "Battery CCA": "800",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Farmall Series Utility Tractors published in 2008, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2008 - 2010",
+          "__seccion_2__": "Farmall Utility Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Turk Tractor built"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 80 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "91 inches 231 cm",
+          "4WD Wheelbase": "87 inches 220 cm",
+          "Height (ROPS)": "101.1 inches 256 cm",
+          "Height (cab)": "103.1 inches 261 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 80 Weight",
+          "Shipping": "5,702 lbs (2WD ROPS) 2586 kg",
+          "&nbsp": "6,915 lbs (4WD cab) 3136 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2008 - 2010",
+          "__seccion_2__": "Farmall Utility Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Turk Tractor built"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2583"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2583",
+          "__seccion_2__": "Diesel 12-speed 4WD December 2008 - January 2009, Link: OCED Tractor Test 2583 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "59.7 hp 44.5 kW",
+          "Fuel use": "4.2 gal/hour 15.9 l/hour",
+          "Power at rated engine speed": "70.3 hp 52.4 kW",
+          "Power at rated PTO speed": "70.9 hp 52.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "4,795 lbs 2175 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2008 - 2010",
+          "__seccion_2__": "Farmall Utility Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Turk Tractor built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "195 ci 3.2 L",
+          "Bore/Stroke": "3.898x4.094 inches 99 x 104 mm",
+          "Emissions": "Tier 3",
+          "Power (gross)": "72 hp 53.7 kW",
+          "Fuel system": "direct injection with mechanical governor",
+          "Air cleaner": "dual dry elements",
+          "Pre-heating": "thermostart",
+          "Rated RPM": "2500",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2025"
+        }
+      ]
+    }
+  }
+}

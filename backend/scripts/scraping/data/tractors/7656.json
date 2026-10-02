@@ -1,0 +1,213 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/6/5/7656-massey-ferguson-6614.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/6/5/7656-massey-ferguson-6614-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/6/5/7656-massey-ferguson-6614-engine.html",
+    "source_id": 7656,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:43:49.589Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7656/7656-photo-001-ext180.jpg",
+    "foto_calidad": "webp 960px/q65 → 55 KB"
+  },
+  "tractor_data_id": 7656,
+  "name": "Massey Ferguson 6614",
+  "brand": "Massey Ferguson (a part of AGCO)",
+  "model": "ferguson 6614",
+  "years": {
+    "desde": 2014,
+    "hasta": 2016
+  },
+  "model_year": 2014,
+  "engine_power_hp": 130,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 100,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 5670,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 36.7,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 460/85R38",
+  "tire_width_mm": 460,
+  "tire_diameter_mm": 1747,
+  "tire_front": {
+    "original": "380/85R28",
+    "radial": true,
+    "width_mm": 380,
+    "rim_in": 28,
+    "diameter_mm_est": 1357,
+    "tipo": "Radial",
+    "texto": "380/85R28"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7656/7656-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7656/7656-photo-001-ext180.jpg",
+  "image_url": "/uploads/tractors/td7656.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2014 - 2016",
+          "__seccion_2__": "6600 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson (a part of AGCO)",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Original price was $141,550 in 2014 with Dyna-VT, Deluxe"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "MT475D": "similar Challenger model"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 6614 Engine",
+          "__seccion_2__": "AGCO Power 4.9L 4-cyl diesel",
+          "Fuel tank": "61 gal 230.9 L",
+          "Exhaust fluid (DEF)": "9.2 gal 34.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 6614 Transmission",
+          "__seccion_2__": "continuously variable transmission (CVT)",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 6614 Power",
+          "Engine": "130 hp 96.9 kW",
+          "Engine (max)": "140 hp 104.4 kW",
+          "PTO (claimed)": "100 hp 74.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Final drives": "inboard planetary",
+          "Differential lock": "electro-hydraulic front and rear",
+          "Steering": "hydraulic power",
+          "__seccion_2__": "Hydraulic wet disc brakes",
+          "__seccion_3__": "Cab standard with air conditioning. Optional deluxe cab with mechanical suspension. Optional premium cab with active hydraulic suspension."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 6614 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "&nbsp": "29 gpm (closed) 109.8 lpm",
+          "Valves": "up to 4",
+          "SCV flow": "15 gpm 56.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Control": "electronic draft control",
+          "Rear lift (at 24\"/610mm)": "11400 lbs 5171 kg",
+          "Front lift": "7050 lbs 3197 kg",
+          "Drawbar": "Cat. 2"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000",
+          "&nbsp": "540E/540/1000/1000E"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "105 inches 266 cm",
+          "Weight": "12500 lbs 5670 kg",
+          "Front tire": "380/85R28",
+          "Rear tire": "460/85R38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "175",
+          "Batteries": "2",
+          "Battery CCA": "600",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on October 21, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2014 - 2016",
+          "__seccion_2__": "6600 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 6614 Tires",
+          "Ag front": "380/85R28",
+          "Ag rear": "460/85R38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "105 inches 266 cm",
+          "Length": "184.7 inches 469 cm",
+          "Height (cab)": "115.5 inches 293 cm",
+          "Weight": "12500 lbs 5670 kg",
+          "Front axle": "Suspended 4WD",
+          "Bar rear axle": "3.74 by 90 inches 94 by 2286 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 21, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2014 - 2016",
+          "__seccion_2__": "6600 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "AGCO Power",
+          "__seccion_3__": "wastegate turbocharger and intercooled diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "299 ci 4.9 L",
+          "Bore/Stroke": "4.252x5.276 inches 108 x 134 mm",
+          "Emissions": "Interim Tier IV",
+          "Emission control": "slective catalytic reduction with diesel oxidation catalyst (DOC) (SCR)",
+          "Power": "130 hp 96.9 kW",
+          "Maximum Power": "140 hp 104.4 kW",
+          "Fuel system": "high pressure common rail",
+          "Cooling system": "electronically controlled viscous fan",
+          "Air cleaner": "dual dry element",
+          "Pre-heating": "block heater",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 21, 2022"
+        }
+      ]
+    }
+  }
+}

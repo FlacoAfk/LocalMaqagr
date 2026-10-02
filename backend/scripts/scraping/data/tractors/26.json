@@ -1,0 +1,287 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/2/26-john-deere-b.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/2/26-john-deere-b-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/2/26-john-deere-b-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/2/26-john-deere-b-engine.html",
+    "source_id": 26,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:34:49.984Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/26/26-photo-001-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 109 KB",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1046/",
+    "nebraska_test": 232
+  },
+  "tractor_data_id": 26,
+  "name": "John Deere B",
+  "brand": "John Deere",
+  "model": "B",
+  "years": {
+    "desde": 1935,
+    "hasta": 1952
+  },
+  "model_year": 1935,
+  "engine_power_hp": 16,
+  "engine_power_source": "belt_claimed (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 11.8,
+  "weight_kg": 1485,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 7.7,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 48x5.25",
+  "tire_width_mm": 1219,
+  "tire_diameter_mm": 2206,
+  "tire_front": {
+    "original": "22x3.25",
+    "radial": false,
+    "width_mm": 559,
+    "rim_in": 3.25,
+    "diameter_mm_est": 1033,
+    "tipo": "Diagonal",
+    "texto": "22x3.25"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/26/26-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/26/26-photo-001-ext000.jpg",
+  "image_url": "/uploads/tractors/td26.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1935 - 1952",
+          "__seccion_2__": "Model year 1935-1938 1939-1946 1947-1952",
+          "__seccion_3__": "Two-Cylinder Letter Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "Total built": "55,670 (all unstyled)",
+          "&nbsp": "15,613 (long frame)",
+          "__seccion_4__": "The John Deere model B was introduced as a smaller tractor, to fill the needs of row-crop farmers that did not need a tractor as large as the A. It had a nearly 20-year production run, and the versions of the B can be broadly divided into three groups. The original B is often referred to as \"unstyled\", and includes all tractors built through 1938. In 1939, with tractor number 60000, began the \"early styled\" model B. In mid 1947, with tractor number 201000, began the \"late styled\" model B. Within the first year of production, tractors number 1000 through 3042 used a four-bolt front pedestal."
+        },
+        {
+          "__seccion_1__": "Variants",
+          "B": "tricycle front axle",
+          "BR": "fixed front axle",
+          "BO": "Orchard",
+          "BN": "narrow row-crop",
+          "BW": "wide row-crop",
+          "BI": "industrial tractor",
+          "BO Lindeman": "crawler"
+        },
+        {
+          "__seccion_1__": "John Deere B Engine",
+          "__seccion_2__": "John Deere 2.4L 2-cyl all fuel",
+          "Fuel tank": "12 gal 45.4 L",
+          "Aux. fuel": "1 gal 3.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere B Transmission",
+          "__seccion_2__": "4-speed unsynchronized gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere B Power",
+          "Drawbar (claimed)": "12 hp 8.9 kW",
+          "Belt (claimed)": "16 hp 11.9 kW",
+          "Plows": "2 (10-inch)",
+          "Drawbar (tested)": "11.80 hp 8.8 kW",
+          "Belt (tested)": "16.01 hp 11.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "manual",
+          "__seccion_3__": "Differential mechanical expanding shoe brakes",
+          "__seccion_4__": "Open operator station with pressed steel seat."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere B photos..."
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "3,275 lbs 1485 kg",
+          "Front tire": "22x3.25",
+          "Rear tire": "48x5.25",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "B Serial Number Location",
+          "__seccion_2__": "The left side of the transmission case, under the governor."
+        },
+        {
+          "1935": "1000",
+          "1936": "12012",
+          "1937": "27389",
+          "1938": "46175 (*49302)",
+          "1939": "60000",
+          "1940": "78526",
+          "1941": "96000",
+          "1942": "118721",
+          "1943": "136315",
+          "1944": "149219",
+          "1945": "167700",
+          "1946": "179788",
+          "1947": "191303",
+          "1948": "209295",
+          "1949": "230044",
+          "1950": "253025",
+          "1951": "275242",
+          "1952": "293030",
+          "__seccion_1__": "B Serial Numbers",
+          "Final": "310772",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Links",
+          "__seccion_2__": "John Deere Model B : information at RetiredTractors.com"
+        },
+        {
+          "__seccion_1__": "Belt Pulley",
+          "Diameter": "9.6875 inches 24 cm",
+          "Width": "7.25 inches 18 cm",
+          "RPM": "1250",
+          "Speed": "3110 ft/min 947.93 meters/min"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere Unstyled Letter Series by J.R. Hobbs",
+          "__seccion_3__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_4__": "Models A & B General Purpose Tractors published in 1936, by John Deere",
+          "__seccion_5__": "Facts About John Deere Tractor Wholesale Prices 1935-1961",
+          "__seccion_6__": "*Publication contains known errors.",
+          "__seccion_7__": "Instructions for General Purpose Tractors Model B (DIR-218) published in 1939",
+          "__seccion_8__": "Instructions for General Purpose Tractors Model B (DIR-313) published in 1958",
+          "__seccion_9__": "Operator's Manual Model B Series Tractor (OM-R2005R)"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 24, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1935 - 1952",
+          "__seccion_2__": "Model year 1935-1938 1939-1946 1947-1952",
+          "__seccion_3__": "Two-Cylinder Letter Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere B Tires",
+          "Ag front": "22x3.25 (steel)",
+          "Ag rear": "48x5.25 (steel)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Length": "120.5 inches 306 cm",
+          "Width": "85 inches 215 cm",
+          "Height (hood)": "56 inches 142 cm",
+          "Weight": "3,275 lbs 1485 kg",
+          "Rear tread": "56 to 84 inches 142 to 213 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 24, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1935 - 1952",
+          "__seccion_2__": "Model year 1935-1938 1939-1946 1947-1952",
+          "__seccion_3__": "Two-Cylinder Letter Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 232"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 232",
+          "__seccion_2__": "Distillate 4-speed 2WD November 15, 1934 - April 19, 1935 Link: Nebraska Tractor Test 232 file",
+          "Belt power (max)": "16.01 hp 11.9 kW",
+          "Belt fuel use (max)": "2.1 gal/hour 7.9 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "11.80 hp 8.8 kW",
+          "__seccion_4__": "Gear 2 used for power test.",
+          "Max pull": "1,728 lbs 783 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 24, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1935 - 1952",
+          "__seccion_2__": "Model year 1935-1938 1939-1946 1947-1952",
+          "__seccion_3__": "Two-Cylinder Letter Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "all fuel",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "149 ci 2.4 L",
+          "Bore/Stroke": "4.25x5.25 inches 108 x 133 mm",
+          "Fuel system": "Marvel-Schebler DLTX-10",
+          "Cooling system": "thermo-siphon",
+          "Air cleaner": "oil bath",
+          "Compression": "4.71:1",
+          "Rated RPM": "975",
+          "Firing order": "1-2",
+          "Starter type": "hand-crank",
+          "Oil capacity": "7 qts 6.6 L",
+          "Coolant capacity": "22 qts 20.8 L",
+          "Sparkplug gap": "0.030 inches 0.762 mm",
+          "Point gap": "0.015 inches 0.381 mm",
+          "Intake valve clearance": "0.020 inches (hot) 0.508 mm",
+          "Exhaust valve clearance": "0.020 inches (hot) 0.508 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 24, 2025"
+        }
+      ]
+    }
+  }
+}

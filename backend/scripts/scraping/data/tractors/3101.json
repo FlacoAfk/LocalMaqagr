@@ -1,0 +1,229 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/1/0/3101-new-holland-tc45.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/1/0/3101-new-holland-tc45-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/1/0/3101-new-holland-tc45-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3101,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:22:48.986Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3101/3101-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 124 KB"
+  },
+  "tractor_data_id": 3101,
+  "name": "New Holland TC45",
+  "brand": "New Holland",
+  "model": "TC45",
+  "years": {
+    "desde": 2001,
+    "hasta": 2003
+  },
+  "model_year": 2001,
+  "engine_power_hp": 45,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 39.6,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1626,
+  "weight_basis": "TC45D SuperSteer Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 14.5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14.9x24",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1253,
+  "tire_front": {
+    "original": "7x16",
+    "radial": false,
+    "width_mm": 178,
+    "rim_in": 16,
+    "diameter_mm_est": 709,
+    "tipo": "Diagonal",
+    "texto": "7x16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F003/3101/3101-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3101/3101-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td3101.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2001 - 2003",
+          "__seccion_2__": "Boomer TC Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "TC45": "gear",
+          "TC45D": "hydrostatic",
+          "D45": "similar CaseIH model",
+          "DX45": "similar CaseIH model"
+        },
+        {
+          "__seccion_1__": "New Holland TC45 Engine",
+          "__seccion_2__": "Shibaura 2.2L 4-cyl diesel",
+          "Fuel tank": "13 gal 49.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TC45 Transmissions",
+          "__seccion_2__": "12-speed synch shuttle",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TC45 Power",
+          "Engine (gross)": "45 hp 33.6 kW",
+          "Gear PTO (claimed)": "39.6 hp 29.5 kW",
+          "Hydro PTO (claimed)": "37.8 hp 28.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland TC45 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "9.8 gpm 37.1 lpm",
+          "Total flow": "14.9 gpm 56.4 lpm",
+          "Steering flow": "5.1 gpm 19.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at 24\"/610mm)": "2330 lbs 1056 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "73.5 inches 186 cm",
+          "SuperSteer Wheelbase": "81 inches 205 cm",
+          "Weight": "3200 to 3586 pounds",
+          "Front tire": "5.50x16",
+          "Rear tire": "13.6x24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "New Holland TC45 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "BOOMER Compact Tractors published in 2003, by New Holland",
+          "__seccion_3__": "Boomer Compact Tractors - Six NEW bigger, more powerful Boomers published in 1999, by New Holland"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 30, 2024",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2001 - 2003",
+          "__seccion_2__": "Boomer TC Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "New Holland TC45 Tires",
+          "2WD Ag front": "7.5Lx15",
+          "4WD Ag front": "8x16",
+          "Ag rear": "13.6x24",
+          "&nbsp": "14.9x24",
+          "2WD Lawn/turf front": "25x8.50-14",
+          "4WD Lawn/turf front": "27/12LLx15",
+          "Lawn/turf rear": "44x18-20",
+          "4WD Lawn/turf rear": "22.5LLx16.1",
+          "4WD Industrial front": "10x16.5",
+          "4WD Industrial rear": "17.5Lx24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "73.5 inches 186 cm",
+          "SuperSteer Wheelbase": "81 inches 205 cm",
+          "Length": "125.2 inches 318 cm",
+          "SuperSteer Length": "129.6 inches 329 cm",
+          "Width": "61.3 inches 155 cm",
+          "Height (ROPS)": "95 inches 241 cm",
+          "Ground clearance": "14 inches 35 cm",
+          "Front tread": "46.4 inches 117 cm",
+          "Rear tread": "47.5 inches 120 cm"
+        },
+        {
+          "__seccion_1__": "New Holland TC45 Weight",
+          "TC45 2WD Shipping": "3,200 lbs 1451 kg",
+          "TC45 4WD Shipping": "3,349 lbs 1519 kg",
+          "TC45D 4WD Shipping": "3,417 lbs 1549 kg",
+          "TC45D SuperSteer Shipping": "3,586 lbs 1626 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 30, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2001 - 2003",
+          "__seccion_2__": "Boomer TC Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibaura N844L",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "135.2 ci 2.2 L",
+          "Bore/Stroke": "3.307x3.937 inches 84 x 100 mm",
+          "Power (gross)": "45 hp 33.6 kW",
+          "Rated RPM": "2600",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 30, 2024"
+        }
+      ]
+    }
+  }
+}

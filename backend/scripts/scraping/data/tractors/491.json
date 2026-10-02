@@ -1,0 +1,280 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/4/9/491-ji-case-731.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/4/9/491-ji-case-731-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/4/9/491-ji-case-731-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/4/9/491-ji-case-731-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 491,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:05:24.027Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/491/491-photo-001-ext000.jpg",
+    "foto_calidad": "webp 800px/q55 → 55 KB"
+  },
+  "tractor_data_id": 491,
+  "name": "J.I. Case 731",
+  "brand": "J.I. Case",
+  "model": "731",
+  "years": {
+    "desde": 1960,
+    "hasta": 1969
+  },
+  "model_year": 1960,
+  "engine_power_hp": 56.5,
+  "engine_power_source": "pto_tested (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": 56.5,
+  "drawbar_tested_hp": 48.33,
+  "weight_kg": 3218,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 32.7,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 13.6-38",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1552,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": 16.3,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/491/491-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/491/491-photo-001-ext000.jpg",
+  "image_url": "/uploads/tractors/td491.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1960 - 1969",
+          "__seccion_2__": "730 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Row-Crop tractor",
+          "Original price": "$6,900 (1969)"
+        },
+        {
+          "730": "standard-front diesel",
+          "731": "row-crop diesel",
+          "732": "Western Special diesel",
+          "733": "high-clearance diesel",
+          "734": "orchard diesel",
+          "740": "standard-front gas",
+          "741": "row-crop gas",
+          "742": "Western Special gas",
+          "743": "high-clearance gas",
+          "744": "orchard gas",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "J.I. Case 731 Engine",
+          "__seccion_2__": "J.I. Case 4.4L 4-cyl diesel",
+          "Fuel tank": "22 gal 83.3 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 731 Transmissions",
+          "__seccion_2__": "8-speed torque converter",
+          "__seccion_3__": "8-speed unsynchronized",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 731 Power",
+          "Plows": "5",
+          "Drawbar (tested)": "48.33 hp 36.0 kW",
+          "PTO (tested)": "56.50 hp 42.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "manual",
+          "&nbsp": "power optional",
+          "__seccion_3__": "Differential disc brakes",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "J.I. Case 731 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "1"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Type": "Case Eagle Hitch"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "&nbsp": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "83 inches 210 cm",
+          "Weight": "7,095 lbs 3218 kg",
+          "Front tire": "6.00-16",
+          "Rear tire": "13.6-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 731 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1960": "8160001",
+          "1961": "8168801",
+          "1962": "8190001",
+          "1963": "8208001",
+          "1964": "8229001",
+          "1965": "8253501",
+          "1966": "8279001",
+          "1967": "8306501",
+          "1968": "8332101",
+          "1969": "8356251",
+          "__seccion_1__": "731 Serial Numbers",
+          "Location:": "Plate on instrument panel",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "295 / 391 / 392 Loaders published in 1966, by J.I. Case",
+          "__seccion_3__": "1960 Progress Parade of Case Farm Equipment published by J.I. Case",
+          "__seccion_4__": "A Complete New Line of Case Plus-Powered Tractors published in 1960, by J.I. Case",
+          "__seccion_5__": "1965 Buyers Guide published by J.I. Case",
+          "__seccion_6__": "Buyers Guide for '67 published in 1967, by J.I. Case"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on July 6, 2026"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1960 - 1969",
+          "__seccion_2__": "730 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "J.I. Case 731 Tires",
+          "Ag front": "6.00-16",
+          "Ag rear": "13.6-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "83 inches 210 cm",
+          "Operating weight": "7,095 lbs 3218 kg",
+          "Ballasted weight": "9,525 lbs 4320 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 6, 2026"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1960 - 1969",
+          "__seccion_2__": "730 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 742: diesel Case-O-Matic 2WD",
+          "__seccion_3__": "NTTL 743: diesel 8-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 742"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 742",
+          "__seccion_2__": "Diesel Case-O-Matic 2WD April 19 - May 6, 1960 Link: Nebraska Tractor Test 742 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "56.50 hp 42.1 kW",
+          "Fuel use": "4.2 gal/hour 15.9 l/hour",
+          "Power at rated PTO speed": "53.46 hp 39.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "48.31 hp 36.0 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "7362 lbs 3339 kg",
+          "__seccion_6__": "Gear 2-Torque used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 743"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 743",
+          "__seccion_2__": "Diesel 8-speed 2WD April 21 - May 6, 1960 Link: Nebraska Tractor Test 743 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "56.43 hp 42.1 kW",
+          "Fuel use": "3.8 gal/hour 14.4 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "48.33 hp 36.0 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "7531 lbs 3416 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 6, 2026"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1960 - 1969",
+          "__seccion_2__": "730 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "J.I. Case",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "267 ci 4.4 L",
+          "Bore/Stroke": "4.125x5.00 inches 105 x 127 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "15.2:1",
+          "Rated RPM": "1700 (Dual-Range)",
+          "&nbsp": "1900 (Case-o-Matic)",
+          "Starter volts": "12",
+          "Coolant capacity": "7.5 qts 7.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 6, 2026"
+        }
+      ]
+    }
+  }
+}

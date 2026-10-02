@@ -1,0 +1,254 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/4/40-john-deere-40c.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/4/40-john-deere-40c-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/4/40-john-deere-40c-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/4/40-john-deere-40c-engine.html",
+    "source_id": 40,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:34:50.074Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/40/40-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 100 KB",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1075/",
+    "nebraska_test": 505
+  },
+  "tractor_data_id": 40,
+  "name": "John Deere 40C",
+  "brand": "John Deere",
+  "model": "40C",
+  "years": {
+    "desde": 1953,
+    "hasta": 1955
+  },
+  "model_year": 1953,
+  "engine_power_hp": 21.24,
+  "engine_power_source": "belt_claimed (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 19.63,
+  "weight_kg": 2041,
+  "weight_basis": "Weight",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 20.1,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/40/40-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/40/40-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td40.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1953 - 1955",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Agricultural Crawler tractor",
+          "__seccion_3__": "Built in Dubuque, Iowa, USA",
+          "Total built": "11,814",
+          "__seccion_4__": "The John Deere 40C is the crawler version of the model 40."
+        },
+        {
+          "40": "wheeled tractor",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "John Deere 40C Engines",
+          "__seccion_2__": "John Deere 1.6L 2-cyl gasoline",
+          "__seccion_3__": "John Deere 1.6L 2-cyl all-fuel",
+          "Fuel tank": "11 gal 41.6 L",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 40C Transmission",
+          "__seccion_2__": "4-speed unsynchronized gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 40C Power",
+          "Drawbar (claimed)": "15.11 hp 11.3 kW",
+          "Belt (claimed)": "21.24 hp 15.8 kW",
+          "Drawbar (tested)": "19.63 hp 14.6 kW",
+          "Belt (tested)": "25.0 hp 18.6 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "crawler",
+          "Steering": "manual clutches",
+          "__seccion_2__": "Mechanical contracting band brakes",
+          "__seccion_3__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 40C photos..."
+        },
+        {
+          "__seccion_1__": "Dimensions & Tracks",
+          "Wheelbase": "56 inches 142 cm",
+          "Weight": "4500 to 6000 pounds",
+          "__seccion_2__": "12-inch tracks",
+          "__seccion_3__": "Full dimensions and tracks ..."
+        },
+        {
+          "__seccion_1__": "40C Serial Number Location",
+          "__seccion_2__": "Left side of tractor, behind bell housing"
+        },
+        {
+          "1953": "60001",
+          "1954": "62264",
+          "1955": "66020",
+          "__seccion_1__": "40C Serial Numbers",
+          "Final": "71689",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Links",
+          "__seccion_2__": "JD40C : Information and photos about the 40C"
+        },
+        {
+          "__seccion_1__": "Belt Pulley",
+          "Diameter": "9.1 inches 23 cm",
+          "Width": "6.125 inches 15 cm",
+          "RPM": "1267",
+          "Speed": "3006 ft/min 916.23 meters/min"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The First Numbered Series of John Deere Tractors published in 2004, by Hain Publishing",
+          "__seccion_3__": "Industrial Tractors and Equipment published in 1954, by John Deere",
+          "__seccion_4__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_5__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 1, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1953 - 1955",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 40C Tracks",
+          "Width": "14 inches 35 cm"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "56 inches 142 cm",
+          "Weight": "4,500 lbs 2041 kg",
+          "&nbsp": "6,000 lbs (with blade) 2721 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 1, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1953 - 1955",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 505"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 505",
+          "__seccion_2__": "Gasoline 4-speed crawler September 9 - 23, 1953 Link: Nebraska Tractor Test 505 file",
+          "Belt power (max)": "25.0 hp 18.6 kW",
+          "Belt fuel use (max)": "2.4 gal/hour 9.1 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "19.63 hp 14.6 kW",
+          "__seccion_4__": "Gear 3 used for power test.",
+          "Max pull": "4,515 lbs 2048 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 1, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1953 - 1955",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "John Deere 1.6L 2-cyl gasoline",
+          "__seccion_3__": "John Deere 1.6L 2-cyl all-fuel"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "100.5 ci 1.6 L",
+          "Bore/Stroke": "4.00x4.00 inches 102 x 102 mm",
+          "Compression": "6.5:1",
+          "Rated RPM": "1850",
+          "Firing order": "1-2",
+          "Starter volts": "6",
+          "Oil capacity": "5 qts 4.7 L",
+          "Coolant capacity": "14 qts 13.2 L",
+          "Sparkplug gap": "0.025 inches 0.635 mm",
+          "Point gap": "0.022 inches 0.559 mm"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "all-fuel",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "100.5 ci 1.6 L",
+          "Bore/Stroke": "4.00x4.00 inches 102 x 102 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "6.5:1",
+          "Rated RPM": "1850",
+          "Firing order": "1-2",
+          "Starter volts": "6",
+          "Oil capacity": "5 qts 4.7 L",
+          "Sparkplug gap": "0.025 inches 0.635 mm",
+          "Point gap": "0.022 inches 0.559 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 1, 2022"
+        }
+      ]
+    }
+  }
+}

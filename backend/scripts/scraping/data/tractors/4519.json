@@ -1,0 +1,191 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/004/5/1/4519-massey-ferguson-295.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/004/5/1/4519-massey-ferguson-295-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/004/5/1/4519-massey-ferguson-295-engine.html",
+    "source_id": 4519,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:35:58.496Z"
+  },
+  "tractor_data_id": 4519,
+  "name": "Massey Ferguson 295",
+  "brand": "Massey Ferguson",
+  "model": "295",
+  "years": {
+    "desde": 1978,
+    "hasta": 1990
+  },
+  "model_year": 1978,
+  "engine_power_hp": 105,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 74,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3800,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 27.1,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "9.00x16",
+    "radial": false,
+    "width_mm": 229,
+    "rim_in": 16,
+    "diameter_mm_est": 795,
+    "tipo": "Diagonal",
+    "texto": "9.00x16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": null,
+  "photo_url_large": null,
+  "image_url": null,
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1978 - 1990",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 295 Engine",
+          "__seccion_2__": "Perkins 5.9L 6-cyl diesel",
+          "Fuel tank": "40.4 gal 152.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 295 Transmission",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 295 Power",
+          "Engine": "105 hp 78.3 kW",
+          "PTO (claimed)": "74 hp * At 540 RPM. 55.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechnical wet disc brakes",
+          "__seccion_5__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 295 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Pressure": "2987 psi 206.0 bar",
+          "Pump flow": "4.5 gpm 17.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear lift": "5512 lbs 2500 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1700"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "97.6 inches 247 cm",
+          "Weight": "8378 lbs 3800 kg",
+          "Front tire": "9.00x16",
+          "Rear tire": "18.4/15-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "35",
+          "Battery volts": "12",
+          "Battery AH": "135"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 24, 2016"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1978 - 1990",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 295 Tires",
+          "Ag front": "9.00x16",
+          "Ag rear": "23.1/18-26"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "97.6 inches 247 cm",
+          "Length": "163 inches 414 cm",
+          "Height (steering wheel)": "70.9 inches 180 cm",
+          "Weight": "8378 lbs 3800 kg",
+          "Front tread": "54.3 to 78.4 inches 137 to 199 cm",
+          "Rear tread": "55.9 to 92.1 inches 141 to 233 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 24, 2016"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1978 - 1990",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A6.358",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "358 ci 5.9 L",
+          "Bore/Stroke": "4.10x4.50 inches 104 x 114 mm",
+          "Power": "105 hp 78.3 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dual dry element",
+          "Compression": "14:1",
+          "Rated RPM": "2200",
+          "Torque": "258.2 lb-ft 350.1 Nm",
+          "Torque RPM": "1400",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "13.75 qts 13.0 L",
+          "Coolant capacity": "23.4 qts 22.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 24, 2016"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/4/9/6499-massey-ferguson-7497.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/4/9/6499-massey-ferguson-7497-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/006/4/9/6499-massey-ferguson-7497-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/4/9/6499-massey-ferguson-7497-engine.html",
+    "source_id": 6499,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:39:18.342Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6499/6499-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 6499,
+  "name": "Massey Ferguson 7497",
+  "brand": "Massey Ferguson",
+  "model": "7497",
+  "years": {
+    "desde": 2009,
+    "hasta": 2012
+  },
+  "model_year": 2009,
+  "engine_power_hp": 205,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 165,
+  "pto_tested_hp": 207.82,
+  "drawbar_tested_hp": 149.22,
+  "weight_kg": 7426,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 77.2,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 43.5,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F006/6499/6499-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td6499.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2009 - 2012",
+          "__seccion_2__": "7400 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Beauvais, France"
+        },
+        {
+          "6497": "Dyna-6",
+          "7497": "Dyna-VT",
+          "__seccion_1__": "Variants",
+          "MT585B": "similar Challenger model"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 7497 Engine",
+          "__seccion_2__": "AGCO Sisu Power 7.4L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 7497 Transmission",
+          "__seccion_2__": "continuously variable transmission (CVT)",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 7497 Power",
+          "Engine": "205 hp 152.9 kW",
+          "PTO (claimed)": "165 hp 123.0 kW",
+          "Drawbar (tested)": "149.22 hp 111.3 kW",
+          "PTO (tested)": "207.82 hp 155.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "electro-hydraulic front and rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning. Pneumatic cab suspension optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 7497 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "94 gal 355.8 L",
+          "Hydraulic system": "15.3 gal 57.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "15.3 gal 57.9 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "3 or 4",
+          "Total flow": "29.1 gpm 110.1 lpm",
+          "&nbsp": "39.6 gpm Opt Optional 149.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Control": "lower-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "16140 lbs 7321 kg",
+          "Front Hitch": "optional",
+          "Front lift": "8800 lbs 3991 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540/540E/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "118 inches 299 cm",
+          "Weight": "16372 to 17685 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "175",
+          "Batteries": "2",
+          "Battery CCA": "600",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "6400/7400 Series published in 2010, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 14, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2009 - 2012",
+          "__seccion_2__": "7400 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 7497 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "118 inches 299 cm",
+          "Length": "210 inches 533 cm",
+          "Width": "97.2 inches (short axle) 246 cm",
+          "&nbsp": "118.1 inches (long axle) 299 cm",
+          "Height (cab)": "120 inches 304 cm",
+          "Shipping weight": "16372 lbs 7426 kg",
+          "Operating weight": "17685 lbs 8021 kg",
+          "Clearance (drawbar)": "16 inches 40 cm",
+          "__seccion_2__": "Bar rear axle",
+          "Front tread": "60 to 88 inches 152 to 223 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 14, 2020"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2009 - 2012",
+          "__seccion_2__": "7400 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2031"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2031",
+          "__seccion_2__": "Diesel Dyna-VT 4WD June 12 - 18, 2012 Link: OCED Tractor Test 2031 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "149.22 hp 111.3 kW",
+          "Fuel use": "11.2 gal/hour 42.4 l/hour",
+          "Power at rated engine speed": "180.88 hp 134.9 kW",
+          "Power at rated PTO speed": "203.86 hp 152.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Pull at 9 kph",
+          "Max pull": "17365 lbs 7876 kg",
+          "__seccion_6__": "Pull at 5 kph"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 14, 2020"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2009 - 2012",
+          "__seccion_2__": "7400 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "AGCO Sisu Power",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "451.6 ci 7.4 L",
+          "Bore/Stroke": "4.25x4.78 inches 108 x 121 mm",
+          "Emissions": "Tier III",
+          "Power": "205 hp 152.9 kW",
+          "Maximum Power": "225 hp 167.8 kW",
+          "Starter type": "electric"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 14, 2020"
+        }
+      ]
+    }
+  }
+}

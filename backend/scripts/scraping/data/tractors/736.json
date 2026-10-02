@@ -1,0 +1,316 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/7/3/736-massey-ferguson-85.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/7/3/736-massey-ferguson-85-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/7/3/736-massey-ferguson-85-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/7/3/736-massey-ferguson-85-engine.html",
+    "source_id": 736,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:22:39.119Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/736/736-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 97 KB"
+  },
+  "tractor_data_id": 736,
+  "name": "Massey Ferguson 85",
+  "brand": "Massey Ferguson",
+  "model": "85",
+  "years": {
+    "desde": 1959,
+    "hasta": 1962
+  },
+  "model_year": 1959,
+  "engine_power_hp": 62.21,
+  "engine_power_source": "pto_tested (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": 62.21,
+  "drawbar_tested_hp": 55.23,
+  "weight_kg": 2602,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 39,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 15x30",
+  "tire_width_mm": 381,
+  "tire_diameter_mm": 1410,
+  "tire_front": {
+    "original": "6.00x16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00x16"
+  },
+  "fuel_consumption_lph": 20.1,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/736/736-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/736/736-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td736.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1959 - 1962",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Detroit, Michigan, USA",
+          "__seccion_4__": "Original price was $4,618 in 1962"
+        },
+        {
+          "85": "row-crop",
+          "88": "western",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 85 Engines",
+          "__seccion_2__": "Continential 3.7L 4-cyl gasoline",
+          "__seccion_3__": "Continential 4.0L 4-cyl gasoline",
+          "__seccion_4__": "Continental 4.0L 4-cyl LP gas",
+          "__seccion_5__": "Continential 4.5L 4-cyl diesel",
+          "Fuel tank": "23 gal 87.1 L",
+          "__seccion_6__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 85 Transmission",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 85 Power",
+          "Plows": "5",
+          "Drawbar (tested)": "55.23 hp 41.2 kW",
+          "PTO (tested)": "62.21 hp 46.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical disc brakes",
+          "__seccion_5__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 85 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "2",
+          "Pump flow": "7 gpm 26.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "mechanical lower-link draft control"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live * Two-stage clutch",
+          "Rear PTO Type": "540",
+          "Engine RPM": "540@1500"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "88 inches 223 cm",
+          "Weight": "5737 lbs 2602 kg",
+          "Front tire": "6.00x16",
+          "Rear tire": "15x30 (standard)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 85 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "85 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the instrument panel or right side of the battery box."
+        },
+        {
+          "1958": "800001",
+          "1959": "800048",
+          "1960": "804355",
+          "1961": "807750",
+          "1962": "808564",
+          "__seccion_1__": "85 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Loaders published in 1963, by Massey Ferguson",
+          "__seccion_3__": "Preliminary Features Massey Ferguson 85 and 88 Diesel Tractors published in 1960",
+          "__seccion_4__": "5-Plow Massey-Ferguson 85 published in 1959, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 7, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1959 - 1962",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 85 Tires",
+          "Standard tires (ag)": "Front: 6.00x16. Rear: 15x30 (standard)",
+          "&nbsp": "Front: 6.00x16. Rear: 12x30 (high-arc)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "88 inches 223 cm",
+          "Height": "64.5 inches 163 cm",
+          "Operating weight": "5737 lbs 2602 kg",
+          "Ballasted weight": "11245 lbs 5100 kg",
+          "Rear tread": "56 to 92 inches 142 to 233 cm (row-crop)"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 7, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1959 - 1962",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 726: gasoline 8-speed 2WD",
+          "__seccion_3__": "NTTL 727: LP gas 8-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 726"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 726",
+          "__seccion_2__": "Gasoline 8-speed 2WD November 2 - 13, 1959 Link: Nebraska Tractor Test 726 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "61.23 hp 45.7 kW",
+          "Fuel use": "4.9 gal/hour 18.5 l/hour",
+          "Power at rated PTO speed": "52.89 hp 39.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "50.76 hp 37.9 kW",
+          "__seccion_5__": "Gear 3 used for power test.",
+          "Max pull": "8,763 lbs 3974 kg",
+          "__seccion_6__": "Gear 3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 727"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 727",
+          "__seccion_2__": "LP gas 8-speed 2WD November 2 - 13, 1959 Link: Nebraska Tractor Test 727 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "62.21 hp 46.4 kW",
+          "Fuel use": "6.6 gal/hour 25.0 l/hour",
+          "Power at rated PTO speed": "52.49 hp 39.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "55.23 hp 41.2 kW",
+          "__seccion_5__": "Gear 3 used for power test.",
+          "Max pull": "8,666 lbs 3930 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 7, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1959 - 1962",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Continential 3.7L 4-cyl gasoline",
+          "__seccion_3__": "Continential 4.0L 4-cyl gasoline",
+          "__seccion_4__": "Continental 4.0L 4-cyl LP gas",
+          "__seccion_5__": "Continential 4.5L 4-cyl diesel"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Continential E-223",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled vertical L-head",
+          "__seccion_6__": "The E223 was used on early-production models of the Massey 85. It was replaced with the E242.",
+          "Displacement": "223 ci 3.7 L",
+          "Bore/Stroke": "3.8125x5.125 inches 97 x 130 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "7.35:1",
+          "Rated RPM": "2000",
+          "Starter volts": "12",
+          "Oil capacity": "7 qts 6.6 L",
+          "Coolant capacity": "15 qts 14.2 L"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 85 Engine"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Continential E-242",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled vertical L-head",
+          "__seccion_6__": "Late engine. The 242 replaced the earlier Continental 223.",
+          "Displacement": "242 ci 4.0 L",
+          "Bore/Stroke": "3.875x5.125 inches 98 x 130 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "7.35:1",
+          "Rated RPM": "2000"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Continental E-242",
+          "__seccion_3__": "LP gas",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled vertical L-head",
+          "Displacement": "242 ci 4.0 L",
+          "Bore/Stroke": "3.875x5.125 inches 98 x 130 mm",
+          "Compression": "8.8:1",
+          "Rated RPM": "2000"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Continential",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "276.5 ci 4.5 L",
+          "Bore/Stroke": "4.00x5.50 inches 102 x 140 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "15.2:1",
+          "Rated RPM": "2000"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 7, 2022"
+        }
+      ]
+    }
+  }
+}

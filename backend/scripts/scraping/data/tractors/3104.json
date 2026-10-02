@@ -1,0 +1,286 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/1/0/3104-new-holland-tn55.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/1/0/3104-new-holland-tn55-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/1/0/3104-new-holland-tn55-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/1/0/3104-new-holland-tn55-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3104,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:22:58.654Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3104/3104-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 121 KB"
+  },
+  "tractor_data_id": 3104,
+  "name": "New Holland TN55",
+  "brand": "New Holland",
+  "model": "TN55",
+  "years": {
+    "desde": 1999,
+    "hasta": 2004
+  },
+  "model_year": 1999,
+  "engine_power_hp": 53,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 42,
+  "pto_tested_hp": 43,
+  "drawbar_tested_hp": 35.3,
+  "weight_kg": 2286,
+  "weight_basis": "4WD ROPS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 28.4,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 14.9-28",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1355,
+  "tire_front": {
+    "original": "8.3-24",
+    "radial": false,
+    "width_mm": 211,
+    "rim_in": 24,
+    "diameter_mm_est": 968,
+    "tipo": "Diagonal",
+    "texto": "8.3-24"
+  },
+  "fuel_consumption_lph": 10.2,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F003/3104/3104-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3104/3104-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td3104.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1999 - 2004",
+          "__seccion_2__": "TN Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Jesi, Italy",
+          "__seccion_4__": "Original price was $30,000 in 2000"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "TN55": "ROPS",
+          "TN55D": "cab",
+          "TN55S": "SuperSteer"
+        },
+        {
+          "__seccion_1__": "New Holland TN55 Engine",
+          "__seccion_2__": "Iveco 2.9L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TN55 Transmissions",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "8-speed partially synchronized",
+          "__seccion_4__": "16-speed partially synchronized",
+          "__seccion_5__": "32-speed two-speed power shift",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TN55 Power",
+          "Engine (gross)": "53 hp 39.5 kW",
+          "Engine (net)": "50 hp 37.3 kW",
+          "PTO (claimed)": "42 hp 31.3 kW",
+          "Drawbar (tested)": "35.3 hp 26.3 kW",
+          "PTO (tested)": "43.0 hp 32.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland TN55 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "17.3 gal 65.5 L",
+          "Hydraulic system": "11.1 gal 42.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "11.1 gal 42.0 L",
+          "Pressure": "2755 psi 190.0 bar",
+          "Valves": "1 or 2",
+          "Pump flow": "12.4 gpm 46.9 lpm",
+          "&nbsp": "9.2 gpm * With power shuttle transmission option. 34.8 lpm",
+          "Steering flow": "7.2 gpm 27.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at 24\"/610mm)": "3962 lbs 1797 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "dry disc",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD ROPS Wheelbase": "81.5 inches 207 cm",
+          "4WD ROPS Wheelbase": "78.9 inches 200 cm",
+          "2WD Cab Wheelbase": "83.9 inches 213 cm",
+          "4WD Cab Wheelbase": "81.3 inches 206 cm",
+          "4WD SuperSteer Wheelbase": "93.5 inches 237 cm",
+          "Weight": "4565 to 5675 pounds",
+          "Front tire": "7.50-16",
+          "2WD Rear tire": "14.9-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "New Holland TN55 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "45",
+          "Cab Charging amps": "65",
+          "Battery CCA": "730",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "New Holland TND/TNS Tractors published in 1998",
+          "__seccion_3__": "New Holland TN/TND/TNS Tractors published in 2002",
+          "__seccion_4__": "New! New Holland TND/TNS Tractors 42 to 62 PTO hp published in 1998",
+          "__seccion_5__": "TN55D TN65D TN75D TN55S TN65S TN75S Operator's Manual (86572984) published in 1998"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2020",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1999 - 2004",
+          "__seccion_2__": "TN Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "New Holland TN55 Tires",
+          "2WD Standard tires (ag)": "Front: 7.50-16. Rear: 14.9-28",
+          "4WD Standard tires (ag)": "Front: 8.3-24. Rear: 14.9-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD ROPS Wheelbase": "81.5 inches 207 cm",
+          "4WD ROPS Wheelbase": "78.9 inches 200 cm",
+          "2WD Cab Wheelbase": "83.9 inches 213 cm",
+          "4WD Cab Wheelbase": "81.3 inches 206 cm",
+          "4WD SuperSteer Wheelbase": "93.5 inches 237 cm",
+          "Length": "155 inches 393 cm",
+          "Width": "67.2 inches * Minimum width. 170 cm"
+        },
+        {
+          "__seccion_1__": "New Holland TN55 Weight",
+          "2WD ROPS Shipping": "4565 lbs 2070 kg",
+          "4WD ROPS Shipping": "5040 lbs 2286 kg",
+          "2WD Cab Shipping": "4930 lbs 2236 kg",
+          "4WD Cab Shipping": "5530 lbs 2508 kg",
+          "SuperSteer ROPS Shipping": "5235 lbs 2374 kg",
+          "SuperSteer Cab Shipping": "5675 lbs 2574 kg"
+        },
+        {
+          "__seccion_1__": "New Holland TN55 Height",
+          "ROPS": "95.1 inches 241 cm",
+          "Cab": "90.8 inches 230 cm",
+          "Exhaust": "90 inches 228 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2020"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1999 - 2004",
+          "__seccion_2__": "TN Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1900"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1900",
+          "__seccion_2__": "Diesel 8-speed 4WD April 1999 - November 1999, Link: OCED Tractor Test 1900 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "43.0 hp 32.1 kW",
+          "Fuel use": "2.7 gal/hour 10.2 l/hour",
+          "Power at rated PTO speed": "42.6 hp 31.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "35.3 hp 26.3 kW",
+          "__seccion_5__": "Gear 4S used for power test.",
+          "Max pull": "6,375 lbs 2891 kg",
+          "__seccion_6__": "Gear 2S used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2020"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1999 - 2004",
+          "__seccion_2__": "TN Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iveco 8035",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "179 ci 2.9 L",
+          "Bore/Stroke": "4.094x4.528 inches 104 x 115 mm",
+          "Power (net)": "50 hp 37.3 kW",
+          "Power (gross)": "53 hp 39.5 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "18:1",
+          "Rated RPM": "2300",
+          "Torque": "148 lb-ft 200.7 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2020"
+        }
+      ]
+    }
+  }
+}

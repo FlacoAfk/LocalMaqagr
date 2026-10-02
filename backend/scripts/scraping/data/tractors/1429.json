@@ -1,0 +1,220 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/4/2/1429-belarus-505.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/4/2/1429-belarus-505-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/4/2/1429-belarus-505-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1429,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:24:58.032Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1429/1429-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 800px/q55 → 52 KB"
+  },
+  "tractor_data_id": 1429,
+  "name": "Belarus 505",
+  "brand": "Belarus",
+  "model": "505",
+  "years": {
+    "desde": 1983,
+    "hasta": 1990
+  },
+  "model_year": 1983,
+  "engine_power_hp": 65,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 59,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3619,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 21.6,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 15.5-38",
+  "tire_width_mm": 394,
+  "tire_diameter_mm": 1634,
+  "tire_front": {
+    "original": "7.50-20",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 20,
+    "diameter_mm_est": 832,
+    "tipo": "Diagonal",
+    "texto": "7.50-20"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1429/1429-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1429/1429-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td1429.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1983 - 1990",
+          "__seccion_2__": "Progress Series"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Belarus",
+          "__seccion_2__": "Built in Minsk, Belarus"
+        },
+        {
+          "525": "4WD",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Belarus 505 Engine",
+          "__seccion_2__": "MTZ 4.8L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Belarus 505 Transmission",
+          "__seccion_2__": "9-speed unsynchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Belarus 505 Power",
+          "Engine": "65 hp 48.5 kW",
+          "PTO (claimed)": "59 hp 44.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical disc brakes"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Belarus 505 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "34 gal 128.7 L",
+          "Hydraulic system": "4.5 gal 17.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "4.5 gal 17.0 L",
+          "Pressure": "2850 psi 196.5 bar",
+          "Valves": "2",
+          "Pump flow": "9 gpm 34.1 lpm",
+          "Steering flow": "5.5 gpm 20.8 lpm",
+          "Steering press.": "1500 psi 103.4 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at ends)": "3325 lbs 1508 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/ground"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "93.5 inches 237 cm",
+          "Weight": "7980 lbs 3619 kg",
+          "Front tire": "7.50-20",
+          "Rear tire": "15.5-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "50",
+          "Batteries": "2",
+          "Battery CCA": "900",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operators Manual 500 Series, 800 Series and 900 Series Tractors (904805) published in 1992"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 25, 2016"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1983 - 1990",
+          "__seccion_2__": "Progress Series"
+        },
+        {
+          "__seccion_1__": "Belarus 505 Tires",
+          "Ag front": "7.50-20",
+          "Ag rear": "15.5-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "93.5 inches 237 cm",
+          "Length": "152 inches 386 cm",
+          "Height (hood)": "64.75 inches 164 cm",
+          "Height (ROPS)": "106.75 inches 271 cm",
+          "Shipping weight": "7980 lbs 3619 kg",
+          "Max weight": "12000 lbs 5443 kg",
+          "Clearance (front axle)": "17.5 inches 44 cm",
+          "Clearance (rear axle)": "21.5 inches 54 cm",
+          "Clearance (drawbar)": "12 inches 30 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 25, 2016"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1983 - 1990",
+          "__seccion_2__": "Progress Series"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "MTZ D-60",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "290 ci 4.8 L",
+          "Bore/Stroke": "4.33x4.92 inches 110 x 125 mm",
+          "Power": "65 hp 48.5 kW",
+          "Air cleaner": "oil bath",
+          "Compression": "16:1",
+          "Rated RPM": "1800",
+          "Torque": "197 lb-ft 267.1 Nm",
+          "Torque RPM": "1300",
+          "Firing order": "1-3-4-2",
+          "Starter volts": "12",
+          "Coolant capacity": "21 qts 19.9 L",
+          "Intake valve clearance": "0.012 inches 0.305 mm",
+          "Exhaust valve clearance": "0.012 inches 0.305 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "16 qts 15.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 25, 2016"
+        }
+      ]
+    }
+  }
+}

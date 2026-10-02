@@ -1,0 +1,320 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/4/49-john-deere-430.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/4/49-john-deere-430-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/4/49-john-deere-430-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/4/49-john-deere-430-engine.html",
+    "source_id": 49,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:34:51.441Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/49/49-photo-001-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 71 KB",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1086/",
+    "nebraska_test": 599
+  },
+  "tractor_data_id": 49,
+  "name": "John Deere 430",
+  "brand": "John Deere",
+  "model": "430",
+  "years": {
+    "desde": 1958,
+    "hasta": 1960
+  },
+  "model_year": 1958,
+  "engine_power_hp": 28.31,
+  "engine_power_source": "belt_tested (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 26.15,
+  "weight_kg": 1474,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 16.9,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 10-34",
+  "tire_width_mm": 254,
+  "tire_diameter_mm": 1295,
+  "tire_front": {
+    "original": "5.00x15",
+    "radial": false,
+    "width_mm": 127,
+    "rim_in": 15,
+    "diameter_mm_est": 597,
+    "tipo": "Diagonal",
+    "texto": "5.00x15"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/49/49-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/49/49-photo-001-ext000.jpg",
+  "image_url": "/uploads/tractors/td49.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1958 - 1960",
+          "__seccion_2__": "Two-Cylinder 30 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Dubuque, Iowa, USA",
+          "430W Total built": "5981",
+          "430T Total built": "3255",
+          "430S Total built": "1809",
+          "430U Total built": "1340",
+          "__seccion_4__": "Original price was $2,500 in 1960",
+          "__seccion_5__": "The John Deere model 430 was available in row-crop , high-crop, standard, utility, and crawler versions."
+        },
+        {
+          "__seccion_1__": "Variants",
+          "430T": "tricycle",
+          "430S": "standard",
+          "430U": "utility",
+          "430H": "high-crop",
+          "430V": "special",
+          "430W": "row-crop utility",
+          "430C": "crawler"
+        },
+        {
+          "__seccion_1__": "John Deere 430 Engines",
+          "__seccion_2__": "John Deere 1.9L 2-cyl gasoline",
+          "__seccion_3__": "John Deere 1.9L 2-cyl all-fuel",
+          "__seccion_4__": "John Deere 1.9L 2-cyl LP gas",
+          "Fuel tank": "10.5 gal 39.7 L",
+          "&nbsp": "20 gal (LP gas) 75.7 L",
+          "__seccion_5__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 430 Transmissions",
+          "__seccion_2__": "4-speed unsynchronized gear",
+          "__seccion_3__": "5-speed unsynchronized gear",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 430 Power",
+          "Drawbar (tested)": "26.15 hp 19.5 kW",
+          "Belt (tested)": "28.31 hp 21.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 430 photos..."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "&nbsp": "live (optional on 5-speed)",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "85 inches 215 cm",
+          "Weight": "3250 lbs 1474 kg",
+          "Front tire": "5.00x15",
+          "Rear tire": "10-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 430 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "430 Serial Number Location",
+          "__seccion_2__": "Left side of tractor, on clutch housing."
+        },
+        {
+          "1958": "140001",
+          "1959": "142671",
+          "1960": "158632",
+          "__seccion_1__": "430 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive",
+          "Charging system": "generator",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere 30 Series by J.R. Hobbs",
+          "__seccion_3__": "Operator's Manual 430 Tricycle Tractor (OM-T63-558) published in 1958",
+          "__seccion_4__": "Operator's Manual 430 Row-Crop Utility Tractor (OM-T65-558) published in 1958",
+          "__seccion_5__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_6__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on July 12, 2026",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1958 - 1960",
+          "__seccion_2__": "Two-Cylinder 30 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 430 Tires",
+          "Ag front": "5.00x15",
+          "&nbsp": "12-28",
+          "Ag rear": "10-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "85 inches 215 cm",
+          "Length": "136.1 inches 345 cm",
+          "Width": "85.75 inches 217 cm",
+          "Height (hood)": "56 inches 142 cm",
+          "Height (exhaust)": "73.9 inches 187 cm",
+          "Weight": "3250 lbs 1474 kg",
+          "Ground clearance": "21 inches 53 cm",
+          "Front tread": "56 to 88 inches 142 to 223 cm (wide axle)",
+          "Rear tread": "56 to 88 inches 142 to 223 cm (power adjust)"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 12, 2026"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1958 - 1960",
+          "__seccion_2__": "Two-Cylinder 30 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 599: gasoline 4-speed 2WD",
+          "__seccion_3__": "NTTL 600: tractor fuel 4-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 599"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 599",
+          "__seccion_2__": "Gasoline 4-speed 2WD October 13 - 25, 1956 Link: Nebraska Tractor Test 599 file",
+          "Belt power (max)": "28.31 hp 21.1 kW",
+          "Belt fuel use (max)": "2.6 gal/hour 9.8 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "26.15 hp 19.5 kW",
+          "__seccion_4__": "Gear 3 used for power test.",
+          "Max pull": "3,790 lbs 1719 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 600"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 600",
+          "__seccion_2__": "Tractor fuel 4-speed 2WD October 13 - 25, 1956 Link: Nebraska Tractor Test 600 file",
+          "Belt power (max)": "22.73 hp 16.9 kW",
+          "Belt fuel use (max)": "2.3 gal/hour 8.7 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "21.89 hp 16.3 kW",
+          "__seccion_4__": "Gear 3 used for power test.",
+          "Max pull": "2,734 lbs 1240 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 12, 2026"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1958 - 1960",
+          "__seccion_2__": "Two-Cylinder 30 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "John Deere 1.9L 2-cyl gasoline",
+          "__seccion_3__": "John Deere 1.9L 2-cyl all-fuel",
+          "__seccion_4__": "John Deere 1.9L 2-cyl LP gas"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "2-cylinder 4-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "113 ci 1.9 L",
+          "Bore/Stroke": "4.25x4.00 inches 108 x 102 mm",
+          "Air cleaner": "oil bath",
+          "Rated RPM": "1850",
+          "Firing order": "1-2",
+          "Starter volts": "6",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "5 qts 4.7 L",
+          "Oil change": "150 h"
+        },
+        {
+          "__seccion_1__": "John Deere 430 Engine"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "all-fuel",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "113 ci 1.9 L",
+          "Bore/Stroke": "4.25x4.00 inches 108 x 102 mm",
+          "Rated RPM": "1850",
+          "Firing order": "1-2"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "LP gas",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "113 ci 1.9 L",
+          "Bore/Stroke": "4.25x4.00 inches 108 x 102 mm",
+          "Rated RPM": "1850",
+          "Firing order": "1-2"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 12, 2026"
+        }
+      ]
+    }
+  }
+}

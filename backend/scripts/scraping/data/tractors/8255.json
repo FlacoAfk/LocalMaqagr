@@ -1,0 +1,248 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/2/5/8255-caseih-steiger-620-quadtrac.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/2/5/8255-caseih-steiger-620-quadtrac-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/008/2/5/8255-caseih-steiger-620-quadtrac-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/2/5/8255-caseih-steiger-620-quadtrac-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 8255,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:52:14.489Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8255/8255-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 72 KB"
+  },
+  "tractor_data_id": 8255,
+  "name": "CaseIH Steiger 620 Quadtrac",
+  "brand": "CaseIH (a part of CNH)",
+  "model": "steiger 620 quadtrac",
+  "years": {
+    "desde": 2014,
+    "hasta": 2023
+  },
+  "model_year": 2014,
+  "engine_power_hp": 620,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 473,
+  "pto_tested_hp": 539.07,
+  "drawbar_tested_hp": 507.2,
+  "weight_kg": 22126,
+  "weight_basis": "Shipping",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 256,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 105.6,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F008/8255/8255-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F008/8255/8255-photo-001.jpg",
+  "image_url": "/uploads/tractors/td8255.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2014 - 2023",
+          "__seccion_2__": "Steiger Quadtrac Series",
+          "__seccion_3__": "Articulated Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH (a part of CNH)",
+          "__seccion_2__": "Articulated Crawler tractor",
+          "__seccion_3__": "Built in Fargo, North Dakota, USA",
+          "__seccion_4__": "Original price was $567,632 in 2015"
+        },
+        {
+          "620": "wheeled tractor",
+          "__seccion_1__": "Variants",
+          "620QT": "crawler tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH Steiger 620 Quadtrac Engine",
+          "__seccion_2__": "FPT 12.9L 6-cyl diesel",
+          "Fuel tank": "470 gal 1779.0 L",
+          "Exhaust fluid (DEF)": "85 gal 321.7 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Steiger 620 Quadtrac Transmission",
+          "__seccion_2__": "16-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Steiger 620 Quadtrac Power",
+          "Engine": "620 hp 462.3 kW",
+          "Engine (max)": "682 hp 508.6 kW",
+          "PTO (claimed)": "473 hp 352.7 kW",
+          "Drawbar (tested)": "507.20 hp 378.2 kW",
+          "PTO (tested)": "539.07 hp 402.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "articulated crawler",
+          "Final drives": "planetary",
+          "Steering": "hydraulic articulated",
+          "Brakes": "hydraulic wet disc",
+          "&nbsp": "engine brake * Optional.",
+          "Trailer brakes": "hydraulic * Optional.",
+          "__seccion_2__": "Surveyor Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH Steiger 620 Quadtrac photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "pressure flow compensated",
+          "Valves": "4 to 8",
+          "Pump flow": "42 gpm 159.0 lpm",
+          "&nbsp": "113 gpm * TwinFlow option 427.7 lpm",
+          "SCV flow": "35 gpm 132.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IVN",
+          "Rear lift (at 24\"/610mm)": "19728 lbs 8948 kg",
+          "Rear Arms": "quick coupler",
+          "Drawbar": "Cat. 4",
+          "&nbsp": "Cat. 5 Opt Optional"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 * 1.75 inch shaft",
+          "Engine RPM": "1000@1811"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tracks",
+          "Wheelbase": "154 inches 391 cm",
+          "Weight": "48780 to 60145 pounds",
+          "__seccion_2__": "30-inch tracks",
+          "__seccion_3__": "Full dimensions and tracks ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "240",
+          "Batteries": "2",
+          "Battery CCA": "1000",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Steiger 370-620 Tractors published in 2014, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on February 14, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2014 - 2023",
+          "__seccion_2__": "Steiger Quadtrac Series",
+          "__seccion_3__": "Articulated Crawler tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH Steiger 620 Quadtrac Tracks",
+          "Width": "36 inches 91 cm"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "154 inches 391 cm",
+          "Front axle": "Flange",
+          "__seccion_2__": "Flange rear axle"
+        },
+        {
+          "__seccion_1__": "CaseIH Steiger 620 Quadtrac Weight",
+          "Shipping": "48780 lbs 22126 kg",
+          "Operating": "60145 lbs 27281 kg",
+          "Max capacity": "64000 lbs 29030 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 14, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2014 - 2023",
+          "__seccion_2__": "Steiger Quadtrac Series",
+          "__seccion_3__": "Articulated Crawler tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2165"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2165",
+          "__seccion_2__": "Diesel 16-speed crawler September 30 - October 10, 2016 Link: OCED Tractor Test 2165 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "507.20 hp 378.2 kW",
+          "Fuel use": "30.5 gal/hour 115.4 l/hour",
+          "Power at rated engine speed": "479.06 hp 357.2 kW",
+          "Power at rated PTO speed": "531.84 hp 396.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 5 used for power test.",
+          "Max pull": "57556 lbs 26107 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 14, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2014 - 2023",
+          "__seccion_2__": "Steiger Quadtrac Series",
+          "__seccion_3__": "Articulated Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT",
+          "__seccion_3__": "two-stage turbocharged air-to-water intercooled air-to-air aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "787 ci 12.9 L",
+          "Bore/Stroke": "5.31x5.91 inches 135 x 150 mm",
+          "Emissions": "Tier 4",
+          "Emission control": "selective catalytic reduction (SCR)",
+          "Power": "620 hp 462.3 kW",
+          "Maximum Power": "682 hp 508.6 kW",
+          "Fuel system": "electronic high pressure common rail",
+          "Cooling system": "hydraulically-driven fan",
+          "Compression": "15.5:1",
+          "Rated RPM": "2100",
+          "Starter": "electric",
+          "Starter volts": "24"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 14, 2024"
+        }
+      ]
+    }
+  }
+}

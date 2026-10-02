@@ -1,0 +1,229 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/3/3/10335-kubota-m4-071.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/3/3/10335-kubota-m4-071-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/3/3/10335-kubota-m4-071-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 10335,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:19:33.908Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10335/10335-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 100 KB"
+  },
+  "tractor_data_id": 10335,
+  "name": "Kubota M4-071",
+  "brand": "Kubota",
+  "model": "M4 071",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 73.2,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 60,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2699,
+  "weight_basis": "Standard Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 22,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 420/85R30",
+  "tire_width_mm": 420,
+  "tire_diameter_mm": 1476,
+  "tire_front": {
+    "original": "320/85R20",
+    "radial": true,
+    "width_mm": 320,
+    "rim_in": 20,
+    "diameter_mm_est": 1052,
+    "tipo": "Radial",
+    "texto": "320/85R20"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F010/10335/10335-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F010/10335/10335-photo-001.jpg",
+  "image_url": "/uploads/tractors/td10335.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2019 -",
+          "__seccion_2__": "M4 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Utility tractor",
+          "Original price": "$48,866 (2018 standard )",
+          "__seccion_3__": "$51,852 (2019 deluxe )"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "M4-071": "standard",
+          "M4-071D": "deluxe",
+          "M4N-071": "narrow profile"
+        },
+        {
+          "__seccion_1__": "Kubota M4-071 Engine",
+          "__seccion_2__": "Kubota 3.3L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M4-071 Transmissions",
+          "__seccion_2__": "12-speed power shuttle",
+          "__seccion_3__": "18-speed creeper",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M4-071 Power",
+          "Engine (gross)": "73.2 hp 54.6 kW",
+          "PTO (claimed)": "60 hp 44.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota M4-071 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "23.8 gal 90.1 L",
+          "Hydraulic system": "10.6 gal 40.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "10.6 gal 40.1 L",
+          "Valves": "2 to 3",
+          "Pump flow": "16.7 gpm 63.2 lpm",
+          "Steering flow": "6.3 gpm 23.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position control and top-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "3307 lbs 1500 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540 (1.375)",
+          "&nbsp": "540/540E (1.375) * 540E PTO is standard with deluxe trim, optional on standard trim."
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "84.1 inches 213 cm",
+          "Weight": "5952 to 6008 pounds",
+          "Front tire": "320/85R20",
+          "Rear tire": "420/85R30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota M4-071 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "130",
+          "Battery CCA": "900",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "M4-061/M4-071 published in 2019, by Kubota"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 7, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2019 -",
+          "__seccion_2__": "M4 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M4-071 Tires",
+          "Standard tires (ag)": "Front: 320/85R20. Rear: 420/85R30",
+          "Lawn/turf front": "9.50-24",
+          "Lawn/turf rear": "18.4-26",
+          "Industrial front": "14-17.5",
+          "Industrial rear": "16.9-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "84.1 inches 213 cm",
+          "Length": "142 inches 360 cm",
+          "Width": "75.6 inches 192 cm",
+          "Height (cab)": "101 inches 256 cm",
+          "Standard Weight": "5952 lbs 2699 kg",
+          "Deluxe Weight": "6008 lbs 2725 kg",
+          "Clearance (front axle)": "18.1 inches 45 cm",
+          "Front tread": "58.5 inches 148 cm",
+          "Rear tread": "56.2/68.7 inches 142/174 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 7, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2019 -",
+          "__seccion_2__": "M4 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V3307-CR-TE4",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "203 ci 3.3 L",
+          "Bore/Stroke": "3.70x4.70 inches 94 x 119 mm",
+          "Rated Power (gross)": "73.2 hp 54.6 kW",
+          "Fuel system": "common rail direct injection",
+          "Rated RPM": "2400",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "12.7 qts 12.0 L",
+          "Coolant capacity": "10.6 qts 10.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 7, 2023"
+        }
+      ]
+    }
+  }
+}

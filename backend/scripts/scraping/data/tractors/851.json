@@ -1,0 +1,241 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/5/851-massey-ferguson-1805.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/5/851-massey-ferguson-1805-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/8/5/851-massey-ferguson-1805-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/5/851-massey-ferguson-1805-engine.html",
+    "source_id": 851,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:27:19.222Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/851/851-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 57 KB"
+  },
+  "tractor_data_id": 851,
+  "name": "Massey Ferguson 1805",
+  "brand": "Massey Ferguson",
+  "model": "1805",
+  "years": {
+    "desde": 1974,
+    "hasta": 1977
+  },
+  "model_year": 1974,
+  "engine_power_hp": 210,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 193,
+  "pto_tested_hp": 192.65,
+  "drawbar_tested_hp": 162.95,
+  "weight_kg": 8164,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 83.5,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "18.4-38",
+    "radial": false,
+    "width_mm": 467,
+    "rim_in": 38,
+    "diameter_mm_est": 1760,
+    "tipo": "Diagonal",
+    "texto": "18.4-38"
+  },
+  "fuel_consumption_lph": 49.2,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/851/851-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/851/851-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td851.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1974 - 1977",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Des Moines, Iowa, USA",
+          "__seccion_4__": "Original price was $38,500 in 1977"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1805 Engine",
+          "__seccion_2__": "Caterpillar 10.4L 8-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1805 Transmission",
+          "__seccion_2__": "12-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1805 Power",
+          "Engine": "210 hp 156.6 kW",
+          "PTO (claimed)": "193 hp 143.9 kW",
+          "Drawbar (tested)": "162.95 hp 121.5 kW",
+          "PTO (tested)": "192.65 hp 143.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Articulated power steering",
+          "__seccion_4__": "Hydraulic expanding shoe brakes",
+          "__seccion_5__": "Cab standard, optional heat and air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 1805 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "120 gal 454.2 L",
+          "Hydraulic system": "15 gal 56.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Capacity": "15 gal 56.8 L",
+          "Valves": "2 or 3",
+          "Pump flow": "25 gpm 94.6 lpm",
+          "Total flow": "50 gpm 189.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "optional"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "optional",
+          "Rear PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "120 inches 304 cm",
+          "Weight": "18000 lbs 8164 kg",
+          "Front tire": "23.1-30",
+          "Rear tire": "23.1-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1974": "9C003184",
+          "1975": "9C004227",
+          "1976": "9C006806",
+          "1977": "9C007858",
+          "__seccion_1__": "1805 Serial Numbers",
+          "Location:": "Plate on instrument panel.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Batteries": "2",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Complete Farm Machinery Guide published in 1976, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 12, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1974 - 1977",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1805 Tires",
+          "Ag front": "18.4-38",
+          "Ag rear": "18.4-38",
+          "&nbsp": "18.4-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "120 inches 304 cm",
+          "Length": "224 inches 568 cm",
+          "Height (cab)": "131 inches 332 cm",
+          "Operating weight": "18000 lbs 8164 kg",
+          "Ballasted weight": "22790 lbs 10337 kg",
+          "Front tread": "68 to 88 inches 172 to 223 cm",
+          "Rear tread": "68 to 88 inches 172 to 223 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 12, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1974 - 1977",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1173"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1173",
+          "__seccion_2__": "Diesel 12-speed 4WD April 3 - 23, 1975 Link: Nebraska Tractor Test 1173 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "192.65 hp 143.7 kW",
+          "Fuel use": "12.8 gal/hour 48.4 l/hour",
+          "Power at rated PTO speed": "191.6 hp 142.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "162.95 hp 121.5 kW",
+          "Max pull": "18,781 lbs 8519 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 12, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1974 - 1977",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Caterpillar 3208",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "8-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "636 ci 10.4 L",
+          "Bore/Stroke": "4.50x5.00 inches 114 x 127 mm",
+          "Power": "210 hp 156.6 kW",
+          "Air cleaner": "paper element with unloader",
+          "Compression": "16.5:1",
+          "Rated RPM": "2800",
+          "Starter volts": "12",
+          "Oil capacity": "12 qts 11.4 L",
+          "Coolant capacity": "47.5 qts 45.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 12, 2024"
+        }
+      ]
+    }
+  }
+}

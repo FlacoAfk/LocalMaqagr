@@ -1,0 +1,250 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/2/8/1284-kubota-l275.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/2/8/1284-kubota-l275-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/2/8/1284-kubota-l275-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/2/8/1284-kubota-l275-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1284,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:51:15.477Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1284/1284-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 51 KB"
+  },
+  "tractor_data_id": 1284,
+  "name": "Kubota L275",
+  "brand": "Kubota",
+  "model": "L275",
+  "years": {
+    "desde": 1981,
+    "hasta": 1985
+  },
+  "model_year": 1981,
+  "engine_power_hp": 27.5,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 23,
+  "pto_tested_hp": 23.42,
+  "drawbar_tested_hp": 18.57,
+  "weight_kg": 1179,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 14.7,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 13.6-16",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 994,
+  "tire_front": {
+    "original": "7-16",
+    "radial": false,
+    "width_mm": 178,
+    "rim_in": 16,
+    "diameter_mm_est": 709,
+    "tipo": "Diagonal",
+    "texto": "7-16"
+  },
+  "fuel_consumption_lph": 6.1,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1284/1284-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1284/1284-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td1284.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1981 - 1985",
+          "__seccion_2__": "L Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "L275": "2WD",
+          "L275DT": "4WD"
+        },
+        {
+          "__seccion_1__": "Kubota L275 Engine",
+          "__seccion_2__": "Kubota 1.3L 3-cyl diesel",
+          "Fuel tank": "7.4 gal 28.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L275 Transmission",
+          "__seccion_2__": "8-speed mechanical shuttle",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L275 Power",
+          "Engine (gross)": "27.5 hp 20.5 kW",
+          "PTO (claimed)": "23 hp 17.2 kW",
+          "Drawbar (tested)": "18.57 hp 13.8 kW",
+          "PTO (tested)": "23.42 hp 17.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "Steering": "manual",
+          "&nbsp": "power assist Opt Optional",
+          "__seccion_3__": "Differential mechanical wet disc brakes",
+          "__seccion_4__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota L275 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "6.2 gpm 23.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2412"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "66.5 inches 168 cm",
+          "4WD Wheelbase": "64.6 inches 164 cm",
+          "Weight": "2600 lbs 1179 kg",
+          "Front tire": "5.00-15",
+          "Rear tire": "11.2-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota L275 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Tractors and Excavators published in 1982, by Kubota",
+          "__seccion_3__": "Diesel Tractor L275 2WD/4WD published in 1982, by Kubota",
+          "__seccion_4__": "Diesel Tractor L275 2WD/4WD published in 1983, by Kubota"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on September 11, 2026"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1981 - 1985",
+          "__seccion_2__": "L Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota L275 Tires",
+          "2WD Ag front": "5.00-15",
+          "4WD Ag front": "7-16",
+          "Ag rear": "11.2-24",
+          "2WD Lawn/turf front": "23x8.50-12",
+          "4WD Lawn/turf front": "27x8.50-16",
+          "Lawn/turf rear": "13.6-16"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "66.5 inches 168 cm",
+          "4WD Wheelbase": "64.6 inches 164 cm",
+          "Length": "112.6 inches 286 cm",
+          "Width": "55.1 inches 139 cm",
+          "Height (exhaust)": "78.1 inches 198 cm",
+          "Operating weight": "2600 lbs 1179 kg",
+          "2WD Ground clearance": "14.4 inches 36 cm",
+          "4WD Ground clearance": "12.2 inches 30 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 11, 2026"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1981 - 1985",
+          "__seccion_2__": "L Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1407"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1407",
+          "__seccion_2__": "Diesel 8-speed 4WD September 17 - October 2, 1981 Link: Nebraska Tractor Test 1407 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "23.42 hp 17.5 kW",
+          "Fuel use": "1.6 gal/hour 6.1 l/hour",
+          "Power at rated PTO speed": "23.01 hp 17.2 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "18.57 hp 13.8 kW",
+          "__seccion_5__": "Gear 6 used for power test.",
+          "Max pull": "3,302 lbs 1497 kg",
+          "__seccion_6__": "Gear 3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 11, 2026"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1981 - 1985",
+          "__seccion_2__": "L Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota D1302-A",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "79.3 ci 1.3 L",
+          "Bore/Stroke": "3.23x3.23 inches 82 x 82 mm",
+          "Power (gross)": "27.5 hp 20.5 kW",
+          "Air cleaner": "paper element",
+          "Compression": "21:1",
+          "Rated RPM": "2600",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 11, 2026"
+        }
+      ]
+    }
+  }
+}

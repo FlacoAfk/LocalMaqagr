@@ -1,0 +1,238 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/9/6/5961-ford-8210.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/9/6/5961-ford-8210-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/9/6/5961-ford-8210-engine.html",
+    "source_id": 5961,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:15:32.687Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5961/5961-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 58 KB"
+  },
+  "tractor_data_id": 5961,
+  "name": "Ford 8210",
+  "brand": "Ford",
+  "model": "8210",
+  "years": {
+    "desde": 1982,
+    "hasta": 1991
+  },
+  "model_year": 1982,
+  "engine_power_hp": 115,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 95,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4250,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 34.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4-38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "14.9-28",
+    "radial": false,
+    "width_mm": 378,
+    "rim_in": 28,
+    "diameter_mm_est": 1355,
+    "tipo": "Diagonal",
+    "texto": "14.9-28"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F005/5961/5961-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5961/5961-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td5961.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1982 - 1991",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Original price was $49,000 in 1991"
+        },
+        {
+          "__seccion_1__": "Ford 8210 Engine",
+          "__seccion_2__": "Ford 6.6L 6-cyl diesel",
+          "Fuel tank": "47 gal 177.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 8210 Transmission",
+          "__seccion_2__": "16-speed two-speed power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 8210 Power",
+          "Engine (gross)": "115 hp 85.8 kW",
+          "Engine (net)": "110 hp 82.0 kW",
+          "PTO (claimed)": "95 hp 70.8 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning. Optional AM/FM radio."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 8210 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "2 to 4",
+          "SCV flow": "18.2 gpm 68.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position control and top-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "4435 lbs 2011 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@1902",
+          "&nbsp": "1000@2049"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "109.6 inches 278 cm",
+          "Weight": "8730 to 9370 pounds",
+          "Front tire": "14.9-24",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 8210 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1982": "C681910",
+          "1983": "C695880",
+          "1984": "C713459",
+          "1985": "C737800",
+          "1986": "C754100",
+          "1987": "C768000",
+          "1988": "BB06622",
+          "1989": "BB80260",
+          "1990": "BC26239",
+          "1991": "BC68791",
+          "__seccion_1__": "8210 Serial Numbers",
+          "Location:": "Data plate inside engine compartment.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "72",
+          "Battery volts": "12",
+          "Battery AH": "128"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Front-end Loaders published in 1995, by New Holland",
+          "__seccion_3__": "If you're looking for tractor quality, look to Ford published in 1982",
+          "__seccion_4__": "Generation III Tractors - Models 7810 and 8210 published in 1991, by Ford",
+          "__seccion_5__": "8210 - 95 PTO hp Tractor published in 1988, by Ford",
+          "__seccion_6__": "Tractor Buyer's Guide published in 1989, by Ford",
+          "__seccion_7__": "Sales Reference Guide published in 1986, by Ford"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 31, 2023",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1982 - 1991",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Ford 8210 Tires",
+          "Ag front": "14.9-28",
+          "Ag rear": "18.4-38",
+          "&nbsp": "16.9-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "109.6 inches 278 cm",
+          "Length": "176.6 inches 448 cm",
+          "2WD Weight": "8730 lbs 3959 kg",
+          "4WD Weight": "9370 lbs 4250 kg",
+          "Clearance (front axle)": "19.6 inches 49 cm",
+          "Front tread": "60 to 79 inches 152 to 200 cm",
+          "Rear tread": "60 to 80 inches 152 to 203 cm"
+        },
+        {
+          "__seccion_1__": "Ford 8210 Height",
+          "Steering wheel": "86.3 inches 219 cm",
+          "Cab": "114 inches 289 cm",
+          "Exhaust": "119.6 inches 303 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 31, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1982 - 1991",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "401 ci 6.6 L",
+          "Bore/Stroke": "4.40x4.40 inches 112 x 112 mm",
+          "Power (net)": "110 hp 82.0 kW",
+          "Power (gross)": "115 hp 85.8 kW",
+          "Air cleaner": "dual dry element",
+          "Pre-heating": "thermostart",
+          "Compression": "16.3:1",
+          "Rated RPM": "2300",
+          "Starter volts": "12",
+          "Oil capacity": "20 qts 18.9 L",
+          "Coolant capacity": "22.5 qts 21.3 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 31, 2023"
+        }
+      ]
+    }
+  }
+}

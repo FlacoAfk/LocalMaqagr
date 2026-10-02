@@ -1,0 +1,215 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/5/1/8513-kubota-m6-101.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/5/1/8513-kubota-m6-101-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/5/1/8513-kubota-m6-101-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 8513,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:04:21.586Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8513/8513-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 8513,
+  "name": "Kubota M6-101",
+  "brand": "Kubota",
+  "model": "M6 101",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 104.5,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 82,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4355,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 30.1,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 18.4R30",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1557,
+  "tire_front": {
+    "original": "12.4R24",
+    "radial": true,
+    "width_mm": 315,
+    "rim_in": 24,
+    "diameter_mm_est": 1145,
+    "tipo": "Radial",
+    "texto": "12.4R24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F008/8513/8513-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td8513.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2015 -",
+          "__seccion_2__": "M6 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M6-101 Engine",
+          "__seccion_2__": "Kubota 3.8L 4-cyl diesel",
+          "Fuel tank": "50.2 gal 190.0 L",
+          "Exhaust fluid (DEF)": "5.3 gal 20.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M6-101 Transmissions",
+          "__seccion_2__": "24-speed partial power shift",
+          "__seccion_3__": "32-speed partial power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M6-101 Power",
+          "Engine (gross)": "104.5 hp 77.9 kW",
+          "Engine (net)": "97.1 hp 72.4 kW",
+          "PTO (claimed)": "82 hp 61.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "electro-hydraulic front and rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Grand X Cab standard with air-condiitoning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Kubota M6-101 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Valves": "2 to 4",
+          "Pump flow": "18.7 gpm 70.8 lpm",
+          "Steering flow": "16 gpm 60.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "electronic lower-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "6834 lbs 3099 kg",
+          "&nbsp": "9447 lbs Opt Optional 4285 kg",
+          "Rear Arms": "telescopic lower link ends and stabilizers"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "95.9 inches 243 cm",
+          "Weight": "9601 lbs 4355 kg",
+          "Front tire": "12.4R24",
+          "Rear tire": "18.4R30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota M6-101 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "130",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "M6-101/M6-111/M6-131/M6-141 published in 2014, by Kubota",
+          "__seccion_3__": "M6-101/M6-111/M6-131/M6-141 published in 2021, by Kubota"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 20, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2015 -",
+          "__seccion_2__": "M6 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M6-101 Tires",
+          "Standard tires (ag)": "Front: 12.4R24. Rear: 18.4R30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "95.9 inches 243 cm",
+          "Length": "165.4 inches 420 cm",
+          "Width": "82.7 inches 210 cm",
+          "Height (cab)": "109.8 inches 278 cm",
+          "Weight": "9601 lbs 4355 kg",
+          "Ground clearance": "17.7 inches 44 cm",
+          "Front tread": "62.2 to 66.1 inches 157 to 167 cm",
+          "Rear tread": "59.8 to 81.1 inches 151 to 205 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 20, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2015 -",
+          "__seccion_2__": "M6 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V3800-TI-CRS",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "230 ci 3.8 L",
+          "Bore/Stroke": "3.94x4.72 inches 100 x 120 mm",
+          "Emissions": "Tier IV",
+          "Rated Power (net)": "97.1 hp 72.4 kW",
+          "Rated Power (gross)": "104.5 hp 77.9 kW",
+          "Fuel system": "common rail direct injection",
+          "Air cleaner": "dual dry element",
+          "Rated RPM": "2600",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 20, 2022"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/4/4/1445-belarus-805.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/4/4/1445-belarus-805-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/4/4/1445-belarus-805-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1445,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:25:49.554Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1445/1445-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 800px/q55 → 32 KB"
+  },
+  "tractor_data_id": 1445,
+  "name": "Belarus 805",
+  "brand": "Belarus",
+  "model": "805",
+  "years": {
+    "desde": 1983,
+    "hasta": 1996
+  },
+  "model_year": 1983,
+  "engine_power_hp": 100,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 75.15,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3900,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 27.6,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 15.5-38",
+  "tire_width_mm": 394,
+  "tire_diameter_mm": 1634,
+  "tire_front": {
+    "original": "9.00-20",
+    "radial": false,
+    "width_mm": 229,
+    "rim_in": 20,
+    "diameter_mm_est": 897,
+    "tipo": "Diagonal",
+    "texto": "9.00-20"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1445/1445-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1445/1445-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td1445.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1983 - 1996"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Belarus",
+          "__seccion_2__": "Built in Minsk, Belarus",
+          "Original price": "19000 (1996)"
+        },
+        {
+          "825": "4WD",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Belarus 805 Engines",
+          "__seccion_2__": "Belarus 4.7L 4-cyl diesel",
+          "__seccion_3__": "4.7L 4-cyl",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Belarus 805 Transmission",
+          "__seccion_2__": "18-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Belarus 805 Power",
+          "Engine": "100 hp 74.6 kW",
+          "PTO (claimed)": "75.15 hp 56.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Disc brakes",
+          "__seccion_4__": "Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Belarus 805 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "34.3 gal 129.8 L",
+          "Hydraulic system": "5.4 gal 20.4 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open",
+          "Capacity": "5.4 gal 20.4 L",
+          "Valves": "2",
+          "Pump flow": "11.7 gpm 44.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "4365 lbs 1979 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000/ground"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "96.5 inches 245 cm",
+          "Weight": "8600 lbs 3900 kg",
+          "Front tire": "9.00-20",
+          "Rear tire": "15.5-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operators Manual 500 Series, 800 Series and 900 Series Tractors (904805) published in 1992"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 19, 2012"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1983 - 1996"
+        },
+        {
+          "__seccion_1__": "Belarus 805 Tires",
+          "Ag front": "9.00-20",
+          "Ag rear": "15.5-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "96.5 inches 245 cm",
+          "Length": "151.6 inches 385 cm",
+          "Height": "105.1 inches 266 cm",
+          "Weight": "8600 lbs 3900 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 19, 2012"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1983 - 1996"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Belarus 4.7L 4-cyl diesel",
+          "__seccion_3__": "4.7L 4-cyl"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Belarus",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "289.8 ci 4.7 L",
+          "Bore/Stroke": "4.33x4.92 inches 110 x 125 mm",
+          "Power": "81 hp 60.4 kW",
+          "Coolant capacity": "21 qts 19.9 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "D242",
+          "__seccion_3__": "turbocharged",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "289.8 ci 4.7 L",
+          "Bore/Stroke": "4.331x4.921 inches 110 x 125 mm",
+          "Power": "100 hp 74.6 kW",
+          "Rated RPM": "2200",
+          "Torque": "236 lb-ft 320.0 Nm",
+          "Torque RPM": "1050"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 19, 2012"
+        }
+      ]
+    }
+  }
+}

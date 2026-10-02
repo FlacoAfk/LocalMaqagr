@@ -1,0 +1,237 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/6/5/6650-new-holland-ts6020.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/6/5/6650-new-holland-ts6020-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/006/6/5/6650-new-holland-ts6020-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/6/5/6650-new-holland-ts6020-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 6650,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:31:48.200Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6650/6650-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 6650,
+  "name": "New Holland TS6020",
+  "brand": "New Holland",
+  "model": "TS6020",
+  "years": {
+    "desde": 2010,
+    "hasta": 2012
+  },
+  "model_year": 2010,
+  "engine_power_hp": 110,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 90,
+  "pto_tested_hp": 96.32,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3816,
+  "weight_basis": "4WD ROPS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 35.3,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 23.1,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F006/6650/6650-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td6650.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2010 - 2012",
+          "__seccion_2__": "TS6000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Row-Crop tractor",
+          "Original price": "$46,704 (2012 8-speed cab 2WD )",
+          "__seccion_3__": "$38,549 (2012 8-speed ROPS 2WD )",
+          "__seccion_4__": "$53,450 (2012 8-speed cab 4WD )",
+          "__seccion_5__": "$45,295 (2012 8-speed ROPS 2WD )"
+        },
+        {
+          "__seccion_1__": "New Holland TS6020 Engine",
+          "__seccion_2__": "FPT 4.5L 4-cyl diesel",
+          "Fuel tank": "39 gal 147.6 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TS6020 Transmissions",
+          "__seccion_2__": "8-speed constant mesh",
+          "__seccion_3__": "12-speed constant mesh with creeper",
+          "__seccion_4__": "16-speed",
+          "__seccion_5__": "24-speed",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TS6020 Power",
+          "Engine (gross)": "110 hp 82.0 kW",
+          "PTO (claimed)": "90 hp 67.1 kW",
+          "PTO (tested)": "96.32 hp 71.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 MFWD 4WD (optional)",
+          "Steering": "hydrostatic power",
+          "__seccion_2__": "Wet disc brakes",
+          "__seccion_3__": "Two-post foldable ROPS. Optional cab with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the New Holland TS6020 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "2",
+          "Pump flow": "13 gpm 49.2 lpm",
+          "&nbsp": "22 gpm (optional) 83.3 lpm",
+          "Steering flow": "7 gpm 26.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "2",
+          "Control": "mechanical top-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "3,600 lbs 1632 kg",
+          "&nbsp": "7,200 lbs (optional dual lift cylinders) 3265 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "7617 to 9088 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "Battery CCA": "950",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 5, 2012",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2010 - 2012",
+          "__seccion_2__": "TS6000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "New Holland TS6020 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Length": "148.3 inches 376 cm",
+          "4WD Length": "155.8 inches 395 cm",
+          "Ground clearance": "18.4 inches 46 cm",
+          "Front tread": "64 to 80 inches 162 to 203 cm (4WD)",
+          "Rear tread": "60 to 80 inches 152 to 203 cm"
+        },
+        {
+          "__seccion_1__": "New Holland TS6020 Weight",
+          "2WD ROPS Shipping": "7,617 lbs 3455 kg",
+          "2WD Cab Shipping": "8,506 lbs 3858 kg",
+          "4WD ROPS Shipping": "8,413 lbs 3816 kg",
+          "4WD Cab Shipping": "9,088 lbs 4122 kg"
+        },
+        {
+          "__seccion_1__": "New Holland TS6020 Height",
+          "ROPS": "109.6 inches 278 cm",
+          "&nbsp": "83.3 inches (folded) 211 cm",
+          "Cab": "111.9 inches 284 cm",
+          "Exhaust": "112.4 inches 285 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 5, 2012"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2010 - 2012",
+          "__seccion_2__": "TS6000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1981"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1981",
+          "__seccion_2__": "Diesel 8-speed 4WD December 6 - 13, 2010 Link: Nebraska Tractor Test 1981 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "96.32 hp 71.8 kW",
+          "Fuel use": "6.1 gal/hour 23.1 l/hour",
+          "Power at rated engine speed": "94.58 hp 70.5 kW",
+          "Power at rated PTO speed": "95.77 hp 71.4 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 5, 2012"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2010 - 2012",
+          "__seccion_2__": "TS6000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT NEF",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "274 ci 4.5 L",
+          "Bore/Stroke": "4.094x5.197 inches 104 x 132 mm",
+          "Emissions": "Tier 3",
+          "Power (gross)": "110 hp 82.0 kW",
+          "Fuel system": "mechanical injection",
+          "Air cleaner": "dry",
+          "Pre-heating": "grid heater",
+          "Rated RPM": "2200",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 5, 2012"
+        }
+      ]
+    }
+  }
+}

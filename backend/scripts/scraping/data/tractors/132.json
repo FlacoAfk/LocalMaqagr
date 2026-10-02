@@ -1,0 +1,231 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/3/132-john-deere-900hc.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/3/132-john-deere-900hc-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/3/132-john-deere-900hc-engine.html",
+    "source_id": 132,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:49:27.936Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/132/132-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 47 KB"
+  },
+  "tractor_data_id": 132,
+  "name": "John Deere 900HC",
+  "brand": "Yanmar",
+  "model": "deere 900hc",
+  "years": {
+    "desde": 1986,
+    "hasta": 1988
+  },
+  "model_year": 1986,
+  "engine_power_hp": 25,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 22,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1299,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 8.1,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 11.2-28",
+  "tire_width_mm": 284,
+  "tire_diameter_mm": 1195,
+  "tire_front": {
+    "original": "5.00-15",
+    "radial": false,
+    "width_mm": 127,
+    "rim_in": 15,
+    "diameter_mm_est": 597,
+    "tipo": "Diagonal",
+    "texto": "5.00-15"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/132/132-td3a.jpg",
+  "image_url": "/uploads/tractors/td132.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1986 - 1988",
+          "__seccion_2__": "High-Clearance tractor",
+          "__seccion_3__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "John Deere",
+          "Manufacturer": "Yanmar",
+          "__seccion_2__": "High-Clearance tractor",
+          "__seccion_3__": "Built in Japan",
+          "__seccion_4__": "Original price was $13,000 in 1990"
+        },
+        {
+          "__seccion_1__": "John Deere 900HC Engine",
+          "__seccion_2__": "John Deere 1.3L 3-cyl diesel",
+          "Fuel tank": "8.5 gal 32.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 900HC Transmission",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 900HC Power",
+          "Engine (gross)": "25 hp 18.6 kW",
+          "Engine (net)": "24 hp 17.9 kW",
+          "PTO (claimed)": "22 hp 16.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Final drives": "bull gear",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Dry internal expanding shoe brakes",
+          "__seccion_5__": "Two-post fixed ROPS. Optional canopy."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 900HC photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2030 psi 140.0 bar",
+          "Pump flow": "3.1 gpm 11.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at 24\"/610mm)": "1800 lbs 816 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live * Two-stage clutch",
+          "Clutch": "dry dual disc",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2260"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "73 inches 185 cm",
+          "Weight": "2865 lbs 1299 kg",
+          "Front tire": "5.00-15",
+          "Rear tire": "11.2-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1986": "1001",
+          "1987": "1710",
+          "1988": "2127",
+          "__seccion_1__": "900HC Serial Numbers",
+          "Location:": "Serial number plate on the rear of the 900HC, below the PTO shaft.",
+          "Final": "2276",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "25",
+          "Battery CCA": "475",
+          "Battery volts": "12",
+          "Battery Group": "30H"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Grounds Care & Recreation Products Sales Manual published in 1989, by John Deere",
+          "__seccion_3__": "900HC High Clearance Tractor published in 1986, by John Deere",
+          "__seccion_4__": "Operator's Manual 900HC Tractor (OM-M89625) published in 1985"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1986 - 1988",
+          "__seccion_2__": "High-Clearance tractor",
+          "__seccion_3__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "John Deere 900HC Tires",
+          "Ag front": "5.00-15",
+          "Ag rear": "11.2-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "73 inches 185 cm",
+          "Length": "126.2 inches 320 cm",
+          "Width": "55.1 inches 139 cm",
+          "Shipping weight": "2865 lbs 1299 kg",
+          "Clearance (front axle)": "23 inches 58 cm",
+          "Clearance (rear axle)": "26 inches 66 cm",
+          "Front tread": "42 to 51 inches 106 to 129 cm",
+          "Rear tread": "42 to 58 inches 106 to 147 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 900HC Height",
+          "Hood": "58.6 inches 148 cm",
+          "ROPS": "96.6 inches 245 cm",
+          "Exhaust": "81.1 inches 205 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1986 - 1988",
+          "__seccion_2__": "High-Clearance tractor",
+          "__seccion_3__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 3T80J",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "78.2 ci 1.3 L",
+          "Bore/Stroke": "3.15x3.25 inches 80 x 83 mm",
+          "Power (net)": "24 hp 17.9 kW",
+          "Power (gross)": "25 hp 18.6 kW",
+          "Air cleaner": "dry",
+          "Compression": "21:1",
+          "Rated RPM": "2600",
+          "Idle RPM": "1900-2600",
+          "Firing order": "1-3-2",
+          "Starter volts": "12",
+          "Oil capacity": "4.7 qts 4.4 L",
+          "Coolant capacity": "5.8 qts 5.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2025"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/132/132-photo-001.jpg"
+}

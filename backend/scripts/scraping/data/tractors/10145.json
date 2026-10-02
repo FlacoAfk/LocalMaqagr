@@ -1,0 +1,255 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/1/4/10145-ford-846.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/1/4/10145-ford-846-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/1/4/10145-ford-846-engine.html",
+    "source_id": 10145,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:17:06.155Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10145/10145-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 41 KB"
+  },
+  "tractor_data_id": 10145,
+  "name": "Ford 846",
+  "brand": "Ford",
+  "model": "846",
+  "years": {
+    "desde": 1989,
+    "hasta": 1993
+  },
+  "model_year": 1989,
+  "engine_power_hp": 230,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 202,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 8164,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 74.1,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4x42",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1861,
+  "tire_front": {
+    "original": "18.4x42",
+    "radial": false,
+    "width_mm": 467,
+    "rim_in": 42,
+    "diameter_mm_est": 1861,
+    "tipo": "Diagonal",
+    "texto": "18.4x42"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F010/10145/10145-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F010/10145/10145-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td10145.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1989 - 1993",
+          "__seccion_2__": "800 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Note: the Ford model 846 is the same as the Versatile 846. The following data is from the 846 listing."
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Winnipeg, Manitoba, Canada"
+        },
+        {
+          "__seccion_1__": "Ford 846 Engine",
+          "__seccion_2__": "Cummins 10.0L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 846 Transmissions",
+          "__seccion_2__": "12-speed constant mesh",
+          "__seccion_3__": "15-speed partially synchronized",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 846 Power",
+          "Engine": "230 hp 171.5 kW",
+          "PTO (claimed)": "202 hp 150.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "outboard planetary",
+          "&nbsp": "inboard planetary (row-crop)",
+          "__seccion_3__": "Articulated power steering",
+          "__seccion_4__": "Hydraulic disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 846 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "246 gal 931.1 L",
+          "Hydraulic system": "15.3 gal 57.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing * Steering pump is open center.",
+          "Capacity": "15.3 gal 57.9 L",
+          "Pressure": "2250 psi 155.1 bar",
+          "Valves": "4 to 5",
+          "Pump flow": "25.2 gpm 95.4 lpm",
+          "Steering flow": "25.9 gpm 98.0 lpm",
+          "Steering press.": "2300 psi 158.6 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "&nbsp": "13036 lbs (IV/III) 5913 kg",
+          "Control": "position control",
+          "Rear lift (at 24\"/610mm)": "10313 lbs (III) 4677 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (1.75)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "130 inches 330 cm",
+          "Weight": "18000 to 23000 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1988": "846 88 330335",
+          "1989": "846 89 D430159",
+          "1990": "846 90 D450298",
+          "1991": "846 91 D475001",
+          "1992": "846 92 D485051",
+          "1993": "846 93 D930035",
+          "__seccion_1__": "846 Serial Numbers",
+          "Location:": "Serial number plate on the cab door post.",
+          "Final": "846 93 D931211",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "90",
+          "Batteries": "4",
+          "Battery CCA": "625",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Versatile 230 to 360 hp 4WD Tractors published in 1989, by Ford",
+          "__seccion_3__": "Tractor Buyer's Guide published in 1989, by Ford"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 10, 2019",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1989 - 1993",
+          "__seccion_2__": "800 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Note: the Ford model 846 is the same as the Versatile 846. The following data is from the 846 listing."
+        },
+        {
+          "__seccion_1__": "Ford 846 Tires",
+          "Ag front": "18.4x38",
+          "&nbsp": "30.5x32",
+          "Ag rear": "18.4x38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "130 inches 330 cm",
+          "Length": "260 inches 660 cm",
+          "Ground clearance": "16.1 inches 40 cm",
+          "Front axle": "Bar",
+          "__seccion_2__": "Bar rear axle (row-crop)",
+          "Front tread": "60 to 122 inches 152 to 309 cm (row-crop)",
+          "Rear tread": "60 to 122 inches 152 to 309 cm (row-crop)"
+        },
+        {
+          "__seccion_1__": "Ford 846 Weight",
+          "Shipping": "18000 lbs 8164 kg",
+          "Operating": "23000 lbs 10432 kg",
+          "Max capacity": "28000 lbs 12700 kg"
+        },
+        {
+          "__seccion_1__": "Ford 846 Height",
+          "Steering wheel": "102.4 inches 260 cm",
+          "Cab": "125 inches 317 cm",
+          "Exhaust": "131 inches 332 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 10, 2019"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1989 - 1993",
+          "__seccion_2__": "800 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Note: the Ford model 846 is the same as the Versatile 846. The following data is from the 846 listing."
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Cummins L10-A230",
+          "__seccion_3__": "aftercooled turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "611 ci 10.0 L",
+          "Bore/Stroke": "4.921x5.354 inches 125 x 136 mm",
+          "Power": "230 hp 171.5 kW",
+          "Air cleaner": "dual dry element",
+          "Pre-heating": "ether injection",
+          "&nbsp": "block heater",
+          "Rated RPM": "2100",
+          "Torque": "748 lb-ft 1014.3 Nm",
+          "Torque RPM": "1300",
+          "Starter volts": "12",
+          "Oil capacity": "28 qts 26.5 L",
+          "Coolant capacity": "55 qts 52.1 L"
+        },
+        {
+          "__seccion_1__": "Ford 846 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 10, 2019"
+        }
+      ]
+    }
+  }
+}

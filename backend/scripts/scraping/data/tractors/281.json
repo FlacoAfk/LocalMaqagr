@@ -1,0 +1,247 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/8/281-ford-8700.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/8/281-ford-8700-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/2/8/281-ford-8700-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/8/281-ford-8700-engine.html",
+    "source_id": 281,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:11:34.288Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/281/281-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 281,
+  "name": "Ford 8700",
+  "brand": "Ford",
+  "model": "8700",
+  "years": {
+    "desde": 1977,
+    "hasta": 1979
+  },
+  "model_year": 1977,
+  "engine_power_hp": 127,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 110,
+  "pto_tested_hp": 110.58,
+  "drawbar_tested_hp": 96.05,
+  "weight_kg": 4445,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 51.5,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 15-38",
+  "tire_width_mm": 381,
+  "tire_diameter_mm": 1613,
+  "tire_front": {
+    "original": "13-24",
+    "radial": false,
+    "width_mm": 330,
+    "rim_in": 24,
+    "diameter_mm_est": 1171,
+    "tipo": "Diagonal",
+    "texto": "13-24"
+  },
+  "fuel_consumption_lph": 29.1,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/281/281-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td281.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1977 - 1979",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Row-Crop tractor",
+          "Factories": "Romeo, Michigan, USA",
+          "&nbsp": "Antwerp, Belgium"
+        },
+        {
+          "__seccion_1__": "Ford 8700 Engine",
+          "__seccion_2__": "Ford 6.6L 6-cyl diesel",
+          "Fuel tank": "58 gal 219.5 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 8700 Transmissions",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "16-speed two-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 8700 Power",
+          "Engine": "127 hp 94.7 kW",
+          "PTO (claimed)": "110 hp 82.0 kW",
+          "Drawbar (tested)": "96.05 hp 71.6 kW",
+          "PTO (tested)": "110.58 hp 82.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Open operator station. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Ford 8700 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "15.5 gpm 58.7 lpm",
+          "Steering flow": "4.2 gpm 15.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift": "5764 lbs 2614 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000",
+          "Engine RPM": "540@1900",
+          "&nbsp": "1000@1935"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "93.4 inches (2WD short) 237 cm",
+          "&nbsp": "111 inches (4WD) 281 cm",
+          "Weight": "9800 to 12270 pounds",
+          "Front tire": "10.00-16",
+          "Rear tire": "18.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "8700 - 9700 4-Wheel Drive published in 1978, by Ford",
+          "__seccion_3__": "8700 - 9700 published in 1976, by Ford",
+          "__seccion_4__": "8700 - 9700 published in 1978, by Ford",
+          "__seccion_5__": "Ford now offer tractor from 37 to 295 horsepower published in 1979 *",
+          "__seccion_6__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 9, 2023",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1977 - 1979",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Ford 8700 Tires",
+          "Standard tires (ag)": "Front: 10.00-16. Rear: 18.4-38",
+          "4WD Standard tires (ag)": "Front: 13-24. Rear: 15-38",
+          "Ag front": "11.00-16"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "93.4 inches (2WD short) 237 cm",
+          "&nbsp": "111 inches (4WD) 281 cm",
+          "Length": "180 inches 457 cm",
+          "Width": "79.2 inches 201 cm",
+          "Shipping weight": "9800 lbs 4445 kg",
+          "Operating weight": "12270 lbs 5565 kg",
+          "Clearance (front axle)": "24 inches 60 cm"
+        },
+        {
+          "__seccion_1__": "Ford 8700 Height",
+          "Hood": "80 inches 203 cm",
+          "Cab": "119 inches 302 cm",
+          "Exhaust": "126.3 inches 320 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 9, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1977 - 1979",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1424"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1424",
+          "__seccion_2__": "Diesel 16-speed 2WD May 16 - 24, 1977 Link: Nebraska Tractor Test 1424 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "110.58 hp 82.5 kW",
+          "Fuel use": "7.8 gal/hour 29.5 l/hour",
+          "Power at rated PTO speed": "99.56 hp 74.2 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "96.05 hp 71.6 kW",
+          "__seccion_5__": "Gear 5PD used for power test.",
+          "Max pull": "11581 lbs 5253 kg",
+          "__seccion_6__": "Gear 2PD used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 9, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1977 - 1979",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "401 ci 6.6 L",
+          "Bore/Stroke": "4.4094x4.4094 inches 112 x 112 mm",
+          "Power": "127 hp 94.7 kW",
+          "Pre-heating": "ether injection",
+          "Compression": "16.3:1",
+          "Rated RPM": "2300",
+          "Starter volts": "12",
+          "Oil capacity": "12 qts 11.4 L",
+          "Coolant capacity": "21 qts 19.9 L",
+          "&nbsp": "22.5 qts (with heat) 21.3 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 9, 2023"
+        }
+      ]
+    }
+  }
+}

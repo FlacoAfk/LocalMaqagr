@@ -1,0 +1,204 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/011/5/9/11591-massey-ferguson-6718s.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/011/5/9/11591-massey-ferguson-6718s-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/011/5/9/11591-massey-ferguson-6718s-engine.html",
+    "source_id": 11591,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:56:52.293Z",
+    "foto_original": "https://www.tractordata.com/photos/F011/11591/11591-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 11591,
+  "name": "Massey Ferguson 6718S",
+  "brand": "Massey Ferguson (a part of AGCO)",
+  "model": "ferguson 6718s",
+  "years": {
+    "desde": 2017,
+    "hasta": 2021
+  },
+  "model_year": 2017,
+  "engine_power_hp": 167,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 155,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 6999,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 56.9,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F011/11591/11591-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td11591.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2017 - 2021",
+          "__seccion_2__": "6700S Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson (a part of AGCO)",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 6718S Engine",
+          "__seccion_2__": "AGCO Power 4.9L 4-cyl diesel",
+          "Fuel tank": "67 gal 253.6 L",
+          "Exhaust fluid (DEF)": "7.9 gal 29.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 6718S Transmissions",
+          "__seccion_2__": "24-speed six-speed power shift",
+          "__seccion_3__": "continuously variable transmission (CVT)",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 6718S Power",
+          "Engine": "167 hp 124.5 kW",
+          "PTO (claimed)": "155 hp 115.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "electro-hydraulic front and rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "pneumatic Opt Optional",
+          "&nbsp": "hydraulic Opt Optional",
+          "__seccion_5__": "Cab standard with air-conditioning. Available cab suspension."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 6718S are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "&nbsp": "50 gpm Opt Optional 189.2 lpm",
+          "Pressure": "2900 psi 200.0 bar",
+          "Rear valves": "5 Opt Optional",
+          "Front valves": "2 Opt Optional",
+          "Pump flow": "26.4 gpm (open) 99.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "1000@1920",
+          "&nbsp": "1000@2030",
+          "Front PTO": "independent Opt Optional",
+          "Front PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "105.1 inches 266 cm",
+          "Weight": "15432 lbs 6999 kg",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF 6700 S published in 2018, by Massey Ferguson",
+          "__seccion_3__": "MF 6700 S published in 2019, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 25, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2017 - 2021",
+          "__seccion_2__": "6700S Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 6718S Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "105.1 inches 266 cm",
+          "Length": "194 inches 492 cm",
+          "Width": "72 inches * Minimum 182 cm",
+          "Height (cab)": "118.9 inches 302 cm",
+          "Weight": "15432 lbs 6999 kg",
+          "Max weight": "27558 lbs 12500 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 25, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2017 - 2021",
+          "__seccion_2__": "6700S Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "AGCO Power 49 AWF",
+          "__seccion_3__": "intercooled turbocharged diesel",
+          "__seccion_4__": "4-cylinder 16-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "299 ci 4.9 L",
+          "Bore/Stroke": "4.252x5.276 inches 108 x 134 mm",
+          "Emissions": "Stage V",
+          "Emission control": "SCR/DEF/DOC",
+          "Power": "167 hp 124.5 kW",
+          "Maximum Power": "175 hp 130.5 kW",
+          "Fuel system": "high-pressure common rail direct injection",
+          "Rated RPM": "2100",
+          "Torque": "620 lb-ft 840.7 Nm",
+          "Torque RPM": "1500",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 6718S Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 25, 2024"
+        }
+      ]
+    }
+  }
+}

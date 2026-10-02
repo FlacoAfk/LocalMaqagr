@@ -1,0 +1,157 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/0/7/7074-ford-5630.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/0/7/7074-ford-5630-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/0/7/7074-ford-5630-engine.html",
+    "source_id": 7074,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:16:14.831Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7074/7074-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 110 KB"
+  },
+  "tractor_data_id": 7074,
+  "name": "Ford 5630",
+  "brand": "Ford (a part of New Holland)",
+  "model": "5630",
+  "years": {
+    "desde": 1992,
+    "hasta": 1997
+  },
+  "model_year": 1992,
+  "engine_power_hp": 80,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": null,
+  "weight_basis": null,
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 29.4,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F007/7074/7074-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7074/7074-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td7074.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "30 SuperforÃ§a Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford (a part of New Holland)",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Curitiba, Brazil"
+        },
+        {
+          "__seccion_1__": "Ford 5630 Engine",
+          "__seccion_2__": "Ford 4.4L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 5630 Transmission",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 5630 Power",
+          "Engine": "80 hp 59.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 5630 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on February 12, 2026",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "30 SuperforÃ§a Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Ford 5630 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 12, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "30 SuperforÃ§a Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "268 ci 4.4 L",
+          "Bore/Stroke": "4.4x4.4 inches 112 x 112 mm",
+          "Power": "80 hp 59.7 kW",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 12, 2026"
+        }
+      ]
+    }
+  }
+}

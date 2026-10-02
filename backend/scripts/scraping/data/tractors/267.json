@@ -1,0 +1,312 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/6/267-ford-5600.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/6/267-ford-5600-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/2/6/267-ford-5600-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/6/267-ford-5600-engine.html",
+    "source_id": 267,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:10:49.315Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/267/267-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 48 KB"
+  },
+  "tractor_data_id": 267,
+  "name": "Ford 5600",
+  "brand": "Ford",
+  "model": "5600",
+  "years": {
+    "desde": 1975,
+    "hasta": 1981
+  },
+  "model_year": 1975,
+  "engine_power_hp": 69,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 60.5,
+  "pto_tested_hp": 60.49,
+  "drawbar_tested_hp": 50.09,
+  "weight_kg": 3315,
+  "weight_basis": "&nbsp",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 31.6,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": 14.8,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/267/267-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/267/267-photo-001.jpg",
+  "image_url": "/uploads/tractors/td267.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Original price was $26,000 in 1981"
+        },
+        {
+          "__seccion_1__": "Ford 5600 Engines",
+          "__seccion_2__": "Ford 3.8L 4-cyl diesel",
+          "__seccion_3__": "Ford 4.2L 4-cyl diesel",
+          "Fuel tank": "20 gal * Option station tractor. 75.7 L",
+          "&nbsp": "13 gal * Optional auxiliary tank. 49.2 L",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 5600 Transmissions",
+          "__seccion_2__": "16-speed two-speed power shift",
+          "__seccion_3__": "8-speed gear",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 5600 Power",
+          "Engine (gross)": "69 hp 51.5 kW",
+          "Engine (net)": "65 hp 48.5 kW",
+          "PTO (claimed)": "60.5 hp 45.1 kW",
+          "Drawbar (tested)": "50.09 hp 37.4 kW",
+          "PTO (tested)": "60.49 hp 45.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential mechanical wet disc brakes",
+          "__seccion_5__": "Open operator station. Two-post ROPS available. Cab optional with available heat and air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 5600 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Pressure": "2100 psi 144.8 bar",
+          "Valves": "1 or 2",
+          "Pump flow": "9.7 gpm 36.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "top-link draft sensing",
+          "Rear lift": "3340 lbs 1515 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "&nbsp": "540/1000 Opt Optional",
+          "Engine RPM": "540@1900"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "87.5 inches 222 cm",
+          "Weight": "5475 to 7310 pounds",
+          "Front tire": "7.50-16",
+          "Rear tire": "16.9-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 5600 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1975": "C450700",
+          "1976": "C490300",
+          "1977": "C527300",
+          "1978": "C560500",
+          "1979": "C595800",
+          "1980": "C635700",
+          "1981": "C660700",
+          "__seccion_1__": "5600 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "32",
+          "&nbsp": "51 * Optional on open station tractor, standard with cab.",
+          "Battery volts": "12",
+          "Battery AH": "128"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "5600 published in 1981, by Ford",
+          "__seccion_3__": "5600 published in 1977, by Ford",
+          "__seccion_4__": "Blue Power Specials published in 1980, by Ford",
+          "__seccion_5__": "Ford now offer tractor from 37 to 295 horsepower published in 1979 *",
+          "__seccion_6__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 5, 2025",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Ford 5600 Tires",
+          "Ag front": "7.50-16",
+          "Ag rear": "16.9-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "87.5 inches 222 cm",
+          "Length": "141.6 inches 359 cm",
+          "Width": "72.2 inches * Width over fenders with factory cab. 183 cm",
+          "Clearance (front axle)": "18 inches 45 cm",
+          "Front tread": "52.5 to 80.5 inches 133 to 204 cm",
+          "Rear tread": "66 to 90 inches 167 to 228 cm * Power-adjust wheels."
+        },
+        {
+          "__seccion_1__": "Ford 5600 Weight",
+          "__seccion_2__": "5905 lbs (open station) 2678 kg",
+          "&nbsp": "7310 lbs (cab) 3315 kg",
+          "Shipping": "5475 lbs 2483 kg"
+        },
+        {
+          "__seccion_1__": "Ford 5600 Height",
+          "Hood": "60.9 inches 154 cm",
+          "Cab": "106.6 inches 270 cm",
+          "Exhaust": "108.6 inches 275 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 5, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 1201: diesel 8-speed 2WD",
+          "__seccion_3__": "NTTL 1227: diesel 16-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1201"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1201",
+          "__seccion_2__": "Diesel 8-speed 2WD March 15 - 29, 1976 Link: Nebraska Tractor Test 1201 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "60.49 hp 45.1 kW",
+          "Fuel use": "3.9 gal/hour 14.8 l/hour",
+          "Power at rated PTO speed": "56.85 hp 42.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "50.09 hp 37.4 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "7105 lbs 3222 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1227"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1227",
+          "__seccion_2__": "Diesel 16-speed 2WD October 5 - 20, 1976 Link: Nebraska Tractor Test 1227 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "58.46 hp 43.6 kW",
+          "Fuel use": "4.0 gal/hour 15.1 l/hour",
+          "Power at rated PTO speed": "56.00 hp 41.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "47.86 hp 35.7 kW",
+          "__seccion_5__": "Gear 8 used for power test.",
+          "Max pull": "7140 lbs 3238 kg",
+          "__seccion_6__": "Gear 4 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 5, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Ford 3.8L 4-cyl diesel",
+          "__seccion_3__": "Ford 4.2L 4-cyl diesel"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "233 ci 3.8 L",
+          "Bore/Stroke": "4.20x4.20 inches 107 x 107 mm",
+          "Power (net)": "65 hp 48.5 kW",
+          "Power (gross)": "69 hp 51.5 kW",
+          "Air cleaner": "oil bath",
+          "Compression": "16.3:1",
+          "Rated RPM": "2100",
+          "Torque": "182 lb-ft 246.8 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12",
+          "Oil capacity": "9 qts 8.5 L",
+          "Coolant capacity": "13 qts * Capacity without cab heater or air-conditioning. 12.3 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "__seccion_6__": "Blue Power Special engine available in 1981 only. Advertised power performance was the same as the 3.8L.",
+          "Displacement": "256 ci 4.2 L",
+          "Bore/Stroke": "4.2x4.2 inches 107 x 107 mm",
+          "Rated RPM": "2100"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 5, 2025"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/8/2/8823-massey-ferguson-95x.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/8/2/8823-massey-ferguson-95x-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/8/2/8823-massey-ferguson-95x-engine.html",
+    "source_id": 8823,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:46:50.138Z"
+  },
+  "tractor_data_id": 8823,
+  "name": "Massey Ferguson 95X",
+  "brand": "Massey Ferguson",
+  "model": "95X",
+  "years": {
+    "desde": 1973,
+    "hasta": 1978
+  },
+  "model_year": 1973,
+  "engine_power_hp": 100,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 72,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3890,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 26.4,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "7.50x18",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 18,
+    "diameter_mm_est": 781,
+    "tipo": "Diagonal",
+    "texto": "7.50x18"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": null,
+  "photo_url_large": null,
+  "image_url": null,
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1973 - 1978",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in São Paulo, Brazil"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 95X Engine",
+          "__seccion_2__": "Perkins 5.8L 6-cyl diesel",
+          "Fuel tank": "31.7 gal 120.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 95X Transmission",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 95X Power",
+          "Engine": "100 hp 74.6 kW",
+          "PTO (claimed)": "72 hp 53.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical disc brakes",
+          "__seccion_5__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 95X are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position and draft control"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Clutch": "310mm disc",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "8576 lbs 3890 kg",
+          "Front tire": "7.50x18",
+          "Rear tire": "18.4/15x34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 26, 2018"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1973 - 1978",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 95X Tires",
+          "Ag front": "7.50x18",
+          "Ag rear": "18.4/15x34",
+          "&nbsp": "23.1/18x26"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Length": "148.4 inches 376 cm",
+          "Width": "82.3 inches 209 cm",
+          "Height (steering wheel)": "68.9 inches 175 cm",
+          "Shipping weight": "8576 lbs 3890 kg",
+          "Ballasted weight": "12566 lbs 5699 kg",
+          "Front tread": "53.9 to 77.6 inches 136 to 197 cm",
+          "Rear tread": "72.1 inches 183 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 26, 2018"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1973 - 1978",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A6.357.2",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "356.5 ci 5.8 L",
+          "Bore/Stroke": "4.50x4.10 inches 114 x 104 mm",
+          "Power": "100 hp 74.6 kW",
+          "Air cleaner": "oil bath",
+          "Rated RPM": "2200",
+          "Torque": "245.9 lb-ft 333.4 Nm",
+          "Torque RPM": "1400",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "13.75 qts 13.0 L",
+          "Coolant capacity": "22.5 qts 21.3 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 26, 2018"
+        }
+      ]
+    }
+  }
+}

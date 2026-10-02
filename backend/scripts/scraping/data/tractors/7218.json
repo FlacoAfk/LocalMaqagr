@@ -1,0 +1,261 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/2/1/7218-john-deere-5115m.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/2/1/7218-john-deere-5115m-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/007/2/1/7218-john-deere-5115m-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/2/1/7218-john-deere-5115m-engine.html",
+    "source_id": 7218,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:58:13.718Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7218/7218-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 67 KB"
+  },
+  "tractor_data_id": 7218,
+  "name": "John Deere 5115M",
+  "brand": "John Deere",
+  "model": "5115M",
+  "years": {
+    "desde": 2012,
+    "hasta": 2022
+  },
+  "model_year": 2012,
+  "engine_power_hp": 115,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 100,
+  "pto_tested_hp": 103.42,
+  "drawbar_tested_hp": 89.74,
+  "weight_kg": 3583,
+  "weight_basis": "ROPS",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 39.1,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 14.9-28",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1355,
+  "tire_front": {
+    "original": "9.5-24",
+    "radial": false,
+    "width_mm": 241,
+    "rim_in": 24,
+    "diameter_mm_est": 1020,
+    "tipo": "Diagonal",
+    "texto": "9.5-24"
+  },
+  "fuel_consumption_lph": 22,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7218/7218-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7218/7218-photo-001.jpg",
+  "image_url": "/uploads/tractors/td7218.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2012 - 2022",
+          "__seccion_2__": "Model year 2012-2014 2015-2022",
+          "__seccion_3__": "5M Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Original price was $63,989 in 2014"
+        },
+        {
+          "__seccion_1__": "John Deere 5115M Engine",
+          "__seccion_2__": "John Deere 4.5L 4-cyl diesel",
+          "ROPS Fuel tank": "40 gal 151.4 L",
+          "Cab Fuel tank": "46 gal 174.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5115M Transmissions",
+          "__seccion_2__": "16-speed",
+          "__seccion_3__": "32-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5115M Power",
+          "Engine (gross)": "115 hp 85.8 kW",
+          "PTO (claimed)": "100 hp 74.6 kW",
+          "Drawbar (tested)": "89.74 hp 66.9 kW",
+          "PTO (tested)": "103.42 hp 77.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "electro-hydraulic rear diff lock",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Two-post foldable ROPS with flat operation platform. Optional isolated platform. Optional cab with air-conditioning. Optional deluxe cab with premium sound package and sunroof."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 5115M photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2828 psi 195.0 bar",
+          "Rear valves": "2 ro 3",
+          "Mid valves": "2 or 3",
+          "Pump flow": "18.4 gpm 69.6 lpm",
+          "Total flow": "24.7 gpm 93.5 lpm",
+          "Steering flow": "6.3 gpm 23.8 lpm",
+          "Steering press.": "2030 psi 140.0 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "2/1",
+          "Control": "position control and lower-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "4,793 lbs 2174 kg",
+          "&nbsp": "5,935 lbs (optional) 2692 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540/540E",
+          "Engine RPM": "540@2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "90.6 inches 230 cm",
+          "Weight": "7900 to 9000 pounds",
+          "Front tire": "12.4R24",
+          "Rear tire": "18.4R30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5115M attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "5115M Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "70 (ROPS)",
+          "&nbsp": "90 (cab)",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "5M Series published in 2013, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on September 30, 2023",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2012 - 2022",
+          "__seccion_2__": "Model year 2012-2014 2015-2022",
+          "__seccion_3__": "5M Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 5115M Tires",
+          "Ag front": "9.5-24",
+          "Ag rear": "14.9-28",
+          "&nbsp": "23.1-26",
+          "Lawn/turf front": "12LL-16",
+          "Lawn/turf rear": "22.5LL-16.1",
+          "Industrial front": "12.5/80-18",
+          "Industrial rear": "19.5L-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "90.6 inches 230 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 5115M Weight",
+          "ROPS": "7,900 lbs 3583 kg",
+          "IROPS": "8,300 lbs 3764 kg",
+          "Cab": "9,000 lbs 4082 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 30, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2012 - 2022",
+          "__seccion_2__": "Model year 2012-2014 2015-2022",
+          "__seccion_3__": "5M Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2038"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2038",
+          "__seccion_2__": "Diesel 16-speed 4WD September 5 - 21, 2012 Link: OCED Tractor Test 2038 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "89.74 hp 66.9 kW",
+          "Fuel use": "6.2 gal/hour 23.5 l/hour",
+          "Power at rated engine speed": "98.82 hp 73.7 kW",
+          "Power at rated PTO speed": "102.52 hp 76.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "8790 lbs 3987 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 30, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2012 - 2022",
+          "__seccion_2__": "Model year 2012-2014 2015-2022",
+          "__seccion_3__": "5M Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "276 ci 4.5 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Interim Tier 4",
+          "Emission control": "exhaust gas recirculation (EGR)",
+          "Rated Power (gross)": "115 hp 85.8 kW",
+          "Rated RPM": "2200",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 30, 2023"
+        }
+      ]
+    }
+  }
+}

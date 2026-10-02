@@ -1,0 +1,252 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/7/0/1704-zetor-7711.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/7/0/1704-zetor-7711-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/7/0/1704-zetor-7711-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/7/0/1704-zetor-7711-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1704,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:46:52.907Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1704/1704-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 61 KB"
+  },
+  "tractor_data_id": 1704,
+  "name": "Zetor 7711",
+  "brand": "Zetor",
+  "model": "7711",
+  "years": {
+    "desde": 1986,
+    "hasta": 1992
+  },
+  "model_year": 1986,
+  "engine_power_hp": 81,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 66,
+  "pto_tested_hp": 65.74,
+  "drawbar_tested_hp": 55.87,
+  "weight_kg": 3129,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 33.3,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 16.9-28",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1441,
+  "tire_front": {
+    "original": "6.50-16",
+    "radial": false,
+    "width_mm": 165,
+    "rim_in": 16,
+    "diameter_mm_est": 687,
+    "tipo": "Diagonal",
+    "texto": "6.50-16"
+  },
+  "fuel_consumption_lph": 15.1,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1704/1704-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1704/1704-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1704.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1986 - 1992"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Zetor",
+          "__seccion_2__": "Built in Brno, Czechoslovakia",
+          "Original price": "$16500 (1992)"
+        },
+        {
+          "7711": "2WD",
+          "7745": "4WD",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Zetor 7711 Engine",
+          "__seccion_2__": "Zetor 3.9L 4-cyl diesel",
+          "Fuel tank": "18.5 gal 70.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 7711 Transmission",
+          "__seccion_2__": "10-speed partially synchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 7711 Power",
+          "Engine": "81 hp 60.4 kW",
+          "Drawbar (claimed)": "58 hp 43.3 kW",
+          "PTO (claimed)": "66 hp 49.2 kW",
+          "&nbsp": "75 hp (turbo) 55.9 kW",
+          "Drawbar (tested)": "55.87 hp 41.7 kW",
+          "PTO (tested)": "65.74 hp 49.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "power assist",
+          "__seccion_3__": "Differential hydraulic dry disc brakes"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Zetor 7711 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2,321 psi 160.0 bar",
+          "Valves": "2",
+          "Total flow": "7.9 gpm 29.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift": "5300 lbs 2404 kg",
+          "Front Hitch": "II Opt Optional"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000",
+          "Front PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "87.5 inches 222 cm",
+          "Weight": "6900 lbs 3129 kg",
+          "Front tire": "6.50-16",
+          "Rear tire": "16.9-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "7711 Serial Numbers",
+          "Location:": "Serial number plate on the right side of the dashboard."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "55",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Owner's Instruction Manual 5211, 5245, 6211, 6245, 7211, 7245, 7711 and 7745",
+          "__seccion_3__": "7711 - 7745 published by Zetor"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 1, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1986 - 1992"
+        },
+        {
+          "__seccion_1__": "Zetor 7711 Tires",
+          "Ag front": "7.50-16",
+          "Ag rear": "16.9-30",
+          "&nbsp": "13.6-36"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "87.5 inches 222 cm",
+          "Length": "149.6 inches 379 cm",
+          "Width": "72.4 inches 183 cm",
+          "Height (cab)": "104.3 inches 264 cm",
+          "Height (exhaust)": "106.7 inches 271 cm",
+          "Weight": "6900 lbs 3129 kg",
+          "Ground clearance": "20.3 inches 51 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 1, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1986 - 1992"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1602"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1602",
+          "__seccion_2__": "Diesel 10-speed 4WD September 11 - 30, 1986 Link: Nebraska Tractor Test 1602 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "65.74 hp 49.0 kW",
+          "Fuel use": "3.7 gal/hour 14.0 l/hour",
+          "Power at rated PTO speed": "62.17 hp 46.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "55.87 hp 41.7 kW",
+          "Max pull": "7,484 lbs 3394 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 1, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1986 - 1992"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Zetor 7701",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "239.3 ci 3.9 L",
+          "Bore/Stroke": "4.02x4.72 inches 102 x 120 mm",
+          "Power": "73 hp 54.4 kW",
+          "Air cleaner": "oil bath with pre-cleaner",
+          "Compression": "17:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "600-2400",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Coolant capacity": "14.5 qts 13.7 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Zetor 7701",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "239.3 ci 3.9 L",
+          "Bore/Stroke": "4.02x4.72 inches 102 x 120 mm",
+          "Power": "81 hp 60.4 kW",
+          "Air cleaner": "oil bath with pre-cleaner",
+          "Rated RPM": "2200"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 1, 2022"
+        }
+      ]
+    }
+  }
+}

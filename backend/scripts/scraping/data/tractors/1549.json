@@ -1,0 +1,243 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/5/4/1549-john-deere-990.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/5/4/1549-john-deere-990-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/5/4/1549-john-deere-990-engine.html",
+    "source_id": 1549,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:53:04.909Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1549/1549-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 117 KB"
+  },
+  "tractor_data_id": 1549,
+  "name": "John Deere 990",
+  "brand": "John Deere",
+  "model": "990",
+  "years": {
+    "desde": 2000,
+    "hasta": 2007
+  },
+  "model_year": 2000,
+  "engine_power_hp": 40.4,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 35,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1440,
+  "weight_basis": "4WD",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 12.8,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14.9-24",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1253,
+  "tire_front": {
+    "original": "8-16",
+    "radial": false,
+    "width_mm": 203,
+    "rim_in": 16,
+    "diameter_mm_est": 752,
+    "tipo": "Diagonal",
+    "texto": "8-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1549/1549-td3a.jpg",
+  "image_url": "/uploads/tractors/td1549.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2000 - 2007",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 990 Engine",
+          "__seccion_2__": "Yanmar 2.0L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 990 Transmission",
+          "__seccion_2__": "9-speed partially synchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 990 Power",
+          "Engine (gross)": "40.4 hp 30.1 kW",
+          "Engine (net)": "38.5 hp 28.7 kW",
+          "PTO (claimed)": "35 hp 26.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "Steering": "power",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 990 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "8.5 gal 32.2 L",
+          "Hydraulic system": "5.5 gal 20.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "5.5 gal 20.8 L",
+          "Pressure": "2262 psi 156.0 bar",
+          "Pump flow": "8.5 gpm 32.2 lpm",
+          "Total flow": "13 gpm 49.2 lpm",
+          "Steering flow": "4.5 gpm 17.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at 24\"/610mm)": "1,573 lbs 713 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live (two-stage clutch)",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "68.9 inches 175 cm",
+          "Weight": "2594 to 3175 pounds",
+          "Front tire": "6.5-16",
+          "2WD Rear tire": "14.9-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 990 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "2000": "190001",
+          "2001": "290002",
+          "2002": "291001",
+          "2003": "391001",
+          "2004": "590001",
+          "2005": "690001",
+          "2006": "790001",
+          "2007": "890001",
+          "__seccion_1__": "990 Serial Numbers",
+          "Location:": "Serial number plate on the rear of the 990, below the PTO.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "20",
+          "Battery CCA": "650",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Grounds Care Equipment Purchasing Guide published in 2001, by John Deere",
+          "__seccion_3__": "Commercial & Consumer Equipment Purchasing Guide published in 2007, by John Deere",
+          "__seccion_4__": "4000 Series Product Information Handbook published in 2000, by John Deere",
+          "__seccion_5__": "4000 TEN Series Product Information Handbook published in 2003, by John Deere",
+          "__seccion_6__": "990 Advantage Series Utility Tractor published in 2000, by Kioti",
+          "__seccion_7__": "Commercial & Consumer Equipment Purchase Guide published in 2005, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 30, 2023",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2000 - 2007",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 990 Tires",
+          "2WD Standard tires (ag)": "Front: 6.5-16. Rear: 14.9-24",
+          "4WD Standard tires (ag)": "Front: 8-16. Rear: 14.9-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "68.9 inches 175 cm",
+          "Length": "123 inches 312 cm",
+          "Height (hood)": "54 inches 137 cm",
+          "Height (ROPS)": "84.2 inches 213 cm",
+          "2WD Front tread": "48.2 inches 122 cm",
+          "4WD Front tread": "53.6 inches 136 cm",
+          "Rear tread": "46.2 inches 117 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 990 Weight",
+          "2WD": "2594 lbs 1176 kg",
+          "4WD": "3175 lbs 1440 kg",
+          "Max Drawbar": "825 lbs 374 kg",
+          "Max front axle": "5513 lbs 2500 kg",
+          "Max rear axle": "5292 lbs 2400 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 30, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2000 - 2007",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Yanmar 4TNE84",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "121.7 ci 2.0 L",
+          "Bore/Stroke": "3.31x3.54 inches 84 x 90 mm",
+          "Power (net)": "38.5 hp 28.7 kW",
+          "Power (gross)": "40.4 hp 30.1 kW",
+          "Air cleaner": "dry",
+          "Compression": "18:1",
+          "Rated RPM": "2700",
+          "Idle RPM": "925-2875",
+          "Starter volts": "12",
+          "Starter power": "2.7 hp 2.0 kW",
+          "Oil capacity": "5.6 qts 5.3 L",
+          "Coolant capacity": "6.1 qts 5.8 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 30, 2023"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1549/1549-td4-b01.jpg"
+}

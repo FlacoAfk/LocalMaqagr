@@ -1,0 +1,308 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/8/9/3890-challenger-mt565b.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/8/9/3890-challenger-mt565b-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/8/9/3890-challenger-mt565b-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/8/9/3890-challenger-mt565b-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3890,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:36:30.842Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3890/3890-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 2 KB"
+  },
+  "tractor_data_id": 3890,
+  "name": "Challenger MT565B",
+  "brand": "Challenger (a part of AGCO)",
+  "model": "mt565b",
+  "years": {
+    "desde": 2004,
+    "hasta": 2011
+  },
+  "model_year": 2004,
+  "engine_power_hp": 168,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 145,
+  "pto_tested_hp": 153.1,
+  "drawbar_tested_hp": 125,
+  "weight_kg": 4599,
+  "weight_basis": "4WD Max front axle",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 57.8,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 480/80R42",
+  "tire_width_mm": 480,
+  "tire_diameter_mm": 1835,
+  "tire_front": {
+    "original": "380/85R30",
+    "radial": true,
+    "width_mm": 380,
+    "rim_in": 30,
+    "diameter_mm_est": 1408,
+    "tipo": "Radial",
+    "texto": "380/85R30"
+  },
+  "fuel_consumption_lph": 34.1,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3890/3890-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td3890.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2004 - 2011",
+          "__seccion_2__": "Model year 2004-2007 2007-2011",
+          "__seccion_3__": "MT500B Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Challenger (a part of AGCO)",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Beauvais, France"
+        },
+        {
+          "6490": "similar Massey Ferguson model",
+          "7490": "similar Massey Ferguson model",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Challenger MT565B Engine",
+          "__seccion_2__": "Caterpillar 6.0L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Challenger MT565B Transmissions",
+          "__seccion_2__": "continuously variable transmission",
+          "__seccion_3__": "32-speed partial power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Challenger MT565B Power",
+          "Engine": "168 hp 125.3 kW",
+          "PTO (claimed)": "145 hp 108.1 kW",
+          "Drawbar (tested)": "125.0 hp 93.2 kW",
+          "PTO (tested)": "153.1 hp 114.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "electro-hydraulic front and rear",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic optional",
+          "__seccion_4__": "Cab standard with heat and A/C. Optional pneumatic cab suspension and automatic climate control."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Challenger MT565B are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "100 gal 378.5 L",
+          "Hydraulic system": "18.5 gal (AutoPower) 70.0 L",
+          "&nbsp": "26.4 gal (CVT) 99.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center PFC",
+          "Capacity": "18.5 gal (AutoPower) 70.0 L",
+          "&nbsp": "26.4 gal (CVT) 99.9 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "4",
+          "Total flow": "29 gpm 109.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/III",
+          "Rear lift (at 24\"/610mm)": "14,700 lbs 6667 kg",
+          "&nbsp": "7,700 lbs (optional) 3492 kg",
+          "Front Hitch": "optional",
+          "Front lift (at ends)": "5,500 lbs 2494 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540/1000",
+          "&nbsp": "1000@2000",
+          "Engine RPM": "540@1890"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "121.4 inches 308 cm",
+          "4WD Wheelbase": "118.7 inches 301 cm",
+          "Weight": "14028 to 15060 pounds",
+          "Front tire": "420/90R30",
+          "Rear tire": "520/85R42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "2004": "N00001",
+          "2005": "P00001",
+          "2006": "R00001",
+          "2007": "S00001",
+          "__seccion_1__": "MT565B Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "Batteries": "2",
+          "Battery CCA": "420",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Challenger MT500B AutoPower IV Product Information Guide published in 2004, by AGCO",
+          "__seccion_3__": "Challenger MT500B Series published in 2005, by AGCO",
+          "__seccion_4__": "Challenger MT500B TECHstar CVT Product Information Guide published in 2004, by AGCO"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 21, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2004 - 2011",
+          "__seccion_2__": "Model year 2004-2007 2007-2011",
+          "__seccion_3__": "MT500B Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Challenger MT565B Tires",
+          "Ag front": "380/85R30",
+          "Ag rear": "480/80R42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "121.4 inches 308 cm",
+          "4WD Wheelbase": "118.7 inches 301 cm",
+          "Length": "182.3 inches 463 cm",
+          "Width": "81.1 inches 205 cm",
+          "Height (cab)": "112.8 inches 286 cm",
+          "Clearance (drawbar)": "15.4 inches 39 cm",
+          "Bar rear axle": "3.74 by 98 inches 94 by 2489 mm",
+          "2WD Front tread": "64.1 to 83 inches 162 to 210 cm",
+          "4WD Front tread": "61.2 to 89.2 inches 155 to 226 cm",
+          "Rear tread": "59.2 to 95.2 inches 150 to 241 cm (short bar)"
+        },
+        {
+          "__seccion_1__": "Challenger MT565B Weight",
+          "Shipping": "14,028 lbs (2WD) 6363 kg",
+          "&nbsp": "15,060 lbs (CVT 4WD) 6831 kg",
+          "Ballasted": "19,645 lbs 8910 kg",
+          "Max Drawbar": "4046 lbs 1835 kg",
+          "2WD Max front axle": "5203 lbs 2360 kg",
+          "4WD Max front axle": "10141 lbs 4599 kg",
+          "Max rear axle": "16314 lbs 7400 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 21, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2004 - 2011",
+          "__seccion_2__": "Model year 2004-2007 2007-2011",
+          "__seccion_3__": "MT500B Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "OECD 2308: diesel Autopower IV 4WD",
+          "__seccion_3__": "OECD 2335: diesel CVT 4WD"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2308"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2308",
+          "__seccion_2__": "Diesel Autopower IV 4WD September 2005 - October 2005, Link: OCED Tractor Test 2308 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "125.0 hp 93.2 kW",
+          "Fuel use": "9.0 gal/hour 34.1 l/hour",
+          "Power at rated engine speed": "146.1 hp 108.9 kW",
+          "Power at rated PTO speed": "151.1 hp 112.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 1LA used for power test.",
+          "Max pull": "12,995 lbs 5894 kg",
+          "__seccion_6__": "Gear 1TD used for pull test."
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2335"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2335",
+          "__seccion_2__": "Diesel CVT 4WD April 2005 - June 2005, Link: OCED Tractor Test 2335 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "120.6 hp 89.9 kW",
+          "Fuel use": "9.7 gal/hour 36.7 l/hour",
+          "Power at rated engine speed": "145.6 hp 108.6 kW",
+          "Power at rated PTO speed": "152.2 hp 113.5 kW",
+          "__seccion_4__": "Drawbar performance"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 21, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2004 - 2011",
+          "__seccion_2__": "Model year 2004-2007 2007-2011",
+          "__seccion_3__": "MT500B Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Caterpillar 3056C",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled vertical inline",
+          "Displacement": "365.2 ci 6.0 L",
+          "Bore/Stroke": "3.937x5.00 inches 100 x 127 mm",
+          "Emissions": "Tier II",
+          "Power": "168 hp 125.3 kW",
+          "Cooling system": "viscous fan",
+          "Air cleaner": "dual paper elements",
+          "Compression": "17.5:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "800-2350",
+          "Starter volts": "12",
+          "Oil capacity": "20 qts 18.9 L",
+          "Coolant capacity": "26.92 qts 25.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 21, 2022"
+        }
+      ]
+    }
+  }
+}

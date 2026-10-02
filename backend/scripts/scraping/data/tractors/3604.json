@@ -1,0 +1,210 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/6/0/3604-caseih-cs-63.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/6/0/3604-caseih-cs-63-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/6/0/3604-caseih-cs-63-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3604,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:41:33.323Z"
+  },
+  "tractor_data_id": 3604,
+  "name": "CaseIH CS 63",
+  "brand": "CaseIH",
+  "model": "CS 63",
+  "years": {
+    "desde": 2001,
+    "hasta": 2004
+  },
+  "model_year": 2001,
+  "engine_power_hp": 63,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 58.2,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2710,
+  "weight_basis": "4WD",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 21.4,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14.9-28",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1355,
+  "tire_front": {
+    "original": "10.5-20",
+    "radial": false,
+    "width_mm": 267,
+    "rim_in": 20,
+    "diameter_mm_est": 961,
+    "tipo": "Diagonal",
+    "texto": "10.5-20"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": null,
+  "photo_url_large": null,
+  "image_url": null,
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2001 - 2004",
+          "__seccion_2__": "CS Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "CS63": "2WD",
+          "CS63a": "4WD"
+        },
+        {
+          "__seccion_1__": "CaseIH CS 63 Engine",
+          "__seccion_2__": "Perkins 2.7L 3-cyl diesel",
+          "Fuel tank": "19.3 gal 73.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH CS 63 Transmission",
+          "__seccion_2__": "16-speed synchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH CS 63 Power",
+          "Engine": "63 hp 47.0 kW",
+          "PTO (claimed)": "58.2 hp 43.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Disc brakes",
+          "__seccion_5__": "Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH CS 63 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Total flow": "9 gpm 34.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "5512.5 lbs 2500 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "430/540/1000",
+          "Engine RPM": "430@2130",
+          "&nbsp": "1000@2130",
+          "Front PTO": "independent",
+          "Front PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "85.4 inches 216 cm",
+          "4WD Wheelbase": "83.5 inches 212 cm",
+          "Weight": "5490 to 5975 pounds",
+          "Front tire": "7.50-18",
+          "2WD Rear tire": "14.9R28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 14, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2001 - 2004",
+          "__seccion_2__": "CS Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH CS 63 Tires",
+          "2WD Standard tires (ag)": "Front: 7.50-18. Rear: 14.9R28",
+          "4WD Standard tires (ag)": "Front: 10.5-20. Rear: 14.9-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "85.4 inches 216 cm",
+          "4WD Wheelbase": "83.5 inches 212 cm",
+          "2WD Length": "139 inches 353 cm",
+          "4WD Length": "140.6 inches 357 cm",
+          "Width": "74.8 inches 189 cm",
+          "Height (cab)": "92.9 inches 235 cm",
+          "2WD Ground clearance": "16.1 inches 40 cm",
+          "&nbsp": "14.2 inches 36 cm",
+          "2WD Front tread": "52 inches 132 cm",
+          "4WD Front tread": "58.3 inches 148 cm",
+          "Rear tread": "58.7 inches 149 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH CS 63 Weight",
+          "2WD": "5490 lbs 2490 kg",
+          "4WD": "5975 lbs 2710 kg",
+          "2WD Max capacity": "8818 lbs 3999 kg",
+          "4WD Max capacity": "9259 lbs 4199 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 14, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2001 - 2004",
+          "__seccion_2__": "CS Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins 903.27T",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "164.8 ci 2.7 L",
+          "Bore/Stroke": "3.74x5.00 inches 95 x 127 mm",
+          "Power": "63 hp 47.0 kW",
+          "Rated RPM": "2250",
+          "Torque": "176 lb-ft 238.7 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 14, 2020"
+        }
+      ]
+    }
+  }
+}

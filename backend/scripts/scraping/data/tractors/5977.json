@@ -1,0 +1,273 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/9/7/5977-ji-case-4994.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/9/7/5977-ji-case-4994-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/9/7/5977-ji-case-4994-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/9/7/5977-ji-case-4994-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 5977,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:09:25.731Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5977/5977-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 49 KB"
+  },
+  "tractor_data_id": 5977,
+  "name": "J.I. Case 4994",
+  "brand": "J.I. Case",
+  "model": "4994",
+  "years": {
+    "desde": 1984,
+    "hasta": 1987
+  },
+  "model_year": 1984,
+  "engine_power_hp": 400,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 344,
+  "pto_tested_hp": 344,
+  "drawbar_tested_hp": 294.24,
+  "weight_kg": 12020,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 153.5,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 20.8-38",
+  "tire_width_mm": 528,
+  "tire_diameter_mm": 1863,
+  "tire_front": {
+    "original": "20.8-38",
+    "radial": false,
+    "width_mm": 528,
+    "rim_in": 38,
+    "diameter_mm_est": 1863,
+    "tipo": "Diagonal",
+    "texto": "20.8-38"
+  },
+  "fuel_consumption_lph": 76.5,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5977/5977-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5977/5977-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td5977.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1984",
+          "__seccion_2__": "4WD 94 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA",
+          "Total built": "224",
+          "__seccion_4__": "Original price was $132,050 in 1985"
+        },
+        {
+          "__seccion_1__": "J.I. Case 4994 Engine",
+          "__seccion_2__": "Saab-Scania 14.2L 8-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 4994 Transmission",
+          "__seccion_2__": "12-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 4994 Power",
+          "Engine": "400 hp 298.3 kW",
+          "PTO (claimed)": "344 hp 256.5 kW",
+          "Drawbar (tested)": "294.24 hp 219.4 kW",
+          "PTO (tested)": "344 hp 256.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x4 4WD",
+          "Steering": "hydraulic, front, rear or four-wheel crab steering",
+          "__seccion_2__": "Hydraulic dual caliper disc brakes",
+          "__seccion_3__": "Silent Guardian cab standard"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "J.I. Case 4994 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "300 gal 1135.5 L",
+          "Hydraulic system": "26.25 gal 99.4 L",
+          "Front hubs": "13.5 qts (each) 12.8 L",
+          "Front diff.": "17 qts 16.1 L",
+          "Rear hubs": "13.5 qts (each) 12.8 L",
+          "Rear diff.": "22.5 qts 21.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "26.25 gal 99.4 L",
+          "Pressure": "2000 psi 137.9 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "35 gpm 132.5 lpm",
+          "Total flow": "35 gpm 132.5 lpm",
+          "Steering flow": "20 gpm 75.7 lpm",
+          "Steering press.": "2000 psi 137.9 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IV/IVN (optional)",
+          "Rear lift (at 24\"/610mm)": "16,000 lbs 7257 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent Opt Optional",
+          "Rear PTO Type": "1000 (1.75)",
+          "Engine RPM": "1000@2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "124.8 inches 316 cm",
+          "Weight": "26500 to 31315 pounds",
+          "Front tire": "24.5-32",
+          "Rear tire": "24.5-32",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1984": "8865000",
+          "__seccion_1__": "4994 Serial Numbers",
+          "Location:": "Data plates located at forward-right corner in top of the tractor cab.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "105",
+          "Batteries": "2",
+          "Battery volts": "12",
+          "Battery AH": "300",
+          "Battery Group": "30H"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "4994 Tractor Operators Manual (9-9870) published in 1984",
+          "__seccion_3__": "Tractor & Loaders Buyers Guide published in 1985, by J.I. Case"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 21, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1984",
+          "__seccion_2__": "4WD 94 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "J.I. Case 4994 Tires",
+          "Ag front": "20.8-38",
+          "Ag rear": "20.8-38",
+          "&nbsp": "30.5-32"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "124.8 inches 316 cm",
+          "Length": "261.8 inches 664 cm",
+          "Width": "120 inches 304 cm",
+          "Height (exhaust)": "138.5 inches 351 cm",
+          "Clearance (drawbar)": "14.5 inches 36 cm"
+        },
+        {
+          "__seccion_1__": "J.I. Case 4994 Weight",
+          "Shipping": "26500 lbs 12020 kg",
+          "Operating": "31315 lbs 14204 kg",
+          "Ballasted": "39930 lbs 18112 kg",
+          "Max capacity": "40000 lbs 18144 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 21, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1984",
+          "__seccion_2__": "4WD 94 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1530"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1530",
+          "__seccion_2__": "Diesel 12-speed 4WD June 9 - 27, 1984 Link: Nebraska Tractor Test 1530 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "344 hp 256.5 kW",
+          "Fuel use": "20.1 gal/hour 76.1 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "294.24 hp 219.4 kW",
+          "__seccion_5__": "Gear 6 used for power test.",
+          "Max pull": "34,519 lbs 15657 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 21, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1984",
+          "__seccion_2__": "4WD 94 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Saab-Scania",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "8-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "866 ci 14.2 L",
+          "Bore/Stroke": "5.00x5.51 inches 127 x 140 mm",
+          "Power": "400 hp 298.3 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "15.5:1",
+          "Rated RPM": "2100",
+          "Torque": "1140 lb-ft 1545.8 Nm",
+          "Torque RPM": "1300",
+          "Firing order": "1-5-4-2-6-3-7-8",
+          "Starter volts": "12",
+          "Coolant capacity": "88 qts 83.3 L",
+          "Intake valve clearance": "0.018 inches 0.457 mm",
+          "Exhaust valve clearance": "0.031 inches 0.787 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "27 qts 25.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 21, 2022"
+        }
+      ]
+    }
+  }
+}

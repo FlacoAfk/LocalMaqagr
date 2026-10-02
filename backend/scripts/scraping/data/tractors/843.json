@@ -1,0 +1,279 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/4/843-massey-ferguson-1230.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/4/843-massey-ferguson-1230-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/4/843-massey-ferguson-1230-engine.html",
+    "source_id": 843,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:26:53.814Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/843/843-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 75 KB"
+  },
+  "tractor_data_id": 843,
+  "name": "Massey Ferguson 1230",
+  "brand": "Iseki",
+  "model": "ferguson 1230",
+  "years": {
+    "desde": 1993,
+    "hasta": 2002
+  },
+  "model_year": 1993,
+  "engine_power_hp": 27,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 21.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 860,
+  "weight_basis": "4WD Gear Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 7.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-16",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 942,
+  "tire_front": {
+    "original": "6.00-14",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 14,
+    "diameter_mm_est": 615,
+    "tipo": "Diagonal",
+    "texto": "6.00-14"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/843/843-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/843/843-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td843.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1993 - 2002",
+          "__seccion_2__": "1200 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Massey Ferguson",
+          "Manufacturer": "Iseki",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan",
+          "__seccion_4__": "Original price was $14,000 in 1999",
+          "__seccion_5__": "The Massey Ferguson 1230 is similar to the Iseki model TF325."
+        },
+        {
+          "__seccion_1__": "Variants",
+          "TF223": "similar Iseki model"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1230 Engine",
+          "__seccion_2__": "Iseki 1.4L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1230 Transmissions",
+          "__seccion_2__": "9-speed gear",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "12-speed creeper",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1230 Power",
+          "Engine (gross)": "27 hp 20.1 kW",
+          "Engine (net)": "25 hp 18.6 kW",
+          "Gear PTO (claimed)": "21.5 hp 16.0 kW",
+          "Hydro PTO (claimed)": "20 hp 14.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "spur gear",
+          "Differential lock": "mechanical rear",
+          "Steering": "manual",
+          "&nbsp": "power assist * Power steering standard with 2WD, optional with 4WD.",
+          "__seccion_3__": "Mechanical wet disc brakes",
+          "__seccion_4__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 1230 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "6 gal 22.7 L",
+          "Hydraulic system": "3.2 gal 12.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "3.2 gal 12.1 L",
+          "Pressure": "2130 psi 146.9 bar",
+          "Valves": "1 or 2",
+          "Pump flow": "6 gpm 22.7 lpm",
+          "Total flow": "8.5 gpm 32.2 lpm",
+          "Steering flow": "2.5 gpm 9.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at ends)": "1984 lbs 899 kg",
+          "Rear lift (at 24\"/610mm)": "1323 lbs 600 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Clutch": "two-stage dry disc",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "2000@2500",
+          "Mid PTO": "live",
+          "Mid PTO Type": "2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "64.6 inches 164 cm",
+          "Weight": "1719 to 1962 pounds",
+          "Front tire": "5.00-15",
+          "2WD Rear tire": "12.4-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1230 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "72\" mid-mount mower deck",
+          "__seccion_4__": "snowblower",
+          "__seccion_5__": "blade",
+          "__seccion_6__": "front-end loader",
+          "__seccion_7__": "Attachment details ..."
+        },
+        {
+          "1993": "B30101",
+          "1994": "C30101",
+          "1995": "D30101",
+          "1996": "E30101",
+          "1997": "FC0101",
+          "1998": "BD01001",
+          "1999": "HD01001",
+          "2000": "JD01001",
+          "2001": "KD01001",
+          "__seccion_1__": "1230 Serial Numbers",
+          "Location:": "Serial number decal on the right side of the tractor, just ahead and below the seat.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "Battery CCA": "582",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF Loaders for Compact & Agricultural Tractors published in 2003, by Massey Ferguson",
+          "__seccion_3__": "MF 1200 Series Tractors published in 1993, by Massey Ferguson",
+          "__seccion_4__": "MF 1200 Series published in 1997, by Massey Ferguson",
+          "__seccion_5__": "MF 1210/1220/1230 Training Manual (1449259M23768270M1) published in 1992",
+          "__seccion_6__": "MF 1230-2/4 compact tractor published by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 14, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1993 - 2002",
+          "__seccion_2__": "1200 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1230 Tires",
+          "2WD Standard tires (ag)": "Front: 5.00-15. Rear: 12.4-16",
+          "4WD Standard tires (ag)": "Front: 6.00-14. Rear: 12.4-16",
+          "Lawn/turf front": "24x8.50-12",
+          "Lawn/turf rear": "315x80D-16"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "64.6 inches 164 cm",
+          "Length": "116.5 inches 295 cm",
+          "Width": "55.5 inches * Minimum width. 140 cm",
+          "Height (ROPS)": "79.1 inches 200 cm",
+          "Height (Folded ROPS)": "62.6 inches 159 cm",
+          "Ground clearance": "12 inches 30 cm",
+          "2WD Front tread": "35.9 to 39.9 inches 91 to 101 cm",
+          "4WD Front tread": "37.8 inches 96 cm",
+          "Rear tread": "43.1 inches 109 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1230 Weight",
+          "2WD Gear Shipping": "1719 lbs 779 kg",
+          "2WD Hydro Shipping": "1786 lbs 810 kg",
+          "4WD Gear Shipping": "1896 lbs 860 kg",
+          "4WD Hydro Shipping": "1962 lbs 889 kg",
+          "2WD Max capacity": "3750 lbs 1701 kg",
+          "4WD Max capacity": "4136 lbs 1876 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 14, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1993 - 2002",
+          "__seccion_2__": "1200 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iseki E3CE",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "87.2 ci 1.4 L",
+          "Bore/Stroke": "3.346x3.307 inches 85 x 84 mm",
+          "Power (net)": "25 hp 18.6 kW",
+          "Power (gross)": "27 hp 20.1 kW",
+          "Fuel system": "indirect injection",
+          "Air cleaner": "dry",
+          "Pre-heating": "glow plugs",
+          "Compression": "21.5:1",
+          "Rated RPM": "2500",
+          "Idle RPM": "950-2750",
+          "Torque": "58.6 lb-ft 79.5 Nm",
+          "Torque RPM": "1800",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "4.2 qts 4.0 L",
+          "Coolant capacity": "7.5 qts 7.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 14, 2024"
+        }
+      ]
+    }
+  }
+}

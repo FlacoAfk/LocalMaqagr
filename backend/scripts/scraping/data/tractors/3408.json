@@ -1,0 +1,267 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/4/0/3408-john-deere-7630.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/4/0/3408-john-deere-7630-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/4/0/3408-john-deere-7630-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/4/0/3408-john-deere-7630-engine.html",
+    "source_id": 3408,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:40:22.063Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3408/3408-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 50 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 3408,
+  "name": "John Deere 7630",
+  "brand": "John Deere",
+  "model": "7630",
+  "years": {
+    "desde": 2007,
+    "hasta": 2011
+  },
+  "model_year": 2007,
+  "engine_power_hp": 175,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 140,
+  "pto_tested_hp": 161.88,
+  "drawbar_tested_hp": 126.97,
+  "weight_kg": 7770,
+  "weight_basis": "4WD Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 59.4,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 480/80R42",
+  "tire_width_mm": 480,
+  "tire_diameter_mm": 1835,
+  "tire_front": {
+    "original": "420/85R28",
+    "radial": true,
+    "width_mm": 420,
+    "rim_in": 28,
+    "diameter_mm_est": 1425,
+    "tipo": "Radial",
+    "texto": "420/85R28"
+  },
+  "fuel_consumption_lph": 33.7,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3408/3408-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3408/3408-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td3408.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "7030 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA"
+        },
+        {
+          "__seccion_1__": "John Deere 7630 Engine",
+          "__seccion_2__": "John Deere 6.8L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7630 Transmissions",
+          "__seccion_2__": "16-speed",
+          "__seccion_3__": "20-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7630 Power",
+          "Engine": "175 hp 130.5 kW",
+          "PTO (claimed)": "140 hp 104.4 kW",
+          "Drawbar (tested)": "126.97 hp 94.7 kW",
+          "PTO (tested)": "161.88 hp 120.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 7630 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "103 gal 389.9 L",
+          "&nbsp": "94 gal (with right-hand steps) 355.8 L",
+          "Hydraulic system": "28.5 gal 107.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load-sensing",
+          "Capacity": "28.5 gal 107.9 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "2 to 7",
+          "SCV flow": "30 gpm 113.6 lpm",
+          "Total flow": "32 gpm 121.1 lpm",
+          "&nbsp": "45 gpm Opt Optional 170.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Rear lift": "10,050 lbs 4558 kg",
+          "&nbsp": "14,000 lbs Opt Optional 6350 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540E@1750",
+          "&nbsp": "1000@1950"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "116.8 inches 296 cm",
+          "4WD Wheelbase": "112.6 inches 286 cm",
+          "Weight": "15360 to 17200 pounds",
+          "Front tire": "11.00-16",
+          "2WD Rear tire": "480/80R42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "7630 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "200",
+          "Batteries": "2",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "7030 Series Tractors published in 2006, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 29, 2017",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "7030 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 7630 Tires",
+          "2WD Standard tires (ag)": "Front: 11.00-16. Rear: 480/80R42",
+          "4WD Standard tires (ag)": "Front: 420/85R28. Rear: 480/80R42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "116.8 inches 296 cm",
+          "4WD Wheelbase": "112.6 inches 286 cm",
+          "Length": "225 inches 571 cm",
+          "Width": "96 inches 243 cm",
+          "Height (cab)": "120.9 inches 307 cm",
+          "2WD Clearance (front axle)": "26 inches 66 cm",
+          "4WD Clearance (front axle)": "25.3 inches 64 cm",
+          "Clearance (rear axle)": "31 inches 78 cm",
+          "Clearance (drawbar)": "17.75 inches 45 cm",
+          "Bar rear axle": "3.94 by 118.5 inches 100 by 3009 mm"
+        },
+        {
+          "__seccion_1__": "John Deere 7630 Weight",
+          "2WD Shipping": "15360 lbs 6967 kg",
+          "4WD Shipping": "17131 lbs 7770 kg",
+          "Operating": "17,200 lbs (4WD AutoQuad) 7801 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 29, 2017"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "7030 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 560"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 560",
+          "__seccion_2__": "Diesel AutoQuad Plus 4WD March 22 - April 20, 2007 Link: OCED Tractor Test 560 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "126.97 hp 94.7 kW",
+          "Fuel use": "8.4 gal/hour 31.8 l/hour",
+          "Power at rated engine speed": "141.66 hp 105.6 kW",
+          "Power at rated PTO speed": "159.73 hp 119.1 kW",
+          "__seccion_4__": "Drawbar performance"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 29, 2017"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "7030 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "intercooled turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "414 ci 6.8 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Power": "175 hp 130.5 kW",
+          "Fuel system": "high-pressure common rail",
+          "Cooling system": "viscous fan",
+          "Air cleaner": "dual paper elements",
+          "Compression": "17:1",
+          "Rated RPM": "2100",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Oil capacity": "27.5 qts 26.0 L"
+        },
+        {
+          "__seccion_1__": "John Deere 7630 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 29, 2017"
+        }
+      ]
+    }
+  }
+}

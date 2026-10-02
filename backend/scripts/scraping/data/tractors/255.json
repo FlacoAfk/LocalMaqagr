@@ -1,0 +1,269 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/5/255-ford-2000.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/5/255-ford-2000-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/5/255-ford-2000-engine.html",
+    "source_id": 255,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:10:13.811Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/255/255-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 102 KB"
+  },
+  "tractor_data_id": 255,
+  "name": "Ford 2000",
+  "brand": "Ford",
+  "model": "2000",
+  "years": {
+    "desde": 1962,
+    "hasta": 1975
+  },
+  "model_year": 1962,
+  "engine_power_hp": 48.4,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 31,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1369,
+  "weight_basis": "Utility Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 11.4,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-28",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1247,
+  "tire_front": {
+    "original": "5.50-16",
+    "radial": false,
+    "width_mm": 140,
+    "rim_in": 16,
+    "diameter_mm_est": 644,
+    "tipo": "Diagonal",
+    "texto": "5.50-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/255/255-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/255/255-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td255.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1962 - 1975",
+          "__seccion_2__": "Model year 1962-1965 1965-1975",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Highland Park, Michigan, USA",
+          "__seccion_4__": "The four-cylinder Ford 2000 tractor was very similar to the 601 Workmaster series of Ford tractors. It is entirely different than the later three-cylinder 2000 which replaced it."
+        },
+        {
+          "__seccion_1__": "Variants",
+          "2000 Offset": "cultivating tractor"
+        },
+        {
+          "__seccion_1__": "Ford 2000 Engines",
+          "__seccion_2__": "Ford 2.2L 4-cyl gasoline",
+          "__seccion_3__": "Ford 2.4L 4-cyl diesel",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 2000 Transmissions",
+          "__seccion_2__": "4-speed gear",
+          "__seccion_3__": "5-speed gear",
+          "__seccion_4__": "10-speed full power shift",
+          "__seccion_5__": "12-speed gear",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 2000 Power",
+          "Engine (gross)": "48.4 hp 36.1 kW",
+          "Drawbar (claimed)": "28 hp 20.9 kW",
+          "PTO (claimed)": "31 hp 23.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Utility Steering": "manual",
+          "Row-crop Steering": "power",
+          "__seccion_3__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 2000 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "13 gal 49.2 L",
+          "Hydraulic system": "2 gal 7.6 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "2 gal 7.6 L",
+          "Pressure": "2000 psi 137.9 bar",
+          "Valves": "2",
+          "Pump flow": "4.0 gpm 15.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at ends)": "2360 lbs 1070 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "tranmission",
+          "&nbsp": "independent * Independent PTO available with the Select-O-Speed transmission.",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "74.5 inches 189 cm",
+          "Weight": "3020 to 3362 pounds",
+          "Front tire": "5.50-16",
+          "Rear tire": "12.4-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 2000 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "2000 Serial Number Location",
+          "__seccion_2__": "Serial number stamped on the top of the starter mount casting, on the left side of the tractor."
+        },
+        {
+          "1962": "1001",
+          "1963": "11949",
+          "1964": "38931",
+          "__seccion_1__": "2000 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive (6V)",
+          "&nbsp": "12 (diesel)",
+          "Charging system": "generator",
+          "Battery volts": "6 (gas/LP)"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Industrial Tractors and Equipment published in 1964, by Ford",
+          "__seccion_3__": "1200 Farm Loaders published in 1966, by Ford",
+          "__seccion_4__": "Ford 2000 All Purpose Tractor published in 1963",
+          "__seccion_5__": "4000 and 2000 published in 1962, by Ford"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on September 29, 2025",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1962 - 1975",
+          "__seccion_2__": "Model year 1962-1965 1965-1975",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Ford 2000 Tires",
+          "Ag front": "5.50-16",
+          "Ag rear": "13.6-28",
+          "&nbsp": "16.9-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "74.5 inches 189 cm",
+          "Length": "113.6 inches 288 cm",
+          "Width": "87.5 inches 222 cm",
+          "Height (steering wheel)": "57 inches 144 cm",
+          "Utility Weight": "3020 lbs 1369 kg",
+          "Row-crop Weight": "3362 lbs 1525 kg",
+          "Utility Ground clearance": "20.5 inches 52 cm",
+          "Utility Front tread": "52 to 80 inches 132 to 203 cm",
+          "Row-crop Front tread": "52 to 81 inches 132 to 205 cm",
+          "Utility Rear tread": "52 to 76 inches 132 to 193 cm",
+          "Row-crop Rear tread": "56 to 84 inches 142 to 213 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 29, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1962 - 1975",
+          "__seccion_2__": "Model year 1962-1965 1965-1975",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Ford 2.2L 4-cyl gasoline",
+          "__seccion_3__": "Ford 2.4L 4-cyl diesel"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "134 ci 2.2 L",
+          "Bore/Stroke": "3.4375x3.60 inches 87 x 91 mm",
+          "Power (gross)": "48.4 hp 36.1 kW",
+          "Air cleaner": "oil bath",
+          "Compression": "7.5:1",
+          "Rated RPM": "2200",
+          "Torque": "121.6 lb-ft 164.9 Nm",
+          "Torque RPM": "1600",
+          "Firing order": "1-2-4-3",
+          "Starter": "electric",
+          "Starter volts": "6",
+          "Oil capacity": "5 qts 4.7 L",
+          "Coolant capacity": "15 qts 14.2 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "144 ci 2.4 L",
+          "Bore/Stroke": "3.56x3.60 inches 90 x 91 mm",
+          "Power (gross)": "42.7 hp 31.8 kW",
+          "Air cleaner": "oil bath",
+          "Rated RPM": "2200",
+          "Torque": "111.3 lb-ft 150.9 Nm",
+          "Torque RPM": "1400",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "5 qts 4.7 L",
+          "Coolant capacity": "15 qts 14.2 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 29, 2025"
+        }
+      ]
+    }
+  }
+}

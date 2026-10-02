@@ -1,0 +1,246 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/3/1/6313-caseih-farmall-65c.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/3/1/6313-caseih-farmall-65c-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/006/3/1/6313-caseih-farmall-65c-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/3/1/6313-caseih-farmall-65c-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 6313,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:46:16.891Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6313/6313-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 6313,
+  "name": "CaseIH Farmall 65C",
+  "brand": "CaseIH",
+  "model": "Farmall 65C",
+  "years": {
+    "desde": 2008,
+    "hasta": 2026
+  },
+  "model_year": 2008,
+  "engine_power_hp": 64,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 50,
+  "pto_tested_hp": 59,
+  "drawbar_tested_hp": 50.9,
+  "weight_kg": 2619,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 31.1,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 13.6,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F006/6313/6313-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td6313.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2008 - 2026",
+          "__seccion_2__": "Model year 2008-2013 2016-2026",
+          "__seccion_3__": "Farmall C Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Jesi, Italy"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "T4020": "similar New Holland model"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 65C Engine",
+          "__seccion_2__": "FPT 3.2L 4-cyl diesel",
+          "Fuel tank": "19.8 gal 74.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 65C Transmissions",
+          "__seccion_2__": "16-speed mechanical shuttle",
+          "__seccion_3__": "16-speed power shuttle",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 65C Power",
+          "Engine (gross)": "64 hp 47.7 kW",
+          "PTO (claimed)": "50 hp 37.3 kW",
+          "Drawbar (tested)": "50.9 hp 38.0 kW",
+          "PTO (tested)": "59.0 hp 44.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Straddle deck platform with ROPS; Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH Farmall 65C are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Rear valves": "1 to 2",
+          "Mid valves": "0 to 2",
+          "Pump flow": "12.8 gpm 48.4 lpm",
+          "Total flow": "20.2 gpm 76.5 lpm",
+          "Steering flow": "7.4 gpm 28.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift (at 24\"/610mm)": "3960 lbs 1796 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "mechanical dry disc",
+          "Rear PTO Type": "540 (1.375)",
+          "&nbsp": "540/1000 (1.375) Opt Optional",
+          "Engine RPM": "540@2206"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "85.6 inches 217 cm",
+          "4WD Wheelbase": "82.6 inches 209 cm",
+          "Weight": "5776 to 6768 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 65C attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "Battery CCA": "730",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Farmall Series Utility Tractors published in 2008, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 15, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2008 - 2026",
+          "__seccion_2__": "Model year 2008-2013 2016-2026",
+          "__seccion_3__": "Farmall C Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 65C Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "85.6 inches 217 cm",
+          "4WD Wheelbase": "82.6 inches 209 cm",
+          "Height (ROPS)": "77.8 inches 197 cm",
+          "Height (cab)": "91.4 inches 232 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 65C Weight",
+          "Shipping": "5,776 lbs (2WD ROPS) 2619 kg",
+          "&nbsp": "6,768 lbs (4WD cab) 3069 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 15, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2008 - 2026",
+          "__seccion_2__": "Model year 2008-2013 2016-2026",
+          "__seccion_3__": "Farmall C Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2468"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2468",
+          "__seccion_2__": "Diesel 16-speed 4WD June 2008 - July 2008, Link: OCED Tractor Test 2468 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "59.0 hp 44.0 kW",
+          "Fuel use": "3.5 gal/hour 13.2 l/hour",
+          "Power at rated PTO speed": "58.7 hp 43.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "50.9 hp 38.0 kW",
+          "__seccion_5__": "Gear 3MH used for power test.",
+          "Max pull": "6,990 lbs 3170 kg",
+          "__seccion_6__": "Gear 1ML used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 15, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2008 - 2026",
+          "__seccion_2__": "Model year 2008-2013 2016-2026",
+          "__seccion_3__": "Farmall C Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT F5C",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "195 ci 3.2 L",
+          "Bore/Stroke": "3.898x4.094 inches 99 x 104 mm",
+          "Emissions": "Tier III",
+          "Power (gross)": "64 hp 47.7 kW",
+          "Air cleaner": "dual dry elements",
+          "Pre-heating": "thermostart",
+          "Rated RPM": "2300",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 15, 2025"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/4/844-massey-ferguson-1235.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/4/844-massey-ferguson-1235-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/4/844-massey-ferguson-1235-engine.html",
+    "source_id": 844,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:26:56.665Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/844/844-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 844,
+  "name": "Massey Ferguson 1235",
+  "brand": "Iseki",
+  "model": "ferguson 1235",
+  "years": {
+    "desde": 1997,
+    "hasta": 2002
+  },
+  "model_year": 1997,
+  "engine_power_hp": 32,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 25.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1134,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 9.4,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "6.00-14",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 14,
+    "diameter_mm_est": 615,
+    "tipo": "Diagonal",
+    "texto": "6.00-14"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/844/844-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td844.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1997 - 2002",
+          "__seccion_2__": "1200 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Massey Ferguson",
+          "Manufacturer": "Iseki",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Original price was $18,000 in 1999",
+          "__seccion_4__": "The Massey Ferguson 1235 is similar to the Iseki model TF330."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1235 Engine",
+          "__seccion_2__": "Iseki 1.5L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1235 Transmission",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1235 Power",
+          "Engine (gross)": "32 hp 23.9 kW",
+          "Engine (net)": "30 hp 22.4 kW",
+          "PTO (claimed)": "25.5 hp 19.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "power assist",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Two-post foldable ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 1235 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "6 gal 22.7 L",
+          "Hydraulic system": "3.2 gal 12.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "3.2 gal 12.1 L",
+          "Pump flow": "6.0 gpm 22.7 lpm",
+          "Total flow": "8.5 gpm 32.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at ends)": "1984 lbs 899 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540",
+          "Engine RPM": "2000@2482",
+          "Mid PTO": "live",
+          "Mid PTO Type": "2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "64.4 inches 163 cm",
+          "Weight": "2500 lbs 1134 kg",
+          "Front tire": "6.00-14",
+          "Rear tire": "12.4-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1235 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "72\" mid-mount mower deck",
+          "__seccion_4__": "snowblower",
+          "__seccion_5__": "blade",
+          "__seccion_6__": "front-end loader",
+          "__seccion_7__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF Loaders for Compact & Agricultural Tractors published in 2003, by Massey Ferguson",
+          "__seccion_3__": "MF 1200 Series published in 1997, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 15, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1997 - 2002",
+          "__seccion_2__": "1200 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1235 Tires",
+          "Ag front": "6.00-14",
+          "Ag rear": "12.4-16"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "64.4 inches 163 cm",
+          "Length": "116.5 inches 295 cm",
+          "Width": "55.6 inches (min) 141 cm",
+          "Height (ROPS)": "79.1 inches 200 cm",
+          "&nbsp": "62.6 inches (folded) 159 cm",
+          "Weight": "2500 lbs 1134 kg",
+          "Ground clearance": "12 inches 30 cm",
+          "Front tread": "37.8 inches 96 cm",
+          "Rear tread": "43.1 inches 109 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 15, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1997 - 2002",
+          "__seccion_2__": "1200 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iseki E3CD",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "91.4 ci 1.5 L",
+          "Power (net)": "30 hp 22.4 kW",
+          "Power (gross)": "32 hp 23.9 kW",
+          "Fuel system": "indirect injection",
+          "Air cleaner": "dry",
+          "Pre-heating": "glow plugs",
+          "Compression": "21.8:1",
+          "Rated RPM": "2500",
+          "Torque": "71.6 lb-ft 97.1 Nm",
+          "Torque RPM": "1800",
+          "Starter volts": "12",
+          "Coolant capacity": "7.5 qts 7.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 15, 2020"
+        }
+      ]
+    }
+  }
+}

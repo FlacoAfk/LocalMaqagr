@@ -1,0 +1,249 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/2/3/5238-john-deere-9530.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/2/3/5238-john-deere-9530-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/2/3/5238-john-deere-9530-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/2/3/5238-john-deere-9530-engine.html",
+    "source_id": 5238,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:45:05.581Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5238/5238-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 5238,
+  "name": "John Deere 9530",
+  "brand": "John Deere",
+  "model": "9530",
+  "years": {
+    "desde": 2007,
+    "hasta": 2011
+  },
+  "model_year": 2007,
+  "engine_power_hp": 475,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 390.59,
+  "weight_kg": 17122,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 224.7,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 93.9,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5238/5238-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td5238.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "9030 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA"
+        },
+        {
+          "9530": "wheeled",
+          "__seccion_1__": "Variants",
+          "9530T": "crawler"
+        },
+        {
+          "__seccion_1__": "John Deere 9530 Engine",
+          "__seccion_2__": "John Deere 13.5L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 9530 Transmission",
+          "__seccion_2__": "18-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 9530 Power",
+          "Engine": "475 hp 354.2 kW",
+          "Drawbar (tested)": "390.59 hp 291.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "hydraulic differential lock standard",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet discs brakes",
+          "Trailer brakes": "hydraulic optional",
+          "__seccion_4__": "CommandView Cab standard with air-conditioning. Optional automatic climate control and leather trim."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 9530 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "350 gal 1324.8 L",
+          "Hydraulic system": "27 gal 102.2 L",
+          "&nbsp": "31 gal (high-flow and 3-point) 117.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed-center pressure and flow compensating",
+          "Capacity": "27 gal 102.2 L",
+          "&nbsp": "78 gpm (High-Flow) 295.2 lpm",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "4 to 6",
+          "SCV flow": "30 gpm 113.6 lpm",
+          "Total flow": "48 gpm 181.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "4N/3",
+          "&nbsp": "4N/4",
+          "Rear lift (at 24\"/610mm)": "15,300 lbs 6940 kg",
+          "Drawbar": "Catergory 5 standard with secondary chain support."
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "37747 to 39845 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "9530 Serial Numbers",
+          "Location:": "Rear-left of tractor hinge frame on early models. Right side of tractor frame, ahead of front axle, on late models."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "200",
+          "Batteries": "2",
+          "Battery CCA": "950",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "New 9030 Series Tractors published in 2007, by John Deere",
+          "__seccion_3__": "9230, 9330, 9430, 9530 and 9630 Tractors (OMAR283034) published in 2009",
+          "__seccion_4__": "9230, 9330, 9430, 9530 and 9630 Tractors (OMRE325893) published in 2011"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2021",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "9030 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 9530 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Length": "270 inches 685 cm",
+          "&nbsp": "285 inches (with 3-point) 723 cm",
+          "Width": "118.6 inches 301 cm",
+          "Shipping weight": "37747 lbs 17122 kg",
+          "Operating weight": "39845 lbs * Weight with 480/80R46 triples. 18073 kg",
+          "Hinge pin Ground clearance": "20.5 inches 52 cm",
+          "Clearance (rear axle)": "30.8 inches 78 cm",
+          "Rear axle": "4.724 by 120 inches 119 by 3048 mm"
+        },
+        {
+          "__seccion_1__": "John Deere 9530 Height",
+          "Hood": "107 inches 271 cm",
+          "Cab": "142 inches 360 cm",
+          "Exhaust": "156 inches 396 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "9030 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1924",
+          "__seccion_2__": "Diesel 18-speed 4WD October 29 - November 13, 2008 Link: OCED Tractor Test 1924 file",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "390.59 hp 291.3 kW",
+          "Fuel use": "24.8 gal/hour 93.9 l/hour",
+          "__seccion_4__": "Gear 7 used for power test.",
+          "Max pull": "50,519 lbs 22915 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "9030 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "826.7 ci 13.5 L",
+          "Bore/Stroke": "5.197x6.496 inches 132 x 165 mm",
+          "Emissions": "Tier III",
+          "Power": "475 hp 354.2 kW",
+          "Air cleaner": "aspirator and dual paper elemnts",
+          "Compression": "16.0:1",
+          "Rated RPM": "2100",
+          "Starter volts": "12",
+          "Coolant capacity": "70 qts 66.2 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "63.4 qts 60.0 L"
+        },
+        {
+          "__seccion_1__": "John Deere 9530 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2021"
+        }
+      ]
+    }
+  }
+}

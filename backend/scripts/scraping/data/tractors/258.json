@@ -1,0 +1,314 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/5/258-ford-2610.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/5/258-ford-2610-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/2/5/258-ford-2610-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/5/258-ford-2610-engine.html",
+    "source_id": 258,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:10:23.484Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/258/258-photo-001-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 105 KB"
+  },
+  "tractor_data_id": 258,
+  "name": "Ford 2610",
+  "brand": "Ford",
+  "model": "2610",
+  "years": {
+    "desde": 1982,
+    "hasta": 1983
+  },
+  "model_year": 1982,
+  "engine_power_hp": 42.5,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 36,
+  "pto_tested_hp": 36.69,
+  "drawbar_tested_hp": 30.47,
+  "weight_kg": 1576,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 19.8,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 12.4-28",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1247,
+  "tire_front": {
+    "original": "5.50-16",
+    "radial": false,
+    "width_mm": 140,
+    "rim_in": 16,
+    "diameter_mm_est": 644,
+    "tipo": "Diagonal",
+    "texto": "5.50-16"
+  },
+  "fuel_consumption_lph": 11.4,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/258/258-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/258/258-photo-001-ext045.jpg",
+  "image_url": "/uploads/tractors/td258.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1982 - 1983",
+          "__seccion_2__": "10 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Original price was $13,500 in 1983"
+        },
+        {
+          "__seccion_1__": "Ford 2610 Engines",
+          "__seccion_2__": "Ford 2.9L 3-cyl diesel",
+          "__seccion_3__": "Ford 2.6L 3-cyl gasoline",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 2610 Transmissions",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "8-speed synchromesh",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 2610 Power",
+          "Engine (gross)": "42.5 hp 31.7 kW",
+          "Engine": "40.5 hp 30.2 kW",
+          "Drawbar (claimed)": "30 hp 22.4 kW",
+          "Diesel PTO (claimed)": "36 hp 26.8 kW",
+          "Gas PTO (claimed)": "34 hp 25.4 kW",
+          "Drawbar (tested)": "30.47 hp 22.7 kW",
+          "PTO (tested)": "36.69 hp 27.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "power assist",
+          "__seccion_3__": "Drum brakes",
+          "__seccion_4__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 2610 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "13 gal 49.2 L",
+          "Rear axle": "24.6 qts 23.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "live",
+          "Pressure": "2500 psi 172.4 bar",
+          "Pump flow": "8.5 gpm 32.2 lpm",
+          "Steering flow": "3.6 gpm 13.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at 24\"/610mm)": "1,975 lbs 895 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "75.8 inches 192 cm",
+          "Weight": "3475 lbs 1576 kg",
+          "Front tire": "5.50-16",
+          "Rear tire": "12.4-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 2610 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1982": "C682000",
+          "1983": "C694500",
+          "__seccion_1__": "2610 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "32",
+          "Battery volts": "12",
+          "Diesel Battery AH": "128",
+          "Gas Battery AH": "77"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Farm Loaders published in 1982, by Ford",
+          "__seccion_3__": "34-52 hp Tractors published in 1982, by Ford",
+          "__seccion_4__": "If you're looking for tractor quality, look to Ford published in 1982",
+          "__seccion_5__": "Salesman's Reference published in 1981, by Ford",
+          "__seccion_6__": "10 Series Tractors Repair Manual (SE 3870) published in 1989"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 29, 2024",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1982 - 1983",
+          "__seccion_2__": "10 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Ford 2610 Tires",
+          "Ag front": "6.00-16",
+          "Ag rear": "14.9-24",
+          "&nbsp": "13.6-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "75.8 inches 192 cm",
+          "Length": "126.5 inches 321 cm",
+          "Width": "63.4 inches 161 cm",
+          "Height (hood)": "52.5 inches 133 cm",
+          "Shipping weight": "3475 lbs 1576 kg",
+          "Ballasted weight": "6000 lbs 2721 kg",
+          "Ground clearance": "12.6 inches 32 cm",
+          "Front tread": "52 to 80 inches 132 to 203 cm",
+          "Rear tread": "52 to 76 inches 132 to 193 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 29, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1982 - 1983",
+          "__seccion_2__": "10 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 1207: gasoline 8-speed 2WD",
+          "__seccion_3__": "NTTL 1421: diesel 8-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1207"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1207",
+          "__seccion_2__": "Gasoline 8-speed 2WD March 25 - April 23, 1976 Link: Nebraska Tractor Test 1207 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "34.18 hp 25.5 kW",
+          "Fuel use": "3.0 gal/hour 11.4 l/hour",
+          "Power at rated PTO speed": "32.07 hp 23.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "28.76 hp 21.4 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "4,455 lbs 2020 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1421"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1421",
+          "__seccion_2__": "Diesel 8-speed 2WD March 17 - April 15, 1982 Link: Nebraska Tractor Test 1421 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "36.69 hp 27.4 kW",
+          "Fuel use": "2.3 gal/hour 8.7 l/hour",
+          "Power at rated PTO speed": "35.14 hp 26.2 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "30.47 hp 22.7 kW",
+          "__seccion_5__": "Gear 5 used for power test.",
+          "Max pull": "4,473 lbs 2028 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 29, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1982 - 1983",
+          "__seccion_2__": "10 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Ford 2.9L 3-cyl diesel",
+          "__seccion_3__": "Ford 2.6L 3-cyl gasoline"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "175 ci 2.9 L",
+          "Bore/Stroke": "4.20x4.20 inches 107 x 107 mm",
+          "Power": "40.5 hp 30.2 kW",
+          "Power (gross)": "42.5 hp 31.7 kW",
+          "Air cleaner": "dry",
+          "Compression": "17.3:1",
+          "Rated RPM": "2000",
+          "Torque": "111.6 lb-ft 151.3 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12",
+          "Oil capacity": "7 qts 6.6 L",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "__seccion_6__": "The gasoline engine was offered only in 1982, after that time only the diesel was available.",
+          "Displacement": "158 ci 2.6 L",
+          "Bore/Stroke": "4.20x3.80 inches 107 x 97 mm",
+          "Power": "33 hp 24.6 kW",
+          "Power (gross)": "35.5 hp 26.5 kW",
+          "Air cleaner": "dry",
+          "Compression": "7.75:1",
+          "Rated RPM": "2000",
+          "Torque": "100.5 lb-ft 136.3 Nm",
+          "Torque RPM": "1350",
+          "Firing order": "1-2-3",
+          "Starter volts": "12",
+          "Oil capacity": "7 qts 6.6 L",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 29, 2024"
+        }
+      ]
+    }
+  }
+}

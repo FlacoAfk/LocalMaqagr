@@ -1,0 +1,179 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/9/7/1970-fiat-615.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/9/7/1970-fiat-615-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/9/7/1970-fiat-615-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1970,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:12:47.064Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1970/1970-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 104 KB"
+  },
+  "tractor_data_id": 1970,
+  "name": "Fiat 615",
+  "brand": "Fiat",
+  "model": "615",
+  "years": {
+    "desde": 1965,
+    "hasta": 1968
+  },
+  "model_year": 1965,
+  "engine_power_hp": 66,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 54,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3160,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 19.8,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 13.6-36",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1502,
+  "tire_front": {
+    "original": "9.5-24",
+    "radial": false,
+    "width_mm": 241,
+    "rim_in": 24,
+    "diameter_mm_est": 1020,
+    "tipo": "Diagonal",
+    "texto": "9.5-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1970/1970-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1970/1970-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1970.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1965 - 1968"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Fiat"
+        },
+        {
+          "__seccion_1__": "Fiat 615 Engine",
+          "__seccion_2__": "Fiat 4.4L 4-cyl diesel",
+          "Fuel tank": "21.1 gal 79.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 615 Transmission",
+          "__seccion_2__": "7-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 615 Power",
+          "Engine": "66 hp 49.2 kW",
+          "PTO (claimed)": "54 hp 40.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Disc brakes",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Fiat 615 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Pump flow": "7.0 gpm 26.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "4410 lbs 2000 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1520"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "85.4 inches 216 cm",
+          "Weight": "5997 to 6967 pounds",
+          "Front tire": "6.50-20",
+          "Rear tire": "13.6-36",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 10, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1965 - 1968"
+        },
+        {
+          "__seccion_1__": "Fiat 615 Tires",
+          "Ag front": "6.50-20",
+          "&nbsp": "9.5-24 (4WD)",
+          "Ag rear": "13.6-36"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "85.4 inches 216 cm",
+          "Length": "137.8 inches 350 cm",
+          "Width": "77 inches 195 cm",
+          "Height": "58.3 inches 148 cm",
+          "2WD Weight": "5997 lbs 2720 kg",
+          "4WD Weight": "6967 lbs 3160 kg",
+          "Ground clearance": "18.25 inches 46 cm",
+          "Front tread": "56.5 to 82.875 inches 143 to 210 cm",
+          "Rear tread": "58.25 to 77.125 inches 147 to 195 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 10, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1965 - 1968"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Fiat CO2D",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "268.3 ci 4.4 L",
+          "Bore/Stroke": "4.25x4.72 inches 108 x 120 mm",
+          "Power": "66 hp 49.2 kW",
+          "Fuel system": "direct injection",
+          "Rated RPM": "1900",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 10, 2022"
+        }
+      ]
+    }
+  }
+}

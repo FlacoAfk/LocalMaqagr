@@ -1,0 +1,254 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/7/7/777-massey-ferguson-294.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/7/7/777-massey-ferguson-294-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/7/7/777-massey-ferguson-294-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/7/7/777-massey-ferguson-294-engine.html",
+    "source_id": 777,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:24:38.201Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/777/777-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 72 KB"
+  },
+  "tractor_data_id": 777,
+  "name": "Massey Ferguson 294",
+  "brand": "Landini",
+  "model": "ferguson 294",
+  "years": {
+    "desde": 1982,
+    "hasta": 1987
+  },
+  "model_year": 1982,
+  "engine_power_hp": 67,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 67,
+  "pto_tested_hp": 67.39,
+  "drawbar_tested_hp": 55.23,
+  "weight_kg": 3048,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 25.2,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4x30",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1557,
+  "tire_front": {
+    "original": "12.4x24",
+    "radial": false,
+    "width_mm": 315,
+    "rim_in": 24,
+    "diameter_mm_est": 1145,
+    "tipo": "Diagonal",
+    "texto": "12.4x24"
+  },
+  "fuel_consumption_lph": 14.8,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/777/777-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/777/777-photo-001.jpg",
+  "image_url": "/uploads/tractors/td777.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1982 - 1987",
+          "__seccion_2__": "204 Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Landini built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Massey Ferguson",
+          "Manufacturer": "Landini",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Italy",
+          "__seccion_4__": "Original price was $27,000 in 1987"
+        },
+        {
+          "293": "similar Massey Ferguson model",
+          "8830": "similar Landini model",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 294 Engine",
+          "__seccion_2__": "Perkins 4.1L 4-cyl diesel",
+          "Fuel tank": "16 gal 60.6 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 294 Transmission",
+          "__seccion_2__": "12-speed synchromesh",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 294 Power",
+          "PTO (claimed)": "67 hp 50.0 kW",
+          "Drawbar (tested)": "55.23 hp 41.2 kW",
+          "PTO (tested)": "67.39 hp 50.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential mechanical dry disc brakes",
+          "__seccion_5__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 294 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "2",
+          "Pump flow": "9.4 gpm 35.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "draft and position control",
+          "Rear lift (at 24\"/610mm)": "3,670 lbs 1664 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1944",
+          "Front PTO": "direct-drive",
+          "Front PTO Type": "2250"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "87.2 inches 221 cm",
+          "Weight": "6,720 lbs 3048 kg",
+          "Front tire": "12.4x24",
+          "Rear tire": "18.4x30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1982": "2235938",
+          "1983": "2236290",
+          "1984": "2236511",
+          "1985": "22300915",
+          "1986": "22301652",
+          "1987": "22302505",
+          "1988": "22303121",
+          "__seccion_1__": "294 Serial Numbers",
+          "Location:": "Plate on the bottom-left side of the tractor's instrument panel.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "294,274,254 published in 1984, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on April 22, 2026"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1982 - 1987",
+          "__seccion_2__": "204 Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Landini built"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 294 Tires",
+          "Standard tires (ag)": "Front: 12.4x24. Rear: 18.4x30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "87.2 inches 221 cm",
+          "Operating weight": "6,720 lbs 3048 kg",
+          "Ballasted weight": "8,645 lbs 3921 kg",
+          "Clearance (front axle)": "16.5 inches 41 cm",
+          "Front tread": "61.5 inches 156 cm",
+          "Rear tread": "61 to 81 inches 154 to 205 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 22, 2026"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1982 - 1987",
+          "__seccion_2__": "204 Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Landini built"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1480"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1480",
+          "__seccion_2__": "Diesel 12-speed 4WD May 9 - 20, 1983 Link: Nebraska Tractor Test 1480 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "67.39 hp 50.3 kW",
+          "Fuel use": "3.8 gal/hour 14.4 l/hour",
+          "Power at rated PTO speed": "64.94 hp 48.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "55.23 hp 41.2 kW",
+          "__seccion_5__": "Gear 8 used for power test.",
+          "Max pull": "5,665 lbs 2569 kg",
+          "__seccion_6__": "Gear 6 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 22, 2026"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1982 - 1987",
+          "__seccion_2__": "204 Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Landini built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A4.248",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "248 ci 4.1 L",
+          "Bore/Stroke": "3.975x5.00 inches 101 x 127 mm",
+          "Fuel system": "direct injection",
+          "Air cleaner": "oil bath",
+          "Compression": "16:1",
+          "Rated RPM": "2100",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 22, 2026"
+        }
+      ]
+    }
+  }
+}

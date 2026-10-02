@@ -1,0 +1,252 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/5/9/7592-caseih-magnum-240.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/5/9/7592-caseih-magnum-240-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/007/5/9/7592-caseih-magnum-240-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/5/9/7592-caseih-magnum-240-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 7592,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:50:02.427Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7592/7592-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 43 KB"
+  },
+  "tractor_data_id": 7592,
+  "name": "CaseIH Magnum 240",
+  "brand": "CaseIH (a part of CNH)",
+  "model": "magnum 240",
+  "years": {
+    "desde": 2014,
+    "hasta": 2027
+  },
+  "model_year": 2014,
+  "engine_power_hp": 240,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 205,
+  "pto_tested_hp": 224.92,
+  "drawbar_tested_hp": 186.7,
+  "weight_kg": 10117,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 99.1,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 480/80R46",
+  "tire_width_mm": 480,
+  "tire_diameter_mm": 1936,
+  "tire_front": {
+    "original": "380/85R34",
+    "radial": true,
+    "width_mm": 380,
+    "rim_in": 34,
+    "diameter_mm_est": 1510,
+    "tipo": "Radial",
+    "texto": "380/85R34"
+  },
+  "fuel_consumption_lph": 45.8,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7592/7592-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7592/7592-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td7592.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2014 - 2027",
+          "__seccion_2__": "Model year 2014-2019 2019-2027",
+          "__seccion_3__": "Magnum Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH (a part of CNH)",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA",
+          "Original price": "$225,400 (2014 CVT )",
+          "__seccion_4__": "$240,377 (2017 CVT )"
+        },
+        {
+          "__seccion_1__": "CaseIH Magnum 240 Engine",
+          "__seccion_2__": "FPT 6.7L 6-cyl diesel",
+          "Fuel tank": "160 gal 605.6 L",
+          "Exhaust fluid (DEF)": "17.5 gal 66.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Magnum 240 Transmission",
+          "__seccion_2__": "continuously variable transmission (CVT)",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Magnum 240 Power",
+          "Engine (gross)": "240 hp 179.0 kW",
+          "Engine (max)": "270 hp 201.3 kW",
+          "PTO (claimed)": "205 hp 152.9 kW",
+          "Drawbar (tested)": "186.70 hp 139.2 kW",
+          "PTO (tested)": "224.92 hp 167.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Magnum cab standard with air-conditioning. Optional cab suspension."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH Magnum 240 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "pressure flow compensating",
+          "Rear valves": "3 to 5",
+          "Pump flow": "43 gpm 162.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/IIIN",
+          "Control": "electronic lower link draft sensing",
+          "Rear lift (at 24\"/610mm)": "14100 lbs 6395 kg",
+          "Drawbar": "Cat. 3"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "118 inches 299 cm",
+          "Weight": "22305 lbs 10117 kg",
+          "Front tire": "380/85R34",
+          "Rear tire": "480/80R46",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Magnum 240 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the front right of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Magnum 180-380 Tractors published in 2014, by CaseIH",
+          "__seccion_3__": "Magnum Series Tractors published in 2019, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on February 22, 2026"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2014 - 2027",
+          "__seccion_2__": "Model year 2014-2019 2019-2027",
+          "__seccion_3__": "Magnum Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH Magnum 240 Tires",
+          "Ag front": "380/85R34",
+          "Ag rear": "480/80R46"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "118 inches 299 cm",
+          "Length": "234 inches 594 cm",
+          "Height (cab)": "128.5 inches 326 cm",
+          "Operating weight": "22305 lbs 10117 kg",
+          "Front axle": "Suspended 4WD"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 22, 2026"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2014 - 2027",
+          "__seccion_2__": "Model year 2014-2019 2019-2027",
+          "__seccion_3__": "Magnum Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2121"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2121",
+          "__seccion_2__": "Diesel CVT 4WD May 14 - June 8, 2015 Link: OCED Tractor Test 2121 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "186.70 hp 139.2 kW",
+          "Fuel use": "11.8 gal/hour 44.7 l/hour",
+          "Power at rated engine speed": "207.13 hp 154.5 kW",
+          "Power at rated PTO speed": "223.10 hp 166.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Pull at 9 KPH",
+          "Max pull": "22274 lbs 10103 kg",
+          "__seccion_6__": "Pull at 5 KPH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 22, 2026"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2014 - 2027",
+          "__seccion_2__": "Model year 2014-2019 2019-2027",
+          "__seccion_3__": "Magnum Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT",
+          "__seccion_3__": "wastegate turbocharged air-to-air intercooled diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "410.6 ci 6.7 L",
+          "Bore/Stroke": "4.095x5.20 inches 104 x 132 mm",
+          "Emissions": "Tier 4",
+          "Emission control": "selective catalytic reduction (SCR)",
+          "Rated Power (gross)": "240 hp 179.0 kW",
+          "Maximum Power (gross)": "270 hp 201.3 kW",
+          "Fuel system": "electronic high pressure common rail direct injection",
+          "Cooling system": "viscous fan",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "CaseIH Magnum 240 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 22, 2026"
+        }
+      ]
+    }
+  }
+}

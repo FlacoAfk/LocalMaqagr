@@ -1,0 +1,267 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/3/1/1319-kubota-m5950.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/3/1/1319-kubota-m5950-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/3/1/1319-kubota-m5950-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/3/1/1319-kubota-m5950-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1319,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:53:05.003Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1319/1319-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 93 KB"
+  },
+  "tractor_data_id": 1319,
+  "name": "Kubota M5950",
+  "brand": "Kubota",
+  "model": "M5950",
+  "years": {
+    "desde": 1983,
+    "hasta": 1993
+  },
+  "model_year": 1983,
+  "engine_power_hp": 61,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": 57,
+  "pto_tested_hp": 58,
+  "drawbar_tested_hp": 47.51,
+  "weight_kg": 2573,
+  "weight_basis": "4WD Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 37.1,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 16.9-28",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1441,
+  "tire_front": {
+    "original": "9.5-24",
+    "radial": false,
+    "width_mm": 241,
+    "rim_in": 24,
+    "diameter_mm_est": 1020,
+    "tipo": "Diagonal",
+    "texto": "9.5-24"
+  },
+  "fuel_consumption_lph": 13.6,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1319/1319-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1319/1319-photo-001.jpg",
+  "image_url": "/uploads/tractors/td1319.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1983 - 1993",
+          "__seccion_2__": "M50 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Japan"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "M5950F": "2WD",
+          "M5950DT": "4WD"
+        },
+        {
+          "__seccion_1__": "Kubota M5950 Engine",
+          "__seccion_2__": "Kubota 3.2L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M5950 Transmission",
+          "__seccion_2__": "12-speed synchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M5950 Power",
+          "Engine (net)": "61 hp 45.5 kW",
+          "PTO (claimed)": "57 hp 42.5 kW",
+          "Drawbar (tested)": "47.51 hp 35.4 kW",
+          "PTO (tested)": "58.00 hp 43.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential mechanical wet disc brakes",
+          "__seccion_5__": "Four-post ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota M5950 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "18.5 gal 70.0 L",
+          "Hydraulic system": "12.7 gal 48.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "12.7 gal 48.1 L",
+          "Pressure": "2630 psi 181.3 bar",
+          "Valves": "1 or 2",
+          "Total flow": "9.3 gpm 35.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift (at ends)": "3968 lbs 1799 kg",
+          "Rear lift (at 24\"/610mm)": "3307 lbs 1500 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "Engine RPM": "540@2016"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "82.7 inches 210 cm",
+          "4WD Wheelbase": "83.3 inches 211 cm",
+          "Weight": "4989 to 5673 pounds",
+          "Front tire": "6.50-16",
+          "2WD Rear tire": "16.9-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota M5950 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "65 (with cab)",
+          "Battery volts": "12",
+          "Battery AH": "300"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Front Loaders published in 1988, by Kubota",
+          "__seccion_3__": "Front Loaders B, L and M-Series published in 1994, by Kubota *",
+          "__seccion_4__": "Product Catalog published in 1990, by Kubota",
+          "__seccion_5__": "M-Series published in 1985, by Kubota",
+          "__seccion_6__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 24, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1983 - 1993",
+          "__seccion_2__": "M50 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M5950 Tires",
+          "2WD Standard tires (ag)": "Front: 6.50-16. Rear: 16.9-28",
+          "4WD Standard tires (ag)": "Front: 9.5-24. Rear: 16.9-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "82.7 inches 210 cm",
+          "4WD Wheelbase": "83.3 inches 211 cm",
+          "Length": "144.3 inches 366 cm",
+          "Width": "72.9 inches 185 cm",
+          "2WD Shipping weight": "4989 lbs 2263 kg",
+          "4WD Shipping weight": "5673 lbs 2573 kg",
+          "2WD Clearance (front axle)": "18.3 inches 46 cm",
+          "4WD Clearance (front axle)": "14.6 inches 37 cm",
+          "2WD Front tread": "55.9 to 79.5 inches 141 to 201 cm",
+          "4WD Front tread": "55.9 to 63.8 inches 141 to 162 cm",
+          "Rear tread": "55.9 to 79.5 inches 141 to 201 cm"
+        },
+        {
+          "__seccion_1__": "Kubota M5950 Height",
+          "2WD Steering wheel": "65.3 inches 165 cm",
+          "4WD Steering wheel": "65.9 inches 167 cm",
+          "2WD Exhaust": "89.8 inches 228 cm",
+          "4WD Exhaust": "90.4 inches 229 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 24, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1983 - 1993",
+          "__seccion_2__": "M50 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1497"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1497",
+          "__seccion_2__": "Diesel 12-speed 4WD September 26 - October 11, 1983 Link: Nebraska Tractor Test 1497 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "58.00 hp 43.3 kW",
+          "Fuel use": "3.5 gal/hour 13.2 l/hour",
+          "Power at rated PTO speed": "52.81 hp 39.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "47.51 hp 35.4 kW",
+          "Max pull": "8,350 lbs 3787 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 24, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1983 - 1993",
+          "__seccion_2__": "M50 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota D3200-A",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "196.4 ci 3.2 L",
+          "Bore/Stroke": "4.29x4.53 inches 109 x 115 mm",
+          "Power (net)": "61 hp 45.5 kW",
+          "Air cleaner": "dry dual stage",
+          "Compression": "17:1",
+          "Rated RPM": "2400",
+          "Starter volts": "12",
+          "Oil capacity": "10.4 qts 9.8 L",
+          "Coolant capacity": "12.3 qts 11.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 24, 2023"
+        }
+      ]
+    }
+  }
+}

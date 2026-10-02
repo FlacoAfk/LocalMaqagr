@@ -1,0 +1,161 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/4/7/5479-new-holland-t7550.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/4/7/5479-new-holland-t7550-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/4/7/5479-new-holland-t7550-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 5479,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:27:04.316Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5479/5479-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 5479,
+  "name": "New Holland T7550",
+  "brand": "New Holland",
+  "model": "T7550",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 194,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 6772,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 71.2,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5479/5479-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td5479.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2007 - ????",
+          "__seccion_2__": "T7500 Series"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland"
+        },
+        {
+          "__seccion_1__": "New Holland T7550 Engine",
+          "__seccion_2__": "6.6L 6-cyl",
+          "Fuel tank": "81.9 gal 310.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland T7550 Power",
+          "Engine": "194 hp 144.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "cab with A/C"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the New Holland T7550 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing",
+          "Pressure": "2973 psi 205.0 bar",
+          "Valves": "0 to 5",
+          "Pump flow": "34.3 gpm 129.8 lpm"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540/540E/1000/1000E",
+          "Front PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "111.5 inches 283 cm",
+          "Weight": "14,930 lbs 6772 kg",
+          "Front tire": "540/65",
+          "Rear tire": "650/65",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 6, 2010",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2007 - ????",
+          "__seccion_2__": "T7500 Series"
+        },
+        {
+          "__seccion_1__": "New Holland T7550 Tires",
+          "Ag front": "540/65 R28",
+          "Ag rear": "650/65 R38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "111.5 inches 283 cm",
+          "Length": "187.6 inches 476 cm",
+          "Width": "98 inches 248 cm",
+          "Height": "118.1 inches 299 cm",
+          "Shipping weight": "14,930 lbs 6772 kg",
+          "Ground clearance": "19.7 inches 50 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 6, 2010"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2007 - ????",
+          "__seccion_2__": "T7500 Series"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "intercooled turbocharged",
+          "__seccion_3__": "6-cylinder",
+          "__seccion_4__": "liquid-cooled",
+          "Displacement": "402.8 ci 6.6 L",
+          "Bore/Stroke": "4.252x4.724 inches 108 x 120 mm",
+          "Power": "194 hp 144.7 kW",
+          "Rated RPM": "2100",
+          "Torque": "584.1 lb-ft 792.0 Nm",
+          "Torque RPM": "1500"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 6, 2010"
+        }
+      ]
+    }
+  }
+}

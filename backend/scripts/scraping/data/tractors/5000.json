@@ -1,0 +1,216 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/0/0/5000-john-deere-3650.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/0/0/5000-john-deere-3650-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/0/0/5000-john-deere-3650-engine.html",
+    "source_id": 5000,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:44:01.200Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5000/5000-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 87 KB"
+  },
+  "tractor_data_id": 5000,
+  "name": "John Deere 3650",
+  "brand": "John Deere",
+  "model": "3650",
+  "years": {
+    "desde": 1986,
+    "hasta": 1993
+  },
+  "model_year": 1986,
+  "engine_power_hp": 114.4,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 104.72,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 6128,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 38.4,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "16.9x24",
+    "radial": false,
+    "width_mm": 429,
+    "rim_in": 24,
+    "diameter_mm_est": 1339,
+    "tipo": "Diagonal",
+    "texto": "16.9x24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5000/5000-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5000/5000-photo-001.jpg",
+  "image_url": "/uploads/tractors/td5000.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1986 - 1993",
+          "__seccion_2__": "3050 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany"
+        },
+        {
+          "__seccion_1__": "John Deere 3650 Engine",
+          "__seccion_2__": "John Deere 5.9L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3650 Transmission",
+          "__seccion_2__": "16-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3650 Power",
+          "Engine": "114.4 hp 85.3 kW",
+          "PTO (claimed)": "104.72 hp 78.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Cab standard with optional air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 3650 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "45 gal 170.3 L",
+          "Hydraulic system": "14.53 gal 55.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center constant pressure",
+          "Capacity": "14.53 gal 55.0 L",
+          "Pressure": "2698 psi 186.0 bar",
+          "Total flow": "11.62 gpm 44.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/II",
+          "Rear lift (at ends)": "11620 lbs 5270 kg",
+          "Front Hitch": "II",
+          "Front lift (at ends)": "3594 lbs 1630 kg",
+          "&nbsp": "6526 lbs Opt Optional 2960 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "540/1000",
+          "Engine RPM": "1000@2172",
+          "&nbsp": "1000@2172",
+          "Front PTO": "independent",
+          "Front PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "101.8 inches 258 cm",
+          "Weight": "13,510 lbs 6128 kg",
+          "Front tire": "16.9x24",
+          "Rear tire": "520/70x38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "3650 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the left side of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging amps": "55",
+          "Batteries": "2",
+          "Battery volts": "12",
+          "Battery AH": "88"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "3650 Traktor published in 1986, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 12, 2024",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1986 - 1993",
+          "__seccion_2__": "3050 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 3650 Tires",
+          "Ag front": "16.9x24",
+          "Ag rear": "520/70x38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "101.8 inches 258 cm",
+          "Length": "192.9 inches 489 cm",
+          "Width": "89.37 inches 226 cm",
+          "Height": "113.4 inches 288 cm",
+          "Weight": "13,510 lbs 6128 kg",
+          "Ground clearance": "13.4 inches 34 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 12, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1986 - 1993",
+          "__seccion_2__": "3050 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 6359TL007",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "359 ci 5.9 L",
+          "Bore/Stroke": "4.193x4.331 inches 107 x 110 mm",
+          "Power": "114.4 hp 85.3 kW",
+          "Rated RPM": "2400",
+          "Starter volts": "12",
+          "Oil capacity": "13.21 qts 12.5 L",
+          "Coolant capacity": "20.1 qts 19.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 12, 2024"
+        }
+      ]
+    }
+  }
+}

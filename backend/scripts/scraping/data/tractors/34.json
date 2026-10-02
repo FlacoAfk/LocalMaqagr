@@ -1,0 +1,248 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/3/34-john-deere-r.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/3/34-john-deere-r-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/3/34-john-deere-r-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/3/34-john-deere-r-engine.html",
+    "source_id": 34,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:34:50.030Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/34/34-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 80 KB",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1093/",
+    "nebraska_test": 406
+  },
+  "tractor_data_id": 34,
+  "name": "John Deere R",
+  "brand": "John Deere",
+  "model": "R",
+  "years": {
+    "desde": 1949,
+    "hasta": 1954
+  },
+  "model_year": 1949,
+  "engine_power_hp": 43,
+  "engine_power_source": "belt_claimed (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 43.15,
+  "weight_kg": 3356,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 29.5,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 14-34",
+  "tire_width_mm": 356,
+  "tire_diameter_mm": 1468,
+  "tire_front": {
+    "original": "7.50-18",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 18,
+    "diameter_mm_est": 781,
+    "tipo": "Diagonal",
+    "texto": "7.50-18"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/34/34-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/34/34-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td34.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1949 - 1954",
+          "__seccion_2__": "Two-Cylinder Letter Series",
+          "__seccion_3__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Standard-tread tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "Total built": "21,293",
+          "__seccion_4__": "Original price was $3,650 in 1954",
+          "__seccion_5__": "The model R was John Deere's first diesel tractor. The R was the first John Deere tractor with a live PTO, which used a separate clutch."
+        },
+        {
+          "__seccion_1__": "John Deere R Engine",
+          "__seccion_2__": "John Deere 6.8L 2-cyl diesel",
+          "Fuel tank": "22 gal 83.3 L",
+          "Aux. fuel": "1 gal 3.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere R Transmission",
+          "__seccion_2__": "5-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere R Power",
+          "Drawbar (claimed)": "35 hp 26.1 kW",
+          "Belt (claimed)": "43 hp 32.1 kW",
+          "Plows": "4 (14-inch)",
+          "Drawbar (tested)": "43.15 hp 32.2 kW",
+          "Belt (tested)": "48.58 hp 36.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Mechanical drum brakes",
+          "__seccion_5__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere R photos..."
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "85.5 inches 217 cm",
+          "Weight": "7400 to 7603 pounds",
+          "Front tire": "7.50-18",
+          "Rear tire": "14-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "R Serial Number Location",
+          "__seccion_2__": "Right side of tractor above belt pulley."
+        },
+        {
+          "1949": "1000",
+          "1950": "3541",
+          "1951": "6505",
+          "1952": "10745",
+          "1953": "15720",
+          "1954": "19485",
+          "__seccion_1__": "R Serial Numbers",
+          "Final": "22293",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere Styled \"Letter\" Series by J.R. Hobbs",
+          "__seccion_3__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_4__": "The New Model R Diesel published in 1949, by John Deere",
+          "__seccion_5__": "Operator's Manual Model R Diesel Tractor (OM-R2012)",
+          "__seccion_6__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 8, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1949 - 1954",
+          "__seccion_2__": "Two-Cylinder Letter Series",
+          "__seccion_3__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "John Deere R Tires",
+          "Ag front": "30x6 steel",
+          "Ag rear": "54x12 steel",
+          "&nbsp": "15-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "85.5 inches 217 cm",
+          "Length": "147 inches 373 cm",
+          "Width": "79.5 inches 201 cm",
+          "Height": "78.125 inches 198 cm",
+          "Shipping weight": "7400 lbs 3356 kg",
+          "Operating weight": "7603 lbs 3448 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 8, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1949 - 1954",
+          "__seccion_2__": "Two-Cylinder Letter Series",
+          "__seccion_3__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 406"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 406",
+          "__seccion_2__": "Diesel 5-speed 2WD April 19 - 28, 1949 Link: Nebraska Tractor Test 406 file",
+          "Belt power (max)": "48.58 hp 36.2 kW",
+          "Belt fuel use (max)": "2.8 gal/hour 10.6 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "43.15 hp 32.2 kW",
+          "__seccion_4__": "Gear 3 used for power test.",
+          "Max pull": "6644 lbs 3013 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 8, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1949 - 1954",
+          "__seccion_2__": "Two-Cylinder Letter Series",
+          "__seccion_3__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "415.5 ci 6.8 L",
+          "Bore/Stroke": "5.75x8.00 inches 146 x 203 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "16:1",
+          "Rated RPM": "1000",
+          "Firing order": "1-2",
+          "Starter type": "2-cylinder pony motor",
+          "Coolant capacity": "54.5 qts 51.6 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "13 qts 12.3 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 8, 2025"
+        }
+      ]
+    }
+  }
+}

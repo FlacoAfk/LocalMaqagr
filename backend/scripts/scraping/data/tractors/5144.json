@@ -1,0 +1,236 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/1/4/5144-john-deere-430c.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/1/4/5144-john-deere-430c-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/1/4/5144-john-deere-430c-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/1/4/5144-john-deere-430c-engine.html",
+    "source_id": 5144,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:44:39.830Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5144/5144-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 77 KB",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1087/",
+    "nebraska_test": 601
+  },
+  "tractor_data_id": 5144,
+  "name": "John Deere 430C",
+  "brand": "John Deere",
+  "model": "430C",
+  "years": {
+    "desde": 1958,
+    "hasta": 1960
+  },
+  "model_year": 1958,
+  "engine_power_hp": 28.76,
+  "engine_power_source": "belt_tested (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 23.53,
+  "weight_kg": 1877,
+  "weight_basis": "Shipping weight",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 21.6,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F005/5144/5144-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5144/5144-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td5144.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1958 - 1960",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Agricultural Crawler tractor",
+          "__seccion_3__": "Built in Dubuque, Iowa, USA",
+          "Total built": "2240"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "430W": "row-crop utility",
+          "430C": "crawler"
+        },
+        {
+          "__seccion_1__": "John Deere 430C Engine",
+          "__seccion_2__": "John Deere 1.9L 2-cyl gasoline",
+          "Fuel tank": "10.5 gal 39.7 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 430C Transmissions",
+          "__seccion_2__": "4-speed unsynchronized gear",
+          "__seccion_3__": "5-speed unsynchronized gear",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 430C Power",
+          "Plows": "3-4",
+          "Drawbar (tested)": "23.53 hp 17.5 kW",
+          "Belt (tested)": "28.76 hp 21.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "crawler",
+          "Steering": "mechanical disc clutches",
+          "__seccion_2__": "Mechanical band brakes",
+          "__seccion_3__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 430C photos..."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I Opt Optional"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "560"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tracks",
+          "Weight": "4140 to 4700 pounds",
+          "__seccion_2__": "10-inch tracks",
+          "__seccion_3__": "Full dimensions and tracks ..."
+        },
+        {
+          "__seccion_1__": "430C Serial Number Location"
+        },
+        {
+          "1959": "140001",
+          "1960": "157024",
+          "__seccion_1__": "430C Serial Numbers",
+          "Final": "161096",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Belt Pulley",
+          "Diameter": "9 inches 22 cm",
+          "Width": "6 inches 15 cm",
+          "RPM": "1270",
+          "Speed": "3000 ft/min 914.40 meters/min"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere 30 Series by J.R. Hobbs",
+          "__seccion_3__": "New 430 Crawler published in 1958, by John Deere",
+          "__seccion_4__": "Operator's Manual 430 Crawler Tractor (OM-T60558) published in 1958",
+          "__seccion_5__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_6__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 27, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1958 - 1960",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 430C Tracks",
+          "Width": "14 inches 35 cm"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Length": "102 inches 259 cm",
+          "Width": "60 inches 152 cm",
+          "Height (hood)": "51.875 inches 131 cm",
+          "Height (exhaust)": "69 inches 175 cm",
+          "Shipping weight": "4,140 lbs (4-roller) 1877 kg",
+          "&nbsp": "4,700 lbs (5-roller) 2131 kg",
+          "Ground clearance": "14 inches 35 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 27, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1958 - 1960",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 601"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 601",
+          "__seccion_2__": "Gasoline 5-speed crawler October 15 - 25, 1956 Link: Nebraska Tractor Test 601 file",
+          "Belt power (max)": "28.76 hp 21.4 kW",
+          "Belt fuel use (max)": "2.6 gal/hour 9.8 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "23.53 hp 17.5 kW",
+          "__seccion_4__": "Gear 3 used for power test.",
+          "Max pull": "4,862 lbs 2205 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 27, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1958 - 1960",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "113 ci 1.9 L",
+          "Bore/Stroke": "4.25x4.00 inches 108 x 102 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "7.2:1",
+          "Rated RPM": "1850",
+          "Starter volts": "6",
+          "Oil capacity": "5 qts 4.7 L",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 27, 2022"
+        }
+      ]
+    }
+  }
+}

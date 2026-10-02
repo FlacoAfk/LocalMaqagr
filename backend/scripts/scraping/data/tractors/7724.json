@@ -1,0 +1,228 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/7/2/7724-kubota-b3350.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/7/2/7724-kubota-b3350-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/7/2/7724-kubota-b3350-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 7724,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:00:52.144Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7724/7724-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 68 KB"
+  },
+  "tractor_data_id": 7724,
+  "name": "Kubota B3350",
+  "brand": "Kubota",
+  "model": "B3350",
+  "years": {
+    "desde": 2006,
+    "hasta": 2012
+  },
+  "model_year": 2006,
+  "engine_power_hp": 33,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 27,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 860,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 9.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-16",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 942,
+  "tire_front": {
+    "original": "7-12",
+    "radial": false,
+    "width_mm": 178,
+    "rim_in": 12,
+    "diameter_mm_est": 607,
+    "tipo": "Diagonal",
+    "texto": "7-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7724/7724-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7724/7724-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td7724.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2013 -",
+          "__seccion_2__": "B50 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor",
+          "Original price": "$21,242 (2014 ROPS )",
+          "__seccion_3__": "$28,865 (2014 Cab )"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "B3350HSD": "ROPS",
+          "B3350HSDC": "Cab",
+          "B3350SUHSD": "special utility"
+        },
+        {
+          "__seccion_1__": "Kubota B3350 Engine",
+          "__seccion_2__": "Kubota 1.5L 4-cyl diesel",
+          "Fuel tank": "7.3 gal 27.6 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B3350 Transmission",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B3350 Power",
+          "Engine (gross)": "33 hp 24.6 kW",
+          "PTO (claimed)": "27 hp 20.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "spur gear",
+          "Differential lock": "standard",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Two-post foldable ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota B3350 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "1",
+          "Pump flow": "5 gpm 18.9 lpm",
+          "Total flow": "8.7 gpm 32.9 lpm",
+          "Steering flow": "3.7 gpm 14.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at ends)": "2139 lbs 970 kg",
+          "Rear lift (at 24\"/610mm)": "1676 lbs 760 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic",
+          "Rear PTO Type": "540 (1.375)",
+          "Mid PTO Type": "2500"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "65.6 inches 166 cm",
+          "Weight": "1896 to 2447 pounds",
+          "Front tire": "7-12",
+          "Rear tire": "12.4-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota B3350 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "72\" mid-mount mower deck",
+          "__seccion_4__": "front-end loader",
+          "__seccion_5__": "backhoe",
+          "__seccion_6__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "60",
+          "Battery CCA": "430",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 25, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2013 -",
+          "__seccion_2__": "B50 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota B3350 Tires",
+          "Standard tires (ag)": "Front: 7-12. Rear: 12.4-16",
+          "Lawn/turf front": "24x8.50-14",
+          "Lawn/turf rear": "13.6-16",
+          "Industrial front": "23x8.50-14",
+          "&nbsp": "15-19.5",
+          "Industrial rear": "12.4-16"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "65.6 inches 166 cm",
+          "Length": "101.2 inches 257 cm",
+          "Width": "53.7 inches 136 cm",
+          "Height (ROPS)": "88.4 inches 224 cm",
+          "Height (cab)": "84.6 inches 214 cm",
+          "Weight": "1896 lbs (ROPS) 860 kg",
+          "&nbsp": "2447 lbs (Cab) 1109 kg",
+          "Ground clearance": "14.6 inches 37 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 25, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2013 -",
+          "__seccion_2__": "B50 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V1505",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "91.5 ci 1.5 L",
+          "Bore/Stroke": "3.1x3.1 inches 79 x 79 mm",
+          "Emissions": "Tier IV",
+          "Emission control": "diesel particulate filter (DPF)",
+          "Power (gross)": "33 hp 24.6 kW",
+          "Air cleaner": "dual paper elements",
+          "Rated RPM": "2500",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "5.1 qts 4.8 L",
+          "Coolant capacity": "4.5 qts 4.3 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 25, 2021"
+        }
+      ]
+    }
+  }
+}

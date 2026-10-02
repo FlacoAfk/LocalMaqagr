@@ -1,0 +1,235 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/0/8/6086-massey-ferguson-1529.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/0/8/6086-massey-ferguson-1529-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/0/8/6086-massey-ferguson-1529-engine.html",
+    "source_id": 6086,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:38:11.006Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6086/6086-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 124 KB"
+  },
+  "tractor_data_id": 6086,
+  "name": "Massey Ferguson 1529",
+  "brand": "Iseki",
+  "model": "ferguson 1529",
+  "years": {
+    "desde": 2007,
+    "hasta": 2014
+  },
+  "model_year": 2007,
+  "engine_power_hp": 28.4,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 23.2,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1169,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 8.5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 11.2x24",
+  "tire_width_mm": 284,
+  "tire_diameter_mm": 1093,
+  "tire_front": {
+    "original": "7x14",
+    "radial": false,
+    "width_mm": 178,
+    "rim_in": 14,
+    "diameter_mm_est": 658,
+    "tipo": "Diagonal",
+    "texto": "7x14"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F006/6086/6086-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6086/6086-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td6086.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2007 - 2014",
+          "__seccion_2__": "Model year 2007-2010 2011-2014",
+          "__seccion_3__": "1500 Series",
+          "__seccion_4__": "Compact Utility tractor",
+          "__seccion_5__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Massey Ferguson",
+          "Manufacturer": "Iseki",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Matsuyama, Japan",
+          "__seccion_4__": "Original price was $13,468 in 2008"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1529 Engine",
+          "__seccion_2__": "Iseki 1.5L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1529 Transmission",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1529 Power",
+          "Engine (gross)": "28.4 hp 21.2 kW",
+          "Engine (net)": "27.6 hp 20.6 kW",
+          "PTO (claimed)": "23.2 hp 17.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 1529 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "8.3 gal 31.4 L",
+          "Front axle": "5.1 qts 4.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "1 or 2",
+          "Pump flow": "7.4 gpm 28.0 lpm",
+          "Total flow": "10.8 gpm 40.9 lpm",
+          "Steering flow": "3.4 gpm 12.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at ends)": "2425 lbs 1099 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Mid PTO Type": "2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "66.7 inches 169 cm",
+          "Weight": "2579 lbs 1169 kg",
+          "Front tire": "7x14",
+          "Rear tire": "11.2x24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1529 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "1500 Series Compact Tractors published in 2007, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 13, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2007 - 2014",
+          "__seccion_2__": "Model year 2007-2010 2011-2014",
+          "__seccion_3__": "1500 Series",
+          "__seccion_4__": "Compact Utility tractor",
+          "__seccion_5__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1529 Tires",
+          "Standard tires (ag)": "Front: 7x14. Rear: 11.2x24",
+          "Lawn/turf front": "27x8.50-15",
+          "Lawn/turf rear": "41x14.00-20",
+          "Industrial front": "25x8.50-14",
+          "Industrial rear": "15.00x19.5"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "66.7 inches 169 cm",
+          "Length": "120.7 inches 306 cm",
+          "Width": "58.1 inches 147 cm",
+          "Height (ROPS)": "97 inches 246 cm",
+          "Ground clearance": "10.4 inches 26 cm",
+          "Front tread": "33 inches 83 cm",
+          "Rear tread": "43 inches 109 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1529 Weight",
+          "Shipping": "2579 lbs 1169 kg",
+          "Max capacity": "5291 lbs 2399 kg",
+          "Max front axle": "2646 lbs 1200 kg",
+          "Max rear axle": "2866 lbs 1300 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 13, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2007 - 2014",
+          "__seccion_2__": "Model year 2007-2010 2011-2014",
+          "__seccion_3__": "1500 Series",
+          "__seccion_4__": "Compact Utility tractor",
+          "__seccion_5__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iseki",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "91.4 ci 1.5 L",
+          "Bore/Stroke": "3.43x3.31 inches 87 x 84 mm",
+          "Power (net)": "27.6 hp 20.6 kW",
+          "Power (gross)": "28.4 hp 21.2 kW",
+          "Air cleaner": "dry",
+          "Rated RPM": "2500",
+          "Torque": "67.3 lb-ft 91.3 Nm",
+          "Torque RPM": "1500",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "3.3 qts 3.1 L",
+          "Coolant capacity": "6.5 qts 6.2 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 13, 2020"
+        }
+      ]
+    }
+  }
+}

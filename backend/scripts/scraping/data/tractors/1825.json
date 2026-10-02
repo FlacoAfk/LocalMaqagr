@@ -1,0 +1,257 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/8/2/1825-massey-ferguson-492.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/8/2/1825-massey-ferguson-492-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/8/2/1825-massey-ferguson-492-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/8/2/1825-massey-ferguson-492-engine.html",
+    "source_id": 1825,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:30:51.778Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1825/1825-td4-b01-ext270.jpg",
+    "foto_calidad": "webp 960px/q65 → 153 KB"
+  },
+  "tractor_data_id": 1825,
+  "name": "Massey Ferguson 492",
+  "brand": "Massey Ferguson (a part of AGCO)",
+  "model": "ferguson 492",
+  "years": {
+    "desde": 2004,
+    "hasta": 2006
+  },
+  "model_year": 2004,
+  "engine_power_hp": 99,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 85,
+  "pto_tested_hp": 91.66,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3299,
+  "weight_basis": "4WD ROPS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 33.6,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4-34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "14.9-24",
+    "radial": false,
+    "width_mm": 378,
+    "rim_in": 24,
+    "diameter_mm_est": 1253,
+    "tipo": "Diagonal",
+    "texto": "14.9-24"
+  },
+  "fuel_consumption_lph": 20.4,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1825/1825-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1825/1825-td4-b01-ext270.jpg",
+  "image_url": "/uploads/tractors/td1825.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2004 - 2006",
+          "__seccion_2__": "400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson (a part of AGCO)",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Brazil"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 492 Engine",
+          "__seccion_2__": "Perkins 4.4L 4-cyl diesel",
+          "Fuel tank": "29 gal 109.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 492 Transmission",
+          "__seccion_2__": "12-speed partially synchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 492 Power",
+          "Engine (gross)": "99 hp 73.8 kW",
+          "PTO (claimed)": "85 hp 63.4 kW",
+          "PTO (tested)": "91.66 hp 68.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Independent hydraulic wet disc brakes",
+          "__seccion_5__": "Flat-deck platform with two-post folding ROPS. Optional cab with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 492 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "2 or 3",
+          "Pump flow": "7.0 gpm (3-point) 26.5 lpm",
+          "&nbsp": "10 gpm (aux) 37.9 lpm",
+          "SCV flow": "17 gpm 64.3 lpm",
+          "Total flow": "25 gpm 94.6 lpm",
+          "Steering flow": "8.0 gpm 30.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position control and top-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "4199 lbs 1904 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@1900",
+          "&nbsp": "1000@1900"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "93 inches 236 cm",
+          "Weight": "6812 to 8385 pounds",
+          "Front tire": "14.9-24",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 492 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "400 Series Tractors published in 2005, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 24, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2004 - 2006",
+          "__seccion_2__": "400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 492 Tires",
+          "Ag front": "14.9-24",
+          "Ag rear": "18.4-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "93 inches 236 cm",
+          "Length": "155 inches 393 cm",
+          "Width": "80 inches 203 cm",
+          "Clearance (drawbar)": "14.7 inches 37 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 492 Weight",
+          "2WD ROPS Shipping": "6,812 lbs 3089 kg",
+          "4WD ROPS Shipping": "7,275 lbs 3299 kg",
+          "2WD Cab Shipping": "7,562 lbs 3430 kg",
+          "4WD Cab Shipping": "8,025 lbs 3640 kg",
+          "4WD Cab Operating": "8,385 lbs 3803 kg"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 492 Height",
+          "ROPS": "102.5 inches 260 cm",
+          "Height (Folded ROPS)": "79.4 inches 201 cm",
+          "Cab": "106 inches 269 cm",
+          "Exhaust": "108 inches 274 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 24, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2004 - 2006",
+          "__seccion_2__": "400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1852"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1852",
+          "__seccion_2__": "Diesel 12-speed 4WD June 22 - 23, 2005 Link: Nebraska Tractor Test 1852 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "91.66 hp 68.4 kW",
+          "Fuel use": "5.1 gal/hour 19.3 l/hour",
+          "Power at rated engine speed": "87.61 hp 65.3 kW",
+          "Power at rated PTO speed": "90.37 hp 67.4 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 24, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2004 - 2006",
+          "__seccion_2__": "400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins 1104C-44T",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "268.6 ci 4.4 L",
+          "Bore/Stroke": "4.134x5.00 inches 105 x 127 mm",
+          "Emissions": "Tier II",
+          "Power (gross)": "99 hp 73.8 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "18.2:1",
+          "Rated RPM": "2200",
+          "Torque": "293 lb-ft 397.3 Nm",
+          "Torque RPM": "1300",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 492 Engine",
+          "__seccion_2__": "Image courtesy of Damon McGaha"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 24, 2024"
+        }
+      ]
+    }
+  }
+}

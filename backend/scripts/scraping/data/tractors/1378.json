@@ -1,0 +1,272 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/3/7/1378-john-deere-9420.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/3/7/1378-john-deere-9420-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/3/7/1378-john-deere-9420-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/3/7/1378-john-deere-9420-engine.html",
+    "source_id": 1378,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:52:22.445Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1378/1378-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 109 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 1378,
+  "name": "John Deere 9420",
+  "brand": "John Deere",
+  "model": "9420",
+  "years": {
+    "desde": 2002,
+    "hasta": 2007
+  },
+  "model_year": 2002,
+  "engine_power_hp": 425,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 316,
+  "pto_tested_hp": 312.25,
+  "drawbar_tested_hp": 345,
+  "weight_kg": 15817,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 170.9,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "710/70R42",
+    "radial": true,
+    "width_mm": 710,
+    "rim_in": 42,
+    "diameter_mm_est": 2061,
+    "tipo": "Radial",
+    "texto": "710/70R42"
+  },
+  "fuel_consumption_lph": 65.1,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1378/1378-td3a.jpg",
+  "image_url": "/uploads/tractors/td1378.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2002 - 2007",
+          "__seccion_2__": "9020 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "9420T": "crawler tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 9420 Engine",
+          "__seccion_2__": "John Deere 12.5L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 9420 Transmissions",
+          "__seccion_2__": "24-speed partial power shift",
+          "__seccion_3__": "18-speed full power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 9420 Power",
+          "Engine": "425 hp 316.9 kW",
+          "PTO (claimed)": "316 hp 235.6 kW",
+          "Drawbar (tested)": "345.00 hp 257.3 kW",
+          "PTO (tested)": "312.25 hp 232.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "hydrostatic articulated",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "CommandView cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 9420 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "270 gal 1022.0 L",
+          "Hydraulic system": "27 gal 102.2 L",
+          "&nbsp": "31 gal (hi-flow/3pt) 117.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure/flow compensated",
+          "Capacity": "27 gal 102.2 L",
+          "&nbsp": "78 gpm (hi-flow) 295.2 lpm",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "4 or 5",
+          "Pump flow": "30 gpm 113.6 lpm",
+          "Total flow": "44 gpm 166.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "&nbsp": "14,445 lbs (optional) 6552 kg",
+          "Rear lift": "13,871 lbs 6291 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "137.8 inches 350 cm",
+          "Weight": "34870 to 37246 pounds",
+          "Front tire": "710/70R42",
+          "Rear tire": "710/70R42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "2002": "1001",
+          "2003": "10001",
+          "2004": "20001",
+          "2005": "30001",
+          "2006": "40001",
+          "2007": "50001",
+          "__seccion_1__": "9420 Serial Numbers",
+          "Location:": "On the top-left of rear hinge member",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "140",
+          "Batteries": "3",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 20, 2014",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2002 - 2007",
+          "__seccion_2__": "9020 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 9420 Tires",
+          "Ag front": "710/70R42",
+          "Ag rear": "710/70R42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "137.8 inches 350 cm",
+          "Length": "274 inches 695 cm",
+          "&nbsp": "289 inches (with hitch) 734 cm",
+          "Width": "115.5 inches 293 cm",
+          "Clearance (front axle)": "28.8 inches 73 cm",
+          "Clearance (drawbar)": "17 inches 43 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 9420 Weight",
+          "Shipping": "34,870 lbs 15817 kg",
+          "Operating": "37,246 lbs (620/70R42 duals) 16894 kg",
+          "Ballasted": "41,456 lbs 18804 kg"
+        },
+        {
+          "__seccion_1__": "John Deere 9420 Height",
+          "Hood": "97.5 inches 247 cm",
+          "Cab": "137.5 inches 349 cm",
+          "Exhaust": "140 inches 355 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 20, 2014"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2002 - 2007",
+          "__seccion_2__": "9020 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1733"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1733",
+          "__seccion_2__": "Diesel 24-speed 4WD May 2 - June 18, 1997 Link: OCED Tractor Test 1733 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "312.25 hp 232.8 kW",
+          "Fuel use": "20.3 gal/hour 76.8 l/hour",
+          "Power at rated PTO speed": "343.44 hp 256.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "345.00 hp 257.3 kW",
+          "Max pull": "38,409 lbs 17422 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 20, 2014"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2002 - 2007",
+          "__seccion_2__": "9020 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "765 ci 12.5 L",
+          "Bore/Stroke": "5.00x6.50 inches 127 x 165 mm",
+          "Power": "425 hp 316.9 kW",
+          "Air cleaner": "dry",
+          "Compression": "17:1",
+          "Rated RPM": "2100",
+          "Operating RPM": "1500-2100",
+          "Starter volts": "12",
+          "Coolant capacity": "64 qts 60.6 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "44 qts 41.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 20, 2014"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1378/1378-td4-b01-ext045.jpg"
+}

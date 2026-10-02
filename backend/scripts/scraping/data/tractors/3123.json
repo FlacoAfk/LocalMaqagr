@@ -1,0 +1,270 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/1/2/3123-new-holland-9684.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/1/2/3123-new-holland-9684-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/1/2/3123-new-holland-9684-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/1/2/3123-new-holland-9684-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3123,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:23:50.248Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3123/3123-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 54 KB"
+  },
+  "tractor_data_id": 3123,
+  "name": "New Holland 9684",
+  "brand": "Versatile",
+  "model": "holland 9684",
+  "years": {
+    "desde": 2000,
+    "hasta": 2001
+  },
+  "model_year": 2000,
+  "engine_power_hp": 360,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": 349.1,
+  "drawbar_tested_hp": 277.2,
+  "weight_kg": 8949,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 139.5,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 20.8-42",
+  "tire_width_mm": 528,
+  "tire_diameter_mm": 1965,
+  "tire_front": {
+    "original": "20.8-42",
+    "radial": false,
+    "width_mm": 528,
+    "rim_in": 42,
+    "diameter_mm_est": 1965,
+    "tipo": "Diagonal",
+    "texto": "20.8-42"
+  },
+  "fuel_consumption_lph": 70,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3123/3123-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3123/3123-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td3123.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2000 - 2001",
+          "__seccion_2__": "84 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_4__": "Versatile built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "New Holland",
+          "Manufacturer": "Versatile",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Winnipeg, Manitoba, Canada"
+        },
+        {
+          "2360": "similar Versatile model",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "New Holland 9684 Engine",
+          "__seccion_2__": "Cummins 14.0L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland 9684 Transmissions",
+          "__seccion_2__": "12-speed partially synchronized",
+          "__seccion_3__": "12-speed full power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland 9684 Power",
+          "Engine (gross)": "360 hp 268.5 kW",
+          "Drawbar (tested)": "277.2 hp 206.7 kW",
+          "PTO (tested)": "349.1 hp 260.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "planetary",
+          "__seccion_3__": "Articulated power steering",
+          "__seccion_4__": "Hydraulic disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland 9684 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "230 gal 870.6 L",
+          "Hydraulic system": "20 gal (reservoir) 75.7 L",
+          "&nbsp": "33 gal (total system) 124.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "20 gal (reservoir) 75.7 L",
+          "&nbsp": "33 gal (total system) 124.9 L",
+          "Pressure": "2250 psi 155.1 bar",
+          "Valves": "4",
+          "Pump flow": "50 gpm 189.2 lpm",
+          "Steering flow": "27 gpm 102.2 lpm",
+          "Steering press.": "2500 psi 172.4 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IVN/III",
+          "Rear lift (at 24\"/610mm)": "13000 lbs 5896 kg",
+          "Drawbar": "Cat. 4"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "1000 (1.75)",
+          "Engine RPM": "1000@2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "133 inches 337 cm",
+          "Weight": "19730 to 30630 pounds",
+          "Front tire": "20.8-42",
+          "Rear tire": "20.8-42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "9684 Serial Numbers",
+          "Location:": "Serial number plate mounted on the tractor cab's left, rear, corner."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "130",
+          "Batteries": "3",
+          "Battery CCA": "950",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "84 Series 4WD Tractors published in 1999, by New Holland",
+          "__seccion_3__": "Operator's Manual 9184 - 9384 - 9484 - 9684 - 9884 (86584305) published in 1999"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 3, 2024",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2000 - 2001",
+          "__seccion_2__": "84 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_4__": "Versatile built"
+        },
+        {
+          "__seccion_1__": "New Holland 9684 Tires",
+          "Ag front": "20.8-42",
+          "Ag rear": "20.8-42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "133 inches 337 cm",
+          "Length": "266 inches 675 cm",
+          "Width": "150.6 inches * Outer width of 20.8-42 duals. 382 cm",
+          "Height (cab)": "137.5 inches 349 cm",
+          "Height (exhaust)": "147.2 inches 373 cm"
+        },
+        {
+          "__seccion_1__": "New Holland 9684 Weight",
+          "Shipping": "19730 lbs 8949 kg",
+          "Operating": "30630 lbs (duals) 13893 kg",
+          "Max capacity": "38000 lbs 17236 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 3, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2000 - 2001",
+          "__seccion_2__": "84 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_4__": "Versatile built"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1942"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1942",
+          "__seccion_2__": "Diesel 12-speed 4WD June 1 - July 31, 2000 Link: OCED Tractor Test 1942 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "277.2 hp 206.7 kW",
+          "Fuel use": "17.8 gal/hour 67.4 l/hour",
+          "Power at rated engine speed": "301.3 hp 224.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "31355 lbs 14222 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 3, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2000 - 2001",
+          "__seccion_2__": "84 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_4__": "Versatile built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Cummins N14",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "855 ci 14.0 L",
+          "Bore/Stroke": "5.50x6.00 inches 140 x 152 mm",
+          "Power (gross)": "360 hp 268.5 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "18.5:1",
+          "Rated RPM": "2100",
+          "Idle RPM": "825-2400",
+          "Torque": "1215 lb-ft 1647.5 Nm",
+          "Torque RPM": "1400",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Oil capacity": "40.9 qts 38.7 L",
+          "Coolant capacity": "63.4 qts 60.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 3, 2024"
+        }
+      ]
+    }
+  }
+}

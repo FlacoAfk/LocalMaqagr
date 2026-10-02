@@ -1,0 +1,330 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/9/3/5931-ford-1910.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/9/3/5931-ford-1910-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/9/3/5931-ford-1910-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/9/3/5931-ford-1910-engine.html",
+    "source_id": 5931,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:14:02.431Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5931/5931-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 44 KB"
+  },
+  "tractor_data_id": 5931,
+  "name": "Ford 1910",
+  "brand": "Shibaura",
+  "model": "1910",
+  "years": {
+    "desde": 1983,
+    "hasta": 1986
+  },
+  "model_year": 1983,
+  "engine_power_hp": 32,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 28.5,
+  "pto_tested_hp": 28.6,
+  "drawbar_tested_hp": 24.76,
+  "weight_kg": 1472,
+  "weight_basis": "4WD",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 14.9,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 13.6-24",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1197,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": 8.3,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F005/5931/5931-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5931/5931-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td5931.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Ford",
+          "Manufacturer": "Shibaura",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan",
+          "__seccion_4__": "Original price was $10,000 in 1986"
+        },
+        {
+          "__seccion_1__": "Ford 1910 Engine",
+          "__seccion_2__": "Shibaura 1.7L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 1910 Transmissions",
+          "__seccion_2__": "12-speed unsynchronized gear",
+          "__seccion_3__": "12-speed partially synchronized",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 1910 Power",
+          "Engine": "32 hp 23.9 kW",
+          "PTO (claimed)": "28.5 hp 21.3 kW",
+          "Drawbar (tested)": "24.76 hp 18.5 kW",
+          "PTO (tested)": "28.60 hp 21.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "spur gear",
+          "Differential lock": "mechanical rear",
+          "Steering": "manual",
+          "&nbsp": "power (4WD)",
+          "__seccion_3__": "Differential mechanical drum brakes",
+          "__seccion_4__": "Two-post fixed ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 1910 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "9.2 gal 34.8 L",
+          "Hydraulic system": "7.4 gal 28.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "7.4 gal 28.0 L",
+          "Pressure": "2133 psi 147.1 bar",
+          "Pump flow": "5.1 gpm 19.3 lpm",
+          "Total flow": "8.6 gpm 32.6 lpm",
+          "Steering flow": "3.5 gpm 13.2 lpm",
+          "Steering press.": "1000 psi 69.0 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "&nbsp": "draft control Opt Optional",
+          "Rear lift (at ends)": "3813 lbs 1729 kg",
+          "Rear lift (at 24\"/610mm)": "1584 lbs 718 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2456"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "66.3 inches 168 cm",
+          "4WD Wheelbase": "66.9 inches 169 cm",
+          "Weight": "2980 to 3246 pounds",
+          "Front tire": "5.50-16",
+          "2WD Rear tire": "13.6-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 1910 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "snowblower",
+          "__seccion_4__": "front-end loader",
+          "__seccion_5__": "backhoe",
+          "__seccion_6__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "1910 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the left side of the Ford 1910, near the clutch pedal."
+        },
+        {
+          "1983": "UP0001",
+          "1984": "UP01089",
+          "1985": "UP04638",
+          "1986": "UP08193",
+          "__seccion_1__": "1910 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "35",
+          "Charging volts": "12",
+          "Battery volts": "12",
+          "Battery AH": "100"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Ford Shop Manual by Peter Letourneau",
+          "__seccion_3__": "Farm Loaders published in 1988, by Ford",
+          "__seccion_4__": "1000 Series Tractors published in 1985, by Ford",
+          "__seccion_5__": "1000 Series Tractors published in 1987, by Ford",
+          "__seccion_6__": "Salesman's Reference published in 1986, by Ford",
+          "__seccion_7__": "Sales Reference Guide published in 1986, by Ford"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 11, 2025",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Ford 1910 Tires",
+          "2WD Standard tires (ag)": "Front: 5.50-16. Rear: 13.6-24",
+          "4WD Standard tires (ag)": "Front: 6.00-16. Rear: 13.6-24",
+          "Lawn/turf front": "25x8.50-14 (2WD)",
+          "&nbsp": "27x8.50-15 (4WD)",
+          "Lawn/turf rear": "18.4x16.1"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "66.3 inches 168 cm",
+          "4WD Wheelbase": "66.9 inches 169 cm",
+          "2WD Length": "122.6 inches 311 cm",
+          "4WD Length": "123.2 inches 312 cm",
+          "Width": "57.8 inches 146 cm",
+          "2WD Ground clearance": "13.7 inches 34 cm",
+          "4WD Ground clearance": "13.1 inches 33 cm",
+          "Front tread": "44.9 to 59.5 inches 114 to 151 cm",
+          "Rear tread": "45.7 to 61 inches 116 to 154 cm"
+        },
+        {
+          "__seccion_1__": "Ford 1910 Weight",
+          "2WD": "2980 lbs 1351 kg",
+          "4WD": "3246 lbs 1472 kg",
+          "Ballasted": "4250 lbs * Two-wheel drive tractor with front and rear iron weight, plus liquid in rear 13.6-24 tires. 1927 kg",
+          "2WD Max front axle": "2425 lbs 1099 kg",
+          "4WD Max front axle": "2535 lbs 1149 kg"
+        },
+        {
+          "__seccion_1__": "Ford 1910 Height",
+          "2WD Steering wheel": "61.6 inches 156 cm",
+          "4WD Steering wheel": "60.5 inches 153 cm",
+          "ROPS": "87 inches 220 cm",
+          "2WD Exhaust": "77.4 inches 196 cm",
+          "4WD Exhaust": "76.7 inches 194 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 11, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 1507: diesel 12/4 gear 2WD",
+          "__seccion_3__": "NTTL 1508: diesel 12/4 synchro 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1507"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1507",
+          "__seccion_2__": "Diesel 12/4 gear 2WD March 30 - April 12, 1984 Link: Nebraska Tractor Test 1507 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "28.60 hp 21.3 kW",
+          "Fuel use": "2.2 gal/hour 8.3 l/hour",
+          "Power at rated PTO speed": "28.29 hp 21.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "24.76 hp 18.5 kW",
+          "__seccion_5__": "Gear 3-3 used for power test.",
+          "Max pull": "3,340 lbs 1515 kg",
+          "__seccion_6__": "Gear 2-3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1508"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1508",
+          "__seccion_2__": "Diesel 12/4 synchro 2WD March 30 - April 17, 1984 Link: Nebraska Tractor Test 1508 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "28.52 hp 21.3 kW",
+          "Fuel use": "2.2 gal/hour 8.3 l/hour",
+          "Power at rated PTO speed": "28.30 hp 21.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "24.57 hp 18.3 kW",
+          "__seccion_5__": "Gear 3-3 used for power test.",
+          "Max pull": "2,566 lbs 1163 kg",
+          "__seccion_6__": "Gear 2-3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 11, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibaura",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "103.8 ci 1.7 L",
+          "Bore/Stroke": "3.346x3.947 inches 85 x 100 mm",
+          "Power": "32 hp 23.9 kW",
+          "Fuel use": "2.236 gal/hour 8.5 l/hour",
+          "Air cleaner": "dry",
+          "Pre-heating": "glow plugs",
+          "Compression": "21:1",
+          "Rated RPM": "2500",
+          "Torque": "70.9 lb-ft 96.1 Nm",
+          "Torque RPM": "2000",
+          "Starter volts": "12",
+          "Oil capacity": "6.9 qts 6.5 L",
+          "Coolant capacity": "7.4 qts 7.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 11, 2025"
+        }
+      ]
+    }
+  }
+}

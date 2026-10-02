@@ -1,0 +1,249 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/4/9/490-ji-case-730.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/4/9/490-ji-case-730-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/4/9/490-ji-case-730-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 490,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:05:20.804Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/490/490-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 2 KB"
+  },
+  "tractor_data_id": 490,
+  "name": "J.I. Case 730",
+  "brand": "J.I. Case",
+  "model": "730",
+  "years": {
+    "desde": 1960,
+    "hasta": 1969
+  },
+  "model_year": 1960,
+  "engine_power_hp": 56,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 56,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3175,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 20.5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14.9-30",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1405,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/490/490-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td490.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1960 - 1969",
+          "__seccion_2__": "730 Series",
+          "__seccion_3__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Standard-tread tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA",
+          "Original price": "$5,700 (1969)",
+          "__seccion_4__": "The Case 730 often refers to an entire series of tractors, with a number of engine and chassis options. The specific model 730 was the standard-tread diesel version of the Case 730 series."
+        },
+        {
+          "730": "standard-front diesel",
+          "731": "row-crop diesel",
+          "732": "Western Special diesel",
+          "733": "high-clearance diesel",
+          "734": "orchard diesel",
+          "740": "standard-front gas",
+          "741": "row-crop gas",
+          "742": "Western Special gas",
+          "743": "high-clearance gas",
+          "744": "orchard gas",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "J.I. Case 730 Engine",
+          "__seccion_2__": "J.I. Case 4.4L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 730 Transmissions",
+          "__seccion_2__": "8-speed torque converter",
+          "__seccion_3__": "8-speed unsynchronized",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 730 Power",
+          "PTO (claimed)": "56 hp 41.8 kW",
+          "Plows": "5"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "manual",
+          "&nbsp": "power optional",
+          "__seccion_3__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the J.I. Case 730 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "31 gal 117.3 L",
+          "Hydraulic system": "17 gal 64.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "17 gal 64.3 L",
+          "Valves": "4",
+          "Pump flow": "15.5 gpm 58.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "1,350 lbs 612 kg",
+          "Type": "Case Eagle Hitch"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "&nbsp": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "102 inches 259 cm",
+          "Weight": "7,000 lbs 3175 kg",
+          "Front tire": "6.00-16",
+          "Rear tire": "14.9-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 730 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1960": "8160001",
+          "1961": "8168801",
+          "1962": "8190001",
+          "1963": "8208001",
+          "1964": "8229001",
+          "1965": "8253501",
+          "1966": "8279001",
+          "1967": "8306501",
+          "1968": "8332101",
+          "1969": "8356251",
+          "__seccion_1__": "730 Serial Numbers",
+          "Location:": "Plate on instrument panel",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "generator",
+          "Charging amps": "20",
+          "Batteries": "2",
+          "Battery CCA": "70",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "295 / 391 / 392 Loaders published in 1966, by J.I. Case",
+          "__seccion_3__": "1960 Progress Parade of Case Farm Equipment published by J.I. Case",
+          "__seccion_4__": "A Complete New Line of Case Plus-Powered Tractors published in 1960, by J.I. Case",
+          "__seccion_5__": "1965 Buyers Guide published by J.I. Case",
+          "__seccion_6__": "Buyers Guide for '67 published in 1967, by J.I. Case"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 2, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1960 - 1969",
+          "__seccion_2__": "730 Series",
+          "__seccion_3__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "J.I. Case 730 Tires",
+          "Ag front": "6.00-16",
+          "Ag rear": "14.9-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "102 inches 259 cm",
+          "Length": "156 inches 396 cm",
+          "Width": "88 inches 223 cm",
+          "Height": "84 inches 213 cm",
+          "Weight": "7,000 lbs 3175 kg",
+          "Ground clearance": "15 inches 38 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 2, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1960 - 1969",
+          "__seccion_2__": "730 Series",
+          "__seccion_3__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "J.I. Case",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "267 ci 4.4 L",
+          "Bore/Stroke": "4.125x5.00 inches 105 x 127 mm",
+          "Compression": "15.2:1",
+          "Rated RPM": "1700 (Dual-Range)",
+          "&nbsp": "1900 (Case-o-Matic)",
+          "Firing order": "1-3-4-2",
+          "Starter volts": "12",
+          "Oil capacity": "9 qts 8.5 L",
+          "Coolant capacity": "30 qts 28.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 2, 2024"
+        }
+      ]
+    }
+  }
+}

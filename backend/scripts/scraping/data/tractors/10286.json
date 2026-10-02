@@ -1,0 +1,285 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/2/8/10286-fiat-g170.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/2/8/10286-fiat-g170-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/010/2/8/10286-fiat-g170-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/2/8/10286-fiat-g170-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 10286,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:18:53.877Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10286/10286-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 3 KB"
+  },
+  "tractor_data_id": 10286,
+  "name": "Fiat G170",
+  "brand": "Fiat",
+  "model": "G170",
+  "years": {
+    "desde": 1993,
+    "hasta": 2002
+  },
+  "model_year": 1993,
+  "engine_power_hp": 170,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 145,
+  "pto_tested_hp": 167.6,
+  "drawbar_tested_hp": 132.1,
+  "weight_kg": 7166,
+  "weight_basis": "Operating",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 77.3,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "16.9R28",
+    "radial": true,
+    "width_mm": 429,
+    "rim_in": 28,
+    "diameter_mm_est": 1441,
+    "tipo": "Radial",
+    "texto": "16.9R28"
+  },
+  "fuel_consumption_lph": 34.4,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F010/10286/10286-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td10286.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1993 - 2002",
+          "__seccion_2__": "G Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Note: the Fiat model G170 is the same as the Ford 8670. The following data is from the 8670 listing."
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Fiat",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Winnipeg, Manitoba, Canada",
+          "__seccion_4__": "Original price was $84,500 in 2000"
+        },
+        {
+          "__seccion_1__": "Fiat G170 Engine",
+          "__seccion_2__": "Ford 7.5L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Fiat G170 Transmissions",
+          "__seccion_2__": "16-speed full power shift",
+          "__seccion_3__": "32-speed creeper",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Fiat G170 Power",
+          "Engine": "170 hp 126.8 kW",
+          "PTO (claimed)": "145 hp 108.1 kW",
+          "Drawbar (tested)": "132.1 hp 98.5 kW",
+          "PTO (tested)": "167.6 hp 125.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Fiat G170 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "110 gal 416.4 L",
+          "Hydraulic system": "30.9 gal 117.0 L",
+          "Front hubs": "1.7 qts (each) 1.6 L",
+          "Front diff.": "13 qts 12.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing",
+          "Capacity": "30.9 gal 117.0 L",
+          "Pressure": "2750 psi 189.6 bar",
+          "Valves": "3",
+          "Pump flow": "24 gpm 90.8 lpm",
+          "Total flow": "31 gpm 117.3 lpm",
+          "&nbsp": "55 gpm (MegaFlow optional) 208.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Rear lift": "10000 lbs 4536 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@1878",
+          "&nbsp": "1000@1903"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "118.3 inches 300 cm",
+          "&nbsp": "122.6 inches (SuperSteer) 311 cm",
+          "Weight": "15800 to 18200 pounds",
+          "Front tire": "14L-16.1",
+          "Rear tire": "18.4R42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Fiat G170 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "130",
+          "Batteries": "2",
+          "Battery CCA": "950",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "G170, G190, G210, G240 - The Pride of the Field published in 1994, by Fiat"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 6, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1993 - 2002",
+          "__seccion_2__": "G Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Note: the Fiat model G170 is the same as the Ford 8670. The following data is from the 8670 listing."
+        },
+        {
+          "__seccion_1__": "Fiat G170 Tires",
+          "Ag front": "14L-16.1 (2WD)",
+          "&nbsp": "16.9R28 (4WD)",
+          "Ag rear": "18.4R42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "118.3 inches 300 cm",
+          "&nbsp": "122.6 inches (SuperSteer) 311 cm",
+          "Length": "196.7 inches 499 cm",
+          "Width": "96.7 inches 245 cm",
+          "Height (cab)": "121.3 inches 308 cm",
+          "Height (exhaust)": "124.4 inches 315 cm",
+          "Clearance (front axle)": "19.9 inches 50 cm",
+          "Clearance (drawbar)": "18.6 inches 47 cm",
+          "Front tread": "62 to 87 inches 157 to 220 cm",
+          "Rear tread": "60.3 to 123.8 inches 153 to 314 cm (112\" axle)"
+        },
+        {
+          "__seccion_1__": "Fiat G170 Weight",
+          "Operating": "15800 lbs (2WD) 7166 kg",
+          "&nbsp": "18200 lbs (SuperSteer) 8255 kg",
+          "Max capacity": "21750 lbs 9865 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 6, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1993 - 2002",
+          "__seccion_2__": "G Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Note: the Fiat model G170 is the same as the Ford 8670. The following data is from the 8670 listing."
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1649"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1649",
+          "__seccion_2__": "Diesel 16-speed 4WD July 1996 - August 1996, Link: OCED Tractor Test 1649 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "132.1 hp 98.5 kW",
+          "Fuel use": "9.1 gal/hour 34.4 l/hour",
+          "Power at rated engine speed": "147.6 hp 110.1 kW",
+          "Power at rated PTO speed": "163.7 hp 122.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 9 used for power test.",
+          "Max pull": "17385 lbs 7885 kg",
+          "__seccion_6__": "Gear 6 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 6, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1993 - 2002",
+          "__seccion_2__": "G Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Note: the Fiat model G170 is the same as the Ford 8670. The following data is from the 8670 listing."
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "456 ci 7.5 L",
+          "Bore/Stroke": "4.4x5.0 inches 112 x 127 mm",
+          "Power": "170 hp 126.8 kW",
+          "Compression": "17.5:1",
+          "Rated RPM": "2100",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Starter power": "6 hp 4.5 kW",
+          "Coolant capacity": "26.4 qts 25.0 L",
+          "Intake valve clearance": "0.014 inches (cold) 0.356 mm",
+          "Exhaust valve clearance": "0.017 inches (cold) 0.432 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "22 qts 20.8 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 6, 2024"
+        }
+      ]
+    }
+  }
+}

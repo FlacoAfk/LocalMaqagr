@@ -1,0 +1,281 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/8/0/5803-john-deere-5085m.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/8/0/5803-john-deere-5085m-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/8/0/5803-john-deere-5085m-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/8/0/5803-john-deere-5085m-engine.html",
+    "source_id": 5803,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:47:40.347Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5803/5803-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 59 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 5803,
+  "name": "John Deere 5085M",
+  "brand": "John Deere",
+  "model": "5085M",
+  "years": {
+    "desde": 2008,
+    "hasta": 2018
+  },
+  "model_year": 2008,
+  "engine_power_hp": 85,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 70,
+  "pto_tested_hp": 74.07,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2899,
+  "weight_basis": "Operating",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 27.2,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9-30",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1492,
+  "tire_front": {
+    "original": "7.5-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.5-16"
+  },
+  "fuel_consumption_lph": 17.4,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5803/5803-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5803/5803-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td5803.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2008 - 2018",
+          "__seccion_2__": "Model year 2008-2011 2012-2014 2015-2018",
+          "__seccion_3__": "5M Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Augusta, Georgia, USA",
+          "Original price": "$41,671 (2WD ROPS)",
+          "&nbsp": "$52,340 (4WD cab)"
+        },
+        {
+          "__seccion_1__": "John Deere 5085M Engine",
+          "__seccion_2__": "John Deere 4.5L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5085M Transmissions",
+          "__seccion_2__": "16-speed partially synchronized",
+          "__seccion_3__": "12-speed partially synchronized",
+          "__seccion_4__": "16-speed partially synchronized with power shuttle",
+          "__seccion_5__": "32-speed",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5085M Power",
+          "Engine": "85 hp 63.4 kW",
+          "PTO (claimed)": "70 hp 52.2 kW",
+          "PTO (tested)": "74.07 hp 55.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 MFWD 4WD (optional)",
+          "Final drives": "inboard planetary",
+          "Differential lock": "shift-on-the-move electro-hydraulic rear differential lock",
+          "Steering": "hydrostatic power",
+          "__seccion_2__": "Hydraulic wet disc brakes",
+          "__seccion_3__": "Foldable ROPS. Optional deluxe ROPS with upgraded seat. Optional cab with heat and air conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 5085M photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "30.3 gal (ROPS) 114.7 L",
+          "&nbsp": "40.7 gal (cab) 154.0 L",
+          "Hydraulic system": "11.9 gal 45.0 L",
+          "Front hubs": "0.84 qts (each) 0.8 L",
+          "Front diff.": "5.3 qts 5.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "11.9 gal 45.0 L",
+          "Pressure": "2828 psi 195.0 bar",
+          "Valves": "0, 2 or 3 (rear)",
+          "&nbsp": "0, 2 or 3 (mid)",
+          "Pump flow": "18.4 gpm 69.6 lpm",
+          "Total flow": "24.7 gpm 93.5 lpm",
+          "Oil type": "-10 o F [-23 o C] ↑ : HY-GARD",
+          "-10 o F [-23 o C] ↑": ": JDM J20C",
+          "10 o ↔104 o F [-12 o ↔40 o C]": ": BIO HY-GARD JDM 20D"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift (at 24\"/610mm)": "3,595 lbs 1630 kg",
+          "&nbsp": "4,498 lbs (optional) 2040 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent electrohydraulic",
+          "Rear PTO Type": "540/540E",
+          "&nbsp": "540/540E/1000 (optional)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "6393 to 8000 pounds",
+          "Front tire": "7.5-16",
+          "Rear tire": "16.9-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5085M attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "5085M Serial Number Location",
+          "__seccion_2__": "Tractor frame on front left side."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "70 (ROPS)",
+          "&nbsp": "120 (optional)",
+          "Battery CCA": "925",
+          "Battery volts": "12",
+          "Battery Group": "31"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "New 5M Series published in 2009, by John Deere",
+          "__seccion_3__": "5M Series published in 2011, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 29, 2012",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2008 - 2018",
+          "__seccion_2__": "Model year 2008-2011 2012-2014 2015-2018",
+          "__seccion_3__": "5M Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 5085M Tires",
+          "Ag front": "11L-15 (2WD)",
+          "&nbsp": "16.9-24",
+          "Ag rear": "14.9-28",
+          "Lawn/turf front": "27/12LL-15 (2WD)",
+          "Lawn/turf rear": "22.5LL-16.1",
+          "Industrial front": "11LL-15 (2WD)",
+          "Industrial rear": "19.5L-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Ground clearance": "18.8 inches (front axle) 47 cm",
+          "Front tread": "52.8 to 75 inches 134 to 190 cm (4WD)",
+          "Rear tread": "53.1 to 80.9 inches 134 to 205 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 5085M Weight",
+          "Operating": "6,393 lbs (2WD ROPS) 2899 kg",
+          "&nbsp": "8,000 lbs (4WD cab) 3628 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 29, 2012"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2008 - 2018",
+          "__seccion_2__": "Model year 2008-2011 2012-2014 2015-2018",
+          "__seccion_3__": "5M Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1960"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1960",
+          "__seccion_2__": "Diesel 16-speed 4WD October 15 - 20, 2009 Link: Nebraska Tractor Test 1960 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "74.07 hp 55.2 kW",
+          "Fuel use": "4.6 gal/hour 17.4 l/hour",
+          "Power at rated engine speed": "70.37 hp 52.5 kW",
+          "Power at rated PTO speed": "73.29 hp 54.7 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 29, 2012"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2008 - 2018",
+          "__seccion_2__": "Model year 2008-2011 2012-2014 2015-2018",
+          "__seccion_3__": "5M Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech M 4045",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "276 ci 4.5 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Tier 3",
+          "Power": "85 hp 63.4 kW",
+          "Air cleaner": "dry",
+          "Rated RPM": "2200",
+          "Torque": "331 lb-ft 448.8 Nm",
+          "Torque RPM": "1600",
+          "Starter volts": "12",
+          "Coolant capacity": "12 qts 11.4 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "8.8 qts 8.3 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 29, 2012"
+        }
+      ]
+    }
+  }
+}

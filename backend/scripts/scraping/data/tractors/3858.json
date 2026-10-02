@@ -1,0 +1,248 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/8/5/3858-massey-ferguson-5470.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/8/5/3858-massey-ferguson-5470-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/8/5/3858-massey-ferguson-5470-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/8/5/3858-massey-ferguson-5470-engine.html",
+    "source_id": 3858,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:31:49.781Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3858/3858-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 83 KB"
+  },
+  "tractor_data_id": 3858,
+  "name": "Massey Ferguson 5470",
+  "brand": "Massey Ferguson",
+  "model": "5470",
+  "years": {
+    "desde": 2005,
+    "hasta": 2013
+  },
+  "model_year": 2005,
+  "engine_power_hp": 125,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 105,
+  "pto_tested_hp": 110.6,
+  "drawbar_tested_hp": 88.5,
+  "weight_kg": 4710,
+  "weight_basis": "4WD Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 42.3,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 18.4R38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "10.00-16",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 16,
+    "diameter_mm_est": 838,
+    "tipo": "Diagonal",
+    "texto": "10.00-16"
+  },
+  "fuel_consumption_lph": 22.7,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3858/3858-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3858/3858-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td3858.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2005 - 2013",
+          "__seccion_2__": "Model year 2005-2008 2008-2013",
+          "__seccion_3__": "5400 Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Beauvais, France"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "5470SA": "low-profile and narrow, special applications"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5470 Engine",
+          "__seccion_2__": "Sisu 4.4L 4-cyl diesel",
+          "Fuel tank": "38 gal 143.8 L",
+          "&nbsp": "55 gal (with optional tank) 208.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5470 Transmission",
+          "__seccion_2__": "16-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5470 Power",
+          "Engine": "125 hp 93.2 kW",
+          "Drawbar (claimed)": "89 hp 66.4 kW",
+          "PTO (claimed)": "105 hp 78.3 kW",
+          "Drawbar (tested)": "88.5 hp 66.0 kW",
+          "PTO (tested)": "110.6 hp 82.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Independent hydraulic wet disc brakes",
+          "__seccion_5__": "cab standard"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 5470 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "&nbsp": "29 gpm (closed) 109.8 lpm",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "2 to 5",
+          "Total flow": "15 gpm (open) 56.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at 24\"/610mm)": "7000 lbs 3175 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000",
+          "&nbsp": "540E/1000 Opt Optional"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "105.1 inches 266 cm",
+          "Weight": "9545 to 10385 pounds",
+          "Front tire": "10.00-16",
+          "Rear tire": "18.4R38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging amps": "80",
+          "&nbsp": "120 Opt Optional",
+          "Battery CCA": "505",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "5400 Series published in 2006, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2005 - 2013",
+          "__seccion_2__": "Model year 2005-2008 2008-2013",
+          "__seccion_3__": "5400 Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5470 Tires",
+          "Ag front": "10.00-16 (2WD)",
+          "Ag rear": "18.4R38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "105.1 inches 266 cm",
+          "Length": "171.3 inches 435 cm",
+          "Width": "79.3 inches 201 cm",
+          "Height": "110.2 inches 279 cm",
+          "2WD Operating weight": "9545 lbs 4329 kg",
+          "4WD Operating weight": "10385 lbs 4710 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2005 - 2013",
+          "__seccion_2__": "Model year 2005-2008 2008-2013",
+          "__seccion_3__": "5400 Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2359"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2359",
+          "__seccion_2__": "Diesel 16-speed 4WD May 2006 - 2006, Link: OCED Tractor Test 2359 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "88.5 hp 66.0 kW",
+          "Fuel use": "6.4 gal/hour 24.2 l/hour",
+          "Power at rated engine speed": "108.0 hp 80.5 kW",
+          "Power at rated PTO speed": "110.5 hp 82.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 9 used for power test.",
+          "Max pull": "9510 lbs 4313 kg",
+          "__seccion_6__": "Gear 1D used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2005 - 2013",
+          "__seccion_2__": "Model year 2005-2008 2008-2013",
+          "__seccion_3__": "5400 Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Sisu 44DT",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled vertical",
+          "Displacement": "268 ci 4.4 L",
+          "Bore/Stroke": "4.252x4.724 inches 108 x 120 mm",
+          "Emissions": "Tier II",
+          "Power": "125 hp 93.2 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "18.5:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5470 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2024"
+        }
+      ]
+    }
+  }
+}

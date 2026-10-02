@@ -1,0 +1,293 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/4/145-john-deere-4755.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/4/145-john-deere-4755-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/1/4/145-john-deere-4755-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/4/145-john-deere-4755-engine.html",
+    "source_id": 145,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:50:09.685Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/145/145-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 68 KB"
+  },
+  "tractor_data_id": 145,
+  "name": "John Deere 4755",
+  "brand": "John Deere",
+  "model": "4755",
+  "years": {
+    "desde": 1989,
+    "hasta": 1991
+  },
+  "model_year": 1989,
+  "engine_power_hp": 187.7,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": 175,
+  "pto_tested_hp": 180.35,
+  "drawbar_tested_hp": 156.97,
+  "weight_kg": 7348,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 95.5,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 20.8-38",
+  "tire_width_mm": 528,
+  "tire_diameter_mm": 1863,
+  "tire_front": {
+    "original": "11.00-16",
+    "radial": false,
+    "width_mm": 279,
+    "rim_in": 16,
+    "diameter_mm_est": 881,
+    "tipo": "Diagonal",
+    "texto": "11.00-16"
+  },
+  "fuel_consumption_lph": 36.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/145/145-td3a.jpg",
+  "image_url": "/uploads/tractors/td145.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1989 - 1991",
+          "__seccion_2__": "4055 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "Original price": "$73,000"
+        },
+        {
+          "__seccion_1__": "John Deere 4755 Engine",
+          "__seccion_2__": "John Deere 7.6L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4755 Transmissions",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "15-speed full power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4755 Power",
+          "Engine (net)": "187.7 hp 140.0 kW",
+          "Drawbar (claimed)": "151 hp 112.6 kW",
+          "PTO (claimed)": "175 hp 130.5 kW",
+          "Drawbar (tested)": "156.97 hp 117.1 kW",
+          "PTO (tested)": "180.35 hp 134.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Sound-Gard cab."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 4755 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "102 gal 386.1 L",
+          "Hydraulic system": "18.5 gal (PowerShift) 70.0 L",
+          "&nbsp": "26.9 gal (QuadRange) 101.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "18.5 gal (PowerShift) 70.0 L",
+          "&nbsp": "26.9 gal (QuadRange) 101.8 L",
+          "Pressure": "2530 psi 174.4 bar",
+          "Valves": "2 or 3",
+          "Pump flow": "29.5 gpm 111.7 lpm",
+          "SCV flow": "20.6 gpm 78.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Rear lift": "5,821 lbs 2640 kg",
+          "&nbsp": "7,057 lbs (55mm lift cylinder) 3201 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic",
+          "Rear PTO Type": "1000 (1.75)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "118.5 inches 300 cm",
+          "4WD Wheelbase": "117.1 inches 297 cm",
+          "Weight": "16200 to 18165 pounds",
+          "Front tire": "11.00-16",
+          "Rear tire": "20.8-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4755 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "4755 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the rear of the 4755, above the PTO shaft."
+        },
+        {
+          "1989": "1001",
+          "1990": "3001",
+          "1991": "6501",
+          "__seccion_1__": "4755 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "Batteries": "2",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Powerful Pickups published in 1990, by John Deere",
+          "__seccion_3__": "New Firepower published in 1988, by John Deere",
+          "__seccion_4__": "Operator's Manual 4555, 4755, and 4955 Tractors (OMAR110016) published in 1989",
+          "__seccion_5__": "Operator's Manual 4055, 4255, 4455, 4755, and 4955 Tractors (OMAR110280) published in 1991",
+          "__seccion_6__": "Row-Crop Tractors Product Information Handbook published in 1989, by John Deere",
+          "__seccion_7__": "The 1991 Long Green Line Agricultural Equipment Review published by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 26, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1989 - 1991",
+          "__seccion_2__": "4055 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 4755 Tires",
+          "Ag front": "11.00-16",
+          "Ag rear": "20.8-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "118.5 inches 300 cm",
+          "4WD Wheelbase": "117.1 inches 297 cm",
+          "Width": "118 inches * Minimum width with standard axle. 299 cm",
+          "Height (cab)": "118.8 inches 301 cm",
+          "Shipping weight": "16,200 lbs 7348 kg",
+          "Operating weight": "18,165 lbs (4WD Powershift) 8239 kg",
+          "Rack-and-pinion rear axle": "3.94 by 108 inches 100 by 2743 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 26, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1989 - 1991",
+          "__seccion_2__": "4055 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "OECD 1621: diesel Powershift 4WD",
+          "__seccion_3__": "OECD 1630: diesel Quad-Range 2WD"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1621"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1621",
+          "__seccion_2__": "Diesel Powershift 4WD April 1 - May 1, 1989 Link: OCED Tractor Test 1621 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "147.76 hp 110.2 kW",
+          "Fuel use": "9.7 gal/hour 36.7 l/hour",
+          "Power at rated engine speed": "177.06 hp 132.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 12 used for power test.",
+          "Max pull": "21,481 lbs 9743 kg",
+          "__seccion_6__": "Gear 3 used for pull test."
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1630"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1630",
+          "__seccion_2__": "Diesel Quad-Range 2WD September 1 - October 1, 1989 Link: OCED Tractor Test 1630 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "156.97 hp 117.1 kW",
+          "Fuel use": "9.6 gal/hour 36.3 l/hour",
+          "Power at rated engine speed": "177.11 hp 132.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "19,898 lbs 9025 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 26, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1989 - 1991",
+          "__seccion_2__": "4055 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "466 ci 7.6 L",
+          "Bore/Stroke": "4.5625x4.75 inches 116 x 121 mm",
+          "Power (net)": "187.7 hp 140.0 kW",
+          "Air cleaner": "dry",
+          "Compression": "16:1",
+          "Rated RPM": "2200",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Oil capacity": "22 qts 20.8 L",
+          "Coolant capacity": "32 qts 30.3 L",
+          "Intake valve clearance": "0.015 inches 0.381 mm",
+          "Exhaust valve clearance": "0.020 inches 0.508 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 26, 2022"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/145/145-td4-b01.jpg"
+}

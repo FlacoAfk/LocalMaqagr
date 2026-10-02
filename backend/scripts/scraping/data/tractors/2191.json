@@ -1,0 +1,197 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/002/1/9/2191-deutz-d-7006.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/002/1/9/2191-deutz-d-7006-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/002/1/9/2191-deutz-d-7006-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 2191,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T23:01:01.545Z",
+    "foto_original": "https://www.tractordata.com/photos/F002/2191/2191-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 2 KB"
+  },
+  "tractor_data_id": 2191,
+  "name": "Deutz D 7006",
+  "brand": "Deutz",
+  "model": "D 7006",
+  "years": {
+    "desde": 1969,
+    "hasta": 1974
+  },
+  "model_year": 1969,
+  "engine_power_hp": 71,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3190,
+  "weight_basis": "4WD Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 26,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "12.5-20",
+    "radial": false,
+    "width_mm": 318,
+    "rim_in": 20,
+    "diameter_mm_est": 1048,
+    "tipo": "Diagonal",
+    "texto": "12.5-20"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F002/2191/2191-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td2191.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1969 - 1974",
+          "__seccion_2__": "06 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Deutz",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "D7006": "2WD",
+          "D7006A": "4WD"
+        },
+        {
+          "__seccion_1__": "Deutz D 7006 Engine",
+          "__seccion_2__": "Deutz 3.8L 4-cyl diesel",
+          "Fuel tank": "24.3 gal 92.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Deutz D 7006 Transmissions",
+          "__seccion_2__": "9-speed partially synchronized",
+          "__seccion_3__": "8-speed synchromesh",
+          "__seccion_4__": "12-speed synchromesh",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Deutz D 7006 Power",
+          "Engine (gross)": "71 hp 52.9 kW",
+          "Engine (net)": "66 hp 49.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "power Opt Optional",
+          "__seccion_3__": "Four-post ROPS optional. Cab optional with heater."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Deutz D 7006 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Pump flow": "7.2 gpm 27.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "5071 lbs 2300 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "94.5 inches 240 cm",
+          "Weight": "5809 to 7033 pounds",
+          "Front tire": "7.50-16",
+          "Rear tire": "16.9/14-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "D7006 published by Deutz",
+          "__seccion_3__": "D7006 published by Deutz"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 7, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1969 - 1974",
+          "__seccion_2__": "06 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Deutz D 7006 Tires",
+          "2WD Ag front": "7.50-16",
+          "4WD Ag front": "12.5-20",
+          "Ag rear": "16.9/14-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "94.5 inches 240 cm",
+          "Length": "155.9 inches 395 cm",
+          "Width": "77 inches 195 cm",
+          "Height (steering wheel)": "73.6 inches 186 cm",
+          "Height (ROPS)": "100.8 inches 256 cm",
+          "2WD Operating weight": "5809 lbs 2634 kg",
+          "4WD Operating weight": "7033 lbs 3190 kg",
+          "2WD Front tread": "55.9 to 75.6 inches 141 to 192 cm",
+          "4WD Front tread": "64.6 inches 164 cm",
+          "Rear tread": "59.5 to 79.5 inches 151 to 201 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 7, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1969 - 1974",
+          "__seccion_2__": "06 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Deutz F4L 912",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "air-cooled",
+          "Displacement": "230.1 ci 3.8 L",
+          "Bore/Stroke": "3.94x4.72 inches 100 x 120 mm",
+          "Power (net)": "66 hp 49.2 kW",
+          "Power (gross)": "71 hp 52.9 kW",
+          "Rated RPM": "2300"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 7, 2023"
+        }
+      ]
+    }
+  }
+}

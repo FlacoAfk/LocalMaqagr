@@ -1,0 +1,237 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/011/3/2/11320-john-deere-5060e.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/011/3/2/11320-john-deere-5060e-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/011/3/2/11320-john-deere-5060e-engine.html",
+    "source_id": 11320,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:11:13.767Z",
+    "foto_original": "https://www.tractordata.com/photos/F011/11320/11320-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 100 KB"
+  },
+  "tractor_data_id": 11320,
+  "name": "John Deere 5060E",
+  "brand": "John Deere",
+  "model": "5060E",
+  "years": {
+    "desde": 2015,
+    "hasta": 2022
+  },
+  "model_year": 2015,
+  "engine_power_hp": 60.5,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 48.3,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2684,
+  "weight_basis": "4WD ROPS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 17.7,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14.9-28",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1355,
+  "tire_front": {
+    "original": "9.5-24",
+    "radial": false,
+    "width_mm": 241,
+    "rim_in": 24,
+    "diameter_mm_est": 1020,
+    "tipo": "Diagonal",
+    "texto": "9.5-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F011/11320/11320-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F011/11320/11320-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td11320.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2023 -",
+          "__seccion_2__": "5E Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Pune, Maharashtra, India",
+          "Original price": "$28,714 (2023 ROPS 2WD)",
+          "__seccion_4__": "$45,679 (2023 Cab 4WD)"
+        },
+        {
+          "__seccion_1__": "John Deere 5060E Engine",
+          "__seccion_2__": "John Deere 2.9L 3-cyl diesel",
+          "ROPS Fuel tank": "19 gal 71.9 L",
+          "Cab Fuel tank": "21 gal 79.5 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5060E Transmissions",
+          "__seccion_2__": "9-speed partially synchronized",
+          "__seccion_3__": "12-speed power shuttle",
+          "__seccion_4__": "hydrostatic",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5060E Power",
+          "Engine (gross)": "60.5 hp 45.1 kW",
+          "ROPS PTO (claimed)": "48.3 hp 36.0 kW",
+          "Cab PTO (claimed)": "46.3 hp 34.5 kW",
+          "Hydro PTO (claimed)": "38.3 hp 28.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 5060E photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Rear valves": "1 or 2",
+          "Mid valves": "3 Opt Optional",
+          "Pump flow": "12.8 gpm 48.4 lpm",
+          "SCV flow": "11.4 gpm 43.1 lpm",
+          "Total flow": "18.8 gpm 71.2 lpm",
+          "Steering flow": "6 gpm 22.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "top link draft sensing",
+          "Rear lift (at ends)": "3968 lbs 1799 kg",
+          "Rear lift (at 24\"/610mm)": "3192 lbs 1447 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2100",
+          "&nbsp": "540E@1588"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "80.7 inches 204 cm",
+          "Weight": "5445 to 6702 pounds",
+          "Front tire": "11L-15",
+          "2WD Rear tire": "14.9-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5060E attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "5060E Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "60",
+          "Cab Charging amps": "110",
+          "Battery volts": "12",
+          "Battery AH": "85"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "5E Utility Tractors published in 2022, by John Deere",
+          "__seccion_3__": "5E Series Utility Tractors published in 2026, by John Deere",
+          "__seccion_4__": "Operator's Manual 5050E, 5060E, 5067E and 5057E Tractors (OMTA21460) published in 2022"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on June 12, 2026",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2023 -",
+          "__seccion_2__": "5E Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 5060E Tires",
+          "2WD Standard tires (ag)": "Front: 11L-15. Rear: 14.9-28",
+          "4WD Standard tires (ag)": "Front: 9.5-24. Rear: 14.9-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "80.7 inches 204 cm",
+          "Length": "143.3 inches 363 cm",
+          "__seccion_2__": "Flange rear axle"
+        },
+        {
+          "__seccion_1__": "John Deere 5060E Weight",
+          "2WD ROPS Shipping": "5445 lbs 2469 kg",
+          "2WD Cab Shipping": "6480 lbs 2939 kg",
+          "4WD ROPS Shipping": "5919 lbs 2684 kg",
+          "4WD Cab Shipping": "6702 lbs 3040 kg",
+          "Max Drawbar": "2470 lbs (retracted) 1120 kg",
+          "&nbsp": "1675 lbs (extended) 759 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 12, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2023 -",
+          "__seccion_2__": "5E Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 3029 EWR",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "179 ci 2.9 L",
+          "Bore/Stroke": "4.19x4.33 inches 106 x 110 mm",
+          "Emissions": "Tier IV",
+          "Emission control": "diesel exhaust catalyst and exhaust gas recirculation",
+          "Power (gross)": "60.5 hp 45.1 kW",
+          "Rated RPM": "2100",
+          "Torque": "184 lb-ft 249.5 Nm",
+          "Torque RPM": "1500",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 12, 2026"
+        }
+      ]
+    }
+  }
+}

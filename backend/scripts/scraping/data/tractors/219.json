@@ -1,0 +1,286 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/1/219-ford-naa.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/1/219-ford-naa-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/2/1/219-ford-naa-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/1/219-ford-naa-engine.html",
+    "source_id": 219,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:08:43.635Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/219/219-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 130 KB"
+  },
+  "tractor_data_id": 219,
+  "name": "Ford Golden Jubilee NAA",
+  "brand": "Ford",
+  "model": "Golden Jubilee NAA",
+  "years": {
+    "desde": 1953,
+    "hasta": 1954
+  },
+  "model_year": 1953,
+  "engine_power_hp": 30.15,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 30.15,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 26.8,
+  "weight_kg": 1156,
+  "weight_basis": "Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 14.4,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 10-28",
+  "tire_width_mm": 254,
+  "tire_diameter_mm": 1143,
+  "tire_front": {
+    "original": "5.50-16",
+    "radial": false,
+    "width_mm": 140,
+    "rim_in": 16,
+    "diameter_mm_est": 644,
+    "tipo": "Diagonal",
+    "texto": "5.50-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/219/219-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/219/219-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td219.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1953 - 1954",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Highland Park, Michigan, USA",
+          "Total built": "128,965",
+          "__seccion_4__": "Original price was $1,560 in 1954",
+          "__seccion_5__": "The Ford NAA \"Golden Jubilee\" was released as part of the 50th anniversary of Ford. The 1953 model (production began in September 1952) had a special nose badge noting the anniversary."
+        },
+        {
+          "__seccion_1__": "Ford NAA Engine",
+          "__seccion_2__": "Ford 2.2L 4-cyl gasoline",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford NAA Transmission",
+          "__seccion_2__": "4-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford NAA Power",
+          "Drawbar (claimed)": "20.2 hp 15.1 kW",
+          "PTO (claimed)": "30.15 hp 22.5 kW",
+          "Plows": "2 * Two 16-inch plows. Use of three 14-inch was common",
+          "Drawbar (tested)": "26.8 hp 20.0 kW",
+          "Belt (tested)": "31.14 hp 23.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Differential mechanical drum brakes",
+          "__seccion_5__": "Open operator station"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford NAA photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "11 gal 41.6 L",
+          "Hydraulic system": "2 gal 7.6 L",
+          "Rear axle": "8 qts 7.6 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "live",
+          "Capacity": "2 gal 7.6 L",
+          "Pressure": "2000 psi 137.9 bar",
+          "Pump flow": "4.8 gpm 18.2 lpm",
+          "Oil type": "32 o F [0 o C] ↑ : Type A Hydraulic Oil",
+          "32 o F [0 o C] ↓": ": Type C Hydraulic Oil"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position and draft control",
+          "Rear lift": "800 lbs 362 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Rear PTO Type": "540 (1.125)",
+          "Engine RPM": "545@1500"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "73.875 inches 187 cm",
+          "Weight": "2550 to 2814 pounds",
+          "Front tire": "5.50-16",
+          "Rear tire": "10-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "NAA Serial Number Location",
+          "__seccion_2__": "Front of engine block (early) or left side of transmission case (later)."
+        },
+        {
+          "1952": "NAA 1",
+          "1953": "NAA 4930",
+          "1954": "NAA 77478",
+          "__seccion_1__": "NAA Serial Numbers",
+          "Final": "NAA 128965",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Links",
+          "__seccion_2__": "N Tractor Club :"
+        },
+        {
+          "__seccion_1__": "Belt Pulley",
+          "Diameter": "9 inches 22 cm",
+          "RPM": "1358",
+          "Speed": "3199 ft/min 975.06 meters/min"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive",
+          "Charging system": "generator",
+          "Charging amps": "20",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "New Ford Tractor published in 1953",
+          "__seccion_3__": "Onwer's Manual Model NAA (T-400-K52) published in 1952"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 2, 2022",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1953 - 1954",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Ford NAA Tires",
+          "Ag front": "5.50-16",
+          "&nbsp": "6.00-16",
+          "Ag rear": "10-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "73.875 inches 187 cm",
+          "Length": "118.875 inches 301 cm",
+          "Width": "64.75 inches 164 cm",
+          "Height": "57.25 inches 145 cm",
+          "Ground clearance": "13 inches * Clearance at tractor frame. 33 cm",
+          "Clearance (front axle)": "21 inches 53 cm",
+          "Clearance (rear axle)": "21 inches 53 cm",
+          "Front tread": "48 to 76 inches 121 to 193 cm",
+          "Rear tread": "48 to 76 inches 121 to 193 cm"
+        },
+        {
+          "__seccion_1__": "Ford NAA Weight",
+          "Shipping": "2550 lbs 1156 kg",
+          "Operating": "2814 lbs 1276 kg",
+          "Ballasted": "4392 lbs 1992 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 2, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1953 - 1954",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 494"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 494",
+          "__seccion_2__": "Gasoline 5-speed 2WD May 22 - June 1, 1953 Link: Nebraska Tractor Test 494 file",
+          "Belt power (max)": "31.14 hp 23.2 kW",
+          "Belt fuel use (max)": "2.9 gal/hour 11.0 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "26.8 hp 20.0 kW",
+          "__seccion_4__": "Gear 2 used for power test.",
+          "Max pull": "3,232 lbs 1466 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 2, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1953 - 1954",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder 8-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "134 ci 2.2 L",
+          "Bore/Stroke": "3.4375x3.60 inches 87 x 91 mm",
+          "Compression": "6.6:1",
+          "Rated RPM": "2000",
+          "Idle RPM": "450-2000",
+          "Operating RPM": "1500-2000",
+          "Torque": "110 lb-ft 149.2 Nm",
+          "Torque RPM": "1400",
+          "Firing order": "1-2-4-3",
+          "Starter volts": "6",
+          "Coolant capacity": "15 qts 14.2 L",
+          "Sparkplug": "H-10 14mm",
+          "Sparkplug gap": "0.025 inches 0.635 mm",
+          "Point gap": "0.025 inches 0.635 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "5 qts 4.7 L"
+        },
+        {
+          "__seccion_1__": "Ford NAA Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 2, 2022"
+        }
+      ]
+    }
+  }
+}

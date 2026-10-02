@@ -1,0 +1,258 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/3/833-massey-ferguson-1155.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/3/833-massey-ferguson-1155-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/8/3/833-massey-ferguson-1155-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/3/833-massey-ferguson-1155-engine.html",
+    "source_id": 833,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:26:21.252Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/833/833-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 47 KB"
+  },
+  "tractor_data_id": 833,
+  "name": "Massey Ferguson 1155",
+  "brand": "Massey Ferguson",
+  "model": "1155",
+  "years": {
+    "desde": 1973,
+    "hasta": 1978
+  },
+  "model_year": 1973,
+  "engine_power_hp": 140,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 140,
+  "pto_tested_hp": 140.97,
+  "drawbar_tested_hp": 117.8,
+  "weight_kg": 5329,
+  "weight_basis": "Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 69.5,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": null,
+  "fuel_consumption_lph": 34.4,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/833/833-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/833/833-photo-001.jpg",
+  "image_url": "/uploads/tractors/td833.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1973 - 1978",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Original price was $25,000 in 1978"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1155 Engine",
+          "__seccion_2__": "Perkins 8.9L 8-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1155 Transmissions",
+          "__seccion_2__": "12-speed two-speed power shift",
+          "__seccion_3__": "8-speed gear",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1155 Power",
+          "Drawbar (claimed)": "117 hp 87.2 kW",
+          "PTO (claimed)": "140 hp 104.4 kW",
+          "Drawbar (tested)": "117.8 hp 87.8 kW",
+          "PTO (tested)": "140.97 hp 105.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 1155 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "55 gal 208.2 L",
+          "Hydraulic system": "22 gal 83.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "22 gal 83.3 L",
+          "Pressure": "2100 psi 144.8 bar",
+          "Pump flow": "20 gpm 75.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/III",
+          "Control": "position and draft control"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@2000",
+          "&nbsp": "1000@2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "109 inches 276 cm",
+          "Weight": "11750 to 14905 pounds",
+          "Front tire": "14L-16",
+          "Rear tire": "18.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1155 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1972": "9B36563",
+          "1973": "9B36851",
+          "1974": "9B42685",
+          "1975": "9B50494",
+          "1976": "9B58735",
+          "1977": "9B66276",
+          "1978": "9B74241",
+          "1979": "9B76058",
+          "__seccion_1__": "1155 Serial Numbers",
+          "Location:": "Ahead of instrument panel on left side.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Complete Farm Machinery Guide published in 1976, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 25, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1973 - 1978",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1155 Tires",
+          "Ag front": "14L-16",
+          "Ag rear": "18.4-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "109 inches 276 cm",
+          "Length": "180 inches 457 cm",
+          "Clearance (front axle)": "26.3 inches 66 cm",
+          "Clearance (drawbar)": "16.1 inches 40 cm",
+          "Rear axle": "3.25 by 114 inches 82 by 2895 mm (long axle)",
+          "Front tread": "60 to 88 inches 152 to 223 cm",
+          "Rear tread": "60 to 120 inches 152 to 304 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1155 Weight",
+          "Shipping": "11750 lbs 5329 kg",
+          "&nbsp": "13000 lbs (cab) 5896 kg",
+          "Operating": "14905 lbs * With 18.4-38 duals. 6760 kg",
+          "Ballasted": "20460 lbs 9280 kg"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1155 Height",
+          "Steering wheel": "79 inches 200 cm",
+          "Hood": "77.6 inches 197 cm",
+          "Cab": "113.5 inches 288 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 25, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1973 - 1978",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1134"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1134",
+          "__seccion_2__": "Diesel 12-speed 2WD June 5 - 15, 1973 Link: Nebraska Tractor Test 1134 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "140.97 hp 105.1 kW",
+          "Fuel use": "9.0 gal/hour 34.1 l/hour",
+          "Power at rated PTO speed": "134.11 hp 100.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "117.8 hp 87.8 kW",
+          "__seccion_5__": "Gear 5 used for power test.",
+          "Max pull": "15630 lbs 7089 kg",
+          "__seccion_6__": "Gear 1L MP-High used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 25, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1973 - 1978",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins AV8.540",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "8-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "540 ci 8.9 L",
+          "Bore/Stroke": "4.25x4.75 inches 108 x 121 mm",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dry",
+          "Compression": "17.5:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12",
+          "Oil capacity": "20 qts 18.9 L",
+          "Coolant capacity": "50 qts 47.3 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 25, 2025"
+        }
+      ]
+    }
+  }
+}

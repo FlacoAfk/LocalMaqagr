@@ -1,0 +1,258 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/8/4/1844-kubota-m9540.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/8/4/1844-kubota-m9540-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/8/4/1844-kubota-m9540-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1844,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:54:25.536Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1844/1844-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 96 KB"
+  },
+  "tractor_data_id": 1844,
+  "name": "Kubota M9540",
+  "brand": "Kubota",
+  "model": "M9540",
+  "years": {
+    "desde": 2006,
+    "hasta": 2013
+  },
+  "model_year": 2006,
+  "engine_power_hp": 95,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": 84,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2499,
+  "weight_basis": "&nbsp",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 30.8,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4-30",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1557,
+  "tire_front": {
+    "original": "12.4-24",
+    "radial": false,
+    "width_mm": 315,
+    "rim_in": 24,
+    "diameter_mm_est": 1145,
+    "tipo": "Diagonal",
+    "texto": "12.4-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1844/1844-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1844/1844-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1844.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2006 - 2013",
+          "__seccion_2__": "M40 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Utility tractor",
+          "Original price": "$32,160 (2011)"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "M9540F": "2WD ROPS sync-shuttle",
+          "M9540FC": "2WD cab sync-shuttle",
+          "M9540DT": "4WD ROPS sync-shuttle",
+          "M9540HD": "4WD ROPS hyd-shuttle",
+          "M9540HD12": "4WD ROPS 12-speed",
+          "M9540DTC": "4WD cab sync-shuttle",
+          "M9540HDC": "4WD cab hyd-shuttle",
+          "M9540HDC12": "4WD cab 12-speed",
+          "M9540HDC24": "4WD cab 24-speed",
+          "M9540HFL": "2WD low-profile",
+          "M9450HDL": "4WD low-profile"
+        },
+        {
+          "__seccion_1__": "Kubota M9540 Engine",
+          "__seccion_2__": "Kubota 3.8L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M9540 Transmissions",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "8-speed power shuttle",
+          "__seccion_4__": "12-speed power shuttle",
+          "__seccion_5__": "24-speed partial power shift",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M9540 Power",
+          "Engine (net)": "95 hp 70.8 kW",
+          "PTO (claimed)": "84 hp 62.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post foldable ROPS with optional canopy. Ultra Grand Cab optional with heat and air-conditioning"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota M9540 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "ROPS Fuel": "23.8 gal 90.1 L",
+          "Cab Fuel": "29.1 gal 110.1 L",
+          "Hydraulic system": "14.25 gal 53.9 L",
+          "Front axle": "10 qts 9.5 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "14.25 gal 53.9 L",
+          "Valves": "1 to 3",
+          "Pump flow": "17 gpm 64.3 lpm",
+          "Total flow": "23.1 gpm 87.4 lpm",
+          "Steering flow": "6.1 gpm 23.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at ends)": "5,510 lbs 2499 kg",
+          "&nbsp": "7,275 lbs Opt Optional 3299 kg",
+          "Rear lift (at 24\"/610mm)": "4,630 lbs 2100 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "&nbsp": "540/1000 Opt Optional",
+          "Engine RPM": "540@2205"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "88.6 inches 225 cm",
+          "Weight": "5095 to 6175 pounds",
+          "Front tire": "7.50-18",
+          "2WD Rear tire": "18.4-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota M9540 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "ROPS Charging amps": "45",
+          "Cab Charging amps": "60",
+          "&nbsp": "80 Opt Optional",
+          "Battery CCA": "900",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "M6040/M7040/M8540/M9540 published in 2018, by Kubota",
+          "__seccion_3__": "M5040/M6040/M7040/M8540/M9540 published in 2005, by Kubota",
+          "__seccion_4__": "M6040/M7040/M8540/M9540 (3C043-9971-2) published in 2006",
+          "__seccion_5__": "New Product Guide M-Series Tractors published in 2005, by Kubota"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 12, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2006 - 2013",
+          "__seccion_2__": "M40 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M9540 Tires",
+          "2WD Standard tires (ag)": "Front: 7.50-18. Rear: 18.4-30",
+          "4WD Standard tires (ag)": "Front: 12.4-24. Rear: 18.4-30",
+          "2WD Optional tires (ag)": "Front: 10.00-16. Rear: 18.4R30",
+          "4WD Optional tires (ag)": "Front: 12.4R24. Rear: 18.4R30",
+          "2WD Lawn/turf rear": "18.4-26",
+          "4WD Industrial front": "12.5/80-18",
+          "4WD Industrial rear": "19.5L-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "88.6 inches 225 cm",
+          "2WD Length": "153 inches 388 cm",
+          "4WD Length": "148 inches 375 cm",
+          "Width": "78 inches 198 cm",
+          "Height (ROPS)": "98 inches 248 cm",
+          "Height (cab)": "102 inches 259 cm",
+          "2WD Clearance (front axle)": "20.4 inches 51 cm",
+          "4WD Clearance (front axle)": "19.7 inches 50 cm",
+          "2WD Front tread": "56.7 to 80.3 inches 144 to 203 cm",
+          "4WD Front tread": "59.8 to 63.8 inches 151 to 162 cm",
+          "Rear tread": "59.8 to 75.6 inches 151 to 192 cm"
+        },
+        {
+          "__seccion_1__": "Kubota M9540 Weight",
+          "__seccion_2__": "5,095 lbs (2WD ROPS) 2311 kg",
+          "&nbsp": "6,175 lbs (4WD cab) 2800 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 12, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2006 - 2013",
+          "__seccion_2__": "M40 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V3800-DI-T",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder 16-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "230 ci 3.8 L",
+          "Bore/Stroke": "3.94x4.72 inches 100 x 120 mm",
+          "Emissions": "Tier III",
+          "Emission control": "EGR",
+          "Power (net)": "95 hp 70.8 kW",
+          "Air cleaner": "dual element dry",
+          "Rated RPM": "2600",
+          "Starter volts": "12",
+          "Oil capacity": "11.3 qts 10.7 L",
+          "Coolant capacity": "9.5 qts 9.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 12, 2025"
+        }
+      ]
+    }
+  }
+}

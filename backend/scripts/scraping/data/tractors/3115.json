@@ -1,0 +1,289 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/1/1/3115-new-holland-ts110.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/1/1/3115-new-holland-ts110-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/1/1/3115-new-holland-ts110-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/1/1/3115-new-holland-ts110-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3115,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:23:34.224Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3115/3115-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 66 KB"
+  },
+  "tractor_data_id": 3115,
+  "name": "New Holland TS110",
+  "brand": "New Holland",
+  "model": "TS110",
+  "years": {
+    "desde": 1999,
+    "hasta": 2003
+  },
+  "model_year": 1999,
+  "engine_power_hp": 110,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 90,
+  "pto_tested_hp": 98.4,
+  "drawbar_tested_hp": 82.7,
+  "weight_kg": 3774,
+  "weight_basis": "4WD ROPS",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 46.2,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "14.9-28",
+    "radial": false,
+    "width_mm": 378,
+    "rim_in": 28,
+    "diameter_mm_est": 1355,
+    "tipo": "Diagonal",
+    "texto": "14.9-28"
+  },
+  "fuel_consumption_lph": 21.6,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3115/3115-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3115/3115-photo-001.jpg",
+  "image_url": "/uploads/tractors/td3115.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1999 - 2003",
+          "__seccion_2__": "TS Series"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Built in Basildon, England"
+        },
+        {
+          "__seccion_1__": "New Holland TS110 Engine",
+          "__seccion_2__": "New Holland 5.0L 4-cyl diesel",
+          "Fuel tank": "34 gal 128.7 L",
+          "&nbsp": "42 gal Opt Optional 159.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TS110 Transmissions",
+          "__seccion_2__": "8-speed unsynchronized gear",
+          "__seccion_3__": "16-speed two-speed power shift",
+          "__seccion_4__": "12-speed",
+          "__seccion_5__": "24-speed",
+          "__seccion_6__": "16-speed four-speed power shift",
+          "__seccion_7__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TS110 Power",
+          "Engine": "110 hp 82.0 kW",
+          "PTO (claimed)": "90 hp 67.1 kW",
+          "Drawbar (tested)": "82.7 hp 61.7 kW",
+          "PTO (tested)": "98.4 hp 73.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "&nbsp": "electro-hydraulic front and rear Opt Optional",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic Opt Optional",
+          "__seccion_5__": "Two-post folding ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland TS110 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "&nbsp": "2500 psi (4WD) 172.4 bar",
+          "Pressure": "2500 psi 172.4 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "9.3 gpm 35.2 lpm",
+          "Steering flow": "9.1 gpm 34.4 lpm",
+          "Steering press.": "2100 psi (2WD) 144.8 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at 24\"/610mm)": "4200 lbs 1905 kg",
+          "&nbsp": "8598 lbs (two rams, Elec draft control) 3900 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@1900",
+          "&nbsp": "1000@2060 (shiftable)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "92.1 inches 233 cm",
+          "4WD Wheelbase": "93 inches 236 cm",
+          "Weight": "7308 to 10119 pounds",
+          "Front tire": "14.9-28",
+          "4WD Rear tire": "18.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "TS110 Serial Numbers",
+          "Location:": "Serial number decal inside the hood on the right side of the tractor."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "55",
+          "Cab Charging amps": "100",
+          "Batteries": "1",
+          "&nbsp": "2 * Second battery optional with cabin.",
+          "Battery CCA": "800",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "TS Tractors 70 to 90 PTO hp published in 1998, by New Holland",
+          "__seccion_3__": "TS Tractors 70 to 90 hp published in 2000, by New Holland",
+          "__seccion_4__": "Series TS published in 2000, by New Holland",
+          "__seccion_5__": "TS Models TS 90, TS 110 & TS 120 published by New Holland",
+          "__seccion_6__": "North American Buyer's Guide published in 1997, by New Holland",
+          "__seccion_7__": "Operator's Manual TS90 - TS100 - TS110: EconoShift (86562958) published in 1998",
+          "__seccion_8__": "Operator's Manual TS90 - TS100 - TS110: Synchro Command and ElectroShift (86562959) published in 1998",
+          "__seccion_9__": "TS90 TS100 TS110 TS115 Operator's Manual (86630281) published in 2001",
+          "__seccion_10__": "TS90 TS100 TS110 Repair Manual (86572173) published in 1998"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on March 23, 2026",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1999 - 2003",
+          "__seccion_2__": "TS Series"
+        },
+        {
+          "__seccion_1__": "New Holland TS110 Tires",
+          "4WD Standard tires (ag)": "Front: 14.9-28. Rear: 18.4-38",
+          "Ag front": "7.50-16",
+          "Ag rear": "16.9-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "92.1 inches 233 cm",
+          "4WD Wheelbase": "93 inches 236 cm",
+          "2WD Length": "150.2 inches 381 cm",
+          "4WD Length": "158.9 inches 403 cm",
+          "Width": "79.2 inches (cab) 201 cm",
+          "&nbsp": "76.9 inches (tires only) 195 cm",
+          "Ground clearance": "15.5 inches 39 cm",
+          "2WD Front tread": "56 to 89 inches 142 to 226 cm",
+          "4WD Front tread": "56 to 84 inches 142 to 213 cm",
+          "Rear tread": "60 to 80 inches 152 to 203 cm"
+        },
+        {
+          "__seccion_1__": "New Holland TS110 Weight",
+          "2WD ROPS": "7308 lbs 3314 kg",
+          "4WD ROPS": "8322 lbs 3774 kg",
+          "2WD Cab": "8708 lbs 3949 kg",
+          "4WD Cab": "10119 lbs 4589 kg"
+        },
+        {
+          "__seccion_1__": "New Holland TS110 Height",
+          "ROPS": "113.7 inches 288 cm",
+          "Cab": "106.8 inches 271 cm",
+          "Exhaust": "111.5 inches 283 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 23, 2026"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1999 - 2003",
+          "__seccion_2__": "TS Series"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1834"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1834",
+          "__seccion_2__": "Diesel 24-speed 4WD August 1998 - June 1999, Link: OCED Tractor Test 1834 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "98.4 hp 73.4 kW",
+          "Fuel use": "5.6 gal/hour 21.2 l/hour",
+          "Power at rated PTO speed": "97.8 hp 72.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "82.7 hp 61.7 kW",
+          "__seccion_5__": "Gear 2MH used for power test.",
+          "Max pull": "10375 lbs 4706 kg",
+          "__seccion_6__": "Gear 1LH used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 23, 2026"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1999 - 2003",
+          "__seccion_2__": "TS Series"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "New Holland Genesis",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "304 ci 5.0 L",
+          "Bore/Stroke": "4.40x5.00 inches 112 x 127 mm",
+          "Power": "110 hp 82.0 kW",
+          "Compression": "17.5:1",
+          "Rated RPM": "2070",
+          "Torque": "328 lb-ft 444.8 Nm",
+          "Torque RPM": "1400",
+          "Firing order": "1-3-4-2",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "ROPS Coolant capacity": "14.8 qts 14.0 L",
+          "Cab Coolant capacity": "16.8 qts 15.9 L",
+          "Intake valve clearance": "0.016 inches * Cold 0.406 mm",
+          "Exhaust valve clearance": "0.019 inches * Cold 0.483 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "12 qts 11.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 23, 2026"
+        }
+      ]
+    }
+  }
+}

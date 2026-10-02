@@ -1,0 +1,236 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/7/7/1778-zetor-10741.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/7/7/1778-zetor-10741-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/7/7/1778-zetor-10741-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/7/7/1778-zetor-10741-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1778,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:50:51.210Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1778/1778-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 51 KB"
+  },
+  "tractor_data_id": 1778,
+  "name": "Zetor 10741",
+  "brand": "Zetor",
+  "model": "10741",
+  "years": {
+    "desde": 2004,
+    "hasta": 2007
+  },
+  "model_year": 2004,
+  "engine_power_hp": 101,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 91,
+  "pto_tested_hp": 92.8,
+  "drawbar_tested_hp": 72.7,
+  "weight_kg": 4309,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 35.1,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "14.9-24",
+    "radial": false,
+    "width_mm": 378,
+    "rim_in": 24,
+    "diameter_mm_est": 1253,
+    "tipo": "Diagonal",
+    "texto": "14.9-24"
+  },
+  "fuel_consumption_lph": 22.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1778/1778-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1778/1778-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1778.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2004 - 2007"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Zetor",
+          "__seccion_2__": "Built in Brno, Czechoslovakia"
+        },
+        {
+          "__seccion_1__": "Zetor 10741 Engine",
+          "__seccion_2__": "Zetor 4.2L 4-cyl diesel",
+          "Fuel tank": "48 gal 181.7 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 10741 Transmission",
+          "__seccion_2__": "24-speed three-speed power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 10741 Power",
+          "Engine": "101 hp 75.3 kW",
+          "PTO (claimed)": "91 hp 67.9 kW",
+          "Drawbar (tested)": "72.7 hp 54.2 kW",
+          "PTO (tested)": "92.8 hp 69.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "electro-pneumatic rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Zetor 10741 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2700 psi 186.2 bar",
+          "Valves": "3",
+          "Pump flow": "19 gpm 71.9 lpm",
+          "Total flow": "25 gpm 94.6 lpm",
+          "Steering flow": "6 gpm 22.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift (at ends)": "10800 lbs 4898 kg",
+          "Rear lift (at 24\"/610mm)": "9300 lbs 4218 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "94 inches 238 cm",
+          "Weight": "9500 lbs 4309 kg",
+          "Front tire": "14.9-24",
+          "Rear tire": "18.4R-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Zetor 10741 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "70",
+          "Battery CCA": "800",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Forterra Series Tractors published in 2004, by Zetor"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on November 30, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2004 - 2007"
+        },
+        {
+          "__seccion_1__": "Zetor 10741 Tires",
+          "Ag front": "14.9-24",
+          "Ag rear": "18.4R-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "94 inches 238 cm",
+          "Length": "170 inches 431 cm",
+          "Width": "87 inches 220 cm",
+          "Height (cab)": "109 inches 276 cm",
+          "Weight": "9500 lbs 4309 kg",
+          "Ground clearance": "19 inches 48 cm",
+          "Front tread": "67.5 to 80 inches 171 to 203 cm",
+          "Rear tread": "62 to 71 inches 157 to 180 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 30, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2004 - 2007"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1774"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1774",
+          "__seccion_2__": "Diesel 24-speed 4WD March 1998 - June 1998, Link: OCED Tractor Test 1774 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "72.7 hp 54.2 kW",
+          "Fuel use": "5.5 gal/hour 20.8 l/hour",
+          "Power at rated engine speed": "88.0 hp 65.6 kW",
+          "Power at rated PTO speed": "91.3 hp 68.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "7890 lbs 3578 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 30, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2004 - 2007"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Zetor",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "253.6 ci 4.2 L",
+          "Bore/Stroke": "4.134x4.724 inches 105 x 120 mm",
+          "Power": "101 hp 75.3 kW",
+          "Pre-heating": "glow plugs",
+          "&nbsp": "block heater Opt Optional",
+          "Compression": "17.0:1",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 30, 2025"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/7/4/1742-zetor-super-p.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/7/4/1742-zetor-super-p-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/7/4/1742-zetor-super-p-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1742,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:48:55.297Z"
+  },
+  "tractor_data_id": 1742,
+  "name": "Zetor Super P",
+  "brand": "Zetor",
+  "model": "Super P",
+  "years": {
+    "desde": 1956,
+    "hasta": 1958
+  },
+  "model_year": 1956,
+  "engine_power_hp": 42,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4199,
+  "weight_basis": "Weight",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 15.4,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": null,
+  "photo_url_large": null,
+  "image_url": null,
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Zetor",
+          "__seccion_2__": "Agricultural Crawler tractor",
+          "__seccion_3__": "Built in Brno, Czechoslovakia"
+        },
+        {
+          "__seccion_1__": "Zetor Super P Engine",
+          "__seccion_2__": "Zetor 4.2L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Zetor Super P Transmission",
+          "__seccion_2__": "5-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Zetor Super P Power",
+          "Engine": "42 hp 31.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "crawler",
+          "__seccion_2__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Zetor Super P are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tracks",
+          "Wheelbase": "67.1 inches 170 cm",
+          "Weight": "9259 lbs 4199 kg",
+          "__seccion_2__": "Tracks",
+          "__seccion_3__": "Full dimensions and tracks ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 23, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Zetor Super P Tracks"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "67.1 inches 170 cm",
+          "Length": "131.1 inches 332 cm",
+          "Width": "65.4 inches 166 cm",
+          "Height": "78.7 inches 199 cm",
+          "Weight": "9259 lbs 4199 kg",
+          "Gauge": "68.1 inches 172 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 23, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Zetor",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "253.6 ci 4.2 L",
+          "Bore/Stroke": "4.134x4.724 inches 105 x 120 mm",
+          "Power": "42 hp 31.3 kW",
+          "Compression": "16.5:1",
+          "Rated RPM": "1500"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 23, 2022"
+        }
+      ]
+    }
+  }
+}

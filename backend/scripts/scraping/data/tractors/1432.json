@@ -1,0 +1,227 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/4/3/1432-belarus-525.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/4/3/1432-belarus-525-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/4/3/1432-belarus-525-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1432,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:25:07.702Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1432/1432-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 800px/q55 → 50 KB"
+  },
+  "tractor_data_id": 1432,
+  "name": "Belarus 525",
+  "brand": "Belarus",
+  "model": "525",
+  "years": {
+    "desde": 1983,
+    "hasta": 1996
+  },
+  "model_year": 1983,
+  "engine_power_hp": 65,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 63,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2948,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 23.1,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 15.5-38",
+  "tire_width_mm": 394,
+  "tire_diameter_mm": 1634,
+  "tire_front": {
+    "original": "11.20-20",
+    "radial": false,
+    "width_mm": 284,
+    "rim_in": 20,
+    "diameter_mm_est": 992,
+    "tipo": "Diagonal",
+    "texto": "11.20-20"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1432/1432-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1432/1432-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td1432.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1983 - 1996",
+          "__seccion_2__": "Progress Series"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Belarus",
+          "__seccion_2__": "Built in Minsk, Belarus",
+          "__seccion_3__": "Original price was $18,000 in 1996"
+        },
+        {
+          "505": "2WD",
+          "525": "4WD",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Belarus 525 Engine",
+          "__seccion_2__": "MTZ 4.8L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Belarus 525 Transmission",
+          "__seccion_2__": "9-speed unsynchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Belarus 525 Power",
+          "Engine": "65 hp 48.5 kW",
+          "PTO (claimed)": "63 hp 47.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical disc brakes",
+          "__seccion_5__": "Open operator station. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Belarus 525 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "34 gal 128.7 L",
+          "Hydraulic system": "4.5 gal 17.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "4.5 gal 17.0 L",
+          "Pressure": "2850 psi 196.5 bar",
+          "Valves": "2",
+          "Pump flow": "10.5 gpm 39.7 lpm",
+          "Steering flow": "5.5 gpm 20.8 lpm",
+          "Steering press.": "1500 psi 103.4 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position and draft control",
+          "Rear lift (at ends)": "3700 lbs 1678 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1630",
+          "&nbsp": "596@1800"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "96.5 inches 245 cm",
+          "Weight": "6500 lbs 2948 kg",
+          "Front tire": "11.20-20",
+          "Rear tire": "15.5-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "50",
+          "Batteries": "2",
+          "Battery CCA": "900",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operators Manual 500 Series, 800 Series and 900 Series Tractors (904805) published in 1992",
+          "__seccion_3__": "Belarus 525 published in 1988"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 14, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1983 - 1996",
+          "__seccion_2__": "Progress Series"
+        },
+        {
+          "__seccion_1__": "Belarus 525 Tires",
+          "Ag front": "11.20-20",
+          "Ag rear": "15.5-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "96.5 inches 245 cm",
+          "Length": "147.5 inches 374 cm",
+          "Height (hood)": "69 inches 175 cm",
+          "Height (ROPS)": "106.75 inches 271 cm",
+          "Shipping weight": "6500 lbs 2948 kg",
+          "Max weight": "12,000 lbs 5443 kg",
+          "Clearance (front axle)": "18 inches 45 cm",
+          "Clearance (rear axle)": "24 inches 60 cm",
+          "Clearance (drawbar)": "12 inches 30 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 14, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1983 - 1996",
+          "__seccion_2__": "Progress Series"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "MTZ D-60",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "290 ci 4.8 L",
+          "Bore/Stroke": "4.33x4.92 inches 110 x 125 mm",
+          "Power": "65 hp 48.5 kW",
+          "Air cleaner": "oil bath",
+          "Compression": "16:1",
+          "Rated RPM": "1800",
+          "Torque": "197 lb-ft 267.1 Nm",
+          "Torque RPM": "1300",
+          "Firing order": "1-3-4-2",
+          "Starter volts": "12",
+          "Coolant capacity": "21 qts 19.9 L",
+          "Intake valve clearance": "0.012 inches 0.305 mm",
+          "Exhaust valve clearance": "0.012 inches 0.305 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "16 qts 15.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 14, 2020"
+        }
+      ]
+    }
+  }
+}

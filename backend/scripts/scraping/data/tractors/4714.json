@@ -1,0 +1,214 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/004/7/1/4714-massey-ferguson-575.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/004/7/1/4714-massey-ferguson-575-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/004/7/1/4714-massey-ferguson-575-engine.html",
+    "source_id": 4714,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:36:08.163Z",
+    "foto_original": "https://www.tractordata.com/photos/F004/4714/4714-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 91 KB"
+  },
+  "tractor_data_id": 4714,
+  "name": "Massey Ferguson 575",
+  "brand": "Massey Ferguson",
+  "model": "575",
+  "years": {
+    "desde": 1976,
+    "hasta": 1982
+  },
+  "model_year": 1976,
+  "engine_power_hp": 66,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 60.3,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3645,
+  "weight_basis": "2WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 22.1,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9-34",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1593,
+  "tire_front": {
+    "original": "11.2-24",
+    "radial": false,
+    "width_mm": 284,
+    "rim_in": 24,
+    "diameter_mm_est": 1093,
+    "tipo": "Diagonal",
+    "texto": "11.2-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F004/4714/4714-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F004/4714/4714-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td4714.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1976 - 1982",
+          "__seccion_2__": "500 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "Factories": "Coventry, England",
+          "&nbsp": "Le Plessis-Robinson, France"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 575 Engine",
+          "__seccion_2__": "Perkins 3.9L 4-cyl diesel",
+          "Fuel tank": "25.9 gal 98.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 575 Transmissions",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "12-speed two-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 575 Power",
+          "Engine": "66 hp 49.2 kW",
+          "PTO (claimed)": "60.3 hp 45.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Cab standard with heater. ROPS available."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 575 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Valves": "2 or 3",
+          "Pump flow": "7.2 gpm 27.3 lpm",
+          "&nbsp": "16.5 gpm Opt Optional 62.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position and draft control",
+          "Rear lift (at ends)": "3960 lbs 1796 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "&nbsp": "1000@1690",
+          "Clutch": "mechanical dry disc (live)",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1684"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "88.5 inches 224 cm",
+          "Weight": "8036 lbs 3645 kg",
+          "Front tire": "7.50-18",
+          "Rear tire": "13.6-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1976": "265001",
+          "1977": "265892",
+          "1978": "267645",
+          "1979": "269282",
+          "1980": "270028",
+          "1981": "271271",
+          "1982": "271595",
+          "__seccion_1__": "575 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "New Tractor Line 500-Series published by Massey Ferguson",
+          "__seccion_3__": "MF575 Tractor published in 1978, by Massey Ferguson",
+          "__seccion_4__": "575 4WD published in 1981, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 31, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1976 - 1982",
+          "__seccion_2__": "500 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 575 Tires",
+          "2WD Ag front": "7.50-18",
+          "4WD Ag front": "11.2-24",
+          "Ag rear": "13.6-38",
+          "4WD Ag rear": "16.9-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "88.5 inches 224 cm",
+          "Length": "145 inches 368 cm",
+          "Width": "81.5 inches 207 cm",
+          "Height (cab)": "101.5 inches 257 cm",
+          "2WD Weight": "8036 lbs 3645 kg",
+          "Ground clearance": "18.5 inches 46 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 31, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1976 - 1982",
+          "__seccion_2__": "500 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A4.236",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "235.6 ci 3.9 L",
+          "Bore/Stroke": "3.875x5.00 inches 98 x 127 mm",
+          "Power": "66 hp 49.2 kW",
+          "Compression": "16:1",
+          "Rated RPM": "2000",
+          "Torque": "188.1 lb-ft 255.1 Nm",
+          "Torque RPM": "1250",
+          "Starter type": "electric",
+          "Oil capacity": "7.5 qts 7.1 L",
+          "Coolant capacity": "15 qts 14.2 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 31, 2020"
+        }
+      ]
+    }
+  }
+}

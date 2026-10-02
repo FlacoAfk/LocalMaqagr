@@ -1,0 +1,229 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/002/0/2/2020-fiat-160-90.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/002/0/2/2020-fiat-160-90-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/002/0/2/2020-fiat-160-90-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 2020,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:15:24.525Z",
+    "foto_original": "https://www.tractordata.com/photos/F002/2020/2020-td4-b01-ext225.jpg",
+    "foto_calidad": "webp 800px/q55 → 33 KB"
+  },
+  "tractor_data_id": 2020,
+  "name": "Fiat 160-90",
+  "brand": "Fiat",
+  "model": "160 90",
+  "years": {
+    "desde": 1984,
+    "hasta": 1994
+  },
+  "model_year": 1984,
+  "engine_power_hp": 160,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 8465,
+  "weight_basis": "4WD Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 58.7,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 23.1-34",
+  "tire_width_mm": 587,
+  "tire_diameter_mm": 1861,
+  "tire_front": {
+    "original": "14.9-28",
+    "radial": false,
+    "width_mm": 378,
+    "rim_in": 28,
+    "diameter_mm_est": 1355,
+    "tipo": "Diagonal",
+    "texto": "14.9-28"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F002/2020/2020-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F002/2020/2020-td4-b01-ext225.jpg",
+  "image_url": "/uploads/tractors/td2020.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1984 - 1994",
+          "__seccion_2__": "90 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Fiat",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "160-90DT": "four-wheel drive",
+          "160-90": "similar Hesston model"
+        },
+        {
+          "__seccion_1__": "Fiat 160-90 Engine",
+          "__seccion_2__": "Fiat-Iveco 8.1L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 160-90 Transmissions",
+          "__seccion_2__": "24-speed partial power shift",
+          "__seccion_3__": "16-speed mechanical shuttle",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 160-90 Power",
+          "Engine": "160 hp 119.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "hydraulic",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Fiat 160-90 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "74 gal 280.1 L",
+          "Hydraulic system": "14.8 gal 56.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Capacity": "14.8 gal 56.0 L",
+          "Valves": "3",
+          "Pump flow": "14.8 gpm 56.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "14661 lbs 6650 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@1950",
+          "&nbsp": "1000@2072"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "116.7 inches 296 cm",
+          "4WD Wheelbase": "113.6 inches 288 cm",
+          "Weight": "17086 to 18662 pounds",
+          "Front tire": "11.00-16",
+          "2WD Rear tire": "23.1-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Battery volts": "12",
+          "Battery AH": "152"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "160-90 /160-90 dt turbo PS published by Fiat",
+          "__seccion_3__": "160-90 turbo published by Fiat"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 9, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1984 - 1994",
+          "__seccion_2__": "90 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Fiat 160-90 Tires",
+          "2WD Standard tires (ag)": "Front: 11.00-16. Rear: 23.1-34",
+          "4WD Standard tires (ag)": "Front: 14.9-28. Rear: 23.1-34",
+          "2WD Optional tires (ag)": "Front: 11.00-16. Rear: 24.5-32",
+          "4WD Optional tires (ag)": "Front: 16.9-28. Rear: 20.8-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "116.7 inches 296 cm",
+          "4WD Wheelbase": "113.6 inches 288 cm",
+          "2WD Length": "170.8 inches 433 cm",
+          "4WD Length": "174 inches 441 cm",
+          "2WD Operating weight": "17086 lbs 7750 kg",
+          "4WD Operating weight": "18662 lbs 8465 kg",
+          "2WD Clearance (front axle)": "25 inches 63 cm",
+          "4WD Clearance (front axle)": "18.2 inches 46 cm",
+          "2WD Front tread": "63 to 82.7 inches 160 to 210 cm",
+          "4WD Front tread": "70.9 to 87.4 inches 180 to 221 cm",
+          "Rear tread": "59.8 to 87.4 inches 151 to 221 cm"
+        },
+        {
+          "__seccion_1__": "Fiat 160-90 Height",
+          "Hood": "71.1 inches 180 cm",
+          "ROPS": "109.7 inches 278 cm",
+          "Cab": "112.2 inches 284 cm",
+          "Exhaust": "116.5 inches 295 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 9, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1984 - 1994",
+          "__seccion_2__": "90 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Fiat-Iveco 8365.25",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "494.4 ci 8.1 L",
+          "Bore/Stroke": "4.536x5.12 inches 115 x 130 mm",
+          "Power": "160 hp 119.3 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dry two-stage",
+          "Pre-heating": "thermostart",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "19.3 qts 18.3 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 9, 2024"
+        }
+      ]
+    }
+  }
+}

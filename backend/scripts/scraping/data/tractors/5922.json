@@ -1,0 +1,248 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/9/2/5922-john-deere-8345rt.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/9/2/5922-john-deere-8345rt-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/9/2/5922-john-deere-8345rt-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/9/2/5922-john-deere-8345rt-engine.html",
+    "source_id": 5922,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:48:57.680Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5922/5922-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 5922,
+  "name": "John Deere 8345RT",
+  "brand": "John Deere",
+  "model": "8345RT",
+  "years": {
+    "desde": 2009,
+    "hasta": 2010
+  },
+  "model_year": 2009,
+  "engine_power_hp": 345,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 281,
+  "pto_tested_hp": 318.85,
+  "drawbar_tested_hp": 240.19,
+  "weight_kg": 15585,
+  "weight_basis": "Shipping weight",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 152.2,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 65.5,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5922/5922-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td5922.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2009 - 2010",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Agricultural Crawler tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "8345R": "wheeled tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8345RT Engine",
+          "__seccion_2__": "John Deere 9.0L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8345RT Power",
+          "Engine (gross)": "345 hp 257.3 kW",
+          "Engine (net)": "330 hp 246.1 kW",
+          "Engine (max)": "378 hp 281.9 kW",
+          "PTO (claimed)": "281 hp 209.5 kW",
+          "Drawbar (tested)": "240.19 hp 179.1 kW",
+          "PTO (tested)": "318.85 hp 237.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "crawler",
+          "Steering": "electro-hydraulic power",
+          "__seccion_2__": "Hydraulic wet disc brakes",
+          "__seccion_3__": "CommandView cab standard with heat and air-conditioning. Optional automatic temperature control, mirros, and front/rear windshield wipers."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 8345RT are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "200 gal 757.0 L",
+          "Hydraulic system": "68.3 gal 258.5 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure-flow compensated",
+          "Capacity": "68.3 gal 258.5 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "3 to 5",
+          "Pump flow": "35 gpm 132.5 lpm",
+          "Total flow": "44 gpm 166.5 lpm",
+          "&nbsp": "60 gpm (optional) 227.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IVN/III",
+          "Rear lift (at 24\"/610mm)": "19,300 lbs 8754 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (1-3/4)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tracks",
+          "Wheelbase": "99 inches 251 cm",
+          "Weight": "34,360 lbs 15585 kg",
+          "__seccion_2__": "25-inch tracks",
+          "__seccion_3__": "Full dimensions and tracks ..."
+        },
+        {
+          "__seccion_1__": "8345RT Serial Numbers",
+          "Location:": "Right side of tractor."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "200",
+          "Batteries": "2",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "8R/8RT Series published in 2009, by John Deere",
+          "__seccion_3__": "8R/8RT Series - Top 10 Feature & Benefits, plus Tractor Optimization Tips published in 2009, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 27, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2009 - 2010",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8345RT Tracks",
+          "Width": "30 inches 76 cm"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "99 inches 251 cm",
+          "Length": "223.5 inches 567 cm",
+          "Width": "150 inches 381 cm",
+          "Height (cab)": "130.8 inches 332 cm",
+          "Shipping weight": "34,360 lbs 15585 kg",
+          "Clearance (rear axle)": "24.5 inches 62 cm",
+          "Clearance (drawbar)": "14.6 inches 37 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 27, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2009 - 2010",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1973"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1973",
+          "__seccion_2__": "Diesel IVT crawler May 5 - 21, 2010 Link: OCED Tractor Test 1973 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "240.19 hp 179.1 kW",
+          "Fuel use": "15.4 gal/hour 58.3 l/hour",
+          "Power at rated engine speed": "278.85 hp 207.9 kW",
+          "Power at rated PTO speed": "306.28 hp 228.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 5.1-MPH used for power test.",
+          "Max pull": "34,212 lbs 15518 kg",
+          "__seccion_6__": "Gear 2.6-MPH used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 27, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2009 - 2010",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "548 ci 9.0 L",
+          "Bore/Stroke": "4.661x5.354 inches 118 x 136 mm",
+          "Emissions": "Tier 3",
+          "&nbsp": "Stage IIIA",
+          "Rated Power (net)": "330 hp 246.1 kW",
+          "Rated Power (gross)": "345 hp 257.3 kW",
+          "Maximum Power (gross)": "378 hp 281.9 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "16.3:1",
+          "Rated RPM": "2100",
+          "Operating RPM": "1500-2100",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Coolant capacity": "42.3 qts 40.0 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "27 qts 25.6 L",
+          "Oil change": "250 h",
+          "&nbsp": "375 h (JD Plus-50 II oil)"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 27, 2022"
+        }
+      ]
+    }
+  }
+}

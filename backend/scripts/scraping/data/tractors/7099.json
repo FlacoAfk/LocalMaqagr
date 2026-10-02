@@ -1,0 +1,267 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/0/9/7099-john-deere-9560r.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/0/9/7099-john-deere-9560r-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/007/0/9/7099-john-deere-9560r-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/0/9/7099-john-deere-9560r-engine.html",
+    "source_id": 7099,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:52:39.842Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7099/7099-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 66 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 7099,
+  "name": "John Deere 9560R",
+  "brand": "John Deere",
+  "model": "9560R",
+  "years": {
+    "desde": 2012,
+    "hasta": 2014
+  },
+  "model_year": 2012,
+  "engine_power_hp": 560,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 319,
+  "pto_tested_hp": 364.23,
+  "drawbar_tested_hp": 454.33,
+  "weight_kg": 18842,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 195.7,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "800/70R38",
+    "radial": true,
+    "width_mm": 800,
+    "rim_in": 38,
+    "diameter_mm_est": 2085,
+    "tipo": "Radial",
+    "texto": "800/70R38"
+  },
+  "fuel_consumption_lph": 79.9,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7099/7099-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7099/7099-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td7099.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2012 - 2014",
+          "__seccion_2__": "9R/RT Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "__seccion_4__": "Original price was $406,839 in 2014"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "9560R": "4WD",
+          "9560RT": "crawler"
+        },
+        {
+          "__seccion_1__": "John Deere 9560R Engine",
+          "__seccion_2__": "John Deere 13.5L 6-cyl diesel",
+          "Fuel tank": "350 gal 1324.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 9560R Transmission",
+          "__seccion_2__": "18-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 9560R Power",
+          "Engine (gross)": "560 hp 417.6 kW",
+          "Engine (max)": "616 hp 459.4 kW",
+          "PTO (claimed)": "319 hp 237.9 kW",
+          "Drawbar (tested)": "454.33 hp 338.8 kW",
+          "PTO (tested)": "364.23 hp 271.6 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary with double-reduction axle",
+          "Differential lock": "fully-locking electro-hydraulic",
+          "Steering": "hydraulic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic Opt Optional",
+          "__seccion_4__": "CommandView II cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 9560R photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure flow compensated",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "4 to 6",
+          "Pump flow": "48 gpm 181.7 lpm",
+          "&nbsp": "45 gpm (19.1mm SCV) 170.3 lpm",
+          "SCV flow": "37 gpm 140.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "4N/4",
+          "Control": "electronic draft sensing",
+          "Rear lift": "15,300 lbs 6940 kg",
+          "&nbsp": "20,000 lbs (optional) 9072 kg",
+          "Drawbar": "Category 5 standard heavy-duty support and 5,440 kg load rating. (12,000 pound)"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent (optional)",
+          "Rear PTO Type": "1000 (1.75)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "137.8 inches 350 cm",
+          "Weight": "41540 to 43410 pounds",
+          "Front tire": "800/70R38",
+          "Rear tire": "800/70R38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "9560R Serial Number Location",
+          "__seccion_2__": "Serial number plate on the front-right of the tractor frame, ahead of the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "200",
+          "Charging volts": "12",
+          "Batteries": "3",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 28, 2021",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2012 - 2014",
+          "__seccion_2__": "9R/RT Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 9560R Tires",
+          "Ag front": "800/70R38",
+          "Ag rear": "800/70R38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "137.8 inches 350 cm",
+          "Length": "282 inches 716 cm",
+          "With hitch Length": "295 inches 749 cm",
+          "Width": "120 inches 304 cm",
+          "Front axle": "4.72 by 120 inches 119 by 3048 mm",
+          "Rear axle": "4.72 by 120 inches 119 by 3048 mm"
+        },
+        {
+          "__seccion_1__": "John Deere 9560R Weight",
+          "Shipping": "41540 lbs 18842 kg",
+          "Operating": "43410 lbs * Weight with 480/80R46 triples. 19690 kg",
+          "Max capacity": "60000 lbs 27216 kg"
+        },
+        {
+          "__seccion_1__": "John Deere 9560R Height",
+          "Hood": "108 inches 274 cm",
+          "Cab": "145 inches 368 cm",
+          "&nbsp": "151 inches (GPS) 383 cm",
+          "Exhaust": "177 inches 449 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 28, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2012 - 2014",
+          "__seccion_2__": "9R/RT Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2044"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2044",
+          "__seccion_2__": "Diesel 18-speed 4WD October 9 - 26, 2012 Link: OCED Tractor Test 2044 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "454.33 hp 338.8 kW",
+          "Fuel use": "29.0 gal/hour 109.8 l/hour",
+          "Power at rated engine speed": "321.78 hp 240.0 kW",
+          "Power at rated PTO speed": "357.53 hp 266.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 7 used for power test.",
+          "Max pull": "44000 lbs 19958 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 28, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2012 - 2014",
+          "__seccion_2__": "9R/RT Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech PSX",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "826.7 ci 13.5 L",
+          "Bore/Stroke": "5.197x6.496 inches 132 x 165 mm",
+          "Emissions": "Tier 4A",
+          "Emission control": "exhaust gas recirculation (EGR)",
+          "Rated Power (gross)": "560 hp 417.6 kW",
+          "Maximum Power (gross)": "616 hp 459.4 kW",
+          "Fuel system": "electronic unit injectors",
+          "Compression": "16:1",
+          "Rated RPM": "2100",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 28, 2021"
+        }
+      ]
+    }
+  }
+}

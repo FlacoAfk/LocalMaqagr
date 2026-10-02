@@ -1,0 +1,228 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/3/6/6364-massey-ferguson-1643.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/3/6/6364-massey-ferguson-1643-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/3/6/6364-massey-ferguson-1643-engine.html",
+    "source_id": 6364,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:38:39.639Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6364/6364-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 56 KB"
+  },
+  "tractor_data_id": 6364,
+  "name": "Massey Ferguson 1643",
+  "brand": "Massey Ferguson",
+  "model": "1643",
+  "years": {
+    "desde": 2009,
+    "hasta": 2013
+  },
+  "model_year": 2009,
+  "engine_power_hp": 43.5,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 34.3,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1534,
+  "weight_basis": "ROPS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 12.6,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-24",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1145,
+  "tire_front": {
+    "original": "8-16",
+    "radial": false,
+    "width_mm": 203,
+    "rim_in": 16,
+    "diameter_mm_est": 752,
+    "tipo": "Diagonal",
+    "texto": "8-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F006/6364/6364-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6364/6364-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td6364.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2009 - 2013",
+          "__seccion_2__": "1600 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Compact Utility tractor",
+          "Original price": "$19,296 (2009 SyncroShuttle ROPS )",
+          "__seccion_3__": "$27,093 (2009 hydrostatic Cab )"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1643 Engine",
+          "__seccion_2__": "Iseki 2.2L 4-cyl diesel",
+          "Fuel tank": "13.2 gal 50.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1643 Transmissions",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "12-speed",
+          "__seccion_4__": "hydrostatic",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1643 Power",
+          "Engine (gross)": "43.5 hp 32.4 kW",
+          "Engine (net)": "41.4 hp 30.9 kW",
+          "Gear PTO (claimed)": "34.3 hp 25.6 kW",
+          "Hydro PTO (claimed)": "33.1 hp 24.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Flat operator platform with folding ROPS. Optional cab with heat and air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 1643 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "0 to 3",
+          "Pump flow": "11.6 gpm 43.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at ends)": "2800 lbs 1270 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540 (1.375)",
+          "Mid PTO": "independent Opt Optional",
+          "Mid PTO Type": "2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "70.9 inches 180 cm",
+          "Weight": "3384 to 3737 pounds",
+          "Front tire": "8-16",
+          "Rear tire": "12.4-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1643 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "1600/1500 Series Compact Tractors published in 2011, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 13, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2009 - 2013",
+          "__seccion_2__": "1600 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1643 Tires",
+          "Standard tires (ag)": "Front: 8-16. Rear: 12.4-24",
+          "Optional tires (ag)": "Front: 8-16. Rear: 13.6-24",
+          "Lawn/turf front": "27x8.50-15",
+          "Lawn/turf rear": "41x14.00-20",
+          "Industrial front": "25x8.5-14",
+          "Industrial rear": "15x19.5"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "70.9 inches 180 cm",
+          "Length": "122 inches 309 cm",
+          "Width": "64.5 inches 163 cm",
+          "Height (ROPS)": "103.3 inches 262 cm",
+          "Height (cab)": "94.5 inches 240 cm",
+          "Ground clearance": "14.2 inches 36 cm",
+          "Front tread": "45.7 inches 116 cm",
+          "Rear tread": "49.8 to 57.7 inches 126 to 146 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1643 Weight",
+          "ROPS Shipping": "3384 lbs 1534 kg",
+          "Cab Shipping": "3737 lbs 1695 kg",
+          "Max capacity": "6614 lbs 3000 kg",
+          "Max front axle": "3968 lbs 1799 kg",
+          "Max rear axle": "3968 lbs 1799 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 13, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2009 - 2013",
+          "__seccion_2__": "1600 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iseki",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "134.1 ci 2.2 L",
+          "Emissions": "Tier IV Interim",
+          "Power (net)": "41.4 hp 30.9 kW",
+          "Power (gross)": "43.5 hp 32.4 kW",
+          "Air cleaner": "dry",
+          "Rated RPM": "2500",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "8.5 qts 8.0 L",
+          "Coolant capacity": "8 qts 7.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 13, 2020"
+        }
+      ]
+    }
+  }
+}

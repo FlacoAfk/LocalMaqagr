@@ -1,0 +1,217 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/009/2/3/9237-massey-ferguson-4245.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/009/2/3/9237-massey-ferguson-4245-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/009/2/3/9237-massey-ferguson-4245-engine.html",
+    "source_id": 9237,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:47:57.386Z",
+    "foto_original": "https://www.tractordata.com/photos/F009/9237/9237-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 9237,
+  "name": "Massey Ferguson 4245",
+  "brand": "Massey Ferguson (a part of AGCO)",
+  "model": "ferguson 4245",
+  "years": {
+    "desde": 1997,
+    "hasta": 2001
+  },
+  "model_year": 1997,
+  "engine_power_hp": 85,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 75.8,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3729,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 27.8,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 16.9R34",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1593,
+  "tire_front": {
+    "original": "13.6R24",
+    "radial": true,
+    "width_mm": 345,
+    "rim_in": 24,
+    "diameter_mm_est": 1197,
+    "tipo": "Radial",
+    "texto": "13.6R24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F009/9237/9237-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td9237.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1997 - 2001",
+          "__seccion_2__": "4200 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson (a part of AGCO)",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4245 Engine",
+          "__seccion_2__": "Perkins 4.0L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4245 Transmissions",
+          "__seccion_2__": "12-speed mechanical shuttle",
+          "__seccion_3__": "18-speed two-speed power shift",
+          "__seccion_4__": "12-speed power shuttle",
+          "__seccion_5__": "24-speed power shuttle",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4245 Power",
+          "Engine": "85 hp 63.4 kW",
+          "PTO (claimed)": "75.8 hp 56.5 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "4WD Differential lock": "electro-hydraulic front and rear",
+          "2WD Differential lock": "electro-hydraulic rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic",
+          "__seccion_5__": "Cab standard with heater. Optional air-conditioning. Available Versa cab with reversible seating position."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 4245 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "LoProfile Fuel": "25.9 gal 98.0 L",
+          "HiVisibility Fuel": "33.6 gal 127.2 L",
+          "Hydraulic system": "13.2 gal 50.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Capacity": "13.2 gal 50.0 L",
+          "Pressure": "3046 psi 210.0 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "10 gpm 37.9 lpm",
+          "Total flow": "17.4 gpm 65.9 lpm",
+          "&nbsp": "15.85 gpm * With 540E PTO. 60.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position control and mechanical draft control, electronic draft control optional"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic",
+          "Rear PTO Type": "540/1000",
+          "&nbsp": "1000@2000",
+          "Engine RPM": "540@1979"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "92.5 inches 234 cm",
+          "Weight": "7736 to 8223 pounds",
+          "Front tire": "10.00-16",
+          "2WD Rear tire": "16.9R34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2017"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1997 - 2001",
+          "__seccion_2__": "4200 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4245 Tires",
+          "2WD Standard tires (ag)": "Front: 10.00-16. Rear: 16.9R34",
+          "4WD Standard tires (ag)": "Front: 13.6R24. Rear: 16.9R34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "92.5 inches 234 cm",
+          "Length": "157.9 inches 401 cm",
+          "Width": "81.1 inches * Minimum width 205 cm",
+          "LoProfile Height (cab)": "99.6 inches 252 cm",
+          "HiVisibility Height (cab)": "102.8 inches 261 cm",
+          "2WD Weight": "7736 lbs 3509 kg",
+          "4WD Weight": "8223 lbs 3729 kg",
+          "Ground clearance": "15.4 inches 39 cm",
+          "2WD Front tread": "52 to 71.7 inches 132 to 182 cm",
+          "4WD Front tread": "55.5 to 75.2 inches 140 to 191 cm",
+          "Rear tread": "56.3 to 83.9 inches 143 to 213 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2017"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1997 - 2001",
+          "__seccion_2__": "4200 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins 1004T",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "244 ci 4.0 L",
+          "Bore/Stroke": "3.94x5.00 inches 100 x 127 mm",
+          "Power": "85 hp 63.4 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dry element",
+          "Rated RPM": "2200",
+          "Torque": "229.4 lb-ft 311.1 Nm",
+          "Torque RPM": "1500",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Coolant capacity": "18.5 qts 17.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2017"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/1/5/10150-kubota-b2301.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/1/5/10150-kubota-b2301-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/1/5/10150-kubota-b2301-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 10150,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:19:04.879Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10150/10150-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 59 KB"
+  },
+  "tractor_data_id": 10150,
+  "name": "Kubota B2301",
+  "brand": "Kubota",
+  "model": "B2301",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 22,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 17.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 710,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 6.4,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 9.5-16",
+  "tire_width_mm": 241,
+  "tire_diameter_mm": 817,
+  "tire_front": {
+    "original": "6-12",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 12,
+    "diameter_mm_est": 564,
+    "tipo": "Diagonal",
+    "texto": "6-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F010/10150/10150-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F010/10150/10150-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td10150.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2018 -",
+          "__seccion_2__": "B-01 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Original price was $14,690 in 2019"
+        },
+        {
+          "__seccion_1__": "Kubota B2301 Engine",
+          "__seccion_2__": "Kubota 1.0L 3-cyl diesel",
+          "Fuel tank": "6.1 gal 23.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B2301 Transmission",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B2301 Power",
+          "Engine (gross)": "22 hp 16.4 kW",
+          "PTO (claimed)": "17.5 hp 13.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "spur gear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota B2301 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Total flow": "8.3 gpm 31.4 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at ends)": "1808 lbs 820 kg",
+          "Rear lift (at 24\"/610mm)": "1411 lbs 640 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "Mid PTO": "independent",
+          "Mid PTO Type": "2500"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "61.4 inches 155 cm",
+          "Weight": "1566 lbs 710 kg",
+          "Front tire": "6-12",
+          "Rear tire": "9.5-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota B2301 attachments",
+          "__seccion_2__": "54\" mid-mount mower deck",
+          "__seccion_3__": "60\" mid-mount mower deck",
+          "__seccion_4__": "front-end loader",
+          "__seccion_5__": "backhoe",
+          "__seccion_6__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 4, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2018 -",
+          "__seccion_2__": "B-01 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota B2301 Tires",
+          "Standard tires (ag)": "Front: 6-12. Rear: 9.5-16",
+          "Lawn/turf front": "22x8.50-12",
+          "&nbsp": "33x12.5-15",
+          "Lawn/turf rear": "31x15.5-15",
+          "Industrial front": "23x8.50-12",
+          "Industrial rear": "12-16.5"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "61.4 inches 155 cm",
+          "Length": "93.7 inches 237 cm",
+          "Width": "45.3 inches * Minimum width. 115 cm",
+          "Height (ROPS)": "83.9 inches 213 cm",
+          "Weight": "1566 lbs 710 kg",
+          "Ground clearance": "12 inches 30 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 4, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2018 -",
+          "__seccion_2__": "B-01 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "61.1 ci 1.0 L",
+          "Bore/Stroke": "3.0x2.9 inches 76 x 74 mm",
+          "Power (gross)": "22 hp 16.4 kW",
+          "Air cleaner": "dual dry element",
+          "Rated RPM": "2800",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "3.3 qts 3.1 L",
+          "Coolant capacity": "4 qts 3.8 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 4, 2021"
+        }
+      ]
+    }
+  }
+}

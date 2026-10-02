@@ -1,0 +1,144 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/3/8/10382-massey-ferguson-264.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/3/8/10382-massey-ferguson-264-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/3/8/10382-massey-ferguson-264-engine.html",
+    "source_id": 10382,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:51:01.037Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10382/10382-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 53 KB"
+  },
+  "tractor_data_id": 10382,
+  "name": "Massey Ferguson 264",
+  "brand": "Landini",
+  "model": "ferguson 264",
+  "years": {
+    "desde": 1985,
+    "hasta": 1987
+  },
+  "model_year": 1985,
+  "engine_power_hp": 56,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": null,
+  "weight_basis": null,
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 20.5,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F010/10382/10382-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F010/10382/10382-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td10382.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1985 - 1987",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Landini built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Massey Ferguson",
+          "Manufacturer": "Landini",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "The Massey Ferguson 264 is similar to the Landini 6030."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 264 Engine",
+          "__seccion_2__": "Perkins 2.5L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 264 Transmission",
+          "__seccion_2__": "12-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 264 Power",
+          "Engine": "56 hp 41.8 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 264 photos..."
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 5, 2019"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1985 - 1987",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Landini built"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 264 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 5, 2019"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1985 - 1987",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Landini built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins AT 3.152",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "152.7 ci 2.5 L",
+          "Bore/Stroke": "3.60x5.00 inches 91 x 127 mm",
+          "Power": "56 hp 41.8 kW",
+          "Rated RPM": "2200",
+          "Starter type": "electric"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 5, 2019"
+        }
+      ]
+    }
+  }
+}

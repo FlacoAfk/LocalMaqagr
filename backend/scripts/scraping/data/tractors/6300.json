@@ -1,0 +1,221 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/3/0/6300-kubota-m110x.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/3/0/6300-kubota-m110x-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/3/0/6300-kubota-m110x-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 6300,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:58:01.816Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6300/6300-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 33 KB"
+  },
+  "tractor_data_id": 6300,
+  "name": "Kubota M110X",
+  "brand": "Kubota",
+  "model": "M110X",
+  "years": {
+    "desde": 2009,
+    "hasta": 2014
+  },
+  "model_year": 2009,
+  "engine_power_hp": 110,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 95,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4105,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 34.9,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 18.4R34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "13.6R24",
+    "radial": true,
+    "width_mm": 345,
+    "rim_in": 24,
+    "diameter_mm_est": 1197,
+    "tipo": "Radial",
+    "texto": "13.6R24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F006/6300/6300-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6300/6300-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td6300.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2009 - 2014",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Row-Crop tractor",
+          "Original price": "$60,124 (2011 )",
+          "__seccion_3__": "$62,860 (2012 )"
+        },
+        {
+          "__seccion_1__": "Kubota M110X Engine",
+          "__seccion_2__": "Kubota 3.8L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M110X Transmissions",
+          "__seccion_2__": "16-speed partial powershift",
+          "__seccion_3__": "24-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M110X Power",
+          "Engine (gross)": "110 hp 82.0 kW",
+          "Engine (net)": "107.5 hp 80.2 kW",
+          "PTO (claimed)": "95 hp 70.8 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "electro-hydraulic front and rear",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Cab standard with heat and air-conditioning. Optional radio/CD-player."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota M110X photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "50.2 gal 190.0 L",
+          "Hydraulic system": "15.8 gal 59.8 L",
+          "Front axle": "11.1 qts 10.5 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "15.8 gal 59.8 L",
+          "Pressure": "2844 psi 196.1 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "18.1 gpm 68.5 lpm",
+          "Total flow": "35.3 gpm 133.6 lpm",
+          "Steering flow": "17.2 gpm 65.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at ends)": "5809 lbs 2634 kg",
+          "Rear lift (at 24\"/610mm)": "5203 lbs 2360 kg",
+          "&nbsp": "9447 lbs Opt Optional 4285 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@2035",
+          "&nbsp": "1000@2210"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "95.9 inches 243 cm",
+          "Weight": "9050 lbs 4105 kg",
+          "Front tire": "13.6R24",
+          "Rear tire": "18.4R34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota M110X attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "80",
+          "Battery CCA": "900",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 26, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2009 - 2014",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M110X Tires",
+          "Standard tires (ag)": "Front: 13.6R24. Rear: 18.4R34",
+          "Optional tires (ag)": "Front: 13.6-24. Rear: 18.4-34",
+          "&nbsp": "Front: 12.4-24. Rear: 16.9-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "95.9 inches 243 cm",
+          "Length": "167 inches 424 cm",
+          "Width": "83.7 inches 212 cm",
+          "Height": "105.9 inches 268 cm",
+          "Weight": "9050 lbs 4105 kg",
+          "Ground clearance": "23.2 inches 58 cm",
+          "Front tread": "62.2 to 66.1 inches 157 to 167 cm",
+          "Rear tread": "62.2 to 80.1 inches 157 to 203 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 26, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2009 - 2014",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V3800-TI-CRS",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "230 ci 3.8 L",
+          "Bore/Stroke": "3.94x4.72 inches 100 x 120 mm",
+          "Emissions": "Tier III",
+          "Power (net)": "107.5 hp 80.2 kW",
+          "Power (gross)": "110 hp 82.0 kW",
+          "Air cleaner": "dual dry element",
+          "Rated RPM": "2600",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "11.1 qts 10.5 L",
+          "Coolant capacity": "9.5 qts 9.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 26, 2020"
+        }
+      ]
+    }
+  }
+}

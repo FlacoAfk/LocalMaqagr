@@ -1,0 +1,289 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/2/9/1296-kubota-l2850.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/2/9/1296-kubota-l2850-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/2/9/1296-kubota-l2850-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/2/9/1296-kubota-l2850-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1296,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:51:54.131Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1296/1296-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 110 KB"
+  },
+  "tractor_data_id": 1296,
+  "name": "Kubota L2850",
+  "brand": "Kubota",
+  "model": "L2850",
+  "years": {
+    "desde": 1985,
+    "hasta": 1992
+  },
+  "model_year": 1985,
+  "engine_power_hp": 34,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 27,
+  "pto_tested_hp": 27.51,
+  "drawbar_tested_hp": 23.16,
+  "weight_kg": 1229,
+  "weight_basis": "4WD Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 17.9,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "7-16",
+    "radial": false,
+    "width_mm": 178,
+    "rim_in": 16,
+    "diameter_mm_est": 709,
+    "tipo": "Diagonal",
+    "texto": "7-16"
+  },
+  "fuel_consumption_lph": 6.4,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1296/1296-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1296/1296-photo-001.jpg",
+  "image_url": "/uploads/tractors/td1296.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1985 - 1992",
+          "__seccion_2__": "L Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota L2850 Engine",
+          "__seccion_2__": "Kubota 1.7L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L2850 Transmissions",
+          "__seccion_2__": "8-speed mechanical shuttle",
+          "__seccion_3__": "8-speed partially synchronized",
+          "__seccion_4__": "8-speed power shift",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L2850 Power",
+          "Engine (gross)": "34.0 hp 25.4 kW",
+          "PTO (claimed)": "27 hp 20.1 kW",
+          "Drawbar (tested)": "23.16 hp 17.3 kW",
+          "PTO (tested)": "27.51 hp 20.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "Steering": "manual",
+          "&nbsp": "power * Optional equipment. Standard with Glide Shift.",
+          "__seccion_3__": "Differential wet disc brakes",
+          "__seccion_4__": "Two-post ROPS. Optional sunshade."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota L2850 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "7.7 gal 29.1 L",
+          "Hydraulic system": "8.2 gal 31.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "8.2 gal 31.0 L",
+          "Pressure": "2275 psi 156.9 bar",
+          "Valves": "1 to 3",
+          "Pump flow": "7.8 gpm 29.5 lpm",
+          "Steering flow": "2.8 gpm 10.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position and draft control",
+          "Rear lift (at ends)": "2,425 lbs 1099 kg",
+          "Rear lift (at 24\"/610mm)": "1,980 lbs 898 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "continuous",
+          "&nbsp": "1000@2438",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@2400",
+          "Mid PTO": "optional",
+          "Mid PTO Type": "1080/2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "68.3 inches 173 cm",
+          "Weight": "2480 to 2800 pounds",
+          "Front tire": "5.00-15",
+          "Rear tire": "12.4-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota L2850 attachments",
+          "__seccion_2__": "72\" mid-mount mower deck",
+          "__seccion_3__": "front-end loader",
+          "__seccion_4__": "backhoe",
+          "__seccion_5__": "Attachment details ..."
+        },
+        {
+          "1985": "50005",
+          "1986": "51786",
+          "1987": "53807",
+          "1988": "55931",
+          "1989": "57212",
+          "1990": "58326",
+          "1991": "58771",
+          "1992": "59193",
+          "__seccion_1__": "L2850 Serial Numbers",
+          "Location:": "On tractor's clutch housing, left side",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "35",
+          "Battery volts": "12",
+          "Battery AH": "110"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Backhoes published in 1992, by Kubota",
+          "__seccion_3__": "Backhoes published in 1994, by Kubota",
+          "__seccion_4__": "Mid-Mount Mowers B/L Series published in 1994, by Kubota *",
+          "__seccion_5__": "Front Loaders published in 1988, by Kubota",
+          "__seccion_6__": "Front Loaders B, L and M-Series published in 1994, by Kubota *",
+          "__seccion_7__": "Product Catalog published in 1990, by Kubota",
+          "__seccion_8__": "L2250/L2550/L2850 published in 1986, by Kubota",
+          "__seccion_9__": "L2850GST/L2550GST published in 1988, by Kubota",
+          "__seccion_10__": "L2250/L2550/L2850 published in 1992, by Kubota",
+          "__seccion_11__": "New Product Guide L-Series Tractors published in 1988, by Kubota",
+          "__seccion_12__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 24, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1985 - 1992",
+          "__seccion_2__": "L Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota L2850 Tires",
+          "Ag front": "5.00-15 (2WD)",
+          "&nbsp": "7-16 (4WD)",
+          "Ag rear": "12.4-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "68.3 inches 173 cm",
+          "Length": "114.2 inches 290 cm",
+          "Width": "53.9 inches 136 cm",
+          "Height (exhaust)": "78.3 inches 198 cm",
+          "Ground clearance": "14.0 inches (2WD) 35 cm",
+          "&nbsp": "13.6 inches (4WD) 34 cm",
+          "Front tread": "44.1 inches 112 cm (4WD)",
+          "Rear tread": "41.3 to 59.6 inches 104 to 151 cm"
+        },
+        {
+          "__seccion_1__": "Kubota L2850 Weight",
+          "2WD Shipping": "2480 lbs 1124 kg",
+          "4WD Shipping": "2710 lbs 1229 kg",
+          "GST 4WD Shipping": "2800 lbs 1270 kg",
+          "4WD Operating": "2790 lbs 1265 kg",
+          "Ballasted": "4580 lbs 2077 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 24, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1985 - 1992",
+          "__seccion_2__": "L Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1587"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1587",
+          "__seccion_2__": "Diesel 8-speed 4WD October 30 - November 7, 1985 Link: Nebraska Tractor Test 1587 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "27.51 hp 20.5 kW",
+          "Fuel use": "1.7 gal/hour 6.4 l/hour",
+          "Power at rated PTO speed": "27.96 hp 20.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "23.16 hp 17.3 kW",
+          "Max pull": "4,030 lbs 1828 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 24, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1985 - 1992",
+          "__seccion_2__": "L Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V1702-DI-A",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "105.7 ci 1.7 L",
+          "Bore/Stroke": "3.23x3.23 inches 82 x 82 mm",
+          "Power (gross)": "34.0 hp 25.4 kW",
+          "Air cleaner": "paper element",
+          "Compression": "18:1",
+          "Rated RPM": "2600",
+          "Starter volts": "12",
+          "Oil capacity": "8.9 qts 8.4 L",
+          "Coolant capacity": "7.4 qts 7.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 24, 2023"
+        }
+      ]
+    }
+  }
+}

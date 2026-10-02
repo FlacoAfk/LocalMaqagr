@@ -1,0 +1,259 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/7/2/8720-caseih-optum-270.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/7/2/8720-caseih-optum-270-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/008/7/2/8720-caseih-optum-270-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/7/2/8720-caseih-optum-270-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 8720,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:52:24.158Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8720/8720-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 4 KB"
+  },
+  "tractor_data_id": 8720,
+  "name": "CaseIH Optum 270",
+  "brand": "CaseIH (a part of CNH)",
+  "model": "optum 270",
+  "years": {
+    "desde": 2000,
+    "hasta": 2026
+  },
+  "model_year": 2000,
+  "engine_power_hp": 271,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 240,
+  "pto_tested_hp": 270.1,
+  "drawbar_tested_hp": 202.4,
+  "weight_kg": 10500,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 109.2,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 480/80R50",
+  "tire_width_mm": 480,
+  "tire_diameter_mm": 2038,
+  "tire_front": {
+    "original": "420/85R24",
+    "radial": true,
+    "width_mm": 420,
+    "rim_in": 24,
+    "diameter_mm_est": 1324,
+    "tipo": "Radial",
+    "texto": "420/85R24"
+  },
+  "fuel_consumption_lph": 51.5,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F008/8720/8720-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td8720.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2016 -",
+          "__seccion_2__": "Optum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH (a part of CNH)",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in St. Valentin, Austria",
+          "Original price": "$269,685 (2016)",
+          "__seccion_4__": "$469,730 (2026)"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "T7.290": "similar New Holland model"
+        },
+        {
+          "__seccion_1__": "CaseIH Optum 270 Engine",
+          "__seccion_2__": "FPT 6.7L 6-cyl diesel",
+          "Fuel tank": "166 gal 628.3 L",
+          "Exhaust fluid (DEF)": "25.4 gal 96.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Optum 270 Transmission",
+          "__seccion_2__": "continuously variable transmission (CVT)",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Optum 270 Power",
+          "Engine (gross)": "271 hp 202.1 kW",
+          "Engine (max)": "290 hp 216.3 kW",
+          "PTO (claimed)": "240 hp 179.0 kW",
+          "Drawbar (tested)": "202.4 hp 150.9 kW",
+          "PTO (tested)": "270.1 hp 201.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "Trailer brakes": "hydraulic",
+          "__seccion_5__": "SurroundVision cab standard with air-conditioning. AccuGuide"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH Optum 270 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure flow compensating (PFC)",
+          "Rear valves": "4 or 5",
+          "Mid valves": "1 or 3",
+          "Pump flow": "43.6 gpm 165.0 lpm",
+          "&nbsp": "58 gpm Opt Optional 219.5 lpm",
+          "SCV flow": "37 gpm 140.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "&nbsp": "IVN Opt Optional",
+          "Control": "electronic draft control",
+          "Rear lift (at 24\"/610mm)": "19180 lbs 8700 kg",
+          "Rear Arms": "telescopic link ends",
+          "Front lift": "9700 lbs 4399 kg",
+          "Drawbar": "Cat. 3"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/540E/1000/1000E (1.375)",
+          "&nbsp": "1000/1000E (1.75) Opt Optional",
+          "Front PTO": "independent Opt Optional",
+          "Front PTO Type": "1000/1000E (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "117.3 inches 297 cm",
+          "Weight": "23149 lbs 10500 kg",
+          "Front tire": "420/85R24",
+          "Rear tire": "480/80R50",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "150",
+          "&nbsp": "200 Opt Optional",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Optum Series Tractor Specifications published in 2015, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on February 25, 2026"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2016 -",
+          "__seccion_2__": "Optum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH Optum 270 Tires",
+          "Standard tires (ag)": "Front: 420/85R24. Rear: 480/80R50"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "117.3 inches 297 cm",
+          "Length": "208.2 inches 528 cm",
+          "Width": "119 inches 302 cm",
+          "Height (cab)": "132.5 inches 336 cm",
+          "Weight": "23149 lbs 10500 kg",
+          "Max weight": "35274 lbs 16000 kg",
+          "__seccion_2__": "Flange rear axle",
+          "Bar rear axle": "4.125 by 119 inches 104 by 3022 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 25, 2026"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2016 -",
+          "__seccion_2__": "Optum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2986"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2986",
+          "__seccion_2__": "Diesel CVT 4WD June 2016 - July 2016, Link: OCED Tractor Test 2986 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "202.4 hp 150.9 kW",
+          "Fuel use": "13.0 gal/hour 49.2 l/hour",
+          "Power at rated engine speed": "246.5 hp 183.8 kW",
+          "Power at rated PTO speed": "268.2 hp 200.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Pull at 7.5 KPH",
+          "Max pull": "24550 lbs 11135 kg",
+          "__seccion_6__": "Pull at 6.0 KPH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 25, 2026"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2016 -",
+          "__seccion_2__": "Optum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT",
+          "__seccion_3__": "electronic variable geometry turbocharged with air-to-air aftercooling diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "410.6 ci 6.7 L",
+          "Bore/Stroke": "4.095x5.197 inches 104 x 132 mm",
+          "Emissions": "Tier IV",
+          "Emission control": "selective catalytic reduction (SCR)",
+          "Rated Power (gross)": "271 hp 202.1 kW",
+          "Maximum Power (gross)": "290 hp 216.3 kW",
+          "Fuel system": "electronic high pressure common rail direct injection",
+          "Cooling system": "viscous fan",
+          "&nbsp": "reversible pitch Opt Optional",
+          "Rated RPM": "2100",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 25, 2026"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/4/1/1413-belarus-180.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/4/1/1413-belarus-180-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/4/1/1413-belarus-180-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1413,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:24:13.184Z"
+  },
+  "tractor_data_id": 1413,
+  "name": "Belarus 180",
+  "brand": "Belarus",
+  "model": "180",
+  "years": {
+    "desde": 1998,
+    "hasta": 1999
+  },
+  "model_year": 1998,
+  "engine_power_hp": 18.5,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1179,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 6.8,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 8.00-18",
+  "tire_width_mm": 203,
+  "tire_diameter_mm": 803,
+  "tire_front": {
+    "original": "5.00-12",
+    "radial": false,
+    "width_mm": 127,
+    "rim_in": 12,
+    "diameter_mm_est": 521,
+    "tipo": "Diagonal",
+    "texto": "5.00-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": null,
+  "photo_url_large": null,
+  "image_url": null,
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1998 - 1999"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Belarus",
+          "__seccion_2__": "Built in Minsk, Belarus",
+          "Original price": "8830 (1999)"
+        },
+        {
+          "__seccion_1__": "Belarus 180 Engine",
+          "__seccion_2__": "Belarus 0.9L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Belarus 180 Transmission",
+          "__seccion_2__": "6-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Belarus 180 Power",
+          "Engine": "18.5 hp 13.8 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Belarus 180 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open",
+          "Pump flow": "3.4 gpm 12.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift": "1100 lbs 498 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "623,1506"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "2,600 lbs 1179 kg",
+          "Front tire": "5.00-12",
+          "Rear tire": "8.00-18",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 8, 2009"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1998 - 1999"
+        },
+        {
+          "__seccion_1__": "Belarus 180 Tires",
+          "Ag front": "5.00-12",
+          "Ag rear": "8.00-18"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Weight": "2,600 lbs 1179 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 8, 2009"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1998 - 1999"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Belarus",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "Displacement": "55 ci 0.9 L",
+          "Power": "18.5 hp 13.8 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 8, 2009"
+        }
+      ]
+    }
+  }
+}

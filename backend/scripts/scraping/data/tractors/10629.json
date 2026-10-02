@@ -1,0 +1,265 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/6/2/10629-john-deere-7r-270.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/6/2/10629-john-deere-7r-270-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/010/6/2/10629-john-deere-7r-270-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/6/2/10629-john-deere-7r-270-engine.html",
+    "source_id": 10629,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:08:29.318Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10629/10629-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 4 KB"
+  },
+  "tractor_data_id": 10629,
+  "name": "John Deere 7R 270",
+  "brand": "John Deere",
+  "model": "7R 270",
+  "years": {
+    "desde": 2014,
+    "hasta": 2019
+  },
+  "model_year": 2014,
+  "engine_power_hp": 270,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 224,
+  "pto_tested_hp": 256.06,
+  "drawbar_tested_hp": 203,
+  "weight_kg": null,
+  "weight_basis": null,
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 103.5,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 480/80R50",
+  "tire_width_mm": 480,
+  "tire_diameter_mm": 2038,
+  "tire_front": {
+    "original": "420/85R34",
+    "radial": true,
+    "width_mm": 420,
+    "rim_in": 34,
+    "diameter_mm_est": 1578,
+    "tipo": "Radial",
+    "texto": "420/85R34"
+  },
+  "fuel_consumption_lph": 54.5,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F010/10629/10629-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td10629.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2019 -",
+          "__seccion_2__": "7R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "__seccion_4__": "Original price was $289,932 in 2020"
+        },
+        {
+          "__seccion_1__": "John Deere 7R 270 Engine",
+          "__seccion_2__": "John Deere 6.8L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7R 270 Transmissions",
+          "__seccion_2__": "23-speed full power shift",
+          "__seccion_3__": "infinitely variable transmission",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7R 270 Power",
+          "Engine (gross)": "270 hp 201.3 kW",
+          "Engine (max)": "297 hp 221.5 kW",
+          "PTO (claimed)": "224 hp 167.0 kW",
+          "Drawbar (tested)": "203 hp 151.4 kW",
+          "PTO (tested)": "256.06 hp 190.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "electro-hydraulic rear",
+          "&nbsp": "electro-hydraulic front Opt Optional",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 7R 270 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "122 gal (e23) 461.8 L",
+          "&nbsp": "22.5 gal Opt Optional 85.2 L",
+          "Exhaust fluid (DEF)": "6.9 gal 26.1 L",
+          "Hydraulic system": "17.2 gal 65.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed-center pressure flow compensated",
+          "Capacity": "17.2 gal 65.1 L",
+          "&nbsp": "33 gpm (front) 124.9 lpm",
+          "Pressure": "2958 psi 204.0 bar",
+          "Rear valves": "4 to 6",
+          "Front valves": "0 to 1",
+          "Pump flow": "43 gpm 162.8 lpm",
+          "SCV flow": "35 gpm (rear) 132.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/IIIN",
+          "Control": "electro-hydraulic draft sensing",
+          "Rear lift (at 24\"/610mm)": "15200 lbs 6894 kg",
+          "&nbsp": "17300 lbs * Optional with 120mm rear axle. 7847 kg",
+          "Front Hitch": "IIIN",
+          "Front lift (at ends)": "7690 lbs 3488 kg",
+          "Front lift (at 24\"/610mm)": "6994 lbs 3172 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (1.75)",
+          "Engine RPM": "540@1950",
+          "&nbsp": "1000 (1.75)",
+          "Front PTO": "independent Opt Optional",
+          "Clutch": "1000:1940",
+          "Front PTO Type": "1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "115.2 inches 292 cm",
+          "Front tire": "420/85R34",
+          "Rear tire": "480/80R50",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7R 270 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "210",
+          "&nbsp": "250 Opt Optional",
+          "Batteries": "2",
+          "Battery CCA": "925",
+          "Battery volts": "12",
+          "Battery Group": "31"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "7R Tractors published in 2019, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 2, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2019 -",
+          "__seccion_2__": "7R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 7R 270 Tires",
+          "Standard tires (ag)": "Front: 420/85R34. Rear: 480/80R50"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "115.2 inches 292 cm",
+          "Length": "218 inches 553 cm",
+          "Clearance (front axle)": "19.5 inches 49 cm",
+          "Rack-and-pinion rear axle": "4.72 by 118.5 inches 119 by 3009 mm",
+          "Front tread": "60 to 88 inches 152 to 223 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 2, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2019 -",
+          "__seccion_2__": "7R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2084A"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2084A",
+          "__seccion_2__": "Diesel e23 4WD April 18 - 23, 2014 Link: OCED Tractor Test 2084A file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "203 hp 151.4 kW",
+          "Fuel use": "13.2 gal/hour 50.0 l/hour",
+          "Power at rated engine speed": "227.46 hp 169.6 kW",
+          "Power at rated PTO speed": "247.52 hp 184.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 9 used for power test.",
+          "Max pull": "23264 lbs 10552 kg",
+          "__seccion_6__": "Gear 7 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 2, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2019 -",
+          "__seccion_2__": "7R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "415 ci 6.8 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Tier IV",
+          "Rated Power (gross)": "270 hp 201.3 kW",
+          "Maximum Power (gross)": "297 hp 221.5 kW",
+          "Fuel system": "electronic high-pressure common rail",
+          "Compression": "16.7:1",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 2, 2022"
+        }
+      ]
+    }
+  }
+}

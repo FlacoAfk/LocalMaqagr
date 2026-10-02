@@ -12,7 +12,7 @@ export const securityHeaders = helmet({
       fontSrc: ["'self'", "https:", "data:"],
       formAction: ["'self'"],
       frameAncestors: ["'self'"], // Equivalente a X-Frame-Options: DENY/SAMEORIGIN mejorado
-      imgSrc: ["'self'", "data:"],
+      imgSrc: ["'self'", "data:", "https:"], // fotos oficiales de fabricantes/concesionarios (https externo)
       objectSrc: ["'none'"],
       scriptSrc: ["'self'"],
       scriptSrcAttr: ["'none'"],

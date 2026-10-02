@@ -1,0 +1,353 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/7/6/764-massey-ferguson-255.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/7/6/764-massey-ferguson-255-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/7/6/764-massey-ferguson-255-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/7/6/764-massey-ferguson-255-engine.html",
+    "source_id": 764,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:24:02.886Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/764/764-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 26 KB"
+  },
+  "tractor_data_id": 764,
+  "name": "Massey Ferguson 255",
+  "brand": "Massey Ferguson",
+  "model": "255",
+  "years": {
+    "desde": 1975,
+    "hasta": 1981
+  },
+  "model_year": 1975,
+  "engine_power_hp": 50,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 50,
+  "pto_tested_hp": 52.68,
+  "drawbar_tested_hp": 43.49,
+  "weight_kg": 2540,
+  "weight_basis": "Gas Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 23.4,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 16.9-24",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1339,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": 12.1,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/764/764-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/764/764-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td764.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "200 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Detroit, Michigan, USA",
+          "__seccion_4__": "Original price was $8,100 in 1981",
+          "__seccion_5__": "The 255 was available in three versions: standard, row-crop, and low-profile. No information currently available on the turbocharged 255T variant. It may have been built in Turkey by Uzel and possibly in India."
+        },
+        {
+          "__seccion_1__": "Variants",
+          "255T": "turbocharged engine"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 255 Engines",
+          "__seccion_2__": "Perkins 3.9L 4-cyl diesel",
+          "__seccion_3__": "Perkins 3.3L 4-cyl diesel",
+          "__seccion_4__": "Perkins 3.5L 4-cyl gasoline",
+          "__seccion_5__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 255 Transmissions",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "12-speed partial power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 255 Power",
+          "Drawbar (claimed)": "42 hp 31.3 kW",
+          "PTO (claimed)": "50 hp 37.3 kW",
+          "Drawbar (tested)": "43.49 hp 32.4 kW",
+          "PTO (tested)": "52.68 hp 39.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential dry disc brakes",
+          "__seccion_5__": "Two-post ROPS. Canopy optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 255 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "18.5 gal 70.0 L",
+          "Hydraulic system": "8 gal 30.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Capacity": "8 gal 30.3 L",
+          "Pressure": "2300 psi 158.6 bar",
+          "Valves": "0 to 2",
+          "Pump flow": "10 gpm 37.9 lpm",
+          "&nbsp": "4.5 gpm (3-point) 17.0 lpm",
+          "Total flow": "19.5 gpm 73.8 lpm",
+          "Steering flow": "5 gpm 18.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift": "3800 lbs 1723 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live (two-stage clutch)",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1683"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "82 inches 208 cm",
+          "Weight": "5600 to 6415 pounds",
+          "Front tire": "6.00-16",
+          "Rear tire": "16.9-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 255 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1974": "9A202190",
+          "1975": "9A207681",
+          "1976": "9A232539",
+          "1977": "9A254045",
+          "1978": "9A276935",
+          "1979": "9A296946",
+          "1980": "9A326169",
+          "1981": "9A339343",
+          "1982": "9A350584",
+          "1983": "9A354679",
+          "__seccion_1__": "255 Serial Numbers",
+          "Location:": "Below instrument panel",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "37",
+          "Battery volts": "12",
+          "Battery AH": "95"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Loaders and Spreaders published in 1979, by Massey Ferguson",
+          "__seccion_3__": "MF 255/265/275 Tractors published in 1975, by Massey Ferguson",
+          "__seccion_4__": "MF 34-81HP Tractors published in 1980, by Massey Ferguson",
+          "__seccion_5__": "MF 200 Series Tractors published in 1982, by Massey Ferguson",
+          "__seccion_6__": "Complete Farm Machinery Guide published in 1976, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "200 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 255 Tires",
+          "Ag front": "5.50-16 (row-crop)",
+          "&nbsp": "21.5-16.1 (low-profile)",
+          "Ag rear": "14.9-38 (row-crop)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "82 inches 208 cm",
+          "Height (hood)": "57.6 inches (low-profile) 146 cm",
+          "&nbsp": "19.6 inches (row-crop) 49 cm",
+          "Ground clearance": "10.4 inches (low-profile) 26 cm",
+          "Front tread": "52 to 76 inches 132 to 193 cm (row-crop)",
+          "Rear tread": "55 to 87 inches 139 to 220 cm (low-profile)"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 255 Weight",
+          "Gas Shipping": "5600 lbs 2540 kg",
+          "Diesel Shipping": "5850 lbs 2653 kg",
+          "Gas Operating": "6140 lbs 2785 kg",
+          "Diesel Operating": "6415 lbs 2909 kg",
+          "Ballasted": "7310 lbs 3315 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "200 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 1189: 203 diesel 12-speed 2WD",
+          "__seccion_3__": "NTTL 1190: gasoline 12-speed 2WD",
+          "__seccion_4__": "NTTL 1250: 236 diesel 12-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1189"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1189",
+          "__seccion_2__": "203 diesel 12-speed 2WD September 4 - 24, 1975 Link: Nebraska Tractor Test 1189 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "50.69 hp 37.8 kW",
+          "Fuel use": "3.1 gal/hour 11.7 l/hour",
+          "Power at rated PTO speed": "45.55 hp 34.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "42.07 hp 31.4 kW",
+          "__seccion_5__": "Gear 1HL used for power test.",
+          "Max pull": "5,257 lbs 2384 kg",
+          "__seccion_6__": "Gear 2LH used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1190"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1190",
+          "__seccion_2__": "Gasoline 12-speed 2WD September 4 - 25, 1975 Link: Nebraska Tractor Test 1190 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "50.01 hp 37.3 kW",
+          "Fuel use": "4.9 gal/hour 18.5 l/hour",
+          "Power at rated PTO speed": "47.14 hp 35.2 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "42.22 hp 31.5 kW",
+          "__seccion_5__": "Gear 1HL used for power test.",
+          "Max pull": "5,668 lbs 2571 kg",
+          "__seccion_6__": "Gear 2LH used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1250"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1250",
+          "__seccion_2__": "236 diesel 12-speed 2WD August 23 - September 1, 1977 Link: Nebraska Tractor Test 1250 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "52.68 hp 39.3 kW",
+          "Fuel use": "3.3 gal/hour 12.5 l/hour",
+          "Power at rated PTO speed": "48.37 hp 36.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "43.49 hp 32.4 kW",
+          "__seccion_5__": "Gear 1HL used for power test.",
+          "Max pull": "5,591 lbs 2536 kg",
+          "__seccion_6__": "Gear 2LH used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "200 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Perkins 3.9L 4-cyl diesel",
+          "__seccion_3__": "Perkins 3.3L 4-cyl diesel",
+          "__seccion_4__": "Perkins 3.5L 4-cyl gasoline"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "236 ci 3.9 L",
+          "Bore/Stroke": "3.875x5.00 inches 98 x 127 mm",
+          "Air cleaner": "paper and felt",
+          "Compression": "16:1",
+          "Rated RPM": "2000",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins AD4.203",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "203 ci 3.3 L",
+          "Bore/Stroke": "3.60x5.00 inches 91 x 127 mm",
+          "Compression": "18.5:1",
+          "Rated RPM": "2000",
+          "Starter volts": "12",
+          "Oil capacity": "8.5 qts 8.0 L",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins AG4.212",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "212 ci 3.5 L",
+          "Bore/Stroke": "3.875x4.50 inches 98 x 114 mm",
+          "Compression": "7:1",
+          "Rated RPM": "2000",
+          "Starter volts": "12",
+          "Oil capacity": "6 qts 5.7 L",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2023"
+        }
+      ]
+    }
+  }
+}

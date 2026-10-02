@@ -1,0 +1,241 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/5/9/6598-john-deere-5820.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/5/9/6598-john-deere-5820-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/5/9/6598-john-deere-5820-engine.html",
+    "source_id": 6598,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:49:39.854Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6598/6598-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 23 KB"
+  },
+  "tractor_data_id": 6598,
+  "name": "John Deere 5820",
+  "brand": "John Deere",
+  "model": "5820",
+  "years": {
+    "desde": 2003,
+    "hasta": 2008
+  },
+  "model_year": 2003,
+  "engine_power_hp": 88,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 76,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3700,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 27.9,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "13.6R24",
+    "radial": true,
+    "width_mm": 345,
+    "rim_in": 24,
+    "diameter_mm_est": 1197,
+    "tipo": "Radial",
+    "texto": "13.6R24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F006/6598/6598-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6598/6598-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td6598.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2003 - 2008",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany"
+        },
+        {
+          "__seccion_1__": "John Deere 5820 Engine",
+          "__seccion_2__": "John Deere 4.5L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5820 Transmissions",
+          "__seccion_2__": "16-speed",
+          "__seccion_3__": "32-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5820 Power",
+          "Engine": "88 hp 65.6 kW",
+          "PTO (claimed)": "76 hp 56.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Cab standard. Optional A/C."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 5820 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "30.1 gal 113.9 L",
+          "&nbsp": "34.6 gal (optional) 131.0 L",
+          "Hydraulic system": "13.75 gal 52.0 L",
+          "Front axle": "4.8 qts 4.5 L",
+          "Front hubs": "0.7 qts 0.7 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "load sensing pressure compensated",
+          "Capacity": "13.75 gal 52.0 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "up to 3",
+          "Total flow": "14.8 gpm 56.0 lpm",
+          "&nbsp": "17.2 gpm (optional) 65.1 lpm",
+          "Oil type": "-10 o F [-23 o C] ↑ : HY-GARD",
+          "-40 o ↔86 o F [-40 o ↔30 o C]": ": JDM J20D",
+          "-10 o F [-23 o C] ↑": ": JDM J20C"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at ends)": "8,319 lbs 3773 kg",
+          "Front Hitch": "optional",
+          "Front lift": "6,519 lbs 2957 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540/540E",
+          "&nbsp": "540/540E/1000",
+          "Front PTO": "optional",
+          "Front PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "88.6 inches 225 cm",
+          "Weight": "8,157 lbs 3700 kg",
+          "Front tire": "13.6R24",
+          "Rear tire": "16.9R34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5820 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "5820 Serial Numbers",
+          "Location:": "Main frame on right side"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "90",
+          "&nbsp": "154 (optional)",
+          "Battery volts": "12",
+          "Battery AH": "110"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "5020 Series published in 2003, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 10, 2014",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2003 - 2008",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 5820 Tires",
+          "Ag front": "13.6R24",
+          "Ag rear": "16.9R34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "88.6 inches 225 cm",
+          "Length": "155.5 inches 394 cm",
+          "Width": "85.6 inches 217 cm",
+          "Height (cab)": "102.2 inches 259 cm",
+          "&nbsp": "100.2 inches (low-profile) 254 cm",
+          "Shipping weight": "8,157 lbs 3700 kg",
+          "Max weight": "13,450 lbs 6100 kg",
+          "Ground clearance": "15.4 inches 39 cm",
+          "Front tread": "56 to 75.8 inches 142 to 192 cm",
+          "Rear tread": "55.6 to 75.3 inches 141 to 191 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 10, 2014"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2003 - 2008",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 4045TL274",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "276 ci 4.5 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Stage II",
+          "Power": "88 hp 65.6 kW",
+          "Rated RPM": "2300",
+          "Torque": "250 lb-ft 339.0 Nm",
+          "Torque RPM": "1500",
+          "Firing order": "1-3-4-2",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Starter power": "4 hp 3.0 kW",
+          "Coolant capacity": "14.3 qts 13.5 L",
+          "Coolant change": "3000 h",
+          "Intake valve clearance": "0.014 inches 0.356 mm",
+          "Exhaust valve clearance": "0.018 inches 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "13.7 qts 13.0 L",
+          "Oil change": "500 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 10, 2014"
+        }
+      ]
+    }
+  }
+}

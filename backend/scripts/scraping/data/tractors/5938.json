@@ -1,0 +1,263 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/9/3/5938-ford-3430.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/9/3/5938-ford-3430-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/9/3/5938-ford-3430-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/9/3/5938-ford-3430-engine.html",
+    "source_id": 5938,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:14:25.022Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5938/5938-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 5938,
+  "name": "Ford 3430",
+  "brand": "Ford",
+  "model": "3430",
+  "years": {
+    "desde": 1990,
+    "hasta": 1998
+  },
+  "model_year": 1990,
+  "engine_power_hp": 46,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 38,
+  "pto_tested_hp": 38.48,
+  "drawbar_tested_hp": 31.66,
+  "weight_kg": 2490,
+  "weight_basis": "4WD ROPS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 20.4,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 13.6-28",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1298,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": 9.5,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F005/5938/5938-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td5938.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1990 - 1998",
+          "__seccion_2__": "30 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Utility tractor",
+          "Original price": "$20,500 (1999 2WD )",
+          "__seccion_3__": "$25,500 (1999 4WD )"
+        },
+        {
+          "__seccion_1__": "Ford 3430 Engine",
+          "__seccion_2__": "Ford 3.1L 3-cyl diesel",
+          "ROPS Fuel tank": "17.3 gal 65.5 L",
+          "Cab Fuel tank": "25.3 gal 95.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 3430 Transmission",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 3430 Power",
+          "Engine": "46 hp 34.3 kW",
+          "PTO (claimed)": "38 hp 28.3 kW",
+          "Drawbar (tested)": "31.66 hp 23.6 kW",
+          "PTO (tested)": "38.48 hp 28.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Ford 3430 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "&nbsp": "12.8 gpm Opt Optional 48.4 lpm",
+          "Pressure": "2500 psi 172.4 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "7.7 gpm 29.1 lpm",
+          "Steering flow": "3.6 gpm 13.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position control with top link draft sensing",
+          "Rear lift": "3080 lbs 1397 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "Engine RPM": "540@1800",
+          "&nbsp": "540@1755 (shuttle)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "84.5 inches 214 cm",
+          "4WD Wheelbase": "84.1 inches 213 cm",
+          "Weight": "4642 to 5490 pounds",
+          "Front tire": "6.00-16",
+          "Rear tire": "13.6-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 3430 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "55 (early)",
+          "&nbsp": "45 (late)",
+          "Battery CCA": "800",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Front-End Loader 7310 published in 1994, by Ford",
+          "__seccion_3__": "Front-end Loaders published in 1992, by Ford",
+          "__seccion_4__": "Front-end Loaders published in 1995, by New Holland",
+          "__seccion_5__": "32 to 55 PTO hp Utility Tractors published in 1990, by Ford",
+          "__seccion_6__": "Ford 30 Series published in 1995, by New Holland"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 25, 2023",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1990 - 1998",
+          "__seccion_2__": "30 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Ford 3430 Tires",
+          "Ag front": "6.00-16",
+          "Ag rear": "13.6-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "84.5 inches 214 cm",
+          "4WD Wheelbase": "84.1 inches 213 cm",
+          "Length": "137 inches 347 cm",
+          "Width": "69.5 inches * Minimum width across fenders. 176 cm",
+          "Ground clearance": "13.5 inches 34 cm"
+        },
+        {
+          "__seccion_1__": "Ford 3430 Weight",
+          "2WD ROPS Shipping": "4642 lbs 2105 kg",
+          "4WD ROPS Shipping": "5490 lbs 2490 kg",
+          "Operating": "5428 lbs (4WD ROPS) 2462 kg"
+        },
+        {
+          "__seccion_1__": "Ford 3430 Height",
+          "ROPS": "90.6 inches 230 cm",
+          "Cab": "95 inches 241 cm",
+          "Exhaust": "83.5 inches 212 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 25, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1990 - 1998",
+          "__seccion_2__": "30 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1643"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1643",
+          "__seccion_2__": "Diesel 8x2 speed 4WD April 16 - 25, 1991 Link: OCED Tractor Test 1643 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "38.48 hp 28.7 kW",
+          "Fuel use": "2.5 gal/hour 9.5 l/hour",
+          "Power at rated PTO speed": "36.92 hp 27.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "31.66 hp 23.6 kW",
+          "__seccion_5__": "Gear 1H used for power test.",
+          "Max pull": "4,577 lbs 2076 kg",
+          "__seccion_6__": "Gear 2L used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 25, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1990 - 1998",
+          "__seccion_2__": "30 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "192 ci 3.1 L",
+          "Bore/Stroke": "4.40x4.20 inches 112 x 107 mm",
+          "Power": "46 hp 34.3 kW",
+          "Compression": "16.3:1",
+          "Rated RPM": "2000",
+          "Starter volts": "12",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 25, 2023"
+        }
+      ]
+    }
+  }
+}

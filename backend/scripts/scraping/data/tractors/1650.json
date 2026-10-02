@@ -1,0 +1,243 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/6/5/1650-caseih-stx450.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/6/5/1650-caseih-stx450-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/6/5/1650-caseih-stx450-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/6/5/1650-caseih-stx450-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1650,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:40:28.831Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1650/1650-td4-b01-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 49 KB"
+  },
+  "tractor_data_id": 1650,
+  "name": "CaseIH STX450",
+  "brand": "CaseIH",
+  "model": "STX450",
+  "years": {
+    "desde": 2002,
+    "hasta": 2005
+  },
+  "model_year": 2002,
+  "engine_power_hp": 450,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 395,
+  "pto_tested_hp": 454.23,
+  "drawbar_tested_hp": 371.35,
+  "weight_kg": 17837,
+  "weight_basis": "Operating",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 198.1,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 86.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1650/1650-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1650/1650-td4-b01-ext090.jpg",
+  "image_url": "/uploads/tractors/td1650.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2002 - 2005",
+          "__seccion_2__": "Steiger STX Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Fargo, North Dakota, USA",
+          "__seccion_4__": "The New Holland TJ450 is the same as the CaseIH STX450."
+        },
+        {
+          "__seccion_1__": "Variants",
+          "STX450": "wheeled tractor",
+          "STX450QT": "crawler tractor",
+          "TJ450": "similar New Holland model"
+        },
+        {
+          "__seccion_1__": "CaseIH STX450 Engine",
+          "__seccion_2__": "Cummins 14.9L 6-cyl diesel",
+          "Fuel tank": "300 gal 1135.5 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH STX450 Transmission",
+          "__seccion_2__": "16-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH STX450 Power",
+          "Engine": "450 hp 335.6 kW",
+          "Drawbar (claimed)": "360 hp 268.5 kW",
+          "PTO (claimed)": "395 hp 294.6 kW",
+          "Drawbar (tested)": "371.35 hp 276.9 kW",
+          "PTO (tested)": "454.23 hp 338.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "compound planetary",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Integrated hydraulic wet disc brakes",
+          "__seccion_4__": "Surveyor Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH STX450 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "pressure flow compensated (PFC)",
+          "Rear valves": "4 to 7",
+          "SCV flow": "35 gpm 132.5 lpm",
+          "Total flow": "40 gpm 151.4 lpm",
+          "&nbsp": "55 gpm Opt Optional 208.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IVN/III",
+          "Rear lift (at 24\"/610mm)": "19500 lbs 8845 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent Opt Optional",
+          "Rear PTO Type": "1000 (1.75)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "154 inches 391 cm",
+          "Weight": "39325 lbs 17837 kg",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "STX Series Steiger Tractors published in 2002, by CaseIH *",
+          "__seccion_3__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 7, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2002 - 2005",
+          "__seccion_2__": "Steiger STX Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH STX450 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "154 inches 391 cm",
+          "Length": "317.5 inches 806 cm",
+          "Width": "44 inches (frame) 111 cm",
+          "Height": "152.1 inches 386 cm",
+          "Front axle": "4.5 inch diameter 114 mm",
+          "Rear axle": "4.5 inch diameter 114 mm",
+          "Rear tread": "60 to 176 inches 152 to 447 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH STX450 Weight",
+          "Operating": "39325 lbs 17837 kg",
+          "Ballasted": "44560 lbs 20212 kg",
+          "Max capacity": "52000 lbs 23587 kg",
+          "Max Drawbar": "5300 lbs 2404 kg",
+          "&nbsp": "11000 lbs * Drawbar at innermost position. 4989 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 7, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2002 - 2005",
+          "__seccion_2__": "Steiger STX Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1784"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1784",
+          "__seccion_2__": "Diesel 16-speed 4WD October 11, 2000 - October 19;2000, Link: OCED Tractor Test 1784 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "371.35 hp 276.9 kW",
+          "Fuel use": "21.8 gal/hour 82.5 l/hour",
+          "Power at rated engine speed": "400.64 hp 298.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "44,525 lbs 20196 kg",
+          "__seccion_6__": "Gear 3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 7, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2002 - 2005",
+          "__seccion_2__": "Steiger STX Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Cummins QSX 15",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "912 ci 14.9 L",
+          "Bore/Stroke": "5.39x6.65 inches 137 x 169 mm",
+          "Power": "450 hp 335.6 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "16.5:1",
+          "Rated RPM": "2000",
+          "Torque": "1669 lb-ft 2263.2 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "CaseIH STX450 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 7, 2023"
+        }
+      ]
+    }
+  }
+}

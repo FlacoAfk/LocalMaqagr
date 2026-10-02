@@ -1,0 +1,232 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/1/8/1187-caseih-5220.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/1/8/1187-caseih-5220-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/1/8/1187-caseih-5220-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1187,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:35:55.261Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1187/1187-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 1187,
+  "name": "CaseIH 5220 Maxxum",
+  "brand": "CaseIH",
+  "model": "5220 Maxxum",
+  "years": {
+    "desde": 1992,
+    "hasta": 1997
+  },
+  "model_year": 1992,
+  "engine_power_hp": 80,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 80,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4699,
+  "weight_basis": "4WD Cab Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 29.4,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4-34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1187/1187-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td1187.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "Maxxum Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Original price was $36,000 in 1997"
+        },
+        {
+          "__seccion_1__": "CaseIH 5220 Engine",
+          "__seccion_2__": "CDC 3.9L 4-cyl diesel",
+          "Fuel tank": "35.7 gal 135.1 L",
+          "&nbsp": "45 gal Opt Optional 170.3 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 5220 Transmissions",
+          "__seccion_2__": "16-speed synchronized",
+          "__seccion_3__": "16-speed 4-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 5220 Power",
+          "PTO (claimed)": "80 hp 59.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "electro-hydraulic rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post fixed ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH 5220 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure-flow compensated",
+          "Pressure": "2600 psi 179.3 bar",
+          "Valves": "1 to 3",
+          "Pump flow": "20 gpm 75.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "lower-link draft sensing",
+          "Rear lift": "7700 lbs 3492 kg",
+          "Front Hitch": "II Opt Optional",
+          "Front lift (at 24\"/610mm)": "5200 lbs 2358 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "94.3 inches 239 cm",
+          "4WD Wheelbase": "92.3 inches 234 cm",
+          "Weight": "9127 to 10361 pounds",
+          "Front tire": "7.50-16",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1992": "JJF1015072",
+          "1993": "JJF1023186",
+          "1994": "JJF1029431",
+          "1995": "JJF1036193",
+          "1996": "JJF1047028",
+          "1997": "JJF1059169",
+          "__seccion_1__": "5220 Serial Numbers",
+          "Location:": "Inside cab on left",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "65",
+          "&nbsp": "2 Opt Optional",
+          "Batteries": "1",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Maxxum Tractors published in 1992, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 13, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "Maxxum Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH 5220 Tires",
+          "Ag front": "7.50-16",
+          "Ag rear": "18.4-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "94.3 inches 239 cm",
+          "4WD Wheelbase": "92.3 inches 234 cm",
+          "2WD Length": "161.2 inches 409 cm",
+          "4WD Length": "163.8 inches 416 cm",
+          "2WD ROPS Weight": "9127 lbs 4140 kg",
+          "4WD Cab Weight": "10361 lbs 4699 kg",
+          "2WD Clearance (front axle)": "22.1 inches 56 cm",
+          "4WD Clearance (front axle)": "17.2 inches 43 cm",
+          "Clearance (drawbar)": "17.8 inches 45 cm",
+          "__seccion_2__": "Flange rear axle",
+          "Bar rear axle": "96 inch length 2438 mm",
+          "Front tread": "60 to 88 inches 152 to 223 cm",
+          "Rear tread": "60 to 110 inches 152 to 279 cm (bar)"
+        },
+        {
+          "__seccion_1__": "CaseIH 5220 Height",
+          "Steering wheel": "78.4 inches 199 cm",
+          "Hood": "68.8 inches 174 cm",
+          "Cab": "105.2 inches 267 cm",
+          "Exhaust": "106.7 inches 271 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 13, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "Maxxum Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CDC",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "239 ci 3.9 L",
+          "Bore/Stroke": "4.02x4.72 inches 102 x 120 mm",
+          "Fuel system": "direct injection",
+          "Rated RPM": "2200",
+          "Idle RPM": "850-2355",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 13, 2021"
+        }
+      ]
+    }
+  }
+}

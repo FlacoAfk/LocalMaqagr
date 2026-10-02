@@ -1,0 +1,372 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/3/37-john-deere-70.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/3/37-john-deere-70-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/3/37-john-deere-70-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/3/37-john-deere-70-engine.html",
+    "source_id": 37,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:34:50.056Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/37/37-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 86 KB",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1072/",
+    "nebraska_test": 493
+  },
+  "tractor_data_id": 37,
+  "name": "John Deere 70",
+  "brand": "John Deere",
+  "model": "70",
+  "years": {
+    "desde": 1953,
+    "hasta": 1956
+  },
+  "model_year": 1953,
+  "engine_power_hp": 50.35,
+  "engine_power_source": "belt_claimed (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 45.6,
+  "weight_kg": 2965,
+  "weight_basis": "Gas Operating",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 24.3,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 12-38",
+  "tire_width_mm": 305,
+  "tire_diameter_mm": 1483,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/37/37-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/37/37-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td37.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1953 - 1956",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "Total built": "35,868 (row-crop)",
+          "&nbsp": "11,105 (diesel)",
+          "__seccion_4__": "Original price was $2800 in 1955",
+          "__seccion_5__": "Four variants of the John Deere model 70 were built; the 70, the diesel 70D (1954-1956 only), the high-crop 70, and the standard (wheatland) 70S."
+        },
+        {
+          "70": "row-crop",
+          "__seccion_1__": "Variants",
+          "70S": "standard tread",
+          "70HC": "high-crop"
+        },
+        {
+          "__seccion_1__": "John Deere 70 Engines",
+          "__seccion_2__": "John Deere 6.2L 2-cyl gasoline",
+          "__seccion_3__": "John Deere 6.8L 2-cyl all-fuel",
+          "__seccion_4__": "John Deere 6.2L 2-cyl LP gas",
+          "__seccion_5__": "John Deere 6.2L 2-cyl diesel",
+          "Gas Fuel tank": "24.5 gal 92.7 L",
+          "Diesel Fuel tank": "20 gal 75.7 L",
+          "LP gas Fuel tank": "33 gal 124.9 L",
+          "Aux. fuel": "1.75 gal 6.6 L",
+          "&nbsp": "0.25 gal (diesel) 0.9 L",
+          "__seccion_6__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 70 Transmission",
+          "__seccion_2__": "6-speed unsynchronized gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 70 Power",
+          "Belt (claimed)": "50.35 hp 37.5 kW",
+          "Drawbar (tested)": "45.60 hp 34.0 kW",
+          "Belt (tested)": "50.86 hp 37.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "manual",
+          "&nbsp": "power Opt Optional",
+          "__seccion_3__": "Differential mechanical expanding shoe brakes",
+          "__seccion_4__": "Open operator station"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 70 photos..."
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "&nbsp": "independent Opt Optional",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "91 inches 231 cm",
+          "Weight": "6538 to 7079 pounds",
+          "Front tire": "6.00-16",
+          "Rear tire": "12-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 70 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "70 Serial Number Location",
+          "__seccion_2__": "Right side of tractor frame, forward of and below the belt pully."
+        },
+        {
+          "1953": "7000001",
+          "1954": "7002283",
+          "1955": "7014803",
+          "1956": "7031300",
+          "__seccion_1__": "70 Serial Numbers",
+          "Final": "7043757",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Belt Pulley",
+          "Diameter": "12.875 inches 32 cm",
+          "Width": "7.375 inches 18 cm",
+          "RPM": "1125",
+          "Speed": "3790 ft/min 1155.19 meters/min"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive",
+          "Batteries": "2 (gas)",
+          "&nbsp": "1 (diesel)",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The First Numbered Series of John Deere Tractors published in 2004, by Hain Publishing",
+          "__seccion_3__": "Operator's Manual 70 Diesel Tractors (OM-R2032) published in 1953",
+          "__seccion_4__": "Operator's Manual 70 Series Tractors (OM-R2035) published in 1953",
+          "__seccion_5__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_6__": "General-Purpose Tractors published in 1953, by John Deere",
+          "__seccion_7__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 26, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1953 - 1956",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 70 Tires",
+          "Ag front": "6.00-16",
+          "Ag rear": "13-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "91 inches 231 cm",
+          "Length": "136.25 inches 346 cm",
+          "&nbsp": "88 inches (diesel) 223 cm",
+          "Width": "86.625 inches 220 cm",
+          "Height": "65.5625 inches 166 cm",
+          "Rear axle": "3.125 by 86.625 inches 79 by 2200 mm",
+          "Front tread": "48 to 80 inches 121 to 203 cm * Square tube",
+          "Rear tread": "66.5 to 105.25 inches 168 to 267 cm (extra-long axle)"
+        },
+        {
+          "__seccion_1__": "John Deere 70 Weight",
+          "Gas Operating": "6538 lbs 2965 kg",
+          "Diesel Operating": "7079 lbs 3211 kg",
+          "Ballasted": "9000 lbs 4082 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 26, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1953 - 1956",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 493: gasoline 6-speed 2WD",
+          "__seccion_3__": "NTTL 506: tractor fuel 6-speed 2WD",
+          "__seccion_4__": "NTTL 514: LP gas 6-speed 2WD",
+          "__seccion_5__": "NTTL 528: diesel 6-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 493"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 493",
+          "__seccion_2__": "Gasoline 6-speed 2WD May 15 - 20, 1953 Link: Nebraska Tractor Test 493 file",
+          "Belt power (max)": "48.29 hp 36.0 kW",
+          "Belt fuel use (max)": "4.5 gal/hour 17.0 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "42.24 hp 31.5 kW",
+          "__seccion_4__": "Gear 3 used for power test.",
+          "Max pull": "5,453 lbs 2473 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 506"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 506",
+          "__seccion_2__": "Tractor fuel 6-speed 2WD September 251953, - October 1, 1953 Link: Nebraska Tractor Test 506 file",
+          "Belt power (max)": "43.15 hp 32.2 kW",
+          "Belt fuel use (max)": "4.2 gal/hour 15.9 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "39.58 hp 29.5 kW",
+          "__seccion_4__": "Gear 3 used for power test.",
+          "Max pull": "5,102 lbs 2314 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 514"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 514",
+          "__seccion_2__": "LP gas 6-speed 2WD November 6 - 12, 1953 Link: Nebraska Tractor Test 514 file",
+          "Belt power (max)": "50.86 hp 37.9 kW",
+          "Belt fuel use (max)": "5.8 gal/hour 22.0 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "45.60 hp 34.0 kW",
+          "__seccion_4__": "Gear 3 used for power test.",
+          "Max pull": "6,127 lbs 2779 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 528"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 528",
+          "__seccion_2__": "Diesel 6-speed 2WD October 19 - 22, 1954 Link: Nebraska Tractor Test 528 file",
+          "Belt power (max)": "50.40 hp 37.6 kW",
+          "Belt fuel use (max)": "2.8 gal/hour 10.6 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "45.09 hp 33.6 kW",
+          "__seccion_4__": "Gear 4 used for power test.",
+          "Max pull": "6,189 lbs 2807 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 26, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1953 - 1956",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "John Deere 6.2L 2-cyl gasoline",
+          "__seccion_3__": "John Deere 6.8L 2-cyl all-fuel",
+          "__seccion_4__": "John Deere 6.2L 2-cyl LP gas",
+          "__seccion_5__": "John Deere 6.2L 2-cyl diesel"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "2-cylinder 4-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "379.5 ci 6.2 L",
+          "Bore/Stroke": "5.875x7.00 inches 149 x 178 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "6.15:1",
+          "Rated RPM": "975",
+          "Firing order": "1-2",
+          "Starter volts": "12",
+          "Coolant capacity": "34 qts 32.2 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "all-fuel",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "412.5 ci 6.8 L",
+          "Bore/Stroke": "6.125x7.00 inches 156 x 178 mm",
+          "Compression": "4.6:1",
+          "Rated RPM": "975",
+          "Firing order": "1-2",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "LP gas",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "379.5 ci 6.2 L",
+          "Bore/Stroke": "5.875x7.00 inches 149 x 178 mm",
+          "Compression": "7.3:1",
+          "Rated RPM": "975",
+          "Firing order": "1-2",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "__seccion_6__": "The diesel engine on the model 70 used a 18.85 cubic inch 4-cylinder starting engine.",
+          "Displacement": "375.6 ci 6.2 L",
+          "Bore/Stroke": "6.125x6.375 inches 156 x 162 mm",
+          "Compression": "16:1",
+          "Rated RPM": "1125",
+          "Firing order": "1-2",
+          "Starter": "Gasoline pony engine",
+          "Starter volts": "-unknown-",
+          "Oil capacity": "12 qts 11.4 L",
+          "Coolant capacity": "28 qts 26.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 26, 2025"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/5/151-john-deere-870.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/5/151-john-deere-870-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/5/151-john-deere-870-engine.html",
+    "source_id": 151,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:50:29.523Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/151/151-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 100 KB"
+  },
+  "tractor_data_id": 151,
+  "name": "John Deere 870",
+  "brand": "Yanmar",
+  "model": "deere 870",
+  "years": {
+    "desde": 1989,
+    "hasta": 1998
+  },
+  "model_year": 1989,
+  "engine_power_hp": 28,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": 25,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1211,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 9.2,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-24",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1145,
+  "tire_front": {
+    "original": "7-14",
+    "radial": false,
+    "width_mm": 178,
+    "rim_in": 14,
+    "diameter_mm_est": 658,
+    "tipo": "Diagonal",
+    "texto": "7-14"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/151/151-td3a.jpg",
+  "image_url": "/uploads/tractors/td151.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1989 - 1998",
+          "__seccion_2__": "70 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "John Deere",
+          "Manufacturer": "Yanmar",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan",
+          "__seccion_4__": "Original price was $14,000 in 1998"
+        },
+        {
+          "__seccion_1__": "John Deere 870 Engine",
+          "__seccion_2__": "Yanmar 1.4L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 870 Transmissions",
+          "__seccion_2__": "9-speed unsynchronized gear",
+          "__seccion_3__": "9-speed partially synchronized",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 870 Power",
+          "Engine (net)": "28 hp 20.9 kW",
+          "PTO (claimed)": "25 hp 18.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "Steering": "power Opt Optional",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 870 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "8.5 gal 32.2 L",
+          "Hydraulic system": "5.5 gal 20.8 L",
+          "Front axle": "6.9 qts 6.5 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "5.5 gal 20.8 L",
+          "Pressure": "2250 psi 155.1 bar",
+          "Rear valves": "2 Opt Optional",
+          "Mid valves": "2 Opt Optional",
+          "Pump flow": "8.1 gpm 30.7 lpm",
+          "Total flow": "8.1 gpm (manual steering) 30.7 lpm",
+          "&nbsp": "12.4 gpm (power steering) 46.9 lpm",
+          "Steering flow": "4.3 gpm 16.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at 24\"/610mm)": "1880 lbs 852 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live * Two-stage clutch",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "2100@2600",
+          "Mid PTO": "live * Optional. Independent engagement of mid, rear, or both PTO shafts.",
+          "Mid PTO Type": "2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "67.5 inches 171 cm",
+          "Weight": "2515 to 2670 pounds",
+          "Front tire": "5.00-15",
+          "2WD Rear tire": "11.2-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 870 attachments",
+          "__seccion_2__": "72.8\" mid-mount mower deck",
+          "__seccion_3__": "blade",
+          "__seccion_4__": "front-end loader",
+          "__seccion_5__": "backhoe",
+          "__seccion_6__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "870 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the rear of of the John Deere 870."
+        },
+        {
+          "1989": "1001",
+          "1990": "2746 (synchro)",
+          "1991": "100001",
+          "1992": "110001",
+          "1993": "120001",
+          "1994": "130001",
+          "1995": "140001",
+          "1996": "150001",
+          "1997": "160001",
+          "1998": "170001",
+          "__seccion_1__": "870 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "20",
+          "Battery CCA": "447",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Questions",
+          "__seccion_2__": "I'm looking to find out what model front mount snowblower will fit my 870 tractor? In the dealer sales literature I have, there was no front mount blower for the 870.",
+          "__seccion_3__": "Email: Peter@TractorData.com"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Grounds Care & Recreation Products Sales Manual published in 1989, by John Deere",
+          "__seccion_3__": "Lawn & Grounds Care Sales Manual published in 1997, by John Deere *",
+          "__seccion_4__": "Commercial & Consumer Equipment Sales Manual published in 1999, by John Deere",
+          "__seccion_5__": "Golf & Turf Equipment Purchasing Guide published in 1993, by John Deere",
+          "__seccion_6__": "Golf & Turf Equipment Purchasing Guide published in 1997, by John Deere",
+          "__seccion_7__": "Golf and Turf Equipment Purchasing Guide published in 1998, by John Deere",
+          "__seccion_8__": "Compact Tractors Under 40 Horsepower published in 1991, by John Deere",
+          "__seccion_9__": "Compact Utility Tractors published in 1993, by John Deere",
+          "__seccion_10__": "John Deere Compact Utility Tractors published in 1995",
+          "__seccion_11__": "Compact Utility Tractors Product Information Handbook published in 1991, by John Deere",
+          "__seccion_12__": "*Publication contains known errors.",
+          "__seccion_13__": "Operator's Manual 410 and 420 Loaders (OMC49370) published in 2005",
+          "__seccion_14__": "Operator's Manual 410 and 440 Loaders (OMW44193) published in 1997",
+          "__seccion_15__": "Operator's Manual 870, 970, and 1070 Compact Utility Tractors (OMM79651) published in 1989",
+          "__seccion_16__": "Operator's Manual 870, 970, and 1070 Compact Utility Tractors (OMM95327) published in 1991"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 30, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1989 - 1998",
+          "__seccion_2__": "70 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "John Deere 870 Tires",
+          "2WD Standard tires (ag)": "Front: 5.00-15. Rear: 11.2-24",
+          "4WD Standard tires (ag)": "Front: 7-14. Rear: 12.4-24",
+          "2WD Optional tires (ag)": "Front: 5.00-15. Rear: 12.4-24",
+          "Lawn/turf front": "25x8.50-14",
+          "Lawn/turf rear": "355/80D-20"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "67.5 inches 171 cm",
+          "Length": "123 inches 312 cm",
+          "2WD Width": "53.3 inches * Minimum width. 135 cm",
+          "4WD Width": "58.7 inches * Minimum width. 149 cm",
+          "2WD Weight": "2515 lbs 1140 kg",
+          "4WD Weight": "2670 lbs 1211 kg",
+          "2WD Clearance (front axle)": "11.9 inches 30 cm",
+          "4WD Clearance (front axle)": "12.7 inches 32 cm",
+          "2WD Front tread": "45.9 to 57.9 inches 116 to 147 cm",
+          "4WD Front tread": "39.5 inches 100 cm",
+          "Rear tread": "46.2 to 58 inches 117 to 147 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 870 Height",
+          "2WD Hood": "50.4 inches 128 cm",
+          "4WD Hood": "51.2 inches 130 cm",
+          "2WD ROPS": "81.9 inches 208 cm",
+          "4WD ROPS": "82.8 inches 210 cm",
+          "2WD Exhaust": "76 inches 193 cm",
+          "4WD Exhaust": "76.9 inches 195 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 30, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1989 - 1998",
+          "__seccion_2__": "70 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Yanmar 3TN84",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "87.3 ci 1.4 L",
+          "Bore/Stroke": "3.31x3.39 inches 84 x 86 mm",
+          "Power (net)": "28 hp 20.9 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dry with safety element",
+          "Pre-heating": "air intake heater",
+          "Compression": "17.8:1",
+          "Rated RPM": "2600",
+          "Operating RPM": "800-2775",
+          "Starter volts": "12",
+          "Coolant capacity": "5.5 qts 5.2 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "5.1 qts 4.8 L",
+          "Oil change": "200 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 30, 2025"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/151/151-td4-b01-ext045.jpg"
+}

@@ -1,0 +1,260 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/3/2/1324-kubota-m7500.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/3/2/1324-kubota-m7500-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/3/2/1324-kubota-m7500-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/3/2/1324-kubota-m7500-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1324,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:53:21.104Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1324/1324-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 74 KB"
+  },
+  "tractor_data_id": 1324,
+  "name": "Kubota M7500",
+  "brand": "Kubota",
+  "model": "M7500",
+  "years": {
+    "desde": 1979,
+    "hasta": 1986
+  },
+  "model_year": 1979,
+  "engine_power_hp": 81,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 72,
+  "pto_tested_hp": 72.31,
+  "drawbar_tested_hp": 59.05,
+  "weight_kg": 2544,
+  "weight_basis": "4WD Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 34.8,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-28",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1506,
+  "tire_front": {
+    "original": "11.2-24",
+    "radial": false,
+    "width_mm": 284,
+    "rim_in": 24,
+    "diameter_mm_est": 1093,
+    "tipo": "Diagonal",
+    "texto": "11.2-24"
+  },
+  "fuel_consumption_lph": 16.3,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1324/1324-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1324/1324-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1324.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1979 - 1986",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Japan"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "M7500DT": "4WD"
+        },
+        {
+          "__seccion_1__": "Kubota M7500 Engine",
+          "__seccion_2__": "Kubota 4.0L 4-cyl diesel",
+          "Fuel tank": "19.1 gal 72.3 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M7500 Transmission",
+          "__seccion_2__": "16-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M7500 Power",
+          "Engine (gross)": "81 hp 60.4 kW",
+          "PTO (claimed)": "72 hp 53.7 kW",
+          "Drawbar (tested)": "59.05 hp 44.0 kW",
+          "PTO (tested)": "72.31 hp 53.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "power",
+          "__seccion_3__": "Mechanical wet disc brakes",
+          "__seccion_4__": "Two-post ROPS. Optional canopy."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota M7500 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "1",
+          "Total flow": "9.25 gpm 35.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift (at ends)": "3740 lbs 1696 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/ground",
+          "Engine RPM": "540@2016"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "84.84 inches 215 cm",
+          "4WD Wheelbase": "85.63 inches 217 cm",
+          "Weight": "5082 to 5980 pounds",
+          "Front tire": "7.50-16",
+          "2WD Rear tire": "18.4-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota M7500 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1978": "10001 (M7500DT)",
+          "1979": "10401 (M7500DT)",
+          "1980": "10436 (M7500DT)",
+          "1981": "10761 (M7500DT)",
+          "1982": "11490 (M7500DT)",
+          "1983": "11744 (M7500DT)",
+          "1984": "50056 (M7500DT)",
+          "1985": "60011 (M7500DT)",
+          "1986": "69966 (M7500DT)",
+          "__seccion_1__": "M7500 Serial Numbers",
+          "Location:": "Serial number on the left side of the tractor's clutch housing.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Tractors and Excavators published in 1981, by Kubota",
+          "__seccion_3__": "Tractors and Excavators published in 1982, by Kubota",
+          "__seccion_4__": "M-Series published in 1985, by Kubota",
+          "__seccion_5__": "Diesel M7500 Tractor published in 1981, by Kubota"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 21, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1979 - 1986",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M7500 Tires",
+          "2WD Standard tires (ag)": "Front: 7.50-16. Rear: 18.4-28",
+          "4WD Standard tires (ag)": "Front: 11.2-24. Rear: 18.4-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "84.84 inches 215 cm",
+          "4WD Wheelbase": "85.63 inches 217 cm",
+          "2WD Length": "142.91 inches 362 cm",
+          "4WD Length": "147.83 inches 375 cm",
+          "2WD Width": "72.83 inches 184 cm",
+          "4WD Width": "77.36 inches 196 cm",
+          "2WD Height (exhaust)": "89.96 inches 228 cm",
+          "4WD Height (exhaust)": "91.14 inches 231 cm",
+          "2WD Clearance (front axle)": "18.31 inches 46 cm",
+          "4WD Clearance (front axle)": "14.76 inches 37 cm",
+          "2WD Front tread": "53.94 to 77.56 inches 137 to 197 cm",
+          "4WD Front tread": "59.06 inches 150 cm",
+          "Rear tread": "59.06 to 75.59 inches 150 to 191 cm"
+        },
+        {
+          "__seccion_1__": "Kubota M7500 Weight",
+          "2WD Shipping": "5082 lbs 2305 kg",
+          "4WD Shipping": "5610 lbs 2544 kg",
+          "4WD Operating": "5980 lbs 2712 kg",
+          "Ballasted": "9510 lbs 4313 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 21, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1979 - 1986",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1349"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1349",
+          "__seccion_2__": "Diesel 16-speed 4WD May 13 - 27, 1980 Link: Nebraska Tractor Test 1349 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "72.31 hp 53.9 kW",
+          "Fuel use": "4.2 gal/hour 15.9 l/hour",
+          "Power at rated PTO speed": "66.54 hp 49.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "59.05 hp 44.0 kW",
+          "Max pull": "7,820 lbs 3547 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 21, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1979 - 1986",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V4000 A",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "243 ci 4.0 L",
+          "Bore/Stroke": "4.134x4.528 inches 105 x 115 mm",
+          "Power (gross)": "81 hp 60.4 kW",
+          "Air cleaner": "single paper element",
+          "Compression": "17.0:1",
+          "Rated RPM": "2400",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 21, 2021"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/1/6/10162-john-deere-5100r.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/1/6/10162-john-deere-5100r-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/010/1/6/10162-john-deere-5100r-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/1/6/10162-john-deere-5100r-engine.html",
+    "source_id": 10162,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:05:28.798Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10162/10162-td4-b01-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 62 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 10162,
+  "name": "John Deere 5100R",
+  "brand": "John Deere",
+  "model": "5100R",
+  "years": {
+    "desde": 2017,
+    "hasta": 2022
+  },
+  "model_year": 2017,
+  "engine_power_hp": 100,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 85,
+  "pto_tested_hp": 103.73,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4450,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 38.1,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 18.4R30",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1557,
+  "tire_front": {
+    "original": "12.4R24",
+    "radial": true,
+    "width_mm": 315,
+    "rim_in": 24,
+    "diameter_mm_est": 1145,
+    "tipo": "Radial",
+    "texto": "12.4R24"
+  },
+  "fuel_consumption_lph": 20.1,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F010/10162/10162-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F010/10162/10162-td4-b01-ext090.jpg",
+  "image_url": "/uploads/tractors/td10162.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2017 - 2022",
+          "__seccion_2__": "5R Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Augusta, Georgia, USA",
+          "__seccion_4__": "Original price was $90,121 in 2019"
+        },
+        {
+          "__seccion_1__": "John Deere 5100R Engine",
+          "__seccion_2__": "John Deere 4.5L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5100R Transmissions",
+          "__seccion_2__": "16-speed",
+          "__seccion_3__": "24-speed",
+          "__seccion_4__": "32-speed",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5100R Power",
+          "Engine": "100 hp 74.6 kW",
+          "Open center PTO (claimed)": "85 hp 63.4 kW",
+          "PFC PTO (claimed)": "90 hp 67.1 kW",
+          "PTO (tested)": "103.73 hp 77.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "electro-hydraulic",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 5100R photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "38 gal 143.8 L",
+          "Exhaust fluid (DEF)": "2.9 gal 11.0 L",
+          "Open center Hydraulic system": "11.75 gal 44.5 L",
+          "PFC Hydraulic system": "12.5 gal 47.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Open center Type": "open center",
+          "PFC Type": "pressure-flow compensated",
+          "Open center Capacity": "11.75 gal 44.5 L",
+          "PFC Capacity": "12.5 gal 47.3 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "Open center SCV flow": "19.3 gpm 73.1 lpm",
+          "PFC SCV flow": "26.4 gpm 99.9 lpm",
+          "Open center Total flow": "25.5 gpm 96.5 lpm",
+          "PFC Total flow": "39 gpm 147.6 lpm",
+          "Open center Steering flow": "6.2 gpm 23.5 lpm",
+          "PFC Steering flow": "8.1 gpm 30.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "electro-hydraulic draft sensing",
+          "Rear lift (at ends)": "7158 lbs 3246 kg",
+          "&nbsp": "7868 lbs Opt Optional 3568 kg",
+          "Rear lift (at 24\"/610mm)": "6979 lbs 3165 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@2100",
+          "&nbsp": "1000@2103"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "88.6 inches 225 cm",
+          "Weight": "9811 lbs 4450 kg",
+          "Front tire": "12.4R24",
+          "Rear tire": "18.4R30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5100R attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "5100R Serial Numbers",
+          "Location:": "Serial number plate on the right side of the 5100R frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "200",
+          "Battery CCA": "950",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "5R Series Tractors published in 2018, by John Deere",
+          "__seccion_3__": "Get a load of Our new 5R options published in 2018, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on April 6, 2026",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2017 - 2022",
+          "__seccion_2__": "5R Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 5100R Tires",
+          "Standard tires (ag)": "Front: 12.4R24. Rear: 18.4R30",
+          "Optional tires (ag)": "Front: 11.2R28. Rear: 13.6R38",
+          "&nbsp": "Front: 380/70R24. Rear: 480/70R34",
+          "Lawn/turf front": "44x18-20",
+          "Lawn/turf rear": "23.1-26",
+          "Industrial front": "12.5/80-18",
+          "Industrial rear": "19.5L-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "88.6 inches 225 cm",
+          "Length": "147.8 inches 375 cm",
+          "Width": "87 inches 220 cm",
+          "Height (cab)": "106.1 inches 269 cm",
+          "Shipping weight": "9811 lbs 4450 kg",
+          "Max weight": "18960 lbs 8600 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 6, 2026"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2017 - 2022",
+          "__seccion_2__": "5R Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 2193: diesel CommandQuad 4WD Open Center",
+          "__seccion_3__": "NTTL 2194: diesel CommandQuad 4WD PFC"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 2193"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 2193",
+          "__seccion_2__": "Diesel CommandQuad 4WD Open Center April 18 - 24, 2018 Link: Nebraska Tractor Test 2193 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "100.11 hp 74.7 kW",
+          "Fuel use": "5.4 gal/hour 20.4 l/hour",
+          "Power at rated engine speed": "88.17 hp 65.7 kW",
+          "Power at rated PTO speed": "94.51 hp 70.5 kW"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 2194"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 2194",
+          "__seccion_2__": "Diesel CommandQuad 4WD PFC April 16 - 24, 2018 Link: Nebraska Tractor Test 2194 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "103.73 hp 77.4 kW",
+          "Fuel use": "5.5 gal/hour 20.8 l/hour",
+          "Power at rated engine speed": "92.95 hp 69.3 kW",
+          "Power at rated PTO speed": "97.92 hp 73.0 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 6, 2026"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2017 - 2022",
+          "__seccion_2__": "5R Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 4045 PowerTech PWL",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "276.4 ci 4.5 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Tier IV",
+          "Power": "100 hp 74.6 kW",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "12.3 qts 11.6 L",
+          "Coolant capacity": "17 qts 16.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 6, 2026"
+        }
+      ]
+    }
+  }
+}

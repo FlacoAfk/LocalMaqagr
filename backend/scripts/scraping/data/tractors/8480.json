@@ -1,0 +1,226 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/4/8/8480-john-deere-5050d.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/4/8/8480-john-deere-5050d-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/4/8/8480-john-deere-5050d-engine.html",
+    "source_id": 8480,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:03:26.654Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8480/8480-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 8480,
+  "name": "John Deere 5050D",
+  "brand": "John Deere",
+  "model": "5050D",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 50,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 42,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1829,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 15.4,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14.9x28",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1355,
+  "tire_front": {
+    "original": "6.0x16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.0x16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F008/8480/8480-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td8480.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2012 -",
+          "__seccion_2__": "5D Series"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Built in Pune, Maharashtra, India"
+        },
+        {
+          "__seccion_1__": "John Deere 5050D Engines",
+          "__seccion_2__": "John Deere 2.9L 3-cyl diesel",
+          "__seccion_3__": "John Deere 2.9L 3-cyl",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5050D Transmission",
+          "__seccion_2__": "8-speed collar shift gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5050D Power",
+          "Engine": "50 hp 37.3 kW",
+          "PTO (claimed)": "42 hp 31.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical wet disc brakes",
+          "__seccion_5__": "Open operator station. ROPS optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 5050D are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "15.85 gal 60.0 L",
+          "Hydraulic system": "9.2 gal 34.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "9.2 gal 34.8 L",
+          "Pump flow": "6.6 gpm 25.0 lpm",
+          "Steering flow": "6.6 gpm 25.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at ends)": "3086 lbs 1399 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "&nbsp": "live * Optional, with two-stage clutch.",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2200"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "76.8 inches 195 cm",
+          "Weight": "4034 lbs 1829 kg",
+          "Front tire": "6.0x16",
+          "Rear tire": "14.9x28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "Battery volts": "12",
+          "Battery AH": "88"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 11, 2015",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2012 -",
+          "__seccion_2__": "5D Series"
+        },
+        {
+          "__seccion_1__": "John Deere 5050D Tires",
+          "Ag front": "6.0x16",
+          "&nbsp": "13.6x28",
+          "Ag rear": "14.9x28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "76.8 inches 195 cm",
+          "Length": "132.7 inches 337 cm",
+          "Width": "71.1 inches 180 cm",
+          "Height (exhaust)": "87.4 inches 221 cm",
+          "Weight": "4034 lbs 1829 kg",
+          "Ground clearance": "17.3 inches 43 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 11, 2015"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2012 -",
+          "__seccion_2__": "5D Series"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "John Deere 2.9L 3-cyl diesel",
+          "__seccion_3__": "John Deere 2.9L 3-cyl"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 3029D",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "179 ci 2.9 L",
+          "Bore/Stroke": "4.19x4.33 inches 106 x 110 mm",
+          "Power": "50 hp 37.3 kW",
+          "Compression": "18.5:1",
+          "Rated RPM": "2300",
+          "Idle RPM": "850-2500",
+          "Operating RPM": "1400-2300",
+          "Torque": "109.2 lb-ft 148.1 Nm",
+          "Torque RPM": "1600",
+          "Firing order": "1-2-3",
+          "Starter volts": "12",
+          "Starter power": "3.4 hp 2.5 kW",
+          "Oil capacity": "9 qts 8.5 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 3029T",
+          "__seccion_3__": "turbocharged",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "The turbocharged 3029T engine was first advertised for the Deere 5050D in 2015.",
+          "Displacement": "179 ci 2.9 L",
+          "Bore/Stroke": "4.19x4.33 inches 106 x 110 mm",
+          "Power": "50 hp 37.3 kW",
+          "Compression": "18.5:1",
+          "Rated RPM": "2300",
+          "Torque": "141.6 lb-ft 192.0 Nm",
+          "Torque RPM": "1200",
+          "Firing order": "1-2-3"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 11, 2015"
+        }
+      ]
+    }
+  }
+}

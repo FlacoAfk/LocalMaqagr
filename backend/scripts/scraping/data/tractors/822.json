@@ -1,0 +1,265 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/2/822-massey-ferguson-1080.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/2/822-massey-ferguson-1080-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/8/2/822-massey-ferguson-1080-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/2/822-massey-ferguson-1080-engine.html",
+    "source_id": 822,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:25:45.803Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/822/822-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 50 KB"
+  },
+  "tractor_data_id": 822,
+  "name": "Massey Ferguson 1080",
+  "brand": "Massey Ferguson",
+  "model": "1080",
+  "years": {
+    "desde": 1969,
+    "hasta": 1972
+  },
+  "model_year": 1969,
+  "engine_power_hp": 80,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 80,
+  "pto_tested_hp": 81.23,
+  "drawbar_tested_hp": 70.22,
+  "weight_kg": 3515,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 39.8,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 23.1x30",
+  "tire_width_mm": 587,
+  "tire_diameter_mm": 1759,
+  "tire_front": {
+    "original": "10.00x16",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 16,
+    "diameter_mm_est": 838,
+    "tipo": "Diagonal",
+    "texto": "10.00x16"
+  },
+  "fuel_consumption_lph": 19.7,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/822/822-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/822/822-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td822.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1969 - 1972",
+          "__seccion_2__": "1000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Original price was $9,500 in 1972"
+        },
+        {
+          "285": "small chassis",
+          "1085": "large chassis",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1080 Engine",
+          "__seccion_2__": "Perkins 5.2L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1080 Transmissions",
+          "__seccion_2__": "12-speed two-speed power shift",
+          "__seccion_3__": "6-speed gear",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1080 Power",
+          "PTO (claimed)": "80 hp 59.7 kW",
+          "Drawbar (tested)": "70.22 hp 52.4 kW",
+          "PTO (tested)": "81.23 hp 60.6 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Dry disc brakes",
+          "__seccion_5__": "Open operator station. Cab optional with available air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 1080 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "42 gal (2WD) 159.0 L",
+          "&nbsp": "55.5 gal (4WD) 210.1 L",
+          "Hydraulic system": "8.5 gal 32.2 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "8.5 gal 32.2 L",
+          "Pressure": "2300 psi 158.6 bar",
+          "Valves": "1 or 2",
+          "Pump flow": "8 gpm 30.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000",
+          "Engine RPM": "540@1718",
+          "&nbsp": "1000@2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "97.7 inches 248 cm",
+          "Weight": "7750 to 8520 pounds",
+          "Front tire": "7.50-18",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1967": "9B10001",
+          "1968": "9B14693",
+          "1969": "9B18673",
+          "1970": "9B23486",
+          "1971": "9B28238",
+          "1972": "9B31959",
+          "__seccion_1__": "1080 Serial Numbers",
+          "Location:": "Instrument panel",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF Row Crop Tractors published in 1969, by Massey Ferguson",
+          "__seccion_3__": "New MF 1080 Western Tractor published in 1969, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1969 - 1972",
+          "__seccion_2__": "1000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1080 Tires",
+          "Ag front": "10.00x16",
+          "Ag rear": "23.1x30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "97.7 inches 248 cm",
+          "Length": "154 inches 391 cm",
+          "Width": "86.5 inches 219 cm",
+          "Height (steering wheel)": "74.8 inches 189 cm",
+          "Height (cab)": "112.5 inches 285 cm",
+          "Ground clearance": "23.6 inches 59 cm",
+          "Front tread": "56 inches 142 cm",
+          "Rear tread": "60 to 96 inches 152 to 243 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1080 Weight",
+          "Shipping": "7750 lbs 3515 kg",
+          "Operating": "8520 lbs 3864 kg",
+          "Ballasted": "11990 lbs 5438 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1969 - 1972",
+          "__seccion_2__": "1000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1022"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1022",
+          "__seccion_2__": "Diesel 12-speed 2WD September 12 - 25, 1969 Link: Nebraska Tractor Test 1022 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "81.23 hp 60.6 kW",
+          "Fuel use": "5.1 gal/hour 19.3 l/hour",
+          "Power at rated PTO speed": "73.79 hp 55.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "70.22 hp 52.4 kW",
+          "__seccion_5__": "Gear 1H-L used for power test.",
+          "Max pull": "8,949 lbs 4059 kg",
+          "__seccion_6__": "Gear 2L-H used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1969 - 1972",
+          "__seccion_2__": "1000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A4.318",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "318 ci 5.2 L",
+          "Bore/Stroke": "4.50x5.00 inches 114 x 127 mm",
+          "Air cleaner": "dry",
+          "Compression": "17.5:1",
+          "Rated RPM": "2000",
+          "Torque": "262 lb-ft 355.3 Nm",
+          "Torque RPM": "1250",
+          "Starter volts": "12",
+          "Oil capacity": "10 qts 9.5 L",
+          "Coolant capacity": "16.5 qts 15.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ]
+    }
+  }
+}

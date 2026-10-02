@@ -1,0 +1,257 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/2/7/1271-kubota-b7100.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/2/7/1271-kubota-b7100-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/2/7/1271-kubota-b7100-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1271,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:50:33.613Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1271/1271-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 101 KB"
+  },
+  "tractor_data_id": 1271,
+  "name": "Kubota B7100",
+  "brand": "Kubota",
+  "model": "B7100",
+  "years": {
+    "desde": 1976,
+    "hasta": 1985
+  },
+  "model_year": 1976,
+  "engine_power_hp": 16,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 13,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 489,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 4.8,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 8.3-16",
+  "tire_width_mm": 211,
+  "tire_diameter_mm": 765,
+  "tire_front": {
+    "original": "6-12",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 12,
+    "diameter_mm_est": 564,
+    "tipo": "Diagonal",
+    "texto": "6-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1271/1271-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1271/1271-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1271.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1976 - 1985",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan",
+          "__seccion_4__": "The Kubota B7100 was not available in the late 1980s, after that only the hydrostatic was available. Early model B7100 serial numbers began with \"B7001\", which is the Asian-market model designation."
+        },
+        {
+          "__seccion_1__": "Variants",
+          "B7100E": "2WD gear",
+          "B7100D": "4WD gear",
+          "B7100HST": "hydrostatic"
+        },
+        {
+          "__seccion_1__": "Kubota B7100 Engine",
+          "__seccion_2__": "Kubota 0.8L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B7100 Transmission",
+          "__seccion_2__": "6-speed unsynchronized gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B7100 Power",
+          "Engine (gross)": "16 hp 11.9 kW",
+          "PTO (claimed)": "13 hp 9.7 kW",
+          "Plows": "1 * 14-inch"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Mechanical wet disc brakes",
+          "__seccion_5__": "Open operator station. Two-post fixed ROPS available."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota B7100 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "3.4 gal 12.9 L",
+          "Hydraulic system": "3.6 gal 13.6 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "3.6 gal 13.6 L",
+          "Pump flow": "3 gpm 11.4 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift": "400 lbs 181 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "514@2800",
+          "&nbsp": "1498@2800",
+          "Front PTO Type": "2800"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "49.5 inches 125 cm",
+          "Weight": "1080 lbs 489 kg",
+          "Front tire": "6-12",
+          "4WD Rear tire": "8.3-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota B7100 attachments",
+          "__seccion_2__": "snowblower",
+          "__seccion_3__": "blade",
+          "__seccion_4__": "front-end loader",
+          "__seccion_5__": "backhoe",
+          "__seccion_6__": "Attachment details ..."
+        },
+        {
+          "1976": "10001",
+          "1977": "13931",
+          "1978": "36646",
+          "1979": "54221",
+          "1980": "64448",
+          "1981": "70678",
+          "1982": "74217",
+          "1983": "76009",
+          "1984": "77309",
+          "1985": "78435",
+          "__seccion_1__": "B7100 Serial Numbers",
+          "Location:": "Clutch housing, left side",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12",
+          "Battery AH": "45"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operator's Manual Model B2030 Front Blade (70050-02211) published in 1983 *",
+          "__seccion_3__": "Model B-670 Backhoe published in 1978, by Kubota",
+          "__seccion_4__": "Model B670 Backhoe published in 1983, by Kubota",
+          "__seccion_5__": "B-Series Mowers published in 1981, by Kubota",
+          "__seccion_6__": "Mid-Mount Mowers B/L Series published in 1978, by Kubota",
+          "__seccion_7__": "Diesel B B5100/B6100/B7100 published in 1982, by Kubota",
+          "__seccion_8__": "Operator's Manual published in 1978, by Kubota",
+          "__seccion_9__": "B7100D published in 1981, by Kubota",
+          "__seccion_10__": "Tractors and Excavators published in 1981, by Kubota",
+          "__seccion_11__": "Tractors and Excavators published in 1982, by Kubota",
+          "__seccion_12__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on August 4, 2026"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1976 - 1985",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota B7100 Tires",
+          "4WD Standard tires (ag)": "Front: 6-12. Rear: 8.3-16",
+          "Lawn/turf front": "20.5x8.00-10",
+          "Lawn/turf rear": "29x12.00-15"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "49.5 inches 125 cm",
+          "Length": "78.75 inches 200 cm",
+          "Width": "40 inches 101 cm",
+          "Height (steering wheel)": "45.5 inches 115 cm",
+          "Weight": "1080 lbs 489 kg",
+          "Ground clearance": "11.375 inches (transmission case) 28 cm",
+          "Clearance (front axle)": "9.5 inches 24 cm",
+          "Front tread": "32.5 inches 82 cm",
+          "Rear tread": "26/28/30 inches 66/71/76 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 4, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1976 - 1985",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota D750-A",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "46.5 ci 0.8 L",
+          "Bore/Stroke": "2.68x2.76 inches 68 x 70 mm",
+          "Power (gross)": "16 hp 11.9 kW",
+          "Air cleaner": "dry",
+          "Pre-heating": "glow plugs",
+          "Rated RPM": "2800",
+          "Firing order": "1-2-3",
+          "Starter volts": "12",
+          "Starter power": "1.1 hp 0.8 kW",
+          "Coolant capacity": "4.9 qts 4.6 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "4.1 qts 3.9 L"
+        },
+        {
+          "__seccion_1__": "Kubota B7100 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 4, 2026"
+        }
+      ]
+    }
+  }
+}

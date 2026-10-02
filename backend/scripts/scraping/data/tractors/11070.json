@@ -1,0 +1,271 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/011/0/7/11070-caseih-farmall-70a.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/011/0/7/11070-caseih-farmall-70a-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/011/0/7/11070-caseih-farmall-70a-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/011/0/7/11070-caseih-farmall-70a-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 11070,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:54:58.852Z",
+    "foto_original": "https://www.tractordata.com/photos/F011/11070/11070-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 11070,
+  "name": "CaseIH Farmall 70A",
+  "brand": "CaseIH",
+  "model": "Farmall 70A",
+  "years": {
+    "desde": 2010,
+    "hasta": 2015
+  },
+  "model_year": 2010,
+  "engine_power_hp": 70,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 62,
+  "pto_tested_hp": 63.99,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2295,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 23.5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 13.6x28",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1298,
+  "tire_front": {
+    "original": "7.5x16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.5x16"
+  },
+  "fuel_consumption_lph": 16.7,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F011/11070/11070-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td11070.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2015 -",
+          "__seccion_2__": "Farmall A Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in India"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 70A Engine",
+          "__seccion_2__": "FPT 2.2L 3-cyl diesel",
+          "Fuel tank": "13 gal 49.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 70A Transmission",
+          "__seccion_2__": "8-speed mechanical shuttle",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 70A Power",
+          "Engine (gross)": "70 hp 52.2 kW",
+          "PTO (claimed)": "62 hp 46.2 kW",
+          "PTO (tested)": "63.99 hp 47.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH Farmall 70A are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Rear valves": "1 or 2",
+          "Mid valves": "0 or 2",
+          "Pump flow": "11.9 gpm 45.0 lpm",
+          "Steering flow": "5.5 gpm 20.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at 24\"/610mm)": "2701 lbs 1225 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2575",
+          "&nbsp": "540E@2016"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "96.4 inches 244 cm",
+          "4WD Wheelbase": "97.6 inches 247 cm",
+          "Weight": "4442 to 5060 pounds",
+          "Front tire": "7.5x16",
+          "2WD Rear tire": "13.6x28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 70A attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "75",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Utility Farmall A Series Tractors published in 2016, by CaseIH *",
+          "__seccion_3__": "Utility Farmall A Series Tractors published in 2017, by CaseIH",
+          "__seccion_4__": "Farmall Utility Series Tractors published in 2021, by CaseIH",
+          "__seccion_5__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 17, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2015 -",
+          "__seccion_2__": "Farmall A Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 70A Tires",
+          "2WD Standard tires (ag)": "Front: 7.5x16. Rear: 13.6x28",
+          "&nbsp": "Front: 8.3x24. Rear: 13.6x28",
+          "Industrial front": "12.5x18",
+          "Industrial rear": "18.4x24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "96.4 inches 244 cm",
+          "4WD Wheelbase": "97.6 inches 247 cm",
+          "2WD Length": "129.5 inches 328 cm",
+          "4WD Length": "134 inches 340 cm",
+          "Width": "67.5 inches 171 cm",
+          "2WD Height": "92.7 inches 235 cm",
+          "4WD Height": "97.4 inches 247 cm",
+          "2WD Weight": "4442 lbs 2014 kg",
+          "4WD Weight": "5060 lbs 2295 kg",
+          "Flange rear axle": "53.9 inch length 1369 mm",
+          "2WD Front tread": "56 to 77.6 inches 142 to 197 cm",
+          "4WD Front tread": "61.3 to 69.2 inches 155 to 175 cm",
+          "Rear tread": "52.6 to 68.4 inches 133 to 173 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 17, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2015 -",
+          "__seccion_2__": "Farmall A Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 2200: diesel 8-speed 4WD",
+          "__seccion_3__": "NTTL 2209: diesel 8-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 2200"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 2200",
+          "__seccion_2__": "Diesel 8-speed 4WD August 28 - September 5, 2018 Link: Nebraska Tractor Test 2200 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "56.93 hp 42.5 kW",
+          "Fuel use": "4.3 gal/hour 16.3 l/hour",
+          "Power at rated PTO speed": "56.33 hp 42.0 kW"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 2209"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 2209",
+          "__seccion_2__": "Diesel 8-speed 2WD January 16 - 17, 2019 Link: Nebraska Tractor Test 2209 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "63.99 hp 47.7 kW",
+          "Fuel use": "4.6 gal/hour 17.4 l/hour",
+          "Power at rated PTO speed": "63.49 hp 47.3 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 17, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2015 -",
+          "__seccion_2__": "Farmall A Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "3-cylinder 6-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "135.9 ci 2.2 L",
+          "Bore/Stroke": "3.70x4.21 inches 94 x 107 mm",
+          "Emissions": "Tier IV",
+          "Power (gross)": "70 hp 52.2 kW",
+          "Fuel system": "electronic high-pressure common rail",
+          "Air cleaner": "dry",
+          "Pre-heating": "glow plugs",
+          "Rated RPM": "2600",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 70A Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 17, 2021"
+        }
+      ]
+    }
+  }
+}

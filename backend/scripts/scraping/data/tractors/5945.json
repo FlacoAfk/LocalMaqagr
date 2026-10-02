@@ -1,0 +1,321 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/9/4/5945-ford-4630.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/9/4/5945-ford-4630-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/9/4/5945-ford-4630-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/9/4/5945-ford-4630-engine.html",
+    "source_id": 5945,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:14:47.719Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5945/5945-td4-b01-ext180.jpg",
+    "foto_calidad": "webp 960px/q65 → 50 KB"
+  },
+  "tractor_data_id": 5945,
+  "name": "Ford 4630",
+  "brand": "Ford",
+  "model": "4630",
+  "years": {
+    "desde": 1990,
+    "hasta": 1993
+  },
+  "model_year": 1990,
+  "engine_power_hp": 60,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 55,
+  "pto_tested_hp": 56.82,
+  "drawbar_tested_hp": 48.54,
+  "weight_kg": 2749,
+  "weight_basis": "4WD ROPS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 21.5,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 13.6-28",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1298,
+  "tire_front": {
+    "original": "7.50-15",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 15,
+    "diameter_mm_est": 705,
+    "tipo": "Diagonal",
+    "texto": "7.50-15"
+  },
+  "fuel_consumption_lph": 14,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5945/5945-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5945/5945-td4-b01-ext180.jpg",
+  "image_url": "/uploads/tractors/td5945.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1990 - 1993",
+          "__seccion_2__": "30 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Utility tractor",
+          "Original price": "$26,200 (1999 2WD )",
+          "__seccion_3__": "$31,700 (1999 4WD )"
+        },
+        {
+          "__seccion_1__": "Ford 4630 Engines",
+          "__seccion_2__": "Ford 3.3L 3-cyl diesel",
+          "__seccion_3__": "Ford 3.1L 3-cyl diesel",
+          "ROPS Fuel tank": "17.3 gal 65.5 L",
+          "Cab Fuel tank": "25.3 gal 95.8 L",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 4630 Transmissions",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "8-speed synchronized shuttle",
+          "__seccion_4__": "16-speed partial power shift",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 4630 Power",
+          "Engine": "60 hp 44.7 kW",
+          "PTO (claimed)": "55 hp 41.0 kW",
+          "Drawbar (tested)": "48.54 hp 36.2 kW",
+          "PTO (tested)": "56.82 hp 42.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 4630 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "&nbsp": "14.1 gpm Opt Optional 53.4 lpm",
+          "Pressure": "2500 psi 172.4 bar",
+          "Valves": "1 to 2 (Open center)",
+          "Pump flow": "8.5 gpm 32.2 lpm",
+          "Steering flow": "3.6 gpm 13.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position control with top link draft sensing",
+          "Rear lift": "3080 lbs 1397 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "Engine RPM": "540@1800",
+          "&nbsp": "540@1755 (shuttle)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "84.5 inches 214 cm",
+          "4WD Wheelbase": "84.1 inches 213 cm",
+          "Weight": "5194 to 6062 pounds",
+          "Front tire": "7.50-15",
+          "Rear tire": "13.6-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 4630 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1990": "BC26239",
+          "1991": "BC68791",
+          "1992": "BD05270",
+          "1993": "BD36800",
+          "1994": "BD64162",
+          "1995": "BD93484",
+          "1996": "02658B",
+          "1997": "056083B",
+          "1998": "083357B",
+          "1999": "111612B",
+          "__seccion_1__": "4630 Serial Numbers",
+          "Location:": "Serial number decal inside the hood panel.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "45 (late)",
+          "Cab Charging amps": "70",
+          "Battery CCA": "800",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Front-End Loader 7310 published in 1994, by Ford",
+          "__seccion_3__": "Front-end Loaders published in 1992, by Ford",
+          "__seccion_4__": "Front-end Loaders published in 1995, by New Holland",
+          "__seccion_5__": "32 to 55 PTO hp Utility Tractors published in 1990, by Ford",
+          "__seccion_6__": "Ford 30 Series published in 1995, by New Holland"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 25, 2023",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1990 - 1993",
+          "__seccion_2__": "30 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Ford 4630 Tires",
+          "Ag front": "7.50-15",
+          "Ag rear": "13.6-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "84.5 inches 214 cm",
+          "4WD Wheelbase": "84.1 inches 213 cm",
+          "Length": "139 inches 353 cm",
+          "Width": "69.5 inches * Minimum width across fenders. 176 cm",
+          "Ground clearance": "13.5 inches 34 cm"
+        },
+        {
+          "__seccion_1__": "Ford 4630 Weight",
+          "2WD ROPS Shipping": "5194 lbs 2355 kg",
+          "4WD ROPS Shipping": "6062 lbs 2749 kg",
+          "4WD ROPS Operating": "5680 lbs 2576 kg"
+        },
+        {
+          "__seccion_1__": "Ford 4630 Height",
+          "ROPS": "98.5 inches 250 cm",
+          "Cab": "99.4 inches 252 cm",
+          "Exhaust": "93.1 inches 236 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 25, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1990 - 1993",
+          "__seccion_2__": "30 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "OECD 1645: 3.3L diesel 8-speed 4WD",
+          "__seccion_3__": "OECD 1703: 3.1L diesel 16-speed 4WD"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1645"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1645",
+          "__seccion_2__": "3.3L diesel 8-speed 4WD April 30 - May 3, 1991 Link: OCED Tractor Test 1645 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "55.41 hp 41.3 kW",
+          "Fuel use": "3.7 gal/hour 14.0 l/hour",
+          "Power at rated PTO speed": "50.77 hp 37.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "46.47 hp 34.7 kW",
+          "__seccion_5__": "Gear 2H used for power test.",
+          "Max pull": "4,833 lbs 2192 kg",
+          "__seccion_6__": "Gear 3L used for pull test."
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1703"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1703",
+          "__seccion_2__": "3.1L diesel 16-speed 4WD October 23 - 27, 1995 Link: OCED Tractor Test 1703 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "56.82 hp 42.4 kW",
+          "Fuel use": "3.7 gal/hour 14.0 l/hour",
+          "Power at rated PTO speed": "53.12 hp 39.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "48.54 hp 36.2 kW",
+          "__seccion_5__": "Gear 6L used for power test.",
+          "Max pull": "5,672 lbs 2572 kg",
+          "__seccion_6__": "Gear 3L used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 25, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1990 - 1993",
+          "__seccion_2__": "30 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Ford 3.3L 3-cyl diesel",
+          "__seccion_3__": "Ford 3.1L 3-cyl diesel"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "__seccion_6__": "Original, naturally-aspirated, engine used until 1995.",
+          "Displacement": "201 ci 3.3 L",
+          "Bore/Stroke": "4.40x4.40 inches 112 x 112 mm",
+          "Power": "60 hp 44.7 kW",
+          "Compression": "16.3:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12",
+          "Coolant capacity": "11.2 qts 10.6 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "__seccion_6__": "Turbocharged engine introduced on the 4630 in 1995, tractor serial number BD81699.",
+          "Displacement": "192 ci 3.1 L",
+          "Bore/Stroke": "4.40x4.20 inches 112 x 107 mm",
+          "Compression": "16.1:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 25, 2023"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/2/121-john-deere-2750.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/2/121-john-deere-2750-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/1/2/121-john-deere-2750-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/2/121-john-deere-2750-engine.html",
+    "source_id": 121,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:48:51.939Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/121/121-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 70 KB"
+  },
+  "tractor_data_id": 121,
+  "name": "John Deere 2750",
+  "brand": "John Deere",
+  "model": "2750",
+  "years": {
+    "desde": 1983,
+    "hasta": 1986
+  },
+  "model_year": 1983,
+  "engine_power_hp": 75,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 75,
+  "pto_tested_hp": 75.35,
+  "drawbar_tested_hp": 62.97,
+  "weight_kg": 3724,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 33.7,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-30",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1557,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": 18.2,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/121/121-td3a.jpg",
+  "image_url": "/uploads/tractors/td121.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "2050 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany",
+          "Original price": "$24,596 (1983 ROPS 2WD )",
+          "__seccion_4__": "$36,941 (1983 Cab 4WD )"
+        },
+        {
+          "2750": "utility chassis",
+          "__seccion_1__": "Variants",
+          "2750 High-Clearance": "high-crop",
+          "2750 Low-Profile": "orchard"
+        },
+        {
+          "__seccion_1__": "John Deere 2750 Engine",
+          "__seccion_2__": "John Deere 3.9L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2750 Transmissions",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "16-speed partial powershift",
+          "__seccion_4__": "12-speed partially synchronized",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2750 Power",
+          "PTO (claimed)": "75 hp 55.9 kW",
+          "Drawbar (tested)": "62.97 hp 47.0 kW",
+          "PTO (tested)": "75.35 hp 56.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Canopy available. Sound-Gard cab optional with available heat and air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 2750 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "26 gal 98.4 L",
+          "Hydraulic system": "13.2 gal 50.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "13.2 gal 50.0 L",
+          "Rear valves": "1 or 2",
+          "Pump flow": "23 gpm 87.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "load and depth control",
+          "Rear lift": "3,300 lbs 1496 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "&nbsp": "540/1000 Opt Optional"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "89.2 inches 226 cm",
+          "4WD Wheelbase": "90 inches 228 cm",
+          "Weight": "7500 to 8910 pounds",
+          "Front tire": "7.50-16",
+          "Rear tire": "18.4-30 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2750 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1983": "433494",
+          "1984": "505001",
+          "1985": "532000",
+          "1986": "562001",
+          "__seccion_1__": "2750 Serial Numbers",
+          "Location:": "Right side of main tractor frame, above front axle.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "55",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Loaders, Spreaders and Blades published in 1984, by John Deere",
+          "__seccion_3__": "Tractors 45 to 85 HP published in 1984, by John Deere",
+          "__seccion_4__": "Utility Tractors Product Information Handbook published in 1984, by John Deere",
+          "__seccion_5__": "Mechanical Front-Wheel Drive published in 1984, by John Deere",
+          "__seccion_6__": "Agricultural Price List published in 1983, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 31, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "2050 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 2750 Tires",
+          "Standard tires (ag)": "Front: 7.50-16. Rear: 18.4-30 (2WD)",
+          "&nbsp": "Front: 13.6-24. Rear: 15.5-38 (4WD)",
+          "Lawn/turf front": "27x9.5-15",
+          "Lawn/turf rear": "21.5L-16.1"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "89.2 inches 226 cm",
+          "4WD Wheelbase": "90 inches 228 cm",
+          "2WD Length": "138.8 inches 352 cm",
+          "4WD Length": "136.9 inches 347 cm",
+          "Height (steering wheel)": "66.3 inches 168 cm",
+          "Height (cab)": "102.2 inches 259 cm",
+          "2WD Clearance (front axle)": "24.8 inches 62 cm",
+          "4WD Clearance (front axle)": "18.9 inches 48 cm",
+          "__seccion_2__": "Rack-and-pinion rear axle"
+        },
+        {
+          "__seccion_1__": "John Deere 2750 Weight",
+          "Shipping": "8,210 lbs (2WD cab) 3724 kg",
+          "&nbsp": "8,910 lbs (4WD cab) 4041 kg",
+          "Operating": "7,500 lbs (2WD ROPS) 3402 kg",
+          "Ballasted": "9,625 lbs 4365 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 31, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "2050 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1472"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1472",
+          "__seccion_2__": "Diesel 16-speed 2WD April 11 - May 11, 1983 Link: Nebraska Tractor Test 1472 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "75.35 hp 56.2 kW",
+          "Fuel use": "4.8 gal/hour 18.2 l/hour",
+          "Power at rated PTO speed": "75.07 hp 56.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "62.97 hp 47.0 kW",
+          "__seccion_5__": "Gear 5L used for power test.",
+          "Max pull": "7,581 lbs 3438 kg",
+          "__seccion_6__": "Gear 3L used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 31, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "2050 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "239 ci 3.9 L",
+          "Bore/Stroke": "4.19x4.33 inches 106 x 110 mm",
+          "Compression": "16.8:1",
+          "Rated RPM": "2500",
+          "Starter volts": "12",
+          "Coolant capacity": "3.4 qts 3.2 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 31, 2022"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/121/121-td4-b01.jpg"
+}

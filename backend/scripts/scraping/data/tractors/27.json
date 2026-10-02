@@ -1,0 +1,249 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/2/27-john-deere-g.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/2/27-john-deere-g-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/2/27-john-deere-g-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/2/27-john-deere-g-engine.html",
+    "source_id": 27,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:34:49.992Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/27/27-photo-001-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 84 KB",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1048/",
+    "nebraska_test": 295
+  },
+  "tractor_data_id": 27,
+  "name": "John Deere G Unstyled",
+  "brand": "John Deere",
+  "model": "G Unstyled",
+  "years": {
+    "desde": 1937,
+    "hasta": 1953
+  },
+  "model_year": 1937,
+  "engine_power_hp": 31.44,
+  "engine_power_source": "belt_claimed (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 27.63,
+  "weight_kg": 2268,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 18.2,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 51.5x7",
+  "tire_width_mm": 1308,
+  "tire_diameter_mm": 2402,
+  "tire_front": {
+    "original": "24x5",
+    "radial": false,
+    "width_mm": 610,
+    "rim_in": 5,
+    "diameter_mm_est": 1163,
+    "tipo": "Diagonal",
+    "texto": "24x5"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/27/27-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/27/27-photo-001-ext090.jpg",
+  "image_url": "/uploads/tractors/td27.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1937 - 1953",
+          "__seccion_2__": "Model year 1937-1941 1942-1948 1948-1953",
+          "__seccion_3__": "Two-Cylinder Letter Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "Total built": "10,684 (Unstyled)",
+          "__seccion_4__": "The first 3,250 John Deere model G tractors (serial number 1000 through 4250) are known as \"low radiator\" Gs. Overheating issues resulted in a production change to a larger radiator beginning with serial number 4251. Many of the original tractors were refitted with the new radiator."
+        },
+        {
+          "__seccion_1__": "John Deere G Engine",
+          "__seccion_2__": "John Deere 6.8L 2-cyl all fuel",
+          "Fuel tank": "17 gal 64.3 L",
+          "Aux. fuel": "1.5 gal 5.7 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere G Transmission",
+          "__seccion_2__": "4-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere G Power",
+          "Drawbar (claimed)": "20.70 hp 15.4 kW",
+          "Belt (claimed)": "31.44 hp 23.4 kW",
+          "Plows": "3 (14-inch)",
+          "Drawbar (tested)": "27.63 hp 20.6 kW",
+          "Belt (tested)": "35.91 hp 26.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere G photos..."
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Rear PTO Type": "540 (1.75)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "5000 lbs 2268 kg",
+          "Front tire": "24x5",
+          "Rear tire": "51.5x7",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "G Serial Number Location",
+          "__seccion_2__": "Serial number plate on the left side of the unstyled John Deere G, near the flywheel. Plate on the right side above pulley on the styled G."
+        },
+        {
+          "1938": "1000 (G Unstyled)",
+          "1939": "7734 (G Unstyled)",
+          "1940": "9321 (G Unstyled)",
+          "1941": "10489 (G Unstyled)",
+          "1942": "13000 (GM)",
+          "1943": "13418 (GM)",
+          "1944": "None",
+          "1945": "13748 (GM)",
+          "1946": "15780 (GM)",
+          "1947": "23000 (G Early Styled)",
+          "1948": "26000 (G Late Styled)",
+          "1949": "32457 (G Late Styled)",
+          "1950": "39161 (G Late Styled)",
+          "1951": "46809 (G Late Styled)",
+          "1952": "53479 (G Late Styled)",
+          "1953": "63138 (G Late Styled)",
+          "__seccion_1__": "G Serial Numbers",
+          "Final": "22112 (GM)",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere Unstyled Letter Series by J.R. Hobbs",
+          "__seccion_3__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_4__": "General-Purpose Tractors published in 1938, by John Deere",
+          "__seccion_5__": "General-Purpose Tractors published in 1940, by John Deere",
+          "__seccion_6__": "General Catalog published in 1940, by John Deere",
+          "__seccion_7__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 22, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1937 - 1953",
+          "__seccion_2__": "Model year 1937-1941 1942-1948 1948-1953",
+          "__seccion_3__": "Two-Cylinder Letter Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere G Tires",
+          "Ag front": "24x5",
+          "&nbsp": "12x38 (13.6)",
+          "Ag rear": "51.5x7"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Length": "135 inches 342 cm",
+          "Width": "61.5 inches 156 cm",
+          "Height": "84 inches 213 cm",
+          "Operating weight": "5000 lbs 2268 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 22, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1937 - 1953",
+          "__seccion_2__": "Model year 1937-1941 1942-1948 1948-1953",
+          "__seccion_3__": "Two-Cylinder Letter Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 295"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 295",
+          "__seccion_2__": "Distillate 4-speed 2WD November 15 - 19, 1937 Link: Nebraska Tractor Test 295 file",
+          "Belt power (max)": "35.91 hp 26.8 kW",
+          "Belt fuel use (max)": "3.9 gal/hour 14.8 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "27.63 hp 20.6 kW",
+          "__seccion_4__": "Gear 2 used for power test.",
+          "Max pull": "4,085 lbs 1852 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 22, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1937 - 1953",
+          "__seccion_2__": "Model year 1937-1941 1942-1948 1948-1953",
+          "__seccion_3__": "Two-Cylinder Letter Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "all fuel",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "412.5 ci 6.8 L",
+          "Bore/Stroke": "6.125x7.00 inches 156 x 178 mm",
+          "Compression": "4.2:1",
+          "Rated RPM": "975",
+          "Firing order": "1-2",
+          "Starter type": "hand crank",
+          "Oil capacity": "11 qts 10.4 L",
+          "Coolant capacity": "44 qts 41.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 22, 2025"
+        }
+      ]
+    }
+  }
+}

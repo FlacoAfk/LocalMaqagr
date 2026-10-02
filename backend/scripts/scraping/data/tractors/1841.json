@@ -1,0 +1,217 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/8/4/1841-kubota-m108x.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/8/4/1841-kubota-m108x-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/8/4/1841-kubota-m108x-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1841,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:54:15.872Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1841/1841-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 1841,
+  "name": "Kubota M108X",
+  "brand": "Kubota",
+  "model": "M108X",
+  "years": {
+    "desde": 2007,
+    "hasta": 2009
+  },
+  "model_year": 2007,
+  "engine_power_hp": 108,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": 93,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4276,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 34.1,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 18.4R34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "13.6R24",
+    "radial": true,
+    "width_mm": 345,
+    "rim_in": 24,
+    "diameter_mm_est": 1197,
+    "tipo": "Radial",
+    "texto": "13.6R24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1841/1841-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td1841.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2007 - 2009"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "Original price": "$57,301 (2011)"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "M108X": "row-crop",
+          "M108SDSL": "low-profile"
+        },
+        {
+          "__seccion_1__": "Kubota M108X Engine",
+          "__seccion_2__": "Kubota 3.8L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M108X Transmissions",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "24-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M108X Power",
+          "Engine (net)": "108 hp 80.5 kW",
+          "PTO (claimed)": "93 hp 69.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "standard",
+          "Steering": "hydrostatic power steering",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Cab standard with heat and air-conditioning. Optional radio/CD-player and instructor seat."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Kubota M108X are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "50.2 gal 190.0 L",
+          "Hydraulic system": "16.6 gal 62.8 L",
+          "Front axle": "11.1 qts 10.5 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "16.6 gal 62.8 L",
+          "Pressure": "2844 psi 196.1 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "18.1 gpm 68.5 lpm",
+          "Total flow": "31.3 gpm 118.5 lpm",
+          "Steering flow": "13.2 gpm 50.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at ends)": "5,809 lbs 2634 kg",
+          "Rear lift (at 24\"/610mm)": "5,203 lbs 2360 kg",
+          "&nbsp": "9,447 lbs (optional) 4285 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@2035",
+          "&nbsp": "1000@2210"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "95.9 inches 243 cm",
+          "Weight": "9,427 lbs 4276 kg",
+          "Front tire": "13.6R24",
+          "Rear tire": "18.4R34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota M108X attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "80",
+          "Battery CCA": "900",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 16, 2016"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2007 - 2009"
+        },
+        {
+          "__seccion_1__": "Kubota M108X Tires",
+          "Standard tires (ag)": "Front: 13.6R24. Rear: 18.4R34",
+          "Optional tires (ag)": "Front: 12.4R24. Rear: 18.4R30",
+          "&nbsp": "Front: 12.4-24. Rear: 16.9-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "95.9 inches 243 cm",
+          "Length": "163.4 inches 415 cm",
+          "Width": "83.7 inches 212 cm",
+          "Height": "105.9 inches 268 cm",
+          "Weight": "9,427 lbs 4276 kg",
+          "Ground clearance": "23.2 inches 58 cm",
+          "Front tread": "80 inches 203 cm (optional)",
+          "Rear tread": "60.2 to 80.1 inches 152 to 203 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 16, 2016"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2007 - 2009"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota F5802TE2",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "230 ci 3.8 L",
+          "Bore/Stroke": "3.94x4.72 inches 100 x 120 mm",
+          "Power (net)": "108 hp 80.5 kW",
+          "Air cleaner": "8-inch dry dual element",
+          "Rated RPM": "2600",
+          "Starter volts": "12",
+          "Oil capacity": "11.3 qts 10.7 L",
+          "Coolant capacity": "9.6 qts 9.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 16, 2016"
+        }
+      ]
+    }
+  }
+}

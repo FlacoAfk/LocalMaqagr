@@ -1,0 +1,239 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/1/8/1186-caseih-5140.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/1/8/1186-caseih-5140-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/1/8/1186-caseih-5140-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1186,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:35:52.060Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1186/1186-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 52 KB"
+  },
+  "tractor_data_id": 1186,
+  "name": "CaseIH 5140 Maxxum",
+  "brand": "CaseIH",
+  "model": "5140 Maxxum",
+  "years": {
+    "desde": 1990,
+    "hasta": 1991
+  },
+  "model_year": 1990,
+  "engine_power_hp": 108.5,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 94,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4910,
+  "weight_basis": "4WD Cab Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 34.5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9-38",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1695,
+  "tire_front": {
+    "original": "14.9-24",
+    "radial": false,
+    "width_mm": 378,
+    "rim_in": 24,
+    "diameter_mm_est": 1253,
+    "tipo": "Diagonal",
+    "texto": "14.9-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1186/1186-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1186/1186-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td1186.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1990 - 1991",
+          "__seccion_2__": "Maxxum Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Neuss, Germany",
+          "__seccion_4__": "Original price was $34,000 in 1991"
+        },
+        {
+          "__seccion_1__": "CaseIH 5140 Engine",
+          "__seccion_2__": "CDC 5.9L 6-cyl diesel",
+          "Fuel tank": "35.7 gal 135.1 L",
+          "&nbsp": "45 gal Opt Optional 170.3 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 5140 Transmissions",
+          "__seccion_2__": "16-speed fully synchronized",
+          "__seccion_3__": "16-speed partial power shift",
+          "__seccion_4__": "24-speed creeper",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 5140 Power",
+          "Engine": "108.5 hp 80.9 kW",
+          "PTO (claimed)": "94 hp 70.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "electrically activated",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Flat-deck platform with two-post fixed ROPS. Optional canopy or foldable ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH 5140 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure flow compensated",
+          "Pressure": "2600 psi 179.3 bar",
+          "Valves": "1 to 4",
+          "Total flow": "20.1 gpm 76.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "lower link",
+          "Rear lift (at 24\"/610mm)": "7700 lbs 3492 kg",
+          "Front Hitch": "II Opt Optional",
+          "Front lift (at 24\"/610mm)": "5200 lbs 2358 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "103.7 inches 263 cm",
+          "4WD Wheelbase": "101.8 inches 258 cm",
+          "Weight": "9810 to 10826 pounds",
+          "Front tire": "10.00-16",
+          "2WD Rear tire": "16.9-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 5140 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1990": "JJF1000001",
+          "1991": "JJF1006114",
+          "__seccion_1__": "5140 Serial Numbers",
+          "Location:": "Serial number plate inside the cab on the left.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "65",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Maxxum published in 1990, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 29, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1990 - 1991",
+          "__seccion_2__": "Maxxum Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH 5140 Tires",
+          "2WD Standard tires (ag)": "Front: 10.00-16. Rear: 16.9-38",
+          "4WD Standard tires (ag)": "Front: 14.9-24. Rear: 16.9-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "103.7 inches 263 cm",
+          "4WD Wheelbase": "101.8 inches 258 cm",
+          "2WD Length": "170.6 inches 433 cm",
+          "4WD Length": "174.2 inches 442 cm",
+          "2WD ROPS Shipping weight": "9810 lbs 4449 kg",
+          "4WD Cab Shipping weight": "10826 lbs 4910 kg",
+          "2WD Clearance (front axle)": "22.1 inches 56 cm",
+          "4WD Clearance (front axle)": "18.4 inches 46 cm",
+          "Rear axle": "96 inch length 2438 mm (bar)",
+          "Front tread": "60 to 88 inches 152 to 223 cm",
+          "Rear tread": "60 to 100 inches 152 to 254 cm (bar)"
+        },
+        {
+          "__seccion_1__": "CaseIH 5140 Height",
+          "Steering wheel": "80.7 inches 204 cm",
+          "Hood": "69.8 inches 177 cm",
+          "Cab": "106.1 inches 269 cm",
+          "Exhaust": "107.6 inches 273 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 29, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1990 - 1991",
+          "__seccion_2__": "Maxxum Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CDC",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "359 ci 5.9 L",
+          "Bore/Stroke": "4.02x4.72 inches 102 x 120 mm",
+          "Power": "108.5 hp 80.9 kW",
+          "Air cleaner": "dry",
+          "Rated RPM": "2200",
+          "Idle RPM": "850-2355",
+          "Starter volts": "12",
+          "Oil change": "250 h",
+          "Coolant change": "250 h"
+        },
+        {
+          "__seccion_1__": "CaseIH 5140 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 29, 2022"
+        }
+      ]
+    }
+  }
+}

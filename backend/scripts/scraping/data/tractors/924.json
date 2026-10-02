@@ -1,0 +1,237 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/9/2/924-challenger-75c.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/9/2/924-challenger-75c-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/9/2/924-challenger-75c-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/9/2/924-challenger-75c-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 924,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:34:15.621Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/924/924-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 800px/q55 → 17 KB"
+  },
+  "tractor_data_id": 924,
+  "name": "Challenger 75C",
+  "brand": "Challenger (a part of Caterpillar)",
+  "model": "75c",
+  "years": {
+    "desde": 1993,
+    "hasta": 1996
+  },
+  "model_year": 1993,
+  "engine_power_hp": 325,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 280,
+  "pto_tested_hp": 301.85,
+  "drawbar_tested_hp": 251.01,
+  "weight_kg": 15107,
+  "weight_basis": "Operating weight",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 152.6,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 61.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/924/924-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/924/924-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td924.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1993 - 1996",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Challenger (a part of Caterpillar)",
+          "__seccion_2__": "Agricultural Crawler tractor",
+          "__seccion_3__": "Built in Peoria, Illinois, USA",
+          "__seccion_4__": "Original price was $134,500 in 1995"
+        },
+        {
+          "__seccion_1__": "Challenger 75C Engine",
+          "__seccion_2__": "Caterpillar 10.3L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Challenger 75C Transmission",
+          "__seccion_2__": "10-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Challenger 75C Power",
+          "Engine (gross)": "325 hp 242.4 kW",
+          "Drawbar (claimed)": "256 hp 190.9 kW",
+          "PTO (claimed)": "280 hp 208.8 kW",
+          "Drawbar (tested)": "251.01 hp 187.2 kW",
+          "PTO (tested)": "301.85 hp 225.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "crawler",
+          "__seccion_2__": "Power steering",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Challenger 75C photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "209 gal 791.1 L",
+          "Hydraulic system": "29 gal 109.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "29 gal 109.8 L",
+          "Pressure": "2550 psi 175.8 bar",
+          "Valves": "4",
+          "Pump flow": "27 gpm 102.2 lpm",
+          "&nbsp": "35 gpm Opt Optional 132.5 lpm",
+          "Steering flow": "61.4 gpm 232.4 lpm",
+          "Steering press.": "6090 psi 419.9 bar"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tracks",
+          "Wheelbase": "107.1 inches 272 cm",
+          "Weight": "33305 lbs 15107 kg",
+          "__seccion_2__": "30-inch tracks",
+          "__seccion_3__": "Full dimensions and tracks ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "115",
+          "Batteries": "2",
+          "Battery CCA": "900",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Challenger Agricultural Tractor published in 1993, by Caterpillar"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 15, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1993 - 1996",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Challenger 75C Tracks",
+          "Width": "30 inches 76 cm",
+          "Length on ground": "107.1 inches 272 cm",
+          "Area on ground": "6428 in&sup2; 4.1 m&sup2;",
+          "Ground pressure": "5.2 psi 0.4 bar"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "107.1 inches 272 cm",
+          "Length": "232 inches 589 cm",
+          "Width": "120 inches 304 cm",
+          "Height (cab)": "128 inches 325 cm",
+          "Height (exhaust)": "144 inches 365 cm",
+          "Operating weight": "33305 lbs 15107 kg",
+          "Clearance (drawbar)": "15 inches 38 cm",
+          "Gauge": "90 inches 228 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 15, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1993 - 1996",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1654"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1654",
+          "__seccion_2__": "Diesel 10-speed crawler October 4 - 11, 1991 Link: OCED Tractor Test 1654 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "251.01 hp 187.2 kW",
+          "Fuel use": "15.7 gal/hour 59.4 l/hour",
+          "Power at rated engine speed": "281.36 hp 209.8 kW",
+          "Power at rated PTO speed": "285.55 hp 212.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 3 used for power test.",
+          "Max pull": "34,309 lbs 15562 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 15, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1993 - 1996",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Caterpillar 3176 ATAAC",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "629 ci 10.3 L",
+          "Bore/Stroke": "4.92x5.5 inches 125 x 140 mm",
+          "Power (gross)": "325 hp 242.4 kW",
+          "Air cleaner": "dual dry elements",
+          "Pre-heating": "ether injection",
+          "&nbsp": "block heater",
+          "Compression": "16:1",
+          "Rated RPM": "2100",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "31.7 qts 30.0 L",
+          "Coolant capacity": "60 qts 56.8 L"
+        },
+        {
+          "__seccion_1__": "Challenger 75C Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 15, 2023"
+        }
+      ]
+    }
+  }
+}

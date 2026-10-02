@@ -1,0 +1,218 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/009/9/6/9964-massey-ferguson-8740s.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/009/9/6/9964-massey-ferguson-8740s-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/009/9/6/9964-massey-ferguson-8740s-engine.html",
+    "source_id": 9964,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:49:53.760Z",
+    "foto_original": "https://www.tractordata.com/photos/F009/9964/9964-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 9964,
+  "name": "Massey Ferguson 8740S",
+  "brand": "Massey Ferguson (a part of AGCO)",
+  "model": "ferguson 8740s",
+  "years": {
+    "desde": 2018,
+    "hasta": 2024
+  },
+  "model_year": 2018,
+  "engine_power_hp": 400,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 355,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 10800,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 130.2,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 650/85R42",
+  "tire_width_mm": 650,
+  "tire_diameter_mm": 2172,
+  "tire_front": {
+    "original": "620/75R30",
+    "radial": true,
+    "width_mm": 620,
+    "rim_in": 30,
+    "diameter_mm_est": 1692,
+    "tipo": "Radial",
+    "texto": "620/75R30"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F009/9964/9964-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td9964.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2018 - 2024",
+          "__seccion_2__": "8700S Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson (a part of AGCO)",
+          "__seccion_2__": "Row-Crop tractor",
+          "Factories": "Jackson, Minnesota, USA",
+          "&nbsp": "Beauvais, France"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 8740S Engine",
+          "__seccion_2__": "AGCO Power 8.4L 6-cyl diesel",
+          "Fuel tank": "166.4 gal 629.8 L",
+          "Exhaust fluid (DEF)": "15.85 gal 60.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 8740S Transmission",
+          "__seccion_2__": "continuously-variable transmission",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 8740S Power",
+          "Engine": "400 hp 298.3 kW",
+          "PTO (claimed)": "355 hp 264.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "pneumatic",
+          "&nbsp": "hydraulic Opt Optional",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 8740S are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed-center load-sensing",
+          "Pressure": "2901 psi 200.0 bar",
+          "Rear valves": "6 * Maximum",
+          "Front valves": "2 * Maximum",
+          "Pump flow": "54.2 gpm 205.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "&nbsp": "IV",
+          "Rear lift (at ends)": "26455 lbs 11999 kg",
+          "Front Hitch": "III",
+          "Front lift (at ends)": "11023 lbs 5000 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "&nbsp": "1000@1970",
+          "Engine RPM": "1000@2036",
+          "Front PTO": "independent",
+          "Front PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "122.1 inches 310 cm",
+          "Weight": "23810 lbs 10800 kg",
+          "Front tire": "620/75R30",
+          "Rear tire": "650/85R42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF 8700S published in 2017, by Massey Ferguson",
+          "__seccion_3__": "MF 8700S Series published in 2023, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 12, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2018 - 2024",
+          "__seccion_2__": "8700S Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 8740S Tires",
+          "Standard tires (ag)": "Front: 620/75R30. Rear: 650/85R42",
+          "&nbsp": "Front: 650/60R34. Rear: 900/60R42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "122.1 inches 310 cm",
+          "Length": "218.6 inches 555 cm",
+          "Height (cab)": "138.4 inches 351 cm",
+          "Weight": "23810 lbs 10800 kg",
+          "Max weight": "39683 lbs 18000 kg",
+          "Front axle": "Quadlink suspension"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 12, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2018 - 2024",
+          "__seccion_2__": "8700S Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "AGCO Power",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "512.6 ci 8.4 L",
+          "Bore/Stroke": "4.37x5.71 inches 111 x 145 mm",
+          "Emissions": "Stage IV",
+          "Emission control": "selective-catalytic reduction (SCR)",
+          "Power": "400 hp 298.3 kW",
+          "Rated RPM": "1950",
+          "Torque": "1136 lb-ft 1540.4 Nm",
+          "Torque RPM": "1500",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil change": "500 h"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 8740S Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 12, 2023"
+        }
+      ]
+    }
+  }
+}

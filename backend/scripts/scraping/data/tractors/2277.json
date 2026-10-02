@@ -1,0 +1,219 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/002/2/7/2277-ford-1000.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/002/2/7/2277-ford-1000-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/002/2/7/2277-ford-1000-engine.html",
+    "source_id": 2277,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:12:48.332Z",
+    "foto_original": "https://www.tractordata.com/photos/F002/2277/2277-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 51 KB"
+  },
+  "tractor_data_id": 2277,
+  "name": "Ford 1000",
+  "brand": "Shibaura",
+  "model": "1000",
+  "years": {
+    "desde": 1973,
+    "hasta": 1976
+  },
+  "model_year": 1973,
+  "engine_power_hp": 25,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 23,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1043,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 8.4,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 11.2-24",
+  "tire_width_mm": 284,
+  "tire_diameter_mm": 1093,
+  "tire_front": {
+    "original": "5.00-15",
+    "radial": false,
+    "width_mm": 127,
+    "rim_in": 15,
+    "diameter_mm_est": 597,
+    "tipo": "Diagonal",
+    "texto": "5.00-15"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F002/2277/2277-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F002/2277/2277-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td2277.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1973 - 1976",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Ford",
+          "Manufacturer": "Shibaura",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "S1500": "similar Shibaura model"
+        },
+        {
+          "__seccion_1__": "Ford 1000 Engine",
+          "__seccion_2__": "Shibaura 1.3L 2-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 1000 Transmission",
+          "__seccion_2__": "9-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 1000 Power",
+          "Engine": "25 hp 18.6 kW",
+          "PTO (claimed)": "23 hp 17.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Open operator station. Optional two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 1000 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "5.8 gal 22.0 L",
+          "Hydraulic system": "2.1 gal 7.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open cetner",
+          "Capacity": "2.1 gal 7.9 L",
+          "Pump flow": "4.2 gpm 15.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "62.6 inches 159 cm",
+          "Weight": "2300 lbs 1043 kg",
+          "Front tire": "5.00-15",
+          "Rear tire": "11.2-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1973": "U100001",
+          "1974": "U100821",
+          "1975": "U102021",
+          "1976": "U102771",
+          "1978": "U108449",
+          "__seccion_1__": "1000 Serial Numbers",
+          "Location:": "Serial number plate on the left side of the clutch housing.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "10",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Ford Shop Manual by Peter Letourneau",
+          "__seccion_3__": "Ford 1000 published in 1973",
+          "__seccion_4__": "Ford 1000 - The Baby Brute published in 1973"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 28, 2025",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1973 - 1976",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Ford 1000 Tires",
+          "Ag front": "5.00-15",
+          "Ag rear": "11.2-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "62.6 inches 159 cm",
+          "Length": "101 inches 256 cm",
+          "Height (hood)": "54.7 inches 138 cm",
+          "Shipping weight": "2300 lbs 1043 kg",
+          "Ground clearance": "13.6 inches 34 cm",
+          "Front tread": "43 to 60 inches 109 to 152 cm",
+          "Rear tread": "48 to 60 inches 121 to 152 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 28, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1973 - 1976",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibaura LE892",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "77.6 ci 1.3 L",
+          "Bore/Stroke": "3.54x3.94 inches 90 x 100 mm",
+          "Power": "25 hp 18.6 kW",
+          "Compression": "21:1",
+          "Rated RPM": "2500",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Coolant capacity": "5.4 qts 5.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 28, 2025"
+        }
+      ]
+    }
+  }
+}

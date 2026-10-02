@@ -1,0 +1,253 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/6/8/5681-new-holland-tc40a.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/6/8/5681-new-holland-tc40a-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/6/8/5681-new-holland-tc40a-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 5681,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:28:34.874Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5681/5681-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 101 KB"
+  },
+  "tractor_data_id": 5681,
+  "name": "New Holland TC40A",
+  "brand": "New Holland",
+  "model": "TC40A",
+  "years": {
+    "desde": 2003,
+    "hasta": 2008
+  },
+  "model_year": 2003,
+  "engine_power_hp": 40,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 35,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1297,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 12.8,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14.9-24",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1253,
+  "tire_front": {
+    "original": "7-16",
+    "radial": false,
+    "width_mm": 178,
+    "rim_in": 16,
+    "diameter_mm_est": 709,
+    "tipo": "Diagonal",
+    "texto": "7-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F005/5681/5681-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5681/5681-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td5681.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2003 - 2008",
+          "__seccion_2__": "Boomer TC-A Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "TC40A": "base model",
+          "TC40DA": "deluxe model"
+        },
+        {
+          "__seccion_1__": "New Holland TC40A Engine",
+          "__seccion_2__": "Shibaura 2.0L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TC40A Transmissions",
+          "__seccion_2__": "12-speed synchronized shuttle",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TC40A Power",
+          "Engine (gross)": "40 hp 29.8 kW",
+          "TC40A PTO (claimed)": "35 hp 26.1 kW",
+          "TC40DA PTO (claimed)": "33.2 hp 24.8 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland TC40A photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "13 gal 49.2 L",
+          "Steering": "1.5 qts 1.4 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2500 psi 172.4 bar",
+          "Rear valves": "3 Opt Optional",
+          "Mid valves": "2 Opt Optional",
+          "Pump flow": "9.8 gpm 37.1 lpm",
+          "Steering flow": "5.13 gpm 19.4 lpm",
+          "Steering cap.": "1.5 qts 1.4 L"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position with optional top-link draft control",
+          "Rear lift (at 24\"/610mm)": "2330 lbs 1056 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "2420@2000",
+          "Mid PTO": "independent * Mid PTO available on the TC35DA",
+          "Mid PTO Type": "2000 (1.0)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "4WD Wheelbase": "73.5 inches 186 cm",
+          "SuperSteer Wheelbase": "81 inches 205 cm",
+          "Weight": "2860 to 3029 pounds",
+          "Front tire": "5.50-16",
+          "Rear tire": "13.6-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "New Holland TC40A attachments",
+          "__seccion_2__": "84\" mid-mount mower deck",
+          "__seccion_3__": "snowblower",
+          "__seccion_4__": "blade",
+          "__seccion_5__": "front-end loader",
+          "__seccion_6__": "backhoe",
+          "__seccion_7__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "TC40A Serial Number Location",
+          "__seccion_2__": "Serial number plate on the left side of the transmission housing."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "Battery CCA": "600",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "BOOMER Tractor Implements, Attachments and Accessories published in 2005, by New Holland",
+          "__seccion_3__": "The New Boomer Tractor Family published in 2003, by New Holland",
+          "__seccion_4__": "Boomer 18 to 55 HP Tractors published in 2004, by New Holland",
+          "__seccion_5__": "BOOMER 18 To 55 HP Tractors published in 2005, by New Holland",
+          "__seccion_6__": "Operator's Manual TC35DA - TC40DA - TC45DA (87300515) published in 2003"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on August 25, 2026",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2003 - 2008",
+          "__seccion_2__": "Boomer TC-A Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "New Holland TC40A Tires",
+          "2WD Ag front": "7.50-15",
+          "4WD Ag front": "8-16",
+          "Ag rear": "13.6-24",
+          "&nbsp": "14.9-24",
+          "2WD Lawn/turf front": "25x8.50-14",
+          "4WD Lawn/turf front": "27x8.50-15",
+          "Lawn/turf rear": "44x18-20",
+          "Industrial front": "10-16.5",
+          "Industrial rear": "17.5-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "4WD Wheelbase": "73.5 inches 186 cm",
+          "SuperSteer Wheelbase": "81 inches 205 cm",
+          "Length": "125.2 inches 318 cm",
+          "SuperSteer Length": "129.5 inches 328 cm",
+          "Width": "66.6 inches 169 cm",
+          "Height (hood)": "60 inches 152 cm",
+          "Height (ROPS)": "95.5 inches 242 cm",
+          "4WD Weight": "2860 lbs 1297 kg",
+          "SuperSteer Weight": "3029 lbs 1373 kg",
+          "Front tread": "46.4 inches 117 cm",
+          "Rear tread": "47.1 to 67.4 inches 119 to 171 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 25, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2003 - 2008",
+          "__seccion_2__": "Boomer TC-A Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibaura N844",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "121.7 ci 2.0 L",
+          "Bore/Stroke": "3.307x3.543 inches 84 x 90 mm",
+          "Power (gross)": "40 hp 29.8 kW",
+          "Air cleaner": "dual dry element",
+          "Compression": "22.5:1",
+          "Rated RPM": "2600",
+          "Idle RPM": "1025-2855",
+          "Firing order": "1-3-4-2",
+          "Starter volts": "12",
+          "Oil capacity": "6.3 qts 6.0 L",
+          "Coolant capacity": "8.3 qts 7.9 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 25, 2026"
+        }
+      ]
+    }
+  }
+}

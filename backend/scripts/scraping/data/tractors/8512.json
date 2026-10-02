@@ -1,0 +1,281 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/5/1/8512-kubota-m5-111.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/5/1/8512-kubota-m5-111-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/008/5/1/8512-kubota-m5-111-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/5/1/8512-kubota-m5-111-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 8512,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:04:18.479Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8512/8512-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 104 KB"
+  },
+  "tractor_data_id": 8512,
+  "name": "Kubota M5-111",
+  "brand": "Kubota",
+  "model": "M5 111",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 105.6,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 89,
+  "pto_tested_hp": 97.85,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2800,
+  "weight_basis": "4WD ROPS",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 35.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4-28",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1506,
+  "tire_front": {
+    "original": "11.2-24",
+    "radial": false,
+    "width_mm": 284,
+    "rim_in": 24,
+    "diameter_mm_est": 1093,
+    "tipo": "Diagonal",
+    "texto": "11.2-24"
+  },
+  "fuel_consumption_lph": 22.7,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F008/8512/8512-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F008/8512/8512-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td8512.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2015 -",
+          "__seccion_2__": "M5 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "M5N-111": "narrow profile"
+        },
+        {
+          "__seccion_1__": "Kubota M5-111 Engine",
+          "__seccion_2__": "Kubota 3.8L 4-cyl diesel",
+          "Fuel tank": "27.7 gal 104.8 L",
+          "Exhaust fluid (DEF)": "3.2 gal 12.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M5-111 Transmissions",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "12-speed partially synchronized",
+          "__seccion_4__": "24-speed two-speed power shift",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M5-111 Power",
+          "Engine (gross)": "105.6 hp 78.7 kW",
+          "Engine (net)": "100 hp 74.6 kW",
+          "PTO (claimed)": "89 hp 66.4 kW",
+          "PTO (tested)": "97.85 hp 73.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post foldable ROPS. Ultra Grand Cab II available with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota M5-111 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "1 to 3",
+          "ROPS Pump flow": "15.9 gpm 60.2 lpm",
+          "Cab Pump flow": "17 gpm 64.3 lpm",
+          "ROPS Steering flow": "5.4 gpm 20.4 lpm",
+          "Cab Steering flow": "6.1 gpm 23.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position control and top-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "5181 lbs * Claimed, actual tested lift was 4698 pounds. 2350 kg",
+          "&nbsp": "7275 lbs * Higher lift capacity on models with 12- and 24-speed transmission. Claimed figure. Actual tested lift was 6192 pounds. 3299 kg",
+          "Rear Arms": "telescopic lower link ends and stabilizers"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540",
+          "&nbsp": "540E@1519",
+          "Engine RPM": "540@2035"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "90 inches 228 cm",
+          "4WD Wheelbase": "88.6 inches 225 cm",
+          "Weight": "5754 to 7685 pounds",
+          "Front tire": "7.5-18",
+          "2WD Rear tire": "18.4-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota M5-111 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "60",
+          "Cab Charging amps": "80",
+          "&nbsp": "100 Opt Optional",
+          "Battery CCA": "900",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 7, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2015 -",
+          "__seccion_2__": "M5 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M5-111 Tires",
+          "2WD Standard tires (ag)": "Front: 7.5-18. Rear: 18.4-28",
+          "4WD Standard tires (ag)": "Front: 11.2-24. Rear: 18.4-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "90 inches 228 cm",
+          "4WD Wheelbase": "88.6 inches 225 cm",
+          "2WD Length": "156.5 inches 397 cm",
+          "4WD Length": "155 inches 393 cm",
+          "2WD Width": "78.3 inches 198 cm",
+          "4WD Width": "79.1 inches 200 cm",
+          "2WD Clearance (front axle)": "20.5 inches 52 cm",
+          "4WD Clearance (front axle)": "19.7 inches 50 cm",
+          "2WD Front tread": "56.7 to 80.3 inches 144 to 203 cm",
+          "4WD Front tread": "59.8 to 63.8 inches 151 to 162 cm",
+          "Rear tread": "59.8 to 75.6 inches 151 to 192 cm"
+        },
+        {
+          "__seccion_1__": "Kubota M5-111 Weight",
+          "2WD ROPS": "5754 lbs 2610 kg",
+          "4WD ROPS": "6173 lbs 2800 kg",
+          "2WD Cab": "6614 lbs 3000 kg",
+          "4WD Cab": "7033 lbs 3190 kg",
+          "4WD Cab Operating": "7685 lbs 3485 kg",
+          "Max Drawbar": "3300 lbs 1496 kg",
+          "2WD Max front axle": "4850 lbs 2199 kg",
+          "4WD Max front axle": "5730 lbs 2599 kg",
+          "Max rear axle": "8160 lbs 3701 kg"
+        },
+        {
+          "__seccion_1__": "Kubota M5-111 Height",
+          "ROPS": "99 inches 251 cm",
+          "Cab": "100.2 inches 254 cm",
+          "Exhaust": "90.9 inches 230 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 7, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2015 -",
+          "__seccion_2__": "M5 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 2152"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 2152",
+          "__seccion_2__": "Diesel 24-speed 4WD June 6, 2016 - June 13, 2013 Link: Nebraska Tractor Test 2152 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "97.85 hp 73.0 kW",
+          "Fuel use": "88.7 gal/hour 335.7 l/hour",
+          "Power at rated engine speed": "97.09 hp 72.4 kW",
+          "Power at rated PTO speed": "88.68 hp 66.1 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 7, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2015 -",
+          "__seccion_2__": "M5 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V3800CR-TIEF4",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "4-cylinder 16-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "230 ci 3.8 L",
+          "Bore/Stroke": "3.94x4.72 inches 100 x 120 mm",
+          "Emissions": "Tier IV",
+          "Emission control": "diesel particulate filter, diesel oxidation catalyst, and selective catalytic reduction",
+          "Power (net)": "100 hp 74.6 kW",
+          "Power (gross)": "105.6 hp 78.7 kW",
+          "Rated Power (gross)": "105.6 hp 78.7 kW",
+          "Fuel system": "common rail direct injection",
+          "Pre-heating": "intake heater",
+          "Compression": "17.0:1",
+          "ROPS Rated RPM": "2400",
+          "Cab Rated RPM": "2600",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "11.3 qts 10.7 L",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 7, 2023"
+        }
+      ]
+    }
+  }
+}

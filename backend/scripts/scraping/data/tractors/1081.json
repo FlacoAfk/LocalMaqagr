@@ -1,0 +1,245 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/0/8/1081-ji-case-c.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/0/8/1081-ji-case-c-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/0/8/1081-ji-case-c-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/0/8/1081-ji-case-c-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1081,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:07:39.458Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1081/1081-photo-001-ext000.jpg",
+    "foto_calidad": "webp 800px/q55 → 46 KB"
+  },
+  "tractor_data_id": 1081,
+  "name": "J.I. Case C",
+  "brand": "J.I. Case",
+  "model": "C",
+  "years": {
+    "desde": 1929,
+    "hasta": 1940
+  },
+  "model_year": 1929,
+  "engine_power_hp": 27,
+  "engine_power_source": "belt_claimed (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 21.4,
+  "weight_kg": 1950,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 14.6,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 42-12",
+  "tire_width_mm": 1067,
+  "tire_diameter_mm": 2118,
+  "tire_front": {
+    "original": "28-5",
+    "radial": false,
+    "width_mm": 711,
+    "rim_in": 5,
+    "diameter_mm_est": 1336,
+    "tipo": "Diagonal",
+    "texto": "28-5 steel"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1081/1081-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1081/1081-photo-001-ext000.jpg",
+  "image_url": "/uploads/tractors/td1081.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1929 - 1940",
+          "__seccion_2__": "C Series",
+          "__seccion_3__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Standard-tread tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA",
+          "Total built": "20,478",
+          "__seccion_4__": "Original price was $600 in 1930"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "CC": "row-crop",
+          "CI": "industrial",
+          "CO": "orchard"
+        },
+        {
+          "__seccion_1__": "J.I. Case C Engine",
+          "__seccion_2__": "J.I. Case 4.3L 4-cyl gasoline",
+          "Fuel tank": "18 gal 68.1 L",
+          "Aux. fuel": "2 gal 7.6 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case C Transmission",
+          "__seccion_2__": "3-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case C Power",
+          "Drawbar (claimed)": "17 hp 12.7 kW",
+          "Belt (claimed)": "27 hp 20.1 kW",
+          "Plows": "2-3 (14-inch)",
+          "Drawbar (tested)": "21.4 hp 16.0 kW",
+          "Belt (tested)": "29.81 hp 22.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Open operator station"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "J.I. Case C photos..."
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission Opt Optional",
+          "Rear PTO Type": "535 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "66 inches 167 cm",
+          "Weight": "4300 lbs 1950 kg",
+          "Front tire": "28-5",
+          "Rear tire": "42-12",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1929": "3xx2xx",
+          "1930": "3xx3xx",
+          "1931": "3xx4xx",
+          "1932": "3xx5xx",
+          "1933": "3xx6xx",
+          "1934": "3xx7xx",
+          "1935": "3xx8xx",
+          "1936": "3xx9xx",
+          "1937": "4xx0xx",
+          "1938": "4200001",
+          "1939": "4300001",
+          "1940": "4400001",
+          "__seccion_1__": "C Serial Numbers",
+          "Location:": "Serial number plate on the tractor's instrument panel.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Belt Pulley",
+          "Diameter": "10.25 inches 26 cm",
+          "Width": "6.25 inches 15 cm",
+          "RPM": "973",
+          "Speed": "2600 ft/min 792.48 meters/min"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Illustrated Case Tractors Buyer's Guide by Peter Letourneau",
+          "__seccion_3__": "Full Steam Ahead - J.I. Case Tractors & Equipment 1842-1955 by David Erb",
+          "__seccion_4__": "New Power for a New Age published in 1935, by J.I. Case",
+          "__seccion_5__": "The New Case Tractors published in 1929, by J.I. Case"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on November 8, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1929 - 1940",
+          "__seccion_2__": "C Series",
+          "__seccion_3__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "J.I. Case C Tires",
+          "Ag front": "28-5 steel",
+          "Ag rear": "42-12 steel"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "66 inches 167 cm",
+          "Length": "114 inches 289 cm",
+          "Width": "60 inches 152 cm",
+          "Height (hood)": "48 inches 121 cm",
+          "Weight": "4300 lbs 1950 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 8, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1929 - 1940",
+          "__seccion_2__": "C Series",
+          "__seccion_3__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 167",
+          "__seccion_2__": "Gasoline 2WD August 12 - 19, 1929 Link: Nebraska Tractor Test 167 file",
+          "Belt power (max)": "29.81 hp 22.2 kW",
+          "Belt fuel use (max)": "2.6 gal/hour 9.8 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "21.4 hp 16.0 kW",
+          "Max pull": "3,289 lbs 1491 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 8, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1929 - 1940",
+          "__seccion_2__": "C Series",
+          "__seccion_3__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "J.I. Case",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled vertical I-head",
+          "Displacement": "259.5 ci 4.3 L",
+          "Bore/Stroke": "3.875x5.50 inches 98 x 140 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "4.88:1",
+          "Rated RPM": "1100",
+          "Firing order": "1-2-4-3",
+          "Coolant capacity": "20 qts 18.9 L",
+          "Sparkplug gap": "0.030 inches 0.762 mm",
+          "Point gap": "0.020 inches 0.508 mm",
+          "Intake valve clearance": "0.010 inches * Hot 0.254 mm",
+          "Exhaust valve clearance": "0.012 inches * Hot 0.305 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 8, 2025"
+        }
+      ]
+    }
+  }
+}

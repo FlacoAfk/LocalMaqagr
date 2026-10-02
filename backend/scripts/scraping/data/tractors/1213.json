@@ -1,0 +1,272 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/2/1/1213-caseih-9230.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/2/1/1213-caseih-9230-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/2/1/1213-caseih-9230-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/2/1/1213-caseih-9230-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1213,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:37:18.673Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1213/1213-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 1213,
+  "name": "CaseIH 9230",
+  "brand": "CaseIH",
+  "model": "9230",
+  "years": {
+    "desde": 1990,
+    "hasta": 1995
+  },
+  "model_year": 1990,
+  "engine_power_hp": 235,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 207,
+  "pto_tested_hp": 218.2,
+  "drawbar_tested_hp": 177.51,
+  "weight_kg": 8164,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 111.5,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "18.4-38",
+    "radial": false,
+    "width_mm": 467,
+    "rim_in": 38,
+    "diameter_mm_est": 1760,
+    "tipo": "Diagonal",
+    "texto": "18.4-38"
+  },
+  "fuel_consumption_lph": 45,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1213/1213-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td1213.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1990 - 1995",
+          "__seccion_2__": "9200 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Fargo, North Dakota, USA",
+          "__seccion_4__": "Original price was $100,000 in 1995"
+        },
+        {
+          "9230": "articulated",
+          "9240": "four-wheel steer",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "CaseIH 9230 Engine",
+          "__seccion_2__": "CDC 8.3L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 9230 Transmission",
+          "__seccion_2__": "12-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 9230 Power",
+          "Engine": "235 hp 175.2 kW",
+          "PTO (claimed)": "207 hp 154.4 kW",
+          "Drawbar (tested)": "177.51 hp 132.4 kW",
+          "PTO (tested)": "218.20 hp 162.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "front and rear optional",
+          "Steering": "hydrostatic power with articulation and front-axle steering",
+          "__seccion_3__": "Integrated hydraulic caliper disc brakes",
+          "__seccion_4__": "Cab standard with air-conditioning. Optional deluxe cab adds side and rear window wipers plus internal storage compartments."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH 9230 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "115 gal 435.3 L",
+          "Hydraulic system": "18 gal 68.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "18 gal 68.1 L",
+          "Pressure": "2500 psi 172.4 bar",
+          "Valves": "4",
+          "Total flow": "28 gpm 106.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III Opt Optional",
+          "Control": "draft control optional",
+          "Rear lift": "12750 lbs 5783 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent Opt Optional",
+          "Rear PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "120.4 inches 305 cm",
+          "Weight": "18000 to 24106 pounds",
+          "Front tire": "18.4-38",
+          "Rear tire": "18.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1990": "JCB0004600",
+          "1991": "JCB0026501",
+          "1992": "JCB0028400",
+          "1993": "JCB0030500",
+          "1994": "JEE0031773",
+          "1995": "JEE0032808",
+          "__seccion_1__": "9230 Serial Numbers",
+          "Location:": "Under the left-side steps on front fender",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "125",
+          "Batteries": "2",
+          "Battery CCA": "625",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "9200 Series 4WD published in 1993, by CaseIH",
+          "__seccion_3__": "9230 Articulated Frame published by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 18, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1990 - 1995",
+          "__seccion_2__": "9200 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH 9230 Tires",
+          "Ag front": "18.4-38",
+          "Ag rear": "18.4-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "120.4 inches 305 cm",
+          "Length": "241.6 inches 613 cm",
+          "Width": "119.5 inches (axles) 303 cm",
+          "&nbsp": "88.9 inches (fenders) 225 cm",
+          "Height (exhaust)": "129.6 inches 329 cm",
+          "Bar rear axle": "4.0 by 119.5 inches 101 by 3035 mm",
+          "Front tread": "60 to 130 inches 152 to 330 cm",
+          "Rear tread": "60 to 130 inches 152 to 330 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH 9230 Weight",
+          "Shipping": "18000 lbs 8164 kg",
+          "Operating": "24106 lbs * Weight with 18.4R38 duals. 10934 kg",
+          "Max capacity": "26000 lbs 11793 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 18, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1990 - 1995",
+          "__seccion_2__": "9200 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1649"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1649",
+          "__seccion_2__": "Diesel 12-speed 4WD June 10 - 14, 1991 Link: OCED Tractor Test 1649 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "177.51 hp 132.4 kW",
+          "Fuel use": "11.6 gal/hour 43.9 l/hour",
+          "Power at rated engine speed": "198.63 hp 148.1 kW",
+          "Power at rated PTO speed": "207.83 hp 155.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 5 used for power test.",
+          "Max pull": "25,061 lbs 11367 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 18, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1990 - 1995",
+          "__seccion_2__": "9200 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CDC",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "504.5 ci 8.3 L",
+          "Bore/Stroke": "4.488x5.315 inches 114 x 135 mm",
+          "Power": "235 hp 175.2 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "16.5:1",
+          "Rated RPM": "2200",
+          "Torque": "701 lb-ft 950.6 Nm",
+          "Torque RPM": "1500",
+          "Starter volts": "12",
+          "Oil capacity": "22 qts 20.8 L",
+          "Coolant capacity": "29.6 qts 28.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 18, 2024"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/6/3/1634-caseih-mxm140.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/6/3/1634-caseih-mxm140-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/6/3/1634-caseih-mxm140-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/6/3/1634-caseih-mxm140-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1634,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:39:37.298Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1634/1634-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 44 KB"
+  },
+  "tractor_data_id": 1634,
+  "name": "CaseIH MXM140 Maxxum",
+  "brand": "CaseIH",
+  "model": "MXM140 Maxxum",
+  "years": {
+    "desde": 2002,
+    "hasta": 2007
+  },
+  "model_year": 2002,
+  "engine_power_hp": 142,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 115,
+  "pto_tested_hp": 121.1,
+  "drawbar_tested_hp": 101.2,
+  "weight_kg": 5867,
+  "weight_basis": "4WD Operating",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 44.4,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 28.4,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1634/1634-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1634/1634-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1634.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2002 - 2007",
+          "__seccion_2__": "Maxxum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Basildon, England"
+        },
+        {
+          "__seccion_1__": "CaseIH MXM140 Engine",
+          "__seccion_2__": "CNH 7.5L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH MXM140 Transmission",
+          "__seccion_2__": "18-speed partial power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH MXM140 Power",
+          "Engine": "142 hp 105.9 kW",
+          "PTO (claimed)": "115 hp 85.8 kW",
+          "Drawbar (tested)": "101.2 hp 75.5 kW",
+          "PTO (tested)": "121.1 hp 90.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH MXM140 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "75 gal 283.9 L",
+          "Hydraulic system": "23.75 gal 89.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed-center load sensing",
+          "Capacity": "23.75 gal 89.9 L",
+          "Pressure": "2750 psi 189.6 bar",
+          "Valves": "2 to 5",
+          "Pump flow": "28 gpm 106.0 lpm",
+          "SCV flow": "25 gpm 94.6 lpm",
+          "Total flow": "44 gpm 166.5 lpm",
+          "Steering flow": "16 gpm 60.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/II",
+          "Control": "electronic lower-link sensing",
+          "Rear lift (at 24\"/610mm)": "11,690 lbs 5302 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "108.1 inches 274 cm",
+          "4WD Wheelbase": "107.2 inches 272 cm",
+          "Weight": "10472 to 12935 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "Battery CCA": "1300",
+          "Battery volts": "12",
+          "Battery AH": "176"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MXM Series Maxxum Tractors published in 2004, by Case IH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 11, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2002 - 2007",
+          "__seccion_2__": "Maxxum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH MXM140 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "108.1 inches 274 cm",
+          "4WD Wheelbase": "107.2 inches 272 cm",
+          "2WD Length": "180.5 inches 458 cm",
+          "4WD Length": "185.7 inches 471 cm",
+          "Height (cab)": "111.4 inches 282 cm",
+          "&nbsp": "116.3 inches (suspended cab) 295 cm",
+          "Rear axle": "3.62 by 98 inches 91 by 2489 mm",
+          "4WD Front tread": "60 to 88 inches 152 to 223 cm",
+          "Rear tread": "60 to 88 inches 152 to 223 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH MXM140 Weight",
+          "Shipping": "10,472 lbs 4750 kg",
+          "&nbsp": "11,354 lbs (cab) 5150 kg",
+          "4WD Operating": "12,935 lbs 5867 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 11, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2002 - 2007",
+          "__seccion_2__": "Maxxum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2119",
+          "__seccion_2__": "Diesel 18-speed 4WD December 1, 2002 - January 1, 2004 Link: OCED Tractor Test 2119 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "101.2 hp 75.5 kW",
+          "Fuel use": "7.8 gal/hour 29.5 l/hour",
+          "Power at rated engine speed": "119.7 hp 89.3 kW",
+          "Power at rated PTO speed": "120.8 hp 90.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 9 used for power test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 11, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2002 - 2007",
+          "__seccion_2__": "Maxxum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CNH",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "456 ci 7.5 L",
+          "Bore/Stroke": "4.40x5.00 inches 112 x 127 mm",
+          "Power": "142 hp 105.9 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "17.0:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12",
+          "Oil capacity": "20 qts 18.9 L",
+          "Coolant capacity": "26.8 qts 25.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 11, 2025"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/004/8/2/4828-john-deere-515.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/004/8/2/4828-john-deere-515-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/004/8/2/4828-john-deere-515-engine.html",
+    "source_id": 4828,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:42:34.193Z",
+    "foto_original": "https://www.tractordata.com/photos/F004/4828/4828-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 91 KB"
+  },
+  "tractor_data_id": 4828,
+  "name": "John Deere 515",
+  "brand": "John Deere",
+  "model": "515",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 44.1,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": null,
+  "weight_basis": null,
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 16.2,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F004/4828/4828-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F004/4828/4828-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td4828.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1966 - ????"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Built in Getafe, Spain"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "515V": "compact vineyard model"
+        },
+        {
+          "__seccion_1__": "John Deere 515 Engine",
+          "__seccion_2__": "John Deere 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 515 Power",
+          "Engine": "44.1 hp 32.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "2WD"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 515 photos..."
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 31, 2011",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1966 - ????"
+        },
+        {
+          "__seccion_1__": "John Deere 515 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 31, 2011"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1966 - ????"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Power": "44.1 hp 32.9 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 31, 2011"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/5/5/5557-john-deere-2330.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/5/5/5557-john-deere-2330-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/5/5/5557-john-deere-2330-engine.html",
+    "source_id": 5557,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:46:10.007Z"
+  },
+  "tractor_data_id": 5557,
+  "name": "John Deere 2330",
+  "brand": "John Deere",
+  "model": "2330",
+  "years": {
+    "desde": 1975,
+    "hasta": 1980
+  },
+  "model_year": 1975,
+  "engine_power_hp": 52.5,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 47.1,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3061,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 17.3,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 13.6x24",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1197,
+  "tire_front": {
+    "original": "5.50x15",
+    "radial": false,
+    "width_mm": 140,
+    "rim_in": 15,
+    "diameter_mm_est": 618,
+    "tipo": "Diagonal",
+    "texto": "5.50x15"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": null,
+  "photo_url_large": null,
+  "image_url": null,
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1975 - 1980",
+          "__seccion_2__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Orchard/Vineyard tractor",
+          "__seccion_3__": "Built in Rosario, Argentina"
+        },
+        {
+          "__seccion_1__": "John Deere 2330 Engine",
+          "__seccion_2__": "John Deere 2.7L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2330 Transmission",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2330 Power",
+          "Engine": "52.5 hp 39.1 kW",
+          "PTO (claimed)": "47.1 hp 35.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 2330 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "25.1 gal 95.0 L",
+          "Hydraulic system": "10 gal 37.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "10 gal 37.9 L"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "continuous",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "71.7 inches 182 cm",
+          "Weight": "6750 lbs 3061 kg",
+          "Front tire": "5.50x15",
+          "Rear tire": "13.6x24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "28",
+          "Battery volts": "12",
+          "Battery AH": "70"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 15, 2015",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1975 - 1980",
+          "__seccion_2__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 2330 Tires",
+          "Ag front": "5.50x15",
+          "Ag rear": "13.6x24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "71.7 inches 182 cm",
+          "Length": "119.3 inches 303 cm",
+          "Width": "98.4 inches * Minimum width 249 cm",
+          "Height (steering wheel)": "55.5 inches 140 cm",
+          "Height (hood)": "54.7 inches 138 cm",
+          "Shipping weight": "6750 lbs 3061 kg",
+          "Ground clearance": "9.8 inches 24 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 15, 2015"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1975 - 1980",
+          "__seccion_2__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "164.5 ci 2.7 L",
+          "Bore/Stroke": "4.016x4.331 inches 102 x 110 mm",
+          "Power": "52.5 hp 39.1 kW",
+          "Compression": "16.7:1",
+          "Rated RPM": "2500",
+          "Starter volts": "12",
+          "Oil capacity": "6 qts 5.7 L",
+          "Coolant capacity": "10.6 qts 10.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 15, 2015"
+        }
+      ]
+    }
+  }
+}

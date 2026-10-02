@@ -1,0 +1,219 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/011/7/4/11741-john-deere-6m-130.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/011/7/4/11741-john-deere-6m-130-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/011/7/4/11741-john-deere-6m-130-engine.html",
+    "source_id": 11741,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:11:45.980Z"
+  },
+  "tractor_data_id": 11741,
+  "name": "John Deere 6M 130",
+  "brand": "John Deere",
+  "model": "6M 130",
+  "years": {
+    "desde": 2020,
+    "hasta": 2024
+  },
+  "model_year": 2020,
+  "engine_power_hp": 128.7,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 100,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 6300,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 36.7,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 460/85R34",
+  "tire_width_mm": 460,
+  "tire_diameter_mm": 1646,
+  "tire_front": {
+    "original": "380/85R24",
+    "radial": true,
+    "width_mm": 380,
+    "rim_in": 24,
+    "diameter_mm_est": 1256,
+    "tipo": "Radial",
+    "texto": "380/85R24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": null,
+  "photo_url_large": null,
+  "image_url": null,
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2024 -",
+          "__seccion_2__": "6M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany",
+          "__seccion_4__": "Original price was CAD$235,122 in 2025"
+        },
+        {
+          "__seccion_1__": "John Deere 6M 130 Engine",
+          "__seccion_2__": "John Deere 4.5L 4-cyl diesel",
+          "Fuel tank": "54.2 gal 205.1 L",
+          "Exhaust fluid (DEF)": "4.5 gal 17.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6M 130 Transmissions",
+          "__seccion_2__": "24-speed four-speed power shift",
+          "__seccion_3__": "infinitely variable transmission",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6M 130 Power",
+          "Engine (gross)": "128.7 hp 96.0 kW",
+          "Engine (max)": "140.8 hp 105.0 kW",
+          "PTO (claimed)": "100 hp 74.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "electro-hydraulic",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Cab standard with air-conditioning. JDLink"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 6M 130 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Rear valves": "0 to 3",
+          "Mid valves": "2 to 4",
+          "Pump flow": "21 gpm 79.5 lpm",
+          "&nbsp": "30 gpm Opt Optional 113.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IIIN/II",
+          "Rear lift (at 24\"/610mm)": "7930 lbs 3597 kg",
+          "&nbsp": "9031 lbs Opt Optional 4096 kg",
+          "Front Hitch": "IIIN",
+          "Front lift": "7269 lbs 3297 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "1000@1969",
+          "&nbsp": "1000@1972",
+          "Front PTO": "independent Opt Optional",
+          "Front PTO Type": "1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "101.6 inches 258 cm",
+          "Weight": "13669 to 13889 pounds",
+          "Front tire": "380/85R24",
+          "Rear tire": "460/85R34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6M 130 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "125",
+          "&nbsp": "250 Opt Optional",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "6M Tractors published in 2024, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 1, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2024 -",
+          "__seccion_2__": "6M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 6M 130 Tires",
+          "Standard tires (ag)": "Front: 380/85R24. Rear: 460/85R34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "101.6 inches 258 cm",
+          "Length": "176 inches 447 cm",
+          "Width": "96.8 inches 245 cm",
+          "Height": "111.9 inches 284 cm",
+          "Weight": "13889 lbs 6300 kg",
+          "Shipping weight": "13669 lbs 6200 kg",
+          "Clearance (front axle)": "18.2 inches 46 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 1, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2024 -",
+          "__seccion_2__": "6M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech PSS",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "276.1 ci 4.5 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Tier IV",
+          "Rated Power (gross)": "128.7 hp 96.0 kW",
+          "Maximum Power (gross)": "140.8 hp 105.0 kW",
+          "Rated RPM": "2100",
+          "Torque": "449 lb-ft 608.8 Nm",
+          "Torque RPM": "1600",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 1, 2025"
+        }
+      ]
+    }
+  }
+}

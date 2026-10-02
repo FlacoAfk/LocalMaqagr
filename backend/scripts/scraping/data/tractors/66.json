@@ -1,0 +1,316 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/6/66-john-deere-2020.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/6/66-john-deere-2020-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/6/66-john-deere-2020-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/6/66-john-deere-2020-engine.html",
+    "source_id": 66,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:34:51.507Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/66/66-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 63 KB"
+  },
+  "tractor_data_id": 66,
+  "name": "John Deere 2020",
+  "brand": "John Deere",
+  "model": "2020",
+  "years": {
+    "desde": 1965,
+    "hasta": 1971
+  },
+  "model_year": 1965,
+  "engine_power_hp": 54.09,
+  "engine_power_source": "pto_tested (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": 54.09,
+  "drawbar_tested_hp": 45.9,
+  "weight_kg": 2617,
+  "weight_basis": "Gas Operating weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 25.3,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 15.5-38",
+  "tire_width_mm": 394,
+  "tire_diameter_mm": 1634,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": 18.2,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/66/66-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/66/66-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td66.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1965 - 1971",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "Factories": "Dubuque, Iowa, USA",
+          "&nbsp": "Mexico",
+          "__seccion_3__": "Original price was $5,800 in 1971"
+        },
+        {
+          "2020": "utility",
+          "__seccion_1__": "Variants",
+          "2020O": "orchard"
+        },
+        {
+          "__seccion_1__": "John Deere 2020 Engines",
+          "__seccion_2__": "John Deere 3.0L 4-cyl gasoline",
+          "__seccion_3__": "John Deere 3.3L 4-cyl diesel",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2020 Transmissions",
+          "__seccion_2__": "8-speed unsynchronized",
+          "__seccion_3__": "16-speed two-speed power shift",
+          "__seccion_4__": "8-speed power shuttle",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2020 Power",
+          "Drawbar (tested)": "45.90 hp 34.2 kW",
+          "PTO (tested)": "54.09 hp 40.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear Opt Optional",
+          "Steering": "power assist",
+          "__seccion_3__": "Differential hydraulic wet disc brakes",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 2020 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "19.5 gal 73.8 L",
+          "Hydraulic system": "10 gal 37.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "10 gal 37.9 L",
+          "Pressure": "2250 psi 155.1 bar",
+          "Pump flow": "10.5 gpm 39.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "&nbsp": "540/1000 Opt Optional",
+          "Rear PTO Type": "540",
+          "Mid PTO": "optional",
+          "Mid PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "86 inches 218 cm",
+          "Weight": "5770 lbs 2617 kg",
+          "Front tire": "7.50-16",
+          "Rear tire": "15.5-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2020 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "2020 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the 2020 transmission housing."
+        },
+        {
+          "1965": "014502",
+          "1966": "014680",
+          "1967": "042721",
+          "1968": "065176",
+          "1969": "082404",
+          "1970": "102032",
+          "1971": "117500",
+          "__seccion_1__": "2020 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Gas Batteries": "1",
+          "Diesel Batteries": "2",
+          "Battery volts": "12",
+          "Battery AH": "70",
+          "Battery Group": "24T"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere 20 Series New Generation Tractors by Benjamin Hain",
+          "__seccion_3__": "New 1020 and 2020 Tractors published in 1965, by John Deere",
+          "__seccion_4__": "1020, 1520, and 2020 Tractors published in 1968, by John Deere",
+          "__seccion_5__": "Tractors 31 to 54 H.P. published in 1969, by John Deere *",
+          "__seccion_6__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_7__": "John Deere Tractors for 68 published in 1968",
+          "__seccion_8__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 31, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1965 - 1971",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 2020 Tires",
+          "Ag front": "6.00-16",
+          "Ag rear": "18.4-16A",
+          "&nbsp": "13.6-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "86 inches 218 cm",
+          "Gas Operating weight": "5770 lbs 2617 kg",
+          "Ballasted weight": "7435 lbs 3372 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 31, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1965 - 1971",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 936: gasoline 8-speed 2WD",
+          "__seccion_3__": "NTTL 938: diesel 8-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 936"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 936",
+          "__seccion_2__": "Gasoline 8-speed 2WD May 3 - 13, 1966 Link: Nebraska Tractor Test 936 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "53.91 hp 40.2 kW",
+          "Fuel use": "4.9 gal/hour 18.5 l/hour",
+          "Power at rated PTO speed": "48.32 hp 36.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "43.94 hp 32.8 kW",
+          "__seccion_5__": "Gear 5 used for power test.",
+          "Max pull": "5697 lbs 2584 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 938"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 938",
+          "__seccion_2__": "Diesel 8-speed 2WD May 7 - 17, 1966 Link: Nebraska Tractor Test 938 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "54.09 hp 40.3 kW",
+          "Fuel use": "3.6 gal/hour 13.6 l/hour",
+          "Power at rated PTO speed": "49.31 hp 36.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "45.90 hp 34.2 kW",
+          "__seccion_5__": "Gear 5 used for power test.",
+          "Max pull": "5547 lbs 2516 kg",
+          "__seccion_6__": "Gear 3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 31, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1965 - 1971",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "John Deere 3.0L 4-cyl gasoline",
+          "__seccion_3__": "John Deere 3.3L 4-cyl diesel"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "180.43 ci 3.0 L",
+          "Bore/Stroke": "3.86x3.86 inches 98 x 98 mm",
+          "Air cleaner": "oil bath",
+          "&nbsp": "dry Opt Optional",
+          "Compression": "7.5:1",
+          "Rated RPM": "2500",
+          "Starter volts": "12",
+          "Oil capacity": "7 qts 6.6 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "201.8 ci 3.3 L",
+          "Bore/Stroke": "3.86x4.31 inches 98 x 109 mm",
+          "Air cleaner": "oil bath",
+          "&nbsp": "dry Opt Optional",
+          "Compression": "16.3:1",
+          "Rated RPM": "2500",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 31, 2025"
+        }
+      ]
+    }
+  }
+}

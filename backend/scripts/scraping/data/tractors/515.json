@@ -1,0 +1,227 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/5/1/515-ji-case-1175.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/5/1/515-ji-case-1175-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/5/1/515-ji-case-1175-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/5/1/515-ji-case-1175-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 515,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:06:12.399Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/515/515-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 55 KB"
+  },
+  "tractor_data_id": 515,
+  "name": "J.I. Case 1175",
+  "brand": "J.I. Case",
+  "model": "1175",
+  "years": {
+    "desde": 1971,
+    "hasta": 1978
+  },
+  "model_year": 1971,
+  "engine_power_hp": 122,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 122,
+  "pto_tested_hp": 121.93,
+  "drawbar_tested_hp": 108.15,
+  "weight_kg": 4626,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 61.1,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "10.00-16",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 16,
+    "diameter_mm_est": 838,
+    "tipo": "Diagonal",
+    "texto": "10.00-16"
+  },
+  "fuel_consumption_lph": 29.1,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/515/515-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/515/515-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td515.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1971 - 1978",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA",
+          "Total built": "8372",
+          "__seccion_4__": "Original price was $21,700 in 1978"
+        },
+        {
+          "__seccion_1__": "J.I. Case 1175 Engine",
+          "__seccion_2__": "J.I. Case 7.4L 6-cyl diesel",
+          "Fuel tank": "50 gal 189.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 1175 Transmission",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 1175 Power",
+          "PTO (claimed)": "122 hp 91.0 kW",
+          "Drawbar (tested)": "108.15 hp 80.6 kW",
+          "PTO (tested)": "121.93 hp 90.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic dry disc brakes",
+          "__seccion_5__": "Open operator station. Cab optional with available air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "J.I. Case 1175 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2250 psi 155.1 bar",
+          "Valves": "2",
+          "Pump flow": "16 gpm 60.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "lower-link draft sensing"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (1.375)",
+          "&nbsp": "540/1000 Opt Optional",
+          "Engine RPM": "1000@1900"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "10200 lbs 4626 kg",
+          "Front tire": "10.00-16",
+          "Rear tire": "18.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "55",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Agri King 1370 - 1270 - 1175 High-Production Tractors published in 1973, by J.I. Case",
+          "__seccion_3__": "1975 Spring Buyers Guide published by J.I. Case",
+          "__seccion_4__": "Time-saving experts published in 1975, by J.I. Case",
+          "__seccion_5__": "\"Specializing\" for Specialists published in 1978, by J.I. Case"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 6, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1971 - 1978",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "J.I. Case 1175 Tires",
+          "Ag front": "10.00-16",
+          "Ag rear": "18.4-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Weight": "10200 lbs 4626 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 6, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1971 - 1978",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1062"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1062",
+          "__seccion_2__": "Diesel 8-speed 2WD November 6 - 19, 1970 Link: Nebraska Tractor Test 1062 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "121.93 hp 90.9 kW",
+          "Fuel use": "7.8 gal/hour 29.5 l/hour",
+          "Power at rated PTO speed": "118.13 hp 88.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "108.15 hp 80.6 kW",
+          "__seccion_5__": "Gear 4L used for power test.",
+          "Max pull": "13730 lbs 6227 kg",
+          "__seccion_6__": "Gear 2L used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 6, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1971 - 1978",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "J.I. Case",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "451 ci 7.4 L",
+          "Bore/Stroke": "4.375x5.00 inches 111 x 127 mm",
+          "Air cleaner": "dry",
+          "Compression": "16.5:1",
+          "Rated RPM": "2100",
+          "Starter volts": "12",
+          "Coolant capacity": "40 qts 37.9 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 6, 2024"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/4/3/7432-massey-ferguson-1734e.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/4/3/7432-massey-ferguson-1734e-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/4/3/7432-massey-ferguson-1734e-engine.html",
+    "source_id": 7432,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:42:18.989Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7432/7432-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 49 KB"
+  },
+  "tractor_data_id": 7432,
+  "name": "Massey Ferguson 1734E",
+  "brand": "Massey Ferguson (a part of AGCO)",
+  "model": "ferguson 1734e",
+  "years": {
+    "desde": 2013,
+    "hasta": 1700
+  },
+  "model_year": 2013,
+  "engine_power_hp": 34,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 29,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1240,
+  "weight_basis": "Gear",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 10.6,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 15x19.5",
+  "tire_width_mm": 381,
+  "tire_diameter_mm": 1143,
+  "tire_front": {
+    "original": "27x8.50-15",
+    "radial": false,
+    "width_mm": 216,
+    "rim_in": 15,
+    "diameter_mm_est": 686,
+    "tipo": "Diagonal",
+    "texto": "27x8.50-15"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7432/7432-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7432/7432-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td7432.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2013 -",
+          "__seccion_2__": "1700 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson (a part of AGCO)",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1734E Engine",
+          "__seccion_2__": "Shibaura 1.5L 3-cyl diesel",
+          "Fuel tank": "10 gal 37.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1734E Transmissions",
+          "__seccion_2__": "9-speed gear",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1734E Power",
+          "Engine": "34 hp 25.4 kW",
+          "PTO (claimed)": "29 hp (gear) 21.6 kW",
+          "&nbsp": "27.2 hp (hydro) 20.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "bull gear",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 1734E photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "SCV flow": "6.7 gpm 25.4 lpm",
+          "Total flow": "10.5 gpm 39.7 lpm",
+          "Steering flow": "3.8 gpm 14.4 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at ends)": "2205 lbs 1000 kg",
+          "Rear lift (at 24\"/610mm)": "1598 lbs 724 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Clutch": "over-running",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2455"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "65.9 inches 167 cm",
+          "Weight": "2734 to 2745 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1734E attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "1700 Series published in 2016, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on August 17, 2026"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2013 -",
+          "__seccion_2__": "1700 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1734E Tires",
+          "Lawn/turf front": "27x8.50-15",
+          "Lawn/turf rear": "38x14.00-20",
+          "Industrial front": "27x8.50-15",
+          "Industrial rear": "15x19.5"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "65.9 inches 167 cm",
+          "Length": "116.5 inches 295 cm",
+          "Width": "52.4 inches * Minimum width with R1 tires. 133 cm",
+          "Height (ROPS)": "97.6 inches 247 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1734E Weight",
+          "Gear": "2734 lbs 1240 kg",
+          "Hydro": "2745 lbs 1245 kg",
+          "Max capacity": "4409 lbs 1999 kg",
+          "Max front axle": "2205 lbs 1000 kg",
+          "Max rear axle": "2205 lbs 1000 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 17, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2013 -",
+          "__seccion_2__": "1700 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibaura N843T-F",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "91.3 ci 1.5 L",
+          "Bore/Stroke": "3.307x3.543 inches 84 x 90 mm",
+          "Emissions": "Tier IV",
+          "Emission control": "internal exhaust-gas recirculation , diesel oxidation catalyst (DOC), regenerating diesel particulate filter (DPF) (iEGR)",
+          "Power": "34 hp 25.4 kW",
+          "Rated RPM": "2600",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "4.9 qts 4.6 L",
+          "Coolant capacity": "5.3 qts 5.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 17, 2026"
+        }
+      ]
+    }
+  }
+}

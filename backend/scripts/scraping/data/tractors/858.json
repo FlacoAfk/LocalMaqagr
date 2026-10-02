@@ -1,0 +1,272 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/5/858-massey-ferguson-2745.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/5/858-massey-ferguson-2745-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/8/5/858-massey-ferguson-2745-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/5/858-massey-ferguson-2745-engine.html",
+    "source_id": 858,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:27:41.766Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/858/858-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 84 KB"
+  },
+  "tractor_data_id": 858,
+  "name": "Massey Ferguson 2745",
+  "brand": "Massey Ferguson",
+  "model": "2745",
+  "years": {
+    "desde": 1978,
+    "hasta": 1983
+  },
+  "model_year": 1978,
+  "engine_power_hp": 140,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 140,
+  "pto_tested_hp": 143.4,
+  "drawbar_tested_hp": 122.28,
+  "weight_kg": 5670,
+  "weight_basis": "Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 68.4,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 20.8-38",
+  "tire_width_mm": 528,
+  "tire_diameter_mm": 1863,
+  "tire_front": {
+    "original": "11.00-16",
+    "radial": false,
+    "width_mm": 279,
+    "rim_in": 16,
+    "diameter_mm_est": 881,
+    "tipo": "Diagonal",
+    "texto": "11.00-16"
+  },
+  "fuel_consumption_lph": 39,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/858/858-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/858/858-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td858.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1978 - 1983",
+          "__seccion_2__": "2000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Original price was $44,500 in 1983"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2745 Engine",
+          "__seccion_2__": "Perkins 8.8L 8-cyl diesel",
+          "Fuel tank": "87 gal 329.3 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2745 Transmissions",
+          "__seccion_2__": "24-speed 3-speed power shift",
+          "__seccion_3__": "8-speed mechanical shuttle",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2745 Power",
+          "PTO (claimed)": "140 hp 104.4 kW",
+          "Drawbar (tested)": "122.28 hp 91.2 kW",
+          "PTO (tested)": "143.40 hp 106.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Final drives": "planetary",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Cab standard with air-conditioning. Available platform configuration with four-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 2745 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "2 or 3",
+          "Pump flow": "17.1 gpm (high-pressure) 64.7 lpm",
+          "&nbsp": "17.1 gpm (aux. high-pressure) 64.7 lpm",
+          "Steering flow": "5.7 gpm 21.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position control and lower-link draft sensing"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@1990",
+          "&nbsp": "1000@2090"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "110 inches 279 cm",
+          "Weight": "12500 to 15190 pounds",
+          "Front tire": "11.00-16",
+          "Rear tire": "20.8-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2745 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1978": "9R000733",
+          "1979": "9R003482",
+          "1980": "9R007282",
+          "1981": "9R010307",
+          "1982": "9R013230",
+          "1983": "9R013525",
+          "__seccion_1__": "2745 Serial Numbers",
+          "Location:": "Serial number plate to the left of the tractor's instrument panel.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "58",
+          "Batteries": "2",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Loaders and Spreaders published in 1979, by Massey Ferguson",
+          "__seccion_3__": "MF 2000 Series Tractors published in 1982, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 1, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1978 - 1983",
+          "__seccion_2__": "2000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2745 Tires",
+          "Ag front": "11.00-16",
+          "Ag rear": "20.8-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "110 inches 279 cm",
+          "Length": "181.6 inches 461 cm",
+          "Width": "91.6 inches (standard axle) 232 cm",
+          "&nbsp": "125.7 inches (long axle) 319 cm",
+          "Clearance (front axle)": "23.8 inches 60 cm",
+          "Clearance (drawbar)": "15.6 inches 39 cm",
+          "Rear axle": "3.75 inch diameter 95 mm",
+          "Front tread": "70 to 90 inches 177 to 228 cm (wide axle)",
+          "Rear tread": "62 to 129 inches 157 to 327 cm (PAVT long)"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2745 Weight",
+          "Shipping": "12500 lbs 5670 kg",
+          "Operating": "15190 lbs 6890 kg",
+          "Ballasted": "19490 lbs 8840 kg"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2745 Height",
+          "Steering wheel": "88 inches 223 cm",
+          "Hood": "71.3 inches 181 cm",
+          "Cab": "112 inches 284 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 1, 2020"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1978 - 1983",
+          "__seccion_2__": "2000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1311"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1311",
+          "__seccion_2__": "Diesel 24-speed 2WD May 7 - 16, 1979 Link: Nebraska Tractor Test 1311 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "143.40 hp 106.9 kW",
+          "Fuel use": "10.2 gal/hour 38.6 l/hour",
+          "Power at rated PTO speed": "132.21 hp 98.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "122.28 hp 91.2 kW",
+          "__seccion_5__": "Gear 14 used for power test.",
+          "Max pull": "15386 lbs 6979 kg",
+          "__seccion_6__": "Gear 2H used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 1, 2020"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1978 - 1983",
+          "__seccion_2__": "2000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins 8.540",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "8-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "539 ci 8.8 L",
+          "Bore/Stroke": "4.25x4.75 inches 108 x 121 mm",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dual dry element",
+          "Compression": "18.4:1",
+          "Rated RPM": "2600",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "20 qts 18.9 L",
+          "Coolant capacity": "50 qts 47.3 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 1, 2020"
+        }
+      ]
+    }
+  }
+}

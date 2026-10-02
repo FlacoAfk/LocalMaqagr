@@ -1,0 +1,225 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/5/2/7521-ji-case-310c.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/5/2/7521-ji-case-310c-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/007/5/2/7521-ji-case-310c-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/5/2/7521-ji-case-310c-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 7521,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:10:26.900Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7521/7521-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 46 KB"
+  },
+  "tractor_data_id": 7521,
+  "name": "J.I. Case 310C",
+  "brand": "J.I. Case",
+  "model": "310C",
+  "years": {
+    "desde": 1958,
+    "hasta": 1960
+  },
+  "model_year": 1958,
+  "engine_power_hp": 42,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": 33.32,
+  "drawbar_tested_hp": 26.75,
+  "weight_kg": 2404,
+  "weight_basis": "Shipping weight",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 25.9,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 11,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F007/7521/7521-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7521/7521-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td7521.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1958 - 1960",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "J.I. Case 310C Engine",
+          "__seccion_2__": "J.I. Case 2.4L 4-cyl gasoline",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 310C Transmission",
+          "__seccion_2__": "3-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 310C Power",
+          "Engine (gross)": "42 hp 31.3 kW",
+          "Drawbar (claimed)": "30 hp 22.4 kW",
+          "Belt (claimed)": "36 hp 26.8 kW",
+          "Plows": "3",
+          "Drawbar (tested)": "26.75 hp 19.9 kW",
+          "PTO (tested)": "33.32 hp 24.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "crawler",
+          "__seccion_2__": "Contracting band brakes",
+          "__seccion_3__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "J.I. Case 310C photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "15 gpm 56.8 lpm"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1727"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tracks",
+          "Wheelbase": "54 inches 137 cm",
+          "Weight": "5300 to 6145 pounds",
+          "__seccion_2__": "10-inch tracks",
+          "__seccion_3__": "Full dimensions and tracks ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 310C attachments",
+          "__seccion_2__": "blade",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1957": "3000001 (310)",
+          "1958": "3003001 (310)",
+          "1959": "3008001 (310C)",
+          "__seccion_1__": "310C Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Belt Pulley",
+          "Diameter": "8.5 inches 21 cm",
+          "Width": "6.5 inches 16 cm",
+          "RPM": "1193",
+          "Speed": "2650 ft/min 807.72 meters/min"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "310 Agricultural Crawler published in 1957, by J.I. Case",
+          "__seccion_3__": "Case Tool Bar Dozer published in 1958, by J.I. Case",
+          "__seccion_4__": "J.I. Case presents published in 1957"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 20, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1958 - 1960",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "J.I. Case 310C Tracks",
+          "Width": "10 inches 25 cm"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "54 inches 137 cm",
+          "Length": "110 inches 279 cm",
+          "Width": "58 inches 147 cm",
+          "Shipping weight": "5300 lbs 2404 kg",
+          "Operating weight": "6145 lbs 2787 kg",
+          "Gauge": "48 inches 121 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 20, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1958 - 1960",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 709"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 709",
+          "__seccion_2__": "Gasoline 3-speed crawler July 14 - 31, 1959 Link: Nebraska Tractor Test 709 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "33.32 hp 24.8 kW",
+          "Fuel use": "3.2 gal/hour 12.1 l/hour",
+          "Power at rated PTO speed": "31.43 hp 23.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "26.75 hp 19.9 kW",
+          "__seccion_5__": "Gear 2 used for power test.",
+          "Max pull": "5815 lbs 2637 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 20, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1958 - 1960",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "J.I. Case",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "148 ci 2.4 L",
+          "Bore/Stroke": "3.375x4.125 inches 86 x 105 mm",
+          "Power (gross)": "42 hp 31.3 kW",
+          "Air cleaner": "oil bath",
+          "Compression": "7:1",
+          "Rated RPM": "1850",
+          "Starter": "electric",
+          "Starter volts": "6"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 20, 2024"
+        }
+      ]
+    }
+  }
+}

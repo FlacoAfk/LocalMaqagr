@@ -1,0 +1,274 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/0/107-john-deere-2940.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/0/107-john-deere-2940-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/1/0/107-john-deere-2940-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/0/107-john-deere-2940-engine.html",
+    "source_id": 107,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:48:06.532Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/107/107-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 72 KB"
+  },
+  "tractor_data_id": 107,
+  "name": "John Deere 2940",
+  "brand": "John Deere",
+  "model": "2940",
+  "years": {
+    "desde": 1980,
+    "hasta": 1982
+  },
+  "model_year": 1980,
+  "engine_power_hp": 82,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 82,
+  "pto_tested_hp": 81.17,
+  "drawbar_tested_hp": 64.18,
+  "weight_kg": 4279,
+  "weight_basis": "Operating",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 33.8,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 16.9-38",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1695,
+  "tire_front": {
+    "original": "12.4-28",
+    "radial": false,
+    "width_mm": 315,
+    "rim_in": 28,
+    "diameter_mm_est": 1247,
+    "tipo": "Diagonal",
+    "texto": "12.4-28"
+  },
+  "fuel_consumption_lph": 19.7,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/107/107-td3a.jpg",
+  "image_url": "/uploads/tractors/td107.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1980 - 1982",
+          "__seccion_2__": "2040 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany",
+          "__seccion_4__": "Original price was $25,500 in 1982"
+        },
+        {
+          "__seccion_1__": "John Deere 2940 Engine",
+          "__seccion_2__": "John Deere 5.9L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2940 Transmission",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2940 Power",
+          "Drawbar (claimed)": "68 hp 50.7 kW",
+          "PTO (claimed)": "82 hp 61.1 kW",
+          "Drawbar (tested)": "64.18 hp 47.9 kW",
+          "PTO (tested)": "81.17 hp 60.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Open operator station. Sound-Gard Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 2940 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "33.25 gal 125.9 L",
+          "Hydraulic system": "15.8 gal 59.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "15.8 gal 59.8 L",
+          "Pressure": "2250 psi 155.1 bar",
+          "Valves": "2",
+          "Pump flow": "23 gpm 87.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position control and lower-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "2400 lbs 1088 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "101.6 inches 258 cm",
+          "Weight": "9435 lbs 4279 kg",
+          "Front tire": "10.00-16",
+          "2WD Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1980": "350000",
+          "1981": "390496",
+          "1982": "418953",
+          "__seccion_1__": "2940 Serial Numbers",
+          "Location:": "Serial number plate on the front-right of the Deere 2940 frame, above the front axle.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "33",
+          "Batteries": "2",
+          "Battery volts": "12",
+          "Battery AH": "88"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Tractors 40 to 80 HP published in 1981, by John Deere",
+          "__seccion_3__": "Operator's Manual 2940 (OMR71860) published in 1980"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 17, 2023",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1980 - 1982",
+          "__seccion_2__": "2040 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 2940 Tires",
+          "2WD Standard tires (ag)": "Front: 10.00-16. Rear: 18.4-34",
+          "4WD Standard tires (ag)": "Front: 12.4-28. Rear: 16.9-38",
+          "4WD Optional tires (ag)": "Front: 13.6-24. Rear: 18.4-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "101.6 inches 258 cm",
+          "Length": "164.9 inches 418 cm",
+          "Width": "90.3 inches 229 cm",
+          "Height (hood)": "67.1 inches 170 cm",
+          "Height (exhaust)": "113 inches 287 cm",
+          "Clearance (front axle)": "25.6 inches 65 cm",
+          "__seccion_2__": "Rack-and-pinion rear axle",
+          "Front tread": "63 to 94 inches 160 to 238 cm (wide front)",
+          "Rear tread": "69 to 91 inches 175 to 231 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 2940 Weight",
+          "Operating": "9435 lbs (4WD ROPS) 4279 kg",
+          "Ballasted": "10650 lbs 4830 kg",
+          "Max Drawbar": "1500 lbs (extended) 680 kg",
+          "&nbsp": "2200 lbs (retracted) 997 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 17, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1980 - 1982",
+          "__seccion_2__": "2040 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1351"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1351",
+          "__seccion_2__": "Diesel 16-speed 4WD May 27 - June 5, 1980 Link: Nebraska Tractor Test 1351 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "81.17 hp 60.5 kW",
+          "Fuel use": "5.0 gal/hour 18.9 l/hour",
+          "Power at rated PTO speed": "81.46 hp 60.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "64.18 hp 47.9 kW",
+          "__seccion_5__": "Gear 5L used for power test.",
+          "Max pull": "7,601 lbs 3447 kg",
+          "__seccion_6__": "Gear 3L used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 17, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1980 - 1982",
+          "__seccion_2__": "2040 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "359 ci 5.9 L",
+          "Bore/Stroke": "4.19x4.33 inches 106 x 110 mm",
+          "Compression": "16.8:1",
+          "Rated RPM": "2500",
+          "Idle RPM": "800-2660",
+          "Operating RPM": "1500-2500",
+          "Torque": "235 lb-ft 318.7 Nm",
+          "Torque RPM": "1400",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Coolant capacity": "20 qts 18.9 L",
+          "Intake valve clearance": "0.014 inches 0.356 mm",
+          "Exhaust valve clearance": "0.018 inches 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "12 qts 11.4 L",
+          "Oil change": "100 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 17, 2023"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/107/107-td4-b01.jpg"
+}

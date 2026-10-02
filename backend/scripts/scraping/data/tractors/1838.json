@@ -1,0 +1,233 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/8/3/1838-kubota-l5740.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/8/3/1838-kubota-l5740-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/8/3/1838-kubota-l5740-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1838,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:54:06.566Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1838/1838-td4-b01-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 70 KB"
+  },
+  "tractor_data_id": 1838,
+  "name": "Kubota L5740",
+  "brand": "Kubota",
+  "model": "L5740",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 59,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 50,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1769,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 18.3,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 13.6-28",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1298,
+  "tire_front": {
+    "original": "9.5-16",
+    "radial": false,
+    "width_mm": 241,
+    "rim_in": 16,
+    "diameter_mm_est": 817,
+    "tipo": "Diagonal",
+    "texto": "9.5-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1838/1838-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1838/1838-td4-b01-ext090.jpg",
+  "image_url": "/uploads/tractors/td1838.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2007 - ????",
+          "__seccion_2__": "L40 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor",
+          "Original price": "$30,971 (2011)",
+          "__seccion_3__": "The \"semi-independent\" mid PTO is linked with the rear PTO. Whenever the mid PTO is engaged, the rear PTO will also be engaged. The rear PTO can be run without the mid PTO."
+        },
+        {
+          "__seccion_1__": "Variants",
+          "L5740HST": "ROPS",
+          "L5740HSTC": "cab"
+        },
+        {
+          "__seccion_1__": "Kubota L5740 Engine",
+          "__seccion_2__": "Kubota 2.4L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L5740 Transmission",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L5740 Power",
+          "Engine (gross)": "59 hp 44.0 kW",
+          "Engine (net)": "57 hp 42.5 kW",
+          "PTO (claimed)": "50 hp 37.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "standard",
+          "Steering": "hydrostatic power steering",
+          "__seccion_3__": "Mechanical wet disc brakes",
+          "__seccion_4__": "Two-post ROPS. Grand CAB on HSTC"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota L5740 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "14.3 gal 54.1 L",
+          "Hydraulic system": "11.9 gal 45.0 L",
+          "Front axle": "9.5 qts 9.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "11.9 gal 45.0 L",
+          "Valves": "2 to 3",
+          "Pump flow": "9.8 gpm 37.1 lpm",
+          "Total flow": "14.7 gpm 55.6 lpm",
+          "Steering flow": "4.9 gpm 18.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I/II",
+          "Rear lift (at ends)": "3,860 lbs 1750 kg",
+          "Rear lift (at 24\"/610mm)": "2,980 lbs 1351 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "Engine RPM": "540@2550",
+          "Mid PTO": "semi-independent (optional)",
+          "Mid PTO Type": "2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "75.4 inches 191 cm",
+          "Weight": "3902 to 4223 pounds",
+          "Front tire": "9.5-16",
+          "Rear tire": "13.6-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota L5740 attachments",
+          "__seccion_2__": "snowblower",
+          "__seccion_3__": "blade",
+          "__seccion_4__": "front-end loader",
+          "__seccion_5__": "backhoe",
+          "__seccion_6__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "45",
+          "&nbsp": "55 (cab)",
+          "Battery CCA": "582",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 1, 2015"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2007 - ????",
+          "__seccion_2__": "L40 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota L5740 Tires",
+          "Standard tires (ag)": "Front: 9.5-16. Rear: 13.6-28",
+          "Optional tires (ag)": "Front: 9.5-16. Rear: 14.9-26",
+          "Lawn/turf front": "29x12.50-15",
+          "&nbsp": "610R470",
+          "Lawn/turf rear": "44x18-20",
+          "Industrial front": "10-16.5",
+          "Industrial rear": "17.5L-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "75.4 inches 191 cm",
+          "Length": "126.4 inches 321 cm",
+          "Width": "67.3 inches 170 cm",
+          "Height": "101 inches 256 cm",
+          "Weight": "3,902 lbs (ROPS) 1769 kg",
+          "&nbsp": "4,223 lbs (cab) 1915 kg",
+          "Ground clearance": "15.7 inches 39 cm",
+          "Front tread": "52.8 inches 134 cm",
+          "Rear tread": "52.2 to 56.3 inches 132 to 143 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 1, 2015"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2007 - ????",
+          "__seccion_2__": "L40 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "148.5 ci 2.4 L",
+          "Bore/Stroke": "3.4x inches 86 x 102 mm",
+          "Power (net)": "57 hp 42.5 kW",
+          "Power (gross)": "59 hp 44.0 kW",
+          "Rated RPM": "2700",
+          "Starter volts": "12",
+          "Oil capacity": "9.9 qts 9.4 L",
+          "Coolant capacity": "8.7 qts 8.2 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 1, 2015"
+        }
+      ]
+    }
+  }
+}

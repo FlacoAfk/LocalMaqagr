@@ -1,0 +1,209 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/9/9/1995-fiat-580.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/9/9/1995-fiat-580-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/9/9/1995-fiat-580-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1995,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:14:04.035Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1995/1995-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 46 KB"
+  },
+  "tractor_data_id": 1995,
+  "name": "Fiat 580",
+  "brand": "Fiat",
+  "model": "580",
+  "years": {
+    "desde": 1978,
+    "hasta": 1984
+  },
+  "model_year": 1978,
+  "engine_power_hp": 57.2,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 50,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2615,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 18.3,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1995/1995-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1995/1995-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1995.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1978 - 1984",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Fiat",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "570": "orchard",
+          "580": "utility",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Fiat 580 Engine",
+          "__seccion_2__": "Fiat 2.8L 3-cyl diesel",
+          "Fuel tank": "21.1 gal 79.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 580 Transmissions",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "12-speed",
+          "__seccion_4__": "8-speed mechanical shuttle",
+          "__seccion_5__": "16-speed creeper",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 580 Power",
+          "Engine": "57.2 hp 42.7 kW",
+          "PTO (claimed)": "50 hp 37.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Four-post ROPS. Cab optional with available air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Fiat 580 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Pump flow": "7.4 gpm 28.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift": "5292 lbs 2400 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2314"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "85.5 inches 217 cm",
+          "4WD Wheelbase": "85 inches 215 cm",
+          "Weight": "5149 to 5766 pounds",
+          "Front tire": "6.00-19",
+          "2WD Rear tire": "12.4/11-36",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "33",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 3, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1978 - 1984",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Fiat 580 Tires",
+          "2WD Standard tires (ag)": "Front: 6.00-19. Rear: 12.4/11-36",
+          "4WD Standard tires (ag)": "Front: 11.2/10-24. Rear: 12.4/11-36",
+          "Optional tires (ag)": "Front: 12.4/11-24. Rear: 13.6/12-36",
+          "&nbsp": "Front: 9.5/9-24. Rear: 14.9/13-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "85.5 inches 217 cm",
+          "4WD Wheelbase": "85 inches 215 cm",
+          "2WD Length": "130.8 inches 332 cm",
+          "4WD Length": "135.2 inches 343 cm",
+          "2WD Weight": "5149 lbs 2335 kg",
+          "4WD Weight": "5766 lbs 2615 kg",
+          "2WD Clearance (front axle)": "19 inches 48 cm",
+          "4WD Clearance (front axle)": "16.1 inches 40 cm",
+          "2WD Front tread": "55.1 to 74.8 inches 139 to 189 cm",
+          "4WD Front tread": "60.2 to 77 inches 152 to 195 cm",
+          "Rear tread": "55.1 to 78.7 inches 139 to 199 cm"
+        },
+        {
+          "__seccion_1__": "Fiat 580 Height",
+          "2WD Steering wheel": "68.9 inches 175 cm",
+          "4WD Steering wheel": "69.7 inches 177 cm",
+          "2WD Hood": "57.9 inches 147 cm",
+          "4WD Hood": "58.3 inches 148 cm",
+          "Cab": "98.4 inches 249 cm",
+          "2WD Exhaust": "98.8 inches 250 cm",
+          "4WD Exhaust": "99.2 inches 251 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 3, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1978 - 1984",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Fiat 8035",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "167.8 ci 2.8 L",
+          "Bore/Stroke": "4.06x4.33 inches 103 x 110 mm",
+          "Power": "57.2 hp 42.7 kW",
+          "Air cleaner": "dual dry element",
+          "Compression": "17:1",
+          "Rated RPM": "2700",
+          "Firing order": "1-2-3",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 3, 2022"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/7/9/795-john-deere-5090m.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/7/9/795-john-deere-5090m-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/7/9/795-john-deere-5090m-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/7/9/795-john-deere-5090m-engine.html",
+    "source_id": 795,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:51:56.563Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/795/795-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 118 KB",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1243/",
+    "nebraska_test": 2204
+  },
+  "tractor_data_id": 795,
+  "name": "John Deere 5090M",
+  "brand": "John Deere",
+  "model": "5090M",
+  "years": {
+    "desde": 2018,
+    "hasta": 2022
+  },
+  "model_year": 2018,
+  "engine_power_hp": 89.2,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 75,
+  "pto_tested_hp": 83.74,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3975,
+  "weight_basis": "4WD ROPS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 30.7,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 460/85R30",
+  "tire_width_mm": 460,
+  "tire_diameter_mm": 1544,
+  "tire_front": {
+    "original": "320/85R24",
+    "radial": true,
+    "width_mm": 320,
+    "rim_in": 24,
+    "diameter_mm_est": 1154,
+    "tipo": "Radial",
+    "texto": "320/85R24"
+  },
+  "fuel_consumption_lph": 17.8,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/795/795-td3a.jpg",
+  "image_url": "/uploads/tractors/td795.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2018 - 2022",
+          "__seccion_2__": "5M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Augusta, Georgia, USA",
+          "__seccion_4__": "Original price was $64,481 in 2021"
+        },
+        {
+          "__seccion_1__": "John Deere 5090M Engine",
+          "__seccion_2__": "John Deere 4.5L 4-cyl diesel",
+          "ROPS Fuel tank": "37.3 gal Opt Optional 141.2 L",
+          "Cab Fuel tank": "45 gal Opt Optional 170.3 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5090M Transmissions",
+          "__seccion_2__": "12-speed partially synchronized",
+          "__seccion_3__": "16-speed power shuttle",
+          "__seccion_4__": "32-speed two-speed power shift",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5090M Power",
+          "Engine (gross)": "89.2 hp 66.5 kW",
+          "PTO (claimed)": "75 hp 55.9 kW",
+          "PTO (tested)": "83.74 hp 62.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "electro-hydraulic",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Isolated open operator station with foldable two-post ROPS. Optional premium open station features extended fenders and integral work lights. Standard and premium cabs available with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 5090M photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "18.4 gpm 69.6 lpm",
+          "Total flow": "24.7 gpm 93.5 lpm",
+          "Steering flow": "6.3 gpm 23.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "lower-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "5159 lbs 2340 kg",
+          "&nbsp": "5954 lbs Opt Optional 2700 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540/540E",
+          "&nbsp": "540/540E/1000 Opt Optional"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "92.5 inches 234 cm",
+          "Weight": "8140 to 9185 pounds",
+          "Front tire": "12.4R24",
+          "2WD Rear tire": "18.4R30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "5M Series published in 2018, by John Deere *",
+          "__seccion_3__": "Operator's Manual 5094M, 5090M, 5100M, 5100MH, 5100ML, 5115M and 5115ML (FT4) Tractors (OMSU54598) published in 2017",
+          "__seccion_4__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on September 30, 2023",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2018 - 2022",
+          "__seccion_2__": "5M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 5090M Tires",
+          "2WD Standard tires (ag)": "Front: 12.4R24. Rear: 18.4R30",
+          "4WD Standard tires (ag)": "Front: 320/85R24. Rear: 460/85R30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "92.5 inches 234 cm",
+          "Length": "149.5 inches 379 cm",
+          "Height (ROPS)": "102.1 inches 259 cm",
+          "Height (cab)": "102.9 inches 261 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 5090M Weight",
+          "2WD ROPS Shipping": "8140 lbs 3692 kg",
+          "2WD Cab Shipping": "8580 lbs 3891 kg",
+          "4WD ROPS Shipping": "8765 lbs 3975 kg",
+          "4WD Cab Shipping": "9185 lbs 4166 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 30, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2018 - 2022",
+          "__seccion_2__": "5M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 2204"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 2204",
+          "__seccion_2__": "Diesel 16-speed 4WD September 25 - 27, 2018 Link: Nebraska Tractor Test 2204 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "83.74 hp 62.4 kW",
+          "Fuel use": "4.8 gal/hour 18.2 l/hour",
+          "Power at rated engine speed": "75.61 hp 56.4 kW",
+          "Power at rated PTO speed": "77.84 hp 58.0 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 30, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2018 - 2022",
+          "__seccion_2__": "5M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 4045PWL",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "276 ci 4.5 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Tier 4",
+          "Emission control": "diesel oxidation catalyst and selective catalyst reduction (SCR) (DOC)",
+          "Rated Power (gross)": "89.2 hp 66.5 kW",
+          "Rated RPM": "2100",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 30, 2023"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/795/795-photo-001.jpg"
+}

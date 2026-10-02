@@ -1,0 +1,290 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/8/888-massey-ferguson-4270.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/8/888-massey-ferguson-4270-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/8/8/888-massey-ferguson-4270-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/8/888-massey-ferguson-4270-engine.html",
+    "source_id": 888,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:29:18.384Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/888/888-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 48 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 888,
+  "name": "Massey Ferguson 4270",
+  "brand": "Massey Ferguson",
+  "model": "4270",
+  "years": {
+    "desde": 1997,
+    "hasta": 2001
+  },
+  "model_year": 1997,
+  "engine_power_hp": 110,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": 99,
+  "pto_tested_hp": 101.5,
+  "drawbar_tested_hp": 79,
+  "weight_kg": 3871,
+  "weight_basis": "&nbsp",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 41.5,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "10.00-16",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 16,
+    "diameter_mm_est": 838,
+    "tipo": "Diagonal",
+    "texto": "10.00-16"
+  },
+  "fuel_consumption_lph": 22.7,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/888/888-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/888/888-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td888.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1997 - 2001",
+          "__seccion_2__": "4200 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Coventry, England",
+          "__seccion_4__": "Original price was $42,700 in 1999"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4270 Engine",
+          "__seccion_2__": "Perkins 6.0L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4270 Transmissions",
+          "__seccion_2__": "12-speed power shuttle",
+          "__seccion_3__": "24-speed power shuttle with power shift",
+          "__seccion_4__": "18-speed two-speed power shift",
+          "__seccion_5__": "12-speed partially synchronized",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4270 Power",
+          "Engine (net)": "110 hp 82.0 kW",
+          "PTO (claimed)": "99 hp 73.8 kW",
+          "Drawbar (tested)": "79.0 hp 58.9 kW",
+          "PTO (tested)": "101.5 hp 75.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "outboard planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Independent hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 4270 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "ROPS Fuel": "52.8 gal 199.8 L",
+          "Cab Fuel": "54 gal 204.4 L",
+          "Hydraulic system": "13.2 gal 50.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "13.2 gal 50.0 L",
+          "Pressure": "3046 psi 210.0 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "17.4 gpm 65.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position and draft control",
+          "Cab Rear lift (at ends)": "7958 lbs 3609 kg",
+          "ROPS Rear lift (at ends)": "6362 lbs 2885 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@1902",
+          "&nbsp": "1000@2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "103 inches 261 cm",
+          "Weight": "7712 to 9105 pounds",
+          "Front tire": "10.00-16",
+          "Rear tire": "18.4-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4270 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1997": "F01001",
+          "1998": "G01001",
+          "1999": "H01001",
+          "__seccion_1__": "4270 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "45",
+          "Cab Charging amps": "70",
+          "Batteries": "2",
+          "Battery CCA": "590",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF Loaders for Compact & Agricultural Tractors published in 2003, by Massey Ferguson",
+          "__seccion_3__": "MF 4200 Series published in 1997, by Massey Ferguson",
+          "__seccion_4__": "MF 4200 Series published in 2000, by Massey Ferguson",
+          "__seccion_5__": "MF 4200 Series Tractors - MF 1000 Series Loaders Dealer Launch published in 1997, by Massey Ferguson",
+          "__seccion_6__": "MF 4200 Series Specifications published in 1997, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 12, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1997 - 2001",
+          "__seccion_2__": "4200 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4270 Tires",
+          "Ag front": "10.00-16",
+          "Ag rear": "18.4-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "103 inches 261 cm",
+          "2WD Length": "169 inches 429 cm",
+          "4WD Length": "171 inches 434 cm",
+          "Width": "79 inches * Minimum width 200 cm",
+          "Ground clearance": "16 inches 40 cm",
+          "Front axle": "4WD",
+          "__seccion_2__": "Flange rear axle",
+          "2WD Front tread": "54 to 78 inches 137 to 198 cm",
+          "4WD Front tread": "61 to 81 inches 154 to 205 cm",
+          "Rear tread": "60 to 88 inches 152 to 223 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4270 Weight",
+          "__seccion_2__": "7712 lbs (2WD ROPS) 3498 kg",
+          "&nbsp": "9085 lbs (4WD Cab) 4120 kg",
+          "Operating": "9,105 lbs 4130 kg",
+          "Max rear axle": "12000 lbs 5443 kg"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4270 Height",
+          "Steering wheel": "75 inches 190 cm",
+          "&nbsp": "69 inches (LoProfile) 175 cm",
+          "ROPS": "105 inches 266 cm",
+          "Height (Folded ROPS)": "82 inches 208 cm",
+          "Cab": "106 inches 269 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 12, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1997 - 2001",
+          "__seccion_2__": "4200 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1715"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1715",
+          "__seccion_2__": "Diesel 12-speed 4WD June 1 - July 1, 1997 Link: OCED Tractor Test 1715 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "79.0 hp 58.9 kW",
+          "Fuel use": "6.2 gal/hour 23.5 l/hour",
+          "Power at rated engine speed": "100.3 hp 74.8 kW",
+          "Power at rated PTO speed": "100.8 hp 75.2 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 6 used for power test.",
+          "Max pull": "9,330 lbs 4232 kg",
+          "__seccion_6__": "Gear 2L used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 12, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1997 - 2001",
+          "__seccion_2__": "4200 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins 1006.60T",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "365.2 ci 6.0 L",
+          "Bore/Stroke": "3.937x5.00 inches 100 x 127 mm",
+          "Power (net)": "110 hp 82.0 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "17.3:1",
+          "Rated RPM": "2200",
+          "Torque": "334 lb-ft 452.9 Nm",
+          "Torque RPM": "1200",
+          "Starter volts": "12",
+          "Oil capacity": "14.3 qts 13.5 L",
+          "Coolant capacity": "18.4 qts 17.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 12, 2024"
+        }
+      ]
+    }
+  }
+}

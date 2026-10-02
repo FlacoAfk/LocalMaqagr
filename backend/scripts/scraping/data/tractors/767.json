@@ -1,0 +1,297 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/7/6/767-massey-ferguson-265.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/7/6/767-massey-ferguson-265-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/7/6/767-massey-ferguson-265-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/7/6/767-massey-ferguson-265-engine.html",
+    "source_id": 767,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:31:49.384Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/767/767-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 80 KB"
+  },
+  "tractor_data_id": 767,
+  "name": "Massey Ferguson 265",
+  "brand": "Massey Ferguson",
+  "model": "265",
+  "years": {
+    "desde": 1975,
+    "hasta": 1983
+  },
+  "model_year": 1975,
+  "engine_power_hp": 60,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 60,
+  "pto_tested_hp": 60.73,
+  "drawbar_tested_hp": 50.38,
+  "weight_kg": 2766,
+  "weight_basis": "Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 27.8,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 16.9-24",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1339,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": 14.4,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/767/767-td3a.jpg",
+  "image_url": "/uploads/tractors/td767.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1975 - 1983",
+          "__seccion_2__": "200 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Detroit, Michigan, USA",
+          "__seccion_4__": "Original price was $22,500 in 1983"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 265 Engines",
+          "__seccion_2__": "Perkins 3.9L 4-cyl diesel",
+          "__seccion_3__": "Perkins 3.9L 4-cyl gasoline",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 265 Transmissions",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "12-speed partial power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 265 Power",
+          "Drawbar (claimed)": "50 hp 37.3 kW",
+          "PTO (claimed)": "60 hp 44.7 kW",
+          "Drawbar (tested)": "50.38 hp 37.6 kW",
+          "PTO (tested)": "60.73 hp 45.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential mechanical dry disc brakes",
+          "__seccion_5__": "Open operator station. Two-post ROPS optional. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 265 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "18.5 gal 70.0 L",
+          "Hydraulic system": "8 gal 30.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Capacity": "8 gal 30.3 L",
+          "Pressure": "2300 psi 158.6 bar",
+          "Valves": "0 to 2",
+          "Pump flow": "10 gpm 37.9 lpm",
+          "&nbsp": "4.5 gpm (3-point) 17.0 lpm",
+          "Total flow": "19.5 gpm 73.8 lpm",
+          "Steering flow": "5 gpm 18.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift": "4100 lbs 1859 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live (two-stage clutch)",
+          "&nbsp": "independent (optional)",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1683"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "82 inches 208 cm",
+          "Weight": "6100 to 6385 pounds",
+          "Front tire": "6.00-16",
+          "Rear tire": "16.9-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 265 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1974": "9A202190",
+          "1975": "9A207681",
+          "1976": "9A232539",
+          "1977": "9A254045",
+          "1978": "9A276935",
+          "1979": "9A296946",
+          "1980": "9A326169",
+          "1981": "9A339343",
+          "1982": "9A350584",
+          "1983": "9A354679",
+          "__seccion_1__": "265 Serial Numbers",
+          "Location:": "Below instrument panel",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "37",
+          "Battery volts": "12",
+          "Battery AH": "95"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Loaders and Spreaders published in 1979, by Massey Ferguson",
+          "__seccion_3__": "MF 255/265/275 Tractors published in 1975, by Massey Ferguson",
+          "__seccion_4__": "MF 34-81HP Tractors published in 1980, by Massey Ferguson",
+          "__seccion_5__": "MF 200 Series Tractors published in 1982, by Massey Ferguson",
+          "__seccion_6__": "Complete Farm Machinery Guide published in 1976, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1975 - 1983",
+          "__seccion_2__": "200 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 265 Tires",
+          "Ag front": "6.50-16 (row-crop)",
+          "&nbsp": "21.5L-16.1 (low-profile)",
+          "Ag rear": "13.6-38 (row-crop)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "82 inches 208 cm",
+          "Ground clearance": "16 inches 40 cm",
+          "&nbsp": "14.9 inches (low-profile) 37 cm",
+          "Front tread": "52 to 76 inches 132 to 193 cm (row-crop)",
+          "Rear tread": "55 to 87 inches 139 to 220 cm (low-profile)"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 265 Weight",
+          "Shipping": "6100 lbs 2766 kg",
+          "Operating": "6385 lbs 2896 kg",
+          "Ballasted": "8200 lbs 3719 kg"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 265 Height",
+          "Hood": "63.1 inches 160 cm",
+          "&nbsp": "62.1 inches (low-profile) 157 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1975 - 1983",
+          "__seccion_2__": "200 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1188"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1188",
+          "__seccion_2__": "Diesel 12-speed 2WD September 4 - 23, 1975 Link: Nebraska Tractor Test 1188 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "60.73 hp 45.3 kW",
+          "Fuel use": "3.7 gal/hour 14.0 l/hour",
+          "Power at rated PTO speed": "54.76 hp 40.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "50.38 hp 37.6 kW",
+          "__seccion_5__": "Gear 1HL used for power test.",
+          "Max pull": "6,248 lbs 2834 kg",
+          "__seccion_6__": "Gear 2LH used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1975 - 1983",
+          "__seccion_2__": "200 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Perkins 3.9L 4-cyl diesel",
+          "__seccion_3__": "Perkins 3.9L 4-cyl gasoline"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins AD4.236",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "236 ci 3.9 L",
+          "Bore/Stroke": "3.875x5.00 inches 98 x 127 mm",
+          "Fuel use": "3.82 gal/hour 14.5 l/hour",
+          "Air cleaner": "dual dry elements",
+          "Compression": "16:1",
+          "Rated RPM": "2000",
+          "Starter volts": "12",
+          "Oil capacity": "8 qts 7.6 L",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins AG4.236",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "236 ci 3.9 L",
+          "Bore/Stroke": "3.875x5.00 inches 98 x 127 mm",
+          "Air cleaner": "dual dry elements",
+          "Rated RPM": "2000"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2023"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/767/767-td4-b01-ext000.jpg"
+}

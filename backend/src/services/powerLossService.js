@@ -666,12 +666,20 @@ export const ZOZ_GROSS_TO_NET_EFFICIENCY = 0.92;
 /** Origen de la potencia en la TDF reportada: la ingresó el usuario (hoja H3). */
 export const PTO_SOURCE_USUARIO = 'ingresada por el usuario';
 
-/** Origen de la potencia en la TDF reportada: sin dato del usuario → 0,86 · P_B por defecto. */
-export const PTO_SOURCE_DEFAULT = 'default 86% de la potencia bruta';
+/** Origen de la potencia en la TDF reportada: sin dato del usuario → 0,85 · P_B por defecto
+ *  (ec. 29 de Zoz & Grisso: "PTO power = (0.85)(Flywheel power)"; el profesor: "no siempre
+ *  el 85 % de P_b". El 246,88 de la hoja H2 exige 0,85). */
+export const PTO_SOURCE_DEFAULT = 'default 85% de la potencia bruta';
 
 /** Eficiencia neta→eje: punto medio del rango 0,84–0,88 (Fig. 43 de Zoz & Grisso).
  *  0,92 × 0,86 = 0,791, dentro del rango bruta→eje 0,77–0,80. */
 export const ZOZ_NET_TO_AXLE_EFFICIENCY = 0.86;
+
+/** Eficiencia TDP→eje 0,96 (ec. 28 de Zoz & Grisso: "Axle power = (0.96)(PTO power)";
+ *  en la Figura 1 de Zoz 1972 el tramo TDP→eje trasero es 0,94–0,96).
+ *  Ruta TDP del profesor (H2): P_BDT = 0,96·TDP − P_ROD con TDP = 0,85·P_B (ec. 29)
+ *  → 350·0,85·0,96 − 38,72 = 246,88 hp, el valor anotado en la hoja. */
+export const TDP_TO_AXLE_EFFICIENCY = 0.96;
 
 /** Coeficiente de resistencia al rodamiento ρ por superficie (lámina 26 del profesor).
  *  Columnas: llantas / oruga. Concreto no aplica para oruga (N.A.). */
@@ -720,9 +728,10 @@ export const getRhoBySurfaceAndTractorType = (superficieRodadura, zozTractorType
  * @example
  * // Ejemplo H2 del profesor: 350 hp aspirado, 5500 kg, 1800 msnm, 18 °C,
  * // pendiente 8 % (α = 4,57°), V = 4,5 km/h, 2WD malo, arena suelta:
- * // P_N = 322 · P_ALT = 19,32 · P_TEMP = 1,93 · P_ROD = 38,72 · P_EJE = 225,35
- * // P_BDT = 225,35 × 0,57 = 128,45 HP (la hoja anota 246,88: no reproducible,
- * // ninguna ET de la Fig. 47 supera 1 — pendiente con el profesor)
+ * // Pat. 12 % (dato del ejercicio) se resta dentro del corchete:
+ * // P_N = 322 · P_ALT = 19,32 · P_TEMP = 1,93 · P_PAT = 38,64 · P_ROD = 38,72
+ * // P_EJE = (322 − 19,32 − 1,93 − 38,64 − 38,72) × 0,86 = 192,12
+ * // P_BDT = 192,12 × 0,57 = 109,51 HP (la hoja anota 246,88 como dato de TDP)
  */
 export const calculateTotalLossV3 = ({
   enginePower,
@@ -752,6 +761,18 @@ export const calculateTotalLossV3 = ({
     tempLoss = pN * ((temperatureC - 15) / 5) * 0.01;
   }
 
+  // 2b. Patinamiento (dato del ejercicio, p. ej. "Pat. 12 %" en H2): se resta dentro
+  //     del corchete sobre P_N, junto a altitud y temperatura (decisión 2026-10-01
+  //     tomada de la hoja H2). Sin dato → el término no aplica y queda solo la alerta.
+  const slippageNumber =
+    slippagePercent === undefined || slippagePercent === null || slippagePercent === ''
+      ? null
+      : Number(slippagePercent);
+  let slippageLoss = 0;
+  if (slippageNumber !== null && Number.isFinite(slippageNumber) && slippageNumber > 0) {
+    slippageLoss = pN * (slippageNumber / 100);
+  }
+
   // 3. Rodadura + pendiente combinadas (lám. 26/27): la hoja del profesor redondea
   //    la conversión y presenta P_ROD = W·V·(ρ·cosα + senα)/274.
   //    No se re-convierte la velocidad a m/s.
@@ -769,7 +790,7 @@ export const calculateTotalLossV3 = ({
   // (Caso extremo no alcanzable físicamente: que alt/temp solas agoten P_N
   // exigiría altitudes > 27.600 m; ahí la neta es 0 y el desglose atmosférico
   // se reporta tal cual.)
-  const availableBeforeRod = pN - altLoss - tempLoss;
+  const availableBeforeRod = pN - altLoss - tempLoss - slippageLoss;
   const pRodRaw = rollingPart + slopePart;
   if (pRodRaw > availableBeforeRod) {
     const scale = availableBeforeRod > 0 ? availableBeforeRod / pRodRaw : 0;
@@ -778,7 +799,7 @@ export const calculateTotalLossV3 = ({
   }
   const pRod = rollingPart + slopePart;
 
-  // 4. Potencia en el eje: P_EJE = (P_N − P_ALT − P_TEMP − P_ROD) · 0,86
+  // 4. Potencia en el eje: P_EJE = (P_N − P_ALT − P_TEMP − P_PAT − P_ROD) · 0,86
   const baseBeforeAxle = availableBeforeRod - pRod;
   const effectiveBase = Math.max(0, baseBeforeAxle);
   const pEje = effectiveBase * ZOZ_NET_TO_AXLE_EFFICIENCY;
@@ -807,7 +828,7 @@ export const calculateTotalLossV3 = ({
   // - transmission agrupa bruta→neta (0,92) + neta→eje (0,86) + entrega eje→barra (1 − ET)
   const netToAxleLossHp = effectiveBase * (1 - ZOZ_NET_TO_AXLE_EFFICIENCY);
   const transmissionLossHp = grossToNetLoss + netToAxleLossHp + tractionLossHp;
-  const totalLosses = altLoss + tempLoss + transmissionLossHp + rollingPart + slopePart;
+  const totalLosses = altLoss + tempLoss + slippageLoss + transmissionLossHp + rollingPart + slopePart;
 
   const efficiency = (netPower / enginePower) * 100;
 
@@ -820,12 +841,18 @@ export const calculateTotalLossV3 = ({
       ? null
       : Number(pmaxTdpHp);
   if (pmaxTdpHpNumber !== null && (!Number.isFinite(pmaxTdpHpNumber) || pmaxTdpHpNumber <= 0)) {
-    warnings.push('Pmax TDP inválida, se usó el default 86% de la potencia bruta');
+    warnings.push('Pmax TDP inválida, se usó el default 85% de la potencia bruta');
     pmaxTdpHpNumber = null;
   }
   const hasUserPto = pmaxTdpHpNumber !== null;
-  const ptoPowerHp = hasUserPto ? pmaxTdpHpNumber : enginePower * 0.86;
+  const ptoPowerHp = hasUserPto ? pmaxTdpHpNumber : enginePower * 0.85;
   const ptoSource = hasUserPto ? PTO_SOURCE_USUARIO : PTO_SOURCE_DEFAULT;
+
+  // Ruta TDP del profesor (reproduce el 246,88 de la hoja H2): la potencia en la TDP
+  // (del usuario o 0,85·P_B, ec. 29) baja al eje con 0,96 (ec. 28) y de ahí se resta
+  // la rodadura. Sin pérdidas atmosféricas ni ET — camino paralelo a la cadena con ET.
+  const pEjeTdpHp = ptoPowerHp * TDP_TO_AXLE_EFFICIENCY;
+  const pBdtTdpHp = Math.max(0, pEjeTdpHp - pRod);
 
   return {
     grossPower: enginePower,
@@ -836,7 +863,7 @@ export const calculateTotalLossV3 = ({
       transmission: parseFloat(transmissionLossHp.toFixed(2)),
       rollingResistance: parseFloat(rollingPart.toFixed(2)),
       slope: parseFloat(slopePart.toFixed(2)),
-      slippage: 0, // No se resta aparte: tachado en H2 (queda como alerta)
+      slippage: parseFloat(slippageLoss.toFixed(2)),
       total: parseFloat(totalLosses.toFixed(2)),
     },
     netPower: parseFloat(netPower.toFixed(2)),
@@ -851,6 +878,7 @@ export const calculateTotalLossV3 = ({
       p_n_hp: parseFloat(pN.toFixed(2)),
       p_alt_hp: parseFloat(altLoss.toFixed(2)),
       p_temp_hp: parseFloat(tempLoss.toFixed(2)),
+      p_pat_hp: parseFloat(slippageLoss.toFixed(2)),
       p_rod_hp: parseFloat(pRod.toFixed(2)),
       p_eje_hp: parseFloat(pEje.toFixed(2)),
       rho,
@@ -861,12 +889,16 @@ export const calculateTotalLossV3 = ({
       et: parseFloat(et.toFixed(2)),
       pto_power_hp: parseFloat(ptoPowerHp.toFixed(2)),
       pto_source: ptoSource,
+      // Ruta TDP del profesor (ec. 28/29): reproduce el 246,88 de la hoja H2
+      p_eje_tdp_hp: parseFloat(pEjeTdpHp.toFixed(2)),
+      p_bdt_tdp_hp: parseFloat(pBdtTdpHp.toFixed(2)),
+      tdp_to_axle_efficiency: TDP_TO_AXLE_EFFICIENCY,
       // Claves de compatibilidad con la v2.1 (ET como pérdida espejo)
       axle_loss: axleLoss,
       gross_to_axle_efficiency: parseFloat((pEje / enginePower).toFixed(2)),
       combined_drivetrain_loss: parseFloat((transmissionLossHp / enginePower).toFixed(2)),
       rolling_included_in_et: false, // En v3 la rodadura SÍ se resta aparte (P_ROD)
-      slippage_absorbed: true,
+      slippage_absorbed: false, // Pat. es dato del ejercicio: se resta en el corchete
     },
   };
 };

@@ -1,0 +1,250 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/8/5/6857-john-deere-7260r.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/8/5/6857-john-deere-7260r-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/006/8/5/6857-john-deere-7260r-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/8/5/6857-john-deere-7260r-engine.html",
+    "source_id": 6857,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:51:45.092Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6857/6857-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 51 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 6857,
+  "name": "John Deere 7260R",
+  "brand": "John Deere",
+  "model": "7260R",
+  "years": {
+    "desde": 2011,
+    "hasta": 2013
+  },
+  "model_year": 2011,
+  "engine_power_hp": 260,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 215,
+  "pto_tested_hp": 256.63,
+  "drawbar_tested_hp": 185.3,
+  "weight_kg": 16000,
+  "weight_basis": "Max capacity",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 106.8,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 51.9,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F006/6857/6857-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6857/6857-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td6857.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "7R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA"
+        },
+        {
+          "__seccion_1__": "John Deere 7260R Engine",
+          "__seccion_2__": "John Deere 9.0L 6-cyl diesel",
+          "Fuel tank": "138 gal 522.3 L",
+          "&nbsp": "144 gal (optional) 545.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7260R Transmission",
+          "__seccion_2__": "infinitely variable transmission",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7260R Power",
+          "Engine (gross)": "260 hp 193.9 kW",
+          "Engine (max)": "286 hp 213.3 kW",
+          "PTO (claimed)": "215 hp 160.3 kW",
+          "Drawbar (tested)": "185.30 hp 138.2 kW",
+          "PTO (tested)": "256.63 hp 191.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "full-locking electrohydraulic rear. Limited slip front axle. Electrohydraulic on TLS Plus front axle with front brakes.",
+          "Steering": "hydrostatic power",
+          "&nbsp": "ActiveCommand Steering optional",
+          "__seccion_3__": "CommandView II Cab. AutoTrac ready. ISO 1178.3 ISOBUS connection. JDLink and Service ADVISOR Remote available."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 7260R photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed-center pressure and flow compensated (PFC)",
+          "Pressure": "2958 psi 204.0 bar",
+          "Rear valves": "6 (max)",
+          "Mid valves": "0 to 2",
+          "Pump flow": "43 gpm 162.8 lpm",
+          "&nbsp": "59 gpm (optional) 223.3 lpm",
+          "SCV flow": "35 gpm 132.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "3/3N",
+          "Control": "electrohydraulic sensing",
+          "Rear lift": "15,200 lbs 6894 kg",
+          "&nbsp": "17,300 lbs (optional) 7847 kg",
+          "Front Hitch": "3N (optional)",
+          "Front lift": "11,464 lbs 5200 kg",
+          "Drawbar": "Category 3 drawbar standard with 4,050 to 6,000 pound rating. High-capacity 10,000 Cat. 3 drawbar optional."
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (1.75)",
+          "&nbsp": "1000 (1.75)",
+          "Engine RPM": "540@1950",
+          "Front PTO": "optional",
+          "Front PTO Type": "1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "115.2 inches 292 cm",
+          "Weight": "27,180 lbs 12328 kg",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7260R attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "200",
+          "Batteries": "2",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 29, 2013",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "7R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 7260R Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "115.2 inches 292 cm",
+          "Front axle": "Triple-Link Suspension Plus optional",
+          "Standard axle rear axle": "4.33 by 100.4 inches 109 by 2550 mm",
+          "Rear axle": "4.72 by 118.5 inches 119 by 3009 mm",
+          "Front tread": "60 to 88 inches 152 to 223 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 7260R Weight",
+          "__seccion_2__": "27,180 lbs 12328 kg",
+          "Max capacity": "35,274 lbs 16000 kg",
+          "Max front axle": "14,330 lbs 6500 kg",
+          "Max rear axle": "24,251 lbs 11000 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 29, 2013"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "7R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2023"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2023",
+          "__seccion_2__": "Diesel IVT 4WD May 3 - 15, 2012 Link: OCED Tractor Test 2023 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "185.30 hp 138.2 kW",
+          "Fuel use": "12.7 gal/hour 48.1 l/hour",
+          "Power at rated engine speed": "220.27 hp 164.3 kW",
+          "Power at rated PTO speed": "248.30 hp 185.2 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Pull at 7.6 KPH",
+          "Max pull": "24014 lbs 10892 kg",
+          "__seccion_6__": "Pull at 4.6 KPH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 29, 2013"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "7R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech PVX",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "548 ci 9.0 L",
+          "Bore/Stroke": "4.66x5.35 inches 118 x 136 mm",
+          "Emissions": "Tier 4A",
+          "Emission control": "exhaust gas recirculation (EGR)",
+          "Rated Power (gross)": "260 hp 193.9 kW",
+          "Maximum Power (gross)": "286 hp 213.3 kW",
+          "Fuel system": "electronic high-pressure common rail",
+          "Air cleaner": "dual stage dry",
+          "Compression": "16:1",
+          "Rated RPM": "2100",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 29, 2013"
+        }
+      ]
+    }
+  }
+}

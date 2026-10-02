@@ -1,0 +1,225 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/7/7/10779-john-deere-6310se.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/7/7/10779-john-deere-6310se-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/7/7/10779-john-deere-6310se-engine.html",
+    "source_id": 10779,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:09:37.398Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10779/10779-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 10779,
+  "name": "John Deere 6310SE",
+  "brand": "John Deere",
+  "model": "6310SE",
+  "years": {
+    "desde": 1998,
+    "hasta": 2003
+  },
+  "model_year": 1998,
+  "engine_power_hp": 100,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4047,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 36.7,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 16.9R34",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1593,
+  "tire_front": {
+    "original": "13.6R24",
+    "radial": true,
+    "width_mm": 345,
+    "rim_in": 24,
+    "diameter_mm_est": 1197,
+    "tipo": "Radial",
+    "texto": "13.6R24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F010/10779/10779-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td10779.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1998 - 2003",
+          "__seccion_2__": "6010SE Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 6310SE Engine",
+          "__seccion_2__": "John Deere 4.5L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6310SE Transmissions",
+          "__seccion_2__": "12-speed synchronized",
+          "__seccion_3__": "16-speed power shuttle",
+          "__seccion_4__": "16-speed four-speed power shift",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6310SE Power",
+          "Engine (net)": "100 hp 74.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "electro-hydraulic rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic Opt Optional",
+          "&nbsp": "pneumatic Opt Optional",
+          "__seccion_5__": "Cab standard with heat. Optional air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 6310SE are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "43.6 gal 165.0 L",
+          "&nbsp": "30.6 gal (LP Cab) 115.8 L",
+          "Hydraulic system": "14.5 gal 54.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center load-sensing",
+          "Capacity": "14.5 gal 54.9 L",
+          "Pressure": "2901 psi 200.0 bar",
+          "Valves": "4 Opt Optional",
+          "Pump flow": "14.3 gpm 54.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "electronic lower-link draft sensing",
+          "Rear lift": "10319 lbs 4680 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "1000@2185",
+          "&nbsp": "540E@1684",
+          "Front PTO": "independent",
+          "Front PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "94.5 inches 240 cm",
+          "Weight": "8924 lbs 4047 kg",
+          "Front tire": "13.6R24",
+          "Rear tire": "16.9R34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "6310SE Serial Numbers",
+          "Location:": "Serial number plate on the right side of the tractor's frame."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "90",
+          "Battery volts": "12",
+          "Battery AH": "110"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "New 6010 SE Series Tractors published in 1998, by John Deere",
+          "__seccion_3__": "6010 SE Series Tractors published in 2002, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on November 30, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1998 - 2003",
+          "__seccion_2__": "6010SE Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 6310SE Tires",
+          "Standard tires (ag)": "Front: 13.6R24. Rear: 16.9R34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "94.5 inches 240 cm",
+          "Length": "163.2 inches 414 cm",
+          "Width": "85.8 inches 217 cm",
+          "Height (cab)": "104.1 inches 264 cm",
+          "&nbsp": "99.9 inches (LP Cab) 253 cm",
+          "Shipping weight": "8924 lbs 4047 kg",
+          "Max weight": "17637 lbs 8000 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 30, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1998 - 2003",
+          "__seccion_2__": "6010SE Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "276.4 ci 4.5 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Rated Power (net)": "100 hp 74.6 kW",
+          "Cooling system": "viscous-drive fan",
+          "Air cleaner": "dry",
+          "Rated RPM": "2300",
+          "Torque": "297 lb-ft 402.7 Nm",
+          "Torque RPM": "1495",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "12.7 qts 12.0 L",
+          "Coolant capacity": "14.3 qts 13.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 30, 2025"
+        }
+      ]
+    }
+  }
+}

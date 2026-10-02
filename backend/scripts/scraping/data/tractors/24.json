@@ -1,0 +1,267 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/2/24-john-deere-gp.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/2/24-john-deere-gp-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/2/24-john-deere-gp-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/2/24-john-deere-gp-engine.html",
+    "source_id": 24,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:34:49.965Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/24/24-photo-001-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 75 KB",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1043/",
+    "nebraska_test": 153
+  },
+  "tractor_data_id": 24,
+  "name": "John Deere GP",
+  "brand": "John Deere",
+  "model": "GP",
+  "years": {
+    "desde": 1928,
+    "hasta": 1935
+  },
+  "model_year": 1928,
+  "engine_power_hp": 20,
+  "engine_power_source": "belt_claimed (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 18.86,
+  "weight_kg": 1632,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 11.1,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 42.75x10",
+  "tire_width_mm": 1086,
+  "tire_diameter_mm": 2100,
+  "tire_front": {
+    "original": "24x6",
+    "radial": false,
+    "width_mm": 610,
+    "rim_in": 6,
+    "diameter_mm_est": 1189,
+    "tipo": "Diagonal",
+    "texto": "24x6 steel"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/24/24-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/24/24-photo-001-ext000.jpg",
+  "image_url": "/uploads/tractors/td24.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1928 - 1935",
+          "__seccion_2__": "Two-Cylinder Letter Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "Total built": "30,535 (GP)",
+          "&nbsp": "717 (GPO)",
+          "__seccion_4__": "Original price was $1,200 in 1935",
+          "__seccion_5__": "The GP was originally designated the Model C, the name was changed due to a similarity to the existing D, plus the \"General Purpose\" name was a marketing ploy to keep in line with International's new \"Farmall\". The GP was designed as a row crop tractor, with the fixed front axle straddling three rows. Several versions of the GP were made. The \"wide tread\" GPWT has a 76-inch rear axle and a tricycle front. The GP-P was a modified GPWT with a 68-inch rear axle, for use in potato fields. The GPO was lowered and had fenders for orchard work. Twenty-four GPO tractors were converted into crawlers by Lindeman."
+        },
+        {
+          "__seccion_1__": "Variants",
+          "GPWT": "wide-tread",
+          "GPO": "orchard",
+          "GP-P": "potato"
+        },
+        {
+          "__seccion_1__": "John Deere GP Engines",
+          "__seccion_2__": "John Deere 5.1L 2-cyl kerosene",
+          "__seccion_3__": "John Deere 5.6L 2-cyl kerosene",
+          "Fuel tank": "16 gal 60.6 L",
+          "Aux. fuel": "2 gal 7.6 L",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere GP Transmission",
+          "__seccion_2__": "3-speed unsynchronized gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere GP Power",
+          "Drawbar (claimed)": "10 hp 7.5 kW",
+          "Belt (claimed)": "20 hp 14.9 kW",
+          "Plows": "2 (14-inch)",
+          "Drawbar (tested)": "18.86 hp 14.1 kW",
+          "Belt (tested)": "25.36 hp 18.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere GP photos..."
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "3,600 lbs 1632 kg",
+          "Front tire": "24x6",
+          "Rear tire": "42.75x10",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "GP Serial Number Location",
+          "__seccion_2__": "Below gear shift lever"
+        },
+        {
+          "1928": "200211",
+          "1929": "201336",
+          "1930": "5000-5202 (GP-P)",
+          "1931": "15000 (GP-O)",
+          "1932": "15226 (GP-O)",
+          "1933": "15387 (GP-O)",
+          "1934": "15412 (GP-O)",
+          "1935": "15589 (GP-O)",
+          "__seccion_1__": "GP Serial Numbers",
+          "Final": "15732 (GP-O)",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_3__": "Quality Equipment for Your Farming Operations published in 1929, by John Deere",
+          "__seccion_4__": "General Purpose Tractor published in 1930, by John Deere",
+          "__seccion_5__": "General Purpose Two-Cylinder Tractor published in 1931, by John Deere",
+          "__seccion_6__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 26, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1928 - 1935",
+          "__seccion_2__": "Two-Cylinder Letter Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere GP Tires",
+          "Ag front": "6.00x16",
+          "Ag rear": "10.00x32"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Length": "112 inches 284 cm",
+          "Height": "55.5 inches 140 cm",
+          "Weight": "3,600 lbs 1632 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 26, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1928 - 1935",
+          "__seccion_2__": "Two-Cylinder Letter Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 153: 311 kerosene 3-speed 2WD",
+          "__seccion_3__": "NTTL 190: 339 distillate 3-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 153"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 153",
+          "__seccion_2__": "311 kerosene 3-speed 2WD October 22 - 29, 1928 Link: Nebraska Tractor Test 153 file",
+          "Belt power (max)": "24.97 hp 18.6 kW",
+          "Belt fuel use (max)": "2.7 gal/hour 10.2 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "17.24 hp 12.9 kW",
+          "Max pull": "2,489 lbs 1129 kg"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 190"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 190",
+          "__seccion_2__": "339 distillate 3-speed 2WD May 4 - 15, 1931 Link: Nebraska Tractor Test 190 file",
+          "Belt power (max)": "25.36 hp 18.9 kW",
+          "Belt fuel use (max)": "2.7 gal/hour 10.2 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "18.86 hp 14.1 kW",
+          "Max pull": "2,853 lbs 1294 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 26, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1928 - 1935",
+          "__seccion_2__": "Two-Cylinder Letter Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "John Deere 5.1L 2-cyl kerosene",
+          "__seccion_3__": "John Deere 5.6L 2-cyl kerosene"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "kerosene",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "__seccion_6__": "Original engine, used until 1931. Water-injection system was used to prevent detonation (\"knocking\") with low quality fuels.",
+          "Displacement": "311.6 ci 5.1 L",
+          "Bore/Stroke": "5.75x6.00 inches 146 x 152 mm",
+          "Rated RPM": "900",
+          "Coolant capacity": "36 qts 34.1 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "kerosene",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "__seccion_6__": "The new engine was introuded in 1931 on GP serial number 224100. It had lower compression but with a quarter-inch larger bore, producing slightly more power with better fuel economy. The lower compression eliminated the pre-ignition problem when using low-quality fuel, so the water-injection system was eliminated.",
+          "Displacement": "339.3 ci 5.6 L",
+          "Bore/Stroke": "6.00x6.00 inches 152 x 152 mm",
+          "Rated RPM": "950",
+          "Coolant capacity": "36 qts 34.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 26, 2025"
+        }
+      ]
+    }
+  }
+}

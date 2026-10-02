@@ -1,0 +1,396 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/6/266-ford-5000.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/6/266-ford-5000-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/2/6/266-ford-5000-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/6/266-ford-5000-engine.html",
+    "source_id": 266,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:10:46.080Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/266/266-photo-001-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 89 KB"
+  },
+  "tractor_data_id": 266,
+  "name": "Ford 5000",
+  "brand": "Ford",
+  "model": "5000",
+  "years": {
+    "desde": 1965,
+    "hasta": 1976
+  },
+  "model_year": 1965,
+  "engine_power_hp": 69,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 55.9,
+  "pto_tested_hp": 60.37,
+  "drawbar_tested_hp": 50.85,
+  "weight_kg": 2603,
+  "weight_basis": "GP Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 31.1,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 12.4-38",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1501,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": 13.6,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/266/266-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/266/266-photo-001-ext000.jpg",
+  "image_url": "/uploads/tractors/td266.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1965 - 1976",
+          "__seccion_2__": "Model year 1965-1967 1968-1976",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Highland Park, Michigan, USA",
+          "__seccion_4__": "Original price was $5,400 in 1967"
+        },
+        {
+          "5100": "general purpose",
+          "5200": "row-crop",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Ford 5000 Engines",
+          "__seccion_2__": "Ford 3.8L 4-cyl gasoline",
+          "__seccion_3__": "Ford 3.8L 4-cyl diesel",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 5000 Transmissions",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "10-speed full power shift",
+          "__seccion_4__": "16-speed partial power shift",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 5000 Power",
+          "Engine": "69 hp 51.5 kW",
+          "Diesel PTO (claimed)": "55.9 hp 41.7 kW",
+          "Gas PTO (claimed)": "60.3 hp 45.0 kW",
+          "Drawbar (tested)": "50.85 hp 37.9 kW",
+          "PTO (tested)": "60.37 hp 45.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Differential lock": "mechanical rear",
+          "GP Steering": "power assist",
+          "Row-crop Steering": "hydrostatic power",
+          "__seccion_3__": "Differential mechanical wet disc brakes",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 5000 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "20 gal 75.7 L",
+          "Hydraulic system": "8.7 gal 32.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "8.7 gal 32.9 L",
+          "Pressure": "2500 psi 172.4 bar",
+          "Pump flow": "6 gpm 22.7 lpm",
+          "Steering flow": "4.5 gpm 17.0 lpm",
+          "Steering press.": "1050 psi 72.4 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "wet disc",
+          "Rear PTO Type": "540 (1.375)",
+          "&nbsp": "1000@2060",
+          "Engine RPM": "540@1900"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "GP Wheelbase": "87.5 inches 222 cm",
+          "Row-crop Wheelbase": "96 inches 243 cm",
+          "Weight": "5740 to 6250 pounds",
+          "Front tire": "6.00-16",
+          "Rear tire": "12.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 5000 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "5000 Serial Number Location",
+          "__seccion_2__": "Transmission, front upper-right corner, stamped into top of casting. Serial numbers for US-production Ford tractors shown."
+        },
+        {
+          "1965": "C100000",
+          "1966": "C124200",
+          "1967": "C161300",
+          "1968": "C190200",
+          "1969": "C226000",
+          "1970": "C257600",
+          "1971": "C292100",
+          "1972": "C327200",
+          "1973": "C367300",
+          "1974": "C405200",
+          "1975": "C450700",
+          "1976": "C490300",
+          "__seccion_1__": "5000 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "generator",
+          "Charging amps": "22",
+          "Battery volts": "12",
+          "Gas Battery AH": "80",
+          "Diesel Battery AH": "128"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Tractors For Industrial Use published in 1967, by Ford",
+          "__seccion_3__": "New-Size Ford 4000 - 5000 published in 1968",
+          "__seccion_4__": "5000 Row Crop published in 1967, by Ford",
+          "__seccion_5__": "5000 published in 1967, by Ford",
+          "__seccion_6__": "New-Size Fords published in 1964",
+          "__seccion_7__": "Heavier-Stronger-Tougher Compare New-Size Fords published in 1965",
+          "__seccion_8__": "Operator's Manual Major 4000 & Super Major 5000 (SE 9164) published in 1964",
+          "__seccion_9__": "Operator's Manual 4000 and 5000 Tractors (SE 9207) published in 1965",
+          "__seccion_10__": "Ford Tractor Operator's Manual 2000 3000 4000 5000 (SE3006) published in 1966"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on July 1, 2026",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1965 - 1976",
+          "__seccion_2__": "Model year 1965-1967 1968-1976",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Ford 5000 Tires",
+          "Ag front": "7.50-16",
+          "Ag rear": "16.9-30",
+          "&nbsp": "15.5-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "GP Wheelbase": "87.5 inches 222 cm",
+          "Row-crop Wheelbase": "96 inches 243 cm",
+          "GP Length": "141.6 inches 359 cm",
+          "Row-crop Length": "149 inches 378 cm",
+          "Width": "68.5 inches 173 cm",
+          "Ground clearance": "14.25 inches 36 cm",
+          "GP Front tread": "52 to 80 inches 132 to 203 cm",
+          "Row-crop Front tread": "56 to 88 inches 142 to 223 cm",
+          "Rear tread": "56 to 90 inches 142 to 228 cm * With power-adjust rear wheels."
+        },
+        {
+          "__seccion_1__": "Ford 5000 Weight",
+          "GP Shipping": "5740 lbs 2603 kg",
+          "Row-crop Shipping": "6250 lbs 2835 kg",
+          "Operating": "5865 lbs 2660 kg",
+          "Ballasted": "9700 lbs 4399 kg"
+        },
+        {
+          "__seccion_1__": "Ford 5000 Height",
+          "Steering wheel": "63.5 inches 161 cm",
+          "GP Hood": "61 inches 154 cm",
+          "Row-crop Hood": "68 inches 172 cm",
+          "Exhaust": "86.4 inches 219 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 1, 2026"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1965 - 1976",
+          "__seccion_2__": "Model year 1965-1967 1968-1976",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 879: diesel 8-speed 2WD",
+          "__seccion_3__": "NTTL 880: diesel Select-O-Speed 2WD",
+          "__seccion_4__": "NTTL 932: gasoline 8-speed 2WD",
+          "__seccion_5__": "NTTL 933: gasoline Select-O-Speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 879"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 879",
+          "__seccion_2__": "Diesel 8-speed 2WD March 16 - April 9, 1965 Link: Nebraska Tractor Test 879 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "55.96 hp 41.7 kW",
+          "Fuel use": "3.6 gal/hour 13.6 l/hour",
+          "Power at rated PTO speed": "53.30 hp 39.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "47.65 hp 35.5 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "6,991 lbs 3171 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 880"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 880",
+          "__seccion_2__": "Diesel Select-O-Speed 2WD March 18 - April 10, 1965 Link: Nebraska Tractor Test 880 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "54.17 hp 40.4 kW",
+          "Fuel use": "3.5 gal/hour 13.2 l/hour",
+          "Power at rated PTO speed": "51.49 hp 38.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "45.32 hp 33.8 kW",
+          "__seccion_5__": "Gear 6 used for power test.",
+          "Max pull": "6973 lbs 3162 kg",
+          "__seccion_6__": "Gear 4 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 932"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 932",
+          "__seccion_2__": "Gasoline 8-speed 2WD April 13 - 21, 1966 Link: Nebraska Tractor Test 932 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "60.37 hp 45.0 kW",
+          "Fuel use": "5.0 gal/hour 18.9 l/hour",
+          "Power at rated PTO speed": "56.94 hp 42.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "50.85 hp 37.9 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "7,084 lbs 3213 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 933"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 933",
+          "__seccion_2__": "Gasoline Select-O-Speed 2WD April 13 - 22, 1966 Link: Nebraska Tractor Test 933 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "58.49 hp 43.6 kW",
+          "Fuel use": "5.0 gal/hour 18.9 l/hour",
+          "Power at rated PTO speed": "55.33 hp 41.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "49.51 hp 36.9 kW",
+          "__seccion_5__": "Gear 6 used for power test.",
+          "Max pull": "7073 lbs 3208 kg",
+          "__seccion_6__": "Gear 4 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 1, 2026"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1965 - 1976",
+          "__seccion_2__": "Model year 1965-1967 1968-1976",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Ford 3.8L 4-cyl gasoline",
+          "__seccion_3__": "Ford 3.8L 4-cyl diesel"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "233 ci 3.8 L",
+          "Bore/Stroke": "4.20x4.20 inches 107 x 107 mm",
+          "Power": "69 hp 51.5 kW",
+          "Compression": "8.0:1",
+          "Rated RPM": "2100",
+          "Firing order": "1-3-4-2",
+          "Starter volts": "12",
+          "Coolant capacity": "15.3 qts 14.5 L",
+          "Intake valve clearance": "0.015 inches * Hot 0.381 mm",
+          "Exhaust valve clearance": "0.018 inches * Hot 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "8 qts 7.6 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "233 ci 3.8 L",
+          "Bore/Stroke": "4.20x4.20 inches 107 x 107 mm",
+          "Compression": "16.5:1",
+          "Rated RPM": "2100",
+          "Firing order": "1-3-4-2",
+          "Starter volts": "12",
+          "Coolant capacity": "15.3 qts 14.5 L",
+          "Intake valve clearance": "0.015 inches * Hot 0.381 mm",
+          "Exhaust valve clearance": "0.018 inches * Hot 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "8 qts 7.6 L"
+        },
+        {
+          "__seccion_1__": "Ford 5000 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 1, 2026"
+        }
+      ]
+    }
+  }
+}

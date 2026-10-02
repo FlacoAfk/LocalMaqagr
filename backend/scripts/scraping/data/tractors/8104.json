@@ -1,0 +1,222 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/1/0/8104-john-deere-6130r.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/1/0/8104-john-deere-6130r-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/1/0/8104-john-deere-6130r-engine.html",
+    "source_id": 8104,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:01:56.053Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8104/8104-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 97 KB"
+  },
+  "tractor_data_id": 8104,
+  "name": "John Deere 6130R",
+  "brand": "John Deere",
+  "model": "6130R",
+  "years": {
+    "desde": 2015,
+    "hasta": 2021
+  },
+  "model_year": 2015,
+  "engine_power_hp": 130,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 101,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 5469,
+  "weight_basis": "4WD Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 37.1,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 16.9R30",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1492,
+  "tire_front": {
+    "original": "12.4R24",
+    "radial": true,
+    "width_mm": 315,
+    "rim_in": 24,
+    "diameter_mm_est": 1145,
+    "tipo": "Radial",
+    "texto": "12.4R24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F008/8104/8104-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F008/8104/8104-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td8104.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2015 - 2021",
+          "__seccion_2__": "6R Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany"
+        },
+        {
+          "__seccion_1__": "John Deere 6130R Engine",
+          "__seccion_2__": "John Deere 4.5L 4-cyl diesel",
+          "Fuel tank": "51.5 gal 194.9 L",
+          "Exhaust fluid (DEF)": "3.4 gal 12.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6130R Transmissions",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "24-speed partial power shift",
+          "__seccion_4__": "infinitely variable transmission",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6130R Power",
+          "Engine (gross)": "130 hp 96.9 kW",
+          "Engine (max)": "141 hp 105.1 kW",
+          "PTO (claimed)": "101 hp 75.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 6130R photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "30 gpm 113.6 lpm",
+          "SCV flow": "26.4 gpm 99.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "electronic lower-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "6475 lbs 2937 kg",
+          "&nbsp": "8457 lbs Opt Optional 3836 kg",
+          "Drawbar": "Cat. 2"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540/1000",
+          "&nbsp": "540/540E/1000 Opt Optional"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "102 inches 259 cm",
+          "Weight": "11244 to 12059 pounds",
+          "Front tire": "10.00-16",
+          "2WD Rear tire": "18.4R34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "6130R Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "200",
+          "&nbsp": "240 Opt Optional",
+          "Charging volts": "14",
+          "Battery volts": "12",
+          "Battery AH": "154"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 4, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2015 - 2021",
+          "__seccion_2__": "6R Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 6130R Tires",
+          "2WD Standard tires (ag)": "Front: 10.00-16. Rear: 18.4R34",
+          "4WD Standard tires (ag)": "Front: 12.4R24. Rear: 16.9R30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "102 inches 259 cm",
+          "Clearance (front axle)": "18.5 inches 46 cm",
+          "__seccion_2__": "Flange rear axle",
+          "2WD Front tread": "58.5 to 96 inches 148 to 243 cm",
+          "4WD Front tread": "63.6 to 75.7 inches 161 to 192 cm",
+          "Rear tread": "63.1 to 90.6 inches 160 to 230 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 6130R Weight",
+          "2WD Shipping": "11244 lbs 5100 kg",
+          "4WD Shipping": "12059 lbs 5469 kg",
+          "Max capacity": "21936 lbs 9950 kg",
+          "Max Drawbar": "5400 lbs 2449 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 4, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2015 - 2021",
+          "__seccion_2__": "6R Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder 16-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "276 ci 4.5 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Tier IV",
+          "Emission control": "selective catalytic reduction and exhaust gas recirculation",
+          "Rated Power (gross)": "130 hp 96.9 kW",
+          "Maximum Power (gross)": "141 hp 105.1 kW",
+          "Rated RPM": "2100",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 4, 2022"
+        }
+      ]
+    }
+  }
+}

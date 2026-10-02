@@ -1,0 +1,231 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/5/9/5590-new-holland-t2410.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/5/9/5590-new-holland-t2410-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/5/9/5590-new-holland-t2410-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/5/9/5590-new-holland-t2410-engine.html",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1250/",
+    "source_id": 5590,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:28:18.384Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5590/5590-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB",
+    "nebraska_test": 1837
+  },
+  "tractor_data_id": 5590,
+  "name": "New Holland T2410",
+  "brand": "Shibaura",
+  "model": "holland t2410",
+  "years": {
+    "desde": 2008,
+    "hasta": 2011
+  },
+  "model_year": 2008,
+  "engine_power_hp": 55,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 47,
+  "pto_tested_hp": 48.01,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1932,
+  "weight_basis": "ROPS Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 17.6,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14.9-28",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1355,
+  "tire_front": {
+    "original": "9.5-16",
+    "radial": false,
+    "width_mm": 241,
+    "rim_in": 16,
+    "diameter_mm_est": 817,
+    "tipo": "Diagonal",
+    "texto": "9.5-16"
+  },
+  "fuel_consumption_lph": 14.8,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5590/5590-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td5590.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2008",
+          "__seccion_2__": "T2400 Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "New Holland",
+          "Manufacturer": "Shibaura",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "New Holland T2410 Engine",
+          "__seccion_2__": "Shibaura 2.2L 4-cyl diesel",
+          "Fuel tank": "13.5 gal 51.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland T2410 Transmissions",
+          "__seccion_2__": "12-speed mechanical shuttle",
+          "__seccion_3__": "12-speed power shuttle",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland T2410 Power",
+          "Engine (gross)": "55 hp 41.0 kW",
+          "PTO (claimed)": "47 hp 35.0 kW",
+          "PTO (tested)": "48.01 hp 35.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the New Holland T2410 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Pump flow": "11.6 gpm 43.9 lpm",
+          "Steering flow": "5.5 gpm 20.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift (at 24\"/610mm)": "3465 lbs 1571 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "74.8 inches 189 cm",
+          "Weight": "4260 to 5220 pounds",
+          "Front tire": "8-16",
+          "Rear tire": "14.9-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 10, 2024",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2008",
+          "__seccion_2__": "T2400 Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "New Holland T2410 Tires",
+          "Ag front": "8-16",
+          "&nbsp": "14.9-28",
+          "Ag rear": "14.9-24",
+          "Lawn/turf front": "27x10.50-15",
+          "Lawn/turf rear": "44-18.00-20",
+          "Industrial front": "12-16.5",
+          "Industrial rear": "18.4-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "74.8 inches 189 cm",
+          "Length": "137.3 inches 348 cm",
+          "Width": "71.6 inches 181 cm",
+          "Height (ROPS)": "71.4 inches 181 cm",
+          "Height (cab)": "88.25 inches 224 cm",
+          "ROPS Shipping weight": "4260 lbs 1932 kg",
+          "Cab Shipping weight": "5220 lbs 2367 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 10, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2008",
+          "__seccion_2__": "T2400 Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1837"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1837",
+          "__seccion_2__": "Diesel 12-speed 4WD April 29 - 30, 2004 Link: Nebraska Tractor Test 1837 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "48.01 hp 35.8 kW",
+          "Fuel use": "3.7 gal/hour 14.0 l/hour",
+          "Power at rated PTO speed": "47.80 hp 35.6 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 10, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2008",
+          "__seccion_2__": "T2400 Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibaura",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "135.2 ci 2.2 L",
+          "Bore/Stroke": "3.307x3.937 inches 84 x 100 mm",
+          "Power (gross)": "55 hp 41.0 kW",
+          "Air cleaner": "dual paper elements",
+          "Rated RPM": "2700",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 10, 2024"
+        }
+      ]
+    }
+  }
+}

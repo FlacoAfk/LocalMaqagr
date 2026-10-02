@@ -1,0 +1,296 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/1/0/3108-new-holland-tn75.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/1/0/3108-new-holland-tn75-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/1/0/3108-new-holland-tn75-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/1/0/3108-new-holland-tn75-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3108,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:23:11.550Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3108/3108-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 79 KB"
+  },
+  "tractor_data_id": 3108,
+  "name": "New Holland TN75",
+  "brand": "New Holland",
+  "model": "TN75",
+  "years": {
+    "desde": 1999,
+    "hasta": 2003
+  },
+  "model_year": 1999,
+  "engine_power_hp": 75,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 62,
+  "pto_tested_hp": 63.9,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2347,
+  "weight_basis": "4WD ROPS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 29.7,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 14.9-28",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1355,
+  "tire_front": {
+    "original": "8.3-24",
+    "radial": false,
+    "width_mm": 211,
+    "rim_in": 24,
+    "diameter_mm_est": 968,
+    "tipo": "Diagonal",
+    "texto": "8.3-24"
+  },
+  "fuel_consumption_lph": 14.4,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3108/3108-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3108/3108-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td3108.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1999 - 2003",
+          "__seccion_2__": "TN Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Jesi, Italy"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "TN75": "ROPS",
+          "TN75D": "cab",
+          "TN75S": "Super Steer",
+          "TN75F": "orchard"
+        },
+        {
+          "__seccion_1__": "New Holland TN75 Engine",
+          "__seccion_2__": "Iveco 2.9L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TN75 Transmissions",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "8-speed partially synchronized",
+          "__seccion_4__": "16-speed partially synchronized",
+          "__seccion_5__": "32-speed two-speed power shift",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TN75 Power",
+          "Engine (gross)": "75 hp 55.9 kW",
+          "Engine (net)": "72 hp 53.7 kW",
+          "PTO (claimed)": "62 hp 46.2 kW",
+          "PTO (tested)": "63.9 hp 47.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland TN75 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "17.3 gal 65.5 L",
+          "Hydraulic system": "11.1 gal 42.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "11.1 gal 42.0 L",
+          "Pressure": "2755 psi 190.0 bar",
+          "Valves": "2 to 3",
+          "Pump flow": "16.9 gpm 64.0 lpm",
+          "Steering flow": "7.2 gpm 27.3 lpm",
+          "&nbsp": "9.2 gpm * With power shuttle transmission option. 34.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at 24\"/610mm)": "3962 lbs 1797 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "dry disc",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD ROPS Wheelbase": "81.5 inches 207 cm",
+          "4WD ROPS Wheelbase": "78.9 inches 200 cm",
+          "2WD Cab Wheelbase": "83.9 inches 213 cm",
+          "4WD Cab Wheelbase": "81.3 inches 206 cm",
+          "4WD SuperSteer Wheelbase": "93.5 inches 237 cm",
+          "Weight": "4700 to 6460 pounds",
+          "Front tire": "7.50-16",
+          "2WD Rear tire": "14.9-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "New Holland TN75 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1998": "1128584",
+          "1999": "1157784",
+          "2000": "1184745",
+          "2001": "1219138",
+          "2002": "1252974",
+          "2003": "1287178",
+          "2004": "1317364",
+          "__seccion_1__": "TN75 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "45",
+          "Cab Charging amps": "65",
+          "Battery CCA": "730",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "New Holland TND/TNS Tractors published in 1998",
+          "__seccion_3__": "New Holland TN/TND/TNS Tractors published in 2002",
+          "__seccion_4__": "New! New Holland TND/TNS Tractors 42 to 62 PTO hp published in 1998",
+          "__seccion_5__": "TN55D TN65D TN75D TN55S TN65S TN75S Operator's Manual (86572984) published in 1998"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2020",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1999 - 2003",
+          "__seccion_2__": "TN Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "New Holland TN75 Tires",
+          "2WD Standard tires (ag)": "Front: 7.50-16. Rear: 14.9-28",
+          "4WD Standard tires (ag)": "Front: 8.3-24. Rear: 14.9-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD ROPS Wheelbase": "81.5 inches 207 cm",
+          "4WD ROPS Wheelbase": "78.9 inches 200 cm",
+          "2WD Cab Wheelbase": "83.9 inches 213 cm",
+          "4WD Cab Wheelbase": "81.3 inches 206 cm",
+          "4WD SuperSteer Wheelbase": "93.5 inches 237 cm",
+          "Length": "155 inches 393 cm",
+          "Width": "67.2 inches * Minimum width 170 cm"
+        },
+        {
+          "__seccion_1__": "New Holland TN75 Weight",
+          "2WD ROPS Shipping": "4700 lbs 2131 kg",
+          "4WD ROPS Shipping": "5175 lbs 2347 kg",
+          "2WD Cab Shipping": "5065 lbs 2297 kg",
+          "4WD Cab Shipping": "5665 lbs 2569 kg",
+          "SuperSteer ROPS Shipping": "5370 lbs 2435 kg",
+          "SuperSteer Cab Shipping": "5810 lbs 2635 kg",
+          "2WD Cab Operating": "5645 lbs 2560 kg",
+          "4WD Cab Operating": "6460 lbs 2930 kg"
+        },
+        {
+          "__seccion_1__": "New Holland TN75 Height",
+          "ROPS": "95.1 inches 241 cm",
+          "Cab": "90.8 inches 230 cm",
+          "Exhaust": "90 inches 228 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2020"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1999 - 2003",
+          "__seccion_2__": "TN Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1897"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1897",
+          "__seccion_2__": "Diesel 8-speed 4WD March 1 - November 30, 1999 Link: OCED Tractor Test 1897 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "63.9 hp 47.7 kW",
+          "Fuel use": "3.7 gal/hour 14.0 l/hour",
+          "Power at rated PTO speed": "63.7 hp 47.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "6,680 lbs 3030 kg",
+          "__seccion_5__": "Gear 2S used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2020"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1999 - 2003",
+          "__seccion_2__": "TN Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iveco 8035",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "179 ci 2.9 L",
+          "Bore/Stroke": "4.094x4.528 inches 104 x 115 mm",
+          "Power (net)": "72 hp 53.7 kW",
+          "Power (gross)": "75 hp 55.9 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "18:1",
+          "Rated RPM": "2300",
+          "Torque": "218 lb-ft 295.6 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2020"
+        }
+      ]
+    }
+  }
+}

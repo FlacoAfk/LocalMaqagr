@@ -1,0 +1,246 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/1/8/7187-new-holland-t475.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/1/8/7187-new-holland-t475-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/007/1/8/7187-new-holland-t475-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/1/8/7187-new-holland-t475-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 7187,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:33:57.080Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7187/7187-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 79 KB"
+  },
+  "tractor_data_id": 7187,
+  "name": "New Holland T4.75",
+  "brand": "New Holland",
+  "model": "T4.75",
+  "years": {
+    "desde": 2012,
+    "hasta": 2017
+  },
+  "model_year": 2012,
+  "engine_power_hp": 74,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 65,
+  "pto_tested_hp": 68.43,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2669,
+  "weight_basis": "4WD ROPS",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 25.1,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 15.9,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7187/7187-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7187/7187-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td7187.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2012 - 2017",
+          "__seccion_2__": "Model year 2012-2014 2015-2017",
+          "__seccion_3__": "T4 PowerStar Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "New Holland T4.75 Engine",
+          "__seccion_2__": "FPT 3.2L 4-cyl diesel",
+          "Fuel tank": "23.8 gal 90.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland T4.75 Transmissions",
+          "__seccion_2__": "8-speed partially synchronized mechanical shuttle",
+          "__seccion_3__": "8-speed power shuttle",
+          "__seccion_4__": "12-speed mechanical shuttle",
+          "__seccion_5__": "12-speed power shuttle",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland T4.75 Power",
+          "Engine (gross)": "74 hp 55.2 kW",
+          "PTO (claimed)": "65 hp 48.5 kW",
+          "PTO (tested)": "68.43 hp 51.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical differential lock",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Two-post folding ROPS. Optional cab with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland T4.75 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Rear valves": "1 or 2",
+          "Mid valves": "0 or 2",
+          "Pump flow": "12.5 gpm 47.3 lpm",
+          "Total flow": "19.8 gpm 74.9 lpm",
+          "Steering flow": "7.3 gpm 27.6 lpm",
+          "&nbsp": "9.5 gpm (power shuttle) 36.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "2/1",
+          "Control": "mechanical upper-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "3,664 lbs 1661 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "mechanical dry disc, wet disc with power shuttle",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2160",
+          "&nbsp": "540E@1592"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "83.3 inches 211 cm",
+          "4WD Wheelbase": "82.8 inches 210 cm",
+          "Weight": "4960 to 6172 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "New Holland T4.75 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "Battery CCA": "730 (ROPS)",
+          "&nbsp": "800 (cab)",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 15, 2024",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2012 - 2017",
+          "__seccion_2__": "Model year 2012-2014 2015-2017",
+          "__seccion_3__": "T4 PowerStar Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "New Holland T4.75 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "83.3 inches 211 cm",
+          "4WD Wheelbase": "82.8 inches 210 cm",
+          "Length": "149.3 inches 379 cm",
+          "Height (ROPS)": "78.9 inches 200 cm",
+          "Height (cab)": "97.8 inches 248 cm",
+          "__seccion_2__": "Flange rear axle",
+          "2WD Front tread": "60.2 to 79.9 inches 152 to 202 cm",
+          "4WD Front tread": "60.8 to 76.6 inches 154 to 194 cm",
+          "Rear tread": "52.2 to 76 inches 132 to 193 cm"
+        },
+        {
+          "__seccion_1__": "New Holland T4.75 Weight",
+          "2WD ROPS": "4,960 lbs 2249 kg",
+          "4WD ROPS": "5,886 lbs 2669 kg",
+          "2WD cab": "5,555 lbs 2519 kg",
+          "4WD cab": "6,172 lbs 2799 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 15, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2012 - 2017",
+          "__seccion_2__": "Model year 2012-2014 2015-2017",
+          "__seccion_3__": "T4 PowerStar Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 2054"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 2054",
+          "__seccion_2__": "Diesel 12-speed 4WD March 12 - 14, 2013 Link: Nebraska Tractor Test 2054 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "68.43 hp 51.0 kW",
+          "Fuel use": "4.3 gal/hour 16.3 l/hour",
+          "Power at rated engine speed": "67.92 hp 50.6 kW",
+          "Power at rated PTO speed": "68.22 hp 50.9 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 15, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2012 - 2017",
+          "__seccion_2__": "Model year 2012-2014 2015-2017",
+          "__seccion_3__": "T4 PowerStar Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT F5C",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "195 ci 3.2 L",
+          "Bore/Stroke": "3.898x4.094 inches 99 x 104 mm",
+          "Emissions": "Tier 3",
+          "Power (gross)": "74 hp 55.2 kW",
+          "Air cleaner": "dry",
+          "Pre-heating": "grid heater",
+          "Rated RPM": "2300",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 15, 2024"
+        }
+      ]
+    }
+  }
+}

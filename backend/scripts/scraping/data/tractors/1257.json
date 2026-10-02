@@ -1,0 +1,279 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/2/5/1257-kubota-m9000.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/2/5/1257-kubota-m9000-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/2/5/1257-kubota-m9000-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/2/5/1257-kubota-m9000-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1257,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:49:51.764Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1257/1257-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 130 KB"
+  },
+  "tractor_data_id": 1257,
+  "name": "Kubota M9000",
+  "brand": "Kubota",
+  "model": "M9000",
+  "years": {
+    "desde": 1997,
+    "hasta": 2005
+  },
+  "model_year": 1997,
+  "engine_power_hp": 92.1,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 80,
+  "pto_tested_hp": 81,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2794,
+  "weight_basis": "4WD ROPS",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 40,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 12.4-24",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1145,
+  "tire_front": {
+    "original": "7.50-18",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 18,
+    "diameter_mm_est": 781,
+    "tipo": "Diagonal",
+    "texto": "7.50-18"
+  },
+  "fuel_consumption_lph": 20.4,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1257/1257-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1257/1257-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1257.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1997 - 2005",
+          "__seccion_2__": "M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Japan"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "M9000F": "2WD",
+          "M9000DT": "4WD",
+          "M9000DTC": "4WD Cab",
+          "M9000DTL": "low-profile",
+          "M9000DTM": "mudder"
+        },
+        {
+          "__seccion_1__": "Kubota M9000 Engine",
+          "__seccion_2__": "Kubota 3.3L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M9000 Transmissions",
+          "__seccion_2__": "8-speed synchronized",
+          "__seccion_3__": "8-speed power shuttle",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M9000 Power",
+          "Engine (gross)": "92.1 hp 68.7 kW",
+          "PTO (claimed)": "80 hp 59.7 kW",
+          "PTO (tested)": "81 hp 60.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "front and rear standard",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota M9000 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "ROPS Fuel": "23.8 gal 90.1 L",
+          "Cab Fuel": "29.1 gal 110.1 L",
+          "Hydraulic system": "13.7 gal 51.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "13.7 gal 51.9 L",
+          "Valves": "1 to 3",
+          "Pump flow": "23.1 gpm 87.4 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position control and top-link draft sensing",
+          "Rear lift (at ends)": "5560 lbs 2522 kg",
+          "Rear lift (at 24\"/610mm)": "4630 lbs * Advertised. Actual lift during testing was 3,595 pounds. 2100 kg",
+          "Rear Arms": "telescopic stabilizers and link ends"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic",
+          "Rear PTO Type": "540 (1.375)",
+          "&nbsp": "1000 (1.375) Opt Optional",
+          "Engine RPM": "540@2205"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "88.6 inches 225 cm",
+          "Weight": "5675 to 6750 pounds",
+          "Front tire": "7.50-18",
+          "2WD Rear tire": "12.4-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota M9000 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "45",
+          "Cab Charging amps": "60",
+          "Battery CCA": "1000",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "1999 Products published by Kubota",
+          "__seccion_3__": "Americans on Kubota published in 2000",
+          "__seccion_4__": "Diesel Tractor M4900/M5700/M6800/M8200/M9000 published in 2003, by Kubota",
+          "__seccion_5__": "Product Guide: New M-Series Utility/Agricultural Tractors published in 1997, by Kubota",
+          "__seccion_6__": "Product Guide: M-Series Utility/Agricultural Tractors published in 1998, by Kubota"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 29, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1997 - 2005",
+          "__seccion_2__": "M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M9000 Tires",
+          "2WD Standard tires (ag)": "Front: 7.50-18. Rear: 12.4-24",
+          "&nbsp": "Front: 12.4-24. Rear: 18.4-30 (4WD)",
+          "Lawn/turf front": "9.5L-15 (2WD)",
+          "Lawn/turf rear": "18.4-26 (2WD)",
+          "Industrial front": "27x8.50-15 (4WD)",
+          "Industrial rear": "15-19.5 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "88.6 inches 225 cm",
+          "2WD Length": "152.6 inches 387 cm",
+          "4WD Length": "151.4 inches 384 cm",
+          "Width": "78 inches 198 cm",
+          "Height (ROPS)": "98.4 inches 249 cm",
+          "Height (cab)": "99.6 inches 252 cm",
+          "Clearance (front axle)": "19.7 inches 50 cm",
+          "2WD Front tread": "56.7 to 80.3 inches 144 to 203 cm",
+          "4WD Front tread": "59.8 to 63.8 inches 151 to 162 cm",
+          "Rear tread": "59.8 to 75.6 inches 151 to 192 cm"
+        },
+        {
+          "__seccion_1__": "Kubota M9000 Weight",
+          "2WD ROPS": "5675 lbs 2574 kg",
+          "4WD ROPS": "6160 lbs 2794 kg",
+          "2WD Cab": "6260 lbs 2839 kg",
+          "4WD Cab": "6750 lbs 3061 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 29, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1997 - 2005",
+          "__seccion_2__": "M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1805"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1805",
+          "__seccion_2__": "Diesel 8-speed 4WD 10/1998 Link: OCED Tractor Test 1805 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "81 hp 60.4 kW",
+          "Power at rated engine speed": "80.3 hp 59.9 kW",
+          "Fuel use": "4.9 gal/hour 18.5 l/hour",
+          "Power at rated PTO speed": "79.4 hp 59.2 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "8985 lbs 4075 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 29, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1997 - 2005",
+          "__seccion_2__": "M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V3300-TIE",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "202 ci 3.3 L",
+          "Bore/Stroke": "3.86x4.33 inches 98 x 110 mm",
+          "Power (gross)": "92.1 hp 68.7 kW",
+          "Air cleaner": "dual dry element",
+          "Compression": "21.8:1",
+          "Rated RPM": "2600",
+          "Starter volts": "12",
+          "Oil capacity": "11.3 qts 10.7 L",
+          "Coolant capacity": "9.5 qts 9.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 29, 2024"
+        }
+      ]
+    }
+  }
+}

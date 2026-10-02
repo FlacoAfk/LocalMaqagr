@@ -1,0 +1,192 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/009/7/3/9730-kubota-m125.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/009/7/3/9730-kubota-m125-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/009/7/3/9730-kubota-m125-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 9730,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:11:26.974Z",
+    "foto_original": "https://www.tractordata.com/photos/F009/9730/9730-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 4 KB"
+  },
+  "tractor_data_id": 9730,
+  "name": "Kubota M125",
+  "brand": "Kubota",
+  "model": "M125",
+  "years": {
+    "desde": 2002,
+    "hasta": 2004
+  },
+  "model_year": 2002,
+  "engine_power_hp": 123.2,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 111.8,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4070,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 41,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4-38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "14.9-24",
+    "radial": false,
+    "width_mm": 378,
+    "rim_in": 24,
+    "diameter_mm_est": 1253,
+    "tipo": "Diagonal",
+    "texto": "14.9-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F009/9730/9730-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td9730.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2002 - 2004",
+          "__seccion_2__": "Grandom Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M125 Engine",
+          "__seccion_2__": "Kubota 5.8L 5-cyl diesel",
+          "Fuel tank": "52.8 gal 199.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M125 Transmissions",
+          "__seccion_2__": "16-speed synchromesh",
+          "__seccion_3__": "16-speed power shift",
+          "__seccion_4__": "24-speed creeper",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M125 Power",
+          "Engine": "123.2 hp 91.9 kW",
+          "PTO (claimed)": "111.8 hp 83.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Kubota M125 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position and electronic draft control",
+          "Rear lift": "8588 lbs 3895 kg",
+          "&nbsp": "11016 lbs * With optional second lift cylinder. 4996 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@2035",
+          "&nbsp": "1000@2211"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "105.9 inches 268 cm",
+          "Weight": "8973 lbs 4070 kg",
+          "Front tire": "14.9-24",
+          "Rear tire": "18.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 19, 2017"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2002 - 2004",
+          "__seccion_2__": "Grandom Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M125 Tires",
+          "Standard tires (ag)": "Front: 14.9-24. Rear: 18.4-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "105.9 inches 268 cm",
+          "Length": "172.8 inches 438 cm",
+          "Width": "82.7 inches 210 cm",
+          "Height": "107.3 inches 272 cm",
+          "Weight": "8973 lbs 4070 kg",
+          "Ground clearance": "20.5 inches 52 cm",
+          "Front tread": "64.6/68.5 inches 164/173 cm",
+          "Rear tread": "60.2 to 79.1 inches 152 to 200 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 19, 2017"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2002 - 2004",
+          "__seccion_2__": "Grandom Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota F5802-T",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "5-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "355.9 ci 5.8 L",
+          "Bore/Stroke": "4.29x4.92 inches 109 x 125 mm",
+          "Power": "123.2 hp 91.9 kW",
+          "Fuel system": "direct injection",
+          "Rated RPM": "2400",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 19, 2017"
+        }
+      ]
+    }
+  }
+}

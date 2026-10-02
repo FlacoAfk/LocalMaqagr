@@ -1,0 +1,277 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/1/5/7151-john-deere-6190r.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/1/5/7151-john-deere-6190r-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/007/1/5/7151-john-deere-6190r-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/1/5/7151-john-deere-6190r-engine.html",
+    "source_id": 7151,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:57:22.268Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7151/7151-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 31 KB"
+  },
+  "tractor_data_id": 7151,
+  "name": "John Deere 6190R",
+  "brand": "John Deere",
+  "model": "6190R",
+  "years": {
+    "desde": 2012,
+    "hasta": 2014
+  },
+  "model_year": 2012,
+  "engine_power_hp": 190,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 157,
+  "pto_tested_hp": 189.07,
+  "drawbar_tested_hp": 152.8,
+  "weight_kg": 7801,
+  "weight_basis": "4WD",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 82.9,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 480/80R46",
+  "tire_width_mm": 480,
+  "tire_diameter_mm": 1936,
+  "tire_front": {
+    "original": "490/90R30",
+    "radial": true,
+    "width_mm": 490,
+    "rim_in": 30,
+    "diameter_mm_est": 1644,
+    "tipo": "Radial",
+    "texto": "490/90R30"
+  },
+  "fuel_consumption_lph": 40.1,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7151/7151-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7151/7151-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td7151.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2012 - 2014",
+          "__seccion_2__": "6R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "__seccion_4__": "Original price was $158,066 in 2014 with AutoQuad"
+        },
+        {
+          "__seccion_1__": "John Deere 6190R Engine",
+          "__seccion_2__": "John Deere 6.8L 6-cyl diesel",
+          "Fuel tank": "95 gal 359.6 L",
+          "&nbsp": "107 gal (optional) 405.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6190R Transmissions",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "20-speed partial power shift",
+          "__seccion_4__": "infinitely variable transmission",
+          "__seccion_5__": "24-speed eight-speed power shift",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6190R Power",
+          "Engine (gross)": "190 hp 141.7 kW",
+          "Engine (max)": "209 hp 155.9 kW",
+          "PTO (claimed)": "157 hp 117.1 kW",
+          "Drawbar (tested)": "152.80 hp 113.9 kW",
+          "PTO (tested)": "189.07 hp 141.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 MFWD 4WD (optional)",
+          "Differential lock": "electro-hydraulic rear lock with wet disc clutch",
+          "Steering": "hydrostatic power",
+          "__seccion_2__": "Hydraulic wet disc brakes",
+          "__seccion_3__": "ComfortView cab standard with air-conditioning. Optional adaptive hydraulic cab suspension. GreenStar and AutoTrac ready with ISOBUS connector."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 6190R photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure flow compensated (PFC)",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "41 gpm 155.2 lpm",
+          "SCV flow": "26.4 gpm 99.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "3",
+          "Control": "electro-hydraulic draft sensing",
+          "Rear lift (at ends)": "18,740 lbs 8500 kg",
+          "Rear lift (at 24\"/610mm)": "10,690 lbs 4848 kg",
+          "Drawbar": "Category 3 with 3,525 to 6,170 pound load rating"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "&nbsp": "1000E@1775",
+          "Engine RPM": "540@1932"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "118.9 inches 302 cm",
+          "4WD Wheelbase": "110.2 inches 279 cm",
+          "Weight": "15500 to 17200 pounds",
+          "Front tire": "490/90R30",
+          "Rear tire": "480/80R46 (4WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6190R attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "6190R Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "&nbsp": "200 (optional)",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "6R Series Tractors published in 2012, by John Deere",
+          "__seccion_3__": "Operator's Manual Tractors 6140R, 6150R, 6150RH, 6170R, 6190R and 6120R (OMAL211531) published in 2014"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 14, 2023",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2012 - 2014",
+          "__seccion_2__": "6R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 6190R Tires",
+          "Standard tires (ag)": "Front: 490/90R30. Rear: 480/80R46 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "118.9 inches 302 cm",
+          "4WD Wheelbase": "110.2 inches 279 cm",
+          "Length": "198.6 inches 504 cm",
+          "Width": "100.4 inches 255 cm",
+          "Height": "124.3 inches 315 cm",
+          "Clearance (front axle)": "20.15 inches 51 cm",
+          "Front axle": "Triple-Link Suspension",
+          "Rear axle": "3.94 by 100.4 inches 100 by 2550 mm",
+          "Optional rear axle": "3.94 by 118.5 inches 100 by 3009 mm",
+          "Front tread": "60 to 88 inches 152 to 223 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 6190R Weight",
+          "2WD": "15,500 lbs 7030 kg",
+          "4WD": "17,200 lbs 7801 kg",
+          "Max capacity": "28,660 lbs 13000 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 14, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2012 - 2014",
+          "__seccion_2__": "6R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2034"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2034",
+          "__seccion_2__": "Diesel AutoQuad 4WD August 31 - September 10, 2012 Link: OCED Tractor Test 2034 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "152.80 hp 113.9 kW",
+          "Fuel use": "9.9 gal/hour 37.5 l/hour",
+          "Power at rated engine speed": "161.53 hp 120.5 kW",
+          "Power at rated PTO speed": "181.97 hp 135.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "18636 lbs 8453 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 14, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2012 - 2014",
+          "__seccion_2__": "6R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech PSX",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "415 ci 6.8 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Interim Tier 4",
+          "Emission control": "exhaust gas recirculation (EGR)",
+          "Rated Power (gross)": "190 hp 141.7 kW",
+          "Maximum Power (gross)": "209 hp 155.9 kW",
+          "Fuel system": "high pressure common rail",
+          "Air cleaner": "dual stage dry",
+          "Compression": "17:1",
+          "Rated RPM": "2100",
+          "Idle RPM": "850-2250",
+          "Operating RPM": "1300-2100",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "24.8 qts 23.5 L",
+          "Coolant capacity": "29.8 qts 28.2 L",
+          "Intake valve clearance": "0.019 inches 0.483 mm",
+          "Exhaust valve clearance": "0.021 inches 0.533 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 14, 2023"
+        }
+      ]
+    }
+  }
+}

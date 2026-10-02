@@ -1,0 +1,292 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/5/254-ford-1900.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/5/254-ford-1900-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/2/5/254-ford-1900-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/5/254-ford-1900-engine.html",
+    "source_id": 254,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:10:10.500Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/254/254-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 128 KB"
+  },
+  "tractor_data_id": 254,
+  "name": "Ford 1900",
+  "brand": "Shibaura",
+  "model": "1900",
+  "years": {
+    "desde": 1979,
+    "hasta": 1983
+  },
+  "model_year": 1979,
+  "engine_power_hp": 30,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 26.88,
+  "pto_tested_hp": 26.88,
+  "drawbar_tested_hp": 22.06,
+  "weight_kg": 1325,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 13.2,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 13.6-16",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 994,
+  "tire_front": {
+    "original": "6.00x16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00x16"
+  },
+  "fuel_consumption_lph": 8.3,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/254/254-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/254/254-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td254.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1979 - 1983",
+          "__seccion_2__": "Hundred Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Ford",
+          "Manufacturer": "Shibaura",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan",
+          "__seccion_4__": "Original price was $8,356 in 1982"
+        },
+        {
+          "__seccion_1__": "Ford 1900 Engine",
+          "__seccion_2__": "Shibaura 1.4L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 1900 Transmission",
+          "__seccion_2__": "12-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 1900 Power",
+          "Engine (gross)": "30 hp 22.4 kW",
+          "Engine": "28.7 hp 21.4 kW",
+          "Drawbar (claimed)": "22 hp 16.4 kW",
+          "PTO (claimed)": "26.88 hp 20.0 kW",
+          "Drawbar (tested)": "22.06 hp 16.5 kW",
+          "PTO (tested)": "26.88 hp 20.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "power Opt Optional",
+          "__seccion_3__": "Differential mechanical drum brakes",
+          "__seccion_4__": "Two-post fixed ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 1900 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "7.7 gal 29.1 L",
+          "Hydraulic system": "6.4 gal 24.2 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "6.4 gal 24.2 L"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at ends)": "3813 lbs 1729 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "&nbsp": "live Opt Optional",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "2540@2452",
+          "Front PTO": "independent Opt Optional",
+          "Clutch": "electric",
+          "Front PTO Type": "pulley"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "63 inches 160 cm",
+          "4WD Wheelbase": "64.2 inches 163 cm",
+          "Weight": "2689 to 2922 pounds",
+          "Front tire": "5.00-15",
+          "Rear tire": "12.4x24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 1900 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "snowblower",
+          "__seccion_4__": "front-end loader",
+          "__seccion_5__": "backhoe",
+          "__seccion_6__": "Attachment details ..."
+        },
+        {
+          "1979": "U900001",
+          "1980": "U903187",
+          "1981": "U905826",
+          "1982": "U908557",
+          "1983": "U911488",
+          "__seccion_1__": "1900 Serial Numbers",
+          "Location:": "Transmission housing on left side",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "35",
+          "Battery volts": "12",
+          "Battery AH": "92"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Ford Shop Manual by Peter Letourneau",
+          "__seccion_3__": "Farm Loaders published in 1982, by Ford",
+          "__seccion_4__": "1000 Series Tractors published in 1979, by Ford",
+          "__seccion_5__": "1000 Series Tractors published in 1981, by Ford"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 24, 2025",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1979 - 1983",
+          "__seccion_2__": "Hundred Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Ford 1900 Tires",
+          "2WD Ag front": "5.00-15",
+          "4WD Ag front": "6.00x16",
+          "Ag rear": "12.4x24",
+          "2WD Lawn/turf front": "20x8-10",
+          "4WD Lawn/turf front": "6.00-16",
+          "Lawn/turf rear": "13.6-16"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "63 inches 160 cm",
+          "4WD Wheelbase": "64.2 inches 163 cm",
+          "Length": "118.8 inches 301 cm",
+          "Width": "57.7 inches 146 cm",
+          "2WD Weight": "2689 lbs 1219 kg",
+          "4WD Weight": "2922 lbs 1325 kg",
+          "2WD Ground clearance": "15.2 inches 38 cm",
+          "4WD Ground clearance": "13.8 inches 35 cm",
+          "2WD Front tread": "43.5 to 57.5 inches 110 to 146 cm",
+          "4WD Front tread": "44.5 inches 113 cm",
+          "Rear tread": "45.7 to 61 inches 116 to 154 cm"
+        },
+        {
+          "__seccion_1__": "Ford 1900 Height",
+          "ROPS": "86.3 inches 219 cm",
+          "2WD Exhaust": "76.8 inches 195 cm",
+          "4WD Exhaust": "77.2 inches 196 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 24, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1979 - 1983",
+          "__seccion_2__": "Hundred Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1326"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1326",
+          "__seccion_2__": "Diesel 12-speed 2WD September 24 - October 1, 1979 Link: Nebraska Tractor Test 1326 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "26.88 hp 20.0 kW",
+          "Fuel use": "2.1 gal/hour 7.9 l/hour",
+          "Power at rated PTO speed": "25.68 hp 19.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "22.06 hp 16.5 kW",
+          "__seccion_5__": "Gear 3-2 used for power test.",
+          "Max pull": "2,964 lbs 1344 kg",
+          "__seccion_6__": "Gear 2-3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 24, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1979 - 1983",
+          "__seccion_2__": "Hundred Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibaura LEM853",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "87.2 ci 1.4 L",
+          "Bore/Stroke": "3.35x3.31 inches 85 x 84 mm",
+          "Power": "28.7 hp 21.4 kW",
+          "Power (gross)": "30 hp 22.4 kW",
+          "Air cleaner": "oil bath",
+          "Pre-heating": "glow plugs",
+          "Compression": "21:1",
+          "Rated RPM": "2800",
+          "Starter volts": "12",
+          "Oil capacity": "6.7 qts 6.3 L",
+          "Coolant capacity": "7.2 qts 6.8 L"
+        },
+        {
+          "__seccion_1__": "Ford 1900 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 24, 2025"
+        }
+      ]
+    }
+  }
+}

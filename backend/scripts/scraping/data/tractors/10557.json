@@ -1,0 +1,234 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/5/5/10557-massey-ferguson-481.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/5/5/10557-massey-ferguson-481-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/5/5/10557-massey-ferguson-481-engine.html",
+    "source_id": 10557,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:51:52.701Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10557/10557-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 42 KB"
+  },
+  "tractor_data_id": 10557,
+  "name": "Massey Ferguson 481",
+  "brand": "Massey Ferguson (a part of AGCO)",
+  "model": "ferguson 481",
+  "years": {
+    "desde": 2002,
+    "hasta": 2006
+  },
+  "model_year": 2002,
+  "engine_power_hp": 75,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": 69,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2879,
+  "weight_basis": "4WD Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 25.3,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4-30",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1557,
+  "tire_front": {
+    "original": "12.4-24",
+    "radial": false,
+    "width_mm": 315,
+    "rim_in": 24,
+    "diameter_mm_est": 1145,
+    "tipo": "Diagonal",
+    "texto": "12.4-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F010/10557/10557-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F010/10557/10557-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td10557.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2002 - 2006",
+          "__seccion_2__": "Model year 2002-2004 2004-2006",
+          "__seccion_3__": "400 Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson (a part of AGCO)",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Brazil"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 481 Engine",
+          "__seccion_2__": "Perkins 4.2L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 481 Transmissions",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "8-speed partially synchronized",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 481 Power",
+          "Engine (net)": "75 hp 55.9 kW",
+          "PTO (claimed)": "69 hp 51.5 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post foldable ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 481 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "17.4 gal 65.9 L",
+          "Hydraulic system": "11.1 gal 42.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "11.1 gal 42.0 L",
+          "Pressure": "2500 psi 172.4 bar",
+          "Valves": "2",
+          "Pump flow": "11 gpm 41.6 lpm",
+          "Steering press.": "1740 psi 120.0 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position and draft control",
+          "Rear lift (at ends)": "4630 lbs 2100 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "&nbsp": "540@1789 (shuttle)",
+          "Clutch": "254mm mechanical dry disc",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1908 (gear)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "90.2 inches 229 cm",
+          "4WD Wheelbase": "90 inches 228 cm",
+          "Weight": "5750 to 6349 pounds",
+          "Front tire": "7.50-16",
+          "2WD Rear tire": "16.9-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 481 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "481 Serial Number Location",
+          "__seccion_2__": "Serial number on the left side of the tractor, below the dashboard."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "35",
+          "Battery CCA": "750",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF Loaders for Compact & Agricultural Tractors published in 2003, by Massey Ferguson",
+          "__seccion_3__": "MF 400 Series Tractor published in 2003, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 9, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2002 - 2006",
+          "__seccion_2__": "Model year 2002-2004 2004-2006",
+          "__seccion_3__": "400 Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 481 Tires",
+          "2WD Standard tires (ag)": "Front: 7.50-16. Rear: 16.9-30",
+          "4WD Standard tires (ag)": "Front: 12.4-24. Rear: 18.4-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "90.2 inches 229 cm",
+          "4WD Wheelbase": "90 inches 228 cm",
+          "Length": "155 inches 393 cm",
+          "Width": "80 inches * Minimum width. 203 cm",
+          "Height (ROPS)": "103.1 inches 261 cm",
+          "&nbsp": "79.4 inches (folded) 201 cm",
+          "2WD Shipping weight": "5750 lbs 2608 kg",
+          "4WD Shipping weight": "6349 lbs 2879 kg",
+          "Clearance (drawbar)": "16.3 inches 41 cm",
+          "2WD Front tread": "59.9 to 79.5 inches 152 to 201 cm",
+          "4WD Front tread": "61 to 77 inches 154 to 195 cm",
+          "Rear tread": "60.2 to 83.8 inches 152 to 212 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 9, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2002 - 2006",
+          "__seccion_2__": "Model year 2002-2004 2004-2006",
+          "__seccion_3__": "400 Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins 1004-4.2",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "258 ci 4.2 L",
+          "Bore/Stroke": "4.06x5.00 inches 103 x 127 mm",
+          "Emissions": "Tier I",
+          "Power (net)": "75 hp 55.9 kW",
+          "Air cleaner": "dual dry element",
+          "Pre-heating": "thermostart",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "7.2 qts 6.8 L",
+          "Coolant capacity": "15.4 qts 14.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 9, 2021"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/7/6/3766-caseih-puma-195.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/7/6/3766-caseih-puma-195-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/7/6/3766-caseih-puma-195-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/7/6/3766-caseih-puma-195-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3766,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:42:05.500Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3766/3766-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 3766,
+  "name": "CaseIH Puma 195",
+  "brand": "CaseIH",
+  "model": "Puma 195",
+  "years": {
+    "desde": 2007,
+    "hasta": 2010
+  },
+  "model_year": 2007,
+  "engine_power_hp": 195,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 165,
+  "pto_tested_hp": 189.4,
+  "drawbar_tested_hp": null,
+  "weight_kg": 7125,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 69.5,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 20.8R42",
+  "tire_width_mm": 528,
+  "tire_diameter_mm": 1965,
+  "tire_front": {
+    "original": "16.9R30",
+    "radial": true,
+    "width_mm": 429,
+    "rim_in": 30,
+    "diameter_mm_est": 1492,
+    "tipo": "Radial",
+    "texto": "16.9R30"
+  },
+  "fuel_consumption_lph": 41.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3766/3766-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td3766.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2007 - 2010",
+          "__seccion_2__": "Puma Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Row-Crop tractor",
+          "Factories": "Basildon, England",
+          "&nbsp": "St. Valentin, Austria",
+          "Original price": "$136,985 (2010)"
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 195 Engine",
+          "__seccion_2__": "CNH 6.7L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 195 Transmissions",
+          "__seccion_2__": "17-speed full power shift",
+          "__seccion_3__": "18-speed full power shift",
+          "__seccion_4__": "19-speed full power shift",
+          "__seccion_5__": "continuously variable transmission (CVT)",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 195 Power",
+          "Engine": "195 hp 145.4 kW",
+          "PTO (claimed)": "165 hp 123.0 kW",
+          "PTO (tested)": "189.4 hp 141.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 MFWD 4WD (optional)",
+          "Steering": "hydrostatic power",
+          "__seccion_2__": "Differential hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic optional",
+          "__seccion_3__": "Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH Puma 195 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "116 gal (early) 439.1 L",
+          "&nbsp": "107 gal (late) 405.0 L",
+          "Hydraulic system": "26.5 gal 100.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "pressure flow compensating (PFC)",
+          "Capacity": "26.5 gal 100.3 L",
+          "Valves": "3 to 5",
+          "Pump flow": "31.7 gpm (powershift std.) 120.0 lpm",
+          "&nbsp": "62 gpm (CVT opt.) 234.7 lpm",
+          "Total flow": "48.7 gpm (powershift std.) 184.3 lpm",
+          "Steering flow": "17 gpm 64.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/IIIN",
+          "Rear lift (at ends)": "12,787 lbs 5800 kg",
+          "&nbsp": "13,600 lbs (optional) 6168 kg",
+          "Rear lift (at 24\"/610mm)": "10,900 lbs 4944 kg",
+          "Front Hitch": "optional"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1-3/8)",
+          "&nbsp": "1000/1000E (with CVT)",
+          "Front PTO": "optional",
+          "Front PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "113.6 inches 288 cm",
+          "Weight": "15708 to 17635 pounds",
+          "Front tire": "16.9R30",
+          "Rear tire": "20.8R42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 195 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "150",
+          "Battery CCA": "1300",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Puma Series Tractors published in 2007, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 3, 2014"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2007 - 2010",
+          "__seccion_2__": "Puma Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 195 Tires",
+          "Standard tires (ag)": "Front: 16.9R30. Rear: 20.8R42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "113.6 inches 288 cm",
+          "Height (cab)": "119.7 inches 304 cm",
+          "Height (exhaust)": "122.6 inches 311 cm",
+          "Shipping weight": "15,708 lbs (4WD) 7125 kg",
+          "Operating weight": "17,635 lbs (4WD) 7999 kg",
+          "Rear axle": "4.125 by 119 inches 104 by 3022 mm (optional)"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 3, 2014"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2007 - 2010",
+          "__seccion_2__": "Puma Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2425"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2425",
+          "__seccion_2__": "Diesel 19-speed 4WD May 2007 - June 2007, Link: OCED Tractor Test 2425 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "189.4 hp 141.2 kW",
+          "Fuel use": "11.0 gal/hour 41.6 l/hour",
+          "Power at rated engine speed": "171.2 hp 127.7 kW",
+          "Power at rated PTO speed": "178.4 hp 133.0 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 3, 2014"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2007 - 2010",
+          "__seccion_2__": "Puma Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CNH",
+          "__seccion_3__": "intercooled turbocharged diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "411 ci 6.7 L",
+          "Bore/Stroke": "4.094x5.197 inches 104 x 132 mm",
+          "Emissions": "Tier 3",
+          "Power": "195 hp 145.4 kW",
+          "Fuel system": "electronic high-pressure common rail",
+          "Cooling system": "viscous fan",
+          "Air cleaner": "dual paper elements with aspirator",
+          "Compression": "16.5:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12",
+          "Oil capacity": "16 qts 15.1 L"
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 195 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 3, 2014"
+        }
+      ]
+    }
+  }
+}

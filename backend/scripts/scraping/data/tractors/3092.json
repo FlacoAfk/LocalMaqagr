@@ -1,0 +1,244 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/0/9/3092-new-holland-tc21.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/0/9/3092-new-holland-tc21-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/0/9/3092-new-holland-tc21-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3092,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:22:19.990Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3092/3092-td4-b01-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 74 KB"
+  },
+  "tractor_data_id": 3092,
+  "name": "New Holland TC21",
+  "brand": "New Holland",
+  "model": "TC21",
+  "years": {
+    "desde": 1999,
+    "hasta": 2003
+  },
+  "model_year": 1999,
+  "engine_power_hp": 21,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 17,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 657,
+  "weight_basis": "TC21 Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 6.2,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 9.5-16",
+  "tire_width_mm": 241,
+  "tire_diameter_mm": 817,
+  "tire_front": {
+    "original": "6.00-12",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 12,
+    "diameter_mm_est": 564,
+    "tipo": "Diagonal",
+    "texto": "6.00-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F003/3092/3092-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3092/3092-td4-b01-ext090.jpg",
+  "image_url": "/uploads/tractors/td3092.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1999 - 2003",
+          "__seccion_2__": "Boomer TC Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Original price was $12,500 in 2000"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "TC21": "gear",
+          "TC21D": "hydrostatic"
+        },
+        {
+          "__seccion_1__": "New Holland TC21 Engine",
+          "__seccion_2__": "Shibura 1.0L 3-cyl diesel",
+          "Fuel tank": "5.3 gal 20.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TC21 Transmissions",
+          "__seccion_2__": "9-speed gear",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TC21 Power",
+          "Engine (gross)": "21 hp 15.7 kW",
+          "Gear PTO (claimed)": "17 hp 12.7 kW",
+          "Hydro PTO (claimed)": "16 hp 11.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Folding ROPS on hydrostatic (D) model."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland TC21 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "2 Opt Optional",
+          "Gear Pump flow": "4 gpm 15.1 lpm",
+          "Hydro Pump flow": "4.9 gpm 18.5 lpm",
+          "Gear Total flow": "6.75 gpm 25.5 lpm",
+          "Hydro Total flow": "7.65 gpm 29.0 lpm",
+          "Steering flow": "2.75 gpm 10.4 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at 24\"/610mm)": "1265 lbs 573 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Gear Rear PTO": "transmission",
+          "Hydro Rear PTO": "live",
+          "Rear PTO Type": "540",
+          "Mid PTO": "optional",
+          "Mid PTO Type": "2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "55.3 inches 140 cm",
+          "Weight": "1450 to 1535 pounds",
+          "Front tire": "5.00-12",
+          "Rear tire": "8x16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "New Holland TC21 attachments",
+          "__seccion_2__": "54\" mid-mount mower deck",
+          "__seccion_3__": "60\" mid-mount mower deck",
+          "__seccion_4__": "snowblower",
+          "__seccion_5__": "blade",
+          "__seccion_6__": "front-end loader",
+          "__seccion_7__": "backhoe",
+          "__seccion_8__": "Attachment details ..."
+        },
+        {
+          "1998": "G003207",
+          "1999": "UF30352",
+          "2000": "UF31353",
+          "2001": "UF32159",
+          "2002": "UF32870",
+          "2003": "UF33269",
+          "__seccion_1__": "TC21 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Gear Charging amps": "20",
+          "Hydro Charging amps": "35",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Boomer Compact Tractors published in 1999, by New Holland *",
+          "__seccion_3__": "BOOMER Compact Tractors published in 2003, by New Holland",
+          "__seccion_4__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 29, 2024",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1999 - 2003",
+          "__seccion_2__": "Boomer TC Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "New Holland TC21 Tires",
+          "Ag front": "5.00-12",
+          "&nbsp": "9.5-16",
+          "Ag rear": "8x16",
+          "Lawn/turf front": "20x8.00-10",
+          "Lawn/turf rear": "29x12.00-15",
+          "Industrial front": "23x8.50-12",
+          "Industrial rear": "12x16.5"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "55.3 inches 140 cm",
+          "Length": "106.3 inches 270 cm",
+          "Width": "41 inches 104 cm",
+          "Height (ROPS)": "81.2 inches 206 cm",
+          "TC21 Shipping weight": "1450 lbs 657 kg",
+          "TC21D Shipping weight": "1535 lbs 696 kg",
+          "Ground clearance": "10.2 inches 25 cm",
+          "Front tread": "33.3 inches 84 cm",
+          "Rear tread": "35.2 inches 89 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 29, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1999 - 2003",
+          "__seccion_2__": "Boomer TC Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibura",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "61.3 ci 1.0 L",
+          "Bore/Stroke": "3.031x2.835 inches 77 x 72 mm",
+          "Power (gross)": "21 hp 15.7 kW",
+          "Pre-heating": "glow plugs",
+          "Rated RPM": "2600",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 29, 2024"
+        }
+      ]
+    }
+  }
+}

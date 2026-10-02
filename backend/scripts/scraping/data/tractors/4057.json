@@ -1,0 +1,215 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/004/0/5/4057-john-deere-840.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/004/0/5/4057-john-deere-840-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/004/0/5/4057-john-deere-840-engine.html",
+    "source_id": 4057,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:41:52.310Z",
+    "foto_original": "https://www.tractordata.com/photos/F004/4057/4057-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 4057,
+  "name": "John Deere 840",
+  "brand": "John Deere",
+  "model": "840",
+  "years": {
+    "desde": 1976,
+    "hasta": 1986
+  },
+  "model_year": 1976,
+  "engine_power_hp": 37.5,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 33.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2269,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 12.3,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-32",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1348,
+  "tire_front": {
+    "original": "6.50-16",
+    "radial": false,
+    "width_mm": 165,
+    "rim_in": 16,
+    "diameter_mm_est": 687,
+    "tipo": "Diagonal",
+    "texto": "6.50-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F004/4057/4057-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td4057.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1976 - 1986",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany"
+        },
+        {
+          "__seccion_1__": "John Deere 840 Engine",
+          "__seccion_2__": "John Deere 2.9L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 840 Transmissions",
+          "__seccion_2__": "8-speed collar shift",
+          "__seccion_3__": "16-speed two-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 840 Power",
+          "Engine": "37.5 hp 28.0 kW",
+          "PTO (claimed)": "33.5 hp 25.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Final drives": "planetary",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Four-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 840 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "20.6 gal 78.0 L",
+          "Hydraulic system": "10.8 gal 40.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "10.8 gal 40.9 L",
+          "Pump flow": "6.1 gpm 23.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift": "4878 lbs 2212 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "&nbsp": "wet disc * Optional, independent PTO",
+          "Clutch": "dry disc",
+          "Rear PTO Type": "540",
+          "Engine RPM": "1000@2070",
+          "Front PTO": "optional",
+          "Front PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "74.4 inches 188 cm",
+          "Weight": "5004 lbs 2269 kg",
+          "Front tire": "6.50-16",
+          "Rear tire": "12.4-32",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "33",
+          "Batteries": "2",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Der Neue Traktor 840 published in 1979, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 1, 2015",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1976 - 1986",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 840 Tires",
+          "Ag front": "6.50-16",
+          "Ag rear": "9.5-36",
+          "&nbsp": "12.4-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "74.4 inches 188 cm",
+          "Length": "138 inches 350 cm",
+          "Width": "65.4 inches 166 cm",
+          "Height (ROPS)": "94.1 inches 239 cm",
+          "Height (exhaust)": "103.1 inches 261 cm",
+          "Shipping weight": "5004 lbs 2269 kg",
+          "Clearance (front axle)": "21 inches 53 cm",
+          "Front tread": "49.6 to 79.5 inches 125 to 201 cm",
+          "Rear tread": "53.5 to 73.2 inches 135 to 185 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 1, 2015"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1976 - 1986",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "179 ci 2.9 L",
+          "Bore/Stroke": "4.19x4.33 inches 106 x 110 mm",
+          "Power": "37.5 hp 28.0 kW",
+          "Fuel system": "direct injection",
+          "Compression": "16.8:1",
+          "Rated RPM": "2400",
+          "Operating RPM": "1300-2400",
+          "Starter volts": "12",
+          "Starter power": "4 hp 3.0 kW",
+          "Oil capacity": "7.4 qts 7.0 L",
+          "Coolant capacity": "11.1 qts 10.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 1, 2015"
+        }
+      ]
+    }
+  }
+}

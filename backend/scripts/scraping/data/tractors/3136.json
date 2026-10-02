@@ -1,0 +1,282 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/1/3/3136-new-holland-tm120.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/1/3/3136-new-holland-tm120-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/1/3/3136-new-holland-tm120-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/1/3/3136-new-holland-tm120-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3136,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:24:32.234Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3136/3136-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 72 KB"
+  },
+  "tractor_data_id": 3136,
+  "name": "New Holland TM120",
+  "brand": "New Holland",
+  "model": "TM120",
+  "years": {
+    "desde": 2002,
+    "hasta": 2007
+  },
+  "model_year": 2002,
+  "engine_power_hp": 120,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 95,
+  "pto_tested_hp": 104.9,
+  "drawbar_tested_hp": 83,
+  "weight_kg": 5379,
+  "weight_basis": "4WD Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 54.8,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 18.4R38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "14.9R28",
+    "radial": true,
+    "width_mm": 378,
+    "rim_in": 28,
+    "diameter_mm_est": 1355,
+    "tipo": "Radial",
+    "texto": "14.9R28"
+  },
+  "fuel_consumption_lph": 24.2,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3136/3136-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3136/3136-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td3136.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2002 - 2007",
+          "__seccion_2__": "TM Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Basildon, England"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "MXM120": "similar CaseIH model"
+        },
+        {
+          "__seccion_1__": "New Holland TM120 Engine",
+          "__seccion_2__": "CNH 7.5L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TM120 Transmissions",
+          "__seccion_2__": "24-speed partially synchronized",
+          "__seccion_3__": "20-speed partially synchronized",
+          "__seccion_4__": "18-speed six-speed power shift",
+          "__seccion_5__": "18-speed full power shift",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TM120 Power",
+          "Engine": "120 hp 89.5 kW",
+          "PTO (claimed)": "95 hp 70.8 kW",
+          "Drawbar (tested)": "83.0 hp 61.9 kW",
+          "PTO (tested)": "104.9 hp 78.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "electro-hydraulic",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with heat and air-conditioning. Optional heated air-ride seat."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland TM120 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "75.3 gal 285.0 L",
+          "Hydraulic system": "19.3 gal 73.1 L",
+          "&nbsp": "23.6 gal * With power shift transmission. 89.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing (CCLS)",
+          "Capacity": "19.3 gal 73.1 L",
+          "&nbsp": "23.6 gal * With power shift transmission. 89.3 L",
+          "Pressure": "2750 psi 189.6 bar",
+          "Rear valves": "4",
+          "Mid valves": "2 to 4",
+          "Pump flow": "28 gpm 106.0 lpm",
+          "Total flow": "44 gpm 166.5 lpm",
+          "Steering flow": "16 gpm 60.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "electronic lower-link draft control",
+          "Rear lift (at ends)": "8137 lbs 3690 kg",
+          "&nbsp": "9828 lbs Opt Optional 4457 kg",
+          "Front Hitch": "II Opt Optional",
+          "Front lift": "7208 lbs 3269 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540/1000",
+          "Engine RPM": "540@1970",
+          "&nbsp": "1000@2120"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "107.2 inches 272 cm",
+          "Weight": "11283 to 11859 pounds",
+          "Front tire": "11.00-16",
+          "2WD Rear tire": "18.4R38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "Battery CCA": "1300",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "95 to 160 PTO hp Tractors published in 2005, by New Holland",
+          "__seccion_3__": "Operator's Manual TM Tractors (82999263) published in 2006",
+          "__seccion_4__": "Operator's Manual TM Tractors (87014174) published in 2002"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 16, 2025",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2002 - 2007",
+          "__seccion_2__": "TM Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "New Holland TM120 Tires",
+          "2WD Standard tires (ag)": "Front: 11.00-16. Rear: 18.4R38",
+          "4WD Standard tires (ag)": "Front: 14.9R28. Rear: 18.4R38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "107.2 inches 272 cm",
+          "Length": "185.7 inches 471 cm",
+          "Width": "79.2 inches * Minimum width at standard fender. 201 cm",
+          "Height": "111.4 inches 282 cm",
+          "Ground clearance": "16 inches 40 cm",
+          "Front axle": "TerraGlide suspension",
+          "__seccion_2__": "Flange rear axle",
+          "Bar rear axle": "112 inch length 2844 mm",
+          "2WD Front tread": "60.9 to 88.9 inches 154 to 225 cm",
+          "4WD Front tread": "61.1 to 89.3 inches 155 to 226 cm",
+          "Flange Rear tread": "60 to 87.9 inches 152 to 223 cm",
+          "Rear tread": "60 to 100 inches 152 to 254 cm"
+        },
+        {
+          "__seccion_1__": "New Holland TM120 Weight",
+          "2WD Shipping": "11283 lbs 5117 kg",
+          "4WD Shipping": "11859 lbs 5379 kg",
+          "Operating": "11830 lbs 5366 kg",
+          "Max capacity": "18743 lbs 8501 kg",
+          "2WD Max front axle": "7718 lbs 3500 kg",
+          "4WD Max front axle": "8379 lbs 3800 kg",
+          "Max rear axle": "14330 lbs 6500 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 16, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2002 - 2007",
+          "__seccion_2__": "TM Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2085"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2085",
+          "__seccion_2__": "Diesel Range Command 4WD December 1, 2002 - March 1, 2003 Link: OCED Tractor Test 2085 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "83.0 hp 61.9 kW",
+          "Fuel use": "6.8 gal/hour 25.7 l/hour",
+          "Power at rated engine speed": "100.7 hp 75.1 kW",
+          "Power at rated PTO speed": "104.1 hp 77.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 9 used for power test.",
+          "Max pull": "12,320 lbs 5588 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 16, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2002 - 2007",
+          "__seccion_2__": "TM Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CNH Genesis",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "456 ci 7.5 L",
+          "Bore/Stroke": "4.40x5.00 inches 112 x 127 mm",
+          "Power": "120 hp 89.5 kW",
+          "Air cleaner": "dual paper elements with aspirator",
+          "Compression": "17.0:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "800-2375",
+          "Torque RPM": "1400",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Oil capacity": "20 qts 18.9 L",
+          "Coolant capacity": "26.8 qts 25.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 16, 2025"
+        }
+      ]
+    }
+  }
+}

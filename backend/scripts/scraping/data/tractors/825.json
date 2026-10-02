@@ -1,0 +1,266 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/2/825-massey-ferguson-1105.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/2/825-massey-ferguson-1105-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/8/2/825-massey-ferguson-1105-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/2/825-massey-ferguson-1105-engine.html",
+    "source_id": 825,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:25:55.465Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/825/825-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 77 KB"
+  },
+  "tractor_data_id": 825,
+  "name": "Massey Ferguson 1105",
+  "brand": "Massey Ferguson",
+  "model": "1105",
+  "years": {
+    "desde": 1973,
+    "hasta": 1978
+  },
+  "model_year": 1973,
+  "engine_power_hp": 111,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 111,
+  "pto_tested_hp": 110.72,
+  "drawbar_tested_hp": 83.52,
+  "weight_kg": 4876,
+  "weight_basis": "Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 50.6,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "11.00-16",
+    "radial": false,
+    "width_mm": 279,
+    "rim_in": 16,
+    "diameter_mm_est": 881,
+    "tipo": "Diagonal",
+    "texto": "11.00-16"
+  },
+  "fuel_consumption_lph": 28.4,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/825/825-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/825/825-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td825.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1973 - 1978",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Original price was $20,000 in 1978"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1105 Engine",
+          "__seccion_2__": "Perkins 5.8L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1105 Transmissions",
+          "__seccion_2__": "12-speed two-speed power shift",
+          "__seccion_3__": "8-speed gear",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1105 Power",
+          "Drawbar (claimed)": "83 hp 61.9 kW",
+          "PTO (claimed)": "111 hp 82.8 kW",
+          "Drawbar (tested)": "83.52 hp 62.3 kW",
+          "PTO (tested)": "110.72 hp 82.6 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic disc brakes",
+          "__seccion_5__": "Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 1105 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "55 gal 208.2 L",
+          "Hydraulic system": "22 gal 83.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "22 gal 83.3 L",
+          "Pressure": "2100 psi 144.8 bar",
+          "Pump flow": "20 gpm 75.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/III",
+          "Control": "position and draft control"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000",
+          "Engine RPM": "540@2000",
+          "&nbsp": "1000@2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "109 inches 276 cm",
+          "Weight": "10750 to 12320 pounds",
+          "Front tire": "11.00-16",
+          "Rear tire": "18.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1105 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1972": "9B36563",
+          "1973": "9B36851",
+          "1974": "9B42685",
+          "1975": "9B50494",
+          "1976": "9B58735",
+          "1977": "9B66276",
+          "1978": "9B74241",
+          "1979": "9B76058",
+          "__seccion_1__": "1105 Serial Numbers",
+          "Location:": "In front of instrument panel on left side",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Complete Farm Machinery Guide published in 1976, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1973 - 1978",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1105 Tires",
+          "Ag front": "11.00-16",
+          "Ag rear": "18.4-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "109 inches 276 cm",
+          "Length": "180 inches 457 cm",
+          "Clearance (front axle)": "25 inches 63 cm",
+          "Clearance (drawbar)": "16.1 inches 40 cm",
+          "Rear axle": "3.25 by 114 inches 82 by 2895 mm (long axle)",
+          "Front tread": "61.6 inches 156 cm (Western)",
+          "Rear tread": "60 to 120 inches 152 to 304 cm (long axle PAVT)"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1105 Weight",
+          "Shipping": "10750 lbs 4876 kg",
+          "&nbsp": "12000 lbs (cab) 5443 kg",
+          "Operating": "12,320 lbs 5588 kg",
+          "Ballasted": "16,725 lbs 7586 kg"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1105 Height",
+          "Steering wheel": "79 inches 200 cm",
+          "Hood": "76.3 inches 193 cm",
+          "Cab": "113.5 inches 288 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1973 - 1978",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1132"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1132",
+          "__seccion_2__": "Diesel MultiPower 2WD May 29 - June 8, 1973 Link: Nebraska Tractor Test 1132 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "110.72 hp 82.6 kW",
+          "Fuel use": "6.8 gal/hour 25.7 l/hour",
+          "Power at rated PTO speed": "96.43 hp 71.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "83.52 hp 62.3 kW",
+          "__seccion_5__": "Gear 3LL-MP used for power test.",
+          "Max pull": "11365 lbs 5155 kg",
+          "__seccion_6__": "Gear 1HL-MP used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1973 - 1978",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins ATC6.3541",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "354 ci 5.8 L",
+          "Bore/Stroke": "3.875x5.00 inches 98 x 127 mm",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dry",
+          "Compression": "16:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12",
+          "Oil capacity": "16 qts 15.1 L",
+          "Coolant capacity": "22 qts 20.8 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ]
+    }
+  }
+}

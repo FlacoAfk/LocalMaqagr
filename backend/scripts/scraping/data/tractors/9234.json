@@ -1,0 +1,215 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/009/2/3/9234-massey-ferguson-4220.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/009/2/3/9234-massey-ferguson-4220-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/009/2/3/9234-massey-ferguson-4220-engine.html",
+    "source_id": 9234,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:47:48.099Z",
+    "foto_original": "https://www.tractordata.com/photos/F009/9234/9234-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 9234,
+  "name": "Massey Ferguson 4220",
+  "brand": "Massey Ferguson (a part of AGCO)",
+  "model": "ferguson 4220",
+  "years": {
+    "desde": 1997,
+    "hasta": 2001
+  },
+  "model_year": 1997,
+  "engine_power_hp": 60,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 52.2,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2634,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 19.2,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 12.4R32",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1348,
+  "tire_front": {
+    "original": "8.3R24",
+    "radial": true,
+    "width_mm": 211,
+    "rim_in": 24,
+    "diameter_mm_est": 968,
+    "tipo": "Radial",
+    "texto": "8.3R24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F009/9234/9234-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td9234.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1997 - 2001",
+          "__seccion_2__": "4200 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson (a part of AGCO)",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4220 Engine",
+          "__seccion_2__": "Perkins 2.7L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4220 Transmissions",
+          "__seccion_2__": "8-speed mechanical shuttle",
+          "__seccion_3__": "12-speed synchromesh",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4220 Power",
+          "Engine": "60 hp 44.7 kW",
+          "PTO (claimed)": "52.2 hp 38.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "4WD Differential lock": "electro-hydraulic front and rear",
+          "2WD Differential lock": "electro-hydraulic rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic Opt Optional",
+          "__seccion_5__": "Cab standard with heater."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 4220 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "22.2 gal 84.0 L",
+          "Hydraulic system": "13.2 gal 50.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Capacity": "13.2 gal 50.0 L",
+          "Pressure": "3046 psi 210.0 bar",
+          "Valves": "1 to 4",
+          "Pump flow": "10 gpm 37.9 lpm",
+          "Total flow": "14.5 gpm 54.9 lpm",
+          "&nbsp": "15.85 gpm * With 540E PTO. 60.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position control and mechanical draft control"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic",
+          "Rear PTO Type": "540",
+          "&nbsp": "540E@1421",
+          "Engine RPM": "540@1789"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "83.9 inches 213 cm",
+          "4WD Wheelbase": "87.8 inches 223 cm",
+          "Weight": "5258 to 5809 pounds",
+          "Front tire": "7.50-16",
+          "2WD Rear tire": "12.4R32",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2017"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1997 - 2001",
+          "__seccion_2__": "4200 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 4220 Tires",
+          "2WD Standard tires (ag)": "Front: 7.50-16. Rear: 12.4R32",
+          "4WD Standard tires (ag)": "Front: 8.3R24. Rear: 12.4R32"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "83.9 inches 213 cm",
+          "4WD Wheelbase": "87.8 inches 223 cm",
+          "Length": "147.2 inches 373 cm",
+          "Width": "74.8 inches * Minimum width 189 cm",
+          "Height (cab)": "94.1 inches 239 cm",
+          "2WD Weight": "5258 lbs 2385 kg",
+          "4WD Weight": "5809 lbs 2634 kg",
+          "Ground clearance": "11 inches 27 cm",
+          "2WD Front tread": "49.2 to 73.2 inches 124 to 185 cm",
+          "4WD Front tread": "44.1 to 64.2 inches 112 to 163 cm",
+          "Rear tread": "52 to 72.1 inches 132 to 183 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2017"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1997 - 2001",
+          "__seccion_2__": "4200 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins 903T",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "164.8 ci 2.7 L",
+          "Bore/Stroke": "3.74x5.00 inches 95 x 127 mm",
+          "Power": "60 hp 44.7 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dry element",
+          "Rated RPM": "2250",
+          "Torque": "171.1 lb-ft 232.0 Nm",
+          "Torque RPM": "1400",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Coolant capacity": "10.8 qts 10.2 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2017"
+        }
+      ]
+    }
+  }
+}

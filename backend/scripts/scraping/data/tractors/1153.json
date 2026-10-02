@@ -1,0 +1,232 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/1/5/1153-caseih-595.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/1/5/1153-caseih-595-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/1/5/1153-caseih-595-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1153,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:34:05.644Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1153/1153-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 74 KB"
+  },
+  "tractor_data_id": 1153,
+  "name": "CaseIH 595",
+  "brand": "CaseIH",
+  "model": "595",
+  "years": {
+    "desde": 1991,
+    "hasta": 1994
+  },
+  "model_year": 1991,
+  "engine_power_hp": 60,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 52,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3032,
+  "weight_basis": "4WD ROPS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 19.1,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14.9-24",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1253,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1153/1153-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1153/1153-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1153.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1991 - 1994",
+          "__seccion_2__": "95 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Doncaster, England",
+          "__seccion_4__": "Original price was $22,000 in 1994"
+        },
+        {
+          "__seccion_1__": "CaseIH 595 Engine",
+          "__seccion_2__": "Case IH 3.4L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 595 Transmissions",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "16-speed partial power shift",
+          "__seccion_4__": "8-speed synchronized shuttle",
+          "__seccion_5__": "16-speed creeper",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 595 Power",
+          "Engine (gross)": "60 hp 44.7 kW",
+          "Engine (net)": "56 hp 41.8 kW",
+          "PTO (claimed)": "52 hp 38.8 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH 595 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "ROPS Fuel": "20 gal 75.7 L",
+          "Cab Fuel": "29.5 gal 111.7 L",
+          "Hydraulic system": "9 gal 34.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "9 gal 34.1 L",
+          "Valves": "1",
+          "Pump flow": "15.1 gpm 57.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "3530 lbs 1601 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "84.5 inches 214 cm",
+          "Weight": "5640 to 7485 pounds",
+          "Front tire": "7.50-16",
+          "Rear tire": "14.9-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 595 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1991": "JJE0001501",
+          "1992": "JJE0018291",
+          "1993": "JJE0025736",
+          "1994": "JJE0033230",
+          "__seccion_1__": "595 Serial Numbers",
+          "Location:": "Serial number plate on the tractor's right-front axle support.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "95 Series Tractors published in 1990, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 5, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1991 - 1994",
+          "__seccion_2__": "95 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH 595 Tires",
+          "Ag front": "7.50-16",
+          "Ag rear": "14.9-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "84.5 inches 214 cm",
+          "Length": "142 inches 360 cm",
+          "Width": "75 inches * With at minimum tread. 190 cm",
+          "Height (ROPS)": "96.5 inches 245 cm",
+          "Height (cab)": "100.4 inches 255 cm",
+          "2WD Clearance (front axle)": "22.1 inches 56 cm",
+          "4WD Clearance (front axle)": "14.5 inches 36 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH 595 Weight",
+          "2WD ROPS Shipping": "5640 lbs 2558 kg",
+          "2WD Cab Shipping": "6440 lbs 2921 kg",
+          "4WD ROPS Shipping": "6685 lbs 3032 kg",
+          "4WD Cab Shipping": "7485 lbs 3395 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 5, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1991 - 1994",
+          "__seccion_2__": "95 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Case IH",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "206 ci 3.4 L",
+          "Bore/Stroke": "3.86x4.37 inches 98 x 111 mm",
+          "Power (net)": "56 hp 41.8 kW",
+          "Power (gross)": "60 hp 44.7 kW",
+          "Rated RPM": "2300",
+          "Idle RPM": "700-2590",
+          "Starter volts": "12",
+          "Oil capacity": "10.4 qts 9.8 L",
+          "Coolant capacity": "14.5 qts 13.7 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 5, 2020"
+        }
+      ]
+    }
+  }
+}

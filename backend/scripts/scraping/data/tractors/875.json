@@ -1,0 +1,220 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/7/875-massey-ferguson-3650.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/7/875-massey-ferguson-3650-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/7/875-massey-ferguson-3650-engine.html",
+    "source_id": 875,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:28:36.893Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/875/875-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 875,
+  "name": "Massey Ferguson 3650",
+  "brand": "Massey Ferguson",
+  "model": "3650",
+  "years": {
+    "desde": 1987,
+    "hasta": 1990
+  },
+  "model_year": 1987,
+  "engine_power_hp": 130,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 130,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 5459,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 47.7,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4-38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "13.6-28",
+    "radial": false,
+    "width_mm": 345,
+    "rim_in": 28,
+    "diameter_mm_est": 1298,
+    "tipo": "Diagonal",
+    "texto": "13.6-28"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/875/875-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td875.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1987 - 1990",
+          "__seccion_2__": "3600 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Beauvais, France",
+          "Original price": "$53,000 (1990)"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3650 Engine",
+          "__seccion_2__": "Perkins 5.8L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3650 Transmission",
+          "__seccion_2__": "16-speed two-speed power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3650 Power",
+          "PTO (claimed)": "130 hp 96.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Silent Revolution Cab standard with air-conditioning. Autotronic standard. Datatronic optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 3650 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "69 gal 261.2 L",
+          "Hydraulic system": "22.5 gal 85.2 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Capacity": "22.5 gal 85.2 L",
+          "Valves": "2 to 4",
+          "Pump flow": "14.4 gpm 54.5 lpm",
+          "Total flow": "35.8 gpm 135.5 lpm",
+          "Steering flow": "15.4 gpm 58.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position control and electronic draft control",
+          "Rear lift (at 24\"/610mm)": "9400 lbs 4263 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@1992",
+          "&nbsp": "1000@2090"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "109.3 inches (2WD) 277 cm",
+          "&nbsp": "108.8 inches (4WD) 276 cm",
+          "Weight": "12037 to 13139 pounds",
+          "Front tire": "14L-16",
+          "Rear tire": "16.9-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3650 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Loaders - Compact and Agricultural published in 1989, by Massey Ferguson",
+          "__seccion_3__": "New 3600 published in 1988, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1987 - 1990",
+          "__seccion_2__": "3600 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3650 Tires",
+          "Ag front": "14L-16 (2WD)",
+          "&nbsp": "18.4-38",
+          "Ag rear": "16.9-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "109.3 inches (2WD) 277 cm",
+          "&nbsp": "13139 lbs (4WD) 5959 kg",
+          "Length": "182.8 inches (2WD) 464 cm",
+          "Width": "94 inches (min) 238 cm",
+          "Height": "113.7 inches 288 cm",
+          "Weight": "12037 lbs (2WD) 5459 kg",
+          "Ground clearance": "17.3 inches 43 cm",
+          "Front tread": "66.4 to 85.6 inches 168 to 217 cm (4WD)",
+          "Rear tread": "66.1 to 127.6 inches 167 to 324 cm (Western long axle)"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1987 - 1990",
+          "__seccion_2__": "3600 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins AT6.3544CC",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "354 ci 5.8 L",
+          "Bore/Stroke": "3.875x5.00 inches 98 x 127 mm",
+          "Fuel system": "direct injection",
+          "Cooling system": "viscostatic fan",
+          "Air cleaner": "dual dry element",
+          "Rated RPM": "2400",
+          "Torque": "391 lb-ft 530.2 Nm",
+          "Torque RPM": "1600",
+          "Starter volts": "12",
+          "Oil capacity": "20 qts 18.9 L",
+          "Coolant capacity": "28.5 qts 27.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 17, 2021"
+        }
+      ]
+    }
+  }
+}

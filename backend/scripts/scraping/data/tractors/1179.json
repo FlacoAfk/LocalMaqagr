@@ -1,0 +1,230 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/1/7/1179-caseih-4240.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/1/7/1179-caseih-4240-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/1/7/1179-caseih-4240-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1179,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:35:29.480Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1179/1179-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 118 KB"
+  },
+  "tractor_data_id": 1179,
+  "name": "CaseIH 4240",
+  "brand": "CaseIH",
+  "model": "4240",
+  "years": {
+    "desde": 1994,
+    "hasta": 1997
+  },
+  "model_year": 1994,
+  "engine_power_hp": 104,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 85,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4604,
+  "weight_basis": "ROPS Max capacity",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 31.2,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9-28",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1441,
+  "tire_front": {
+    "original": "8.3-24",
+    "radial": false,
+    "width_mm": 211,
+    "rim_in": 24,
+    "diameter_mm_est": 968,
+    "tipo": "Diagonal",
+    "texto": "8.3-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1179/1179-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1179/1179-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1179.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1994 - 1997",
+          "__seccion_2__": "4200 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Doncaster, England",
+          "__seccion_4__": "Original price was $32,000 in 1997"
+        },
+        {
+          "__seccion_1__": "CaseIH 4240 Engine",
+          "__seccion_2__": "Case 4.4L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 4240 Transmissions",
+          "__seccion_2__": "8-speed synchromesh",
+          "__seccion_3__": "8-speed shuttle",
+          "__seccion_4__": "16-speed partial power shift",
+          "__seccion_5__": "16-speed synchromesh creeper",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 4240 Power",
+          "Engine (gross)": "104 hp 77.6 kW",
+          "Engine (net)": "99 hp 73.8 kW",
+          "PTO (claimed)": "85 hp 63.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "ROPS Differential lock": "mechanical",
+          "Cab Differential lock": "electro-hydraulic",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Two-post ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH 4240 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "20 gal (ROPS) 75.7 L",
+          "&nbsp": "29.6 gal (cab) 112.0 L",
+          "2WD Hydraulic system": "9 gal 34.1 L",
+          "Cab Hydraulic system": "9.7 gal 36.7 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "2WD Capacity": "9 gal 34.1 L",
+          "Cab Capacity": "9.7 gal 36.7 L",
+          "Pressure": "2500 psi 172.4 bar",
+          "Valves": "0 to 3",
+          "Total flow": "16.1 gpm 60.9 lpm",
+          "&nbsp": "18.4 gpm Opt Optional 69.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "draft and position control",
+          "Rear lift": "3665 lbs 1662 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "540 (1.375)",
+          "&nbsp": "540/1000 (1.375) Opt Optional"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "88.7 inches 225 cm",
+          "4WD Wheelbase": "88 inches 223 cm",
+          "Weight": "6687 to 7395 pounds",
+          "Front tire": "7.50-16",
+          "2WD Rear tire": "16.9-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "45",
+          "&nbsp": "810 Opt Optional",
+          "Battery CCA": "650",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "New 3200 and 4200 Series Tractors published in 1994, by Case IH",
+          "__seccion_3__": "3200/4200 Series Tractors published in 1994, by Case IH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1994 - 1997",
+          "__seccion_2__": "4200 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH 4240 Tires",
+          "2WD Standard tires (ag)": "Front: 7.50-16. Rear: 16.9-28",
+          "4WD Standard tires (ag)": "Front: 8.3-24. Rear: 16.9-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "88.7 inches 225 cm",
+          "4WD Wheelbase": "88 inches 223 cm",
+          "Front tread": "88 to 96 inches 223 to 243 cm (tobacco)"
+        },
+        {
+          "__seccion_1__": "CaseIH 4240 Weight",
+          "2WD ROPS Shipping": "7395 lbs 3354 kg",
+          "ROPS Max capacity": "10150 lbs 4604 kg",
+          "Cab Max capacity": "12125 lbs 5499 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1994 - 1997",
+          "__seccion_2__": "4200 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Case DT268",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "268 ci 4.4 L",
+          "Power (net)": "99 hp 73.8 kW",
+          "Power (gross)": "104 hp 77.6 kW",
+          "Air cleaner": "dry",
+          "Pre-heating": "thermostart (optional)",
+          "&nbsp": "ether (optional)",
+          "Rated RPM": "2400",
+          "Starter volts": "12",
+          "Oil capacity": "10.4 qts 9.8 L",
+          "Oil change": "100 h",
+          "Coolant capacity": "14.5 qts 13.7 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2025"
+        }
+      ]
+    }
+  }
+}

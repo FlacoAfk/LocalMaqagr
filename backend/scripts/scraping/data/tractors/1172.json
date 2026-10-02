@@ -1,0 +1,268 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/1/7/1172-caseih-2594.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/1/7/1172-caseih-2594-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/1/7/1172-caseih-2594-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/1/7/1172-caseih-2594-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1172,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:35:06.471Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1172/1172-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 76 KB"
+  },
+  "tractor_data_id": 1172,
+  "name": "CaseIH 2594",
+  "brand": "CaseIH",
+  "model": "2594",
+  "years": {
+    "desde": 1984,
+    "hasta": 1988
+  },
+  "model_year": 1984,
+  "engine_power_hp": 217,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 180,
+  "pto_tested_hp": 182.07,
+  "drawbar_tested_hp": 159.64,
+  "weight_kg": 6747,
+  "weight_basis": "Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 75.1,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 20.8x38",
+  "tire_width_mm": 528,
+  "tire_diameter_mm": 1863,
+  "tire_front": {
+    "original": "11.00x16",
+    "radial": false,
+    "width_mm": 279,
+    "rim_in": 16,
+    "diameter_mm_est": 881,
+    "tipo": "Diagonal",
+    "texto": "11.00x16"
+  },
+  "fuel_consumption_lph": 45.4,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1172/1172-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1172/1172-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td1172.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1984 - 1988",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Note: the CaseIH model 2594 is the same as the J.I. Case 2594. The following data is from the 2594 listing."
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA"
+        },
+        {
+          "__seccion_1__": "CaseIH 2594 Engine",
+          "__seccion_2__": "Case 8.3L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 2594 Transmissions",
+          "__seccion_2__": "12-speed three-speed power shift",
+          "__seccion_3__": "24-speed four-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 2594 Power",
+          "Engine": "217 hp 161.8 kW",
+          "Drawbar (claimed)": "161 hp 120.1 kW",
+          "PTO (claimed)": "180 hp 134.2 kW",
+          "Drawbar (tested)": "159.64 hp 119.0 kW",
+          "PTO (tested)": "182.07 hp 135.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Silent Guardian cab with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH 2594 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "85 gal 321.7 L",
+          "&nbsp": "25 gal (optional auxiliary tank) 94.6 L",
+          "Hydraulic system": "32 gal 121.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "32 gal 121.1 L",
+          "Pressure": "2250 psi 155.1 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "27 gpm 102.2 lpm",
+          "Steering flow": "8 gpm 30.3 lpm",
+          "Steering press.": "2000 psi 137.9 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Rear lift (at 24\"/610mm)": "7,750 lbs 3515 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic",
+          "Rear PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "118 inches 299 cm",
+          "Weight": "14875 to 16220 pounds",
+          "Front tire": "11.00x16",
+          "Rear tire": "20.8x38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1984": "9931803",
+          "1985": "9938951",
+          "1986": "9941789",
+          "1987": "9945455",
+          "1988": "9948517",
+          "__seccion_1__": "2594 Serial Numbers",
+          "Location:": "Inside cab or on right-front frame",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "72",
+          "&nbsp": "105 Opt Optional",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "2 Wheel Drive and Mechanical Front Drive Tractors published in 1987, by CaseIH",
+          "__seccion_3__": "1985 Farm Equipment Buyer's Guide published by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 24, 2010"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1984 - 1988",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Note: the CaseIH model 2594 is the same as the J.I. Case 2594. The following data is from the 2594 listing."
+        },
+        {
+          "__seccion_1__": "CaseIH 2594 Tires",
+          "Ag front": "14Lx16",
+          "Ag rear": "24.5x32",
+          "&nbsp": "20.8x42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "118 inches 299 cm",
+          "Width": "96 inches 243 cm",
+          "&nbsp": "120 inches (optional axle) 304 cm",
+          "Bar rear axle": "3.875 by 120 inches 98 by 3048 mm",
+          "Rear tread": "60 to 132 inches 152 to 335 cm (long axle)"
+        },
+        {
+          "__seccion_1__": "CaseIH 2594 Weight",
+          "Shipping": "14,875 lbs 6747 kg",
+          "Operating": "16,220 lbs 7357 kg",
+          "Max capacity": "20,500 lbs 9298 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 24, 2010"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1984 - 1988",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Note: the CaseIH model 2594 is the same as the J.I. Case 2594. The following data is from the 2594 listing."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1529"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1529",
+          "__seccion_2__": "Diesel 24-speed 2WD May 31 - June 20, 1984 Link: Nebraska Tractor Test 1529 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "182.07 hp 135.8 kW",
+          "Fuel use": "11.9 gal/hour 45.0 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "159.64 hp 119.0 kW",
+          "__seccion_5__": "Gear 3-4 used for power test.",
+          "Max pull": "16874 lbs 7654 kg",
+          "__seccion_6__": "Gear 2-2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 24, 2010"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1984 - 1988",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Note: the CaseIH model 2594 is the same as the J.I. Case 2594. The following data is from the 2594 listing."
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Case",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "504 ci 8.3 L",
+          "Bore/Stroke": "4.625x5.00 inches 117 x 127 mm",
+          "Power": "217 hp 161.8 kW",
+          "Rated RPM": "2100",
+          "Starter volts": "12",
+          "Oil capacity": "30 qts 28.4 L",
+          "Coolant capacity": "44 qts 41.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 24, 2010"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/7/2/7721-massey-ferguson-398.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/7/2/7721-massey-ferguson-398-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/007/7/2/7721-massey-ferguson-398-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/7/2/7721-massey-ferguson-398-engine.html",
+    "source_id": 7721,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:44:11.783Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7720/7720-serial-300x250.jpg",
+    "foto_calidad": "webp 960px/q65 → 15 KB"
+  },
+  "tractor_data_id": 7721,
+  "name": "Massey Ferguson 398",
+  "brand": "Massey Ferguson",
+  "model": "398",
+  "years": {
+    "desde": 1987,
+    "hasta": 1991
+  },
+  "model_year": 1987,
+  "engine_power_hp": 89,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 82,
+  "pto_tested_hp": 80.3,
+  "drawbar_tested_hp": 66.8,
+  "weight_kg": 3469,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 24.6,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "7.50-18",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 18,
+    "diameter_mm_est": 781,
+    "tipo": "Diagonal",
+    "texto": "7.50-18"
+  },
+  "fuel_consumption_lph": 18.5,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7721/7721-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7720/7720-serial-300x250.jpg",
+  "image_url": "/uploads/tractors/td7721.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1987 - 1991",
+          "__seccion_2__": "Model year 1987-1988 1989-1991",
+          "__seccion_3__": "300 Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Coventry, England",
+          "Original price": "$27,400 (1988 2WD )",
+          "__seccion_4__": "$32,800 (1988 4WD )"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 398 Engine",
+          "__seccion_2__": "Perkins 3.9L 4-cyl diesel",
+          "Fuel tank": "28.5 gal 107.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 398 Transmissions",
+          "__seccion_2__": "12-speed synchromesh",
+          "__seccion_3__": "12-speed two-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 398 Power",
+          "Engine": "89 hp 66.4 kW",
+          "PTO (claimed)": "82 hp 61.1 kW",
+          "Drawbar (tested)": "66.8 hp 49.8 kW",
+          "PTO (tested)": "80.3 hp 59.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Canopy optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 398 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "3000 psi 206.8 bar",
+          "Pump flow": "7.2 gpm (linkage pump) 27.3 lpm",
+          "&nbsp": "9.5 gpm (aux. pump) 36.0 lpm",
+          "Total flow": "16.8 gpm 63.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position and draft control",
+          "Rear lift": "4340 lbs * Capacity through full lift range 1968 kg",
+          "Rear lift (at ends)": "5507 lbs (telescopic ends) * Capacity with links horizontal 2497 kg",
+          "&nbsp": "8109 lbs (fixed ends with two assist rams) * Capacity with links horizontal 3678 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "84.1 inches 213 cm",
+          "4WD Wheelbase": "92.5 inches 234 cm",
+          "Weight": "7047 to 7648 pounds",
+          "Front tire": "7.50-18",
+          "Rear tire": "18.4-34 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "398 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the tractor, near the brake pedals."
+        },
+        {
+          "1986": "U01001",
+          "1987": "V01001",
+          "1988": "N01001",
+          "1989": "P01001",
+          "1990": "R01001",
+          "1991": "S01001",
+          "1992": "A01001",
+          "1993": "B01001",
+          "1994": "C01001",
+          "1995": "D01001",
+          "1996": "E01001",
+          "1997": "F01001",
+          "__seccion_1__": "398 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "45",
+          "Battery CCA": "420 (2x)",
+          "&nbsp": "540 (1x)",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "300 published in 1986, by Massey Ferguson",
+          "__seccion_3__": "300 published in 1986, by Massey Ferguson",
+          "__seccion_4__": "300 Series Tractors Data Book published in 1992, by Massey Ferguson",
+          "__seccion_5__": "M-F 300 Series Tractor Workshop Manual (1449 244M1) published in 1991"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 17, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1987 - 1991",
+          "__seccion_2__": "Model year 1987-1988 1989-1991",
+          "__seccion_3__": "300 Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 398 Tires",
+          "Standard tires (ag)": "Front: 7.50-18. Rear: 18.4-34 (2WD)",
+          "&nbsp": "Front: 14.9-24. Rear: 18.4-34 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "84.1 inches 213 cm",
+          "4WD Wheelbase": "92.5 inches 234 cm",
+          "2WD Length": "146.1 inches 371 cm",
+          "4WD Length": "157.6 inches 400 cm",
+          "Width": "77.7 inches 197 cm",
+          "2WD Weight": "7047 lbs 3196 kg",
+          "4WD Weight": "7648 lbs 3469 kg",
+          "2WD Clearance (front axle)": "22.8 inches 57 cm",
+          "4WD Clearance (front axle)": "16.9 inches 42 cm",
+          "Clearance (drawbar)": "12 inches 30 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 398 Height",
+          "Steering wheel": "70.7 inches 179 cm",
+          "ROPS": "100 inches 254 cm",
+          "Cab": "99.6 inches (LoLine) 252 cm",
+          "&nbsp": "104.3 inches (HiLine) 264 cm",
+          "Exhaust": "100.4 inches 255 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 17, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1987 - 1991",
+          "__seccion_2__": "Model year 1987-1988 1989-1991",
+          "__seccion_3__": "300 Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "OECD 1109: diesel 12-speed 2WD",
+          "__seccion_3__": "OECD 1110: diesel 12-speed 4WD"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1109"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1109",
+          "__seccion_2__": "Diesel 12-speed 2WD July 1987 - August 1987, Link: OCED Tractor Test 1109 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "80.3 hp 59.9 kW",
+          "Fuel use": "4.9 gal/hour 18.5 l/hour",
+          "Power at rated PTO speed": "76.4 hp 57.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "66.8 hp 49.8 kW",
+          "__seccion_5__": "Gear 2HL used for power test.",
+          "Max pull": "5530 lbs 2508 kg",
+          "__seccion_6__": "Gear 3LH used for pull test."
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1110"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1110",
+          "__seccion_2__": "Diesel 12-speed 4WD July 1987 - August 1987, Link: OCED Tractor Test 1110 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "80.3 hp 59.9 kW",
+          "Fuel use": "5.0 gal/hour 18.9 l/hour",
+          "Power at rated PTO speed": "76.4 hp 57.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "64.9 hp 48.4 kW",
+          "__seccion_5__": "Gear 1HL used for power test.",
+          "Max pull": "7575 lbs 3436 kg",
+          "__seccion_6__": "Gear 3LL used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 17, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1987 - 1991",
+          "__seccion_2__": "Model year 1987-1988 1989-1991",
+          "__seccion_3__": "300 Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins AT4.236",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "236 ci 3.9 L",
+          "Bore/Stroke": "3.875x5.00 inches 98 x 127 mm",
+          "Power": "89 hp 66.4 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dual dry element",
+          "Compression": "15.5:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "750-2420",
+          "Torque": "258 lb-ft 349.8 Nm",
+          "Torque RPM": "1400",
+          "Firing order": "1-3-4-2",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "8.1 qts 7.7 L",
+          "Coolant capacity": "16.4 qts 15.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 17, 2022"
+        }
+      ]
+    }
+  }
+}

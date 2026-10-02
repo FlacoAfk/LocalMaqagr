@@ -1,0 +1,245 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/8/1/3815-challenger-mt445.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/8/1/3815-challenger-mt445-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/8/1/3815-challenger-mt445-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/8/1/3815-challenger-mt445-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3815,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:35:03.900Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3815/3815-td4-b01-ext090.jpg",
+    "foto_calidad": "webp 800px/q55 → 51 KB"
+  },
+  "tractor_data_id": 3815,
+  "name": "Challenger MT445",
+  "brand": "Challenger (a part of AGCO)",
+  "model": "mt445",
+  "years": {
+    "desde": 2002,
+    "hasta": 2004
+  },
+  "model_year": 2002,
+  "engine_power_hp": 65,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 65,
+  "pto_tested_hp": 69.7,
+  "drawbar_tested_hp": 60.2,
+  "weight_kg": 2969,
+  "weight_basis": "4WD ROPS",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 31,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 13.6R38",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1552,
+  "tire_front": {
+    "original": "12.4R24",
+    "radial": true,
+    "width_mm": 315,
+    "rim_in": 24,
+    "diameter_mm_est": 1145,
+    "tipo": "Radial",
+    "texto": "12.4R24"
+  },
+  "fuel_consumption_lph": 16.3,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F003/3815/3815-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3815/3815-td4-b01-ext090.jpg",
+  "image_url": "/uploads/tractors/td3815.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2002 - 2004",
+          "__seccion_2__": "MT400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Challenger (a part of AGCO)",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in England",
+          "__seccion_4__": "The Challenger MT445 is similar to the Massey Ferguson 4233 and 4335."
+        },
+        {
+          "__seccion_1__": "Challenger MT445 Engine",
+          "__seccion_2__": "Perkins 4.2L 4-cyl diesel",
+          "ROPS Fuel tank": "29.1 gal 110.1 L",
+          "Cab Fuel tank": "34 gal 128.7 L",
+          "&nbsp": "50 gal * Optional with cab. 189.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Challenger MT445 Transmissions",
+          "__seccion_2__": "24-speed power shuttle",
+          "__seccion_3__": "12-speed syncromesh",
+          "__seccion_4__": "12-speed mechanical shuttle",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Challenger MT445 Power",
+          "PTO (claimed)": "65 hp 48.5 kW",
+          "Drawbar (tested)": "60.2 hp 44.9 kW",
+          "PTO (tested)": "69.7 hp 52.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS. Cab available with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Challenger MT445 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "3046 psi 210.0 bar",
+          "Valves": "2 to 4",
+          "SCV flow": "10 gpm 37.9 lpm",
+          "Total flow": "25 gpm 94.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "electronic draft control",
+          "Rear lift (at 24\"/610mm)": "4100 lbs 1859 kg",
+          "&nbsp": "6200 lbs Opt Optional 2812 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "93 inches 236 cm",
+          "Weight": "6211 to 8170 pounds",
+          "Front tire": "12.4R24",
+          "Rear tire": "13.6R38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MT400 - Serious Machinery to take on any challenge published in 2002, by AGCO"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 14, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2002 - 2004",
+          "__seccion_2__": "MT400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Challenger MT445 Tires",
+          "Ag front": "12.4R24",
+          "Ag rear": "13.6R38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "93 inches 236 cm",
+          "Length": "163 inches 414 cm",
+          "Width": "77 inches 195 cm",
+          "Height (ROPS)": "103 inches 261 cm",
+          "Height (Folded ROPS)": "78 inches 198 cm",
+          "Height (cab)": "100 inches 254 cm"
+        },
+        {
+          "__seccion_1__": "Challenger MT445 Weight",
+          "2WD ROPS": "6211 lbs 2817 kg",
+          "4WD ROPS": "6546 lbs 2969 kg",
+          "2WD Cab": "7619 lbs 3455 kg",
+          "4WD Cab": "8170 lbs 3705 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 14, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2002 - 2004",
+          "__seccion_2__": "MT400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1950"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1950",
+          "__seccion_2__": "Diesel 12-speed 4WD October 2000 - December 2000, Link: OCED Tractor Test 1950 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "69.7 hp 52.0 kW",
+          "Fuel use": "4.3 gal/hour 16.3 l/hour",
+          "Power at rated PTO speed": "68 hp 50.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "60.2 hp 44.9 kW",
+          "__seccion_5__": "Gear 3M used for power test.",
+          "Max pull": "6970 lbs 3161 kg",
+          "__seccion_6__": "Gear 2L used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 14, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2002 - 2004",
+          "__seccion_2__": "MT400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins 3054B",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "258 ci 4.2 L",
+          "Bore/Stroke": "4.055x5.00 inches 103 x 127 mm",
+          "Air cleaner": "dual paper elements",
+          "Pre-heating": "thermostart",
+          "Compression": "17.3:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 14, 2023"
+        }
+      ]
+    }
+  }
+}

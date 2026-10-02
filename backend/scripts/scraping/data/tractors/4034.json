@@ -1,0 +1,322 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/004/0/3/4034-ford-tw-35.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/004/0/3/4034-ford-tw-35-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/004/0/3/4034-ford-tw-35-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/004/0/3/4034-ford-tw-35-engine.html",
+    "source_id": 4034,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:13:01.375Z",
+    "foto_original": "https://www.tractordata.com/photos/F004/4034/4034-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 53 KB"
+  },
+  "tractor_data_id": 4034,
+  "name": "Ford TW-35",
+  "brand": "Ford",
+  "model": "TW 35",
+  "years": {
+    "desde": 1983,
+    "hasta": 1986
+  },
+  "model_year": 1983,
+  "engine_power_hp": 192,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 170,
+  "pto_tested_hp": 171.12,
+  "drawbar_tested_hp": 145.69,
+  "weight_kg": 6849,
+  "weight_basis": "4WD Cab Operating",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 75.9,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 20.8x38",
+  "tire_width_mm": 528,
+  "tire_diameter_mm": 1863,
+  "tire_front": {
+    "original": "14.9-24",
+    "radial": false,
+    "width_mm": 378,
+    "rim_in": 24,
+    "diameter_mm_est": 1253,
+    "tipo": "Diagonal",
+    "texto": "14.9-24"
+  },
+  "fuel_consumption_lph": 39,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F004/4034/4034-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F004/4034/4034-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td4034.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "TW Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Antwerp, Belgium"
+        },
+        {
+          "__seccion_1__": "Ford TW-35 Engine",
+          "__seccion_2__": "Ford 6.6L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford TW-35 Transmission",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford TW-35 Power",
+          "Engine (gross)": "192 hp 143.2 kW",
+          "Engine": "187 hp 139.4 kW",
+          "PTO (claimed)": "170 hp 126.8 kW",
+          "Drawbar (tested)": "145.69 hp 108.6 kW",
+          "PTO (tested)": "171.12 hp 127.6 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "hydraulic rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning. ROPS available."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford TW-35 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "75 gal 283.9 L",
+          "&nbsp": "100 gal (Series II) 378.5 L",
+          "Hydraulic system": "23 gal 87.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center * With closed-center remote valves.",
+          "Capacity": "23 gal 87.1 L",
+          "Pressure": "2500 psi 172.4 bar",
+          "Pump flow": "20 gpm 75.7 lpm",
+          "Total flow": "32.2 gpm 121.9 lpm",
+          "Steering flow": "4.2 gpm 15.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "&nbsp": "9450 lbs * With optional auxiliary rams. 4286 kg",
+          "Control": "position control and lower-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "7150 lbs 3243 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (1.375)",
+          "&nbsp": "1000 (1.75)",
+          "Engine RPM": "1000@1918"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "108 inches 274 cm",
+          "4WD Wheelbase": "110.73 inches 281 cm",
+          "Weight": "13686 to 15100 pounds",
+          "Front tire": "11.00x16",
+          "Rear tire": "18.4x38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford TW-35 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1983": "C694500",
+          "1984": "C707400",
+          "1985": "C732600",
+          "1986": "A915854",
+          "1987": "A917560",
+          "1988": "A919438",
+          "1989": "A922535",
+          "1990": "A925099",
+          "__seccion_1__": "TW-35 Serial Numbers",
+          "Location:": "Under forward right grill panel",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "72",
+          "Battery volts": "12",
+          "Battery AH": "128"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Farm Loaders published in 1988, by Ford",
+          "__seccion_3__": "Front-end Loaders published in 1992, by Ford",
+          "__seccion_4__": "Front-end Loaders published in 1995, by New Holland",
+          "__seccion_5__": "Tractor Buyer's Guide published in 1989, by Ford",
+          "__seccion_6__": "Sales Reference Guide published in 1986, by Ford",
+          "__seccion_7__": "TW Series Tractors published in 1987, by Ford",
+          "__seccion_8__": "TW Series Tractors Repair Manual (SE 4117) published in 1983"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 29, 2024",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "TW Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Ford TW-35 Tires",
+          "Ag front": "14Lx16 (2WD)",
+          "Ag rear": "20.8x38",
+          "&nbsp": "24.5x32",
+          "Lawn/turf front": "18.4x16.1 (2WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "108 inches 274 cm",
+          "4WD Wheelbase": "110.73 inches 281 cm",
+          "Length": "178.7 inches 453 cm",
+          "Width": "83.6 inches 212 cm",
+          "Ground clearance": "16.4 inches 41 cm",
+          "2WD Front tread": "60 to 84 inches 152 to 213 cm",
+          "4WD Front tread": "65 to 84 inches 165 to 213 cm",
+          "Rear tread": "60 to 116 inches 152 to 294 cm (power)"
+        },
+        {
+          "__seccion_1__": "Ford TW-35 Weight",
+          "ROPS Shipping": "13686 lbs 6207 kg",
+          "Cab Shipping": "14373 lbs 6519 kg",
+          "4WD Cab Operating": "15100 lbs 6849 kg",
+          "Ballasted": "20270 lbs * Four-wheel drive with 20.8-38 duals and fluid. Front fluid and iron weights. 9194 kg"
+        },
+        {
+          "__seccion_1__": "Ford TW-35 Height",
+          "Steering wheel": "87.3 inches 221 cm",
+          "ROPS": "114.8 inches 291 cm",
+          "Cab": "116 inches 294 cm",
+          "Exhaust": "122.5 inches 311 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 29, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "TW Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 1517: diesel 16-speed 2WD",
+          "__seccion_3__": "NTTL 1537: diesel 16-speed 4WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1517"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1517",
+          "__seccion_2__": "Diesel 16-speed 2WD April 26 - May 8, 1984 Link: Nebraska Tractor Test 1517 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "170.30 hp 127.0 kW",
+          "Fuel use": "10.2 gal/hour 38.6 l/hour",
+          "Power at rated PTO speed": "166.67 hp 124.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "145.43 hp 108.4 kW",
+          "__seccion_5__": "Gear 5L used for power test.",
+          "Max pull": "17,054 lbs 7735 kg",
+          "__seccion_6__": "Gear 2L used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1537"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1537",
+          "__seccion_2__": "Diesel 16-speed 4WD September 12 - 24, 1984 Link: Nebraska Tractor Test 1537 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "171.12 hp 127.6 kW",
+          "Fuel use": "10.1 gal/hour 38.2 l/hour",
+          "Power at rated PTO speed": "162.55 hp 121.2 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "145.69 hp 108.6 kW",
+          "__seccion_5__": "Gear 5L used for power test.",
+          "Max pull": "18,823 lbs 8538 kg",
+          "__seccion_6__": "Gear 2L used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 29, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "TW Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "401 ci 6.6 L",
+          "Bore/Stroke": "4.4x4.4 inches 112 x 112 mm",
+          "Power": "187 hp 139.4 kW",
+          "Power (gross)": "192 hp 143.2 kW",
+          "Air cleaner": "dry",
+          "Pre-heating": "ether injection",
+          "&nbsp": "coolant heater",
+          "Compression": "15.6:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "700-2470",
+          "Torque": "517 lb-ft 701.1 Nm",
+          "Torque RPM": "1600",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Oil capacity": "20 qts 18.9 L",
+          "Coolant capacity": "23 qts 21.8 L"
+        },
+        {
+          "__seccion_1__": "Ford TW-35 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 29, 2024"
+        }
+      ]
+    }
+  }
+}

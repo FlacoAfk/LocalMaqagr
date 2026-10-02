@@ -1,0 +1,212 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/1/1/3117-massey-ferguson-253.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/1/1/3117-massey-ferguson-253-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/1/1/3117-massey-ferguson-253-engine.html",
+    "source_id": 3117,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:30:58.611Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3117/3117-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 3117,
+  "name": "Massey Ferguson 253",
+  "brand": "Massey Ferguson",
+  "model": "253",
+  "years": {
+    "desde": 1983,
+    "hasta": 1987
+  },
+  "model_year": 1983,
+  "engine_power_hp": 44.3,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2510,
+  "weight_basis": "4WD",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 16.3,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-32",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1348,
+  "tire_front": {
+    "original": "9.50-24",
+    "radial": false,
+    "width_mm": 241,
+    "rim_in": 24,
+    "diameter_mm_est": 1020,
+    "tipo": "Diagonal",
+    "texto": "9.50-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F003/3117/3117-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td3117.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1983 - 1987",
+          "__seccion_2__": "203 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Italy"
+        },
+        {
+          "5830": "similar Landini model",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 253 Engine",
+          "__seccion_2__": "Perkins 2.5L 3-cyl diesel",
+          "Fuel tank": "16.1 gal 60.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 253 Transmission",
+          "__seccion_2__": "12-speed synchromesh",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 253 Power",
+          "Engine": "44.3 hp 33.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Four-post ROPS. Cab available."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 253 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2467 psi 170.1 bar",
+          "Pump flow": "9.5 gpm 36.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "5293 lbs 2400 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1944",
+          "&nbsp": "1000@1916"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "83.5 inches 212 cm",
+          "4WD Wheelbase": "81.9 inches 208 cm",
+          "Weight": "4982 to 5534 pounds",
+          "Front tire": "7.50-16",
+          "2WD Rear tire": "14.9-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "3er Serie published by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on May 6, 2026"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1983 - 1987",
+          "__seccion_2__": "203 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 253 Tires",
+          "2WD Standard tires (ag)": "Front: 7.50-16. Rear: 14.9-28",
+          "4WD Standard tires (ag)": "Front: 9.50-24. Rear: 12.4-32",
+          "Ag rear": "14.9-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "83.5 inches 212 cm",
+          "4WD Wheelbase": "81.9 inches 208 cm",
+          "2WD Length": "138.6 inches 352 cm",
+          "4WD Length": "142.5 inches 361 cm",
+          "Width": "76 inches 193 cm",
+          "Height": "86.6 inches 219 cm",
+          "2WD Ground clearance": "18.1 inches 45 cm",
+          "4WD Ground clearance": "14.2 inches 36 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 253 Weight",
+          "2WD": "4982 lbs 2259 kg",
+          "4WD": "5534 lbs 2510 kg",
+          "Max capacity": "7716 lbs 3499 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 6, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1983 - 1987",
+          "__seccion_2__": "203 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins AD3.152",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "152.7 ci 2.5 L",
+          "Bore/Stroke": "3.60x5.00 inches 91 x 127 mm",
+          "Power": "44.3 hp 33.0 kW",
+          "Rated RPM": "2200",
+          "Torque": "128 lb-ft 173.6 Nm",
+          "Torque RPM": "1200",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 6, 2026"
+        }
+      ]
+    }
+  }
+}

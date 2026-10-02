@@ -1,0 +1,258 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/4/7/5476-new-holland-t7050.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/4/7/5476-new-holland-t7050-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/4/7/5476-new-holland-t7050-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/4/7/5476-new-holland-t7050-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 5476,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:26:54.491Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5476/5476-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 78 KB"
+  },
+  "tractor_data_id": 5476,
+  "name": "New Holland T7050",
+  "brand": "New Holland",
+  "model": "T7050",
+  "years": {
+    "desde": 2007,
+    "hasta": 2011
+  },
+  "model_year": 2007,
+  "engine_power_hp": 195,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 165,
+  "pto_tested_hp": 189.4,
+  "drawbar_tested_hp": 140.8,
+  "weight_kg": 7125,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 73.7,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 41.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5476/5476-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5476/5476-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td5476.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "T7000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Basildon, England",
+          "__seccion_4__": "The New Holland T7050 is available with optional TerraGlide or SuperSteer front axles. The TerraGlide axle provides 4.13 inches of travel to improve traction and ride quality. The SuperSteer axle pivots 19 degrees (in addition to the 46 degrees of wheel pivot) to allow for quicker turning."
+        },
+        {
+          "__seccion_1__": "New Holland T7050 Engine",
+          "__seccion_2__": "FPT 6.7L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland T7050 Transmissions",
+          "__seccion_2__": "18-speed full power shift",
+          "__seccion_3__": "19-speed full power shift",
+          "__seccion_4__": "continuously variable transmission (CVT)",
+          "__seccion_5__": "28-speed",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland T7050 Power",
+          "Engine": "195 hp 145.4 kW",
+          "PTO (claimed)": "165 hp 123.0 kW",
+          "Drawbar (tested)": "140.8 hp 105.0 kW",
+          "PTO (tested)": "189.4 hp 141.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "electro-hydraulic rear differential lock",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Differential hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic optional",
+          "__seccion_4__": "Horizon cab standard with heat and air-conditioning. Optional deluxe cab with air-ride heated seat, automatic temperature control, and heated mirrors."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland T7050 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "116.2 gal 439.8 L",
+          "&nbsp": "107 gal (late) 405.0 L",
+          "Hydraulic system": "26.5 gal 100.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing",
+          "Capacity": "26.5 gal 100.3 L",
+          "Rear valves": "3 to 5",
+          "Pump flow": "31.7 gpm 120.0 lpm",
+          "&nbsp": "56.6 gpm (optional) 214.2 lpm",
+          "Total flow": "49 gpm 185.5 lpm",
+          "Steering flow": "17.6 gpm 66.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "3/2",
+          "Control": "electronic lower-link draft control",
+          "Rear lift (at ends)": "19,060 lbs 8645 kg",
+          "Rear lift (at 24\"/610mm)": "15,873 lbs 7199 kg",
+          "Front lift": "7,981 lbs 3620 kg",
+          "&nbsp": "6,019 lbs (SuperSteer axle) 2730 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent electro-hydraulic",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540/1000",
+          "&nbsp": "1000 (1.75)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "113.5 inches 288 cm",
+          "&nbsp": "117.2 inches (SuperSteer axle) 297 cm",
+          "Weight": "15708 to 17635 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "New Holland T7050 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "150",
+          "Battery CCA": "1300",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 22, 2022",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "T7000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "New Holland T7050 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "113.5 inches 288 cm",
+          "&nbsp": "117.2 inches (SuperSteer axle) 297 cm",
+          "Length": "189.6 inches 481 cm",
+          "Width": "91.9 inches 233 cm",
+          "Height (cab)": "119.7 inches 304 cm",
+          "Height (exhaust)": "122.6 inches 311 cm",
+          "Shipping weight": "15,708 lbs 7125 kg",
+          "Operating weight": "17,635 lbs 7999 kg",
+          "Front axle": "TerraGlide suspension inch diameter ( 0 mm",
+          "__seccion_2__": "Flange rear axle",
+          "Bar rear axle": "119 inch length 3022 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 22, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "T7000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2424"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2424",
+          "__seccion_2__": "Diesel 19-speed 4WD May 1 - July 1, 2007 Link: OCED Tractor Test 2424 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "140.8 hp 105.0 kW",
+          "Fuel use": "11.0 gal/hour 41.6 l/hour",
+          "Power at rated engine speed": "171.2 hp 127.7 kW",
+          "Power at rated PTO speed": "178.4 hp 133.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 9 used for power test.",
+          "Max pull": "16,560 lbs 7511 kg",
+          "__seccion_6__": "Gear 6 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 22, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2007 - 2011",
+          "__seccion_2__": "T7000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT NEF",
+          "__seccion_3__": "intercooled turbocharged diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "410.6 ci 6.7 L",
+          "Bore/Stroke": "4.094x5.197 inches 104 x 132 mm",
+          "Emissions": "Tier 3",
+          "Power": "195 hp 145.4 kW",
+          "Fuel system": "Bosch electronic common rail",
+          "Cooling system": "viscous fan",
+          "Air cleaner": "dual paper elements with aspirator",
+          "Pre-heating": "grid heater",
+          "Compression": "16.5:1",
+          "Rated RPM": "2200",
+          "Torque": "711.7 lb-ft 965.1 Nm",
+          "Torque RPM": "1600",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Starter power": "5.6 hp 4.2 kW",
+          "Oil capacity": "16 qts 15.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 22, 2022"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/5/3/7534-john-deere-6150m.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/5/3/7534-john-deere-6150m-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/007/5/3/7534-john-deere-6150m-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/5/3/7534-john-deere-6150m-engine.html",
+    "source_id": 7534,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:59:40.712Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7534/7534-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 39 KB"
+  },
+  "tractor_data_id": 7534,
+  "name": "John Deere 6150M",
+  "brand": "John Deere",
+  "model": "6150M",
+  "years": {
+    "desde": 2013,
+    "hasta": 2015
+  },
+  "model_year": 2013,
+  "engine_power_hp": 150,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 123,
+  "pto_tested_hp": 137.13,
+  "drawbar_tested_hp": 113.23,
+  "weight_kg": 5929,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 59.5,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 460/85R38",
+  "tire_width_mm": 460,
+  "tire_diameter_mm": 1747,
+  "tire_front": {
+    "original": "10.00-16",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 16,
+    "diameter_mm_est": 838,
+    "tipo": "Diagonal",
+    "texto": "10.00-16"
+  },
+  "fuel_consumption_lph": 29.5,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7534/7534-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7534/7534-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td7534.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2013 - 2015",
+          "__seccion_2__": "6M Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany",
+          "Original price": "$95,976 (2014 PowrQuad 16 ROPS 2WD )",
+          "__seccion_4__": "$120,645 (2014 AutoQuad Cab 4WD )"
+        },
+        {
+          "__seccion_1__": "John Deere 6150M Engine",
+          "__seccion_2__": "John Deere 6.8L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6150M Transmissions",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "20-speed partial power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6150M Power",
+          "Engine (gross)": "150 hp 111.9 kW",
+          "Engine (max)": "156 hp 116.3 kW",
+          "PTO (claimed)": "123 hp 91.7 kW",
+          "Drawbar (tested)": "113.23 hp 84.4 kW",
+          "PTO (tested)": "137.13 hp 102.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "Electro-hydraulic rear",
+          "&nbsp": "limit-slip front (4WD)",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Two-post foldable ROPS. Cab optional with air-conditioning. GreenStar (optional); AutoTrac (optional)"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 6150M photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "94 gal 355.8 L",
+          "Hydraulic system": "15.8 gal 59.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing pressure and flow compensated",
+          "Capacity": "15.8 gal 59.8 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "Rear valves": "1 to 3",
+          "Mid valves": "2 or 3 (optional)",
+          "Pump flow": "30 gpm 113.6 lpm",
+          "SCV flow": "26.4 gpm 99.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/IIIN",
+          "Control": "electrohydraulic load sensing",
+          "Rear lift (at 24\"/610mm)": "8984 lbs 4075 kg",
+          "&nbsp": "10141 lbs (optional) 4599 kg",
+          "Drawbar": "Cat. II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@1932",
+          "&nbsp": "1000@1932"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "108.9 inches 276 cm",
+          "Weight": "13073 lbs 5929 kg",
+          "Front tire": "10.00-16",
+          "Rear tire": "460/85R38 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6150M attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "6150M Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "90",
+          "&nbsp": "150 (optional)",
+          "Charging volts": "14",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "6M Series Tractors published in 2013, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 21, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2013 - 2015",
+          "__seccion_2__": "6M Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 6150M Tires",
+          "Standard tires (ag)": "Front: 10.00-16. Rear: 460/85R38 (2WD)",
+          "&nbsp": "Front: 420/85R28. Rear: 460/85R42 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "108.9 inches 276 cm",
+          "Weight": "13073 lbs 5929 kg",
+          "Max weight": "23809 lbs 10799 kg",
+          "Clearance (front axle)": "20.47 inches (4WD) 51 cm",
+          "__seccion_2__": "Flange rear axle",
+          "Bar rear axle": "3.385 by 100.4 inches 85 by 2550 mm",
+          "Front tread": "63.3 to 87.4 inches 160 to 221 cm (2WD)"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 21, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2013 - 2015",
+          "__seccion_2__": "6M Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2080"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2080",
+          "__seccion_2__": "Diesel 20-speed AutoQuad Plus 4WD October 28 - November 14, 2013 Link: OCED Tractor Test 2080 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "113.23 hp 84.4 kW",
+          "Fuel use": "7.7 gal/hour 29.1 l/hour",
+          "Power at rated engine speed": "124.43 hp 92.8 kW",
+          "Power at rated PTO speed": "131.26 hp 97.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "13374 lbs 6066 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 21, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2013 - 2015",
+          "__seccion_2__": "6M Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech PVX",
+          "__seccion_3__": "variable geometry turbocharger with intercooler diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "415 ci 6.8 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Interim Tier IV",
+          "Emission control": "cooled exhaust gas recirculation",
+          "Rated Power (gross)": "150 hp 111.9 kW",
+          "Maximum Power (gross)": "156 hp 116.3 kW",
+          "Fuel system": "high pressure common rail",
+          "Compression": "16.5:1",
+          "Rated RPM": "2100",
+          "Torque": "499 lb-ft 676.6 Nm",
+          "Torque RPM": "1600",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "24.8 qts 23.5 L",
+          "Coolant capacity": "29 qts 27.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 21, 2022"
+        }
+      ]
+    }
+  }
+}

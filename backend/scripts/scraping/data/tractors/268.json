@@ -1,0 +1,229 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/6/268-ford-5900.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/6/268-ford-5900-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/6/268-ford-5900-engine.html",
+    "source_id": 268,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:10:52.676Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/268/268-photo-001-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 153 KB"
+  },
+  "tractor_data_id": 268,
+  "name": "Ford 5900",
+  "brand": "Ford",
+  "model": "5900",
+  "years": {
+    "desde": 1985,
+    "hasta": 1993
+  },
+  "model_year": 1985,
+  "engine_power_hp": 73,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 62,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2612,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 22.7,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9-30",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1492,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/268/268-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/268/268-photo-001-ext045.jpg",
+  "image_url": "/uploads/tractors/td268.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1985 - 1993",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Original price was $17,400 in 1993"
+        },
+        {
+          "__seccion_1__": "Ford 5900 Engine",
+          "__seccion_2__": "Ford 4.2L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 5900 Transmission",
+          "__seccion_2__": "8-speed sliding gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 5900 Power",
+          "Engine (gross)": "73 hp 54.4 kW",
+          "PTO (claimed)": "62 hp 46.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical wet disc brakes",
+          "__seccion_5__": "Two-post fixed ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 5900 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "20 gal 75.7 L",
+          "Hydraulic system": "14 gal 53.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "14 gal 53.0 L",
+          "Valves": "1",
+          "Pump flow": "6 gpm 22.7 lpm",
+          "Steering flow": "3.6 gpm 13.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "3340 lbs 1515 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1900"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "87.5 inches 222 cm",
+          "Weight": "5760 lbs 2612 kg",
+          "Front tire": "7.50-16",
+          "Rear tire": "16.9-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1985": "ZX00001",
+          "1986": "ZX00486",
+          "1987": "ZX00700",
+          "1988": "ZX01046",
+          "1989": "ZX02245",
+          "1990": "ZX03006",
+          "__seccion_1__": "5900 Serial Numbers",
+          "Location:": "Serial number on the upper front-right of the transmission case.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "32",
+          "Battery volts": "12",
+          "Battery AH": "128"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "62 to 86 PTO hp Tractors published in 1989, by Ford",
+          "__seccion_3__": "5900 - The cost of farming just went down published in 1987, by Ford",
+          "__seccion_4__": "Tractor Buyer's Guide published in 1989, by Ford"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on September 3, 2026",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1985 - 1993",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Ford 5900 Tires",
+          "Ag front": "7.50-16",
+          "Ag rear": "16.9-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "87.5 inches 222 cm",
+          "Length": "146 inches 370 cm",
+          "Width": "76.9 inches 195 cm",
+          "Weight": "5760 lbs 2612 kg",
+          "Clearance (front axle)": "18 inches 45 cm",
+          "Clearance (rear axle)": "17 inches 43 cm",
+          "Front tread": "54 to 78 inches 137 to 198 cm",
+          "Rear tread": "64 to 80 inches 162 to 203 cm"
+        },
+        {
+          "__seccion_1__": "Ford 5900 Height",
+          "Steering wheel": "68.2 inches 173 cm",
+          "ROPS": "94 inches 238 cm",
+          "Exhaust": "96 inches 243 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 3, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1985 - 1993",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "256 ci 4.2 L",
+          "Bore/Stroke": "4.4094x4.2126 inches 112 x 107 mm",
+          "Power (gross)": "73 hp 54.4 kW",
+          "Fuel system": "direct injection",
+          "Compression": "16.3:1",
+          "Rated RPM": "2100",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "9 qts 8.5 L",
+          "Coolant capacity": "15 qts 14.2 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 3, 2026"
+        }
+      ]
+    }
+  }
+}

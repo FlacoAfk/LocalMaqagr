@@ -1,0 +1,227 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/3/5/8351-john-deere-5100mh.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/3/5/8351-john-deere-5100mh-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/3/5/8351-john-deere-5100mh-engine.html",
+    "source_id": 8351,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:02:28.277Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8351/8351-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 8351,
+  "name": "John Deere 5100MH",
+  "brand": "John Deere",
+  "model": "5100MH",
+  "years": {
+    "desde": 2012,
+    "hasta": 2024
+  },
+  "model_year": 2012,
+  "engine_power_hp": 100,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 85,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3764,
+  "weight_basis": "ROPS Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 31.2,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 230/95R40",
+  "tire_width_mm": 230,
+  "tire_diameter_mm": 1453,
+  "tire_front": {
+    "original": "230/95R40",
+    "radial": true,
+    "width_mm": 230,
+    "rim_in": 40,
+    "diameter_mm_est": 1453,
+    "tipo": "Radial",
+    "texto": "230/95R40"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F008/8351/8351-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td8351.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2012 - 2024",
+          "__seccion_2__": "Model year 2012-2013 2014-2024",
+          "__seccion_3__": "5M Series",
+          "__seccion_4__": "High-Clearance tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "High-Clearance tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 5100MH Engine",
+          "__seccion_2__": "John Deere 4.5L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5100MH Transmissions",
+          "__seccion_2__": "12-speed",
+          "__seccion_3__": "16-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5100MH Power",
+          "Engine (gross)": "100 hp 74.6 kW",
+          "PTO (claimed)": "85 hp 63.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 5100MH are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "37 gal 140.0 L",
+          "Hydraulic system": "14 gal 53.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "14 gal 53.0 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "SCV flow": "18.4 gpm 69.6 lpm",
+          "Total flow": "24.7 gpm 93.5 lpm",
+          "Steering flow": "6.3 gpm 23.8 lpm",
+          "Steering press.": "1950 psi 134.5 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540/540E",
+          "Engine RPM": "540@2100",
+          "&nbsp": "540E@1645"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "90.6 inches 230 cm",
+          "Weight": "8300 to 9300 pounds",
+          "Front tire": "230/95R40",
+          "Rear tire": "230/95R40",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "5100MH Serial Numbers",
+          "Location:": "Serial number plate on the right side of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "90",
+          "&nbsp": "120 * Available as a field-installed option.",
+          "Battery CCA": "950",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Specialty Tractors published in 2012, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 4, 2015",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2012 - 2024",
+          "__seccion_2__": "Model year 2012-2013 2014-2024",
+          "__seccion_3__": "5M Series",
+          "__seccion_4__": "High-Clearance tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 5100MH Tires",
+          "Ag front": "230/95R40",
+          "Ag rear": "230/95R40"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "90.6 inches 230 cm",
+          "ROPS Shipping weight": "8300 lbs 3764 kg",
+          "Cab Shipping weight": "9300 lbs 4218 kg",
+          "Clearance (front axle)": "23.4 inches 59 cm",
+          "__seccion_2__": "Flange rear axle"
+        },
+        {
+          "__seccion_1__": "John Deere 5100MH Height",
+          "Steering wheel": "77 inches 195 cm",
+          "Hood": "75 inches 190 cm",
+          "ROPS": "110 inches 279 cm",
+          "Cab": "110.7 inches 281 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 4, 2015"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2012 - 2024",
+          "__seccion_2__": "Model year 2012-2013 2014-2024",
+          "__seccion_3__": "5M Series",
+          "__seccion_4__": "High-Clearance tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "276 ci 4.5 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emission control": "Interim Tier IV",
+          "Rated Power (gross)": "100 hp 74.6 kW",
+          "Rated RPM": "2200",
+          "Idle RPM": "900-2300",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "13.6 qts 12.9 L",
+          "Coolant capacity": "20 qts 18.9 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 4, 2015"
+        }
+      ]
+    }
+  }
+}

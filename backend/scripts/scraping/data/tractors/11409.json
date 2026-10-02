@@ -1,0 +1,217 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/011/4/0/11409-john-deere-5105m.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/011/4/0/11409-john-deere-5105m-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/011/4/0/11409-john-deere-5105m-engine.html",
+    "source_id": 11409,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:11:23.431Z",
+    "foto_original": "https://www.tractordata.com/photos/F011/11409/11409-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 71 KB"
+  },
+  "tractor_data_id": 11409,
+  "name": "John Deere 5105M",
+  "brand": "John Deere",
+  "model": "5105M",
+  "years": {
+    "desde": 2015,
+    "hasta": 2022
+  },
+  "model_year": 2015,
+  "engine_power_hp": 105,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 90,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": null,
+  "weight_basis": null,
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 33,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 18.4R30",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1557,
+  "tire_front": {
+    "original": "12.4R24",
+    "radial": true,
+    "width_mm": 315,
+    "rim_in": 24,
+    "diameter_mm_est": 1145,
+    "tipo": "Radial",
+    "texto": "12.4R24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F011/11409/11409-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F011/11409/11409-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td11409.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2022 -",
+          "__seccion_2__": "5M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Pune, India",
+          "__seccion_4__": "Original price was $79,345 in 2023"
+        },
+        {
+          "__seccion_1__": "John Deere 5105M Engine",
+          "__seccion_2__": "John Deere 4.5L 4-cyl diesel",
+          "ROPS Fuel tank": "37.7 gal 142.7 L",
+          "Cab Fuel tank": "43.7 gal 165.4 L",
+          "Exhaust fluid (DEF)": "3.17 gal 12.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5105M Transmissions",
+          "__seccion_2__": "16-speed",
+          "__seccion_3__": "16-speed 4-speed power shift",
+          "__seccion_4__": "32-speed 8-speed power shift",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5105M Power",
+          "Engine": "105 hp 78.3 kW",
+          "PTO (claimed)": "90 hp 67.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "electro-hydraulic rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Two-post folding ROPS. Cab optional with air-conditioning"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 5105M photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Rear valves": "2 or 3",
+          "Mid valves": "2 or 3",
+          "Pump flow": "24.7 gpm (PowReverser) 93.5 lpm",
+          "&nbsp": "19.3 gpm (PowrQuad/8) 73.1 lpm",
+          "SCV flow": "18.4 gpm (PowReverser) 69.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position control and lower-link draft sensing",
+          "Rear lift": "5150 lbs (PowrReverser) 2336 kg",
+          "&nbsp": "7860 lbs (PowrQuad/8 optional) 3565 kg",
+          "Front Hitch": "II/I",
+          "Front lift": "4257 lbs 1930 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540 (1.375)",
+          "&nbsp": "1000@2100",
+          "Engine RPM": "540@2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "92.5 inches 234 cm",
+          "Front tire": "12.4R24",
+          "Rear tire": "18.4R30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "90",
+          "Cab Charging amps": "120",
+          "&nbsp": "200 Opt Optional",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "5M Tractors published in 2022, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 30, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2022 -",
+          "__seccion_2__": "5M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 5105M Tires",
+          "Standard tires (ag)": "Front: 12.4R24. Rear: 18.4R30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "92.5 inches 234 cm",
+          "ROPS Length": "160 inches 406 cm",
+          "Cab Length": "161 inches 408 cm",
+          "Max Drawbar": "3197 lbs 1450 kg",
+          "2WD Front tread": "59.8 to 79.5 inches 151 to 201 cm",
+          "4WD Front tread": "51.1 to 78.6 inches 129 to 199 cm",
+          "Rear tread": "53.1 to 90 inches 134 to 228 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 30, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2022 -",
+          "__seccion_2__": "5M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 4045 EWL",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "276 ci 4.5 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Tier IV",
+          "Power": "105 hp 78.3 kW",
+          "Maximum Power": "108 hp 80.5 kW",
+          "Rated RPM": "2200",
+          "Torque": "322 lb-ft 436.6 Nm",
+          "Torque RPM": "1600",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 30, 2025"
+        }
+      ]
+    }
+  }
+}

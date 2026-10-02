@@ -1,0 +1,223 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/2/2/10224-john-deere-3036e.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/2/2/10224-john-deere-3036e-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/2/2/10224-john-deere-3036e-engine.html",
+    "source_id": 10224,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:05:45.157Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10224/10224-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 10224,
+  "name": "John Deere 3036E",
+  "brand": "John Deere",
+  "model": "3036E",
+  "years": {
+    "desde": 2009,
+    "hasta": 2017
+  },
+  "model_year": 2009,
+  "engine_power_hp": 36.6,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1999,
+  "weight_basis": "Max capacity",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 13.4,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 41x14-20",
+  "tire_width_mm": 356,
+  "tire_diameter_mm": 1041,
+  "tire_front": {
+    "original": "27x8.5-15",
+    "radial": false,
+    "width_mm": 216,
+    "rim_in": 15,
+    "diameter_mm_est": 686,
+    "tipo": "Diagonal",
+    "texto": "27x8.5-15"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F010/10224/10224-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td10224.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2009 - 2017",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 3036E Engine",
+          "__seccion_2__": "Yanmar 1.5L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3036E Transmission",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3036E Power",
+          "Engine (gross)": "36.6 hp 27.3 kW",
+          "Engine (net)": "33.5 hp 25.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "spur gear",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 3036E are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "6.3 gal 23.8 L",
+          "Hydraulic system": "5.5 gal 20.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "5.5 gal 20.8 L",
+          "Pressure": "2495 psi 172.0 bar",
+          "Pump flow": "5.3 gpm 20.1 lpm",
+          "Total flow": "9.3 gpm 35.2 lpm",
+          "Steering flow": "4 gpm 15.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift": "1356 lbs 615 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "wet disc",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2600"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "2315 lbs 1050 kg",
+          "Front tire": "7-14",
+          "Rear tire": "11.2-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3036E attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "20C/25C/3036E Standard Compact Utility Tractors published in 2009, by John Deere",
+          "__seccion_3__": "3036E Standard Compact Utility Tractor published in 2010, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 8, 2024",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2009 - 2017",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 3036E Tires",
+          "Ag front": "7-14",
+          "Ag rear": "11.2-24",
+          "Lawn/turf front": "27x8.5-15",
+          "Lawn/turf rear": "41x14-20",
+          "Industrial front": "25x5.5-14",
+          "Industrial rear": "15-19.5"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Length": "111 inches 281 cm",
+          "Width": "56.5 inches 143 cm",
+          "Height (ROPS)": "91.4 inches 232 cm",
+          "Ground clearance": "13 inches 33 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 3036E Weight",
+          "__seccion_2__": "2315 lbs 1050 kg",
+          "Max capacity": "4409 lbs 1999 kg",
+          "Max Drawbar": "882 lbs 400 kg",
+          "Max front axle": "1764 lbs 800 kg",
+          "Max rear axle": "2646 lbs 1200 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 8, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2009 - 2017",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Yanmar 3TNV84T",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "91.3 ci 1.5 L",
+          "Bore/Stroke": "3.31x3.54 inches 84 x 90 mm",
+          "Rated Power (net)": "33.5 hp 25.0 kW",
+          "Rated Power (gross)": "36.6 hp 27.3 kW",
+          "Fuel system": "direct injection",
+          "Compression": "19:1",
+          "Rated RPM": "2600",
+          "Idle RPM": "950-2600",
+          "Torque": "88.5 lb-ft 120.0 Nm",
+          "Torque RPM": "1800",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 8, 2024"
+        }
+      ]
+    }
+  }
+}

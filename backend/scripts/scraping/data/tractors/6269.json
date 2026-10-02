@@ -1,0 +1,299 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/2/6/6269-challenger-mt665c.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/2/6/6269-challenger-mt665c-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/006/2/6/6269-challenger-mt665c-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/2/6/6269-challenger-mt665c-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 6269,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:38:04.329Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6269/6269-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 63 KB"
+  },
+  "tractor_data_id": 6269,
+  "name": "Challenger MT665C",
+  "brand": "Challenger (a part of AGCO)",
+  "model": "mt665c",
+  "years": {
+    "desde": 2009,
+    "hasta": 2010
+  },
+  "model_year": 2009,
+  "engine_power_hp": 290,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 250,
+  "pto_tested_hp": 290.3,
+  "drawbar_tested_hp": 218.5,
+  "weight_kg": 10999,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 151.8,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 520/85R46",
+  "tire_width_mm": 520,
+  "tire_diameter_mm": 2052,
+  "tire_front": {
+    "original": "480/70R34",
+    "radial": true,
+    "width_mm": 480,
+    "rim_in": 34,
+    "diameter_mm_est": 1536,
+    "tipo": "Radial",
+    "texto": "480/70R34"
+  },
+  "fuel_consumption_lph": 54.5,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F006/6269/6269-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6269/6269-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td6269.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2009 - 2010",
+          "__seccion_2__": "MT600C Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Challenger (a part of AGCO)",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Beauvais, France",
+          "__seccion_4__": "Original price was $236,000 in 2009"
+        },
+        {
+          "8670": "similar Massey Ferguson model",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Challenger MT665C Engine",
+          "__seccion_2__": "AGCO SISU POWER 8.4L 6-cyl diesel",
+          "Fuel tank": "155.9 gal 590.1 L",
+          "&nbsp": "182.3 gal (without SCR) 690.0 L",
+          "Exhaust fluid (DEF)": "7.9 gal 29.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Challenger MT665C Transmission",
+          "__seccion_2__": "continuously variable transmission",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Challenger MT665C Power",
+          "Engine (gross)": "290 hp 216.3 kW",
+          "PTO (claimed)": "250 hp 186.4 kW",
+          "Drawbar (tested)": "218.5 hp 162.9 kW",
+          "PTO (tested)": "290.3 hp 216.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "electro-hydraulic front and rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with heat and air-conditioning. Optional heated seat, power adjustable mirrors, and automatic temperature control."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Challenger MT665C photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing",
+          "Pressure": "2,901 psi 200.0 bar",
+          "Valves": "4 to 6",
+          "Pump flow": "26.4 gpm 99.9 lpm",
+          "Total flow": "46.2 gpm 174.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Control": "electronic lower-link draft sensing",
+          "Rear lift (at ends)": "26,460 lbs 12002 kg",
+          "Rear lift (at 24\"/610mm)": "21,336 lbs 9678 kg",
+          "Front lift (at ends)": "11,020 lbs 4998 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "1000E/1000 (1.75)",
+          "&nbsp": "540E/1000 (1.375) Opt Optional",
+          "Front PTO": "independent Opt Optional",
+          "Front PTO Type": "1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "122.2 inches 310 cm",
+          "Weight": "24250 to 25795 pounds",
+          "Front tire": "480/70R34",
+          "Rear tire": "520/85R46",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Challenger MT665C attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "MT665C Serial Number Location",
+          "__seccion_2__": "Serial number plate below the tractor cab door on the right side."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "240 * Two 120A alternators.",
+          "Batteries": "2",
+          "Battery CCA": "775",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Challenger - The New MT600C Series published in 2009, by AGCO"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 21, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2009 - 2010",
+          "__seccion_2__": "MT600C Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Challenger MT665C Tires",
+          "Ag front": "480/70R34",
+          "Ag rear": "520/85R46"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "122.2 inches 310 cm",
+          "Length": "223.2 inches 566 cm",
+          "Height (cab)": "133.1 inches 338 cm",
+          "Bar rear axle": "4.33 by 118 inches 109 by 2997 mm",
+          "Front tread": "60.9 to 88.8 inches 154 to 225 cm",
+          "Rear tread": "58.5 to 119.5 inches 148 to 303 cm"
+        },
+        {
+          "__seccion_1__": "Challenger MT665C Weight",
+          "Shipping": "24,250 lbs 10999 kg",
+          "Operating": "25,795 lbs 11700 kg",
+          "Max capacity": "38,890 lbs 17640 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 21, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2009 - 2010",
+          "__seccion_2__": "MT600C Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "OECD 2498: SCR diesel Techstar CVT 4WD",
+          "__seccion_3__": "OECD 2558: IEGR diesel Techstar CVT 4WD"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2498"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2498",
+          "__seccion_2__": "SCR diesel Techstar CVT 4WD October 2008 - January 2009, Link: OCED Tractor Test 2498 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "218.5 hp 162.9 kW",
+          "Fuel use": "13.7 gal/hour 51.9 l/hour",
+          "Power at rated engine speed": "257.1 hp 191.7 kW",
+          "Power at rated PTO speed": "281.1 hp 209.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Pull at 7.5 KPH",
+          "Max pull": "34,130 lbs 15481 kg",
+          "__seccion_6__": "Pull at 3.8 KPH"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2558"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2558",
+          "__seccion_2__": "IEGR diesel Techstar CVT 4WD October 2009 - March 2010, Link: OCED Tractor Test 2558 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "213.6 hp 159.3 kW",
+          "Fuel use": "15.7 gal/hour 59.4 l/hour",
+          "Power at rated engine speed": "254.0 hp 189.4 kW",
+          "Power at rated PTO speed": "275.8 hp 205.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Pull at 7.58 KPH",
+          "Max pull": "26605 lbs 12068 kg",
+          "__seccion_6__": "Pull at 4.71 KPH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 21, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2009 - 2010",
+          "__seccion_2__": "MT600C Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "AGCO SISU POWER 84CTA",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "__seccion_6__": "The engine uses AGCO's e3 selective catalytic reduction (SCR) system to reduce nitrogen oxides (NOx). An exhaust-gas recirculation (IEGR) version of the engine was optionally available.",
+          "Displacement": "512.6 ci 8.4 L",
+          "Bore/Stroke": "4.37x5.71 inches 111 x 145 mm",
+          "Emissions": "Interim Tier 4",
+          "Emission control": "selective catalytic reduction (SCR)",
+          "&nbsp": "integrated exhaust gas recirculation optional (IECR)",
+          "Power (gross)": "290 hp 216.3 kW",
+          "Maximum Power": "320 hp 238.6 kW",
+          "Fuel system": "electronic high-pressure common rail",
+          "Air cleaner": "dual paper elements",
+          "Compression": "16.7:1",
+          "Rated RPM": "2200",
+          "Torque": "1033 lb-ft 1400.7 Nm",
+          "Torque RPM": "1500",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Challenger MT665C Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 21, 2022"
+        }
+      ]
+    }
+  }
+}

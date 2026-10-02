@@ -1,0 +1,166 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/0/4/10040-new-holland-tk4100m.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/0/4/10040-new-holland-tk4100m-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/0/4/10040-new-holland-tk4100m-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 10040,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:40:42.922Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10040/10040-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 10040,
+  "name": "New Holland TK4.100M",
+  "brand": "New Holland (a part of CNH)",
+  "model": "holland tk4100m",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 98,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 86,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": null,
+  "weight_basis": null,
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 31.6,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F010/10040/10040-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td10040.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2018 -",
+          "__seccion_2__": "TK4 Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland (a part of CNH)",
+          "__seccion_2__": "Agricultural Crawler tractor",
+          "__seccion_3__": "Original price was $82,500 in 2018"
+        },
+        {
+          "__seccion_1__": "New Holland TK4.100M Engine",
+          "__seccion_2__": "diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TK4.100M Transmissions",
+          "__seccion_2__": "8-speed shuttle",
+          "__seccion_3__": "16-speed creeper",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TK4.100M Power",
+          "Engine (gross)": "98 hp 73.1 kW",
+          "PTO (claimed)": "86 hp 64.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "crawler",
+          "__seccion_2__": "Two-post ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the New Holland TK4.100M are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Rear valves": "up to 4",
+          "Pump flow": "11.9 gpm 45.0 lpm"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540/540E",
+          "&nbsp": "540/1000 Opt Optional"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tracks",
+          "Wheelbase": "65.2 inches 165 cm",
+          "__seccion_2__": "51.2-inch tracks",
+          "__seccion_3__": "Full dimensions and tracks ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 1, 2022",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2018 -",
+          "__seccion_2__": "TK4 Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "New Holland TK4.100M Tracks",
+          "Width": "51.2 inches 130 cm"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "65.2 inches 165 cm",
+          "Width": "66.9 inches 169 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 1, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2018 -",
+          "__seccion_2__": "TK4 Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "diesel",
+          "__seccion_3__": "liquid-cooled",
+          "Emissions": "Interim Tier IV",
+          "Power (gross)": "98 hp 73.1 kW",
+          "Rated RPM": "2300",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 1, 2022"
+        }
+      ]
+    }
+  }
+}

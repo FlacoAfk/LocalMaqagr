@@ -1,0 +1,329 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/6/65-john-deere-1020.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/6/65-john-deere-1020-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/6/65-john-deere-1020-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/6/65-john-deere-1020-engine.html",
+    "source_id": 65,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:45:50.514Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/65/65-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 79 KB"
+  },
+  "tractor_data_id": 65,
+  "name": "John Deere 1020",
+  "brand": "John Deere",
+  "model": "1020",
+  "years": {
+    "desde": 1965,
+    "hasta": 1973
+  },
+  "model_year": 1965,
+  "engine_power_hp": 38.82,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 38.82,
+  "pto_tested_hp": 38.92,
+  "drawbar_tested_hp": 31.81,
+  "weight_kg": 1909,
+  "weight_basis": "Gas Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 18.9,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 12.4-28",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1247,
+  "tire_front": {
+    "original": "5.50-16",
+    "radial": false,
+    "width_mm": 140,
+    "rim_in": 16,
+    "diameter_mm_est": 644,
+    "tipo": "Diagonal",
+    "texto": "5.50-16"
+  },
+  "fuel_consumption_lph": 14,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/65/65-td3a.jpg",
+  "image_url": "/uploads/tractors/td65.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1965 - 1973",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "Factories": "Dubuque, Iowa, USA",
+          "&nbsp": "Mexico",
+          "Original price": "$4,500"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "1020LU": "low-crop utility",
+          "1020HU": "high-crop utility",
+          "1020RU": "row-crop utility",
+          "1020O": "orchard"
+        },
+        {
+          "__seccion_1__": "John Deere 1020 Engines",
+          "__seccion_2__": "John Deere 2.2L 3-cyl gasoline",
+          "__seccion_3__": "John Deere 2.5L 3-cyl diesel",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 1020 Transmissions",
+          "__seccion_2__": "8-speed collar shift",
+          "__seccion_3__": "16-speed two-speed power shift",
+          "__seccion_4__": "8-speed power shuttle",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 1020 Power",
+          "Drawbar (claimed)": "33 hp 24.6 kW",
+          "PTO (claimed)": "38.82 hp 28.9 kW",
+          "Drawbar (tested)": "31.81 hp 23.7 kW",
+          "PTO (tested)": "38.92 hp 29.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear Opt Optional",
+          "Steering": "power Opt Optional",
+          "__seccion_3__": "Differential hydraulic wet disc brakes",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 1020 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "16.5 gal 62.5 L",
+          "Hydraulic system": "10 gal 37.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "10 gal 37.9 L",
+          "Pump flow": "10.5 gpm 39.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift": "2010 lbs 911 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "&nbsp": "1000@2100",
+          "Rear PTO Type": "540",
+          "Engine RPM": "540@2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "74.325 inches 188 cm",
+          "Weight": "4210 to 4870 pounds",
+          "Front tire": "5.50-16",
+          "Rear tire": "12.4-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 1020 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "1020 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the 1020 transmission case."
+        },
+        {
+          "1965": "14501",
+          "1966": "14682",
+          "1967": "42715",
+          "1968": "65184",
+          "1969": "82409",
+          "1970": "102039",
+          "1971": "117500",
+          "1972": "134700",
+          "1973": "157109",
+          "__seccion_1__": "1020 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere 20 Series New Generation Tractors by Benjamin Hain",
+          "__seccion_3__": "Operator's Manual 145 Loader (OMW21474)",
+          "__seccion_4__": "Operator's Manual 1020, 1120 and 1630 Tractors published by John Deere",
+          "__seccion_5__": "New 1020 and 2020 Tractors published in 1965, by John Deere",
+          "__seccion_6__": "1020, 1520, and 2020 Tractors published in 1968, by John Deere",
+          "__seccion_7__": "Tractors 31 to 54 H.P. published in 1969, by John Deere *",
+          "__seccion_8__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_9__": "John Deere Tractors for 68 published in 1968",
+          "__seccion_10__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 31, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1965 - 1973",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 1020 Tires",
+          "Ag front": "9.00-10",
+          "Ag rear": "18.4-16A",
+          "&nbsp": "13.9-36"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "74.325 inches 188 cm",
+          "Length": "120.25 inches 305 cm",
+          "Width": "60.75 inches 154 cm",
+          "Height (hood)": "51.2 inches 130 cm",
+          "Height (exhaust)": "76.5 inches 194 cm",
+          "Ground clearance": "20.5 inches 52 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 1020 Weight",
+          "Gas Shipping": "4210 lbs 1909 kg",
+          "Diesel Shipping": "4260 lbs 1932 kg",
+          "Gas Operating": "4730 lbs 2145 kg",
+          "Diesel Operating": "4870 lbs 2209 kg",
+          "Ballasted": "5955 lbs 2701 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 31, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1965 - 1973",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 935: gasoline 8-speed 2WD",
+          "__seccion_3__": "NTTL 937: diesel 8-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 935"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 935",
+          "__seccion_2__": "Gasoline 8-speed 2WD May 2 - 14, 1966 Link: Nebraska Tractor Test 935 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "38.82 hp 28.9 kW",
+          "Fuel use": "3.5 gal/hour 13.2 l/hour",
+          "Power at rated PTO speed": "35.61 hp 26.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "31.64 hp 23.6 kW",
+          "__seccion_5__": "Gear 5 used for power test.",
+          "Max pull": "4,246 lbs 1925 kg",
+          "__seccion_6__": "Gear 3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 937"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 937",
+          "__seccion_2__": "Diesel 8-speed 2WD May 6 - 17, 1966 Link: Nebraska Tractor Test 937 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "38.92 hp 29.0 kW",
+          "Fuel use": "2.6 gal/hour 9.8 l/hour",
+          "Power at rated PTO speed": "36.02 hp 26.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "31.81 hp 23.7 kW",
+          "__seccion_5__": "Gear 5 used for power test.",
+          "Max pull": "4,200 lbs 1905 kg",
+          "__seccion_6__": "Gear 3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 31, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1965 - 1973",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "John Deere 2.2L 3-cyl gasoline",
+          "__seccion_3__": "John Deere 2.5L 3-cyl diesel"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "135 ci 2.2 L",
+          "Bore/Stroke": "3.86x3.86 inches 98 x 98 mm",
+          "Air cleaner": "oil bath",
+          "&nbsp": "dry paper element Opt Optional",
+          "Compression": "7.5:1",
+          "Rated RPM": "2500",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "152 ci 2.5 L",
+          "Bore/Stroke": "3.858x4.33 inches 98 x 110 mm",
+          "Air cleaner": "oil bath",
+          "&nbsp": "dry paper element Opt Optional",
+          "Compression": "16.7:1",
+          "Rated RPM": "2500",
+          "Firing order": "1-2-3",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 31, 2025"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/65/65-td4-b01-ext045.jpg"
+}

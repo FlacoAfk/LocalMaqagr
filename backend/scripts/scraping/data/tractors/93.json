@@ -1,0 +1,261 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/9/93-john-deere-2840.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/9/93-john-deere-2840-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/9/93-john-deere-2840-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/9/93-john-deere-2840-engine.html",
+    "source_id": 93,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:34:51.558Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/93/93-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 91 KB"
+  },
+  "tractor_data_id": 93,
+  "name": "John Deere 2840",
+  "brand": "John Deere",
+  "model": "2840",
+  "years": {
+    "desde": 1977,
+    "hasta": 1979
+  },
+  "model_year": 1977,
+  "engine_power_hp": 80.65,
+  "engine_power_source": "pto_tested (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": 80.65,
+  "drawbar_tested_hp": 64.86,
+  "weight_kg": 3946,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 37.3,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "7.50-18",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 18,
+    "diameter_mm_est": 781,
+    "tipo": "Diagonal",
+    "texto": "7.50-18"
+  },
+  "fuel_consumption_lph": 20.1,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/93/93-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/93/93-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td93.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1977 - 1979",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany",
+          "__seccion_4__": "Original price was $17,000 in 1979"
+        },
+        {
+          "3130": "similar John Deere model",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "John Deere 2840 Engine",
+          "__seccion_2__": "John Deere 5.4L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2840 Transmissions",
+          "__seccion_2__": "12-speed two-speed power shift",
+          "__seccion_3__": "6-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2840 Power",
+          "Drawbar (tested)": "64.86 hp 48.4 kW",
+          "PTO (tested)": "80.65 hp 60.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "Steering": "power assist",
+          "__seccion_3__": "Differential hydraulic wet disc brakes",
+          "__seccion_4__": "Open operator station. Two-post Roll-Gard ROPS optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 2840 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "28 gal 106.0 L",
+          "Hydraulic system": "12.9 gal 48.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "12.9 gal 48.8 L",
+          "Valves": "2",
+          "Pump flow": "23 gpm 87.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "draft sensing"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic 300mm disc",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "97 inches 246 cm",
+          "Weight": "8700 lbs 3946 kg",
+          "Front tire": "7.50-18",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2840 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "2840 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the 2840 frame, above the front axle."
+        },
+        {
+          "1977": "214909",
+          "1978": "264711",
+          "1979": "304654",
+          "__seccion_1__": "2840 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Batteries": "2",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Tractors 40 to 80 hp published in 1976, by John Deere",
+          "__seccion_3__": "Tractors 40 to 80 hp published in 1977, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 10, 2017",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1977 - 1979",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 2840 Tires",
+          "Ag front": "7.50-18",
+          "Ag rear": "15.5-38",
+          "&nbsp": "16.9-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "97 inches 246 cm",
+          "Length": "160 inches 406 cm",
+          "Width": "90 inches 228 cm",
+          "Height (steering wheel)": "74 inches 187 cm",
+          "Operating weight": "8700 lbs 3946 kg",
+          "Ballasted weight": "10500 lbs 4762 kg",
+          "Clearance (front axle)": "21 inches 53 cm",
+          "__seccion_2__": "Rack-and-pinion rear axle",
+          "Front tread": "69 to 94 inches 175 to 238 cm (wide axle)",
+          "Rear tread": "61 to 90 inches 154 to 228 cm * ROPS or fenders limit minimum tread to 68 inches."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 10, 2017"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1977 - 1979",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1249"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1249",
+          "__seccion_2__": "Diesel 12-speed 2WD June 14 - 30, 1977 Link: Nebraska Tractor Test 1249 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "80.65 hp 60.1 kW",
+          "Fuel use": "5.2 gal/hour 19.7 l/hour",
+          "Power at rated PTO speed": "76.27 hp 56.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "64.86 hp 48.4 kW",
+          "__seccion_5__": "Gear 4H used for power test.",
+          "Max pull": "8,386 lbs 3803 kg",
+          "__seccion_6__": "Gear 2H used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 10, 2017"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1977 - 1979",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "329 ci 5.4 L",
+          "Bore/Stroke": "4.02x4.33 inches 102 x 110 mm",
+          "Air cleaner": "paper elements",
+          "Compression": "17.0:1",
+          "Rated RPM": "2500",
+          "Starter volts": "12",
+          "Coolant capacity": "5 qts 4.7 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 10, 2017"
+        }
+      ]
+    }
+  }
+}

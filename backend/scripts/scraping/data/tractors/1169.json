@@ -1,0 +1,227 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/1/6/1169-caseih-2150.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/1/6/1169-caseih-2150-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/1/6/1169-caseih-2150-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1169,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:34:56.986Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1169/1169-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 1169,
+  "name": "CaseIH 2150",
+  "brand": "Carraro",
+  "model": "2150",
+  "years": {
+    "desde": 1988,
+    "hasta": 1993
+  },
+  "model_year": 1988,
+  "engine_power_hp": 64,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 64,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2140,
+  "weight_basis": "2150V Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 23.5,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 13.6R28",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1298,
+  "tire_front": {
+    "original": "8.25-16",
+    "radial": false,
+    "width_mm": 210,
+    "rim_in": 16,
+    "diameter_mm_est": 763,
+    "tipo": "Diagonal",
+    "texto": "8.25-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1169/1169-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td1169.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1988 - 1993",
+          "__seccion_2__": "2100 Series",
+          "__seccion_3__": "Orchard/Vineyard tractor",
+          "__seccion_4__": "Carraro built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "CaseIH",
+          "Manufacturer": "Carraro",
+          "__seccion_2__": "Orchard/Vineyard tractor",
+          "__seccion_3__": "Original price was $23,400 in 1991"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "2150V": "vineyard",
+          "2150E": "narrow"
+        },
+        {
+          "__seccion_1__": "CaseIH 2150 Engine",
+          "__seccion_2__": "SLH 4.0L 4-cyl diesel",
+          "Fuel tank": "15.85 gal 60.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 2150 Transmissions",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "12-speed partially synchronized",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 2150 Power",
+          "PTO (claimed)": "64 hp 47.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Wet disc brakes",
+          "Trailer brakes": "hydraulic * Optional.",
+          "__seccion_4__": "Two-post forward-folding ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH 2150 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "1 or 2",
+          "Pump flow": "15.6 gpm 59.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I/II",
+          "Control": "position and draft control",
+          "2150V Rear lift (at ends)": "5575 lbs 2528 kg",
+          "2150E Rear lift (at ends)": "5463 lbs 2478 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/750/1000 (1.375)",
+          "Engine RPM": "540@2115",
+          "&nbsp": "1000@2105"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "81.7 inches 207 cm",
+          "Weight": "4718 to 4806 pounds",
+          "Front tire": "8.25-16",
+          "2150V Rear tire": "13.6R28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "2150 Serial Numbers",
+          "Location:": "Serial number plate on the right side of tractor's console."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "55",
+          "Battery volts": "12",
+          "Battery AH": "100"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operators Manual 2120, 2130, 2140, 2150 V and E Tractors (9-13271) published in 1992"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 2, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1988 - 1993",
+          "__seccion_2__": "2100 Series",
+          "__seccion_3__": "Orchard/Vineyard tractor",
+          "__seccion_4__": "Carraro built"
+        },
+        {
+          "__seccion_1__": "CaseIH 2150 Tires",
+          "2150V Standard tires (ag)": "Front: 8.25-16. Rear: 13.6R28",
+          "2150E Standard tires (ag)": "Front: 10.5-15. Rear: 14.9R28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "81.7 inches 207 cm",
+          "2150V Length": "137.4 inches 348 cm",
+          "2150E Length": "138 inches 350 cm",
+          "2150V Width": "47.8 inches 121 cm",
+          "2150E Width": "53.7 inches 136 cm",
+          "Height (hood)": "51.3 inches 130 cm",
+          "Height (ROPS)": "97.8 inches 248 cm",
+          "2150V Weight": "4718 lbs 2140 kg",
+          "2150E Weight": "4806 lbs 2180 kg",
+          "Ground clearance": "9.9 inches 25 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 2, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1988 - 1993",
+          "__seccion_2__": "2100 Series",
+          "__seccion_3__": "Orchard/Vineyard tractor",
+          "__seccion_4__": "Carraro built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "SLH 1000.4.A",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "air-cooled",
+          "Displacement": "244.1 ci 4.0 L",
+          "Bore/Stroke": "4.134x4.547 inches 105 x 115 mm",
+          "Air cleaner": "dual dry element",
+          "Compression": "17:1",
+          "Rated RPM": "2350",
+          "Torque": "200 lb-ft 271.2 Nm",
+          "Torque RPM": "1200",
+          "Firing order": "1-3-4-2",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "9.7 qts 9.2 L",
+          "Intake valve clearance": "0.008 inches * Cold. 0.203 mm",
+          "Exhaust valve clearance": "0.008 inches * Cold. 0.203 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 2, 2020"
+        }
+      ]
+    }
+  }
+}

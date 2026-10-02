@@ -1,0 +1,249 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/7/174-john-deere-2210.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/7/174-john-deere-2210-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/7/174-john-deere-2210-engine.html",
+    "source_id": 174,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:51:44.010Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/174/174-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 36 KB"
+  },
+  "tractor_data_id": 174,
+  "name": "John Deere 2210",
+  "brand": "John Deere",
+  "model": "2210",
+  "years": {
+    "desde": 2003,
+    "hasta": 2006
+  },
+  "model_year": 2003,
+  "engine_power_hp": 23,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 17.7,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 254,
+  "weight_basis": "Max Drawbar",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 6.5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 26x12.00-12",
+  "tire_width_mm": 305,
+  "tire_diameter_mm": 660,
+  "tire_front": {
+    "original": "18x8.50-10",
+    "radial": false,
+    "width_mm": 216,
+    "rim_in": 10,
+    "diameter_mm_est": 457,
+    "tipo": "Diagonal",
+    "texto": "18x8.50-10"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/174/174-td3a.jpg",
+  "image_url": "/uploads/tractors/td174.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2003 - 2006",
+          "__seccion_2__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Sub-Compact Utility tractor",
+          "__seccion_3__": "Built in Augusta, Georgia, USA"
+        },
+        {
+          "__seccion_1__": "John Deere 2210 Engine",
+          "__seccion_2__": "Yanmar 1.0L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2210 Transmission",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2210 Power",
+          "Engine (gross)": "23 hp 17.2 kW",
+          "Engine (net)": "22.5 hp 16.8 kW",
+          "PTO (claimed)": "17.7 hp 13.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "spur gear",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Two-post fixed ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 2210 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "5 gal 18.9 L",
+          "Hydraulic system": "3.4 gal 12.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "3.4 gal 12.9 L",
+          "Pressure": "1987 psi 137.0 bar",
+          "Mid valves": "2",
+          "Pump flow": "3 gpm 11.4 lpm",
+          "Total flow": "5.5 gpm 20.8 lpm",
+          "Steering flow": "2.5 gpm 9.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I * Limited",
+          "Rear lift (at 24\"/610mm)": "700 lbs 317 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc * Mid PTO shared clutch with rear PTO.",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "2100@2600",
+          "Mid PTO": "independent"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "57 inches 144 cm",
+          "Weight": "1400 lbs 635 kg",
+          "Front tire": "18x8.50-10",
+          "Rear tire": "26x12.00-12",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2210 attachments",
+          "__seccion_2__": "54\" mid-mount mower deck",
+          "__seccion_3__": "62\" mid-mount mower deck",
+          "__seccion_4__": "snowblower",
+          "__seccion_5__": "blade",
+          "__seccion_6__": "front-end loader",
+          "__seccion_7__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "2210 Serial Number Location",
+          "__seccion_2__": "Right side of main tractor frame, above the front axle."
+        },
+        {
+          "2003": "2100001",
+          "2004": "3100001",
+          "2005": "4310001",
+          "__seccion_1__": "2210 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "20",
+          "Battery CCA": "435",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Commercial & Consumer Equipment Purchase Guide published in 2005, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 11, 2024",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2003 - 2006",
+          "__seccion_2__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 2210 Tires",
+          "Ag front": "18x8.50-10",
+          "Ag rear": "26x12.00-12",
+          "Lawn/turf front": "18x8.50-10",
+          "Lawn/turf rear": "26x12.00-12",
+          "Industrial front": "18x8.50-10",
+          "Industrial rear": "26x12.00-12"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "57 inches 144 cm",
+          "Length": "104 inches 264 cm",
+          "Width": "47.9 inches 121 cm",
+          "Height (hood)": "41.8 inches 106 cm",
+          "Height (ROPS)": "78.6 inches 199 cm",
+          "Clearance (front axle)": "7.7 inches 19 cm",
+          "Front tread": "31.1 inches 78 cm",
+          "Rear tread": "35.3 inches 89 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 2210 Weight",
+          "__seccion_2__": "1400 lbs 635 kg",
+          "Max Drawbar": "562 lbs 254 kg",
+          "Max front axle": "750 lbs 340 kg",
+          "Max rear axle": "2426 lbs 1100 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 11, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2003 - 2006",
+          "__seccion_2__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Yanmar 3TNE74",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "61.4 ci 1.0 L",
+          "Bore/Stroke": "2.91x3.07 inches 74 x 78 mm",
+          "Power (net)": "22.5 hp 16.8 kW",
+          "Power (gross)": "23 hp 17.2 kW",
+          "Fuel system": "indirect injection",
+          "Air cleaner": "dry",
+          "Pre-heating": "coolant heater Opt Optional",
+          "Compression": "23.5:1",
+          "Rated RPM": "3000",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Starter power": "1.5 hp 1.1 kW",
+          "Oil capacity": "2.1 qts 2.0 L",
+          "Coolant capacity": "3.1 qts 2.9 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 11, 2024"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/174/174-td4-b01.jpg"
+}

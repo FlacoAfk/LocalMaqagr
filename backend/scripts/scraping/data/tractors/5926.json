@@ -1,0 +1,259 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/9/2/5926-ford-1320.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/9/2/5926-ford-1320-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/9/2/5926-ford-1320-engine.html",
+    "source_id": 5926,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:13:46.685Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5926/5926-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 115 KB"
+  },
+  "tractor_data_id": 5926,
+  "name": "Ford 1320",
+  "brand": "Shibaura",
+  "model": "1320",
+  "years": {
+    "desde": 1987,
+    "hasta": 1995
+  },
+  "model_year": 1987,
+  "engine_power_hp": 20,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 17,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1011,
+  "weight_basis": "4WD Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 6.2,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-16",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 942,
+  "tire_front": {
+    "original": "6-12",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 12,
+    "diameter_mm_est": 564,
+    "tipo": "Diagonal",
+    "texto": "6-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F005/5926/5926-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5926/5926-photo-001.jpg",
+  "image_url": "/uploads/tractors/td5926.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1987 - 1995",
+          "__seccion_2__": "Twenty Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Ford",
+          "Manufacturer": "Shibaura",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan",
+          "__seccion_4__": "Original price was $12,200 in 1998"
+        },
+        {
+          "__seccion_1__": "Ford 1320 Engine",
+          "__seccion_2__": "Shibaura 1.3L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 1320 Transmissions",
+          "__seccion_2__": "9-speed gear",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 1320 Power",
+          "Engine (gross)": "20 hp 14.9 kW",
+          "Engine (net)": "19 hp 14.2 kW",
+          "Gear PTO (claimed)": "17 hp 12.7 kW",
+          "Hydro PTO (claimed)": "16 hp 11.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 1320 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "7.1 gal 26.9 L",
+          "Hydraulic system": "6.9 gal 26.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "6.9 gal 26.1 L",
+          "Pump flow": "6.4 gpm 24.2 lpm",
+          "Total flow": "9.2 gpm 34.8 lpm",
+          "Steering flow": "2.8 gpm 10.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "draft control Opt Optional",
+          "Rear lift (at 24\"/610mm)": "1742 lbs 790 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "&nbsp": "live Opt Optional",
+          "Rear PTO Type": "540",
+          "Mid PTO": "optional",
+          "Mid PTO Type": "2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "63 inches 160 cm",
+          "Weight": "2101 to 2229 pounds",
+          "Front tire": "6.50-10",
+          "2WD Rear tire": "12.4-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 1320 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "snowblower",
+          "__seccion_4__": "blade",
+          "__seccion_5__": "front-end loader",
+          "__seccion_6__": "backhoe",
+          "__seccion_7__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "1320 Serial Number Location",
+          "__seccion_2__": "On tractor transmission housing, left side."
+        },
+        {
+          "1987": "UE21001",
+          "1988": "UE22001",
+          "1989": "UE23391",
+          "1990": "UE24517",
+          "1991": "UE25495",
+          "1992": "UE26189",
+          "1993": "UE26960",
+          "1994": "UE24771",
+          "1995": "UE28084",
+          "1996": "UE28490",
+          "1997": "UE28925",
+          "1998": "UE29318",
+          "__seccion_1__": "1320 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Ford Shop Manual by Peter Letourneau",
+          "__seccion_3__": "Mid-Mount Finishing Mower published in 1988, by Ford",
+          "__seccion_4__": "12.5 to 34.5 PTO hp Compact Diesels published in 1987, by Ford",
+          "__seccion_5__": "12.5 to 34.5 PTO hp Compact Diesel Tractors published in 1988, by Ford",
+          "__seccion_6__": "12.5 to 34.5 PTO hp Compact Diesel Tractors published in 1993, by Ford",
+          "__seccion_7__": "Compact Diesel Tractors published in 1994, by Ford",
+          "__seccion_8__": "Compact Diesel Tractors published in 1995, by Ford",
+          "__seccion_9__": "Tractor Buyer's Guide published in 1989, by Ford"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on January 28, 2026",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1987 - 1995",
+          "__seccion_2__": "Twenty Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Ford 1320 Tires",
+          "2WD Standard tires (ag)": "Front: 6.50-10. Rear: 12.4-16",
+          "4WD Standard tires (ag)": "Front: 6-12. Rear: 12.4-16",
+          "Lawn/turf front": "23x8.50-12",
+          "&nbsp": "25x8.50-14",
+          "Lawn/turf rear": "13.6x16"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "63 inches 160 cm",
+          "Length": "112.4 inches 285 cm",
+          "Width": "58.7 inches 149 cm",
+          "Height (ROPS)": "82.3 inches 209 cm",
+          "2WD Shipping weight": "2101 lbs 953 kg",
+          "4WD Shipping weight": "2229 lbs 1011 kg",
+          "Ground clearance": "9.8 inches 24 cm",
+          "2WD Front tread": "39.3 to 53 inches 99 to 134 cm",
+          "4WD Front tread": "46.1 inches 117 cm",
+          "2WD Rear tread": "39.3 to 53 inches 99 to 134 cm",
+          "4WD Rear tread": "44.1 to 46.3 inches 112 to 117 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 28, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1987 - 1995",
+          "__seccion_2__": "Twenty Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibaura J823",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "77.3 ci 1.3 L",
+          "Bore/Stroke": "3.22x3.15 inches 82 x 80 mm",
+          "Power (net)": "19 hp 14.2 kW",
+          "Power (gross)": "20 hp 14.9 kW",
+          "Rated RPM": "2500",
+          "Firing order": "1-2-3",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 28, 2026"
+        }
+      ]
+    }
+  }
+}

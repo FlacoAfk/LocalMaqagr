@@ -1,0 +1,328 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/5/257-ford-2600.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/5/257-ford-2600-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/2/5/257-ford-2600-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/5/257-ford-2600-engine.html",
+    "source_id": 257,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:10:20.264Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/257/257-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 98 KB"
+  },
+  "tractor_data_id": 257,
+  "name": "Ford 2600",
+  "brand": "Ford",
+  "model": "2600",
+  "years": {
+    "desde": 1975,
+    "hasta": 1981
+  },
+  "model_year": 1975,
+  "engine_power_hp": 36.5,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 32,
+  "pto_tested_hp": 34.18,
+  "drawbar_tested_hp": 28.76,
+  "weight_kg": 1640,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 19.8,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 12.4-28",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1247,
+  "tire_front": {
+    "original": "5.50-16",
+    "radial": false,
+    "width_mm": 140,
+    "rim_in": 16,
+    "diameter_mm_est": 644,
+    "tipo": "Diagonal",
+    "texto": "5.50-16"
+  },
+  "fuel_consumption_lph": 11.4,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/257/257-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/257/257-photo-001.jpg",
+  "image_url": "/uploads/tractors/td257.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Original price was $6,436 in 1981"
+        },
+        {
+          "__seccion_1__": "Ford 2600 Engines",
+          "__seccion_2__": "Ford 2.6L 3-cyl diesel",
+          "__seccion_3__": "Ford 2.6L 3-cyl gasoline",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 2600 Transmissions",
+          "__seccion_2__": "6-speed gear",
+          "__seccion_3__": "8-speed",
+          "__seccion_4__": "6-speed mechanical shuttle",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 2600 Power",
+          "Engine (gross)": "36.5 hp 27.2 kW",
+          "Engine (net)": "34.3 hp 25.6 kW",
+          "PTO (claimed)": "32 hp 23.9 kW",
+          "Drawbar (tested)": "28.76 hp 21.4 kW",
+          "PTO (tested)": "34.18 hp 25.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Differential lock": "mechanical rear Opt Optional",
+          "Steering": "power Opt Optional",
+          "__seccion_3__": "Differential mechanical expanding shoe brakes",
+          "__seccion_4__": "Open operator station. Two-post ROPS optional with available canopy. Cab available with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 2600 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "13 gal 49.2 L",
+          "Hydraulic system": "6.15 gal 23.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Capacity": "6.15 gal 23.3 L",
+          "Pressure": "2100 psi 144.8 bar",
+          "Pump flow": "8.5 gpm 32.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "top-link draft sensing",
+          "Rear lift": "1975 lbs 895 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "&nbsp": "live * Optional with 8-speed Dual-Range transmission.",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "75.8 inches 192 cm",
+          "Weight": "3617 lbs 1640 kg",
+          "Front tire": "5.50-16",
+          "Rear tire": "12.4-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 2600 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1975": "C450700",
+          "1976": "C490300",
+          "1977": "C527300",
+          "1978": "C560500",
+          "1979": "C595800",
+          "1980": "C635700",
+          "1981": "C660700",
+          "1982": "C682000",
+          "__seccion_1__": "2600 Serial Numbers",
+          "Location:": "Right side of tractor behind starter.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "32",
+          "&nbsp": "51 Opt Optional",
+          "Battery volts": "12",
+          "Gas Battery AH": "77",
+          "Diesel Battery AH": "128"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "2600 - 3600 published in 1975, by Ford",
+          "__seccion_3__": "2600 - 3600 published in 1977, by Ford",
+          "__seccion_4__": "2600 - 3600 published in 1977, by Ford",
+          "__seccion_5__": "2600 - 3600 published in 1980, by Ford",
+          "__seccion_6__": "2600 - 4100 - 3600 - 4600 published by Ford",
+          "__seccion_7__": "Ford now offer tractors from 37 to 295 horsepower published in 1979 *",
+          "__seccion_8__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 28, 2025",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Ford 2600 Tires",
+          "Ag front": "5.50-16",
+          "Ag rear": "12.4-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "75.8 inches 192 cm",
+          "Length": "126.5 inches 321 cm",
+          "Width": "52 inches 132 cm",
+          "Height (hood)": "52.5 inches 133 cm",
+          "Height (cab)": "98 inches 248 cm",
+          "Shipping weight": "3617 lbs 1640 kg",
+          "Clearance (front axle)": "21.5 inches 54 cm",
+          "Clearance (rear axle)": "12.6 inches 32 cm",
+          "Front tread": "52 to 80 inches 132 to 203 cm",
+          "Rear tread": "52 to 80 inches 132 to 203 cm * Power-adjust wheels"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 28, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 1207: gasoline 8-speed 2WD",
+          "__seccion_3__": "NTTL 1222: diesel 8-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1207"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1207",
+          "__seccion_2__": "Gasoline 8-speed 2WD March 25 - April 23, 1976 Link: Nebraska Tractor Test 1207 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "34.18 hp 25.5 kW",
+          "Fuel use": "3.0 gal/hour 11.4 l/hour",
+          "Power at rated PTO speed": "32.07 hp 23.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "28.76 hp 21.4 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "4,455 lbs 2020 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1222"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1222",
+          "__seccion_2__": "Diesel 8-speed 2WD September 20 - 28, 1976 Link: Nebraska Tractor Test 1222 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "32.47 hp 24.2 kW",
+          "Fuel use": "2.3 gal/hour 8.7 l/hour",
+          "Power at rated PTO speed": "30.76 hp 22.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "27.51 hp 20.5 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "4,452 lbs 2019 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 28, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Ford 2.6L 3-cyl diesel",
+          "__seccion_3__": "Ford 2.6L 3-cyl gasoline"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "158 ci 2.6 L",
+          "Bore/Stroke": "4.20x3.80 inches 107 x 97 mm",
+          "Power (net)": "34.3 hp 25.6 kW",
+          "Power (gross)": "36.5 hp 27.2 kW",
+          "Air cleaner": "oil bath",
+          "Pre-heating": "ether injection Opt Optional",
+          "&nbsp": "coolant heater Opt Optional",
+          "Compression": "17.3:1",
+          "Rated RPM": "2000",
+          "Torque": "101 lb-ft 137.0 Nm",
+          "Torque RPM": "1400",
+          "Firing order": "1-2-3",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "7 qts 6.6 L",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "Ford 2600 Engine"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "158 ci 2.6 L",
+          "Bore/Stroke": "4.20x3.80 inches 107 x 97 mm",
+          "Power (net)": "33 hp 24.6 kW",
+          "Power (gross)": "35.5 hp 26.5 kW",
+          "Air cleaner": "dry",
+          "Compression": "7.75:1",
+          "Rated RPM": "2000",
+          "Torque": "100.5 lb-ft 136.3 Nm",
+          "Torque RPM": "1350",
+          "Firing order": "1-2-3",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "7 qts 6.6 L",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 28, 2025"
+        }
+      ]
+    }
+  }
+}

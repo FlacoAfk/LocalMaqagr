@@ -1,0 +1,248 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/7/5/6750-new-holland-t8330.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/7/5/6750-new-holland-t8330-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/006/7/5/6750-new-holland-t8330-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/7/5/6750-new-holland-t8330-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 6750,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:32:42.969Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6750/6750-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 39 KB"
+  },
+  "tractor_data_id": 6750,
+  "name": "New Holland T8.330",
+  "brand": "New Holland (a part of CNH)",
+  "model": "holland t8330",
+  "years": {
+    "desde": 2011,
+    "hasta": 2014
+  },
+  "model_year": 2011,
+  "engine_power_hp": 284,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 240,
+  "pto_tested_hp": 300.9,
+  "drawbar_tested_hp": 213.64,
+  "weight_kg": 11104,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 104.6,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 56.8,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F006/6750/6750-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6750/6750-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td6750.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2011 - 2014",
+          "__seccion_2__": "Model year 2011-2012 2013-2014",
+          "__seccion_3__": "T8 Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland (a part of CNH)",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "Magnum 290": "similar CaseIH model"
+        },
+        {
+          "__seccion_1__": "New Holland T8.330 Engine",
+          "__seccion_2__": "FPT 8.7L 6-cyl diesel",
+          "Fuel tank": "168 gal 635.9 L",
+          "Exhaust fluid (DEF)": "24 gal 90.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland T8.330 Transmissions",
+          "__seccion_2__": "19-speed full power shift",
+          "__seccion_3__": "18-speed full power shift",
+          "__seccion_4__": "23-speed creeper",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland T8.330 Power",
+          "Engine (gross)": "284 hp 211.8 kW",
+          "Engine (max)": "313 hp 233.4 kW",
+          "PTO (claimed)": "240 hp 179.0 kW",
+          "Drawbar (tested)": "213.64 hp 159.3 kW",
+          "PTO (tested)": "300.90 hp 224.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland T8.330 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing",
+          "Rear valves": "4 to 6",
+          "Pump flow": "35 gpm 132.5 lpm",
+          "Total flow": "42.5 gpm 160.9 lpm",
+          "&nbsp": "72.3 gpm (MegaFlow) 273.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/IIIN",
+          "Rear lift": "15183 lbs 6887 kg",
+          "&nbsp": "17931 lbs Opt Optional 8133 kg",
+          "Front Hitch": "optional"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (1.75)",
+          "&nbsp": "1000@1804",
+          "Engine RPM": "540@1804",
+          "Front PTO": "independent Opt Optional",
+          "Front PTO Type": "1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "135.8 inches 344 cm",
+          "Weight": "24480 to 25280 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "200",
+          "Charging volts": "12",
+          "Batteries": "2",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "T8 Series Tractors published in 2011, by New Holland",
+          "__seccion_3__": "T8 published in 2013, by New Holland"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 23, 2024",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2011 - 2014",
+          "__seccion_2__": "Model year 2011-2012 2013-2014",
+          "__seccion_3__": "T8 Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "New Holland T8.330 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "135.8 inches 344 cm",
+          "Rear axle": "4.5 by 120 inches 114 by 3048 mm (optional)",
+          "Rear tread": "60 to 88 inches 152 to 223 cm"
+        },
+        {
+          "__seccion_1__": "New Holland T8.330 Weight",
+          "Shipping": "24,480 lbs 11104 kg",
+          "&nbsp": "25,280 lbs (TerraGlide) 11467 kg",
+          "Max capacity": "33,350 lbs 15127 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 23, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2011 - 2014",
+          "__seccion_2__": "Model year 2011-2012 2013-2014",
+          "__seccion_3__": "T8 Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2019A"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2019A",
+          "__seccion_2__": "Diesel 18-speed 4WD April 9 - 18, 2012 Link: OCED Tractor Test 2019A file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "213.64 hp 159.3 kW",
+          "Fuel use": "13.3 gal/hour 50.3 l/hour",
+          "Power at rated engine speed": "248.43 hp 185.3 kW",
+          "Power at rated PTO speed": "300.90 hp 224.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 8 used for power test.",
+          "Max pull": "23521 lbs 10669 kg",
+          "__seccion_6__": "Gear 5 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 23, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2011 - 2014",
+          "__seccion_2__": "Model year 2011-2012 2013-2014",
+          "__seccion_3__": "T8 Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "531 ci 8.7 L",
+          "Bore/Stroke": "4.606x5.315 inches 117 x 135 mm",
+          "Emissions": "Interim Tier 4",
+          "Emission control": "selective catalytic reduction (SCR)",
+          "Rated Power (gross)": "284 hp 211.8 kW",
+          "Maximum Power (gross)": "313 hp 233.4 kW",
+          "&nbsp": "328 hp (EPM boost) 244.6 kW",
+          "Rated RPM": "2000",
+          "Starter type": "electric"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 23, 2024"
+        }
+      ]
+    }
+  }
+}

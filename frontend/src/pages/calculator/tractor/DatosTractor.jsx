@@ -844,10 +844,13 @@ export default function DatosTractor() {
       ['Potencia neta del motor (P_N)', chainValue('pNHp', 'p_n_hp')],
       ['Pérdida por altitud (P_ALT)', chainValue('pAltHp', 'p_alt_hp')],
       ['Pérdida por temperatura (P_TEMP)', chainValue('pTempHp', 'p_temp_hp')],
+      ['Pérdida por patinamiento (P_PAT)', chainValue('pPatHp', 'p_pat_hp')],
       ['Pérdida por rodadura y pendiente (P_ROD)', chainValue('pRodHp', 'p_rod_hp')],
       ['Potencia en el eje (P_EJE)', chainValue('pEjeHp', 'p_eje_hp')],
       ['Eficiencia de tracción (ET)', chainValue('et', 'et')],
       ['Potencia disponible en barra (P_BDT)', netPowerHp],
+      ['P_EJE por la ruta TDP (0,96 · TDP)', chainValue('pEjeTdpHp', 'p_eje_tdp_hp')],
+      ['P_BDT por la ruta TDP (0,96·TDP − P_ROD)', chainValue('pBdtTdpHp', 'p_bdt_tdp_hp')],
     ];
     const hasPowerChain = chainValue('pNHp', 'p_n_hp') !== undefined;
 

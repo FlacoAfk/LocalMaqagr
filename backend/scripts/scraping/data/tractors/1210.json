@@ -1,0 +1,232 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/2/1/1210-caseih-9180.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/2/1/1210-caseih-9180-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/2/1/1210-caseih-9180-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1210,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:37:09.413Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1210/1210-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 1210,
+  "name": "CaseIH 9180",
+  "brand": "CaseIH",
+  "model": "9180",
+  "years": {
+    "desde": 1986,
+    "hasta": 1990
+  },
+  "model_year": 1986,
+  "engine_power_hp": 375,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 344,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 13154,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 126.2,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 30.5-32",
+  "tire_width_mm": 775,
+  "tire_diameter_mm": 2130,
+  "tire_front": {
+    "original": "30.5-32",
+    "radial": false,
+    "width_mm": 775,
+    "rim_in": 32,
+    "diameter_mm_est": 2130,
+    "tipo": "Diagonal",
+    "texto": "30.5-32"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1210/1210-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td1210.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1986 - 1990",
+          "__seccion_2__": "9100 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Fargo, North Dakota, USA",
+          "__seccion_4__": "Original price was $128,000 in 1990"
+        },
+        {
+          "__seccion_1__": "CaseIH 9180 Engines",
+          "__seccion_2__": "Cummins 14.0L 6-cyl diesel",
+          "__seccion_3__": "Caterpillar 14.6L 6-cyl diesel",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 9180 Transmission",
+          "__seccion_2__": "12-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 9180 Power",
+          "Engine (gross)": "375 hp 279.6 kW",
+          "PTO (claimed)": "344 hp 256.5 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "outboard planetary",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic disc brakes",
+          "__seccion_4__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH 9180 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "250 gal 946.2 L",
+          "Hydraulic system": "26 gal 98.4 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "26 gal 98.4 L",
+          "Pressure": "2500 psi 172.4 bar",
+          "Valves": "3 to 4",
+          "SCV flow": "27 gpm 102.2 lpm",
+          "Total flow": "40 gpm 151.4 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IV Opt Optional",
+          "Rear lift": "14000 lbs 6350 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent Opt Optional",
+          "Rear PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "141.5 inches 359 cm",
+          "Weight": "29000 lbs 13154 kg",
+          "Front tire": "24.5-32",
+          "Rear tire": "24.5-32",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "90",
+          "Batteries": "3",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "4-Wheel Drive Tractors published in 1987, by CaseIH",
+          "__seccion_3__": "Model 9180 Tractor published in 1987, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on December 8, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1986 - 1990",
+          "__seccion_2__": "9100 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH 9180 Tires",
+          "Ag front": "30.5-32",
+          "Ag rear": "30.5-32"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "141.5 inches 359 cm",
+          "Length": "281 inches 713 cm",
+          "Width": "96 inches (fenders) 243 cm",
+          "Height (cab)": "139.5 inches 354 cm",
+          "Height (exhaust)": "149.6 inches 379 cm",
+          "Shipping weight": "29000 lbs 13154 kg",
+          "Max weight": "40000 lbs 18144 kg",
+          "Ground clearance": "19.5 inches 49 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 8, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1986 - 1990",
+          "__seccion_2__": "9100 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Cummins 14.0L 6-cyl diesel",
+          "__seccion_3__": "Caterpillar 14.6L 6-cyl diesel"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Cummins NTA-855",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "855 ci 14.0 L",
+          "Bore/Stroke": "5.50x6.00 inches 140 x 152 mm",
+          "Power (gross)": "375 hp 279.6 kW",
+          "Rated RPM": "2100",
+          "Torque": "1266 lb-ft 1716.7 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12",
+          "Oil capacity": "41 qts 38.8 L",
+          "Coolant capacity": "66 qts 62.5 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Caterpillar 3406 DITA",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "893 ci 14.6 L",
+          "Bore/Stroke": "5.40x6.50 inches 137 x 165 mm",
+          "Power (gross)": "375 hp 279.6 kW",
+          "Rated RPM": "2100",
+          "Torque": "1266 lb-ft 1716.7 Nm",
+          "Torque RPM": "1400"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 8, 2025"
+        }
+      ]
+    }
+  }
+}

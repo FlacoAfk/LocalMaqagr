@@ -1,0 +1,256 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/1/6/1163-caseih-1494.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/1/6/1163-caseih-1494-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/1/6/1163-caseih-1494-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1163,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:34:37.537Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1163/1163-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 50 KB"
+  },
+  "tractor_data_id": 1163,
+  "name": "CaseIH 1494",
+  "brand": "CaseIH",
+  "model": "1494",
+  "years": {
+    "desde": 1983,
+    "hasta": 1988
+  },
+  "model_year": 1983,
+  "engine_power_hp": 85,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 75,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4536,
+  "weight_basis": "4WD Max front axle",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 27.5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4-34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "13.6-24",
+    "radial": false,
+    "width_mm": 345,
+    "rim_in": 24,
+    "diameter_mm_est": 1197,
+    "tipo": "Diagonal",
+    "texto": "13.6-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1163/1163-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1163/1163-photo-001.jpg",
+  "image_url": "/uploads/tractors/td1163.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1983 - 1988",
+          "__seccion_2__": "94 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Original price was $24,100 in 1988"
+        },
+        {
+          "__seccion_1__": "CaseIH 1494 Engine",
+          "__seccion_2__": "Case 3.6L 4-cyl diesel",
+          "ROPS Fuel tank": "24 gal 90.8 L",
+          "Cab Fuel tank": "36 gal 136.3 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 1494 Transmissions",
+          "__seccion_2__": "12-speed partially synchronized",
+          "__seccion_3__": "12-speed four-speed power shift",
+          "__seccion_4__": "15-speed creeper",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 1494 Power",
+          "Engine (gross)": "85 hp 63.4 kW",
+          "Engine (net)": "84 hp 62.6 kW",
+          "PTO (claimed)": "75 hp 55.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "bull gear",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH 1494 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2475 psi 170.7 bar",
+          "Valves": "1 to 3",
+          "Pump flow": "15.3 gpm 57.9 lpm",
+          "SCV flow": "6.6 gpm (split flow) 25.0 lpm",
+          "&nbsp": "15.3 gpm (tandem flow) 57.9 lpm",
+          "Steering flow": "7.7 gpm 29.1 lpm",
+          "Steering press.": "1885 psi 130.0 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "top-link draft sensing",
+          "Rear lift (at ends)": "3600 lbs 1632 kg",
+          "Rear lift (at 24\"/610mm)": "3210 lbs 1456 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@2050",
+          "&nbsp": "1000@2050"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "88.5 inches 224 cm",
+          "Weight": "7380 to 8180 pounds",
+          "Front tire": "11L-15",
+          "4WD Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1985": "11517001",
+          "1986": "11519378",
+          "1987": "11520410",
+          "1988": "11521062",
+          "__seccion_1__": "1494 Serial Numbers",
+          "Location:": "Right side of main frame",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "45",
+          "&nbsp": "128 (heavy duty)",
+          "Battery CCA": "420",
+          "Battery volts": "12",
+          "Battery AH": "96"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "1394-1494 published by CaseIH",
+          "__seccion_3__": "Model 1494 General Purpose Tractor published by CaseIH",
+          "__seccion_4__": "1985 Farm Equipment Buyer's Guide published by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on February 8, 2026"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1983 - 1988",
+          "__seccion_2__": "94 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH 1494 Tires",
+          "4WD Standard tires (ag)": "Front: 13.6-24. Rear: 18.4-34",
+          "4WD Optional tires (ag)": "Front: 12.4-24. Rear: 13.6-38",
+          "Ag front": "10.00-16",
+          "Ag rear": "18.4-30",
+          "&nbsp": "13.6-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "88.5 inches 224 cm",
+          "Length": "147.5 inches 374 cm",
+          "Width": "75 inches 190 cm",
+          "4WD Ground clearance": "14 inches 35 cm",
+          "2WD Ground clearance": "16.5 inches 41 cm",
+          "2WD Front tread": "56 to 80 inches 142 to 203 cm",
+          "4WD Front tread": "60 to 76 inches 152 to 193 cm",
+          "Rear tread": "56 to 80 inches 142 to 203 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH 1494 Weight",
+          "__seccion_2__": "7380 lbs (2WD synchro) 3347 kg",
+          "&nbsp": "8180 lbs (4WD Hydra-Shift) 3710 kg",
+          "Max capacity": "11500 lbs 5216 kg",
+          "Max Drawbar": "3000 lbs 1360 kg",
+          "2WD Max front axle": "7000 lbs 3175 kg",
+          "4WD Max front axle": "10000 lbs 4536 kg",
+          "Max rear axle": "10500 lbs 4762 kg"
+        },
+        {
+          "__seccion_1__": "CaseIH 1494 Height",
+          "Steering wheel": "72 inches 182 cm",
+          "Hood": "63 inches 160 cm",
+          "ROPS": "105 inches 266 cm",
+          "Cab": "106 inches 269 cm",
+          "Exhaust": "104.5 inches 265 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 8, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1983 - 1988",
+          "__seccion_2__": "94 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Case",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "219 ci 3.6 L",
+          "Bore/Stroke": "3.937x4.50 inches 100 x 114 mm",
+          "Power (net)": "84 hp 62.6 kW",
+          "Power (gross)": "85 hp 63.4 kW",
+          "Fuel system": "direct injection",
+          "Pre-heating": "thermostart",
+          "Compression": "16:1",
+          "Rated RPM": "2200",
+          "Torque": "222 lb-ft 301.0 Nm",
+          "Torque RPM": "1600",
+          "Starter volts": "12",
+          "Oil capacity": "7.8 qts 7.4 L",
+          "Coolant capacity": "15 qts 14.2 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 8, 2026"
+        }
+      ]
+    }
+  }
+}

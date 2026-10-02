@@ -1,0 +1,277 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/6/4/643-new-holland-8360.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/6/4/643-new-holland-8360-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/6/4/643-new-holland-8360-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/6/4/643-new-holland-8360-engine.html",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1113/",
+    "source_id": 643,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:21:22.085Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/643/643-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 109 KB",
+    "nebraska_test": 251
+  },
+  "tractor_data_id": 643,
+  "name": "New Holland 8360",
+  "brand": "New Holland",
+  "model": "8360",
+  "years": {
+    "desde": 1996,
+    "hasta": 1999
+  },
+  "model_year": 1996,
+  "engine_power_hp": 115,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 115,
+  "pto_tested_hp": 119,
+  "drawbar_tested_hp": 100,
+  "weight_kg": 5368,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 43.7,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 18.4R38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "11.00-16",
+    "radial": false,
+    "width_mm": 279,
+    "rim_in": 16,
+    "diameter_mm_est": 881,
+    "tipo": "Diagonal",
+    "texto": "11.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/643/643-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/643/643-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td643.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1996 - 1999",
+          "__seccion_2__": "60 Gemini Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in England",
+          "Original price": "$56,000 (1999)"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "M135": "similar Fiat model"
+        },
+        {
+          "__seccion_1__": "New Holland 8360 Engine",
+          "__seccion_2__": "New Holland 7.5L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland 8360 Transmissions",
+          "__seccion_2__": "23-speed partially synchronized",
+          "__seccion_3__": "17-speed partial power shift",
+          "__seccion_4__": "18-speed partial power shift",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland 8360 Power",
+          "PTO (claimed)": "115 hp 85.8 kW",
+          "Drawbar (tested)": "100 hp 74.6 kW",
+          "PTO (tested)": "119 hp 88.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "Rear or front and rear (4WD) with push-button operation. Manual and automatic modes. (2WD)",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Differential hydraulic wet disc brakes",
+          "__seccion_4__": "Two-post ROPS. Optional cab."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland 8360 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "85 gal 321.7 L",
+          "Hydraulic system": "23.7 gal (18-speed) 89.7 L",
+          "&nbsp": "19.2 gal (23-speed) 72.7 L",
+          "Front hubs": "2.3 qts (each) 2.2 L",
+          "Front diff.": "3.7 qts 3.5 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing",
+          "Capacity": "23.7 gal (18-speed) 89.7 L",
+          "&nbsp": "19.2 gal (23-speed) 72.7 L",
+          "Pressure": "2755 psi 190.0 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "26 gpm 98.4 lpm",
+          "Steering flow": "16.4 gpm 62.1 lpm",
+          "Steering press.": "2465 psi 170.0 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/III",
+          "Rear lift (at 24\"/610mm)": "12,000 lbs 5443 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "108.3 inches (2WD) 275 cm",
+          "&nbsp": "107.2 inches (4WD) 272 cm",
+          "Weight": "11836 to 13046 pounds",
+          "Front tire": "11.00-16",
+          "Rear tire": "18.4R38 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "70",
+          "&nbsp": "100 (with cab)",
+          "Batteries": "2",
+          "Battery CCA": "900",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "60 Series Gemini 90 to 130 PTO hp Tractors published in 1996, by New Holland",
+          "__seccion_3__": "Operator's Manual Tractors 8160, 8260, 8360 and 8560 (42816040) published in 1995",
+          "__seccion_4__": "North American Buyer's Guide published in 1997, by New Holland"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 18, 2022",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1996 - 1999",
+          "__seccion_2__": "60 Gemini Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "New Holland 8360 Tires",
+          "Standard tires (ag)": "Front: 11.00-16. Rear: 18.4R38 (2WD)",
+          "&nbsp": "Front: 14.9R28. Rear: 18.4R38 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "108.3 inches (2WD) 275 cm",
+          "&nbsp": "20 inches (4WD) 50 cm",
+          "Length": "180 inches (2WD) 457 cm",
+          "Width": "84 inches (min) 213 cm",
+          "Clearance (front axle)": "23.1 inches (2WD) 58 cm",
+          "Clearance (drawbar)": "15 inches 38 cm",
+          "Front tread": "60.0 to 88.0 inches 152 to 223 cm (4WD)",
+          "Rear tread": "60.2 to 120 inches 152 to 304 cm (duals)"
+        },
+        {
+          "__seccion_1__": "New Holland 8360 Weight",
+          "Shipping": "11,836 lbs (2WD cab) 5368 kg",
+          "&nbsp": "9,920 lbs (4WD) 4499 kg",
+          "Max capacity": "19,840 lbs 8999 kg",
+          "Max front axle": "7,935 lbs (2WD) 3599 kg",
+          "Max rear axle": "16,535 lbs 7500 kg"
+        },
+        {
+          "__seccion_1__": "New Holland 8360 Height",
+          "ROPS": "114.5 inches 290 cm",
+          "Cab": "111.5 inches 283 cm",
+          "Exhaust": "119.5 inches (2WD) 303 cm",
+          "&nbsp": "117.3 inches (4WD) 297 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 18, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1996 - 1999",
+          "__seccion_2__": "60 Gemini Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 251",
+          "__seccion_2__": "Diesel 18-speed 4WD 1996",
+          "__seccion_3__": "PTO performance",
+          "Max power": "100 hp 74.6 kW",
+          "__seccion_4__": "Drawbar performance"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 18, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1996 - 1999",
+          "__seccion_2__": "60 Gemini Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "New Holland Genesis",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "456 ci 7.5 L",
+          "Bore/Stroke": "4.5x5.0 inches 114 x 127 mm",
+          "Compression": "17.5:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "700-2420",
+          "Operating RPM": "1500-2200",
+          "Torque RPM": "1400",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Starter power": "4.9 hp 3.7 kW",
+          "Coolant capacity": "25.4 qts (ROPS) 24.0 L",
+          "&nbsp": "27.5 qts (cab) 26.0 L",
+          "Intake valve clearance": "0.016 inches (cold) 0.406 mm",
+          "Exhaust valve clearance": "0.018 inches (cold) 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "20.8 qts 19.7 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 18, 2022"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/6/8/6683-massey-ferguson-2660-hd.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/6/8/6683-massey-ferguson-2660-hd-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/006/6/8/6683-massey-ferguson-2660-hd-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/6/8/6683-massey-ferguson-2660-hd-engine.html",
+    "source_id": 6683,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:39:34.462Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6683/6683-td4-b01-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 72 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 6683,
+  "name": "Massey Ferguson 2660 HD",
+  "brand": "Massey Ferguson (a part of AGCO)",
+  "model": "ferguson 2660 hd",
+  "years": {
+    "desde": 2010,
+    "hasta": 2013
+  },
+  "model_year": 2010,
+  "engine_power_hp": 81,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 70,
+  "pto_tested_hp": 70.96,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3515,
+  "weight_basis": "4WD Cab Operating",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 26,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4-30",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1557,
+  "tire_front": null,
+  "fuel_consumption_lph": 17.8,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F006/6683/6683-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6683/6683-td4-b01-ext090.jpg",
+  "image_url": "/uploads/tractors/td6683.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2010 - 2013",
+          "__seccion_2__": "2600 HD Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson (a part of AGCO)",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Brazil"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "2660HD": "utility",
+          "2680LP": "low-profile",
+          "2660HC": "high-crop"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2660 HD Engine",
+          "__seccion_2__": "Perkins 4.4L 4-cyl diesel",
+          "Fuel tank": "26.5 gal 100.3 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2660 HD Transmissions",
+          "__seccion_2__": "8-speed synchronized shuttle",
+          "__seccion_3__": "12-speed partially synchronized",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2660 HD Power",
+          "Engine (gross)": "81 hp 60.4 kW",
+          "PTO (claimed)": "70 hp 52.2 kW",
+          "PTO (tested)": "70.96 hp 52.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "standard",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 2660 HD photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "1 to 3",
+          "Pump flow": "14.5 gpm 54.9 lpm",
+          "Total flow": "22.5 gpm 85.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at 24\"/610mm)": "3,391 lbs 1538 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "90 inches 228 cm",
+          "Weight": "5578 to 7750 pounds",
+          "Front tire": "9.5L-15SL",
+          "Rear tire": "18.4-30 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2660 HD attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "2660 HD Serial Number Location",
+          "__seccion_2__": "Rear of tractor"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "55",
+          "Cab Charging amps": "90",
+          "Battery CCA": "750",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "New HD Series 2600 High Clearance tractors published in 2011, by Massey Ferguson",
+          "__seccion_3__": "HD Series 2600 published in 2012, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2010 - 2013",
+          "__seccion_2__": "2600 HD Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2660 HD Tires",
+          "Standard tires (ag)": "Front: 9.5L-15SL. Rear: 18.4-30 (2WD)",
+          "&nbsp": "Front: 12.4-24. Rear: 15.5-38 (4WD)",
+          "Optional tires (ag)": "Front: 9.5L-15SL. Rear: 16.9-30 (2WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "90 inches 228 cm",
+          "Length": "155 inches 393 cm",
+          "Width": "79.1 inches 200 cm",
+          "Ground clearance": "21.9 inches (High-Crop) 55 cm",
+          "Clearance (drawbar)": "14.8 inches 37 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2660 HD Weight",
+          "Shipping": "5,578 lbs (2WD ROPS) 2530 kg",
+          "&nbsp": "7,319 lbs (4WD cab) 3319 kg",
+          "4WD Cab Operating": "7,750 lbs 3515 kg"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2660 HD Height",
+          "__seccion_2__": "112.1 inches (High-Crop) 284 cm",
+          "ROPS": "101.4 inches 257 cm",
+          "Cab": "105.1 inches 266 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2010 - 2013",
+          "__seccion_2__": "2600 HD Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1976"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1976",
+          "__seccion_2__": "Diesel 8-speed 4WD June 15 - 25, 2010 Link: Nebraska Tractor Test 1976 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "70.96 hp 52.9 kW",
+          "Fuel use": "4.2 gal/hour 15.9 l/hour",
+          "Power at rated PTO speed": "74.17 hp 55.3 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2010 - 2013",
+          "__seccion_2__": "2600 HD Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins 1104D-44T",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "269 ci 4.4 L",
+          "Bore/Stroke": "4.134x5.00 inches 105 x 127 mm",
+          "Emissions": "Tier III",
+          "Power (gross)": "81 hp 60.4 kW",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2024"
+        }
+      ]
+    }
+  }
+}

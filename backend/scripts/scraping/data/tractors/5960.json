@@ -1,0 +1,177 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/9/6/5960-ford-8010.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/9/6/5960-ford-8010-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/9/6/5960-ford-8010-engine.html",
+    "source_id": 5960,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:15:29.723Z"
+  },
+  "tractor_data_id": 5960,
+  "name": "Ford 8010",
+  "brand": "Ford",
+  "model": "8010",
+  "years": {
+    "desde": 1996,
+    "hasta": 2000
+  },
+  "model_year": 1996,
+  "engine_power_hp": 96,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 96,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": null,
+  "weight_basis": null,
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 35.2,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9-24",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1339,
+  "tire_front": {
+    "original": "27.9x9-15",
+    "radial": false,
+    "width_mm": 229,
+    "rim_in": 15,
+    "diameter_mm_est": 709,
+    "tipo": "Diagonal",
+    "texto": "27.9x9-15"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": null,
+  "photo_url_large": null,
+  "image_url": null,
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1996 - 2000",
+          "__seccion_2__": "10S Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Original price was $40,000 in 2000"
+        },
+        {
+          "__seccion_1__": "Ford 8010 Engine",
+          "__seccion_2__": "Ford 7.5L 6-cyl diesel",
+          "Fuel tank": "29.5 gal 111.7 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 8010 Transmissions",
+          "__seccion_2__": "8-speed unsynchronized gear",
+          "__seccion_3__": "16-speed two-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 8010 Power",
+          "PTO (claimed)": "96 hp 71.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Ford 8010 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed",
+          "Valves": "2",
+          "Pump flow": "17.4 gpm 65.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540, 1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Front tire": "27.9x9-15",
+          "Rear tire": "16.9-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 28, 2014",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1996 - 2000",
+          "__seccion_2__": "10S Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Ford 8010 Tires",
+          "Ag front": "27.9x9-15",
+          "Ag rear": "16.9-24"
+        },
+        {
+          "__seccion_1__": "Dimensions"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 28, 2014"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1996 - 2000",
+          "__seccion_2__": "10S Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "456 ci 7.5 L",
+          "Bore/Stroke": "4.40x5.00 inches 112 x 127 mm",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 28, 2014"
+        }
+      ]
+    }
+  }
+}

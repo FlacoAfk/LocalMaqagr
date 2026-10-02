@@ -1,0 +1,274 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/6/3/6634-ji-case-1896.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/6/3/6634-ji-case-1896-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/006/6/3/6634-ji-case-1896-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/6/3/6634-ji-case-1896-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 6634,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:09:41.835Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6634/6634-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 800px/q55 → 70 KB"
+  },
+  "tractor_data_id": 6634,
+  "name": "J.I. Case 1896",
+  "brand": "J.I. Case",
+  "model": "1896",
+  "years": {
+    "desde": 1984,
+    "hasta": 1985
+  },
+  "model_year": 1984,
+  "engine_power_hp": 95,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 95,
+  "pto_tested_hp": 95.92,
+  "drawbar_tested_hp": 84.51,
+  "weight_kg": 6121,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 55,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "16.9-26",
+    "radial": false,
+    "width_mm": 429,
+    "rim_in": 26,
+    "diameter_mm_est": 1390,
+    "tipo": "Diagonal",
+    "texto": "16.9-26"
+  },
+  "fuel_consumption_lph": 21.6,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F006/6634/6634-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6634/6634-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td6634.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1984 - 1985",
+          "__seccion_2__": "96 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Note: the J.I. Case model 1896 is the same as the CaseIH 1896. The following data is from the 1896 listing."
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA",
+          "__seccion_4__": "Original price was $35,000 in 1989"
+        },
+        {
+          "__seccion_1__": "J.I. Case 1896 Engine",
+          "__seccion_2__": "CDC 5.9L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 1896 Transmission",
+          "__seccion_2__": "12-speed three-speed power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 1896 Power",
+          "PTO (claimed)": "95 hp 70.8 kW",
+          "Drawbar (tested)": "84.51 hp 63.0 kW",
+          "PTO (tested)": "95.92 hp 71.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "electric rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "J.I. Case 1896 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "65 gal 246.0 L",
+          "Hydraulic system": "25 gal 94.6 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "25 gal 94.6 L",
+          "Pressure": "2250 psi 155.1 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "23 gpm 87.1 lpm",
+          "Steering flow": "8 gpm 30.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/II",
+          "Rear lift": "6600 lbs 2993 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "108 inches 274 cm",
+          "Weight": "13,495 lbs 6121 kg",
+          "Front tire": "11.00-16",
+          "2WD Rear tire": "18.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1984": "9931800",
+          "1985": "9938100",
+          "1986": "9941573",
+          "1987": "17895137",
+          "1988": "17895512",
+          "1989": "17895992",
+          "__seccion_1__": "1896 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "105",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "96 Series published in 1984, by J.I. Case"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 19, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1984 - 1985",
+          "__seccion_2__": "96 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Note: the J.I. Case model 1896 is the same as the CaseIH 1896. The following data is from the 1896 listing."
+        },
+        {
+          "__seccion_1__": "J.I. Case 1896 Tires",
+          "2WD Standard tires (ag)": "Front: 11.00-16. Rear: 18.4-38",
+          "4WD Standard tires (ag)": "Front: 16.9-26. Rear: 18.4-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "108 inches 274 cm",
+          "Length": "171 inches 434 cm",
+          "Operating weight": "13,495 lbs (duals) 6121 kg",
+          "Ground clearance": "16 inches 40 cm",
+          "Bar rear axle": "3.50 by 120 inches 88 by 3048 mm",
+          "2WD Front tread": "60 to 88 inches 152 to 223 cm",
+          "4WD Front tread": "60 to 89 inches 152 to 226 cm",
+          "Rear tread": "60 to 132 inches 152 to 335 cm"
+        },
+        {
+          "__seccion_1__": "J.I. Case 1896 Height",
+          "ROPS": "115.4 inches 293 cm",
+          "Height (Folded ROPS)": "91.4 inches 232 cm",
+          "Cab": "118 inches 299 cm",
+          "Exhaust": "116 inches 294 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 19, 2020"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1984 - 1985",
+          "__seccion_2__": "96 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Note: the J.I. Case model 1896 is the same as the CaseIH 1896. The following data is from the 1896 listing."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1548"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1548",
+          "__seccion_2__": "Diesel 12-speed 2WD October 24 - November 7, 1984 Link: Nebraska Tractor Test 1548 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "95.92 hp 71.5 kW",
+          "Fuel use": "5.7 gal/hour 21.6 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "84.51 hp 63.0 kW",
+          "__seccion_5__": "Gear 3-2 used for power test.",
+          "Max pull": "12,357 lbs 5605 kg",
+          "__seccion_6__": "Gear 1-2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 19, 2020"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1984 - 1985",
+          "__seccion_2__": "96 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Note: the J.I. Case model 1896 is the same as the CaseIH 1896. The following data is from the 1896 listing."
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CDC",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "359 ci 5.9 L",
+          "Bore/Stroke": "4.016x4.724 inches 102 x 120 mm",
+          "Air cleaner": "dual dry elements",
+          "Compression": "17.5:1",
+          "Rated RPM": "2100",
+          "Idle RPM": "800-2250",
+          "Starter volts": "12",
+          "Oil capacity": "16 qts 15.1 L",
+          "Coolant capacity": "22 qts 20.8 L"
+        },
+        {
+          "__seccion_1__": "J.I. Case 1896 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 19, 2020"
+        }
+      ]
+    }
+  }
+}

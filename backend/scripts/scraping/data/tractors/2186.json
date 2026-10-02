@@ -1,0 +1,186 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/002/1/8/2186-deutz-d-4006.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/002/1/8/2186-deutz-d-4006-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/002/1/8/2186-deutz-d-4006-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 2186,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T23:00:45.695Z",
+    "foto_original": "https://www.tractordata.com/photos/F002/2186/2186-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 68 KB"
+  },
+  "tractor_data_id": 2186,
+  "name": "Deutz D 4006",
+  "brand": "Deutz",
+  "model": "D 4006",
+  "years": {
+    "desde": 1968,
+    "hasta": 1981
+  },
+  "model_year": 1968,
+  "engine_power_hp": 35,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2270,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 12.8,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-32",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1348,
+  "tire_front": {
+    "original": "7.50-18",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 18,
+    "diameter_mm_est": 781,
+    "tipo": "Diagonal",
+    "texto": "7.50-18"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F002/2186/2186-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F002/2186/2186-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td2186.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1968 - 1981",
+          "__seccion_2__": "06 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Deutz",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "D 4006": "2WD",
+          "D 4006A": "4WD"
+        },
+        {
+          "__seccion_1__": "Deutz D 4006 Engine",
+          "__seccion_2__": "Deutz 2.8L 3-cyl diesel",
+          "Fuel tank": "18.5 gal 70.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Deutz D 4006 Transmissions",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "12-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Deutz D 4006 Power",
+          "Engine": "35 hp 26.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "2WD Steering": "manual",
+          "4WD Steering": "hydraulic power",
+          "__seccion_3__": "ROPS optional. Optional cab with heater."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Deutz D 4006 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Pump flow": "6.7 gpm 25.4 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at ends)": "3440 lbs 1560 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live * Dual-stage clutch",
+          "&nbsp": "540/1000 Opt Optional",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "78.74 inches 199 cm",
+          "Weight": "4498 to 5005 pounds",
+          "Front tire": "6.50-16",
+          "Rear tire": "12.4-32",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 31, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1968 - 1981",
+          "__seccion_2__": "06 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Deutz D 4006 Tires",
+          "Ag front": "6.50-16",
+          "&nbsp": "7.50-18 (4WD)",
+          "Ag rear": "12.4-32"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "78.74 inches 199 cm",
+          "Length": "135 inches 342 cm",
+          "2WD Weight": "4498 lbs 2040 kg",
+          "4WD Weight": "5005 lbs 2270 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 31, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1968 - 1981",
+          "__seccion_2__": "06 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Deutz F3L 912",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "air-cooled",
+          "Displacement": "172.50 ci 2.8 L",
+          "Bore/Stroke": "3.94x4.72 inches 100 x 120 mm",
+          "Power": "35 hp 26.1 kW",
+          "Rated RPM": "2150"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 31, 2021"
+        }
+      ]
+    }
+  }
+}

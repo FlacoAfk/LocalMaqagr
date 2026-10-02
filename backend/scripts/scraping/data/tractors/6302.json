@@ -1,0 +1,195 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/3/0/6302-kubota-m128x.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/3/0/6302-kubota-m128x-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/3/0/6302-kubota-m128x-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 6302,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:58:08.135Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6302/6302-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 6302,
+  "name": "Kubota M128X",
+  "brand": "Kubota",
+  "model": "M128X",
+  "years": {
+    "desde": 2008,
+    "hasta": 2010
+  },
+  "model_year": 2008,
+  "engine_power_hp": 134,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 113,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4409,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 41.5,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 520/70R38",
+  "tire_width_mm": 520,
+  "tire_diameter_mm": 1693,
+  "tire_front": {
+    "original": "420/70R24",
+    "radial": true,
+    "width_mm": 420,
+    "rim_in": 24,
+    "diameter_mm_est": 1198,
+    "tipo": "Radial",
+    "texto": "420/70R24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F006/6302/6302-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td6302.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2008 - 2010",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M128X Engine",
+          "__seccion_2__": "Kubota 6.1L 4-cyl diesel",
+          "Fuel tank": "50.2 gal 190.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M128X Transmissions",
+          "__seccion_2__": "16-speed partial powershift",
+          "__seccion_3__": "24-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M128X Power",
+          "Engine (gross)": "134 hp 99.9 kW",
+          "Engine": "128 hp 95.4 kW",
+          "PTO (claimed)": "113 hp 84.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Kubota M128X are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Valves": "2 to 4",
+          "Pump flow": "20.4 gpm 77.2 lpm",
+          "Steering flow": "15.3 gpm 57.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at 24\"/610mm)": "5,203 lbs 2360 kg",
+          "&nbsp": "9,447 lbs (optional) 4285 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "105.9 inches 268 cm",
+          "Weight": "9,722 lbs 4409 kg",
+          "Front tire": "420/70R24",
+          "Rear tire": "520/70R38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "80"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "M128X published in 2008, by Kubota"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 8, 2018"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2008 - 2010",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M128X Tires",
+          "Ag front": "420/70R24",
+          "Ag rear": "520/70R38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "105.9 inches 268 cm",
+          "Length": "175.4 inches 445 cm",
+          "Width": "85.6 inches 217 cm",
+          "Height": "108.3 inches 275 cm",
+          "Weight": "9,722 lbs 4409 kg",
+          "Ground clearance": "21.3 inches 54 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 8, 2018"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2008 - 2010",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota A68-TI-CRS",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "373.7 ci 6.1 L",
+          "Bore/Stroke": "4.65x5.51 inches 118 x 140 mm",
+          "Power": "128 hp 95.4 kW",
+          "Power (gross)": "134 hp 99.9 kW",
+          "Air cleaner": "dual dry element",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 8, 2018"
+        }
+      ]
+    }
+  }
+}

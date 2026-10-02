@@ -1,0 +1,222 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/5/6/7560-kubota-b6100hst.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/5/6/7560-kubota-b6100hst-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/5/6/7560-kubota-b6100hst-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 7560,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:00:32.801Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7560/7560-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 89 KB"
+  },
+  "tractor_data_id": 7560,
+  "name": "Kubota B6100HST",
+  "brand": "Kubota",
+  "model": "B6100HST",
+  "years": {
+    "desde": 1977,
+    "hasta": 1997
+  },
+  "model_year": 1977,
+  "engine_power_hp": 14,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 573,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 5.1,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 7-16",
+  "tire_width_mm": 178,
+  "tire_diameter_mm": 709,
+  "tire_front": {
+    "original": "4.00-9",
+    "radial": false,
+    "width_mm": 102,
+    "rim_in": 9,
+    "diameter_mm_est": 401,
+    "tipo": "Diagonal",
+    "texto": "4.00-9"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F007/7560/7560-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7560/7560-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td7560.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1977 - 1997",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "B6100HST-D": "4WD",
+          "B6100HST-E": "2WD",
+          "B6100": "gear drive"
+        },
+        {
+          "__seccion_1__": "Kubota B6100HST Engine",
+          "__seccion_2__": "Kubota 0.7L 3-cyl diesel",
+          "Fuel tank": "3.4 gal 12.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B6100HST Transmission",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B6100HST Power",
+          "Engine": "14 hp 10.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "manual",
+          "__seccion_3__": "Mechanical internal expanding brakes",
+          "__seccion_4__": "Open operator station. Two-post ROPS available."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota B6100HST photos..."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540/850",
+          "Engine RPM": "2450@2800",
+          "&nbsp": "850@2800",
+          "Mid PTO Type": "2450"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "4WD Wheelbase": "55.1 inches 139 cm",
+          "2WD Wheelbase": "54.7 inches 138 cm",
+          "Weight": "1151 to 1265 pounds",
+          "Front tire": "4.00-9",
+          "Rear tire": "7-16 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota B6100HST attachments",
+          "__seccion_2__": "48\" mid-mount mower deck",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "B6100HST Serial Numbers",
+          "Location:": "Left side of the tractor, on the clutch housing."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12",
+          "Battery AH": "45"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Model B-670 Backhoe published in 1978, by Kubota",
+          "__seccion_3__": "Model B670 Backhoe published in 1983, by Kubota",
+          "__seccion_4__": "B-Series Mowers published in 1981, by Kubota",
+          "__seccion_5__": "Tractors and Excavators published in 1982, by Kubota"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 6, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1977 - 1997",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota B6100HST Tires",
+          "Standard tires (ag)": "Front: 4.00-9. Rear: 7-16 (2WD)",
+          "&nbsp": "20.5x8.00-10 (4WD)",
+          "Lawn/turf front": "20x8.0-10 (2WD)",
+          "Lawn/turf rear": "29x12.00-15"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "4WD Wheelbase": "55.1 inches 139 cm",
+          "2WD Wheelbase": "54.7 inches 138 cm",
+          "Length": "83.8 inches 212 cm",
+          "Width": "38.6 inches 98 cm",
+          "Height": "46.9 inches 119 cm",
+          "4WD Weight": "1265 lbs 573 kg",
+          "2WD Weight": "1151 lbs 522 kg",
+          "4WD Ground clearance": "9.4 inches 23 cm",
+          "2WD Ground clearance": "9.8 inches 24 cm",
+          "Front tread": "30.3 inches 76 cm (2WD)",
+          "Rear tread": "26/28/30 inches 66/71/76 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 6, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1977 - 1997",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota D-650A",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "41.2 ci 0.7 L",
+          "Bore/Stroke": "2.52x2.756 inches 64 x 70 mm",
+          "Power": "14 hp 10.4 kW",
+          "Pre-heating": "glow plugs",
+          "Rated RPM": "2800",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Starter power": "1.07 hp 0.8 kW",
+          "Coolant capacity": "4.9 qts 4.6 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "3.3 qts 3.1 L",
+          "Oil change": "75 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 6, 2024"
+        }
+      ]
+    }
+  }
+}

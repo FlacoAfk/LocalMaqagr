@@ -1,0 +1,295 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/8/8/1887-john-deere-5410.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/8/8/1887-john-deere-5410-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/8/8/1887-john-deere-5410-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/8/8/1887-john-deere-5410-engine.html",
+    "source_id": 1887,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:38:13.321Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1887/1887-td4-b01-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 66 KB"
+  },
+  "tractor_data_id": 1887,
+  "name": "John Deere 5410",
+  "brand": "John Deere",
+  "model": "5410",
+  "years": {
+    "desde": 1998,
+    "hasta": 2001
+  },
+  "model_year": 1998,
+  "engine_power_hp": 81,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 65,
+  "pto_tested_hp": 66.49,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2494,
+  "weight_basis": "4WD ROPS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 24.4,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9-30",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1492,
+  "tire_front": {
+    "original": "11.2-24",
+    "radial": false,
+    "width_mm": 284,
+    "rim_in": 24,
+    "diameter_mm_est": 1093,
+    "tipo": "Diagonal",
+    "texto": "11.2-24"
+  },
+  "fuel_consumption_lph": 15.5,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1887/1887-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1887/1887-td4-b01-ext090.jpg",
+  "image_url": "/uploads/tractors/td1887.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1998 - 2001",
+          "__seccion_2__": "5000 Ten Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Augusta, Georgia, USA",
+          "__seccion_4__": "Original price was $27,532 in 2001"
+        },
+        {
+          "__seccion_1__": "John Deere 5410 Engine",
+          "__seccion_2__": "John Deere 4.5L 4-cyl diesel",
+          "ROPS Fuel tank": "18 gal 68.1 L",
+          "Cab Fuel tank": "23 gal 87.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5410 Transmissions",
+          "__seccion_2__": "9-speed unsynchronized gear",
+          "__seccion_3__": "9-speed partially synchronized",
+          "__seccion_4__": "12-speed power shuttle",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5410 Power",
+          "Engine": "81 hp 60.4 kW",
+          "PTO (claimed)": "65 hp 48.5 kW",
+          "PTO (tested)": "66.49 hp 49.6 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 5410 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2855 psi 196.9 bar",
+          "Valves": "5",
+          "Pump flow": "16.4 gpm 62.1 lpm",
+          "Total flow": "23 gpm 87.1 lpm",
+          "Steering flow": "6.6 gpm 25.0 lpm",
+          "Steering press.": "1955 psi 134.8 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I/II",
+          "Rear lift (at 24\"/610mm)": "3,374 lbs 1530 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "&nbsp": "540/540E * 540E PTO with SyncShuttle transmission."
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "85.7 inches * The Deere operator's manual incorrectly states 80.7 inches. 217 cm",
+          "Weight": "5000 to 6500 pounds",
+          "Front tire": "7.50-16",
+          "2WD Rear tire": "16.9-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5410 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "5410 Serial Number Location",
+          "__seccion_2__": "The serial number plate is on the right side of the John Deere 5410 tractor frame, above the front axle."
+        },
+        {
+          "1998": "140000",
+          "1999": "240001",
+          "2000": "340000",
+          "2001": "440000",
+          "__seccion_1__": "5410 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "40",
+          "Cab Charging amps": "60",
+          "Battery CCA": "700",
+          "Battery volts": "12",
+          "ROPS Battery Group": "28H",
+          "Cab Battery Group": "31"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Commercial & Consumer Equipment Sales Manual published in 1999, by John Deere",
+          "__seccion_3__": "Golf and Turf Equipment Purchasing Guide published in 1998, by John Deere",
+          "__seccion_4__": "Grounds Care Equipment Purchasing Guide published in 1999, by John Deere",
+          "__seccion_5__": "Grounds Care Equipment Purchasing Guide published in 2000, by John Deere",
+          "__seccion_6__": "Operator's Manual 5210, 5310, 5410 and 5510 Tractors (OMRE71736) published in 1996 *",
+          "__seccion_7__": "New 5000 Ten Series published in 1998, by John Deere",
+          "__seccion_8__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 14, 2023",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1998 - 2001",
+          "__seccion_2__": "5000 Ten Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 5410 Tires",
+          "2WD Standard tires (ag)": "Front: 7.50-16. Rear: 16.9-30",
+          "4WD Standard tires (ag)": "Front: 11.2-24. Rear: 16.9-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "85.7 inches * The Deere operator's manual incorrectly states 80.7 inches. 217 cm",
+          "2WD Length": "125.9 inches 319 cm",
+          "4WD Length": "130.3 inches 330 cm",
+          "Width": "68.7 inches 174 cm",
+          "2WD Clearance (front axle)": "18.3 inches 46 cm",
+          "4WD Clearance (front axle)": "15.4 inches 39 cm",
+          "2WD Clearance (drawbar)": "19.6 inches 49 cm",
+          "4WD Clearance (drawbar)": "18.8 inches 47 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 5410 Weight",
+          "2WD ROPS Shipping": "5000 lbs 2268 kg",
+          "2WD cab Shipping": "6000 lbs 2721 kg",
+          "4WD ROPS Shipping": "5500 lbs 2494 kg",
+          "4WD cab Shipping": "6500 lbs 2948 kg",
+          "Max Drawbar": "1,675 lbs 759 kg"
+        },
+        {
+          "__seccion_1__": "John Deere 5410 Height",
+          "Steering wheel": "65.4 inches 166 cm",
+          "2WD Hood": "57.2 inches 145 cm",
+          "4WD Hood": "59.1 inches 150 cm",
+          "ROPS": "91.2 inches 231 cm",
+          "Height (Folded ROPS)": "78 inches 198 cm",
+          "Cab": "100.4 inches 255 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 14, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1998 - 2001",
+          "__seccion_2__": "5000 Ten Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1756"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1756",
+          "__seccion_2__": "Diesel 9-speed 4WD October 15 - 19, 1998 Link: Nebraska Tractor Test 1756 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "66.49 hp 49.6 kW",
+          "Fuel use": "4.0 gal/hour 15.1 l/hour",
+          "Power at rated engine speed": "65.44 hp 48.8 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 14, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1998 - 2001",
+          "__seccion_2__": "5000 Ten Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 4045D",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "276 ci 4.5 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Power": "81 hp 60.4 kW",
+          "Fuel use": "4.21 gal/hour 15.9 l/hour",
+          "Compression": "17.6:1",
+          "Rated RPM": "2400",
+          "Idle RPM": "825-2600",
+          "Operating RPM": "1600-2400",
+          "Torque": "179.2 lb-ft 243.0 Nm",
+          "Torque RPM": "1400",
+          "Firing order": "1-3-4-2",
+          "Starter volts": "12",
+          "Coolant capacity": "11.4 qts 10.8 L",
+          "Coolant change": "2000 h",
+          "Intake valve clearance": "0.014 inches 0.356 mm",
+          "Exhaust valve clearance": "0.018 inches 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "9 qts 8.5 L",
+          "Oil change": "100 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 14, 2023"
+        }
+      ]
+    }
+  }
+}

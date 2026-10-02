@@ -1,0 +1,228 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/8/0/1801-john-deere-1640.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/8/0/1801-john-deere-1640-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/8/0/1801-john-deere-1640-engine.html",
+    "source_id": 1801,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:37:51.029Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1801/1801-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 65 KB"
+  },
+  "tractor_data_id": 1801,
+  "name": "John Deere 1640",
+  "brand": "John Deere",
+  "model": "1640",
+  "years": {
+    "desde": 1979,
+    "hasta": 1987
+  },
+  "model_year": 1979,
+  "engine_power_hp": 62,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 54,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3630,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 19.8,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "11.2-28",
+    "radial": false,
+    "width_mm": 284,
+    "rim_in": 28,
+    "diameter_mm_est": 1195,
+    "tipo": "Diagonal",
+    "texto": "11.2-28"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1801/1801-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1801/1801-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1801.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1979 - 1987",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany"
+        },
+        {
+          "__seccion_1__": "John Deere 1640 Engine",
+          "__seccion_2__": "John Deere 3.9L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 1640 Transmissions",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "16-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 1640 Power",
+          "Engine": "62 hp 46.2 kW",
+          "PTO (claimed)": "54 hp 40.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic disc brakes",
+          "__seccion_5__": "Four-post ROPS. Cab available with heater. SoundGard (SG2) cab available after 1981."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 1640 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "25.1 gal 95.0 L",
+          "Hydraulic system": "14.5 gal 54.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center constant pressure",
+          "Capacity": "14.5 gal 54.9 L",
+          "Pressure": "2466 psi 170.0 bar",
+          "Pump flow": "12.4 gpm 46.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "6768 lbs 3069 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540",
+          "Engine RPM": "540@2400"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "89.7 inches 227 cm",
+          "4WD Wheelbase": "80 inches 203 cm",
+          "Weight": "7409 to 8004 pounds",
+          "Front tire": "7.50-18",
+          "2WD Rear tire": "13.6/12-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1980": "358998",
+          "1981": "393048",
+          "1982": "433037",
+          "__seccion_1__": "1640 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "55",
+          "Batteries": "2",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operator's Manual 145 Loader (OMW21474)",
+          "__seccion_3__": "Operator's Manual 1640, 1840 and 2040 Tractors published by John Deere",
+          "__seccion_4__": "Traktor 1640 published in 1984, by John Deere",
+          "__seccion_5__": "New Profiles of Performance published in 1979, by John Deere",
+          "__seccion_6__": "Move up to John Deere... published in 1981"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 9, 2020",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1979 - 1987",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 1640 Tires",
+          "2WD Standard tires (ag)": "Front: 7.50-18. Rear: 13.6/12-38",
+          "4WD Standard tires (ag)": "Front: 11.2-28. Rear: 13.6/12-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "89.7 inches 227 cm",
+          "4WD Wheelbase": "80 inches 203 cm",
+          "2WD Length": "147 inches 373 cm",
+          "4WD Length": "154.5 inches 392 cm",
+          "Width": "81.5 inches * Minimum 207 cm",
+          "Height (cab)": "104.7 inches 265 cm",
+          "Height (exhaust)": "115.2 inches 292 cm",
+          "2WD Weight": "7409 lbs 3360 kg",
+          "4WD Weight": "8004 lbs 3630 kg",
+          "4WD Clearance (front axle)": "16.9 inches 42 cm",
+          "2WD Clearance (front axle)": "25 inches 63 cm",
+          "2WD Front tread": "53.5 to 79.1 inches 135 to 200 cm",
+          "4WD Front tread": "59.1 to 79.1 inches 150 to 200 cm",
+          "Rear tread": "59.1 to 78.7 inches 150 to 199 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 9, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1979 - 1987",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "239.2 ci 3.9 L",
+          "Bore/Stroke": "4.19x4.33 inches 106 x 110 mm",
+          "Power": "62 hp 46.2 kW",
+          "Compression": "16.8:1",
+          "Rated RPM": "2500",
+          "Operating RPM": "1200-2500",
+          "Torque": "151.2 lb-ft 205.0 Nm",
+          "Torque RPM": "1200",
+          "Starter volts": "12",
+          "Starter power": "4 hp 3.0 kW",
+          "Oil capacity": "9 qts 8.5 L",
+          "Coolant capacity": "19 qts 18.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 9, 2020"
+        }
+      ]
+    }
+  }
+}

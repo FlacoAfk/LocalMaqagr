@@ -1,0 +1,259 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/009/4/5/9455-new-holland-t7230.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/009/4/5/9455-new-holland-t7230-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/009/4/5/9455-new-holland-t7230-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/009/4/5/9455-new-holland-t7230-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 9455,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:39:22.423Z",
+    "foto_original": "https://www.tractordata.com/photos/F009/9455/9455-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 9455,
+  "name": "New Holland T7.230",
+  "brand": "New Holland (a part of CNH)",
+  "model": "holland t7230",
+  "years": {
+    "desde": 2011,
+    "hasta": 2013
+  },
+  "model_year": 2011,
+  "engine_power_hp": 180,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 150,
+  "pto_tested_hp": 173.5,
+  "drawbar_tested_hp": 117.2,
+  "weight_kg": 6950,
+  "weight_basis": "Standard Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 73.9,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 480/80R46",
+  "tire_width_mm": 480,
+  "tire_diameter_mm": 1936,
+  "tire_front": {
+    "original": "380/85R34",
+    "radial": true,
+    "width_mm": 380,
+    "rim_in": 34,
+    "diameter_mm_est": 1510,
+    "tipo": "Radial",
+    "texto": "380/85R34"
+  },
+  "fuel_consumption_lph": 36,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F009/9455/9455-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td9455.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2014 -",
+          "__seccion_2__": "T7 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland (a part of CNH)",
+          "__seccion_2__": "Row-Crop tractor",
+          "Original price": "$177,210 (2017 18-speed )",
+          "__seccion_3__": "$203,860 (2017 CVT )"
+        },
+        {
+          "__seccion_1__": "New Holland T7.230 Engine",
+          "__seccion_2__": "FPT 6.7L 6-cyl diesel",
+          "Fuel tank": "104 gal 393.6 L",
+          "Exhaust fluid (DEF)": "13 gal 49.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland T7.230 Transmissions",
+          "__seccion_2__": "18-speed full power shift",
+          "__seccion_3__": "19-speed full power shift",
+          "__seccion_4__": "continuously-variable transmission (CVT)",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland T7.230 Power",
+          "Engine (gross)": "180 hp 134.2 kW",
+          "Engine (max)": "225 hp 167.8 kW",
+          "PTO (claimed)": "150 hp 111.9 kW",
+          "Drawbar (tested)": "117.2 hp 87.4 kW",
+          "PTO (tested)": "173.5 hp 129.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning. Optional Comfort Ride cab suspension."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the New Holland T7.230 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load-sensing",
+          "Rear valves": "4 or 5",
+          "Mid valves": "3 Opt Optional",
+          "Pump flow": "32 gpm * Standard flow with power shift. 121.1 lpm",
+          "&nbsp": "45 gpm * Optional flow with CVT transmission. 170.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/II",
+          "Control": "electronic lower-link draft control",
+          "Rear lift (at ends)": "12787 lbs 5800 kg",
+          "&nbsp": "10746 lbs Opt Optional 4874 kg",
+          "Rear lift (at 24\"/610mm)": "9450 lbs 4286 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000",
+          "Engine RPM": "540@1893",
+          "&nbsp": "1000E@1583",
+          "Front PTO": "independent Opt Optional",
+          "Front PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Standard Wheelbase": "113.5 inches 288 cm",
+          "Suspension Wheelbase": "113.5 inches 288 cm",
+          "SuperSteer Wheelbase": "117.2 inches 297 cm",
+          "Weight": "15322 to 16094 pounds",
+          "Front tire": "380/85R34",
+          "Rear tire": "480/80R46",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "150",
+          "&nbsp": "200 Opt Optional",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 31, 2017",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2014 -",
+          "__seccion_2__": "T7 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "New Holland T7.230 Tires",
+          "Standard tires (ag)": "Front: 380/85R34. Rear: 480/80R46"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Standard Wheelbase": "113.5 inches 288 cm",
+          "Suspension Wheelbase": "113.5 inches 288 cm",
+          "SuperSteer Wheelbase": "117.2 inches 297 cm",
+          "Length": "227.3 inches 577 cm",
+          "Width": "97.2 inches * Minimum width 246 cm",
+          "Height (cab)": "122.6 inches 311 cm",
+          "Front axle": "SuperSteer 4WD",
+          "__seccion_2__": "Flange rear axle",
+          "Bar rear axle": "3.62 inch diameter 91 mm"
+        },
+        {
+          "__seccion_1__": "New Holland T7.230 Weight",
+          "Standard Shipping": "15322 lbs 6950 kg",
+          "Suspension Shipping": "16094 lbs 7300 kg",
+          "SuperSteer Shipping": "15653 lbs 7100 kg",
+          "Max capacity": "28660 lbs 13000 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 31, 2017"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2014 -",
+          "__seccion_2__": "T7 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2961"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2961",
+          "__seccion_2__": "Diesel CVT 4WD June 2015 - April 2016, Link: OCED Tractor Test 2961 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "117.2 hp 87.4 kW",
+          "Fuel use": "8.3 gal/hour 31.4 l/hour",
+          "Power at rated engine speed": "143.5 hp 107.0 kW",
+          "Power at rated PTO speed": "171.7 hp 128.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Pull at 10 KPH",
+          "Max pull": "16605 lbs 7532 kg",
+          "__seccion_6__": "Pull at 5.5 KPH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 31, 2017"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2014 -",
+          "__seccion_2__": "T7 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "411 ci 6.7 L",
+          "Bore/Stroke": "4.095x5.20 inches 104 x 132 mm",
+          "Emissions": "Tier IV",
+          "Emission control": "selective catalytic reduction",
+          "Rated Power (gross)": "180 hp 134.2 kW",
+          "Maximum Power (gross)": "225 hp 167.8 kW",
+          "Fuel system": "electronic high-pressure common rail direct injection",
+          "Cooling system": "viscous fan",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 31, 2017"
+        }
+      ]
+    }
+  }
+}

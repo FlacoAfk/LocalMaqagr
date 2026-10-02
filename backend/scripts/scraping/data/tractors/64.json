@@ -1,0 +1,510 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/6/64-john-deere-4020.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/6/64-john-deere-4020-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/6/64-john-deere-4020-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/6/64-john-deere-4020-engine.html",
+    "source_id": 64,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:34:51.500Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/64/64-photo-001-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 72 KB",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1401/",
+    "nebraska_test": 849
+  },
+  "tractor_data_id": 64,
+  "name": "John Deere 4020",
+  "brand": "John Deere",
+  "model": "4020",
+  "years": {
+    "desde": 1963,
+    "hasta": 1972
+  },
+  "model_year": 1963,
+  "engine_power_hp": 95.83,
+  "engine_power_source": "pto_tested (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": 95.83,
+  "drawbar_tested_hp": 83.79,
+  "weight_kg": 3826,
+  "weight_basis": "Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 45.3,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 15.5-38",
+  "tire_width_mm": 394,
+  "tire_diameter_mm": 1634,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": 24.2,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/64/64-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/64/64-photo-001-ext000.jpg",
+  "image_url": "/uploads/tractors/td64.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1963 - 1972",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "Factories": "Waterloo, Iowa, USA",
+          "&nbsp": "17,732 (standard)",
+          "Total built": "184,879 (total)",
+          "__seccion_3__": "Original price was $10,345 in 1972"
+        },
+        {
+          "600": "industrial",
+          "4020": "row-crop",
+          "__seccion_1__": "Variants",
+          "4020S": "standard",
+          "4020HC": "high-crop"
+        },
+        {
+          "__seccion_1__": "John Deere 4020 Engines",
+          "__seccion_2__": "John Deere 6.6L 6-cyl diesel",
+          "__seccion_3__": "John Deere 5.6L 6-cyl gasoline",
+          "__seccion_4__": "John Deere 5.9L 6-cyl gasoline",
+          "__seccion_5__": "John Deere 5.9L 6-cyl LP gas",
+          "__seccion_6__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4020 Transmissions",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "8-speed full power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4020 Power",
+          "Drawbar (tested)": "83.79 hp 62.5 kW",
+          "PTO (tested)": "95.83 hp 71.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 HFWD 4WD * Front-wheel assist was optional after 1969.",
+          "Differential lock": "mechanical rear Opt Optional",
+          "__seccion_2__": "Power steering",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Open operator station. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 4020 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Gasoline Fuel": "34 gal 128.7 L",
+          "Diesel Fuel": "34 gal 128.7 L",
+          "LP-gas Fuel": "45 gal 170.3 L",
+          "Syncro-Range Hydraulic system": "10 gal 37.9 L",
+          "Power Shift Hydraulic system": "12 gal 45.4 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Syncro-Range Capacity": "10 gal 37.9 L",
+          "Power Shift Capacity": "12 gal 45.4 L",
+          "Pressure": "2250 psi 155.1 bar",
+          "Valves": "1",
+          "SCV flow": "6 gpm 22.7 lpm",
+          "Total flow": "18 gpm (early) 68.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "3790 lbs 1719 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "&nbsp": "1000@1900",
+          "Engine RPM": "1000@1900",
+          "Front PTO": "independent",
+          "Front PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Row crop Wheelbase": "97.5 inches 247 cm",
+          "Standard Wheelbase": "100.25 inches 254 cm",
+          "Weight": "8225 to 9560 pounds",
+          "Front tire": "6.00-16",
+          "Rear tire": "15.5-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4020 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "4020 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the rear of the 4020 transmission case."
+        },
+        {
+          "1964": "65000",
+          "1965": "91000",
+          "1966": "119000",
+          "1967": "145660",
+          "1968": "173982",
+          "1969": "201000",
+          "1970": "222160",
+          "1971": "250000",
+          "1972": "260791",
+          "__seccion_1__": "4020 Serial Numbers",
+          "Final": "270288",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive (1964-1969)",
+          "&nbsp": "1 (12V system)",
+          "Charging system": "Motorola alternator",
+          "Charging amps": "55",
+          "Batteries": "2 (24V system)",
+          "Battery volts": "12",
+          "Battery AH": "75"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere 20 Series New Generation Tractors by Benjamin Hain",
+          "__seccion_3__": "Designing the New Generation John Deere Tractors by Merle Miller",
+          "__seccion_4__": "2510, 3020, 4020 Row-crop Tractors published in 1965, by John Deere",
+          "__seccion_5__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_6__": "John Deere Tractors for 68 published in 1968",
+          "__seccion_7__": "Standard and 4-Wheel-Drive Tractors: 70 to 280 HP published in 1970, by John Deere",
+          "__seccion_8__": "Modern Farming published in 1965, by John Deere",
+          "__seccion_9__": "*Publication contains known errors.",
+          "__seccion_10__": "Operator's Manual 4000 and 4020 (OM-R46934) published in 1969",
+          "__seccion_11__": "Operator's Manual 4000 and 4020 (OM-R48273) published in 1971",
+          "__seccion_12__": "Operator's Manual 4020 (OM-R34410) published in 1963",
+          "__seccion_13__": "Operator's Manual 4020 (OM-R39669) published in 1965",
+          "__seccion_14__": "Operator's Manual 4020 (OM-R41754) published in 1969",
+          "__seccion_15__": "Operator's Manual 4020 (OM-R44920) published in 1969"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on June 18, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1963 - 1972",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 4020 Tires",
+          "Ag front": "6.00-16 (row crop)",
+          "&nbsp": "18.4-34 (standard)",
+          "Ag rear": "15.5-38 (row crop)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Row crop Wheelbase": "97.5 inches 247 cm",
+          "Standard Wheelbase": "100.25 inches 254 cm",
+          "Length": "151 inches 383 cm",
+          "Width": "89.6 inches 227 cm",
+          "Regular rear axle": "3.375 by 91 inches 85 by 2311 mm",
+          "Long rear axle": "3.375 by 104 inches 85 by 2641 mm",
+          "Extra long rear axle": "3.375 by 112 inches 85 by 2844 mm",
+          "Front tread": "48.5 to 82.25 inches 123 to 208 cm",
+          "Rear tread": "67 to 105 inches 170 to 266 cm (extra long axle)"
+        },
+        {
+          "__seccion_1__": "John Deere 4020 Weight",
+          "Shipping": "8436 lbs (diesel syncro) 3826 kg",
+          "&nbsp": "9560 lbs (diesel powershift) 4336 kg",
+          "Operating": "8645 lbs (gas syncro) 3921 kg",
+          "Ballasted": "13980 lbs * Diesel Powershift with 18.4-34 rear tires with fluid plus front and rear cast iron weights. 6341 kg"
+        },
+        {
+          "__seccion_1__": "John Deere 4020 Height",
+          "Row-crop Steering wheel": "77.9 inches 197 cm",
+          "Standard Steering wheel": "78.25 inches 198 cm",
+          "Standard Exhaust": "88.25 inches 224 cm",
+          "Row crop Exhaust": "88.75 inches 225 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 18, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1963 - 1972",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 849: diesel Syncro-Range 2WD",
+          "__seccion_3__": "NTTL 850: gasoline Syncro-Range 2WD",
+          "__seccion_4__": "NTTL 853: LP gas Syncro-Range 2WD",
+          "__seccion_5__": "NTTL 930: diesel Syncro-Range 2WD",
+          "__seccion_6__": "NTTL 934: LP gas Syncro-Range 2WD",
+          "__seccion_7__": "NTTL 939: 340ci gasoline Syncro-Range 2WD",
+          "__seccion_8__": "NTTL 1012: 362ci gasoline Power Shift 2WD",
+          "__seccion_9__": "NTTL 1024: diesel Power Shift 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 849"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 849",
+          "__seccion_2__": "Diesel Syncro-Range 2WD September 23 - October 2, 1963 Link: Nebraska Tractor Test 849 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "91.17 hp 68.0 kW",
+          "Fuel use": "6.4 gal/hour 24.2 l/hour",
+          "Power at rated PTO speed": "83.57 hp 62.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "76.36 hp 56.9 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "10,184 lbs 4619 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 850"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 850",
+          "__seccion_2__": "Gasoline Syncro-Range 2WD September 30 - October 7, 1963 Link: Nebraska Tractor Test 850 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "88.09 hp 65.7 kW",
+          "Fuel use": "8.2 gal/hour 31.0 l/hour",
+          "Power at rated PTO speed": "79.95 hp 59.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "73.06 hp 54.5 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "10,088 lbs 4575 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 853"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 853",
+          "__seccion_2__": "LP gas Syncro-Range 2WD October 5 - 11, 1963 Link: Nebraska Tractor Test 853 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "90.48 hp 67.5 kW",
+          "Fuel use": "9.7 gal/hour 36.7 l/hour",
+          "Power at rated PTO speed": "81.14 hp 60.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "75.19 hp 56.1 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "10,217 lbs 4634 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 930"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 930",
+          "__seccion_2__": "Diesel Syncro-Range 2WD November 16 - 20, 1965 Link: Nebraska Tractor Test 930 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "94.88 hp 70.8 kW",
+          "Fuel use": "6.0 gal/hour 22.7 l/hour",
+          "Power at rated PTO speed": "86.85 hp 64.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "83.79 hp 62.5 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "11,249 lbs 5102 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 934"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 934",
+          "__seccion_2__": "LP gas Syncro-Range 2WD April 26 - May 2, 1966 Link: Nebraska Tractor Test 934 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "94.67 hp 70.6 kW",
+          "Fuel use": "10.2 gal/hour 38.6 l/hour",
+          "Power at rated PTO speed": "84.22 hp 62.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "83.59 hp 62.3 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "10,674 lbs 4841 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 939"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 939",
+          "__seccion_2__": "340ci gasoline Syncro-Range 2WD May 17 - 24, 1966 Link: Nebraska Tractor Test 939 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "95.56 hp 71.3 kW",
+          "Fuel use": "7.7 gal/hour 29.1 l/hour",
+          "Power at rated PTO speed": "85.81 hp 64.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "83.28 hp 62.1 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "10,658 lbs 4834 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1012"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1012",
+          "__seccion_2__": "362ci gasoline Power Shift 2WD May 13 - June 4, 1969 Link: Nebraska Tractor Test 1012 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "95.66 hp 71.3 kW",
+          "Fuel use": "9.3 gal/hour 35.2 l/hour",
+          "Power at rated PTO speed": "87.52 hp 65.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "82.57 hp 61.6 kW"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1024"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1024",
+          "__seccion_2__": "Diesel Power Shift 2WD September 30 - October 17, 1969 Link: Nebraska Tractor Test 1024 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "95.83 hp 71.5 kW",
+          "Fuel use": "6.6 gal/hour 25.0 l/hour",
+          "Power at rated PTO speed": "89.93 hp 67.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "83.09 hp 62.0 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 18, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1963 - 1972",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "John Deere 6.6L 6-cyl diesel",
+          "__seccion_3__": "John Deere 5.6L 6-cyl gasoline",
+          "__seccion_4__": "John Deere 5.9L 6-cyl gasoline",
+          "__seccion_5__": "John Deere 5.9L 6-cyl LP gas"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder 12-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "__seccion_6__": "Oil capacity on most 4020 diesels increased from 8 to 12 quarts starting with the 1969 model year, tractor serial number 201,000. High-crop diesel tractors retained the 8-quart capacity throughout the production run. Tractors fitted with after-market turbochargers, and early tractors with replacement oil pans, may also have the higher oil capacity.",
+          "Displacement": "404 ci 6.6 L",
+          "Bore/Stroke": "4.25x4.75 inches 108 x 121 mm",
+          "Compression": "16.5:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "600-2500",
+          "Operating RPM": "1500-2200",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "24",
+          "Coolant capacity": "24 qts 22.7 L",
+          "Intake valve clearance": "0.018 inches 0.457 mm",
+          "Exhaust valve clearance": "0.018 inches 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Early Oil capacity": "8 qts 7.6 L",
+          "Late Oil capacity": "12 qts 11.4 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "6-cylinder 12-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "__seccion_6__": "Original gasoline and LP-gas engine, used through the 1965 model year.",
+          "Displacement": "340 ci 5.6 L",
+          "Bore/Stroke": "4.25x4.00 inches 108 x 102 mm",
+          "Compression": "7.5:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "650-2500",
+          "Operating RPM": "1500-2200",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Coolant capacity": "24 qts 22.7 L",
+          "Sparkplug gap": "0.025 inches 0.635 mm",
+          "Point gap": "0.016 inches 0.406 mm",
+          "Intake valve clearance": "0.015 inches 0.381 mm",
+          "Exhaust valve clearance": "0.028 inches 0.711 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "9 qts 8.5 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "6-cylinder 12-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "__seccion_6__": "The larger, 362 ci engine became available in 1966, replacing 340 ci engine.",
+          "Displacement": "362 ci 5.9 L",
+          "Bore/Stroke": "4.25x4.25 inches 108 x 108 mm",
+          "Compression": "7.5:1",
+          "Rated RPM": "2200",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Oil capacity": "8 qts 7.6 L",
+          "Coolant capacity": "24 qts 22.7 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "LP gas",
+          "__seccion_4__": "6-cylinder 12-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "362 ci 5.9 L",
+          "Bore/Stroke": "4.25x4.25 inches 108 x 108 mm",
+          "Compression": "9.0:1",
+          "Rated RPM": "2200",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Oil capacity": "8 qts 7.6 L",
+          "Coolant capacity": "24 qts 22.7 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 18, 2025"
+        }
+      ]
+    }
+  }
+}

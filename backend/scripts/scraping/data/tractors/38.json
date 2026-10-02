@@ -1,0 +1,336 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/3/38-john-deere-40.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/3/38-john-deere-40-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/3/38-john-deere-40-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/3/38-john-deere-40-engine.html",
+    "source_id": 38,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:34:50.066Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/38/38-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 128 KB",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1073/",
+    "nebraska_test": 503
+  },
+  "tractor_data_id": 38,
+  "name": "John Deere 40",
+  "brand": "John Deere",
+  "model": "40",
+  "years": {
+    "desde": 1953,
+    "hasta": 1955
+  },
+  "model_year": 1953,
+  "engine_power_hp": 21.13,
+  "engine_power_source": "belt_claimed (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 21.71,
+  "weight_kg": 1315,
+  "weight_basis": "40S Operating",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 13.4,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 9-24",
+  "tire_width_mm": 229,
+  "tire_diameter_mm": 998,
+  "tire_front": {
+    "original": "5.00-15",
+    "radial": false,
+    "width_mm": 127,
+    "rim_in": 15,
+    "diameter_mm_est": 597,
+    "tipo": "Diagonal",
+    "texto": "5.00-15"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/38/38-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/38/38-photo-001.jpg",
+  "image_url": "/uploads/tractors/td38.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1953 - 1955",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Dubuque, Iowa, USA",
+          "Total built": "18,000",
+          "__seccion_4__": "Original price was $1,500 in 1954",
+          "__seccion_5__": "The John Deere model 40 was the replacement for the M. The 40 variants included the 40S standard, utility, high-crop, 2-row utility, and a crawler model (the 40C). The 40C and the utility were used as industrial models, although there was no official John Deere designation for 40 industrial models."
+        },
+        {
+          "__seccion_1__": "Variants",
+          "40C": "tracked tractor",
+          "40H": "high-crop",
+          "40S": "standard",
+          "40T": "tricycle",
+          "40V": "special",
+          "40U": "utility",
+          "40W": "two-row utility"
+        },
+        {
+          "__seccion_1__": "John Deere 40 Engines",
+          "__seccion_2__": "John Deere 1.6L 2-cyl gasoline",
+          "__seccion_3__": "John Deere 1.6L 2-cyl all-fuel",
+          "Fuel tank": "10.5 gal 39.7 L",
+          "Aux. fuel": "0.9 gal 3.4 L",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 40 Transmission",
+          "__seccion_2__": "4-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 40 Power",
+          "Drawbar (claimed)": "16.77 hp 12.5 kW",
+          "Belt (claimed)": "21.13 hp 15.8 kW",
+          "Drawbar (tested)": "21.71 hp 16.2 kW",
+          "Belt (tested)": "24.25 hp 18.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 40 photos..."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "2900 to 3220 pounds",
+          "Front tire": "5.00-15",
+          "Rear tire": "9-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 40 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "40 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the left side of the ttransmission housing."
+        },
+        {
+          "1953": "60001 (Utility)",
+          "1954": "60001 (Hi-Crop)",
+          "1955": "60060 (Hi-Crop)",
+          "__seccion_1__": "40 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Links",
+          "__seccion_2__": "JD40.com : Detailed information, including service and tune-up, on the 40",
+          "__seccion_3__": "40 Industrial : Photos of industrial model 40s"
+        },
+        {
+          "__seccion_1__": "Belt Pulley",
+          "Diameter": "9.1 inches 23 cm",
+          "Width": "6.375 inches 16 cm",
+          "RPM": "1267",
+          "Speed": "3006 ft/min 916.23 meters/min"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The First Numbered Series of John Deere Tractors published in 2004, by Hain Publishing",
+          "__seccion_3__": "Industrial Tractors and Equipment published in 1954, by John Deere",
+          "__seccion_4__": "Operator's Manual Hydraulic Loader No. 40 (OM-C26-753) published in 1953",
+          "__seccion_5__": "40 Series Tractors published in 1953, by John Deere",
+          "__seccion_6__": "40 Series Tractors (OM-T2-455) published in 1955",
+          "__seccion_7__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_8__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on November 8, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1953 - 1955",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 40 Tires",
+          "Ag front": "5.00-15",
+          "&nbsp": "11-38 (40H)",
+          "Ag rear": "9-24 (40S)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Length": "130.625 inches 331 cm",
+          "&nbsp": "56 inches (40S) 142 cm",
+          "Width": "89.75 inches 227 cm",
+          "Height": "58.75 inches 149 cm",
+          "Front tread": "39.125 to 54 inches 99 to 137 cm (40S)",
+          "Rear tread": "38.75 to 54.128 inches 98 to 137 cm (40S)"
+        },
+        {
+          "__seccion_1__": "John Deere 40 Weight",
+          "40S Operating": "2900 lbs 1315 kg",
+          "40T Operating": "3220 lbs 1460 kg",
+          "40S Ballasted": "4189 lbs 1900 kg",
+          "40T Ballasted": "4553 lbs 2065 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 8, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1953 - 1955",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 503: gasoline 4-speed 2WD 40T",
+          "__seccion_3__": "NTTL 504: gasoline 4-speed 2WD 40S",
+          "__seccion_4__": "NTTL 546: all-fuel 4-speed standard"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 503"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 503",
+          "__seccion_2__": "Gasoline 4-speed 2WD 40T September 9 - 17, 1953 Link: Nebraska Tractor Test 503 file",
+          "Belt power (max)": "24.25 hp 18.1 kW",
+          "Belt fuel use (max)": "2.3 gal/hour 8.7 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "21.71 hp 16.2 kW",
+          "__seccion_4__": "Gear 3 used for power test.",
+          "Max pull": "3,022 lbs 1370 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 504"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 504",
+          "__seccion_2__": "Gasoline 4-speed 2WD 40S September 9 - 23, 1953 Link: Nebraska Tractor Test 504 file",
+          "Belt power (max)": "23.61 hp 17.6 kW",
+          "Belt fuel use (max)": "2.3 gal/hour 8.7 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "21.01 hp 15.7 kW",
+          "__seccion_4__": "Gear 3 used for power test.",
+          "Max pull": "2,543 lbs 1153 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 546"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 546",
+          "__seccion_2__": "All-fuel 4-speed standard June 3 - 10, 1955 Link: Nebraska Tractor Test 546 file",
+          "Belt power (max)": "20.9 hp 15.6 kW",
+          "Belt fuel use (max)": "2.1 gal/hour 7.9 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "18.12 hp 13.5 kW",
+          "__seccion_4__": "Gear 3 used for power test.",
+          "Max pull": "2,511 lbs 1138 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 8, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1953 - 1955",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "John Deere 1.6L 2-cyl gasoline",
+          "__seccion_3__": "John Deere 1.6L 2-cyl all-fuel"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "2-cylinder 4-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "100.5 ci 1.6 L",
+          "Bore/Stroke": "4.00x4.00 inches 102 x 102 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "6.5:1",
+          "Rated RPM": "1850",
+          "Firing order": "1-2",
+          "Starter volts": "6",
+          "Oil capacity": "5 qts 4.7 L",
+          "Coolant capacity": "14 qts 13.2 L"
+        },
+        {
+          "__seccion_1__": "John Deere 40 Engine"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "all-fuel",
+          "__seccion_4__": "2-cylinder 4-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "100.5 ci 1.6 L",
+          "Bore/Stroke": "4.00x4.00 inches 102 x 102 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "6.5:1",
+          "Rated RPM": "1850",
+          "Firing order": "1-2",
+          "Starter volts": "6",
+          "Oil capacity": "5 qts 4.7 L",
+          "Sparkplug gap": "0.025 inches 0.635 mm",
+          "Point gap": "0.022 inches 0.559 mm",
+          "Intake valve clearance": "0.012 inches (cold) 0.305 mm",
+          "Exhaust valve clearance": "0.012 inches (cold) 0.305 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 8, 2025"
+        }
+      ]
+    }
+  }
+}

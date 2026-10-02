@@ -1,0 +1,264 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/4/147-john-deere-8960.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/4/147-john-deere-8960-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/1/4/147-john-deere-8960-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/4/147-john-deere-8960-engine.html",
+    "source_id": 147,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:50:16.183Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/147/147-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 51 KB"
+  },
+  "tractor_data_id": 147,
+  "name": "John Deere 8960",
+  "brand": "John Deere",
+  "model": "8960",
+  "years": {
+    "desde": 1989,
+    "hasta": 1993
+  },
+  "model_year": 1989,
+  "engine_power_hp": 370,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 332,
+  "pto_tested_hp": 337.42,
+  "drawbar_tested_hp": 308.26,
+  "weight_kg": 15928,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 153.3,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 72.7,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/147/147-td3a.jpg",
+  "image_url": "/uploads/tractors/td147.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1989 - 1993",
+          "__seccion_2__": "8060 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "__seccion_4__": "Original price was $142,000 in 1989"
+        },
+        {
+          "__seccion_1__": "John Deere 8960 Engine",
+          "__seccion_2__": "Cummins 14.0L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8960 Transmissions",
+          "__seccion_2__": "12-speed partially synchronized",
+          "__seccion_3__": "24-speed partial power shift",
+          "__seccion_4__": "12-speed full power shift",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8960 Power",
+          "Engine": "370 hp 275.9 kW",
+          "PTO (claimed)": "332 hp 247.6 kW",
+          "Drawbar (tested)": "308.26 hp 229.9 kW",
+          "PTO (tested)": "337.42 hp 251.6 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Articulated power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Sound-Gard Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 8960 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "220 gal 832.7 L",
+          "Hydraulic system": "47 gal 177.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed-center pressure compensated",
+          "Capacity": "47 gal 177.9 L",
+          "Valves": "3",
+          "Pump flow": "39.6 gpm 149.9 lpm",
+          "SCV flow": "33.3 gpm 126.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IV",
+          "Rear lift": "13966 lbs 6334 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "134 inches 340 cm",
+          "Weight": "35115 lbs 15928 kg",
+          "Front tire": "20.8R-38",
+          "Rear tire": "20.8R-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "8960 Serial Number Location",
+          "__seccion_2__": "Data plate behind left-side step"
+        },
+        {
+          "1989": "1001",
+          "1990": "1501",
+          "1991": "2501",
+          "1992": "2937",
+          "1993": "4449",
+          "__seccion_1__": "8960 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "Batteries": "3",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Big-Power Efficiency published in 1990, by John Deere",
+          "__seccion_3__": "4-Wheel Drive Product Information Handbook published in 1989, by John Deere",
+          "__seccion_4__": "The 1991 Long Green Line Agricultural Equipment Review published by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 28, 2021",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1989 - 1993",
+          "__seccion_2__": "8060 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8960 Tires",
+          "Ag front": "20.8R-38",
+          "Ag rear": "20.8R-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "134 inches 340 cm",
+          "Length": "268.9 inches 683 cm",
+          "Operating weight": "35115 lbs * Weight with 20.8R42 duals. 15928 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 28, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1989 - 1993",
+          "__seccion_2__": "8060 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "OECD 1625: diesel Powrsync 4WD",
+          "__seccion_3__": "OECD 1632: diesel Power Shift 4WD"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1625"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1625",
+          "__seccion_2__": "Diesel Powrsync 4WD May 1 - June 1, 1989 Link: OCED Tractor Test 1625 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "308.26 hp 229.9 kW",
+          "Fuel use": "19.2 gal/hour 72.7 l/hour",
+          "Power at rated engine speed": "333.40 hp 248.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "34,462 lbs 15631 kg"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1632"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1632",
+          "__seccion_2__": "Diesel Power Shift 4WD September 1 - October 1, 1989 Link: OCED Tractor Test 1632 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "302.04 hp 225.2 kW",
+          "Fuel use": "19.5 gal/hour 73.8 l/hour",
+          "Power at rated engine speed": "332.25 hp 247.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 6 used for power test.",
+          "Max pull": "34,913 lbs 15836 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 28, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1989 - 1993",
+          "__seccion_2__": "8060 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Cummins",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "855 ci 14.0 L",
+          "Bore/Stroke": "5.50x6.00 inches 140 x 152 mm",
+          "Power": "370 hp 275.9 kW",
+          "Air cleaner": "dual paper elements with aspirator",
+          "Compression": "14.0:1",
+          "Rated RPM": "1900",
+          "Starter volts": "12",
+          "Coolant capacity": "72 qts 68.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 28, 2021"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/147/147-td4-b01-ext045.jpg"
+}

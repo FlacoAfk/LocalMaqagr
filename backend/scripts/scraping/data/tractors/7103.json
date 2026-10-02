@@ -1,0 +1,213 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/1/0/7103-john-deere-7185j.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/1/0/7103-john-deere-7185j-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/1/0/7103-john-deere-7185j-engine.html",
+    "source_id": 7103,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:52:52.982Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7103/7103-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 7103,
+  "name": "John Deere 7185J",
+  "brand": "John Deere",
+  "model": "7185J",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 185,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 157,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 8101,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 57.6,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 20.8-42",
+  "tire_width_mm": 528,
+  "tire_diameter_mm": 1965,
+  "tire_front": {
+    "original": "16.9-30",
+    "radial": false,
+    "width_mm": 429,
+    "rim_in": 30,
+    "diameter_mm_est": 1492,
+    "tipo": "Diagonal",
+    "texto": "16.9-30"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7103/7103-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td7103.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2010 -",
+          "__seccion_2__": "7J Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Montenegro, Brazil"
+        },
+        {
+          "__seccion_1__": "John Deere 7185J Engine",
+          "__seccion_2__": "John Deere 6.8L 6-cyl diesel",
+          "Fuel tank": "103.5 gal 391.7 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7185J Transmissions",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "16-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7185J Power",
+          "Engine": "185 hp 138.0 kW",
+          "PTO (claimed)": "157 hp 117.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "electro-hydraulic",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "air brake optional",
+          "__seccion_4__": "Cab standard with air-conditoning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 7185J are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Pressure": "3046 psi 210.0 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "32 gpm 121.1 lpm",
+          "&nbsp": "44.9 gpm (optional) 169.9 lpm",
+          "SCV flow": "30.1 gpm 113.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "3/3N",
+          "Control": "electronic lower-link sensing",
+          "Rear lift (at ends)": "16,670 lbs 7561 kg",
+          "&nbsp": "14,000 lbs (optional) 6350 kg",
+          "Rear lift (at 24\"/610mm)": "10,140 lbs 4599 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540/1000",
+          "Engine RPM": "540@1950",
+          "&nbsp": "1000@1950"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "112.6 inches 286 cm",
+          "Weight": "17,860 lbs 8101 kg",
+          "Front tire": "16.9-30",
+          "Rear tire": "20.8-42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "90",
+          "Batteries": "2",
+          "Battery volts": "12",
+          "Battery AH": "100"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 12, 2018",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2010 -",
+          "__seccion_2__": "7J Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 7185J Tires",
+          "Standard tires (ag)": "Front: 16.9-30. Rear: 20.8-42",
+          "Optional tires (ag)": "Front: 16.9R30. Rear: 20.8R42",
+          "&nbsp": "Front: 480/70R28. Rear: 800/65R32"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "112.6 inches 286 cm",
+          "Length": "240.4 inches 610 cm",
+          "Height (cab)": "123.7 inches 314 cm",
+          "Weight": "17,860 lbs 8101 kg",
+          "Ballasted weight": "21,830 lbs 9902 kg",
+          "Clearance (front axle)": "20.9 inches 53 cm",
+          "Rear axle": "3.937 by 110.5 inches 99 by 2806 mm",
+          "Front tread": "60 to 84 inches 152 to 213 cm",
+          "Rear tread": "62.5 to 126.7 inches 158 to 321 cm (long axle)"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 12, 2018"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2010 -",
+          "__seccion_2__": "7J Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 6068 Powertech",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "414 ci 6.8 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Power": "185 hp 138.0 kW",
+          "Fuel system": "mechanical injection pump with electronic governor",
+          "Rated RPM": "2100",
+          "Torque": "609.2 lb-ft 826.1 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 12, 2018"
+        }
+      ]
+    }
+  }
+}

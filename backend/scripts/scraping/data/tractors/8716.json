@@ -1,0 +1,204 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/7/1/8716-john-deere-5090gn.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/7/1/8716-john-deere-5090gn-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/7/1/8716-john-deere-5090gn-engine.html",
+    "source_id": 8716,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:03:58.532Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8716/8716-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 8716,
+  "name": "John Deere 5090GN",
+  "brand": "John Deere",
+  "model": "5090GN",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 90,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2659,
+  "weight_basis": "4WD ROPS",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 33,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F008/8716/8716-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td8716.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2016 -",
+          "__seccion_2__": "5G Series",
+          "__seccion_3__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "5090GN": "narrow",
+          "5075GV": "vineyard"
+        },
+        {
+          "__seccion_1__": "John Deere 5090GN Engine",
+          "__seccion_2__": "FPT 3.4L 4-cyl diesel",
+          "Fuel tank": "19.3 gal 73.1 L",
+          "&nbsp": "26.8 gal * With optional auxiliary tank 101.4 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5090GN Transmissions",
+          "__seccion_2__": "24-speed",
+          "__seccion_3__": "12-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5090GN Power",
+          "Engine (gross)": "90 hp 67.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "electrohydraulic",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post foldable mid-mount ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 5090GN are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Rear valves": "0 to 4",
+          "Mid valves": "0 to 4",
+          "Pump flow": "17.6 gpm 66.6 lpm",
+          "&nbsp": "33.4 gpm * With third pump 126.4 lpm",
+          "Total flow": "25.5 gpm 96.5 lpm",
+          "Steering flow": "7.9 gpm 29.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "center link draft sensing",
+          "Rear lift (at ends)": "5710 lbs 2590 kg",
+          "&nbsp": "adjustable ball ends Opt Optional",
+          "Rear Arms": "fixed ball ends"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "mechanical dry disc",
+          "&nbsp": "hydraulic wet disc * With PowrReverser transmission.",
+          "Rear PTO Type": "540/540E"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "5566 to 6558 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Specialty Series published in 2020, by John Deere",
+          "__seccion_3__": "Specialty Series published in 2020, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 17, 2015",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2016 -",
+          "__seccion_2__": "5G Series",
+          "__seccion_3__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 5090GN Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Width": "49.5 inches 125 cm",
+          "Flange rear axle": "38.3 inch length 972 mm"
+        },
+        {
+          "__seccion_1__": "John Deere 5090GN Weight",
+          "2WD ROPS": "5566 lbs 2524 kg",
+          "4WD ROPS": "5864 lbs 2659 kg",
+          "2WD Cab": "6272 lbs 2844 kg",
+          "4WD Cab": "6558 lbs 2974 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 17, 2015"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2016 -",
+          "__seccion_2__": "5G Series",
+          "__seccion_3__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "206.9 ci 3.4 L",
+          "Bore/Stroke": "3.9x4.33 inches 99 x 110 mm",
+          "Emissions": "Tier IV",
+          "Rated Power (gross)": "90 hp 67.1 kW",
+          "Cooling system": "viscous fan",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 17, 2015"
+        }
+      ]
+    }
+  }
+}

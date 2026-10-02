@@ -1,0 +1,243 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/3/0/1302-kubota-l3450.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/3/0/1302-kubota-l3450-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/3/0/1302-kubota-l3450-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1302,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:52:13.469Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1302/1302-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 68 KB"
+  },
+  "tractor_data_id": 1302,
+  "name": "Kubota L3450",
+  "brand": "Kubota",
+  "model": "L3450",
+  "years": {
+    "desde": 1990,
+    "hasta": 1993
+  },
+  "model_year": 1990,
+  "engine_power_hp": 36.7,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 30,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1290,
+  "weight_basis": "4WD",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 11,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-24",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1145,
+  "tire_front": {
+    "original": "5.00-15",
+    "radial": false,
+    "width_mm": 127,
+    "rim_in": 15,
+    "diameter_mm_est": 597,
+    "tipo": "Diagonal",
+    "texto": "5.00-15"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1302/1302-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1302/1302-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td1302.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1990 - 1993",
+          "__seccion_2__": "L50 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota L3450 Engine",
+          "__seccion_2__": "Kubota 1.9L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L3450 Transmissions",
+          "__seccion_2__": "8-speed mechanical shuttle",
+          "__seccion_3__": "8-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L3450 Power",
+          "Engine (gross)": "36.7 hp 27.4 kW",
+          "PTO (claimed)": "30 hp 22.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear lock",
+          "Steering": "power",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Two-post ROPS. Optional canopy."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota L3450 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "7.7 gal 29.1 L",
+          "Hydraulic system": "7.5 gal 28.4 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "7.5 gal 28.4 L",
+          "Pressure": "2490 psi 171.7 bar",
+          "Pump flow": "8.2 gpm 31.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "1",
+          "Control": "position control with optional draft control",
+          "Rear lift (at ends)": "2,645 lbs 1199 kg",
+          "Rear lift (at 24\"/610mm)": "2,050 lbs 929 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmssion",
+          "&nbsp": "live (optional)",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Mid PTO": "optional",
+          "Mid PTO Type": "1080/2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "68.3 inches 173 cm",
+          "Weight": "2610 to 2900 pounds",
+          "Front tire": "5.00-15",
+          "Rear tire": "12.4-24 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota L3450 attachments",
+          "__seccion_2__": "72\" mid-mount mower deck",
+          "__seccion_3__": "snowblower",
+          "__seccion_4__": "blade",
+          "__seccion_5__": "front-end loader",
+          "__seccion_6__": "backhoe",
+          "__seccion_7__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery CCA": "447",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Backhoes published in 1992, by Kubota",
+          "__seccion_3__": "Backhoes published in 1994, by Kubota",
+          "__seccion_4__": "Mid-Mount Mowers B/L Series published in 1994, by Kubota *",
+          "__seccion_5__": "Front Loaders B, L and M-Series published in 1994, by Kubota *",
+          "__seccion_6__": "Product Catalog published in 1990, by Kubota",
+          "__seccion_7__": "Diesel Tractors L2350DT, L2950DT, L3450DT and L3650T/DT published in 1991, by Kubota",
+          "__seccion_8__": "Diesel Tractors L2350/L2650/L2950/L3450/L3650 published in 1994, by Kubota",
+          "__seccion_9__": "Operator's Manual Models L2650 - L2950 - L3450 - L3650 (35080-19713) published in 2002",
+          "__seccion_10__": "New Product Guide L2650/L2950/L3450/L3650 published in 1990, by Kubota",
+          "__seccion_11__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 24, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1990 - 1993",
+          "__seccion_2__": "L50 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota L3450 Tires",
+          "Standard tires (ag)": "Front: 5.00-15. Rear: 12.4-24 (2WD)",
+          "&nbsp": "Front: 7-16. Rear: 12.4-24 (4WD)",
+          "Lawn/turf front": "27x8.50-15",
+          "Lawn/turf rear": "355/80-D20"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "68.3 inches 173 cm",
+          "Length": "114.2 inches 290 cm",
+          "Width": "53.9 inches 136 cm",
+          "Height (steering wheel)": "57.9 inches 147 cm",
+          "Height (ROPS)": "82.9 inches 210 cm",
+          "Ground clearance": "13.6 inches 34 cm",
+          "Front tread": "44.1 inches 112 cm (4WD)",
+          "Rear tread": "41.3/45.3/48.8/52.6/55.9/59.6 inches 104/115/123/133/141/151 cm"
+        },
+        {
+          "__seccion_1__": "Kubota L3450 Weight",
+          "2WD": "2,610 lbs 1183 kg",
+          "4WD": "2,845 lbs 1290 kg",
+          "GST": "2,900 lbs 1315 kg",
+          "Max Drawbar": "1430 lbs 648 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 24, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1990 - 1993",
+          "__seccion_2__": "L50 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V1902-DI-AE",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "113.6 ci 1.9 L",
+          "Bore/Stroke": "3.35x3.23 inches 85 x 82 mm",
+          "Power (gross)": "36.7 hp 27.4 kW",
+          "Fuel system": "direct injection",
+          "Rated RPM": "2500",
+          "Torque": "85.4 lb-ft 115.8 Nm",
+          "Starter volts": "12",
+          "Coolant capacity": "5.9 qts 5.6 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "8.9 qts 8.4 L",
+          "Oil change": "200 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 24, 2023"
+        }
+      ]
+    }
+  }
+}

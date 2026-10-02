@@ -1,0 +1,313 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/7/5/753-massey-ferguson-230.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/7/5/753-massey-ferguson-230-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/7/5/753-massey-ferguson-230-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/7/5/753-massey-ferguson-230-engine.html",
+    "source_id": 753,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:23:27.450Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/753/753-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 107 KB"
+  },
+  "tractor_data_id": 753,
+  "name": "Massey Ferguson 230",
+  "brand": "Massey Ferguson",
+  "model": "230",
+  "years": {
+    "desde": 1976,
+    "hasta": 1983
+  },
+  "model_year": 1976,
+  "engine_power_hp": 38,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 34,
+  "pto_tested_hp": 34.53,
+  "drawbar_tested_hp": 28.36,
+  "weight_kg": 1451,
+  "weight_basis": "Gas Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 17.9,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 12.4-28",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1247,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": 7.2,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/753/753-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/753/753-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td753.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1976 - 1983",
+          "__seccion_2__": "200 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Original price was $12,000 in 1983"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 230 Engines",
+          "__seccion_2__": "Perkins 2.5L 3-cyl diesel",
+          "__seccion_3__": "Continental 2.4L 4-cyl gasoline",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 230 Transmission",
+          "__seccion_2__": "6-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 230 Power",
+          "Engine": "38 hp 28.3 kW",
+          "PTO (claimed)": "34 hp 25.4 kW",
+          "Drawbar (tested)": "28.36 hp 21.1 kW",
+          "PTO (tested)": "34.53 hp 25.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "power Opt Optional",
+          "__seccion_3__": "Mechanical drum brakes",
+          "__seccion_4__": "Open operator station. ROPS and canopy optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 230 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "14 gal 53.0 L",
+          "Hydraulic system": "8 gal 30.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "8 gal 30.3 L",
+          "Pressure": "3000 psi 206.8 bar",
+          "Pump flow": "4.5 gpm 17.0 lpm",
+          "Steering flow": "5.0 gpm 18.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position and draft control"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540",
+          "Engine RPM": "540@1700"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "72.4 inches 183 cm",
+          "Weight": "3200 to 4000 pounds",
+          "Front tire": "6.00-16",
+          "Rear tire": "12.4-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 230 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1974": "9A202190",
+          "1975": "9A207681",
+          "1976": "9A232539",
+          "1977": "9A254045",
+          "1978": "9A276935",
+          "1979": "9A296946",
+          "1980": "9A326169",
+          "1981": "9A339343",
+          "1982": "9A350584",
+          "1983": "9A354679",
+          "__seccion_1__": "230 Serial Numbers",
+          "Location:": "Below steering wheel on instrument panel",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12",
+          "Battery AH": "60"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Loaders and Spreaders published in 1979, by Massey Ferguson",
+          "__seccion_3__": "MF 34-81HP Tractors published in 1980, by Massey Ferguson",
+          "__seccion_4__": "MF 200 Series Tractors published in 1982, by Massey Ferguson",
+          "__seccion_5__": "Complete Farm Machinery Guide published in 1976, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 15, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1976 - 1983",
+          "__seccion_2__": "200 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 230 Tires",
+          "Ag front": "5.50-16",
+          "Ag rear": "12.4-24",
+          "&nbsp": "14.9-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "72.4 inches 183 cm",
+          "Length": "116.1 inches 294 cm",
+          "Width": "61.8 inches 156 cm",
+          "Height (steering wheel)": "58.1 inches 147 cm",
+          "Front tread": "48 to 72 inches 121 to 182 cm",
+          "Rear tread": "48 to 76 inches 121 to 193 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 230 Weight",
+          "Gas Shipping": "3200 lbs 1451 kg",
+          "Diesel Shipping": "3450 lbs 1564 kg",
+          "Gas Operating": "3840 lbs 1741 kg",
+          "Diesel Operating": "4000 lbs 1814 kg",
+          "Ballasted": "5110 lbs 2317 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 15, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1976 - 1983",
+          "__seccion_2__": "200 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 1214: diesel 6-speed 2WD",
+          "__seccion_3__": "NTTL 1215: gasoline 6-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1214"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1214",
+          "__seccion_2__": "Diesel 6-speed 2WD June 1, 1976 - June 9, 1971 Link: Nebraska Tractor Test 1214 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "34.53 hp 25.7 kW",
+          "Fuel use": "1.9 gal/hour 7.2 l/hour",
+          "Power at rated PTO speed": "30.80 hp 23.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "28.36 hp 21.1 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "4,030 lbs 1828 kg",
+          "__seccion_6__": "Gear 2L used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1215"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1215",
+          "__seccion_2__": "Gasoline 6-speed 2WD June 1 - 10, 1976 Link: Nebraska Tractor Test 1215 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "34.34 hp 25.6 kW",
+          "Fuel use": "2.9 gal/hour 11.0 l/hour",
+          "Power at rated PTO speed": "31.29 hp 23.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "28.24 hp 21.1 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "3,717 lbs 1686 kg",
+          "__seccion_6__": "Gear 2L used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 15, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1976 - 1983",
+          "__seccion_2__": "200 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Perkins 2.5L 3-cyl diesel",
+          "__seccion_3__": "Continental 2.4L 4-cyl gasoline"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins AD3.152",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "153 ci 2.5 L",
+          "Bore/Stroke": "3.60x5.00 inches 91 x 127 mm",
+          "Power": "38 hp 28.3 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dual dry element",
+          "Compression": "18.5:1",
+          "Rated RPM": "2000",
+          "Starter volts": "12",
+          "Oil capacity": "6 qts 5.7 L",
+          "Coolant capacity": "10.5 qts 9.9 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Continental Z145",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "145 ci 2.4 L",
+          "Bore/Stroke": "3.375x4.062 inches 86 x 103 mm",
+          "Air cleaner": "dual dry element",
+          "Compression": "7.4:1",
+          "Rated RPM": "2000",
+          "Starter volts": "12",
+          "Oil capacity": "5 qts 4.7 L",
+          "Coolant capacity": "10.5 qts 9.9 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 15, 2021"
+        }
+      ]
+    }
+  }
+}

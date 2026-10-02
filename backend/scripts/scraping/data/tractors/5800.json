@@ -1,0 +1,285 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/8/0/5800-john-deere-6140d.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/8/0/5800-john-deere-6140d-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/8/0/5800-john-deere-6140d-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/8/0/5800-john-deere-6140d-engine.html",
+    "source_id": 5800,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:47:30.680Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5798/5798-serial-300x250.jpg",
+    "foto_calidad": "webp 960px/q65 → 12 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 5800,
+  "name": "John Deere 6140D",
+  "brand": "John Deere",
+  "model": "6140D",
+  "years": {
+    "desde": 2008,
+    "hasta": 2016
+  },
+  "model_year": 2008,
+  "engine_power_hp": 137.8,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 115,
+  "pto_tested_hp": 117.41,
+  "drawbar_tested_hp": 96.68,
+  "weight_kg": 3959,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 49.1,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "14.9-24",
+    "radial": false,
+    "width_mm": 378,
+    "rim_in": 24,
+    "diameter_mm_est": 1253,
+    "tipo": "Diagonal",
+    "texto": "14.9-24"
+  },
+  "fuel_consumption_lph": 26.9,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5800/5800-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5798/5798-serial-300x250.jpg",
+  "image_url": "/uploads/tractors/td5800.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2008 - 2016",
+          "__seccion_2__": "Model year 2008-2012 2013-2016",
+          "__seccion_3__": "6D Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Saltillo, Mexico",
+          "Original price": "$58,752 (2011)"
+        },
+        {
+          "__seccion_1__": "John Deere 6140D Engine",
+          "__seccion_2__": "John Deere 4.5L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6140D Transmission",
+          "__seccion_2__": "9-speed partially synchronized with power shuttle",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6140D Power",
+          "Engine (gross)": "137.8 hp 102.8 kW",
+          "PTO (claimed)": "115 hp 85.8 kW",
+          "Drawbar (tested)": "96.68 hp 72.1 kW",
+          "PTO (tested)": "117.41 hp 87.6 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Differential mechanical wet disc brakes",
+          "__seccion_4__": "Folding 2-post ROPS or cab with heat and A/C"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 6140D are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "41.7 gal 157.8 L",
+          "Hydraulic system": "15.3 gal 57.9 L",
+          "Front axle": "6.9 qts 6.5 L",
+          "Front hubs": "2.1 qts (each) 2.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "15.3 gal 57.9 L",
+          "Pressure": "2830 psi 195.1 bar",
+          "Valves": "2 to 3",
+          "Pump flow": "17.6 gpm 66.6 lpm",
+          "Steering flow": "6.9 gpm 26.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "mechanical lower link",
+          "Rear lift (at 24\"/610mm)": "6,800 lbs 3084 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "dry disc",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@2100",
+          "&nbsp": "1000@2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "92.5 inches 234 cm",
+          "Weight": "8730 to 9920 pounds",
+          "Front tire": "14.9-24",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6140D attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "6140D Serial Number Location",
+          "__seccion_2__": "Right side of main tractor frame above front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "70 (ROPS)",
+          "&nbsp": "90 (cab)",
+          "Battery CCA": "925",
+          "Battery volts": "12",
+          "Battery AH": "180",
+          "Battery Group": "31"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "All-New 6D Series Tractors published in 2008, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2021",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2008 - 2016",
+          "__seccion_2__": "Model year 2008-2012 2013-2016",
+          "__seccion_3__": "6D Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 6140D Tires",
+          "Standard tires (ag)": "Front: 14.9-24. Rear: 18.4-34",
+          "Optional tires (ag)": "Front: 14.9-24. Rear: 18.4-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "92.5 inches 234 cm",
+          "Length": "166 inches 421 cm",
+          "Width": "72 inches 182 cm",
+          "Height (cab)": "107.5 inches 273 cm",
+          "Height (exhaust)": "106 inches 269 cm",
+          "Clearance (front axle)": "18 inches 45 cm",
+          "Rear axle": "72 inch length 1828 mm (flange)",
+          "Front tread": "63.6 to 79.4 inches 161 to 201 cm",
+          "Rear tread": "59.5/63.5/67.6/71.3/75.4/79.4 inches 151/161/171/181/191/201 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 6140D Weight",
+          "Shipping": "8,730 lbs (ROPS) 3959 kg",
+          "&nbsp": "9,390 lbs (cab) 4259 kg",
+          "Operating": "9,920 lbs (cab) 4499 kg",
+          "Ballasted": "13,095 lbs 5939 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2008 - 2016",
+          "__seccion_2__": "Model year 2008-2012 2013-2016",
+          "__seccion_3__": "6D Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1951"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1951",
+          "__seccion_2__": "Diesel 9-speed 4WD April 1 - 21, 2009 Link: OCED Tractor Test 1951 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "96.68 hp 72.1 kW",
+          "Fuel use": "7.3 gal/hour 27.6 l/hour",
+          "Power at rated engine speed": "116.32 hp 86.7 kW",
+          "Power at rated PTO speed": "117.18 hp 87.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "11,029 lbs 5002 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2008 - 2016",
+          "__seccion_2__": "Model year 2008-2012 2013-2016",
+          "__seccion_3__": "6D Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 4045H PowerTech E",
+          "__seccion_3__": "intercooled turbocharged diesel",
+          "__seccion_4__": "4-cylinder 8-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "276 ci 4.5 L",
+          "Bore/Stroke": "4.20x5.00 inches 107 x 127 mm",
+          "Emissions": "Tier 3",
+          "Rated Power (gross)": "137.8 hp 102.8 kW",
+          "Fuel system": "Denso electronic high-pressure common rail",
+          "Compression": "19:1",
+          "Rated RPM": "2100",
+          "Idle RPM": "900-2200",
+          "Torque": "387 lb-ft 524.8 Nm",
+          "Torque RPM": "1500",
+          "Firing order": "1-3-4-2",
+          "Starter volts": "12",
+          "Coolant capacity": "17.4 qts 16.5 L",
+          "Intake valve clearance": "0.014 inches 0.356 mm",
+          "Exhaust valve clearance": "0.018 inches 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "13 qts 12.3 L",
+          "Oil change": "250 h",
+          "&nbsp": "500 h (JD TorqGARD oil)"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2021"
+        }
+      ]
+    }
+  }
+}

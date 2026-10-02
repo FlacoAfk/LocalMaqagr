@@ -1,0 +1,316 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/2/1/3214-john-deere-7610.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/2/1/3214-john-deere-7610-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/2/1/3214-john-deere-7610-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/2/1/3214-john-deere-7610-engine.html",
+    "source_id": 3214,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:39:07.937Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3214/3214-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 68 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 3214,
+  "name": "John Deere 7610",
+  "brand": "John Deere",
+  "model": "7610",
+  "years": {
+    "desde": 1997,
+    "hasta": 2002
+  },
+  "model_year": 1997,
+  "engine_power_hp": 140,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 120,
+  "pto_tested_hp": 126.83,
+  "drawbar_tested_hp": 108.47,
+  "weight_kg": 6004,
+  "weight_basis": "4WD Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 60.5,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "14.9-28",
+    "radial": false,
+    "width_mm": 378,
+    "rim_in": 28,
+    "diameter_mm_est": 1355,
+    "tipo": "Diagonal",
+    "texto": "14.9-28"
+  },
+  "fuel_consumption_lph": 25.7,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3214/3214-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3214/3214-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td3214.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1997 - 2002",
+          "__seccion_2__": "7010 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA"
+        },
+        {
+          "__seccion_1__": "John Deere 7610 Engine",
+          "__seccion_2__": "John Deere 6.8L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7610 Transmissions",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "19-speed full power shift",
+          "__seccion_4__": "20-speed partial power shift",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7610 Power",
+          "Engine": "140 hp 104.4 kW",
+          "PTO (claimed)": "120 hp 89.5 kW",
+          "Drawbar (tested)": "108.47 hp 80.9 kW",
+          "PTO (tested)": "126.83 hp 94.6 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "electro-hydraulic",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 7610 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "65 gal 246.0 L",
+          "&nbsp": "91 gal (optional) 344.4 L",
+          "Front axle": "15.2 qts 14.4 L",
+          "Front hubs": "2 qts 1.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure flow compensated (PFC)",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "2 to 5",
+          "SCV flow": "26 gpm 98.4 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IIIN/II",
+          "Rear lift": "7725 lbs 3504 kg",
+          "&nbsp": "10050 lbs * Optional with four-wheel drive. 4558 kg",
+          "Front Hitch": "IIIN/II Opt Optional",
+          "Front lift": "7700 lbs 3492 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet discs",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@2100",
+          "&nbsp": "1000@2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "114.4 inches 290 cm",
+          "4WD Wheelbase": "110.2 inches 279 cm",
+          "Weight": "12352 to 14540 pounds",
+          "Front tire": "11.00-16",
+          "2WD Rear tire": "18.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "7610 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the tractor frame, above the front axle."
+        },
+        {
+          "1997": "1001",
+          "1998": "10001",
+          "1999": "20001",
+          "2000": "30001",
+          "2001": "50001",
+          "2002": "70005",
+          "__seccion_1__": "7610 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "140",
+          "Batteries": "2",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "7000 TEN Series Tractors and 7405 Advantage Series Tractors Product Information Handbook published in 1998, by John Deere",
+          "__seccion_3__": "7000 TEN Series Tractors and 7405 Advantage Series Tractors Product Information Handbook published in 1999, by John Deere",
+          "__seccion_4__": "New 95- to 150-HP 7000 TEN Series Tractors published in 1996, by John Deere",
+          "__seccion_5__": "7000 TEN Series published in 1999, by John Deere",
+          "__seccion_6__": "New 7000 TEN Series Tractors - Feel The Earth Move published in 1996, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 28, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1997 - 2002",
+          "__seccion_2__": "7010 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 7610 Tires",
+          "2WD Standard tires (ag)": "Front: 11.00-16. Rear: 18.4-38",
+          "4WD Standard tires (ag)": "Front: 14.9-28. Rear: 18.4-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "114.4 inches 290 cm",
+          "4WD Wheelbase": "110.2 inches 279 cm",
+          "Length": "173 inches 439 cm",
+          "Width": "117 inches 297 cm",
+          "Height": "110 inches 279 cm",
+          "Rear axle": "3.62 by 118.6 inches 91 by 3012 mm",
+          "Rear tread": "60 to 108.3 inches 152 to 275 cm (3.0m axle)"
+        },
+        {
+          "__seccion_1__": "John Deere 7610 Weight",
+          "2WD Shipping": "12352 lbs 5602 kg",
+          "4WD Shipping": "13237 lbs 6004 kg",
+          "Operating": "14,540 lbs 6595 kg",
+          "Max Drawbar": "3,150 lbs (extended) 1428 kg",
+          "&nbsp": "6,280 lbs (short) 2848 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 28, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1997 - 2002",
+          "__seccion_2__": "7010 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "OECD 1724: diesel PowrQuad 16-speed 4WD",
+          "__seccion_3__": "OECD 1725: diesel PowerShift 4WD",
+          "__seccion_4__": "OECD 1787: diesel PowrQuad 20-speed 4WD"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1724"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1724",
+          "__seccion_2__": "Diesel PowrQuad 16-speed 4WD May 27 - June 18, 1997 Link: OCED Tractor Test 1724 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "103.19 hp 76.9 kW",
+          "Fuel use": "6.9 gal/hour 26.1 l/hour",
+          "Power at rated engine speed": "115.94 hp 86.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "13,610 lbs 6173 kg"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1725"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1725",
+          "__seccion_2__": "Diesel PowerShift 4WD May 22 - June 18, 1997 Link: OCED Tractor Test 1725 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "96.26 hp 71.8 kW",
+          "Fuel use": "6.7 gal/hour 25.4 l/hour",
+          "Power at rated engine speed": "115.96 hp 86.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 11 used for power test.",
+          "Max pull": "14,475 lbs 6565 kg",
+          "__seccion_6__": "Gear 5 used for pull test."
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1787",
+          "__seccion_2__": "Diesel PowrQuad 20-speed 4WD October 26 - November 7, 2000 Link: OCED Tractor Test 1787 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "108.47 hp 80.9 kW",
+          "Fuel use": "7.1 gal/hour 26.9 l/hour",
+          "Power at rated engine speed": "120.63 hp 90.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "17,738 lbs 8045 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 28, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1997 - 2002",
+          "__seccion_2__": "7010 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "414 ci 6.8 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Power": "140 hp 104.4 kW",
+          "Fuel system": "mechanical direct injection",
+          "Air cleaner": "dual dry element",
+          "Compression": "17:1",
+          "Rated RPM": "2100",
+          "Idle RPM": "800-2325",
+          "Torque": "420 lb-ft 569.5 Nm",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Coolant capacity": "25 qts 23.7 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "20 qts 18.9 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 28, 2022"
+        }
+      ]
+    }
+  }
+}

@@ -266,12 +266,13 @@ class Tractor {
         sort && validSortColumns.includes(sort) ? sort : "engine_power_hp";
       const sortOrder = order === "desc" ? "DESC" : "ASC";
 
-      orderByClause = `ORDER BY 
-        CASE 
+      orderByClause = `ORDER BY
+        prioridad DESC,
+        CASE
           WHEN LOWER(name) = LOWER($${relevanceIndex}) THEN 1
           WHEN LOWER(brand) = LOWER($${relevanceIndex}) THEN 2
           WHEN LOWER(model) = LOWER($${relevanceIndex}) THEN 3
-          ELSE 4 
+          ELSE 4
         END ASC, ${sortColumn} ${sortOrder}`;
     } else {
       const validSortColumns = [
@@ -286,7 +287,7 @@ class Tractor {
       const sortColumn =
         sort && validSortColumns.includes(sort) ? sort : "engine_power_hp";
       const sortOrder = order === "desc" ? "DESC" : "ASC";
-      orderByClause = `ORDER BY ${sortColumn} ${sortOrder}`;
+      orderByClause = `ORDER BY prioridad DESC, ${sortColumn} ${sortOrder}`;
     }
 
     // Count total matching records
@@ -319,9 +320,9 @@ class Tractor {
   // Get available tractors
   static async getAvailable() {
     const query = `
-      SELECT * FROM tractor 
+      SELECT * FROM tractor
       WHERE status = 'available'
-      ORDER BY engine_power_hp DESC
+      ORDER BY prioridad DESC, engine_power_hp DESC
     `;
     const result = await pool.query(query);
     return result.rows;

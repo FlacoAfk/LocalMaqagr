@@ -1,0 +1,290 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/4/8/7483-challenger-mt585d.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/4/8/7483-challenger-mt585d-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/007/4/8/7483-challenger-mt585d-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/4/8/7483-challenger-mt585d-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 7483,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:40:06.602Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7483/7483-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 2 KB"
+  },
+  "tractor_data_id": 7483,
+  "name": "Challenger MT585D",
+  "brand": "Challenger (a part of AGCO)",
+  "model": "mt585d",
+  "years": {
+    "desde": 2012,
+    "hasta": 2014
+  },
+  "model_year": 2012,
+  "engine_power_hp": 220,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 180,
+  "pto_tested_hp": 212,
+  "drawbar_tested_hp": 161.7,
+  "weight_kg": 7711,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 74.5,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 480/80R46",
+  "tire_width_mm": 480,
+  "tire_diameter_mm": 1936,
+  "tire_front": {
+    "original": "420/90R30",
+    "radial": true,
+    "width_mm": 420,
+    "rim_in": 30,
+    "diameter_mm_est": 1518,
+    "tipo": "Radial",
+    "texto": "420/90R30"
+  },
+  "fuel_consumption_lph": 43.5,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7483/7483-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td7483.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2012 - 2014",
+          "__seccion_2__": "MT500D Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Challenger (a part of AGCO)",
+          "__seccion_2__": "Row-Crop tractor",
+          "Factories": "Beauvais, France",
+          "&nbsp": "Jackson, Minnesota, USA",
+          "Original price": "$170,650 (2013 classic )",
+          "__seccion_3__": "$195,370 (2013 deluxe )",
+          "__seccion_4__": "$205,680 (2013 deluxe )"
+        },
+        {
+          "7624": "similar Massey Ferguson model",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Challenger MT585D Engine",
+          "__seccion_2__": "AGCO Power 7.4L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Challenger MT585D Transmissions",
+          "__seccion_2__": "24-speed six-speed power shift",
+          "__seccion_3__": "continuously variable transmission",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Challenger MT585D Power",
+          "Engine": "220 hp 164.1 kW",
+          "PTO (claimed)": "180 hp 134.2 kW",
+          "Drawbar (tested)": "161.7 hp 120.6 kW",
+          "PTO (tested)": "212.0 hp 158.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "electro-hydraulic full locking",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic (optional)",
+          "&nbsp": "pneumatic (optional)",
+          "__seccion_4__": "Cab standard with air-conditioning. AGCO System 150 (optional); AGCOMMAND (optional)"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Challenger MT585D are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "114 gal 431.5 L",
+          "Exhaust fluid (DEF)": "11 gal 41.6 L",
+          "Hydraulic system": "26.4 gal 99.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing (CCLS)",
+          "Capacity": "26.4 gal 99.9 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "2 to 4",
+          "SCV flow": "24.3 gpm 92.0 lpm",
+          "Total flow": "29 gpm 109.8 lpm",
+          "&nbsp": "39 gpm (optional) 147.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Control": "electronic lower link draft control",
+          "Rear lift (at 24\"/610mm)": "12500 lbs (AutoPower) 5670 kg",
+          "&nbsp": "11650 lbs (CVT) 5284 kg",
+          "Drawbar": "Cat. 2"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540/1000",
+          "&nbsp": "540E/1000E/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "117 inches 297 cm",
+          "Weight": "17000 lbs 7711 kg",
+          "Front tire": "420/90R30",
+          "Rear tire": "480/80R46",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "175",
+          "&nbsp": "240 * Total capacity with dual 120A alternator option.",
+          "Batteries": "2",
+          "Battery CCA": "600",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Challenger MT500D Series published in 2011, by AGCO",
+          "__seccion_3__": "Challenger MT500D Series published in 2013, by AGCO"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 21, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2012 - 2014",
+          "__seccion_2__": "MT500D Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Challenger MT585D Tires",
+          "Standard tires (ag)": "Front: 420/90R30. Rear: 480/80R46"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "117 inches 297 cm",
+          "Length": "200.2 inches 508 cm",
+          "Height (cab)": "122.8 inches 311 cm",
+          "Shipping weight": "17000 lbs 7711 kg",
+          "Max weight": "27560 lbs 12501 kg",
+          "Bar rear axle": "3.74 by 89.6 inches 94 by 2275 mm (CVT)",
+          "Rear axle": "4.33 by 118.2 inches 109 by 3002 mm",
+          "Long bar rear axle": "3.74 by 113 inches 94 by 2870 mm (CVT)"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 21, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2012 - 2014",
+          "__seccion_2__": "MT500D Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "OECD 2706: diesel Techstar CVT 4WD",
+          "__seccion_3__": "OECD 2757: diesel AutoPower VI 4WD"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2706"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2706",
+          "__seccion_2__": "Diesel Techstar CVT 4WD January 2012 - May 2012, Link: OCED Tractor Test 2706 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "158.5 hp 118.2 kW",
+          "Fuel use": "10.0 gal/hour 37.9 l/hour",
+          "Power at rated engine speed": "187.5 hp 139.8 kW",
+          "Power at rated PTO speed": "201.2 hp 150.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Pull at 7.89 KPH",
+          "Max pull": "16750 lbs 7597 kg",
+          "__seccion_6__": "Pull at 4.33 KPH"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2757"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2757",
+          "__seccion_2__": "Diesel AutoPower VI 4WD October 2012 - November 2012, Link: OCED Tractor Test 2757 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "161.7 hp 120.6 kW",
+          "Fuel use": "9.8 gal/hour 37.1 l/hour",
+          "Power at rated engine speed": "186.0 hp 138.7 kW",
+          "Power at rated PTO speed": "210.4 hp 156.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 3A used for power test.",
+          "Max pull": "17290 lbs 7842 kg",
+          "__seccion_6__": "Gear 1F used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 21, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2012 - 2014",
+          "__seccion_2__": "MT500D Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "AGCO Power",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "449.4 ci 7.4 L",
+          "Bore/Stroke": "4.252x5.276 inches 108 x 134 mm",
+          "Emissions": "Interim Tier IV",
+          "Emission control": "selective catalyitic reduction (SCR)",
+          "Power": "220 hp 164.1 kW",
+          "Maximum Power": "235 hp 175.2 kW",
+          "Fuel system": "electronic high pressure common rail",
+          "Air cleaner": "dual stage dry",
+          "Pre-heating": "thermostart",
+          "Compression": "17.8:1",
+          "Rated RPM": "2100",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 21, 2022"
+        }
+      ]
+    }
+  }
+}

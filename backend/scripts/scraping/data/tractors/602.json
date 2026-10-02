@@ -1,0 +1,220 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/6/0/602-new-holland-3830.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/6/0/602-new-holland-3830-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/6/0/602-new-holland-3830-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 602,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:20:04.357Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/602/602-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 39 KB"
+  },
+  "tractor_data_id": 602,
+  "name": "New Holland 3830",
+  "brand": "New Holland",
+  "model": "3830",
+  "years": {
+    "desde": 1992,
+    "hasta": 1999
+  },
+  "model_year": 1992,
+  "engine_power_hp": 55,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 45,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1830,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 16.5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 11.2-24",
+  "tire_width_mm": 284,
+  "tire_diameter_mm": 1093,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/602/602-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/602/602-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td602.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1992 - 1999",
+          "__seccion_2__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Orchard/Vineyard tractor",
+          "__seccion_3__": "Original price was $23,200 in 1999"
+        },
+        {
+          "__seccion_1__": "New Holland 3830 Engine",
+          "__seccion_2__": "Iveco 2.7L 3-cyl diesel",
+          "Fuel tank": "11.9 gal 45.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland 3830 Transmission",
+          "__seccion_2__": "12-speed mechanical shuttle",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland 3830 Power",
+          "Engine": "55 hp 41.0 kW",
+          "PTO (claimed)": "45 hp 33.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical wet disc brakes",
+          "__seccion_5__": "Two-post mid-mount ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland 3830 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2740 psi 188.9 bar",
+          "Valves": "2",
+          "Pump flow": "11 gpm 41.6 lpm",
+          "Steering flow": "8.1 gpm 30.7 lpm",
+          "Steering press.": "1015 psi 70.0 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control and lower-link draft sensing",
+          "Rear lift": "4321 lbs 1960 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "dry disc",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "72.6 inches 184 cm",
+          "4WD Wheelbase": "75.5 inches 191 cm",
+          "Weight": "3851 to 4035 pounds",
+          "Front tire": "5.50-16",
+          "2WD Rear tire": "11.2-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "33",
+          "Cab Charging amps": "65",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "New Holland Narrow Tractors 45 and 62 HP published in 1998",
+          "__seccion_3__": "North American Buyer's Guide published in 1997, by New Holland"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 28, 2021",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1992 - 1999",
+          "__seccion_2__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "New Holland 3830 Tires",
+          "2WD Standard tires (ag)": "Front: 5.50-16. Rear: 11.2-24",
+          "4WD Standard tires (ag)": "Front: 6.00-16. Rear: 11.2-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "72.6 inches 184 cm",
+          "4WD Wheelbase": "75.5 inches 191 cm",
+          "2WD Length": "128.9 inches 327 cm",
+          "4WD Length": "129.5 inches 328 cm",
+          "Width": "49 inches 124 cm",
+          "2WD Weight": "3851 lbs 1746 kg",
+          "4WD Weight": "4035 lbs 1830 kg",
+          "2WD Clearance (front axle)": "14.6 inches 37 cm",
+          "4WD Clearance (front axle)": "8.3 inches 21 cm"
+        },
+        {
+          "__seccion_1__": "New Holland 3830 Height",
+          "2WD Steering wheel": "51.9 inches 131 cm",
+          "4WD Steering wheel": "50 inches 127 cm",
+          "2WD Hood": "46.5 inches 118 cm",
+          "4WD Hood": "44.7 inches 113 cm",
+          "2WD ROPS": "82 inches 208 cm",
+          "4WD ROPS": "80.6 inches 204 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 28, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1992 - 1999",
+          "__seccion_2__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iveco",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "165 ci 2.7 L",
+          "Power": "55 hp 41.0 kW",
+          "Compression": "17:1",
+          "Rated RPM": "2500",
+          "Firing order": "1-2-3",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "7.7 qts 7.3 L",
+          "Coolant capacity": "12.7 qts 12.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 28, 2021"
+        }
+      ]
+    }
+  }
+}

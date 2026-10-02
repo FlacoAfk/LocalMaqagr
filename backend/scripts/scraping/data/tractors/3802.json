@@ -1,0 +1,205 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/8/0/3802-john-deere-9400t.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/8/0/3802-john-deere-9400t-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/8/0/3802-john-deere-9400t-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/8/0/3802-john-deere-9400t-engine.html",
+    "source_id": 3802,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:41:26.535Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3802/3802-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 69 KB"
+  },
+  "tractor_data_id": 3802,
+  "name": "John Deere 9400T",
+  "brand": "John Deere",
+  "model": "9400T",
+  "years": {
+    "desde": 2000,
+    "hasta": 2001
+  },
+  "model_year": 2000,
+  "engine_power_hp": 425,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": 346.53,
+  "drawbar_tested_hp": 323.43,
+  "weight_kg": 19332,
+  "weight_basis": "Weight",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 188.7,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 71.2,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3802/3802-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3802/3802-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td3802.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2000 - 2001",
+          "__seccion_2__": "9000 Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Agricultural Crawler tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA"
+        },
+        {
+          "9400": "wheeled tractor",
+          "__seccion_1__": "Variants",
+          "9400T": "crawler"
+        },
+        {
+          "__seccion_1__": "John Deere 9400T Engine",
+          "__seccion_2__": "John Deere 12.5L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 9400T Transmission",
+          "__seccion_2__": "24-speed partial power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 9400T Power",
+          "Engine": "425 hp 316.9 kW",
+          "Drawbar (tested)": "323.43 hp 241.2 kW",
+          "PTO (tested)": "346.53 hp 258.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "crawler",
+          "Steering": "electro-hydraulic",
+          "__seccion_2__": "Wet disc brakes",
+          "__seccion_3__": "Cab standard"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 9400T photos..."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III,IV"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tracks",
+          "Weight": "42,620 lbs 19332 kg",
+          "__seccion_2__": "Tracks",
+          "__seccion_3__": "Full dimensions and tracks ..."
+        },
+        {
+          "__seccion_1__": "9400T Serial Numbers",
+          "Location:": "Under tractor cab door near steps."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "9000/9000T Series Tractors Product Information Handbook published in 1999, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 1, 2023",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2000 - 2001",
+          "__seccion_2__": "9000 Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 9400T Tracks"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Weight": "42,620 lbs 19332 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 1, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2000 - 2001",
+          "__seccion_2__": "9000 Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1791"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1791",
+          "__seccion_2__": "Diesel 24-speed crawler March 27 - April 13, 2001 Link: OCED Tractor Test 1791 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "323.43 hp 241.2 kW",
+          "Fuel use": "20.1 gal/hour 76.1 l/hour",
+          "Power at rated engine speed": "299.66 hp 223.5 kW",
+          "Power at rated PTO speed": "331.95 hp 247.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "42,421 lbs 19242 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 1, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2000 - 2001",
+          "__seccion_2__": "9000 Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled vertical",
+          "Displacement": "765 ci 12.5 L",
+          "Bore/Stroke": "5.00x6.50 inches 127 x 165 mm",
+          "Power": "425 hp 316.9 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "17:1",
+          "Rated RPM": "2100",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 1, 2023"
+        }
+      ]
+    }
+  }
+}

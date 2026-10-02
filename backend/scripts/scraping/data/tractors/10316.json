@@ -1,0 +1,235 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/3/1/10316-john-deere-3043d.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/3/1/10316-john-deere-3043d-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/3/1/10316-john-deere-3043d-engine.html",
+    "source_id": 10316,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:08:00.655Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10316/10316-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 89 KB"
+  },
+  "tractor_data_id": 10316,
+  "name": "John Deere 3043D",
+  "brand": "John Deere",
+  "model": "3043D",
+  "years": {
+    "desde": 2000,
+    "hasta": 2026
+  },
+  "model_year": 2000,
+  "engine_power_hp": 41.6,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 36.3,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1288,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 13.3,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 11.2-24",
+  "tire_width_mm": 284,
+  "tire_diameter_mm": 1093,
+  "tire_front": {
+    "original": "7-14",
+    "radial": false,
+    "width_mm": 178,
+    "rim_in": 14,
+    "diameter_mm_est": 658,
+    "tipo": "Diagonal",
+    "texto": "7-14"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F010/10316/10316-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F010/10316/10316-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td10316.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2019 -",
+          "__seccion_2__": "3D Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in India",
+          "__seccion_4__": "Original price was $23,721 in 2019"
+        },
+        {
+          "__seccion_1__": "John Deere 3043D Engine",
+          "__seccion_2__": "Yanmar 1.6L 3-cyl diesel",
+          "Fuel tank": "9.7 gal 36.7 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3043D Transmission",
+          "__seccion_2__": "8-speed mechanical shuttle",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3043D Power",
+          "Engine (gross)": "41.6 hp 31.0 kW",
+          "PTO (claimed)": "36.3 hp 27.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "spur gear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 3043D photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2500 psi 172.4 bar",
+          "Rear valves": "2 Opt Optional",
+          "Pump flow": "5.1 gpm 19.3 lpm",
+          "Total flow": "10.3 gpm 39.0 lpm",
+          "Steering flow": "4.4 gpm 16.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at 24\"/610mm)": "1670 lbs 757 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2400"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "62 inches 157 cm",
+          "Weight": "2840 lbs 1288 kg",
+          "Front tire": "7-14",
+          "Rear tire": "11.2-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3043D attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "3043D Serial Numbers",
+          "Location:": "Serial number plate on the left side of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "55",
+          "Battery CCA": "600",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "3 Series published in 2019, by John Deere",
+          "__seccion_3__": "3 Series published in 2022, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on March 2, 2026",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2019 -",
+          "__seccion_2__": "3D Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 3043D Tires",
+          "Standard tires (ag)": "Front: 7-14. Rear: 11.2-24",
+          "Lawn/turf front": "27x8.5-15",
+          "Lawn/turf rear": "41x14-20",
+          "Industrial front": "25x8.5-14",
+          "Industrial rear": "15-19.5"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "62 inches 157 cm",
+          "Length": "111.2 inches 282 cm",
+          "Width": "57.3 inches 145 cm",
+          "Height (steering wheel)": "59.4 inches 150 cm",
+          "Clearance (front axle)": "14 inches 35 cm",
+          "Clearance (rear axle)": "13 inches 33 cm",
+          "Front tread": "41.7 inches 105 cm",
+          "Rear tread": "43.3 inches 109 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 3043D Weight",
+          "Shipping": "2840 lbs 1288 kg",
+          "Max capacity": "4630 lbs 2100 kg",
+          "Max front axle": "1940 lbs 879 kg",
+          "Max rear axle": "3527 lbs 1599 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 2, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2019 -",
+          "__seccion_2__": "3D Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Yanmar 3TNV86CT-KJPT",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "95.8 ci 1.6 L",
+          "Bore/Stroke": "3.39x3.54 inches 86 x 90 mm",
+          "Emissions": "Tier 4",
+          "Power (gross)": "41.6 hp 31.0 kW",
+          "Fuel system": "high pressure common rail direct injection",
+          "Air cleaner": "dual dry element",
+          "Compression": "19.1:1",
+          "Rated RPM": "2400",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Starter power": "1.9 hp 1.4 kW",
+          "Oil capacity": "4.8 qts 4.5 L",
+          "Oil change": "400 h",
+          "Coolant capacity": "5.8 qts 5.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 2, 2026"
+        }
+      ]
+    }
+  }
+}

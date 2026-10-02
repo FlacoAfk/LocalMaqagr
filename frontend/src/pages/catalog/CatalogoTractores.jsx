@@ -13,9 +13,10 @@
  * @module pages/CatalogoTractores
  */
 
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback, useRef } from 'react';
 import TractorMachineCard from '@/features/tractors/components/TractorMachineCard';
 import SkeletonCard from '@/components/ui/SkeletonCard';
+import Pagination from '@/components/ui/Pagination';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { PiTractorFill as TractorImg } from "react-icons/pi";
@@ -40,11 +41,18 @@ const BRANDS = ['John Deere', 'New Holland', 'Massey Ferguson', 'Kubota'];
 
 /**
  * CatalogoTractores — Página de listado de tractores con filtros integrados a la API.
+ * Carga por páginas desde el API (paginación server-side) para no traer
+ * todo el catálogo de una vez.
  */
 export default function CatalogoTractores() {
   const [tractors, setTractors] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState(null);
+
+  // Paginación
+  const [page, setPage] = useState(1);
+  const [pageSize, setPageSize] = useState(12);
+  const [pagination, setPagination] = useState({ total: 0, totalPages: 0 });
 
   // States for filters
   const [search, setSearch] = useState('');
@@ -53,6 +61,7 @@ export default function CatalogoTractores() {
   const [maxPower, setMaxPower] = useState('');
 
   const debouncedSearch = useDebounce(search, 500);
+  const gridRef = useRef(null);
 
   const fetchTractors = useCallback(async () => {
     setIsLoading(true);
@@ -63,25 +72,49 @@ export default function CatalogoTractores() {
         brand,
         minPower,
         maxPower,
-        limit: 12
+        page,
+        limit: pageSize
       });
       setTractors(response.data || []);
+      if (response.pagination) {
+        setPagination({
+          total: response.pagination.total ?? 0,
+          totalPages: response.pagination.totalPages ?? 0,
+        });
+      }
     } catch (err) {
       setError(err.message || 'Error al cargar el catálogo de tractores');
     } finally {
       setIsLoading(false);
     }
-  }, [debouncedSearch, brand, minPower, maxPower]);
+  }, [debouncedSearch, brand, minPower, maxPower, page, pageSize]);
 
   useEffect(() => {
     fetchTractors();
   }, [fetchTractors]);
+
+  // Volver a la página 1 cuando cambia cualquier filtro
+  useEffect(() => {
+    setPage(1);
+  }, [debouncedSearch, brand, minPower, maxPower]);
+
+  const handleChangePage = (newPage) => {
+    setPage(newPage);
+    // Llevar al usuario al inicio del listado al cambiar de página
+    gridRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  };
+
+  const handleChangePageSize = (newSize) => {
+    setPageSize(newSize);
+    setPage(1);
+  };
 
   const handleClearFilters = () => {
     setSearch('');
     setBrand('');
     setMinPower('');
     setMaxPower('');
+    setPage(1);
   };
 
   return (
@@ -172,7 +205,7 @@ export default function CatalogoTractores() {
               </div>
             )}
 
-            <div className="grid grid-cols-1 gap-4 sm:gap-5 sm:grid-cols-2 xl:grid-cols-3">
+            <div ref={gridRef} className="grid grid-cols-1 gap-4 sm:gap-5 sm:grid-cols-2 xl:grid-cols-3 scroll-mt-20">
               {isLoading ? (
                 // Skeletons de carga
                 Array.from({ length: 6 }).map((_, i) => <SkeletonCard key={i} />)
@@ -192,6 +225,19 @@ export default function CatalogoTractores() {
                 </div>
               )}
             </div>
+
+            {/* Paginación server-side */}
+            {!isLoading && pagination.totalPages > 1 && (
+              <Pagination
+                paginaActual={page}
+                totalPaginas={pagination.totalPages}
+                onCambiarPagina={handleChangePage}
+                total={pagination.total}
+                limit={pageSize}
+                onLimitChange={handleChangePageSize}
+                isLoading={isLoading}
+              />
+            )}
           </main>
         </div>
       </div>

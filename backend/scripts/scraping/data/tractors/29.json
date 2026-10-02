@@ -1,0 +1,247 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/2/29-john-deere-la.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/2/29-john-deere-la-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/2/29-john-deere-la-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/2/29-john-deere-la-engine.html",
+    "source_id": 29,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:34:50.007Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/29/29-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 88 KB",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1057/",
+    "nebraska_test": 373
+  },
+  "tractor_data_id": 29,
+  "name": "John Deere LA",
+  "brand": "John Deere",
+  "model": "LA",
+  "years": {
+    "desde": 1941,
+    "hasta": 1946
+  },
+  "model_year": 1941,
+  "engine_power_hp": 12.93,
+  "engine_power_source": "belt_claimed (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 13.1,
+  "weight_kg": 997,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 8.6,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 8.00-24",
+  "tire_width_mm": 203,
+  "tire_diameter_mm": 955,
+  "tire_front": {
+    "original": "5.00-15",
+    "radial": false,
+    "width_mm": 127,
+    "rim_in": 15,
+    "diameter_mm_est": 597,
+    "tipo": "Diagonal",
+    "texto": "5.00-15"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/29/29-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/29/29-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td29.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1941 - 1946",
+          "__seccion_2__": "Two-Cylinder Letter Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Moline, Illinois, USA",
+          "__seccion_4__": "The John Deere model LA was a larger version of the model L. The LA featured a larger engine with increased RPMs."
+        },
+        {
+          "__seccion_1__": "John Deere LA Engine",
+          "__seccion_2__": "John Deere 1.3L 2-cyl gasoline",
+          "Fuel tank": "8 gal 30.3 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere LA Transmission",
+          "__seccion_2__": "3-speed unsynchronized gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere LA Power",
+          "Drawbar (claimed)": "10.46 hp 7.8 kW",
+          "Belt (claimed)": "12.93 hp 9.6 kW",
+          "Plows": "1 (16-inch)",
+          "Drawbar (tested)": "13.10 hp 9.8 kW",
+          "Belt (tested)": "14.34 hp 10.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Open operator station with steel pan seat."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere LA photos..."
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission ((Optional)",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "61 inches 154 cm",
+          "Weight": "2200 lbs 997 kg",
+          "Front tire": "5.00-15",
+          "Rear tire": "8.00-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "LA Serial Number Location",
+          "__seccion_2__": "Back of rear axle on right side."
+        },
+        {
+          "1941": "1001",
+          "1942": "5361",
+          "1943": "6029",
+          "1944": "6159",
+          "1945": "9732",
+          "1946": "11529",
+          "__seccion_1__": "LA Serial Numbers",
+          "Final": "13475",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Belt Pulley",
+          "Diameter": "6.75 inches 17 cm",
+          "Width": "4.5 inches 11 cm",
+          "RPM": "1770",
+          "Speed": "3115 ft/min 949.45 meters/min"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere Styled \"Letter\" Series by J.R. Hobbs",
+          "__seccion_3__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_4__": "General Catalog published in 1940, by John Deere",
+          "__seccion_5__": "Models \"L\" and \"LA\" General-Purpose Tractors published in 1941, by John Deere",
+          "__seccion_6__": "The New, More Powerful Model \"LA\" published in 1940, by John Deere",
+          "__seccion_7__": "Instructions for Model LA Tractor (DIR-207)",
+          "__seccion_8__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 28, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1941 - 1946",
+          "__seccion_2__": "Two-Cylinder Letter Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere LA Tires",
+          "Ag front": "5.00-15",
+          "Ag rear": "8.00-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "61 inches 154 cm",
+          "Length": "93 inches 236 cm",
+          "Width": "47 inches 119 cm",
+          "Height": "60 inches 152 cm",
+          "Shipping weight": "2200 lbs 997 kg",
+          "Ground clearance": "20.5 inches 52 cm",
+          "Rear tread": "38/43/48/54 inches 96/109/121/137 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 28, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1941 - 1946",
+          "__seccion_2__": "Two-Cylinder Letter Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 373"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 373",
+          "__seccion_2__": "Gasoline 3-speed 2WD June 20 - 28, 1941 Link: Nebraska Tractor Test 373 file",
+          "Belt power (max)": "14.34 hp 10.7 kW",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "13.10 hp 9.8 kW",
+          "Max pull": "1,936 lbs 878 kg",
+          "__seccion_4__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 28, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1941 - 1946",
+          "__seccion_2__": "Two-Cylinder Letter Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "77 ci 1.3 L",
+          "Bore/Stroke": "3.50x4.00 inches 89 x 102 mm",
+          "Air cleaner": "oil bath",
+          "Rated RPM": "1850",
+          "Firing order": "1-2",
+          "Starter volts": "6",
+          "Oil capacity": "3 qts 2.8 L",
+          "Coolant capacity": "10 qts 9.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 28, 2025"
+        }
+      ]
+    }
+  }
+}

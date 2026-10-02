@@ -1,0 +1,280 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/4/8/485-ji-case-630.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/4/8/485-ji-case-630-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/4/8/485-ji-case-630-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/4/8/485-ji-case-630-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 485,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:05:14.361Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/485/485-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 54 KB"
+  },
+  "tractor_data_id": 485,
+  "name": "J.I. Case 630",
+  "brand": "J.I. Case",
+  "model": "630",
+  "years": {
+    "desde": 1960,
+    "hasta": 1963
+  },
+  "model_year": 1960,
+  "engine_power_hp": 50,
+  "engine_power_source": "belt_claimed (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": 48.85,
+  "drawbar_tested_hp": 43.71,
+  "weight_kg": 2086,
+  "weight_basis": "Operating",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 32,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 16.9-28",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1441,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": 14.8,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/485/485-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/485/485-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td485.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1960 - 1963",
+          "__seccion_2__": "630 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Utility tractor",
+          "Factories": "Rock Island, Illinois, USA",
+          "&nbsp": "Racine, Wisconsin, USA",
+          "Total built": "1,181",
+          "Original price": "$4,500",
+          "__seccion_3__": "A high-speed fourth gear was optional in most 630 series transmissions, an H would appear at the end of the model number to inidcate this option."
+        },
+        {
+          "630": "diesel standard",
+          "631": "diesel row-crop",
+          "640": "gas standard",
+          "641": "gas row-crop",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "J.I. Case 630 Engine",
+          "__seccion_2__": "J.I. Case 3.1L 4-cyl diesel",
+          "Fuel tank": "22 gal 83.3 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 630 Transmissions",
+          "__seccion_2__": "8-speed torque converter",
+          "__seccion_3__": "12-speed",
+          "__seccion_4__": "8-speed",
+          "__seccion_5__": "4-speed gear",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 630 Power",
+          "Belt (claimed)": "50 hp 37.3 kW",
+          "Plows": "4",
+          "Drawbar (tested)": "43.71 hp 32.6 kW",
+          "PTO (tested)": "48.85 hp 36.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "power assist",
+          "__seccion_3__": "Differential mechanical dry disc brakes",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "J.I. Case 630 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "Dual-Control"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Type": "Case Eagle Hitch"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "continuous",
+          "&nbsp": "540/1000 (1.375)",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "4600 to 4800 pounds",
+          "Front tire": "7.50-16",
+          "Rear tire": "16.9-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "630 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the instrument panel."
+        },
+        {
+          "1960": "6144001",
+          "1961": "6162601",
+          "1962": "8190001",
+          "1963": "8208001",
+          "__seccion_1__": "630 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Belt Pulley",
+          "Diameter": "9.25 inches 23 cm",
+          "Width": "6 inches 15 cm"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive",
+          "Batteries": "2",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "1960 Progress Parade of Case Farm Equipment published by J.I. Case",
+          "__seccion_3__": "A Complete New Line of Case Plus-Powered Tractors published in 1960, by J.I. Case"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 1, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1960 - 1963",
+          "__seccion_2__": "630 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "J.I. Case 630 Tires",
+          "Ag front": "7.50-16",
+          "Ag rear": "16.9-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Front tread": "52 inches 132 cm",
+          "Rear tread": "48 to 76 inches 121 to 193 cm"
+        },
+        {
+          "__seccion_1__": "J.I. Case 630 Weight",
+          "Operating": "4,600 lbs 2086 kg",
+          "&nbsp": "4,800 lbs (Case-o-Matic) 2177 kg",
+          "Ballasted": "9,725 lbs 4411 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 1, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1960 - 1963",
+          "__seccion_2__": "630 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 787: diesel Case-O-Matic 2WD",
+          "__seccion_3__": "NTTL 788: diesel 12-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 787"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 787",
+          "__seccion_2__": "Diesel Case-O-Matic 2WD April 7 - 21, 1961 Link: Nebraska Tractor Test 787 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "48.85 hp 36.4 kW",
+          "Fuel use": "3.5 gal/hour 13.2 l/hour",
+          "Power at rated PTO speed": "45.24 hp 33.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "43.71 hp 32.6 kW",
+          "__seccion_5__": "Gear 5 used for power test.",
+          "Max pull": "7,190 lbs 3261 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 788"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 788",
+          "__seccion_2__": "Diesel 12-speed 2WD April 10 - 22, 1961 Link: Nebraska Tractor Test 788 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "48.24 hp 36.0 kW",
+          "Fuel use": "3.2 gal/hour 12.1 l/hour",
+          "Power at rated PTO speed": "47.40 hp 35.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "40.68 hp 30.3 kW",
+          "__seccion_5__": "Gear 7 used for power test.",
+          "Max pull": "6,987 lbs 3169 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 1, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1960 - 1963",
+          "__seccion_2__": "630 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "J.I. Case",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "188.4 ci 3.1 L",
+          "Bore/Stroke": "3.8125x4.125 inches 97 x 105 mm",
+          "Compression": "17.5:1",
+          "Rated RPM": "2250",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 1, 2024"
+        }
+      ]
+    }
+  }
+}

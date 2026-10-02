@@ -1,0 +1,232 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/8/0/1806-john-deere-3040.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/8/0/1806-john-deere-3040-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/8/0/1806-john-deere-3040-engine.html",
+    "source_id": 1806,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:38:00.711Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1806/1806-td4-b01-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 87 KB"
+  },
+  "tractor_data_id": 1806,
+  "name": "John Deere 3040",
+  "brand": "John Deere",
+  "model": "3040",
+  "years": {
+    "desde": 1980,
+    "hasta": 1987
+  },
+  "model_year": 1980,
+  "engine_power_hp": 88.5,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": 77.8,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4440,
+  "weight_basis": "4WD Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 28.5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9-38",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1695,
+  "tire_front": {
+    "original": "12.4-28",
+    "radial": false,
+    "width_mm": 315,
+    "rim_in": 28,
+    "diameter_mm_est": 1247,
+    "tipo": "Diagonal",
+    "texto": "12.4-28"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1806/1806-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1806/1806-td4-b01-ext090.jpg",
+  "image_url": "/uploads/tractors/td1806.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1980 - 1987",
+          "__seccion_2__": "Model year 1980-1981 1981-1987",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany"
+        },
+        {
+          "__seccion_1__": "John Deere 3040 Engine",
+          "__seccion_2__": "John Deere 5.9L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3040 Transmissions",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "16-speed two-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3040 Power",
+          "Engine (net)": "88.5 hp 66.0 kW",
+          "PTO (claimed)": "77.8 hp 58.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Sound Gard SG2 cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 3040 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "33.3 gal 126.0 L",
+          "Hydraulic system": "15.85 gal 60.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "15.85 gal 60.0 L",
+          "Pressure": "2466 psi 170.0 bar",
+          "Pump flow": "12.4 gpm 46.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position and draft control",
+          "Rear lift": "7685 lbs 3485 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic disc",
+          "Rear PTO Type": "540/1000",
+          "Engine RPM": "540@2400",
+          "&nbsp": "1000@2400"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "100 inches 254 cm",
+          "4WD Wheelbase": "102 inches 259 cm",
+          "Weight": "9175 to 9790 pounds",
+          "Front tire": "10.00-16",
+          "2WD Rear tire": "16.9-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "3040 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the John Deere 3040, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "55",
+          "Batteries": "2",
+          "Battery volts": "12",
+          "Battery AH": "88"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "3040 Tractor published in 1981, by John Deere",
+          "__seccion_3__": "Move up to John Deere... published in 1981"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 7, 2021",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1980 - 1987",
+          "__seccion_2__": "Model year 1980-1981 1981-1987",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 3040 Tires",
+          "2WD Standard tires (ag)": "Front: 10.00-16. Rear: 16.9-38",
+          "4WD Standard tires (ag)": "Front: 12.4-28. Rear: 16.9-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "100 inches 254 cm",
+          "4WD Wheelbase": "102 inches 259 cm",
+          "2WD Length": "167 inches 424 cm",
+          "4WD Length": "173 inches 439 cm",
+          "Width": "81 inches 205 cm",
+          "Height (cab)": "110 inches 279 cm",
+          "Height (exhaust)": "119 inches 302 cm",
+          "2WD Shipping weight": "9175 lbs 4161 kg",
+          "4WD Shipping weight": "9790 lbs 4440 kg",
+          "2WD Clearance (front axle)": "26 inches 66 cm",
+          "4WD Clearance (front axle)": "20 inches 50 cm",
+          "2WD Front tread": "57 to 82 inches 144 to 208 cm",
+          "4WD Front tread": "55.6 to 83 inches 141 to 210 cm",
+          "Rear tread": "63 to 79 inches 160 to 200 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 7, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1980 - 1987",
+          "__seccion_2__": "Model year 1980-1981 1981-1987",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "359 ci 5.9 L",
+          "Bore/Stroke": "4.19x4.33 inches 106 x 110 mm",
+          "Power (net)": "88.5 hp 66.0 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dry",
+          "Compression": "16.8:1",
+          "Rated RPM": "2500",
+          "Torque": "218 lb-ft 295.6 Nm",
+          "Torque RPM": "1300",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "12.2 qts 11.5 L",
+          "Coolant capacity": "25.4 qts 24.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 7, 2021"
+        }
+      ]
+    }
+  }
+}

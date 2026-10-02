@@ -1,0 +1,246 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/1/5/8153-john-deere-7250r.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/1/5/8153-john-deere-7250r-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/1/5/8153-john-deere-7250r-engine.html",
+    "source_id": 8153,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:02:05.830Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8153/8153-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 8153,
+  "name": "John Deere 7250R",
+  "brand": "John Deere",
+  "model": "7250R",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 250,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 205,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 10816,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 75.2,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 320/90R54",
+  "tire_width_mm": 320,
+  "tire_diameter_mm": 1948,
+  "tire_front": {
+    "original": "320/85R38",
+    "radial": true,
+    "width_mm": 320,
+    "rim_in": 38,
+    "diameter_mm_est": 1509,
+    "tipo": "Radial",
+    "texto": "320/85R38"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F008/8153/8153-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td8153.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2014 -",
+          "__seccion_2__": "7R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA"
+        },
+        {
+          "__seccion_1__": "John Deere 7250R Engine",
+          "__seccion_2__": "John Deere 9.0L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7250R Transmissions",
+          "__seccion_2__": "23-speed full power shift",
+          "__seccion_3__": "infinitely variable transmission",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7250R Power",
+          "Engine (gross)": "250 hp 186.4 kW",
+          "Engine (net)": "240 hp 179.0 kW",
+          "Engine (max)": "290 hp 216.3 kW",
+          "PTO (claimed)": "205 hp 152.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "electro-hydraulic rear",
+          "&nbsp": "linked electro-hydraulic front on TLS Plus axle with brakes Opt Optional",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Cab standard with air-conditioning. AutoTrac ready"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 7250R are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "E23 Fuel": "143.7 gal 543.9 L",
+          "IVT Fuel": "155.6 gal 588.9 L",
+          "E23 G49 tires Fuel": "148.5 gal 562.1 L",
+          "IVT G49 tires Fuel": "160.4 gal 607.1 L",
+          "Hydraulic system": "42.3 gal 160.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure-flow compensated",
+          "Capacity": "42.3 gal 160.1 L",
+          "Pressure": "2958 psi 204.0 bar",
+          "Valves": "3 to 6",
+          "Pump flow": "42.8 gpm * Standard 63cc pump 162.0 lpm",
+          "&nbsp": "59 gpm * Optional 85cc pump 223.3 lpm",
+          "Rear SCV flow": "34.9 gpm 132.1 lpm",
+          "Front SCV flow": "33.3 gpm 126.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/IIIN",
+          "Control": "electro-hydraulic draft sensing",
+          "Rear lift": "15200 lbs 6894 kg",
+          "&nbsp": "17300 lbs Opt Optional 7847 kg",
+          "Front Hitch": "IIIN",
+          "Front lift": "11464 lbs 5200 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (1.75)",
+          "&nbsp": "1000 (1.75)",
+          "Engine RPM": "1000@1940",
+          "Front PTO": "independent Opt Optional",
+          "Front PTO Type": "1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "115.2 inches 292 cm",
+          "Weight": "23845 lbs 10816 kg",
+          "Front tire": "540/65R34",
+          "Rear tire": "650/85R38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "7250R Serial Numbers",
+          "Location:": "Serial number plate on right side of tractor frame, above front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "200",
+          "Batteries": "2",
+          "Battery CCA": "925",
+          "Battery volts": "12",
+          "Battery Group": "31"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 12, 2018",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2014 -",
+          "__seccion_2__": "7R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 7250R Tires",
+          "Ag front": "320/85R38",
+          "Ag rear": "320/90R54",
+          "&nbsp": "710/75R42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "115.2 inches 292 cm",
+          "Length": "217 inches 551 cm",
+          "Height (cab)": "132 inches 335 cm",
+          "Weight": "23845 lbs 10816 kg",
+          "Clearance (front axle)": "19.5 inches 49 cm",
+          "Front axle": "Triple-Link Suspension MFWD",
+          "__seccion_2__": "Flange rear axle",
+          "Bar rear axle": "4.72 by 118.5 inches 119 by 3009 mm",
+          "Front tread": "60 to 88 inches 152 to 223 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 12, 2018"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2014 -",
+          "__seccion_2__": "7R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech PVX",
+          "__seccion_3__": "variable geometry turbocharger diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "549 ci 9.0 L",
+          "Bore/Stroke": "4.66x5.35 inches 118 x 136 mm",
+          "Emissions": "Stage IIIB",
+          "Emission control": "cooled exhaust gas recirculation",
+          "Rated Power (net)": "240 hp 179.0 kW",
+          "Rated Power (gross)": "250 hp 186.4 kW",
+          "Maximum Power (net)": "278.5 hp 207.7 kW",
+          "Maximum Power (gross)": "290 hp 216.3 kW",
+          "Fuel system": "electronic high-pressure common rail",
+          "Compression": "16:1",
+          "Rated RPM": "2100",
+          "Operating RPM": "1550-2100",
+          "Torque": "863.7 lb-ft 1171.2 Nm",
+          "Torque RPM": "1600",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Coolant capacity": "47 qts 44.5 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "28.5 qts 27.0 L",
+          "Oil change": "500 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 12, 2018"
+        }
+      ]
+    }
+  }
+}

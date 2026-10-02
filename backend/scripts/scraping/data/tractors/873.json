@@ -1,0 +1,240 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/7/873-massey-ferguson-3545.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/7/873-massey-ferguson-3545-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/8/7/873-massey-ferguson-3545-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/7/873-massey-ferguson-3545-engine.html",
+    "source_id": 873,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:28:30.083Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/873/873-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 55 KB"
+  },
+  "tractor_data_id": 873,
+  "name": "Massey Ferguson 3545",
+  "brand": "Massey Ferguson",
+  "model": "3545",
+  "years": {
+    "desde": 1983,
+    "hasta": 1987
+  },
+  "model_year": 1983,
+  "engine_power_hp": 147,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 125,
+  "pto_tested_hp": 126.72,
+  "drawbar_tested_hp": 104.9,
+  "weight_kg": 6032,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 46.5,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "11.00-16",
+    "radial": false,
+    "width_mm": 279,
+    "rim_in": 16,
+    "diameter_mm_est": 881,
+    "tipo": "Diagonal",
+    "texto": "11.00-16"
+  },
+  "fuel_consumption_lph": 30.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/873/873-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/873/873-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td873.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1983 - 1987",
+          "__seccion_2__": "3500 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in France",
+          "__seccion_4__": "Original price was $47,500 in 1987"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3545 Engine",
+          "__seccion_2__": "Perkins 5.8L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3545 Transmission",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3545 Power",
+          "Engine": "147 hp 109.6 kW",
+          "PTO (claimed)": "125 hp 93.2 kW",
+          "Drawbar (tested)": "104.90 hp 78.2 kW",
+          "PTO (tested)": "126.72 hp 94.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "hydraulic",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Differential hydraulic wet disc brakes",
+          "__seccion_4__": "Cab with air-conditioning or four-post ROPS canopy."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 3545 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2539 psi 175.1 bar",
+          "Valves": "2 or 3",
+          "Pump flow": "15 gpm 56.8 lpm",
+          "Total flow": "29.5 gpm (total) 111.7 lpm",
+          "&nbsp": "15 gpm (two-spool aux pump) 56.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at 24\"/610mm)": "7611 lbs 3452 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "107 inches 271 cm",
+          "Weight": "13300 lbs 6032 kg",
+          "Front tire": "11.00-16",
+          "Rear tire": "18.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3545 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1983": "K242206",
+          "1984": "T101201",
+          "1985": "L101201",
+          "1986": "U031201",
+          "1987": "V001201",
+          "__seccion_1__": "3545 Serial Numbers",
+          "Location:": "Instrument panel, right side",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "3500 Series published in 1985, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1983 - 1987",
+          "__seccion_2__": "3500 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3545 Tires",
+          "Ag front": "11.00-16",
+          "Ag rear": "18.4-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "107 inches 271 cm",
+          "Length": "185 inches 469 cm",
+          "Width": "94 inches 238 cm",
+          "&nbsp": "118 inches (long axle) 299 cm",
+          "Operating weight": "13300 lbs 6032 kg",
+          "Ballasted weight": "17235 lbs 7817 kg",
+          "Rear axle": "3.25 inch diameter 82 mm",
+          "Front tread": "63 to 81 inches 160 to 205 cm (4WD)",
+          "Rear tread": "60 to 124 inches 152 to 314 cm (long axle)"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1983 - 1987",
+          "__seccion_2__": "3500 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1513",
+          "__seccion_2__": "Diesel 16-speed 4WD April 14 - 25, 1984 Link: Nebraska Tractor Test 1513 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "126.72 hp 94.5 kW",
+          "Fuel use": "8.0 gal/hour 30.3 l/hour",
+          "Power at rated PTO speed": "122.15 hp 91.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "104.90 hp 78.2 kW",
+          "__seccion_5__": "Gear 10 used for power test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1983 - 1987",
+          "__seccion_2__": "3500 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "354 ci 5.8 L",
+          "Bore/Stroke": "3.875x5.00 inches 98 x 127 mm",
+          "Power": "147 hp 109.6 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "15.5:1",
+          "Rated RPM": "2400",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ]
+    }
+  }
+}

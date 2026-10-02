@@ -1,0 +1,189 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/002/1/8/2185-deutz-d-3006.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/002/1/8/2185-deutz-d-3006-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/002/1/8/2185-deutz-d-3006-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 2185,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T23:00:42.464Z",
+    "foto_original": "https://www.tractordata.com/photos/F002/2185/2185-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 44 KB"
+  },
+  "tractor_data_id": 2185,
+  "name": "Deutz D 3006",
+  "brand": "Deutz",
+  "model": "D 3006",
+  "years": {
+    "desde": 1967,
+    "hasta": 1981
+  },
+  "model_year": 1967,
+  "engine_power_hp": 30,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1868,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 11,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 11-28",
+  "tire_width_mm": 279,
+  "tire_diameter_mm": 1186,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F002/2185/2185-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F002/2185/2185-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td2185.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1967 - 1981",
+          "__seccion_2__": "06 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Deutz",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Deutz D 3006 Engine",
+          "__seccion_2__": "Deutz 1.9L 2-cyl diesel",
+          "Fuel tank": "18.5 gal 70.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Deutz D 3006 Transmission",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Deutz D 3006 Power",
+          "Engine": "30 hp 22.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Cab optional with heat."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Deutz D 3006 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Pump flow": "3.17 gpm 12.0 lpm"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "73.4 inches 186 cm",
+          "Weight": "4,120 lbs 1868 kg",
+          "Front tire": "6.00-16",
+          "Rear tire": "11-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "D 3006 Serial Number Location",
+          "__seccion_2__": "Front-right of tractor frame, above front axle."
+        },
+        {
+          "__seccion_1__": "Belt Pulley",
+          "Diameter": "9.6 inches 24 cm",
+          "Width": "3.9 inches 9 cm",
+          "RPM": "1280",
+          "Speed": "3250 ft/min 990.60 meters/min"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 31, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1967 - 1981",
+          "__seccion_2__": "06 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Deutz D 3006 Tires",
+          "Ag front": "6.00-16",
+          "Ag rear": "11-28",
+          "&nbsp": "9-32"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "73.4 inches 186 cm",
+          "Length": "129.6 inches 329 cm",
+          "Width": "63 inches 160 cm",
+          "Height (steering wheel)": "60.2 inches 152 cm",
+          "Height (ROPS)": "93.3 inches 236 cm",
+          "Operating weight": "4,120 lbs 1868 kg",
+          "Max weight": "6,810 lbs 3089 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 31, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1967 - 1981",
+          "__seccion_2__": "06 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Deutz F2L 912",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "air-cooled",
+          "Displacement": "115 ci 1.9 L",
+          "Bore/Stroke": "3.9370x4.72 inches 100 x 120 mm",
+          "Power": "30 hp 22.4 kW",
+          "Rated RPM": "2300",
+          "Torque": "70.8 lb-ft 96.0 Nm",
+          "Torque RPM": "1800",
+          "Oil capacity": "4.1 qts 3.9 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 31, 2021"
+        }
+      ]
+    }
+  }
+}

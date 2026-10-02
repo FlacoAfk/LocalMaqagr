@@ -1,0 +1,235 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/0/0/7000-john-deere-6630-premium.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/0/0/7000-john-deere-6630-premium-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/0/0/7000-john-deere-6630-premium-engine.html",
+    "source_id": 7000,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:52:14.438Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7000/7000-td4-b01-ext225.jpg",
+    "foto_calidad": "webp 960px/q65 → 87 KB"
+  },
+  "tractor_data_id": 7000,
+  "name": "John Deere 6630 Premium",
+  "brand": "John Deere",
+  "model": "6630 Premium",
+  "years": {
+    "desde": 2006,
+    "hasta": 2011
+  },
+  "model_year": 2006,
+  "engine_power_hp": 130,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 112,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 5230,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 41.1,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 18.4R38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "420/70R28",
+    "radial": true,
+    "width_mm": 420,
+    "rim_in": 28,
+    "diameter_mm_est": 1299,
+    "tipo": "Radial",
+    "texto": "420/70R28"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7000/7000-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7000/7000-td4-b01-ext225.jpg",
+  "image_url": "/uploads/tractors/td7000.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2006 - 2011",
+          "__seccion_2__": "Model year 2006-2008 2009-2011"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere"
+        },
+        {
+          "__seccion_1__": "John Deere 6630 Premium Engine",
+          "__seccion_2__": "John Deere 6.8L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6630 Premium Transmissions",
+          "__seccion_2__": "24-speed partial power shift",
+          "__seccion_3__": "36-speed partial power shift",
+          "__seccion_4__": "infinitely variable transmission (IVT)",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6630 Premium Power",
+          "Engine (gross)": "130 hp 96.9 kW",
+          "Engine (net)": "125 hp 93.2 kW",
+          "Engine (max)": "139 hp 103.7 kW",
+          "PTO (claimed)": "112 hp 83.5 kW",
+          "Boost PTO (claimed)": "130 hp 96.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 6630 Premium photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "54.7 gal 207.0 L",
+          "Optional Fuel": "66 gal 249.8 L",
+          "Hydraulic system": "14 gal 53.0 L",
+          "IVT Hydraulic system": "16.4 gal 62.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "load-sensing pressure-flow compensating (PFC)",
+          "Capacity": "14 gal 53.0 L",
+          "IVT Capacity": "16.4 gal 62.1 L",
+          "Pressure": "2,901 psi 200.0 bar",
+          "Valves": "4 (Max)",
+          "Pump flow": "15.9 gpm 60.2 lpm",
+          "Optional Pump flow": "29.1 gpm 110.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IIIN",
+          "Control": "15.9",
+          "Optional Control": "29.1",
+          "Rear lift (at ends)": "16,880 lbs 7656 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540/540E/1000",
+          "Engine RPM": "1000@2185",
+          "&nbsp": "1000@2208",
+          "Front PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "104.3 inches 264 cm",
+          "Weight": "11,530 lbs 5230 kg",
+          "Front tire": "420/70R28",
+          "Rear tire": "18.4R38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "6630 Premium Serial Numbers",
+          "Location:": "Front-right side of main tractor frame, above front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 16, 2016",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2006 - 2011",
+          "__seccion_2__": "Model year 2006-2008 2009-2011"
+        },
+        {
+          "__seccion_1__": "John Deere 6630 Premium Tires",
+          "Standard tires (ag)": "Front: 420/70R28. Rear: 18.4R38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "104.3 inches 264 cm",
+          "Length": "168.9 inches 429 cm",
+          "Width": "91.2 inches 231 cm",
+          "Height": "108 inches 274 cm",
+          "Front tread": "63.9 to 83.3 inches 162 to 211 cm",
+          "Rear tread": "63.9 to 79.6 inches 162 to 202 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 6630 Premium Weight",
+          "Shipping": "11,530 lbs 5230 kg",
+          "Max capacity": "22,050 lbs 10001 kg",
+          "Max rear axle": "15,430 lbs 6999 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 16, 2016"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2006 - 2011",
+          "__seccion_2__": "Model year 2006-2008 2009-2011"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 6068HL480",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "413.7 ci 6.8 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Tier III",
+          "Emission control": "exhaust gas recirculation (EGR)",
+          "Rated Power (net)": "125 hp 93.2 kW",
+          "Rated Power (gross)": "130 hp 96.9 kW",
+          "Maximum Power (net)": "134 hp 99.9 kW",
+          "Maximum Power (gross)": "139 hp 103.7 kW",
+          "Fuel system": "high-pressure common rail injection",
+          "Cooling system": "viscous fan",
+          "Air cleaner": "dry element",
+          "Rated RPM": "2300",
+          "Idle RPM": "845-2465",
+          "Operating RPM": "1300-2300",
+          "Torque": "394 lb-ft 534.3 Nm",
+          "Torque RPM": "1500",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Starter power": "4 hp 3.0 kW",
+          "Oil capacity": "20.6 qts 19.5 L",
+          "Oil change": "500 h",
+          "Coolant capacity": "29.6 qts 28.0 L",
+          "Coolant change": "1500 h",
+          "Intake valve clearance": "0.014 inches 0.356 mm",
+          "Exhaust valve clearance": "0.018 inches 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 16, 2016"
+        }
+      ]
+    }
+  }
+}

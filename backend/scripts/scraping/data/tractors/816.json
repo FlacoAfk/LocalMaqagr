@@ -1,0 +1,260 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/1/816-massey-ferguson-1010.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/1/816-massey-ferguson-1010-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/1/816-massey-ferguson-1010-engine.html",
+    "source_id": 816,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:25:26.746Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/816/816-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 137 KB"
+  },
+  "tractor_data_id": 816,
+  "name": "Massey Ferguson 1010",
+  "brand": "Toyosha",
+  "model": "ferguson 1010",
+  "years": {
+    "desde": 1982,
+    "hasta": 1994
+  },
+  "model_year": 1982,
+  "engine_power_hp": 16,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 13,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 644,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 4.8,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 8-16",
+  "tire_width_mm": 203,
+  "tire_diameter_mm": 752,
+  "tire_front": {
+    "original": "4.50-10",
+    "radial": false,
+    "width_mm": 114,
+    "rim_in": 10,
+    "diameter_mm_est": 448,
+    "tipo": "Diagonal",
+    "texto": "4.50-10"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/816/816-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/816/816-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td816.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1982 - 1994",
+          "__seccion_2__": "1000 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Toyosha built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Massey Ferguson",
+          "Manufacturer": "Toyosha",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Original price was $8,200 in 1994"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "1010-2": "2WD gear drive",
+          "1010-4": "4WD gear drive",
+          "1010H-2": "2WD hydro drive",
+          "1010H-4": "4WD hydro drive"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1010 Engine",
+          "__seccion_2__": "Toyosha 0.9L 3-cyl diesel",
+          "Fuel tank": "3.7 gal 14.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1010 Transmissions",
+          "__seccion_2__": "6-speed gear",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1010 Power",
+          "Engine": "16 hp 11.9 kW",
+          "Gear PTO (claimed)": "13 hp 9.7 kW",
+          "Hydro PTO (claimed)": "12 hp 8.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Mechanical drum brakes",
+          "__seccion_5__": "Open operator station. ROPS optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 1010 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "1 Opt Optional",
+          "Pump flow": "3.5 gpm 13.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at ends)": "1212 lbs 549 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission * With overrunning clutch",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2365",
+          "Mid PTO Type": "2114 (with hydro)",
+          "Front PTO": "independent Opt Optional",
+          "Clutch": "electric"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Gear Wheelbase": "50.8 inches 129 cm",
+          "Hydro Wheelbase": "55.1 inches 139 cm",
+          "Weight": "1420 to 2000 pounds",
+          "Front tire": "4.50-10",
+          "Rear tire": "8-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1010 attachments",
+          "__seccion_2__": "54\" mid-mount mower deck",
+          "__seccion_3__": "blade",
+          "__seccion_4__": "front-end loader",
+          "__seccion_5__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "1010 Serial Number Location",
+          "__seccion_2__": "Serial number plate below the steering column."
+        },
+        {
+          "1982": "40101 (1010-4)",
+          "1983": "40607 (1010-4)",
+          "1984": "40809 (1010-4)",
+          "1985": "41491 (1010-4)",
+          "1986": "42317 (1010-4)",
+          "1987": "43640 (1010H-4)",
+          "1988": "44370 (1010H-4)",
+          "1989": "44696 (1010H-4)",
+          "1990": "44907 (1010H-4)",
+          "1991": "45175 (1010H-4)",
+          "1992": "45545 (1010H-4)",
+          "__seccion_1__": "1010 Serial Numbers",
+          "Final": "unknown",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Loaders - Compact and Agricultural published in 1989, by Massey Ferguson",
+          "__seccion_3__": "Compact Tractors published in 1986, by Massey Ferguson",
+          "__seccion_4__": "Compact Tractors and Implements published in 1987, by Massey Ferguson",
+          "__seccion_5__": "1010 published in 1983, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 6, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1982 - 1994",
+          "__seccion_2__": "1000 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Toyosha built"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1010 Tires",
+          "Standard tires (ag)": "Front: 4.50-10. Rear: 8-16",
+          "&nbsp": "Front: 5.00-12. Rear: 8-16",
+          "2WD Lawn/turf front": "21x8.00-10",
+          "4WD Lawn/turf front": "20.5x8.00-10",
+          "Lawn/turf rear": "29x12.00-15"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Gear Wheelbase": "50.8 inches 129 cm",
+          "Hydro Wheelbase": "55.1 inches 139 cm",
+          "Gear Length": "85 inches 215 cm",
+          "Hydro Length": "90.7 inches 230 cm",
+          "Width": "41.9 inches 106 cm",
+          "Height (steering wheel)": "46.2 inches 117 cm",
+          "Ground clearance": "10.4 inches 26 cm",
+          "2WD Front tread": "32.3 inches 82 cm",
+          "4WD Front tread": "34.8 inches 88 cm",
+          "2WD Rear tread": "32.9 inches 83 cm",
+          "4WD Rear tread": "38 inches 96 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1010 Weight",
+          "Shipping": "1420 lbs (2WD gear) 644 kg",
+          "&nbsp": "2000 lbs (4WD hydro) 907 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 6, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1982 - 1994",
+          "__seccion_2__": "1000 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Toyosha built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Toyosha",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "52.8 ci 0.9 L",
+          "Bore/Stroke": "2.75x2.95 inches 70 x 75 mm",
+          "Power": "16 hp 11.9 kW",
+          "Fuel system": "indirect injection",
+          "Air cleaner": "dry",
+          "Pre-heating": "glow plugs",
+          "Rated RPM": "2500",
+          "Starter volts": "12",
+          "Oil capacity": "2.9 qts 2.7 L",
+          "Coolant capacity": "3.7 qts 3.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 6, 2023"
+        }
+      ]
+    }
+  }
+}

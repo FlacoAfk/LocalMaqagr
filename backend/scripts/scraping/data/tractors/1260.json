@@ -1,0 +1,218 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/2/6/1260-kubota-b1700.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/2/6/1260-kubota-b1700-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/2/6/1260-kubota-b1700-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1260,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:49:58.193Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1260/1260-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 54 KB"
+  },
+  "tractor_data_id": 1260,
+  "name": "Kubota B1700",
+  "brand": "Kubota",
+  "model": "B1700",
+  "years": {
+    "desde": 1995,
+    "hasta": 1999
+  },
+  "model_year": 1995,
+  "engine_power_hp": 17,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 14,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 680,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 5.1,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 8.3-16",
+  "tire_width_mm": 211,
+  "tire_diameter_mm": 765,
+  "tire_front": {
+    "original": "6.00-12",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 12,
+    "diameter_mm_est": 564,
+    "tipo": "Diagonal",
+    "texto": "6.00-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1260/1260-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1260/1260-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td1260.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1995 - 1999",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota B1700 Engine",
+          "__seccion_2__": "Kubota 0.9L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B1700 Transmissions",
+          "__seccion_2__": "6-speed gear",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B1700 Power",
+          "Engine (gross)": "17 hp 12.7 kW",
+          "Gear PTO (claimed)": "14 hp 10.4 kW",
+          "Hydro PTO (claimed)": "13 hp 9.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "power",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota B1700 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "6.3 gal 23.8 L",
+          "Hydraulic system": "2.9 gal 11.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "2.9 gal 11.0 L",
+          "Pump flow": "5.8 gpm 22.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at ends)": "1280 lbs 580 kg",
+          "Rear lift (at 24\"/610mm)": "1015 lbs 460 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "2537@2600",
+          "Mid PTO Type": "2537 * Kubota 10-tooth"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "59 inches 149 cm",
+          "Weight": "1500 lbs 680 kg",
+          "Front tire": "5.00-10",
+          "Rear tire": "8.3-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota B1700 attachments",
+          "__seccion_2__": "54\" mid-mount mower deck",
+          "__seccion_3__": "60\" mid-mount mower deck",
+          "__seccion_4__": "snowblower",
+          "__seccion_5__": "front-end loader",
+          "__seccion_6__": "backhoe",
+          "__seccion_7__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery CCA": "390",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "1999 Products published by Kubota"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 28, 2018"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1995 - 1999",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota B1700 Tires",
+          "Ag front": "5.00-10",
+          "&nbsp": "6.00-12 (4WD)",
+          "Ag rear": "8.3-16"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "59 inches 149 cm",
+          "Length": "89.8 inches 228 cm",
+          "Width": "38.9 inches * Minimum 98 cm",
+          "Height": "50.9 inches * Height at seat 129 cm",
+          "Height (ROPS)": "75.4 inches 191 cm",
+          "Weight": "1500 lbs 680 kg",
+          "Ground clearance": "11.6 inches 29 cm",
+          "4WD Front tread": "32.9 inches 83 cm",
+          "Rear tread": "30.6 to 37.3 inches 77 to 94 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 28, 2018"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1995 - 1999",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota D905-D10",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "54.8 ci 0.9 L",
+          "Bore/Stroke": "2.83x2.90 inches 72 x 74 mm",
+          "Power (gross)": "17 hp 12.7 kW",
+          "Fuel system": "indirect injection",
+          "Rated RPM": "2600",
+          "Torque": "38 lb-ft 51.5 Nm",
+          "Starter volts": "12",
+          "Oil capacity": "3.6 qts 3.4 L",
+          "Coolant capacity": "3.6 qts 3.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 28, 2018"
+        }
+      ]
+    }
+  }
+}

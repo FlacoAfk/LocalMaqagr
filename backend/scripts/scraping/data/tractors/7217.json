@@ -1,0 +1,255 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/2/1/7217-john-deere-5100m.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/2/1/7217-john-deere-5100m-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/007/2/1/7217-john-deere-5100m-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/2/1/7217-john-deere-5100m-engine.html",
+    "source_id": 7217,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:58:10.494Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7217/7217-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 124 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 7217,
+  "name": "John Deere 5100M",
+  "brand": "John Deere",
+  "model": "5100M",
+  "years": {
+    "desde": 2012,
+    "hasta": 2022
+  },
+  "model_year": 2012,
+  "engine_power_hp": 100,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": 94.03,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3447,
+  "weight_basis": "4WD ROPS",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 34.5,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 18.4R30",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1557,
+  "tire_front": null,
+  "fuel_consumption_lph": 19.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7217/7217-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7217/7217-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td7217.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2012 - 2022",
+          "__seccion_2__": "Model year 2012-2014 2015-2022",
+          "__seccion_3__": "5M Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Augusta, Georgia, USA",
+          "__seccion_4__": "Original price was $59,281 in 2014"
+        },
+        {
+          "__seccion_1__": "John Deere 5100M Engine",
+          "__seccion_2__": "John Deere 4.5L 4-cyl diesel",
+          "ROPS Fuel tank": "30 gal 113.6 L",
+          "Cab Fuel tank": "36 gal 136.3 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5100M Transmissions",
+          "__seccion_2__": "12-speed",
+          "__seccion_3__": "16-speed",
+          "__seccion_4__": "32-speed",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5100M Power",
+          "Engine (gross)": "100 hp 74.6 kW",
+          "PTO (tested)": "94.03 hp 70.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "electro-hydraulic rear diff lock",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Two-post foldable ROPS with flat operation platform. Optional isolated platform. Optional cab with air-conditioning. Optional deluxe cab with premium sound package and sunroof."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 5100M photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2828 psi 195.0 bar",
+          "Rear valves": "2 ro 3",
+          "Mid valves": "2 or 3",
+          "Pump flow": "18.4 gpm 69.6 lpm",
+          "Total flow": "24.7 gpm 93.5 lpm",
+          "Steering flow": "6.3 gpm 23.8 lpm",
+          "Steering press.": "2030 psi 140.0 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "2/1",
+          "Control": "position control and lower-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "4,793 lbs 2174 kg",
+          "&nbsp": "5,935 lbs (optional) 2692 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540/540E",
+          "&nbsp": "540 (SyncShuttle)",
+          "Engine RPM": "540@2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "90.6 inches 230 cm",
+          "Weight": "7191 to 8750 pounds",
+          "Front tire": "11L-15",
+          "Rear tire": "18.4R30 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5100M attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "5100M Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "70 (ROPS)",
+          "&nbsp": "90 (cab)",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "5M Series published in 2013, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 28, 2021",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2012 - 2022",
+          "__seccion_2__": "Model year 2012-2014 2015-2022",
+          "__seccion_3__": "5M Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 5100M Tires",
+          "Standard tires (ag)": "Front: 11L-15. Rear: 18.4R30 (2WD)",
+          "&nbsp": "12.5/80-18 (4WD)",
+          "Optional tires (ag)": "Front: 9.5-24. Rear: 14.9-28 (4WD)",
+          "Lawn/turf front": "27/12LL-15 (2WD)",
+          "Lawn/turf rear": "22.5LL-16.1",
+          "Industrial front": "11LL-15 (2WD)",
+          "Industrial rear": "19.5L-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "90.6 inches 230 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 5100M Weight",
+          "2WD ROPS": "7,191 lbs 3261 kg",
+          "4WD ROPS": "7,600 lbs 3447 kg",
+          "IROPS": "7,600 lbs 3447 kg",
+          "2WD Cab": "8,350 lbs 3787 kg",
+          "4WD Cab": "8,750 lbs 3969 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 28, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2012 - 2022",
+          "__seccion_2__": "Model year 2012-2014 2015-2022",
+          "__seccion_3__": "5M Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 2307"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 2307",
+          "__seccion_2__": "Diesel 16-speed 4WD September 13 - 21, 2012 Link: Nebraska Tractor Test 2307 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "89.32 hp 66.6 kW",
+          "Fuel use": "5.4 gal/hour 20.4 l/hour",
+          "Power at rated engine speed": "94.03 hp 70.1 kW",
+          "Power at rated PTO speed": "88.68 hp 66.1 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 28, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2012 - 2022",
+          "__seccion_2__": "Model year 2012-2014 2015-2022",
+          "__seccion_3__": "5M Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "276 ci 4.5 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Interim Tier 4",
+          "Emission control": "exhaust gas recirculation (EGR)",
+          "Rated Power (gross)": "100 hp 74.6 kW",
+          "Rated RPM": "2200",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 28, 2021"
+        }
+      ]
+    }
+  }
+}

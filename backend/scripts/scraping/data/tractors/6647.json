@@ -1,0 +1,206 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/6/4/6647-new-holland-workmaster-45.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/6/4/6647-new-holland-workmaster-45-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/6/4/6647-new-holland-workmaster-45-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 6647,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:31:38.875Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6647/6647-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 101 KB"
+  },
+  "tractor_data_id": 6647,
+  "name": "New Holland Workmaster 45",
+  "brand": "New Holland",
+  "model": "Workmaster 45",
+  "years": {
+    "desde": 2009,
+    "hasta": 2014
+  },
+  "model_year": 2009,
+  "engine_power_hp": 45,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 39,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1599,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 14.3,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4x28",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1247,
+  "tire_front": {
+    "original": "6x16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6x16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F006/6647/6647-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6647/6647-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td6647.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2009 - 2014",
+          "__seccion_2__": "Workmaster Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in India"
+        },
+        {
+          "__seccion_1__": "New Holland Workmaster 45 Engine",
+          "__seccion_2__": "ISM 2.2L 4-cyl diesel",
+          "Fuel tank": "13.5 gal 51.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland Workmaster 45 Transmission",
+          "__seccion_2__": "8-speed synchronized mechanical shuttle",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland Workmaster 45 Power",
+          "Engine (gross)": "45 hp 33.6 kW",
+          "PTO (claimed)": "39 hp 29.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 MFWD 4WD (optional)",
+          "Differential lock": "mechanical rear differential lock with foot pedal, limited slip front axle (4WD)",
+          "Steering": "hydrostatic power",
+          "__seccion_2__": "Differential mechanical wet disc brakes",
+          "__seccion_3__": "Two-post foldable ROPS"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland Workmaster 45 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center fixed displacement",
+          "Valves": "1 or 2",
+          "Pump flow": "11.6 gpm 43.9 lpm",
+          "Total flow": "16.9 gpm 64.0 lpm",
+          "Steering flow": "5.3 gpm 20.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "2/1",
+          "Control": "position control",
+          "Rear lift (at 24\"/610mm)": "1,830 lbs 830 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "3527 to 3836 pounds",
+          "Front tire": "6x16",
+          "Rear tire": "12.4x28 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "New Holland Workmaster 45 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "Charging volts": "12",
+          "Battery CCA": "800",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 12, 2017",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2009 - 2014",
+          "__seccion_2__": "Workmaster Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "New Holland Workmaster 45 Tires",
+          "Standard tires (ag)": "Front: 6x16. Rear: 12.4x28 (2WD)",
+          "&nbsp": "Front: 8.3x24. Rear: 13.6x28 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Length": "131.1 inches (2WD) 332 cm",
+          "&nbsp": "3,836 lbs (4WD) 1740 kg",
+          "Width": "66.1 inches 167 cm",
+          "Height": "93.9 inches 238 cm",
+          "Shipping weight": "3,527 lbs (2WD) 1599 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 12, 2017"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2009 - 2014",
+          "__seccion_2__": "Workmaster Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "ISM",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "135 ci 2.2 L",
+          "Bore/Stroke": "3.307x3.937 inches 84 x 100 mm",
+          "Emissions": "Tier III",
+          "Power (gross)": "45 hp 33.6 kW",
+          "Air cleaner": "dual dry element",
+          "Rated RPM": "2700",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 12, 2017"
+        }
+      ]
+    }
+  }
+}

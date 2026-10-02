@@ -1,0 +1,194 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/2/2/3227-john-deere-8310.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/2/2/3227-john-deere-8310-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/2/2/3227-john-deere-8310-engine.html",
+    "source_id": 3227,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:39:33.973Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3227/3227-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 59 KB"
+  },
+  "tractor_data_id": 3227,
+  "name": "John Deere 8310",
+  "brand": "John Deere",
+  "model": "8310",
+  "years": {
+    "desde": 1999,
+    "hasta": 2002
+  },
+  "model_year": 1999,
+  "engine_power_hp": 205,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 205,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 8402,
+  "weight_basis": "Weight",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 75.2,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3227/3227-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3227/3227-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td3227.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1999 - 2002",
+          "__seccion_2__": "8000 Ten Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA"
+        },
+        {
+          "8310": "wheeled tractor",
+          "__seccion_1__": "Variants",
+          "8310T": "crawler tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8310 Engine",
+          "__seccion_2__": "John Deere 8.1L 6-cyl diesel",
+          "Fuel tank": "135 gal 511.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8310 Transmission",
+          "__seccion_2__": "16-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8310 Power",
+          "PTO (claimed)": "205 hp 152.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 MFWD 4WD (optional)"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 8310 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center PFC",
+          "Valves": "3 to 5",
+          "Pump flow": "30 gpm 113.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III, IIIN",
+          "Rear lift": "11,700 lbs 5307 kg",
+          "&nbsp": "15,650 lbs (optional) 7098 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000",
+          "&nbsp": "540/1000 (optional)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "116.9 inches 296 cm",
+          "Weight": "18,523 lbs 8402 kg",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "2000": "1001",
+          "2001": "10001",
+          "__seccion_1__": "8310 Serial Numbers",
+          "Location:": "Rear of tractor",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging amps": "140",
+          "Batteries": "2",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "8000/8000T TEN Series Tractors Product Information Handbook published in 1999, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2014",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1999 - 2002",
+          "__seccion_2__": "8000 Ten Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8310 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "116.9 inches 296 cm",
+          "Weight": "18,523 lbs 8402 kg",
+          "Ground clearance": "23.2 inches 58 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2014"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1999 - 2002",
+          "__seccion_2__": "8000 Ten Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "496 ci 8.1 L",
+          "Bore/Stroke": "4.56x5.06 inches 116 x 129 mm",
+          "Compression": "16.5:1",
+          "Rated RPM": "2200",
+          "Torque": "741 lb-ft 1004.8 Nm",
+          "Oil capacity": "29.6 qts 28.0 L",
+          "Coolant capacity": "35.9 qts 34.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2014"
+        }
+      ]
+    }
+  }
+}

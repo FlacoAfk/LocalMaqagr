@@ -1,0 +1,218 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/4/2/7428-massey-ferguson-1749.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/4/2/7428-massey-ferguson-1749-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/4/2/7428-massey-ferguson-1749-engine.html",
+    "source_id": 7428,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:42:06.122Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7428/7428-td4-b01-ext270.jpg",
+    "foto_calidad": "webp 960px/q65 → 63 KB"
+  },
+  "tractor_data_id": 7428,
+  "name": "Massey Ferguson 1749",
+  "brand": "Massey Ferguson (a part of AGCO)",
+  "model": "ferguson 1749",
+  "years": {
+    "desde": 2013,
+    "hasta": 2018
+  },
+  "model_year": 2013,
+  "engine_power_hp": 48.3,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 39,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1774,
+  "weight_basis": "ROPS Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 14.3,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 13.6x28",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1298,
+  "tire_front": {
+    "original": "9.5x16",
+    "radial": false,
+    "width_mm": 241,
+    "rim_in": 16,
+    "diameter_mm_est": 817,
+    "tipo": "Diagonal",
+    "texto": "9.5x16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7428/7428-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7428/7428-td4-b01-ext270.jpg",
+  "image_url": "/uploads/tractors/td7428.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2013 - 2018",
+          "__seccion_2__": "1700 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson (a part of AGCO)",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Original price was $31,508 in 2018 with shuttle, ROPS"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1749 Engine",
+          "__seccion_2__": "Mitsubishi 1.7L 3-cyl diesel",
+          "Fuel tank": "14.5 gal 54.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1749 Transmissions",
+          "__seccion_2__": "12-speed power shuttle",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1749 Power",
+          "Engine": "48.3 hp 36.0 kW",
+          "PTO (claimed)": "39 hp 29.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "bull gear",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 1749 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "1 to 3",
+          "SCV flow": "11.6 gpm 43.9 lpm",
+          "Steering flow": "6.8 gpm 25.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "&nbsp": "draft control Opt Optional",
+          "Rear lift (at 24\"/610mm)": "3086 lbs 1399 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540 (1.375)",
+          "Mid PTO": "independent Opt Optional",
+          "Mid PTO Type": "2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "76 inches 193 cm",
+          "Weight": "3913 to 4354 pounds",
+          "Front tire": "9.5x16",
+          "Rear tire": "13.6x28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1749 attachments",
+          "__seccion_2__": "snowblower",
+          "__seccion_3__": "front-end loader",
+          "__seccion_4__": "backhoe",
+          "__seccion_5__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "New 1700 Series Premium Compacts published in 2013, by Massey Ferguson",
+          "__seccion_3__": "1700 Series published in 2016, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on August 17, 2026"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2013 - 2018",
+          "__seccion_2__": "1700 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1749 Tires",
+          "Standard tires (ag)": "Front: 9.5x16. Rear: 13.6x28",
+          "Optional tires (ag)": "Front: 9.5x16. Rear: 16.9x24",
+          "Lawn/turf front": "27x10.50-15",
+          "Lawn/turf rear": "44x18.00-20",
+          "Industrial front": "250/80R16",
+          "Industrial rear": "360/80R28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "76 inches 193 cm",
+          "Length": "132.3 inches 336 cm",
+          "Width": "65.4 inches 166 cm",
+          "Height (cab)": "92.9 inches 235 cm",
+          "ROPS Weight": "3913 lbs 1774 kg",
+          "Cab Weight": "4354 lbs 1974 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 17, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2013 - 2018",
+          "__seccion_2__": "1700 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Mitsubishi K38",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "101 ci 1.7 L",
+          "Bore/Stroke": "3.386x3.74 inches 86 x 95 mm",
+          "Emissions": "Tier IV",
+          "Emission control": "diesel oxidation catalyst and diesel particulate filter",
+          "Power": "48.3 hp 36.0 kW",
+          "Fuel system": "high-pressure common rail direct injection",
+          "Rated RPM": "2500",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 17, 2026"
+        }
+      ]
+    }
+  }
+}

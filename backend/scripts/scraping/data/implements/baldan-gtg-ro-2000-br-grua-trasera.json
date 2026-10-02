@@ -1,0 +1,77 @@
+{
+  "producto": "Grua Trasera",
+  "url": "https://baldan.com.br/es/productos/gtg-ro-2000-br-grua-trasera/",
+  "registros": [
+    {
+      "fuente": {
+        "sitio": "baldan.com.br",
+        "url": "https://baldan.com.br/es/productos/gtg-ro-2000-br-grua-trasera/",
+        "categoria": "arados",
+        "licencia": "Datos factuales del catálogo público de Baldan (baldan.com.br), obtenidos del sitio oficial. Uso como referencia del catálogo local de MaqAgr; conservar atribución.",
+        "recuperado": "2026-09-30T19:16:00.518Z",
+        "imagen_original": "https://midias.baldan.com.br/wp-content/uploads/2025/08/gtg-rf-2000-guincho-traseiro-agricola",
+        "imagen_calidad": "15 KB"
+      },
+      "implement_name": "Grua Trasera",
+      "brand": "Baldan",
+      "power_requirement_hp": 70,
+      "power_origen": "70",
+      "working_width_m": 2.458,
+      "working_depth_cm": null,
+      "n_tines": null,
+      "weight_kg": 915,
+      "implement_type": "otro",
+      "variante": null,
+      "variante_idx": 0,
+      "images": [
+        "https://midias.baldan.com.br/wp-content/uploads/2025/08/gtg-rf-2000-guincho-traseiro-agricola.webp",
+        "https://midias.baldan.com.br/wp-content/uploads/2025/07/fav.png.webp",
+        "https://midias.baldan.com.br/wp-content/uploads/2025/08/gtg-rf-2000-guincho-traseiro-agricola-300x249.webp",
+        "https://midias.baldan.com.br/wp-content/uploads/2025/08/gtg-rf-2000-guincho-traseiro-agricola-768x637.webp",
+        "https://midias.baldan.com.br/wp-content/uploads/2025/08/gtg-ro-flex-guincho-traseiro-agricola-ORLBcG.webp",
+        "https://midias.baldan.com.br/wp-content/uploads/2025/08/gtg-ro-flex-guincho-traseiro-agricola-ORLBcG-300x249.webp"
+      ],
+      "main_image": "https://midias.baldan.com.br/wp-content/uploads/2025/08/gtg-rf-2000-guincho-traseiro-agricola",
+      "image_url": "/uploads/implements/baldan-gtg-ro-2000-br-grua-trasera-1.webp",
+      "descripcion": "Grua Trasera da Baldan oferece eficiência no trabalho rural.",
+      "specs": {
+        "ficha_tecnica": [
+          {
+            "headers": [
+              "Modelo GTG-RO 2000 BR",
+              "Altura de Elevación (mm) 6025 1º ponto",
+              "Altura de Elevación (mm) 5150 2º ponto",
+              "Altura de la Torre (mm) 2858",
+              "Altura Total (mm) 6428",
+              "Angulo de Giro (º) 90",
+              "Capacidad (Kg) 1200 1er punto"
+            ],
+            "filas": []
+          },
+          {
+            "headers": [
+              "Capacidad (Kg)",
+              "Ancho Total (mm)",
+              "Trocha (mm)",
+              "Neumático",
+              "Enganche Categoria",
+              "Peso Aproximado (Kg)",
+              "Potência del Tractor (Hp)"
+            ],
+            "filas": [
+              [
+                "2000 Punto 2",
+                "2458/ 3158",
+                "1984 / 2684",
+                "11L-15",
+                "II",
+                "915",
+                "70"
+              ]
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

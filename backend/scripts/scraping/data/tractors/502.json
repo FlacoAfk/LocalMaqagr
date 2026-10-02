@@ -1,0 +1,376 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/5/0/502-ji-case-870.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/5/0/502-ji-case-870-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/5/0/502-ji-case-870-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/5/0/502-ji-case-870-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 502,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:05:43.372Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/502/502-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 41 KB"
+  },
+  "tractor_data_id": 502,
+  "name": "J.I. Case 870",
+  "brand": "J.I. Case",
+  "model": "870",
+  "years": {
+    "desde": 1970,
+    "hasta": 1975
+  },
+  "model_year": 1970,
+  "engine_power_hp": 71,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 71,
+  "pto_tested_hp": 80.49,
+  "drawbar_tested_hp": 69.53,
+  "weight_kg": 4173,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 39.5,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": 17.8,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/502/502-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/502/502-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td502.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1970 - 1975",
+          "__seccion_2__": "70 Series"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Built in Racine, Wisconsin, USA",
+          "Total built": "3,238",
+          "__seccion_3__": "Original price was $8,400 in 1975"
+        },
+        {
+          "__seccion_1__": "J.I. Case 870 Engines",
+          "__seccion_2__": "J.I. Case 5.5L 4-cyl diesel",
+          "__seccion_3__": "J.I. Case 4.9L 4-cyl gasoline",
+          "Fuel tank": "50 gal 189.2 L",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 870 Transmissions",
+          "__seccion_2__": "8-speed unsynchronized gear",
+          "__seccion_3__": "12-speed partial power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 870 Power",
+          "Drawbar (claimed)": "62 hp 46.2 kW",
+          "PTO (claimed)": "71 hp 52.9 kW",
+          "Drawbar (tested)": "69.53 hp 51.8 kW",
+          "PTO (tested)": "80.49 hp 60.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic dry disc brakes",
+          "__seccion_5__": "Cab optional"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "J.I. Case 870 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "16 gpm 60.6 lpm",
+          "Total flow": "24 gpm 90.8 lpm",
+          "Steering flow": "8 gpm 30.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "&nbsp": "1000@1900",
+          "Engine RPM": "540@1900"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wide-front Wheelbase": "101 inches 256 cm",
+          "Tricycle Wheelbase": "94 inches 238 cm",
+          "Weight": "9200 lbs 4173 kg",
+          "Front tire": "7.50-16",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1970": "8650001",
+          "1971": "8674001",
+          "1972": "8691801",
+          "1973": "8712001",
+          "1974": "8736601",
+          "1975": "8770001",
+          "__seccion_1__": "870 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Jet-Age 770-890-970-1070 Tractors published in 1970, by J.I. Case",
+          "__seccion_3__": "Agri King Tractor published in 1969, by J.I. Case",
+          "__seccion_4__": "Buyers Guide for '70 published in 1970, by J.I. Case",
+          "__seccion_5__": "Time-saving experts published in 1975, by J.I. Case"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 6, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1970 - 1975",
+          "__seccion_2__": "70 Series"
+        },
+        {
+          "__seccion_1__": "J.I. Case 870 Tires",
+          "Ag front": "7.50-16",
+          "Ag rear": "18.4-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wide-front Wheelbase": "101 inches 256 cm",
+          "Tricycle Wheelbase": "94 inches 238 cm",
+          "Length": "153 inches 388 cm",
+          "Height (hood)": "67 inches 170 cm",
+          "Weight": "9200 lbs 4173 kg",
+          "Ground clearance": "15 inches 38 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 6, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1970 - 1975",
+          "__seccion_2__": "70 Series"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 1030: diesel 12-speed 2WD",
+          "__seccion_3__": "NTTL 1031: diesel 8-speed 2WD",
+          "__seccion_4__": "NTTL 1059: gasoline 12-speed 2WD",
+          "__seccion_5__": "NTTL 1060: gasoline 8-speed 2WD",
+          "__seccion_6__": "NTTL 1076: diesel (2000 rpm) 12-speed 2WD",
+          "__seccion_7__": "NTTL 1077: diesel (2000 rpm) 8-speed 2WD",
+          "__seccion_8__": "NTTL 1149: diesel (2100 rpm) 8-speed 2WD",
+          "__seccion_9__": "NTTL 1150: diesel 12-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1030"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1030",
+          "__seccion_2__": "Diesel 12-speed 2WD November 10 - 19, 1969 Link: Nebraska Tractor Test 1030 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "70.53 hp 52.6 kW",
+          "Fuel use": "4.7 gal/hour 17.8 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "61.38 hp 45.8 kW",
+          "__seccion_5__": "Gear 2-High used for power test.",
+          "Max pull": "8876 lbs 4026 kg",
+          "__seccion_6__": "Gear 1-High used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1031"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1031",
+          "__seccion_2__": "Diesel 8-speed 2WD November 10 - 20, 1969 Link: Nebraska Tractor Test 1031 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "70.67 hp 52.7 kW",
+          "Fuel use": "4.3 gal/hour 16.3 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "61.77 hp 46.1 kW",
+          "__seccion_5__": "Gear 4-Low used for power test.",
+          "Max pull": "8934 lbs 4052 kg",
+          "__seccion_6__": "Gear 2-Low used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1059"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1059",
+          "__seccion_2__": "Gasoline 12-speed 2WD October 28 - November 17, 1970 Link: Nebraska Tractor Test 1059 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "70.67 hp 52.7 kW",
+          "Fuel use": "6.1 gal/hour 23.1 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "58.03 hp 43.3 kW",
+          "__seccion_5__": "Gear 2-High used for power test.",
+          "Max pull": "8793 lbs 3988 kg",
+          "__seccion_6__": "Gear 1-Med used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1060"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1060",
+          "__seccion_2__": "Gasoline 8-speed 2WD October 28 - November 7, 1970 Link: Nebraska Tractor Test 1060 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "71.06 hp 53.0 kW",
+          "Fuel use": "6.2 gal/hour 23.5 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "62.52 hp 46.6 kW",
+          "__seccion_5__": "Gear 4-Low used for power test.",
+          "Max pull": "9105 lbs 4130 kg",
+          "__seccion_6__": "Gear 2-Low used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1076"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1076",
+          "__seccion_2__": "Diesel (2000 rpm) 12-speed 2WD Link: Nebraska Tractor Test 1076 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "77.92 hp 58.1 kW",
+          "Fuel use": "5.5 gal/hour 20.8 l/hour",
+          "Power at rated PTO speed": "77.11 hp 57.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "66.89 hp 49.9 kW",
+          "__seccion_5__": "Gear 3-Low used for power test.",
+          "Max pull": "10075 lbs 4570 kg",
+          "__seccion_6__": "Gear 1-Med used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1077"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1077",
+          "__seccion_2__": "Diesel (2000 rpm) 8-speed 2WD September 12 - 24, 1971 Link: Nebraska Tractor Test 1077 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "77.45 hp 57.8 kW",
+          "Fuel use": "5.2 gal/hour 19.7 l/hour",
+          "Power at rated PTO speed": "76.63 hp 57.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "69.04 hp 51.5 kW",
+          "__seccion_5__": "Gear 4-Low used for power test.",
+          "Max pull": "9733 lbs 4414 kg",
+          "__seccion_6__": "Gear 1-Low used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1149"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1149",
+          "__seccion_2__": "Diesel (2100 rpm) 8-speed 2WD October 22 - 31, 1973 Link: Nebraska Tractor Test 1149 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "80.20 hp 59.8 kW",
+          "Fuel use": "5.6 gal/hour 21.2 l/hour",
+          "Power at rated PTO speed": "77.93 hp 58.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "69.53 hp 51.8 kW",
+          "__seccion_5__": "Gear 4-Low used for power test.",
+          "Max pull": "10047 lbs 4557 kg",
+          "__seccion_6__": "Gear 1-Low used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1150"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1150",
+          "__seccion_2__": "Diesel 12-speed 2WD October 26 - November 6, 1973 Link: Nebraska Tractor Test 1150 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "80.49 hp 60.0 kW",
+          "Fuel use": "6.0 gal/hour 22.7 l/hour",
+          "Power at rated PTO speed": "76.52 hp 57.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "68.90 hp 51.4 kW",
+          "__seccion_5__": "Gear 3-Low used for power test.",
+          "Max pull": "10030 lbs 4549 kg",
+          "__seccion_6__": "Gear 1-Med used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 6, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1970 - 1975",
+          "__seccion_2__": "70 Series"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "J.I. Case 5.5L 4-cyl diesel",
+          "__seccion_3__": "J.I. Case 4.9L 4-cyl gasoline"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "J.I. Case",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "336 ci 5.5 L",
+          "Bore/Stroke": "4.625x5.00 inches 117 x 127 mm",
+          "Compression": "16.5:1",
+          "Rated RPM": "1900 (early)",
+          "&nbsp": "2100 (late)",
+          "Starter volts": "12",
+          "Coolant capacity": "28 qts 26.5 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "J.I. Case",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "301 ci 4.9 L",
+          "Bore/Stroke": "4.375x5.00 inches 111 x 127 mm",
+          "Air cleaner": "paper element with pre-cleaner",
+          "Compression": "7.5:1",
+          "Rated RPM": "1900",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 6, 2024"
+        }
+      ]
+    }
+  }
+}

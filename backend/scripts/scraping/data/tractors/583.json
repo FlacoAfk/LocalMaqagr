@@ -1,0 +1,331 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/5/8/583-ford-1510.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/5/8/583-ford-1510-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/5/8/583-ford-1510-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/5/8/583-ford-1510-engine.html",
+    "source_id": 583,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:11:50.435Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/583/583-td4-b01-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 112 KB"
+  },
+  "tractor_data_id": 583,
+  "name": "Ford 1510",
+  "brand": "Shibaura",
+  "model": "1510",
+  "years": {
+    "desde": 1983,
+    "hasta": 1986
+  },
+  "model_year": 1983,
+  "engine_power_hp": 22,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": 19.5,
+  "pto_tested_hp": 19.98,
+  "drawbar_tested_hp": 16.3,
+  "weight_kg": 1040,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 8.7,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 13.6x16",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 994,
+  "tire_front": {
+    "original": "6.00-14",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 14,
+    "diameter_mm_est": 615,
+    "tipo": "Diagonal",
+    "texto": "6.00-14"
+  },
+  "fuel_consumption_lph": 5.7,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/583/583-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/583/583-td4-b01-ext090.jpg",
+  "image_url": "/uploads/tractors/td583.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Ford",
+          "Manufacturer": "Shibaura",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan",
+          "__seccion_4__": "Original price was $8,000 in 1986"
+        },
+        {
+          "__seccion_1__": "Ford 1510 Engine",
+          "__seccion_2__": "Shibaura 1.1L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 1510 Transmissions",
+          "__seccion_2__": "12-speed unsynchronized gear",
+          "__seccion_3__": "12-speed partially synchronized",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 1510 Power",
+          "Engine (net)": "22 hp 16.4 kW",
+          "PTO (claimed)": "19.5 hp 14.5 kW",
+          "Drawbar (tested)": "16.30 hp 12.2 kW",
+          "PTO (tested)": "19.98 hp 14.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "spur gear",
+          "Differential lock": "mechanical rear",
+          "Steering": "power Opt Optional",
+          "__seccion_3__": "Differential mechanical drum brakes",
+          "__seccion_4__": "Two-post fixed ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 1510 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "6.9 gal 26.1 L",
+          "Hydraulic system": "6.875 gal * Official Ford literature list capacities between 4.5 and 6.875 US gallons, depending on year and revision date. 26.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "6.875 gal * Official Ford literature list capacities between 4.5 and 6.875 US gallons, depending on year and revision date. 26.0 L",
+          "Pressure": "2133 psi 147.1 bar",
+          "Total flow": "6.6 gpm 25.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at ends)": "1432 lbs 649 kg",
+          "Rear lift (at 24\"/610mm)": "1160 lbs 526 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "&nbsp": "live Opt Optional",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2422"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "63 inches 160 cm",
+          "Weight": "2293 lbs 1040 kg",
+          "Front tire": "4.00-15",
+          "Rear tire": "9.5-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 1510 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "snowblower",
+          "__seccion_4__": "front-end loader",
+          "__seccion_5__": "backhoe",
+          "__seccion_6__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "1510 Serial Number Location",
+          "__seccion_2__": "Transmission housing on left side."
+        },
+        {
+          "1983": "UH00001",
+          "1984": "UH01280",
+          "1985": "UH02828",
+          "1986": "UH04797",
+          "__seccion_1__": "1510 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "35",
+          "Charging volts": "12",
+          "Battery volts": "12",
+          "Battery AH": "72"
+        },
+        {
+          "__seccion_1__": "Questions",
+          "__seccion_2__": "I bought an 1985 1510 and trans fluid was white, bad, I'm in the process of changing it, I'm seeing stuff on dipstick length differences (prior 1983ish) gets the > 9in + dipstick n newer ones supposedly should be 7-1/8 long, also amount of hyd fluid seeing 18, 19qts, also saw 6.875 gals, all I know for sure is 5 gals using the 9in dipstick Isn't or barely shows up on the stick. I found these annotations in the parts manual: SBA398400310 - Dipstick, 2WD, 9.13'' Measured from Underneath Cap; (Prod Date) Between 01-Jan-1983 and 28-Feb-1983. SBA398400350 - Dipstick, 2WD, 7.68'' Measure from Underneath Cap; 1310 - ASN UE00209, 1510 - ASN UH00206, 1710 - ASN UL00420; (Prod Date) After 01-Mar-1983. SBA398400350 - Dipstick, 4WD, (Prod Date) After 01-Jan-1983.",
+          "__seccion_3__": "Email: Peter@TractorData.com"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Ford Shop Manual by Peter Letourneau",
+          "__seccion_3__": "Farm Loaders published in 1988, by Ford",
+          "__seccion_4__": "Mid-Mount Finishing Mowers published in 1987, by Ford",
+          "__seccion_5__": "1000 Series Tractors published in 1985, by Ford",
+          "__seccion_6__": "1000 Series Tractors published in 1987, by Ford",
+          "__seccion_7__": "Salesman's Reference published in 1986, by Ford",
+          "__seccion_8__": "Repair Manual 1010 Series Tractors (SE 4301) published in 1986",
+          "__seccion_9__": "Sales Reference Guide published in 1986, by Ford"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on March 16, 2025",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Ford 1510 Tires",
+          "Ag front": "4.00-15 (2WD)",
+          "&nbsp": "25x8.50-14 (4WD)",
+          "Ag rear": "9.5-24",
+          "Lawn/turf front": "25x8.50-12 (2WD)",
+          "Lawn/turf rear": "13.6x16"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "63 inches 160 cm",
+          "Length": "111.6 inches 283 cm",
+          "2WD Width": "50.3 inches 127 cm",
+          "4WD Width": "50.5 inches 128 cm",
+          "Operating weight": "2293 lbs 1040 kg",
+          "Ballasted weight": "3205 lbs 1453 kg",
+          "2WD Ground clearance": "13 inches 33 cm",
+          "4WD Ground clearance": "11.2 inches 28 cm",
+          "2WD Front tread": "39.4 to 52 inches 100 to 132 cm",
+          "4WD Front tread": "42.1 inches 106 cm",
+          "2WD Rear tread": "41.2 to 52 inches 104 to 132 cm",
+          "4WD Rear tread": "41.3 to 47.3 inches 104 to 120 cm"
+        },
+        {
+          "__seccion_1__": "Ford 1510 Height",
+          "2WD Steering wheel": "56.2 inches 142 cm",
+          "4WD Steering wheel": "56.1 inches 142 cm",
+          "ROPS": "85.9 inches 218 cm",
+          "2WD Exhaust": "72.5 inches 184 cm",
+          "4WD Exhaust": "72 inches 182 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 1500: diesel 12/4 gear 2WD",
+          "__seccion_3__": "NTTL 1501: diesel 12/4 synchro 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1500"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1500",
+          "__seccion_2__": "Diesel 12/4 gear 2WD October 17 - 25, 1983 Link: Nebraska Tractor Test 1500 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "19.72 hp 14.7 kW",
+          "Fuel use": "1.4 gal/hour 5.3 l/hour",
+          "Power at rated PTO speed": "20.45 hp 15.2 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "16.15 hp 12.0 kW",
+          "__seccion_5__": "Gear 3-3 used for power test.",
+          "Max pull": "1952 lbs 885 kg",
+          "__seccion_6__": "Gear 2-3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1501"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1501",
+          "__seccion_2__": "Diesel 12/4 synchro 2WD October 18 - 27, 1983 Link: Nebraska Tractor Test 1501 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "19.98 hp 14.9 kW",
+          "Fuel use": "1.5 gal/hour 5.7 l/hour",
+          "Power at rated PTO speed": "18.68 hp 13.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "16.30 hp 12.2 kW",
+          "__seccion_5__": "Gear 3-3 used for power test.",
+          "Max pull": "1900 lbs 861 kg",
+          "__seccion_6__": "Gear 3-1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibaura K773",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "68.16 ci 1.1 L",
+          "Bore/Stroke": "3.03x3.15 inches 77 x 80 mm",
+          "Power (net)": "22 hp 16.4 kW",
+          "Fuel use": "1.474 gal/hour 5.6 l/hour",
+          "Air cleaner": "dry",
+          "Pre-heating": "glow plugs",
+          "Compression": "23:1",
+          "Rated RPM": "2800",
+          "Idle RPM": "800-3000",
+          "Torque": "43 lb-ft 58.3 Nm",
+          "Torque RPM": "1600",
+          "Firing order": "1-2-3",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "4.2 qts 4.0 L",
+          "Coolant capacity": "3.8 qts 3.6 L",
+          "Intake valve clearance": "0.008 inches * Cold 0.203 mm",
+          "Exhaust valve clearance": "0.008 inches * Cold 0.203 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ]
+    }
+  }
+}

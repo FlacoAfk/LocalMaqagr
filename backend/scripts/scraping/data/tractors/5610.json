@@ -1,0 +1,218 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/6/1/5610-caseih-stx440qt.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/6/1/5610-caseih-stx440qt-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/6/1/5610-caseih-stx440qt-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/6/1/5610-caseih-stx440qt-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 5610,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:42:53.874Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5610/5610-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 38 KB"
+  },
+  "tractor_data_id": 5610,
+  "name": "CaseIH STX440QT Quadtrac",
+  "brand": "CaseIH",
+  "model": "STX440QT Quadtrac",
+  "years": {
+    "desde": 2002,
+    "hasta": 2005
+  },
+  "model_year": 2002,
+  "engine_power_hp": 440,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": 450.29,
+  "drawbar_tested_hp": 345.68,
+  "weight_kg": 23285,
+  "weight_basis": "Operating weight",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 165.2,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 84.4,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5610/5610-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5610/5610-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td5610.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2001",
+          "__seccion_2__": "Steiger STX Series",
+          "__seccion_3__": "Articulated Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Articulated Crawler tractor",
+          "__seccion_3__": "Built in Fargo, North Dakota, USA"
+        },
+        {
+          "__seccion_1__": "CaseIH STX440QT Engine",
+          "__seccion_2__": "Cummins 14.9L 6-cyl diesel",
+          "Fuel tank": "300 gal 1135.5 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH STX440QT Transmission",
+          "__seccion_2__": "16-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH STX440QT Power",
+          "Engine": "440 hp 328.1 kW",
+          "Drawbar (tested)": "345.68 hp 257.8 kW",
+          "PTO (tested)": "450.29 hp 335.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "articulated crawler",
+          "Final drives": "inboard planetary",
+          "Steering": "hydrostatic power",
+          "__seccion_2__": "Integrated hydraulic wet disc brakes",
+          "__seccion_3__": "Surveyor Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH STX440QT photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing",
+          "Rear valves": "4 to 7",
+          "Pump flow": "40 gpm 151.4 lpm",
+          "&nbsp": "55 gpm Opt Optional 208.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IVN",
+          "Rear lift (at 24\"/610mm)": "19500 lbs 8845 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent Opt Optional",
+          "Rear PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tracks",
+          "Weight": "51335 lbs 23285 kg",
+          "__seccion_2__": "Tracks",
+          "__seccion_3__": "Full dimensions and tracks ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Batteries": "2",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "STX Series Steiger Tractors published in 2000, by CaseIH *",
+          "__seccion_3__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 26, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2001",
+          "__seccion_2__": "Steiger STX Series",
+          "__seccion_3__": "Articulated Crawler tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH STX440QT Tracks"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Width": "44 inches (frame) 111 cm",
+          "Operating weight": "51335 lbs 23285 kg",
+          "Max weight": "53264 lbs 24160 kg",
+          "Rear axle": "4.5 inch diameter 114 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 26, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2001",
+          "__seccion_2__": "Steiger STX Series",
+          "__seccion_3__": "Articulated Crawler tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1785",
+          "__seccion_2__": "Diesel 16-speed Crawler October 4 - 19, 2000 Link: OCED Tractor Test 1785 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "345.68 hp 257.8 kW",
+          "Fuel use": "22.1 gal/hour 83.6 l/hour",
+          "Power at rated engine speed": "399.14 hp 297.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 4 used for power test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 26, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2001",
+          "__seccion_2__": "Steiger STX Series",
+          "__seccion_3__": "Articulated Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Cummins QSX15",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "912 ci 14.9 L",
+          "Bore/Stroke": "5.394x6.654 inches 137 x 169 mm",
+          "Power": "440 hp 328.1 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "16.5:1",
+          "Rated RPM": "2000",
+          "Torque": "1650 lb-ft 2237.4 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "CaseIH STX440QT Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 26, 2021"
+        }
+      ]
+    }
+  }
+}

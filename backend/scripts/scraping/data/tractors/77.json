@@ -1,0 +1,278 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/7/77-john-deere-6030.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/7/77-john-deere-6030-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/7/77-john-deere-6030-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/7/77-john-deere-6030-engine.html",
+    "source_id": 77,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:46:29.413Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/77/77-photo-001-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 52 KB"
+  },
+  "tractor_data_id": 77,
+  "name": "John Deere 6030",
+  "brand": "John Deere",
+  "model": "6030",
+  "years": {
+    "desde": 1972,
+    "hasta": 1977
+  },
+  "model_year": 1972,
+  "engine_power_hp": 175,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 175,
+  "pto_tested_hp": 175.99,
+  "drawbar_tested_hp": 148.7,
+  "weight_kg": 8246,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 68.1,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 20.8-38",
+  "tire_width_mm": 528,
+  "tire_diameter_mm": 1863,
+  "tire_front": {
+    "original": "9.50-20",
+    "radial": false,
+    "width_mm": 241,
+    "rim_in": 20,
+    "diameter_mm_est": 918,
+    "tipo": "Diagonal",
+    "texto": "9.50-20"
+  },
+  "fuel_consumption_lph": 42,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/77/77-td3a.jpg",
+  "image_url": "/uploads/tractors/td77.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1972 - 1977",
+          "__seccion_2__": "Generation II Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "Total built": "4,028",
+          "&nbsp": "45 natural",
+          "__seccion_4__": "Original price was $29,000 in 1977"
+        },
+        {
+          "__seccion_1__": "John Deere 6030 Engine",
+          "__seccion_2__": "John Deere 8.7L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6030 Transmission",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6030 Power",
+          "PTO (claimed)": "175 hp (turbo) 130.5 kW",
+          "&nbsp": "141 hp (natural) 105.1 kW",
+          "Drawbar (tested)": "148.70 hp 110.9 kW",
+          "PTO (tested)": "175.99 hp 131.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Differential lock": "hydraulic-actuated",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Open operator station. Cab optional with air-conditioning available."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 6030 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "73 gal 276.3 L",
+          "Hydraulic system": "16 gal 60.6 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "16 gal 60.6 L",
+          "Valves": "2",
+          "Pump flow": "22 gpm 83.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/II",
+          "Rear lift": "5910 lbs 2680 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000",
+          "Engine RPM": "1000@2051"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "104 inches 264 cm",
+          "Weight": "18,180 lbs 8246 kg",
+          "Front tire": "9.50-20",
+          "Rear tire": "20.8-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "6030 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the rear of the 6030, above the PTO shaft."
+        },
+        {
+          "1972": "33000",
+          "1973": "33550",
+          "1974": "34586",
+          "1975": "35400",
+          "1976": "36014",
+          "1977": "36577",
+          "__seccion_1__": "6030 Serial Numbers",
+          "Final": "37041",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "55",
+          "&nbsp": "78 Opt Optional",
+          "Batteries": "2",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere 20 Series New Generation Tractors by Benjamin Hain",
+          "__seccion_3__": "Operator's Manual 6030 Tractor (OM-R55943)"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 24, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1972 - 1977",
+          "__seccion_2__": "Generation II Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 6030 Tires",
+          "Ag front": "9.50-20",
+          "Ag rear": "20.8-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "104 inches 264 cm",
+          "Length": "172.3 inches 437 cm",
+          "Height (steering wheel)": "82.4 inches 209 cm",
+          "Height (exhaust)": "98.3 inches 249 cm",
+          "Operating weight": "18,180 lbs 8246 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 24, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1972 - 1977",
+          "__seccion_2__": "Generation II Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1100"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1100",
+          "__seccion_2__": "Turbo diesel 8-speed 2WD May 23 - June 2, 1972 Link: Nebraska Tractor Test 1100 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "175.99 hp 131.2 kW",
+          "Fuel use": "11.0 gal/hour 41.6 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "148.70 hp 110.9 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "15,303 lbs 6941 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 24, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1972 - 1977",
+          "__seccion_2__": "Generation II Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "531 ci 8.7 L",
+          "Bore/Stroke": "4.75x5.00 inches 121 x 127 mm",
+          "Air cleaner": "dual paper elements with aspirator",
+          "Compression": "15.4:1",
+          "Rated RPM": "2100",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Oil capacity": "26 qts 24.6 L",
+          "Coolant capacity": "40 qts 37.9 L"
+        },
+        {
+          "__seccion_1__": "John Deere 6030 Engine",
+          "__seccion_2__": "Image courtesy of Luke Ulrich"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "__seccion_6__": "The naturally-aspirated 531 was an optional engine on the John Deere 6030 offered during the 1973 model year. The naturally-aspirated engine was dropped due to poor sales.",
+          "Displacement": "531 ci 8.7 L",
+          "Bore/Stroke": "4.75x5.00 inches 121 x 127 mm",
+          "Compression": "16.5:1",
+          "Rated RPM": "2200",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Oil capacity": "20 qts 18.9 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 24, 2025"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/77/77-photo-001-ext090.jpg"
+}

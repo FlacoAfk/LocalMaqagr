@@ -1,0 +1,251 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/8/88-john-deere-8630.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/8/88-john-deere-8630-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/8/88-john-deere-8630-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/8/88-john-deere-8630-engine.html",
+    "source_id": 88,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:47:04.965Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/88/88-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 70 KB"
+  },
+  "tractor_data_id": 88,
+  "name": "John Deere 8630",
+  "brand": "John Deere",
+  "model": "8630",
+  "years": {
+    "desde": 1975,
+    "hasta": 1978
+  },
+  "model_year": 1975,
+  "engine_power_hp": 275,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 225,
+  "pto_tested_hp": 225.59,
+  "drawbar_tested_hp": 198.12,
+  "weight_kg": 10954,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 117.6,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "18.4-34",
+    "radial": false,
+    "width_mm": 467,
+    "rim_in": 34,
+    "diameter_mm_est": 1658,
+    "tipo": "Diagonal",
+    "texto": "18.4-34"
+  },
+  "fuel_consumption_lph": 57.9,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/88/88-td3a.jpg",
+  "image_url": "/uploads/tractors/td88.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1975 - 1978",
+          "__seccion_2__": "Generation II Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "__seccion_4__": "Original price was $53,000 in 1978"
+        },
+        {
+          "__seccion_1__": "John Deere 8630 Engine",
+          "__seccion_2__": "John Deere 10.1L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8630 Transmission",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8630 Power",
+          "Engine": "275 hp 205.1 kW",
+          "PTO (claimed)": "225 hp 167.8 kW",
+          "Drawbar (tested)": "198.12 hp 147.7 kW",
+          "PTO (tested)": "225.59 hp 168.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "hydraulic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Sound-Gard cab standard. Optional air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 8630 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "156 gal 590.5 L",
+          "Hydraulic system": "26 gal 98.4 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center constant pressure",
+          "Capacity": "26 gal 98.4 L",
+          "Valves": "2",
+          "Pump flow": "33 gpm 124.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000",
+          "Engine RPM": "2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "125 inches 317 cm",
+          "Weight": "24150 to 24500 pounds",
+          "Front tire": "18.4-34",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1975": "1000",
+          "1976": "2382",
+          "1977": "5222",
+          "1978": "7626",
+          "__seccion_1__": "8630 Serial Numbers",
+          "Location:": "Back of transmission case",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Batteries": "2",
+          "Battery CCA": "975",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 2, 2017",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1975 - 1978",
+          "__seccion_2__": "Generation II Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8630 Tires",
+          "Ag front": "18.4-34",
+          "Ag rear": "18.4-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "125 inches 317 cm",
+          "Length": "223.5 inches 567 cm",
+          "Width": "95.8 inches * Standard axle 243 cm",
+          "&nbsp": "118.4 inches * Long axle 300 cm",
+          "Height (exhaust)": "134.5 inches 341 cm",
+          "Ground clearance": "19.4 inches 49 cm",
+          "Front axle": "3.622 by 118 inches 91 by 2997 mm",
+          "Rear axle": "3.622 by 118 inches 91 by 2997 mm"
+        },
+        {
+          "__seccion_1__": "John Deere 8630 Weight",
+          "Shipping": "24150 lbs 10954 kg",
+          "Operating": "24500 lbs 11113 kg",
+          "Ballasted": "26480 lbs 12011 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 2, 2017"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1975 - 1978",
+          "__seccion_2__": "Generation II Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1180"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1180",
+          "__seccion_2__": "Diesel Quad-Range 4WD June 3 - 11, 1975 Link: Nebraska Tractor Test 1180 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "225.59 hp 168.2 kW",
+          "Fuel use": "13.7 gal/hour 51.9 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "198.12 hp 147.7 kW",
+          "Max pull": "26,443 lbs 11994 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 2, 2017"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1975 - 1978",
+          "__seccion_2__": "Generation II Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "619 ci 10.1 L",
+          "Bore/Stroke": "5.12x5.00 inches 130 x 127 mm",
+          "Power": "275 hp 205.1 kW",
+          "Air cleaner": "dry",
+          "Compression": "15.4:1",
+          "Rated RPM": "2100",
+          "Idle RPM": "800-2300",
+          "Operating RPM": "1500-2100",
+          "Starter volts": "12",
+          "Coolant capacity": "44 qts 41.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 2, 2017"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/88/88-td4-b01-ext000.jpg"
+}

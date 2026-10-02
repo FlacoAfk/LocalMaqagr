@@ -1,0 +1,228 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/3/0/1307-kubota-l4200.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/3/0/1307-kubota-l4200-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/3/0/1307-kubota-l4200-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1307,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:52:29.577Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1307/1307-photo-001-ext180.jpg",
+    "foto_calidad": "webp 960px/q65 → 102 KB"
+  },
+  "tractor_data_id": 1307,
+  "name": "Kubota L4200",
+  "brand": "Kubota",
+  "model": "L4200",
+  "years": {
+    "desde": 1994,
+    "hasta": 1999
+  },
+  "model_year": 1994,
+  "engine_power_hp": 45.3,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 37,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1374,
+  "weight_basis": "4WD ROPS",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 13.6,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1307/1307-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1307/1307-photo-001-ext180.jpg",
+  "image_url": "/uploads/tractors/td1307.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1994 - 1999",
+          "__seccion_2__": "Grand L Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota L4200 Engine",
+          "__seccion_2__": "Kubota 2.2L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L4200 Transmissions",
+          "__seccion_2__": "8-speed synchronized shuttle",
+          "__seccion_3__": "8-speed power shuttle",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L4200 Power",
+          "Engine (gross)": "45.3 hp 33.8 kW",
+          "Engine (net)": "42 hp 31.3 kW",
+          "PTO (claimed)": "37 hp 27.6 kW",
+          "Plows": "2 (14-inch)"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 MFWD 4WD (optional)",
+          "__seccion_2__": "Power steering",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Two-post ROPS. Cab optional with heat and air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota L4200 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "9.2 gal 34.8 L",
+          "Hydraulic system": "10.3 gal 39.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "10.3 gal 39.0 L",
+          "Pressure": "2490 psi 171.7 bar",
+          "Pump flow": "7.8 gpm 29.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at ends)": "2,870 lbs 1301 kg",
+          "Rear lift (at 24\"/610mm)": "2,310 lbs 1047 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2447"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "71.3 inches 181 cm",
+          "4WD Wheelbase": "71.1 inches 180 cm",
+          "Weight": "2875 to 3500 pounds",
+          "Front tire": "6.00-16:14.9-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota L4200 attachments",
+          "__seccion_2__": "blade",
+          "__seccion_3__": "front-end loader",
+          "__seccion_4__": "backhoe",
+          "__seccion_5__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery CCA": "447",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Backhoes published in 1994, by Kubota",
+          "__seccion_3__": "Front Loaders B, L and M-Series published in 1994, by Kubota *",
+          "__seccion_4__": "Americans on Kubota published in 2000",
+          "__seccion_5__": "L2900/L3300/L3600/L4200 published in 1996, by Kubota",
+          "__seccion_6__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 25, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1994 - 1999",
+          "__seccion_2__": "Grand L Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota L4200 Tires",
+          "Ag front": "6.00-16:14.9-24 (2WD)",
+          "&nbsp": "8.3-16:14.9-24 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "71.3 inches 181 cm",
+          "4WD Wheelbase": "71.1 inches 180 cm",
+          "Length": "118.9 inches 302 cm",
+          "Width": "62.4 inches 158 cm",
+          "Height (steering wheel)": "60.4 inches 153 cm",
+          "Height (ROPS)": "84.4 inches 214 cm",
+          "Ground clearance": "14.6 inches 37 cm",
+          "Front tread": "45.5 inches 115 cm (4WD)",
+          "Rear tread": "42.5/46.4/47.2/51.2/57.1/60.8 inches 107/117/119/130/145/154 cm"
+        },
+        {
+          "__seccion_1__": "Kubota L4200 Weight",
+          "2WD ROPS": "2,875 lbs 1304 kg",
+          "4WD ROPS": "3,030 lbs 1374 kg",
+          "Cab": "3,500 lbs 1587 kg",
+          "Max Drawbar": "1,430 lbs 648 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 25, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1994 - 1999",
+          "__seccion_2__": "Grand L Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V2203",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "134.1 ci 2.2 L",
+          "Bore/Stroke": "3.4x3.6 inches 86 x 91 mm",
+          "Power (net)": "42 hp 31.3 kW",
+          "Power (gross)": "45.3 hp 33.8 kW",
+          "Fuel system": "indirect injection",
+          "Rated RPM": "2600",
+          "Torque": "102.9 lb-ft 139.5 Nm",
+          "Starter volts": "12",
+          "Coolant capacity": "7.9 qts 7.5 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "6.3 qts 6.0 L",
+          "Oil change": "100 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 25, 2023"
+        }
+      ]
+    }
+  }
+}

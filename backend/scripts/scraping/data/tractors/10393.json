@@ -1,0 +1,253 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/3/9/10393-massey-ferguson-165.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/3/9/10393-massey-ferguson-165-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/3/9/10393-massey-ferguson-165-engine.html",
+    "source_id": 10393,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:51:04.385Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10393/10393-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 121 KB"
+  },
+  "tractor_data_id": 10393,
+  "name": "Massey Ferguson 165",
+  "brand": "Massey Ferguson",
+  "model": "165",
+  "years": {
+    "desde": 1965,
+    "hasta": 1979
+  },
+  "model_year": 1965,
+  "engine_power_hp": 58.3,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2030,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 21.4,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 11-32",
+  "tire_width_mm": 279,
+  "tire_diameter_mm": 1288,
+  "tire_front": {
+    "original": "6-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F010/10393/10393-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F010/10393/10393-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td10393.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1965 - 1979",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Coventry, England"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 165 Engines",
+          "__seccion_2__": "Perkins 3.3L 4-cyl diesel",
+          "__seccion_3__": "Perkins 3.5L 4-cyl diesel",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 165 Transmissions",
+          "__seccion_2__": "12-speed partial power shift",
+          "__seccion_3__": "6-speed",
+          "__seccion_4__": "8-speed",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 165 Power",
+          "Engine (gross)": "58.3 hp 43.5 kW",
+          "Engine": "60 hp 44.7 kW",
+          "Plows": "4"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "power",
+          "Brakes": "mechanical dry disc",
+          "&nbsp": "wet disc * Optional after 1972.",
+          "__seccion_3__": "Open operator station"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 165 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "18 gal 68.1 L",
+          "Hydraulic system": "8 gal 30.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "8 gal 30.3 L",
+          "Pump flow": "4.5 gpm 17.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift": "2850 lbs 1292 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "&nbsp": "independent Opt Optional",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "82 inches 208 cm",
+          "Weight": "4476 lbs 2030 kg",
+          "Front tire": "6-16",
+          "Rear tire": "11-32",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1965": "500001",
+          "1966": "512207",
+          "1967": "530825",
+          "1968": "547384",
+          "1969": "564701",
+          "1970": "581457",
+          "1971": "597649",
+          "1972": "103622",
+          "1973": "116353",
+          "1974": "126448",
+          "1975": "135036",
+          "1976": "145432",
+          "1977": "155687",
+          "1978": "164417",
+          "1979": "173144",
+          "__seccion_1__": "165 Serial Numbers",
+          "Location:": "Serial number plate on the dashboard of the 165, below the steering column.",
+          "Final": "173696",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "generator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF 165 published in 1969, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 1, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1965 - 1979",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 165 Tires",
+          "Standard tires (ag)": "Front: 6-16. Rear: 11-32",
+          "Optional tires (ag)": "Front: 6-19. Rear: 11-36",
+          "&nbsp": "Front: 6-16. Rear: 13-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "82 inches 208 cm",
+          "Length": "132 inches 335 cm",
+          "Width": "72 inches 182 cm",
+          "Height (steering wheel)": "62 inches 157 cm",
+          "Weight": "4476 lbs 2030 kg",
+          "Ground clearance": "14 inches 35 cm",
+          "Front tread": "8/6 inches 20/15 cm (tricycle)",
+          "Rear tread": "52.4 to 86 inches 133 to 218 cm (manual)"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 1, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1965 - 1979",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Perkins 3.3L 4-cyl diesel",
+          "__seccion_3__": "Perkins 3.5L 4-cyl diesel"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins AD4.203",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "203.5 ci 3.3 L",
+          "Bore/Stroke": "3.60x5.00 inches 91 x 127 mm",
+          "Power (gross)": "58.3 hp 43.5 kW",
+          "Compression": "18.5:1",
+          "Rated RPM": "2000",
+          "Torque": "169 lb-ft 229.2 Nm",
+          "Torque RPM": "1300",
+          "Firing order": "1-3-4-2",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "7.2 qts 6.8 L",
+          "Coolant capacity": "14.4 qts 13.6 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A4.212",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "__seccion_6__": "The 212 diesel replaced the 203 during the 1968 production year.",
+          "Displacement": "212 ci 3.5 L",
+          "Bore/Stroke": "3.875x4.50 inches 98 x 114 mm",
+          "Power": "60 hp 44.7 kW",
+          "Air cleaner": "dry element",
+          "Rated RPM": "2000",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "9.6 qts 9.1 L",
+          "Coolant capacity": "11.4 qts 10.8 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 1, 2021"
+        }
+      ]
+    }
+  }
+}

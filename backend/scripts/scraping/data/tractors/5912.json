@@ -1,0 +1,243 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/9/1/5912-john-deere-3038e.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/9/1/5912-john-deere-3038e-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/9/1/5912-john-deere-3038e-engine.html",
+    "source_id": 5912,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:48:28.894Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5912/5912-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 152 KB"
+  },
+  "tractor_data_id": 5912,
+  "name": "John Deere 3038E",
+  "brand": "John Deere",
+  "model": "3038E",
+  "years": {
+    "desde": 2008,
+    "hasta": 2023
+  },
+  "model_year": 2008,
+  "engine_power_hp": 37.1,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 30,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 986,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 11,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 41x14.0-20",
+  "tire_width_mm": 356,
+  "tire_diameter_mm": 1041,
+  "tire_front": {
+    "original": "27x8.5-15",
+    "radial": false,
+    "width_mm": 216,
+    "rim_in": 15,
+    "diameter_mm_est": 686,
+    "tipo": "Diagonal",
+    "texto": "27x8.5-15"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F005/5912/5912-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5912/5912-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td5912.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2008 - 2023",
+          "__seccion_2__": "Model year 2008-2012 2013-2023",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Augusta, Georgia, USA",
+          "Original price": "$14,869 (2009 )",
+          "__seccion_4__": "$20,669 (2016 )"
+        },
+        {
+          "__seccion_1__": "John Deere 3038E Engine",
+          "__seccion_2__": "Yanmar 1.5L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3038E Transmission",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3038E Power",
+          "Engine (gross)": "37.1 hp 27.7 kW",
+          "Engine": "36.3 hp 27.1 kW",
+          "PTO (claimed)": "30 hp 22.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 3038E photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "6.4 gal 24.2 L",
+          "Hydraulic system": "5.5 gal 20.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "5.5 gal 20.8 L",
+          "Pressure": "2500 psi 172.4 bar",
+          "Pump flow": "5.3 gpm 20.1 lpm",
+          "Total flow": "9.3 gpm 35.2 lpm",
+          "Steering flow": "4.0 gpm 15.1 lpm",
+          "Steering press.": "1500 psi 103.4 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "1",
+          "Rear lift (at 24\"/610mm)": "1,356 lbs 615 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "60 inches 152 cm",
+          "Weight": "2,175 lbs 986 kg",
+          "Front tire": "7.00-14",
+          "Rear tire": "11.2-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3038E attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "3038E Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the tractor frame, above the front axle."
+        },
+        {
+          "2009": "3038E140001 (no loader)",
+          "2010": "3038E240001 (no loader)",
+          "2011": "3038ExBHxxxxxx",
+          "2012": "3038ExCHxxxxxx",
+          "__seccion_1__": "3038E Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "Battery CCA": "500",
+          "Battery volts": "12",
+          "Battery Group": "22NF"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "3000 Series published in 2009, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 18, 2023",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2008 - 2023",
+          "__seccion_2__": "Model year 2008-2012 2013-2023",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 3038E Tires",
+          "Ag front": "7.00-14",
+          "Ag rear": "11.2-24",
+          "Lawn/turf front": "27x8.5-15",
+          "Lawn/turf rear": "41x14.0-20",
+          "Industrial front": "25x8.5-14",
+          "Industrial rear": "15.00-19.5"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "60 inches 152 cm",
+          "Length": "111 inches 281 cm",
+          "Width": "56.5 inches (min) 143 cm",
+          "&nbsp": "58 inches (max) 147 cm",
+          "Height (hood)": "51 inches 129 cm",
+          "Height (ROPS)": "82.3 inches 209 cm",
+          "Operating weight": "2,175 lbs 986 kg",
+          "Max weight": "4,410 lbs 2000 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 18, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2008 - 2023",
+          "__seccion_2__": "Model year 2008-2012 2013-2023",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Yanmar 3TNV84T",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "91.5 ci 1.5 L",
+          "Bore/Stroke": "3.30x3.54 inches 84 x 90 mm",
+          "Power": "36.3 hp 27.1 kW",
+          "Power (gross)": "37.1 hp 27.7 kW",
+          "Air cleaner": "dry type",
+          "Compression": "19:1",
+          "Rated RPM": "2500",
+          "Torque": "88.5 lb-ft 120.0 Nm",
+          "Torque RPM": "1680",
+          "Starter volts": "12",
+          "Starter power": "1.9 hp 1.4 kW",
+          "Coolant capacity": "4.4 qts 4.2 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "4.8 qts 4.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 18, 2023"
+        }
+      ]
+    }
+  }
+}

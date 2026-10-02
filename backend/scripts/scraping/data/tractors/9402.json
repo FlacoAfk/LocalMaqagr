@@ -1,0 +1,213 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/009/4/0/9402-zetor-9050.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/009/4/0/9402-zetor-9050-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/009/4/0/9402-zetor-9050-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 9402,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:55:44.289Z",
+    "foto_original": "https://www.tractordata.com/photos/F009/9402/9402-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 2 KB"
+  },
+  "tractor_data_id": 9402,
+  "name": "Zetor 9050",
+  "brand": "Zetor",
+  "model": "9050",
+  "years": {
+    "desde": 2008,
+    "hasta": 2011
+  },
+  "model_year": 2008,
+  "engine_power_hp": 93,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 83,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3878,
+  "weight_basis": "Mech shuttle Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 30.5,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 18.4R34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "13.6R24",
+    "radial": true,
+    "width_mm": 345,
+    "rim_in": 24,
+    "diameter_mm_est": 1197,
+    "tipo": "Radial",
+    "texto": "13.6R24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F009/9402/9402-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td9402.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2008 - 2011",
+          "__seccion_2__": "Silver Series"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Zetor",
+          "__seccion_2__": "Built in Brno, Czech Republic"
+        },
+        {
+          "__seccion_1__": "Zetor 9050 Engine",
+          "__seccion_2__": "Zetor 4.2L 4-cyl diesel",
+          "Mech shuttle Fuel tank": "40 gal 151.4 L",
+          "Power shuttle Fuel tank": "48 gal 181.7 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 9050 Transmissions",
+          "__seccion_2__": "16-speed two-speed power shift",
+          "__seccion_3__": "24-speed three-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 9050 Power",
+          "Engine (gross)": "93 hp 69.4 kW",
+          "Engine (net)": "89 hp 66.4 kW",
+          "PTO (claimed)": "83 hp 61.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "&nbsp": "limited-slip front",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with air-condtioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Zetor 9050 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "3",
+          "SCV flow": "14 gpm 53.0 lpm",
+          "Total flow": "20 gpm 75.7 lpm",
+          "Steering flow": "6 gpm 22.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position and draft control",
+          "Rear lift (at ends)": "7600 lbs 3447 kg",
+          "&nbsp": "9150 lbs Opt Optional 4150 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Mech shuttle Wheelbase": "92 inches 233 cm",
+          "Power shuttle Wheelbase": "96 inches 243 cm",
+          "Weight": "8550 to 8980 pounds",
+          "Front tire": "13.6R24",
+          "Rear tire": "18.4R34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Zetor 9050 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "95",
+          "Charging volts": "12",
+          "Battery CCA": "950",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 24, 2017"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2008 - 2011",
+          "__seccion_2__": "Silver Series"
+        },
+        {
+          "__seccion_1__": "Zetor 9050 Tires",
+          "Standard tires (ag)": "Front: 13.6R24. Rear: 18.4R34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Mech shuttle Wheelbase": "92 inches 233 cm",
+          "Power shuttle Wheelbase": "96 inches 243 cm",
+          "Mech shuttle Length": "153 inches 388 cm",
+          "Power shuttle Length": "157 inches 398 cm",
+          "Width": "78 inches * Minimum width 198 cm",
+          "Height (cab)": "106 inches 269 cm",
+          "Mech shuttle Weight": "8550 lbs 3878 kg",
+          "Power shuttle Weight": "8980 lbs 4073 kg",
+          "Ground clearance": "18 inches 45 cm",
+          "Front tread": "59 to 77 inches 149 to 195 cm",
+          "Rear tread": "59 to 71 inches 149 to 180 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 24, 2017"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2008 - 2011",
+          "__seccion_2__": "Silver Series"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Zetor",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "254 ci 4.2 L",
+          "Bore/Stroke": "4.13x4.72 inches 105 x 120 mm",
+          "Power (net)": "89 hp 66.4 kW",
+          "Power (gross)": "93 hp 69.4 kW",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 24, 2017"
+        }
+      ]
+    }
+  }
+}

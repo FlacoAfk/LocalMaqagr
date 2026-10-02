@@ -1,0 +1,262 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/1/9/1190-caseih-5250.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/1/9/1190-caseih-5250-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/1/9/1190-caseih-5250-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/1/9/1190-caseih-5250-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1190,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:36:04.511Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1190/1190-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 72 KB"
+  },
+  "tractor_data_id": 1190,
+  "name": "CaseIH 5250 Maxxum",
+  "brand": "CaseIH",
+  "model": "5250 Maxxum",
+  "years": {
+    "desde": 1992,
+    "hasta": 1997
+  },
+  "model_year": 1992,
+  "engine_power_hp": 112,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 112,
+  "pto_tested_hp": 115.6,
+  "drawbar_tested_hp": 103.4,
+  "weight_kg": 5030,
+  "weight_basis": "4WD",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 81.4,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "7.50-18",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 18,
+    "diameter_mm_est": 781,
+    "tipo": "Diagonal",
+    "texto": "7.50-18"
+  },
+  "fuel_consumption_lph": 25.7,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1190/1190-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1190/1190-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1190.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "Maxxum Series"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Original price was $52,000 in 1997"
+        },
+        {
+          "__seccion_1__": "CaseIH 5250 Engine",
+          "__seccion_2__": "CDC 5.9L 6-cyl diesel",
+          "Fuel tank": "35.7 gal 135.1 L",
+          "&nbsp": "45 gal Opt Optional 170.3 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 5250 Transmissions",
+          "__seccion_2__": "16-speed 4-speed power shift",
+          "__seccion_3__": "24-speed creeper",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 5250 Power",
+          "PTO (claimed)": "112 hp 83.5 kW",
+          "Drawbar (tested)": "103.40 hp 77.1 kW",
+          "PTO (tested)": "115.6 hp 86.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "electro-hydraulic rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH 5250 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure-flow compensated",
+          "Pressure": "2600 psi 179.3 bar",
+          "Valves": "1 to 3",
+          "Pump flow": "20 gpm 75.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "lower-link draft sensing",
+          "Rear lift": "7700 lbs 3492 kg",
+          "Rear lift (at 24\"/610mm)": "6990 lbs 3170 kg",
+          "Front Hitch": "II Opt Optional",
+          "Front lift (at 24\"/610mm)": "5200 lbs 2358 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "103.7 inches 263 cm",
+          "4WD Wheelbase": "101.8 inches 258 cm",
+          "Weight": "9810 to 11090 pounds",
+          "Front tire": "7.50-18",
+          "Rear tire": "18.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1992": "JJF1015072",
+          "1993": "JJF1023186",
+          "1994": "JJF1029431",
+          "1995": "JJF1036193",
+          "1996": "JJF1047028",
+          "1997": "JJF1059169",
+          "__seccion_1__": "5250 Serial Numbers",
+          "Location:": "Inside cab on left",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "65",
+          "&nbsp": "2 Opt Optional",
+          "Batteries": "1",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Maxxum Tractors published in 1992, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 15, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "Maxxum Series"
+        },
+        {
+          "__seccion_1__": "CaseIH 5250 Tires",
+          "Ag front": "7.50-18",
+          "Ag rear": "18.4-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "103.7 inches 263 cm",
+          "4WD Wheelbase": "101.8 inches 258 cm",
+          "2WD Length": "170.6 inches 433 cm",
+          "4WD Length": "174.2 inches 442 cm",
+          "2WD Clearance (front axle)": "22.1 inches 56 cm",
+          "4WD Clearance (front axle)": "18.4 inches 46 cm",
+          "Clearance (drawbar)": "18.8 inches 47 cm",
+          "__seccion_2__": "Flange rear axle",
+          "Bar rear axle": "96 inch length 2438 mm",
+          "Front tread": "60 to 88 inches 152 to 223 cm",
+          "Rear tread": "60 to 110 inches 152 to 279 cm (bar)"
+        },
+        {
+          "__seccion_1__": "CaseIH 5250 Weight",
+          "2WD": "9810 lbs 4449 kg",
+          "4WD": "11090 lbs 5030 kg",
+          "Ballasted": "16005 lbs 7259 kg"
+        },
+        {
+          "__seccion_1__": "CaseIH 5250 Height",
+          "Steering wheel": "80.7 inches 204 cm",
+          "Hood": "69.8 inches 177 cm",
+          "Cab": "106.1 inches 269 cm",
+          "Exhaust": "107.6 inches 273 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 15, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "Maxxum Series"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1462"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1462",
+          "__seccion_2__": "Diesel 16-speed 4WD January 1993 - March 1993, Link: OCED Tractor Test 1462 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "103.40 hp 77.1 kW",
+          "Fuel use": "6.8 gal/hour 25.7 l/hour",
+          "Power at rated engine speed": "112.20 hp 83.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "18295 lbs 8298 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 15, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "Maxxum Series"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CDC",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "359 ci 5.9 L",
+          "Bore/Stroke": "4.02x4.72 inches 102 x 120 mm",
+          "Fuel use": "6.86 gal/hour 26.0 l/hour",
+          "Rated RPM": "2200",
+          "Idle RPM": "850-2355",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 15, 2021"
+        }
+      ]
+    }
+  }
+}

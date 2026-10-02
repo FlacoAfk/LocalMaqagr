@@ -1,0 +1,192 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/9/1/915-challenger-45.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/9/1/915-challenger-45-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/9/1/915-challenger-45-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 915,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:33:46.881Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/915/915-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 34 KB"
+  },
+  "tractor_data_id": 915,
+  "name": "Challenger 45",
+  "brand": "Challenger (a part of Caterpillar)",
+  "model": "45",
+  "years": {
+    "desde": 1995,
+    "hasta": 1998
+  },
+  "model_year": 1995,
+  "engine_power_hp": 240,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 200,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 10296,
+  "weight_basis": "Weight",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 73.4,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/915/915-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/915/915-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td915.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1995 - 1998",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Challenger (a part of Caterpillar)",
+          "__seccion_2__": "Agricultural Crawler tractor",
+          "__seccion_3__": "Original price was $126,700 in 1998"
+        },
+        {
+          "__seccion_1__": "Challenger 45 Engine",
+          "__seccion_2__": "Caterpillar 6.6L 6-cyl diesel",
+          "Fuel tank": "125 gal 473.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Challenger 45 Transmissions",
+          "__seccion_2__": "16-speed full power shift",
+          "__seccion_3__": "32-speed creeper",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Challenger 45 Power",
+          "Engine": "240 hp 179.0 kW",
+          "Drawbar (claimed)": "170 hp 126.8 kW",
+          "PTO (claimed)": "200 hp 149.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "crawler",
+          "Steering": "differential power",
+          "__seccion_2__": "Wet disc brakes",
+          "__seccion_3__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Challenger 45 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "variable-displacement load-sensing pressure-compensated",
+          "Pressure": "2750 psi 189.6 bar",
+          "Valves": "3 or 4",
+          "Pump flow": "31.2 gpm 118.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/II",
+          "Control": "draft control",
+          "Rear lift": "12500 lbs 5670 kg",
+          "&nbsp": "15000 lbs * Optional. 6804 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "1000 (1.75)",
+          "Engine RPM": "1000@1900"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tracks",
+          "Wheelbase": "86 inches 218 cm",
+          "Weight": "22700 lbs 10296 kg",
+          "__seccion_2__": "16-inch tracks",
+          "__seccion_3__": "Full dimensions and tracks ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Challenger 65B published in 1995, by Caterpillar",
+          "__seccion_3__": "Challenger 35, 45 and 55 Product Bulletin published in 1995, by Caterpillar"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 30, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1995 - 1998",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Challenger 45 Tracks",
+          "Width": "32 inches 81 cm"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "86 inches 218 cm",
+          "Length": "211 inches 535 cm",
+          "Width": "91 inches 231 cm",
+          "Height (cab)": "120 inches 304 cm",
+          "Height (exhaust)": "125 inches 317 cm",
+          "Weight": "22700 lbs 10296 kg",
+          "Gauge": "60/68/72/76/80/88/90 inches 152/172/182/193/203/223/228 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 30, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1995 - 1998",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Caterpillar 3116",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "403 ci 6.6 L",
+          "Bore/Stroke": "4.13x5.00 inches 105 x 127 mm",
+          "Power": "240 hp 179.0 kW",
+          "Rated RPM": "2100",
+          "Starter volts": "12",
+          "Coolant capacity": "34.4 qts 32.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 30, 2022"
+        }
+      ]
+    }
+  }
+}

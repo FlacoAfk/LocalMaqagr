@@ -1,0 +1,253 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/2/128-john-deere-655.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/2/128-john-deere-655-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/2/128-john-deere-655-engine.html",
+    "source_id": 128,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:49:14.625Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/128/128-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 68 KB"
+  },
+  "tractor_data_id": 128,
+  "name": "John Deere 655",
+  "brand": "John Deere",
+  "model": "655",
+  "years": {
+    "desde": 1986,
+    "hasta": 1990
+  },
+  "model_year": 1986,
+  "engine_power_hp": 16,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 10.6,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 741,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 3.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 7.2-16",
+  "tire_width_mm": 183,
+  "tire_diameter_mm": 717,
+  "tire_front": {
+    "original": "5-12",
+    "radial": false,
+    "width_mm": 127,
+    "rim_in": 12,
+    "diameter_mm_est": 521,
+    "tipo": "Diagonal",
+    "texto": "5-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/128/128-td3a.jpg",
+  "image_url": "/uploads/tractors/td128.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1986 - 1990",
+          "__seccion_2__": "55 Compact Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Horicon, Wisconsin, USA",
+          "__seccion_4__": "Original price was $10,000 in 1990"
+        },
+        {
+          "__seccion_1__": "John Deere 655 Engine",
+          "__seccion_2__": "Yanmar 0.7L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 655 Transmission",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 655 Power",
+          "Engine": "16 hp 11.9 kW",
+          "PTO (claimed)": "10.6 hp 7.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post Roll-Gard ROPS. Optional canopy and high ROPS with extra headroom. Optional weather enclosure."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 655 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "4 gal 15.1 L",
+          "Hydraulic system": "4.5 gal 17.0 L",
+          "Front axle": "2.25 qts 2.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "4.5 gal 17.0 L",
+          "Pressure": "2050 psi 141.3 bar",
+          "Valves": "0 to 2",
+          "Pump flow": "4 gpm 15.1 lpm",
+          "Total flow": "4 gpm 15.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I Opt Optional",
+          "Rear lift (at 24\"/610mm)": "785 lbs 356 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "2100@3200",
+          "Mid PTO": "independent",
+          "Mid PTO Type": "2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "51 inches 129 cm",
+          "Weight": "1565 to 1635 pounds",
+          "Front tire": "4.00-12",
+          "2WD Rear tire": "7.2-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 655 attachments",
+          "__seccion_2__": "50\" mid-mount mower deck",
+          "__seccion_3__": "snowblower",
+          "__seccion_4__": "blade",
+          "__seccion_5__": "front-end loader",
+          "__seccion_6__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "655 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the rear of the John Deere 655, below the PTO shaft."
+        },
+        {
+          "1986": "360001",
+          "1987": "420001",
+          "1988": "475001",
+          "1989": "600001",
+          "__seccion_1__": "655 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "Battery CCA": "491",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Grounds Care & Recreation Products Sales Manual published in 1989, by John Deere",
+          "__seccion_3__": "Hydrostatic Diesel Tractors published in 1987, by John Deere",
+          "__seccion_4__": "Hydrostatic Diesel Tractors published in 1988, by John Deere",
+          "__seccion_5__": "Operator's Manual 51 and 52 Loaders (OMTY20793) published in 1986",
+          "__seccion_6__": "Operator's Manual 655, 755 and 855 Tractors (OMM70367) published in 1986",
+          "__seccion_7__": "Operator's Manual 655, 755 and 855 Tractors (OMM75873) published in 1988",
+          "__seccion_8__": "Operator's Manual 655, 755, 855 and 955 Tractors (OMM92614) published in 1990",
+          "__seccion_9__": "Technical Manual 655, 755, 855, 955, 756 and 856 Compact Utility Tractors (TM1360) published in 1996"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on December 2, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1986 - 1990",
+          "__seccion_2__": "55 Compact Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 655 Tires",
+          "2WD Standard tires (ag)": "Front: 4.00-12. Rear: 7.2-16",
+          "4WD Standard tires (ag)": "Front: 5-12. Rear: 7.2-16",
+          "4WD Optional tires (ag)": "Front: 6-12. Rear: 8.3-16",
+          "Lawn/turf front": "23x8.50-12",
+          "Lawn/turf rear": "31x12.50-15"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "51 inches 129 cm",
+          "Length": "83.9 inches 213 cm",
+          "&nbsp": "48 inches (max) 121 cm",
+          "Width": "40.6 inches (min) 103 cm",
+          "Height (hood)": "50.9 inches 129 cm",
+          "Height (ROPS)": "74.2 inches 188 cm",
+          "2WD Weight": "1565 lbs 709 kg",
+          "4WD Weight": "1635 lbs 741 kg",
+          "2WD Clearance (front axle)": "11 inches 27 cm",
+          "4WD Clearance (front axle)": "8.9 inches 22 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 2, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1986 - 1990",
+          "__seccion_2__": "55 Compact Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Yanmar 3TN66UJ",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "40.2 ci 0.7 L",
+          "Bore/Stroke": "2.598x2.528 inches 66 x 64 mm",
+          "Power": "16 hp 11.9 kW",
+          "Air cleaner": "dry element",
+          "Pre-heating": "glow plugs",
+          "Compression": "22.4:1",
+          "Rated RPM": "3200",
+          "Operating RPM": "1400-3425",
+          "Starter volts": "12",
+          "Coolant capacity": "4 qts 3.8 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "2.5 qts 2.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 2, 2025"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/128/128-td4-b01.jpg"
+}

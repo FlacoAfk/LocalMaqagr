@@ -1,0 +1,263 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/5/2/529-ji-case-2090.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/5/2/529-ji-case-2090-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/5/2/529-ji-case-2090-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/5/2/529-ji-case-2090-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 529,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:06:57.529Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/529/529-photo-001.jpg",
+    "foto_calidad": "webp 800px/q55 → 43 KB"
+  },
+  "tractor_data_id": 529,
+  "name": "J.I. Case 2090",
+  "brand": "J.I. Case",
+  "model": "2090",
+  "years": {
+    "desde": 1979,
+    "hasta": 1983
+  },
+  "model_year": 1979,
+  "engine_power_hp": 108,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 108,
+  "pto_tested_hp": 108.74,
+  "drawbar_tested_hp": 93.17,
+  "weight_kg": 5456,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 49.9,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "10.00-16",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 16,
+    "diameter_mm_est": 838,
+    "tipo": "Diagonal",
+    "texto": "10.00-16"
+  },
+  "fuel_consumption_lph": 27.3,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/529/529-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/529/529-photo-001.jpg",
+  "image_url": "/uploads/tractors/td529.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1979 - 1983",
+          "__seccion_2__": "90 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA",
+          "__seccion_4__": "Original price was $40,000 in 1983"
+        },
+        {
+          "__seccion_1__": "J.I. Case 2090 Engine",
+          "__seccion_2__": "J.I. Case 8.3L 6-cyl diesel",
+          "Fuel tank": "65 gal 246.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 2090 Transmissions",
+          "__seccion_2__": "12-speed partial power shift",
+          "__seccion_3__": "8-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 2090 Power",
+          "Drawbar (claimed)": "93 hp 69.4 kW",
+          "PTO (claimed)": "108 hp 80.5 kW",
+          "Drawbar (tested)": "93.17 hp 69.5 kW",
+          "PTO (tested)": "108.74 hp 81.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Differential hydraulic wet disc brakes",
+          "__seccion_4__": "Four-post ROPS. Silent Guardian cab with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "J.I. Case 2090 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Pump flow": "21 gpm 79.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "104 inches 264 cm",
+          "Weight": "12,030 lbs 5456 kg",
+          "Front tire": "10.00-16",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 2090 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1978": "8835443",
+          "1979": "8840001",
+          "1980": "9901001",
+          "1981": "9910025",
+          "1982": "9918830",
+          "1983": "9924700",
+          "__seccion_1__": "2090 Serial Numbers",
+          "Location:": "Data plate on instrument panel",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Model90 Loaders published in 1979, by J.I. Case",
+          "__seccion_3__": "2090/2290 Tractors published in 1979, by J.I. Case",
+          "__seccion_4__": "2090 - 2290 published in 1981, by J.I. Case",
+          "__seccion_5__": "Specialization... the payoff in farming published in 1980, by J.I. Case",
+          "__seccion_6__": "The new look in farm power published in 1981, by J.I. Case",
+          "__seccion_7__": "Power for all-season productivity published in 1982, by J.I. Case",
+          "__seccion_8__": "The Tractor Specialist Buyers Guide published in 1983, by J.I. Case"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 18, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1979 - 1983",
+          "__seccion_2__": "90 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "J.I. Case 2090 Tires",
+          "Ag front": "10.00-16",
+          "Ag rear": "18.4-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "104 inches 264 cm",
+          "Operating weight": "12,030 lbs (cab) 5456 kg",
+          "Ballasted weight": "15,190 lbs 6890 kg",
+          "Rear axle": "3.50 by 120 inches 88 by 3048 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 18, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1979 - 1983",
+          "__seccion_2__": "90 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 1295: diesel 12-speed 2WD",
+          "__seccion_3__": "NTTL 1304: diesel 8-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1295"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1295",
+          "__seccion_2__": "Diesel 12-speed 2WD November 6 - 13, 1978 Link: Nebraska Tractor Test 1295 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "108.29 hp 80.8 kW",
+          "Fuel use": "7.2 gal/hour 27.3 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "89.40 hp 66.7 kW",
+          "__seccion_5__": "Gear 3I used for power test.",
+          "Max pull": "11211 lbs 5085 kg",
+          "__seccion_6__": "Gear 2L used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1304"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1304",
+          "__seccion_2__": "Diesel 8-speed 2WD April 11 - 21, 1979 Link: Nebraska Tractor Test 1304 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "108.74 hp 81.1 kW",
+          "Fuel use": "6.9 gal/hour 26.1 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "93.17 hp 69.5 kW",
+          "__seccion_5__": "Gear 3L used for power test.",
+          "Max pull": "11655 lbs 5286 kg",
+          "__seccion_6__": "Gear 1H used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 18, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1979 - 1983",
+          "__seccion_2__": "90 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "J.I. Case",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "504 ci 8.3 L",
+          "Bore/Stroke": "4.625x5.00 inches 117 x 127 mm",
+          "Air cleaner": "dual paper elements",
+          "Compression": "16.0:1",
+          "Rated RPM": "2100",
+          "Starter volts": "12",
+          "Coolant capacity": "38 qts 36.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 18, 2024"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/6/169-john-deere-8570.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/6/169-john-deere-8570-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/1/6/169-john-deere-8570-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/6/169-john-deere-8570-engine.html",
+    "source_id": 169,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:51:27.441Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/169/169-photo-001-ext270.jpg",
+    "foto_calidad": "webp 960px/q65 → 65 KB"
+  },
+  "tractor_data_id": 169,
+  "name": "John Deere 8570",
+  "brand": "John Deere",
+  "model": "8570",
+  "years": {
+    "desde": 1993,
+    "hasta": 1996
+  },
+  "model_year": 1993,
+  "engine_power_hp": 250,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 205,
+  "pto_tested_hp": 208.21,
+  "drawbar_tested_hp": 191.59,
+  "weight_kg": 14560,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 142,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 45,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/169/169-td3a.jpg",
+  "image_url": "/uploads/tractors/td169.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1993 - 1996",
+          "__seccion_2__": "8070 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "__seccion_4__": "Original price was $96,000 in 1996"
+        },
+        {
+          "__seccion_1__": "John Deere 8570 Engine",
+          "__seccion_2__": "John deere 7.6L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8570 Transmissions",
+          "__seccion_2__": "12-speed partially synchronized",
+          "__seccion_3__": "24-speed two-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8570 Power",
+          "Engine (gross)": "250 hp 186.4 kW",
+          "PTO (claimed)": "205 hp 152.9 kW",
+          "Drawbar (tested)": "191.59 hp 142.9 kW",
+          "PTO (tested)": "208.21 hp 155.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet discs brakes",
+          "__seccion_4__": "Sound-Gard cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 8570 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "220 gal 832.7 L",
+          "Hydraulic system": "38 gal 143.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure compensated",
+          "Capacity": "38 gal 143.8 L",
+          "Pressure": "2530 psi 174.4 bar",
+          "Rear valves": "3 to 5",
+          "Pump flow": "44.8 gpm 169.6 lpm",
+          "SCV flow": "33.3 gpm 126.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "3 (optional)",
+          "Control": "draft sensing",
+          "Rear lift": "14,980 lbs 6794 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent (optional)",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "1000 (1.75)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "134 inches 340 cm",
+          "Weight": "29564 to 32100 pounds",
+          "Front tire": "24.5R-32",
+          "Rear tire": "24.5R-32",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "8570 Serial Number Location",
+          "__seccion_2__": "Left side of tractor hinge."
+        },
+        {
+          "1993": "1001",
+          "1994": "1551",
+          "1995": "2595",
+          "1996": "3001",
+          "__seccion_1__": "8570 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Batteries": "2",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "250- to 400-HP 70 Series Tractors published in 1995, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 2, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1993 - 1996",
+          "__seccion_2__": "8070 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8570 Tires",
+          "Ag front": "24.5R-32",
+          "&nbsp": "18.4R-46",
+          "Ag rear": "24.5R-32"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "134 inches 340 cm",
+          "Length": "268.9 inches 683 cm",
+          "Weight": "32,100 lbs 14560 kg",
+          "Shipping weight": "29,564 lbs 13410 kg",
+          "Front axle": "3.937 by 120 inches 99 by 3048 mm",
+          "Rear axle": "3.937 by 120 inches 99 by 3048 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 2, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1993 - 1996",
+          "__seccion_2__": "8070 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1670"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1670",
+          "__seccion_2__": "Diesel PowerSync 4WD October 21 - December 1, 1993 Link: Nebraska Tractor Test 1670 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "208.21 hp 155.3 kW",
+          "Fuel use": "11.8 gal/hour 44.7 l/hour",
+          "Power at rated PTO speed": "230.84 hp 172.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "191.59 hp 142.9 kW",
+          "Max pull": "31,924 lbs 14480 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 2, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1993 - 1996",
+          "__seccion_2__": "8070 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John deere",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "466 ci 7.6 L",
+          "Bore/Stroke": "4.5625x4.75 inches 116 x 121 mm",
+          "Power (gross)": "250 hp 186.4 kW",
+          "Compression": "15.8:1",
+          "Rated RPM": "2100",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Oil capacity": "24.3 qts 23.0 L",
+          "Coolant capacity": "58 qts 54.9 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 2, 2025"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/169/169-photo-001-ext270.jpg"
+}

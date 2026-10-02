@@ -1,0 +1,177 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/2/4/7242-kubota-b1610.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/2/4/7242-kubota-b1610-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/2/4/7242-kubota-b1610-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 7242,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:59:38.058Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7242/7242-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 5 KB"
+  },
+  "tractor_data_id": 7242,
+  "name": "Kubota B1610",
+  "brand": "Kubota",
+  "model": "B1610",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 15.7,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 12.3,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 522,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 4.5,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "20x8.00-10",
+    "radial": false,
+    "width_mm": 203,
+    "rim_in": 10,
+    "diameter_mm_est": 508,
+    "tipo": "Diagonal",
+    "texto": "20x8.00-10"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F007/7242/7242-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td7242.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "Super B Series",
+          "__seccion_2__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota B1610 Engine",
+          "__seccion_2__": "Kubota 0.7L 3-cyl diesel",
+          "Fuel tank": "3.4 gal 12.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B1610 Transmission",
+          "__seccion_2__": "6-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B1610 Power",
+          "Engine (gross)": "15.7 hp 11.7 kW",
+          "Engine (net)": "14.4 hp 10.7 kW",
+          "PTO (claimed)": "12.3 hp 9.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "mechanical",
+          "__seccion_3__": "Wet disc brakes"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Kubota B1610 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "1",
+          "Rear lift (at ends)": "1,190 lbs 539 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Mid PTO Type": "2545"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "50 inches 127 cm",
+          "Weight": "1,151 lbs 522 kg",
+          "Front tire": "5-12",
+          "Rear tire": "8-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 26, 2012"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "Super B Series",
+          "__seccion_2__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota B1610 Tires",
+          "Ag front": "5-12",
+          "Ag rear": "8-16",
+          "Lawn/turf front": "20x8.00-10",
+          "Lawn/turf rear": "212/80D-15"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "50 inches 127 cm",
+          "Length": "80.1 inches 203 cm",
+          "Min Width": "36.5 inches 92 cm",
+          "Height": "49.4 inches 125 cm",
+          "Weight": "1,151 lbs 522 kg",
+          "Ground clearance": "10.6 inches 26 cm",
+          "Front tread": "30.2 inches 76 cm",
+          "Rear tread": "28 to 40.6 inches 71 to 103 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 26, 2012"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "Super B Series",
+          "__seccion_2__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota D722",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "43.9 ci 0.7 L",
+          "Power (net)": "14.4 hp 10.7 kW",
+          "Power (gross)": "15.7 hp 11.7 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 26, 2012"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/7/3/732-massey-ferguson-50.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/7/3/732-massey-ferguson-50-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/7/3/732-massey-ferguson-50-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/7/3/732-massey-ferguson-50-engine.html",
+    "source_id": 732,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:22:32.651Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/732/732-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 87 KB"
+  },
+  "tractor_data_id": 732,
+  "name": "Massey Ferguson 50",
+  "brand": "Massey Ferguson",
+  "model": "50",
+  "years": {
+    "desde": 1957,
+    "hasta": 1964
+  },
+  "model_year": 1957,
+  "engine_power_hp": 38,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 38,
+  "pto_tested_hp": 38.33,
+  "drawbar_tested_hp": 32.42,
+  "weight_kg": 1653,
+  "weight_basis": "Diesel Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 23.6,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 12.4-28",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1247,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": 12.9,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/732/732-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/732/732-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td732.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1957 - 1964"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Built in Detroit, Michigan, USA",
+          "__seccion_3__": "Original price was $3,185 in 1964"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 50 Engines",
+          "__seccion_2__": "Perkins 2.5L 3-cyl diesel",
+          "__seccion_3__": "Continental 2.2L 4-cyl gasoline",
+          "__seccion_4__": "Continental 2.2L 4-cyl LP gas",
+          "Diesel Fuel tank": "12 gal 45.4 L",
+          "Gas Fuel tank": "17 gal 64.3 L",
+          "__seccion_5__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 50 Transmissions",
+          "__seccion_2__": "6-speed gear",
+          "__seccion_3__": "12-speed two-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 50 Power",
+          "Drawbar (claimed)": "34 hp 25.4 kW",
+          "PTO (claimed)": "38 hp 28.3 kW",
+          "Plows": "3",
+          "Drawbar (tested)": "32.42 hp 24.2 kW",
+          "PTO (tested)": "38.33 hp 28.6 kW",
+          "Belt (tested)": "32.12 hp 24.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "power Opt Optional",
+          "__seccion_3__": "Differential mechanical expanding shoe brakes",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 50 photos..."
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live * Two-stage clutch",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "81.26 inches 206 cm",
+          "Weight": "3300 to 3933 pounds",
+          "Front tire": "6.00-16",
+          "Rear tire": "12.4-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 50 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "50 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the dashboard of the Massey Ferguson 50."
+        },
+        {
+          "1957": "510764",
+          "1958": "515708",
+          "1959": "522693",
+          "1960": "528163",
+          "1961": "528419",
+          "1962": "530416",
+          "1963": "533851",
+          "1964": "536063",
+          "__seccion_1__": "50 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Loaders published in 1963, by Massey Ferguson",
+          "__seccion_3__": "MF 50 Tractors published in 1962, by Massey Ferguson",
+          "__seccion_4__": "50 with Ferguson System published in 1958, by Massey Ferguson",
+          "__seccion_5__": "Installation & Operation of Basic & Auxiliary Hydraulic Systems (690 562 M2) published in 1968"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 22, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1957 - 1964"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 50 Tires",
+          "Ag front": "6.00-16",
+          "Ag rear": "12.4-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "81.26 inches 206 cm",
+          "Length": "120 inches 304 cm",
+          "Width": "64 inches 162 cm",
+          "Height": "57 inches 144 cm",
+          "Front tread": "50 to 82 inches 127 to 208 cm",
+          "Rear tread": "48 to 76 inches 121 to 193 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 50 Weight",
+          "Diesel Shipping": "3645 lbs 1653 kg",
+          "Gas Shipping": "3300 lbs 1496 kg",
+          "Operating": "3933 lbs * Weight with diesel engine with 12.4-28 rear tires. 1784 kg",
+          "Ballasted": "6017 lbs 2729 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 22, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1957 - 1964"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 658: LP gas 6-speed 2WD",
+          "__seccion_3__": "NTTL 807: diesel 6-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 658"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 658",
+          "__seccion_2__": "LP gas 6-speed 2WD June 16 - 27, 1958 Link: Nebraska Tractor Test 658 file",
+          "Belt power (max)": "32.12 hp 24.0 kW",
+          "Belt fuel use (max)": "3.7 gal/hour 14.0 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "23.16 hp 17.3 kW",
+          "Fuel use": "3.4 gal/hour 12.9 l/hour",
+          "__seccion_4__": "Gear 4 used for power test.",
+          "Max pull": "5,314 lbs 2410 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 807"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 807",
+          "__seccion_2__": "Diesel 6-speed 2WD October 23 - November 3, 1961 Link: Nebraska Tractor Test 807 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "38.33 hp 28.6 kW",
+          "Fuel use": "2.4 gal/hour 9.1 l/hour",
+          "Power at rated PTO speed": "31.08 hp 23.2 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "32.42 hp 24.2 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "4,196 lbs 1903 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 22, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1957 - 1964"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Perkins 2.5L 3-cyl diesel",
+          "__seccion_3__": "Continental 2.2L 4-cyl gasoline",
+          "__seccion_4__": "Continental 2.2L 4-cyl LP gas"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "152.7 ci 2.5 L",
+          "Bore/Stroke": "3.60x5.00 inches 91 x 127 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "17.4:1",
+          "Rated RPM": "2000",
+          "Idle RPM": "700-2150",
+          "Starter volts": "12",
+          "Oil capacity": "6 qts 5.7 L"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 50 Engine"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Continental Z-134",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled vertical I-head",
+          "Displacement": "133.8 ci 2.2 L",
+          "Bore/Stroke": "3.3125x3.875 inches 84 x 98 mm",
+          "Compression": "6.6:1",
+          "Rated RPM": "2000",
+          "Idle RPM": "900-2000",
+          "Firing order": "1-3-4-2",
+          "Starter volts": "12",
+          "Oil capacity": "5 qts 4.7 L",
+          "Coolant capacity": "10 qts 9.5 L"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 50 Engine"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Continental",
+          "__seccion_3__": "LP gas",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "134 ci 2.2 L",
+          "Bore/Stroke": "3.3125x3.875 inches 84 x 98 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "8:1",
+          "Rated RPM": "2000",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 22, 2024"
+        }
+      ]
+    }
+  }
+}

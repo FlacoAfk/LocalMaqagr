@@ -1,0 +1,239 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/4/6/5467-john-deere-2320.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/4/6/5467-john-deere-2320-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/4/6/5467-john-deere-2320-engine.html",
+    "source_id": 5467,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:45:41.400Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5467/5467-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 134 KB"
+  },
+  "tractor_data_id": 5467,
+  "name": "John Deere 2320",
+  "brand": "John Deere",
+  "model": "2320",
+  "years": {
+    "desde": 2006,
+    "hasta": 2011
+  },
+  "model_year": 2006,
+  "engine_power_hp": 24.1,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 18,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 752,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 6.6,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "23x8.5-12",
+    "radial": false,
+    "width_mm": 216,
+    "rim_in": 12,
+    "diameter_mm_est": 584,
+    "tipo": "Diagonal",
+    "texto": "23x8.5-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F005/5467/5467-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5467/5467-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td5467.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2006 - 2011",
+          "__seccion_2__": "2000 Twenty Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Augusta, Georgia, USA"
+        },
+        {
+          "__seccion_1__": "John Deere 2320 Engine",
+          "__seccion_2__": "Yanmar 1.1L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2320 Transmission",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2320 Power",
+          "Engine (gross)": "24.1 hp 18.0 kW",
+          "PTO (claimed)": "18 hp 13.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "spur gear",
+          "Steering": "power",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 2320 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "6.1 gal 23.1 L",
+          "Hydraulic system": "2.6 gal 9.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "2.6 gal 9.8 L",
+          "Pressure": "2421 psi 166.9 bar",
+          "Valves": "2",
+          "Pump flow": "3.4 gpm 12.9 lpm",
+          "Total flow": "5.6 gpm 21.2 lpm",
+          "Steering flow": "2.2 gpm 8.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at ends)": "1433 lbs 650 kg",
+          "Rear lift (at 24\"/610mm)": "1150 lbs 521 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "Mid PTO": "independent",
+          "Mid PTO Type": "2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "63 inches 160 cm",
+          "Weight": "1660 lbs 752 kg",
+          "Front tire": "23x8.5-12",
+          "Rear tire": "31x12-16.5",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2320 attachments",
+          "__seccion_2__": "54\" mid-mount mower deck",
+          "__seccion_3__": "front-end loader",
+          "__seccion_4__": "backhoe",
+          "__seccion_5__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "2320 Serial Number Location",
+          "__seccion_2__": "Serial number on the right side of the tractor frame, above the front axle."
+        },
+        {
+          "2006": "H100001 (USA)",
+          "2007": "E286001 (EU)",
+          "2008": "E382001 (EU)",
+          "2009": "E482001 (EU)",
+          "2010": "E582001 (EU)",
+          "2011": "E61001 (EU)",
+          "__seccion_1__": "2320 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "20",
+          "Battery CCA": "500",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Commercial & Consumer Equipment Purchasing Guide published in 2007, by John Deere",
+          "__seccion_3__": "2000 Series Compact Utility Tractors published in 2008, by John Deere",
+          "__seccion_4__": "2000 Twenty Series Compact Tractors published in 2005, by John Deere",
+          "__seccion_5__": "2000 Series Compact Utility Tractors published in 2008, by John Deere",
+          "__seccion_6__": "TWENTY Series Tractors published in 2010, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on March 2, 2026",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2006 - 2011",
+          "__seccion_2__": "2000 Twenty Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 2320 Tires",
+          "Ag front": "23x8.5-12",
+          "Ag rear": "31x12-16.5"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "63 inches 160 cm",
+          "Length": "109.2 inches 277 cm",
+          "Width": "37.1 inches (min) 94 cm",
+          "&nbsp": "51 inches (max) 129 cm",
+          "Height (hood)": "53.3 inches 135 cm",
+          "Height (ROPS)": "89 inches 226 cm",
+          "Height (Folded ROPS)": "67.9 inches 172 cm",
+          "Shipping weight": "1660 lbs 752 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 2, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2006 - 2011",
+          "__seccion_2__": "2000 Twenty Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Yanmar 3TNV76",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "68 ci 1.1 L",
+          "Bore/Stroke": "2.99x3.23 inches 76 x 82 mm",
+          "Rated Power (gross)": "24.1 hp 18.0 kW",
+          "Air cleaner": "dry dual element",
+          "Compression": "23.4:1",
+          "Oil capacity": "3.4 qts 3.2 L",
+          "Coolant capacity": "3.4 qts 3.2 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 2, 2026"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/8/6/5860-kubota-b2320.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/8/6/5860-kubota-b2320-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/8/6/5860-kubota-b2320-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 5860,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:57:16.320Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5860/5860-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 72 KB"
+  },
+  "tractor_data_id": 5860,
+  "name": "Kubota B2320",
+  "brand": "Kubota",
+  "model": "B2320",
+  "years": {
+    "desde": 2008,
+    "hasta": 2015
+  },
+  "model_year": 2008,
+  "engine_power_hp": 23,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 18,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 650,
+  "weight_basis": "Gear Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 6.6,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 9.5-16",
+  "tire_width_mm": 241,
+  "tire_diameter_mm": 817,
+  "tire_front": {
+    "original": "6-12",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 12,
+    "diameter_mm_est": 564,
+    "tipo": "Diagonal",
+    "texto": "6-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F005/5860/5860-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5860/5860-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td5860.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2008 - 2015",
+          "__seccion_2__": "B2x20 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor",
+          "Original price": "$11,088 (2011)"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "B2320DT": "gear",
+          "B2320DSD": "hydro",
+          "B2320N": "narrow chassis"
+        },
+        {
+          "__seccion_1__": "Kubota B2320 Engine",
+          "__seccion_2__": "Kubota 1.0L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B2320 Transmissions",
+          "__seccion_2__": "9-speed gear",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B2320 Power",
+          "Engine (gross)": "23 hp 17.2 kW",
+          "Gear PTO (claimed)": "18 hp 13.4 kW",
+          "Hydro PTO (claimed)": "17 hp 12.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "rear standard",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Two-post foldable ROPS. Sunshade optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota B2320 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "6.9 gal 26.1 L",
+          "Gear Hydraulic system": "3.7 gal 14.0 L",
+          "Hydro Hydraulic system": "4 gal 15.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Gear Capacity": "3.7 gal 14.0 L",
+          "Hydro Capacity": "4 gal 15.1 L",
+          "Valves": "1 or 2",
+          "Pump flow": "4.7 gpm 17.8 lpm",
+          "Total flow": "8.3 gpm 31.4 lpm",
+          "Steering flow": "3.6 gpm 13.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "1",
+          "Rear lift (at ends)": "1,356 lbs 615 kg",
+          "Rear lift (at 24\"/610mm)": "1,058 lbs 479 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Hydro Rear PTO": "live",
+          "Rear PTO Type": "540/960 (1.375)",
+          "Engine RPM": "2500@2750",
+          "&nbsp": "960@2722",
+          "Mid PTO": "optional",
+          "Mid PTO Type": "2500"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "61.5 inches 156 cm",
+          "Weight": "1433 to 1477 pounds",
+          "Front tire": "6-12",
+          "Rear tire": "9.5-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota B2320 attachments",
+          "__seccion_2__": "54\" mid-mount mower deck",
+          "__seccion_3__": "60\" mid-mount mower deck",
+          "__seccion_4__": "front-end loader",
+          "__seccion_5__": "backhoe",
+          "__seccion_6__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "B2320 Serial Number Location",
+          "__seccion_2__": "Serial number decal on the right side of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "14.5",
+          "&nbsp": "40 Opt Optional",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 25, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2008 - 2015",
+          "__seccion_2__": "B2x20 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota B2320 Tires",
+          "Standard tires (ag)": "Front: 6-12. Rear: 9.5-16",
+          "Lawn/turf front": "22x8.50-12",
+          "&nbsp": "23x8.50-12",
+          "Lawn/turf rear": "33x12.50-15",
+          "Industrial front": "23x8.50-12",
+          "Industrial rear": "12-16.5"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "61.5 inches 156 cm",
+          "Length": "93.9 inches 238 cm",
+          "Width": "45.1 inches 114 cm",
+          "Gear Weight": "1,433 lbs 650 kg",
+          "Hydro Weight": "1,477 lbs 669 kg",
+          "Ground clearance": "12 inches 30 cm",
+          "Front tread": "31.5 inches 80 cm",
+          "Rear tread": "35.5 inches 90 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 25, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2008 - 2015",
+          "__seccion_2__": "B2x20 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota D1005",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "61.1 ci 1.0 L",
+          "Bore/Stroke": "3.0x2.9 inches 76 x 74 mm",
+          "Power (gross)": "23 hp 17.2 kW",
+          "Air cleaner": "dual paper elements",
+          "Rated RPM": "2800",
+          "Starter volts": "12",
+          "Oil capacity": "3.3 qts 3.1 L",
+          "Coolant capacity": "4.1 qts 3.9 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 25, 2021"
+        }
+      ]
+    }
+  }
+}

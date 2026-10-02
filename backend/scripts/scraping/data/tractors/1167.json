@@ -1,0 +1,236 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/1/6/1167-caseih-2130.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/1/6/1167-caseih-2130-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/1/6/1167-caseih-2130-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1167,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:34:50.419Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1167/1167-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 1167,
+  "name": "CaseIH 2130",
+  "brand": "Carraro",
+  "model": "2130",
+  "years": {
+    "desde": 1988,
+    "hasta": 1993
+  },
+  "model_year": 1988,
+  "engine_power_hp": 47,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 47,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1860,
+  "weight_basis": "2130V 2WD",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 17.2,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 13.6R28",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1298,
+  "tire_front": {
+    "original": "7.50-18",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 18,
+    "diameter_mm_est": 781,
+    "tipo": "Diagonal",
+    "texto": "7.50-18"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1167/1167-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td1167.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1988 - 1993",
+          "__seccion_2__": "2100 Series",
+          "__seccion_3__": "Orchard/Vineyard tractor",
+          "__seccion_4__": "Carraro built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "CaseIH",
+          "Manufacturer": "Carraro",
+          "__seccion_2__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "2130V": "vineyard",
+          "2130E": "narrow"
+        },
+        {
+          "__seccion_1__": "CaseIH 2130 Engine",
+          "__seccion_2__": "SLH 3.0L 3-cyl diesel",
+          "Fuel tank": "15.85 gal 60.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 2130 Transmissions",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "12-speed partially synchronized",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 2130 Power",
+          "PTO (claimed)": "47 hp 35.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Wet disc brakes",
+          "Trailer brakes": "hydraulic * Optional.",
+          "__seccion_4__": "Two-post forward-folding ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH 2130 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "1 or 2",
+          "Pump flow": "15.6 gpm 59.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I/II",
+          "Control": "position and draft control",
+          "2130V Rear lift (at ends)": "5575 lbs 2528 kg",
+          "2130E Rear lift (at ends)": "5463 lbs 2478 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/750/1000 (1.375)",
+          "Engine RPM": "540@2115",
+          "&nbsp": "750@2015"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "78 inches 198 cm",
+          "4WD Wheelbase": "76.6 inches 194 cm",
+          "Weight": "4101 to 4542 pounds",
+          "Front tire": "5.50-16",
+          "2130V 2WD Rear tire": "13.6R28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "2130 Serial Numbers",
+          "Location:": "Serial number plate on the right side of tractor's console."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "55",
+          "Battery volts": "12",
+          "Battery AH": "100"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operators Manual 2120, 2130, 2140, 2150 V and E Tractors (9-13271) published in 1992"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 2, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1988 - 1993",
+          "__seccion_2__": "2100 Series",
+          "__seccion_3__": "Orchard/Vineyard tractor",
+          "__seccion_4__": "Carraro built"
+        },
+        {
+          "__seccion_1__": "CaseIH 2130 Tires",
+          "2130V 2WD Standard tires (ag)": "Front: 5.50-16. Rear: 13.6R28",
+          "2130E 2WD Standard tires (ag)": "Front: 7.50-16. Rear: 14.9R28",
+          "2130V 4WD Standard tires (ag)": "Front: 8.25-16. Rear: 13.6R28",
+          "2130E 4WD Standard tires (ag)": "Front: 7.50-18. Rear: 13.6R28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "78 inches 198 cm",
+          "4WD Wheelbase": "76.6 inches 194 cm",
+          "2130V Length": "132.3 inches 336 cm",
+          "2130E Length": "132.9 inches 337 cm",
+          "2130V Width": "47.8 inches 121 cm",
+          "2130E Width": "53.7 inches 136 cm",
+          "Height (hood)": "52.1 inches 132 cm",
+          "Height (ROPS)": "92.7 inches 235 cm",
+          "2WD Ground clearance": "13.6 inches 34 cm",
+          "4WD Ground clearance": "9.9 inches 25 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH 2130 Weight",
+          "2130V 2WD": "4101 lbs 1860 kg",
+          "2130E 2WD": "4167 lbs 1890 kg",
+          "2130V 4WD": "4431 lbs 2009 kg",
+          "2130E 4WD": "4542 lbs 2060 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 2, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1988 - 1993",
+          "__seccion_2__": "2100 Series",
+          "__seccion_3__": "Orchard/Vineyard tractor",
+          "__seccion_4__": "Carraro built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "SLH 100.3.A",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "air-cooled",
+          "Displacement": "183.1 ci 3.0 L",
+          "Bore/Stroke": "4.134x4.547 inches 105 x 115 mm",
+          "Air cleaner": "dual dry element",
+          "Compression": "17:1",
+          "Rated RPM": "2350",
+          "Torque": "141.6 lb-ft 192.0 Nm",
+          "Torque RPM": "1350",
+          "Firing order": "1-3-2",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "7.1 qts 6.7 L",
+          "Intake valve clearance": "0.008 inches * Cold. 0.203 mm",
+          "Exhaust valve clearance": "0.008 inches * Cold. 0.203 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 2, 2020"
+        }
+      ]
+    }
+  }
+}

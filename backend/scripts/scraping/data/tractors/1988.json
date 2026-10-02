@@ -1,0 +1,196 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/9/8/1988-fiat-900.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/9/8/1988-fiat-900-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/9/8/1988-fiat-900-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1988,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:13:41.501Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1988/1988-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 20 KB"
+  },
+  "tractor_data_id": 1988,
+  "name": "Fiat 900",
+  "brand": "Fiat",
+  "model": "900",
+  "years": {
+    "desde": 1969,
+    "hasta": 1972
+  },
+  "model_year": 1969,
+  "engine_power_hp": 90,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4180,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 33,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9-38",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1695,
+  "tire_front": {
+    "original": "11.2-28",
+    "radial": false,
+    "width_mm": 284,
+    "rim_in": 28,
+    "diameter_mm_est": 1195,
+    "tipo": "Diagonal",
+    "texto": "11.2-28"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1988/1988-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1988/1988-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1988.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1969 - 1972",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Fiat",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Fiat 900 Engine",
+          "__seccion_2__": "Fiat 4.7L 6-cyl diesel",
+          "Fuel tank": "31.2 gal 118.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 900 Transmission",
+          "__seccion_2__": "12-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 900 Power",
+          "Engine": "90 hp 67.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Fiat 900 photos..."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear lift": "6615 lbs 3000 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@1937",
+          "&nbsp": "1000@2038"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "97.6 inches 247 cm",
+          "Weight": "7849 to 9216 pounds",
+          "Front tire": "7.50-20",
+          "Rear tire": "16.9-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "900 Serial Numbers",
+          "Location:": "Serial number plate below the dashboard."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "900"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 1, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1969 - 1972",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Fiat 900 Tires",
+          "Ag front": "7.50-20",
+          "&nbsp": "11.2-28 (4WD)",
+          "Ag rear": "16.9-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "97.6 inches 247 cm",
+          "Length": "164.2 inches 417 cm",
+          "Width": "78.7 inches * Minimum tread 199 cm",
+          "2WD Weight": "7849 lbs 3560 kg",
+          "4WD Weight": "9216 lbs 4180 kg",
+          "Clearance (front axle)": "22.5 inches 57 cm",
+          "Front tread": "55.1 to 78.7 inches 139 to 199 cm",
+          "Rear tread": "63 to 82.7 inches 160 to 210 cm"
+        },
+        {
+          "__seccion_1__": "Fiat 900 Height",
+          "Steering wheel": "71.7 inches 182 cm",
+          "Hood": "63.6 inches 161 cm",
+          "Exhaust": "93.1 inches 236 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 1, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1969 - 1972",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Fiat 8065.01",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "285.27 ci 4.7 L",
+          "Bore/Stroke": "3.74x4.33 inches 95 x 110 mm",
+          "Power": "90 hp 67.1 kW",
+          "Compression": "17:1",
+          "Rated RPM": "2400",
+          "Starter volts": "12",
+          "Coolant capacity": "20.1 qts 19.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 1, 2020"
+        }
+      ]
+    }
+  }
+}

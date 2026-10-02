@@ -1,0 +1,256 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/5/9/7594-caseih-puma-165.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/5/9/7594-caseih-puma-165-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/007/5/9/7594-caseih-puma-165-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/5/9/7594-caseih-puma-165-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 7594,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:50:08.875Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7594/7594-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 64 KB"
+  },
+  "tractor_data_id": 7594,
+  "name": "CaseIH Puma 165",
+  "brand": "CaseIH",
+  "model": "Puma 165",
+  "years": {
+    "desde": 2014,
+    "hasta": 2025
+  },
+  "model_year": 2014,
+  "engine_power_hp": 165,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 135,
+  "pto_tested_hp": 152.2,
+  "drawbar_tested_hp": 109.4,
+  "weight_kg": 6305,
+  "weight_basis": "Power shift",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 64.9,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 460/85R42",
+  "tire_width_mm": 460,
+  "tire_diameter_mm": 1849,
+  "tire_front": {
+    "original": "380/85R30",
+    "radial": true,
+    "width_mm": 380,
+    "rim_in": 30,
+    "diameter_mm_est": 1408,
+    "tipo": "Radial",
+    "texto": "380/85R30"
+  },
+  "fuel_consumption_lph": 31.8,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7594/7594-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7594/7594-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td7594.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2014 - 2025",
+          "__seccion_2__": "Model year 2014-2020 2021-2025",
+          "__seccion_3__": "Puma Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Basildon, England",
+          "Original price": "$166,225 (2015 CVT )",
+          "__seccion_4__": "$157,083 (2015 power shift )"
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 165 Engine",
+          "__seccion_2__": "FPT 6.7L 6-cyl diesel",
+          "Fuel tank": "71 gal 268.7 L",
+          "&nbsp": "86 gal * With 60L auxiliary tank. 325.5 L",
+          "Exhaust fluid (DEF)": "12.7 gal 48.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 165 Transmissions",
+          "__seccion_2__": "18-speed full power shift",
+          "__seccion_3__": "continuously variable transmission (CVT)",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 165 Power",
+          "Engine": "165 hp 123.0 kW",
+          "PTO (claimed)": "135 hp 100.7 kW",
+          "Drawbar (tested)": "109.4 hp 81.6 kW",
+          "PTO (tested)": "152.2 hp 113.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "Trailer brakes": "hydraulic Opt Optional",
+          "&nbsp": "pneumatic Opt Optional",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH Puma 165 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure flow compensating",
+          "Valves": "3 to 5",
+          "Pump flow": "26.5 gpm 100.3 lpm",
+          "Total flow": "43.5 gpm 164.6 lpm",
+          "Steering flow": "17 gpm 64.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/IIIN",
+          "Rear lift": "7900 lbs 3583 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "&nbsp": "1000/1000E (1.75)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "107.6 inches 273 cm",
+          "&nbsp": "109.8 inches * With suspended front axle 278 cm",
+          "Weight": "13900 to 14500 pounds",
+          "Front tire": "380/85R30",
+          "Rear tire": "460/85R42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "150",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Puma Series Tractors published in 2017, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 6, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2014 - 2025",
+          "__seccion_2__": "Model year 2014-2020 2021-2025",
+          "__seccion_3__": "Puma Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 165 Tires",
+          "Standard tires (ag)": "Front: 380/85R30. Rear: 460/85R42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "107.6 inches 273 cm",
+          "&nbsp": "109.8 inches * With suspended front axle 278 cm",
+          "Height (cab)": "118.3 inches 300 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 165 Weight",
+          "Power shift": "13900 lbs 6305 kg",
+          "CVT": "14500 lbs 6577 kg",
+          "Max capacity": "24251 lbs 11000 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 6, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2014 - 2025",
+          "__seccion_2__": "Model year 2014-2020 2021-2025",
+          "__seccion_3__": "Puma Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2971"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2971",
+          "__seccion_2__": "Diesel CVT 4WD July 2015 - October 2016, Link: OCED Tractor Test 2971 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "109.4 hp 81.6 kW",
+          "Fuel use": "8.2 gal/hour 31.0 l/hour",
+          "Power at rated engine speed": "140.7 hp 104.9 kW",
+          "Power at rated PTO speed": "150.3 hp 112.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Pull at 7.75 KPH",
+          "Max pull": "14600 lbs 6622 kg",
+          "__seccion_6__": "Pull at 5.21 KPH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 6, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2014 - 2025",
+          "__seccion_2__": "Model year 2014-2020 2021-2025",
+          "__seccion_3__": "Puma Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT",
+          "__seccion_3__": "turbocharged with air-to-air aftercooling diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "410.6 ci 6.7 L",
+          "Bore/Stroke": "4.094x5.197 inches 104 x 132 mm",
+          "Emissions": "Tier 4",
+          "Emission control": "selective catalytic reduction (SCR)",
+          "Power": "165 hp 123.0 kW",
+          "Maximum Power": "210 hp 156.6 kW",
+          "Fuel system": "electronic common rail",
+          "Cooling system": "viscous fan",
+          "&nbsp": "reversible Opt Optional",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 165 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 6, 2022"
+        }
+      ]
+    }
+  }
+}

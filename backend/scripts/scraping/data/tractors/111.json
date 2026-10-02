@@ -1,0 +1,287 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/1/111-john-deere-1050.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/1/111-john-deere-1050-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/1/1/111-john-deere-1050-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/1/111-john-deere-1050-engine.html",
+    "source_id": 111,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:48:19.506Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/111/111-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 135 KB"
+  },
+  "tractor_data_id": 111,
+  "name": "John Deere 1050",
+  "brand": "Yanmar",
+  "model": "deere 1050",
+  "years": {
+    "desde": 1980,
+    "hasta": 1989
+  },
+  "model_year": 1980,
+  "engine_power_hp": 37,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 33,
+  "pto_tested_hp": 33.41,
+  "drawbar_tested_hp": 27.25,
+  "weight_kg": 1425,
+  "weight_basis": "4WD Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 15.4,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 13.6-28",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1298,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": 8.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/111/111-td3a.jpg",
+  "image_url": "/uploads/tractors/td111.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1980 - 1989",
+          "__seccion_2__": "50 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "John Deere",
+          "Manufacturer": "Yanmar",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan",
+          "Original price": "$10,415 (1983 )",
+          "__seccion_4__": "$15,000 (1989 )"
+        },
+        {
+          "__seccion_1__": "John Deere 1050 Engine",
+          "__seccion_2__": "Yanmar 1.7L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 1050 Transmission",
+          "__seccion_2__": "8-speed sliding gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 1050 Power",
+          "Engine (gross)": "37 hp 27.6 kW",
+          "Drawbar (claimed)": "28 hp 20.9 kW",
+          "PTO (claimed)": "33 hp 24.6 kW",
+          "Drawbar (tested)": "27.25 hp 20.3 kW",
+          "PTO (tested)": "33.41 hp 24.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Differential mechanical internal expanding shoe brakes",
+          "__seccion_5__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 1050 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "11 gal 41.6 L",
+          "Hydraulic system": "6.875 gal 26.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "6.875 gal 26.0 L",
+          "Pressure": "2030 psi 140.0 bar",
+          "Pump flow": "7.5 gpm 28.4 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "mechanical center-link depth sensing"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live * Two-stage foot clutch.",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2260"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "68.9 inches 175 cm",
+          "Weight": "2933 to 3400 pounds",
+          "Front tire": "6.00-16",
+          "Rear tire": "13.6-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 1050 attachments",
+          "__seccion_2__": "72\" mid-mount mower deck",
+          "__seccion_3__": "snowblower",
+          "__seccion_4__": "blade",
+          "__seccion_5__": "front-end loader",
+          "__seccion_6__": "backhoe",
+          "__seccion_7__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "1050 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the rear of the John Deere 1050, below the PTO shaft."
+        },
+        {
+          "1980": "1000",
+          "1981": "5280",
+          "1982": "6572",
+          "1983": "9001",
+          "1984": "11006",
+          "1985": "14001",
+          "1986": "17001",
+          "1987": "19501",
+          "1988": "21479",
+          "__seccion_1__": "1050 Serial Numbers",
+          "Final": "23734",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Consumer Products Price List published in 1983, by John Deere",
+          "__seccion_3__": "Grounds Care Equipment Purchasing Guide published in 1983, by John Deere",
+          "__seccion_4__": "Compact Utility/Utility Tractors Product Information Handbook published in 1983, by John Deere",
+          "__seccion_5__": "Operator's Manual 850, 950 and 1050 Tractors (OMRW19870) published in 1984",
+          "__seccion_6__": "John Deere tractors 22 to 50 HP published in 1980",
+          "__seccion_7__": "Compact Utility Diesel Tractors 14.5 to 40 PTO hp published in 1982, by John Deere",
+          "__seccion_8__": "Diesel Tractors 14.5 to 60 PTO hp published in 1984, by John Deere",
+          "__seccion_9__": "Mechanical Front-Wheel Drive published in 1984, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 20, 2024",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1980 - 1989",
+          "__seccion_2__": "50 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "John Deere 1050 Tires",
+          "Ag front": "6.00-16",
+          "Ag rear": "13.6-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "68.9 inches 175 cm",
+          "Length": "122 inches 309 cm",
+          "Width": "65 inches 165 cm",
+          "2WD Height (hood)": "55.1 inches 139 cm",
+          "4WD Height (hood)": "54 inches 137 cm",
+          "Front tread": "49 inches 124 cm",
+          "Rear tread": "51 to 75 inches 129 to 190 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 1050 Weight",
+          "2WD Shipping": "2933 lbs 1330 kg",
+          "4WD Shipping": "3142 lbs 1425 kg",
+          "4WD Operating": "3400 lbs 1542 kg",
+          "Ballasted": "4140 lbs 1877 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 20, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1980 - 1989",
+          "__seccion_2__": "50 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1327"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1327",
+          "__seccion_2__": "Diesel 8-speed 4WD October 8, 1979 - October 12, 1978 Link: Nebraska Tractor Test 1327 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "33.41 hp 24.9 kW",
+          "Fuel use": "2.2 gal/hour 8.3 l/hour",
+          "Power at rated PTO speed": "33.42 hp 24.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "27.25 hp 20.3 kW",
+          "__seccion_5__": "Gear 6 used for power test.",
+          "Max pull": "3,466 lbs 1572 kg",
+          "__seccion_6__": "Gear 4 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 20, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1980 - 1989",
+          "__seccion_2__": "50 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Yanmar 3T90T",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "105 ci 1.7 L",
+          "Bore/Stroke": "3.54x3.54 inches 90 x 90 mm",
+          "Power (gross)": "37 hp 27.6 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "20.4:1",
+          "Rated RPM": "2400",
+          "Starter volts": "12",
+          "Oil capacity": "7 qts 6.6 L",
+          "Coolant capacity": "6.5 qts 6.2 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 20, 2024"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/111/111-td4-b01.jpg"
+}

@@ -1,0 +1,193 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/1/6/8160-kubota-l1-24.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/1/6/8160-kubota-l1-24-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/1/6/8160-kubota-l1-24-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 8160,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:02:19.130Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8160/8160-td4-b01-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 116 KB"
+  },
+  "tractor_data_id": 8160,
+  "name": "Kubota L1-24",
+  "brand": "Kubota",
+  "model": "L1 24",
+  "years": {
+    "desde": 1983,
+    "hasta": 1985
+  },
+  "model_year": 1983,
+  "engine_power_hp": 23.7,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1070,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 8.7,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 11.2-24",
+  "tire_width_mm": 284,
+  "tire_diameter_mm": 1093,
+  "tire_front": {
+    "original": "7-16",
+    "radial": false,
+    "width_mm": 178,
+    "rim_in": 16,
+    "diameter_mm_est": 709,
+    "tipo": "Diagonal",
+    "texto": "7-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F008/8160/8160-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F008/8160/8160-td4-b01-ext090.jpg",
+  "image_url": "/uploads/tractors/td8160.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1983 - 1985",
+          "__seccion_2__": "L1 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "L1-24DT": "4WD"
+        },
+        {
+          "__seccion_1__": "Kubota L1-24 Engine",
+          "__seccion_2__": "Kubota 1.5L 3-cyl diesel",
+          "Fuel tank": "7.7 gal 29.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L1-24 Transmission",
+          "__seccion_2__": "16-speed shuttle",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L1-24 Power",
+          "Engine": "23.7 hp 17.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota L1-24 photos..."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540/770/940/1250 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "61 inches 154 cm",
+          "Weight": "2183 to 2359 pounds",
+          "Front tire": "5.00-15",
+          "2WD Rear tire": "11.2-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Instruction Manual L1 (31351-1921-6)"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 26, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1983 - 1985",
+          "__seccion_2__": "L1 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota L1-24 Tires",
+          "2WD Standard tires (ag)": "Front: 5.00-15. Rear: 11.2-24",
+          "4WD Standard tires (ag)": "Front: 7-16. Rear: 11.2-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "61 inches 154 cm",
+          "Length": "115.8 inches 294 cm",
+          "Width": "52 inches 132 cm",
+          "Height": "77.8 inches 197 cm",
+          "2WD Weight": "2183 lbs 990 kg",
+          "4WD Weight": "2359 lbs 1070 kg",
+          "2WD Ground clearance": "14.6 inches 37 cm",
+          "4WD Ground clearance": "12.4 inches 31 cm",
+          "2WD Front tread": "38.6 to 44.9 inches 98 to 114 cm",
+          "4WD Front tread": "41.3 inches 104 cm",
+          "Rear tread": "40.2 to 52 inches 102 to 132 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 26, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1983 - 1985",
+          "__seccion_2__": "L1 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota D1462",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "89.2 ci 1.5 L",
+          "Bore/Stroke": "3.4x3.2 inches 86 x 81 mm",
+          "Power": "23.7 hp 17.7 kW",
+          "Rated RPM": "2600",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 26, 2023"
+        }
+      ]
+    }
+  }
+}

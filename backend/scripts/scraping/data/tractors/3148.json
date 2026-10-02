@@ -1,0 +1,214 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/1/4/3148-new-holland-tt75.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/1/4/3148-new-holland-tt75-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/1/4/3148-new-holland-tt75-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3148,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:25:11.358Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3148/3148-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 57 KB"
+  },
+  "tractor_data_id": 3148,
+  "name": "New Holland TT75",
+  "brand": "New Holland",
+  "model": "TT75",
+  "years": {
+    "desde": 2002,
+    "hasta": 2008
+  },
+  "model_year": 2002,
+  "engine_power_hp": 74.9,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 59,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2481,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 21.6,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9-30",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1492,
+  "tire_front": {
+    "original": "11.2-24",
+    "radial": false,
+    "width_mm": 284,
+    "rim_in": 24,
+    "diameter_mm_est": 1093,
+    "tipo": "Diagonal",
+    "texto": "11.2-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F003/3148/3148-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3148/3148-photo-001.jpg",
+  "image_url": "/uploads/tractors/td3148.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2002 - 2008",
+          "__seccion_2__": "TT Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in India"
+        },
+        {
+          "__seccion_1__": "New Holland TT75 Engine",
+          "__seccion_2__": "Iveco 3.9L 4-cyl diesel",
+          "Fuel tank": "23.5 gal 88.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TT75 Transmission",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TT75 Power",
+          "Engine": "74.9 hp 55.9 kW",
+          "PTO (claimed)": "59 hp 44.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "spur gear",
+          "Differential lock": "mechanical rear",
+          "Steering": "power",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Two-post fixed ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland TT75 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "8.6 gpm 32.6 lpm",
+          "Total flow": "15.6 gpm 59.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position and draft control",
+          "Rear lift": "4751 lbs 2155 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1967"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "86.2 inches 218 cm",
+          "4WD Wheelbase": "85 inches 215 cm",
+          "Weight": "5470 lbs 2481 kg",
+          "Front tire": "7.50-16",
+          "Rear tire": "16.9-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "New Holland TT75 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "23",
+          "Battery volts": "12",
+          "Battery AH": "100"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "TT (IR/60009/INT) published in 2008"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on June 9, 2026",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2002 - 2008",
+          "__seccion_2__": "TT Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "New Holland TT75 Tires",
+          "Ag front": "7.50-16 (2WD)",
+          "&nbsp": "11.2-24 (4WD)",
+          "Ag rear": "16.9-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "86.2 inches 218 cm",
+          "4WD Wheelbase": "85 inches 215 cm",
+          "Height": "93.9 inches 238 cm",
+          "Weight": "5470 lbs 2481 kg",
+          "2WD Ground clearance": "19.7 inches 50 cm",
+          "4WD Ground clearance": "16.1 inches 40 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 9, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2002 - 2008",
+          "__seccion_2__": "TT Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iveco",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "238.5 ci 3.9 L",
+          "Bore/Stroke": "4.094x4.528 inches 104 x 115 mm",
+          "Power": "74.9 hp 55.9 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "oil bath",
+          "&nbsp": "dry Opt Optional",
+          "Rated RPM": "2500",
+          "Torque": "178.7 lb-ft 242.3 Nm",
+          "Torque RPM": "1500",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 9, 2026"
+        }
+      ]
+    }
+  }
+}

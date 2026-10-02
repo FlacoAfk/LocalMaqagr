@@ -1,0 +1,207 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/9/4/3942-john-deere-3120.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/9/4/3942-john-deere-3120-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/9/4/3942-john-deere-3120-engine.html",
+    "source_id": 3942,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:41:39.422Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3942/3942-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 34 KB"
+  },
+  "tractor_data_id": 3942,
+  "name": "John Deere 3120",
+  "brand": "John Deere",
+  "model": "3120",
+  "years": {
+    "desde": 1969,
+    "hasta": 1972
+  },
+  "model_year": 1969,
+  "engine_power_hp": 86,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 70,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3500,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 25.7,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "7.50-18",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 18,
+    "diameter_mm_est": 781,
+    "tipo": "Diagonal",
+    "texto": "7.50-18"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F003/3942/3942-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3942/3942-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td3942.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1969 - 1972",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany"
+        },
+        {
+          "__seccion_1__": "John Deere 3120 Engine",
+          "__seccion_2__": "John Deere 5.0L 6-cyl diesel",
+          "Fuel tank": "28 gal 106.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3120 Transmission",
+          "__seccion_2__": "12-speed twos-peed power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3120 Power",
+          "Engine (gross)": "86 hp 64.1 kW",
+          "Engine (net)": "80 hp 59.7 kW",
+          "PTO (claimed)": "70 hp 52.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Open operator station. Two-post ROPS available."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 3120 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Pressure": "2250 psi 155.1 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "97 inches 246 cm",
+          "Weight": "7717 lbs 3500 kg",
+          "Front tire": "7.50-18",
+          "Rear tire": "16.9/14-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "3120 Serial Numbers",
+          "Location:": "Serial number plate on the right side of the 3120 tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12",
+          "Battery AH": "88"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Derneue 3120 - der Schlepper mit hochster Nutzkraft published in 1969, by John Deere",
+          "__seccion_3__": "3120 (OML25968) published in 1969"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 9, 2023",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1969 - 1972",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 3120 Tires",
+          "Ag front": "7.50-16",
+          "Ag rear": "18.4/15-34",
+          "&nbsp": "15.5-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "97 inches 246 cm",
+          "Length": "160 inches 406 cm",
+          "Height (steering wheel)": "65.4 inches 166 cm",
+          "Height (exhaust)": "94.3 inches 239 cm",
+          "Shipping weight": "7717 lbs 3500 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 9, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1969 - 1972",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "303 ci 5.0 L",
+          "Bore/Stroke": "3.86x4.33 inches 98 x 110 mm",
+          "Power (net)": "80 hp 59.7 kW",
+          "Power (gross)": "86 hp 64.1 kW",
+          "Fuel system": "direct injection",
+          "Compression": "16.7:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "600-2360",
+          "Torque": "220 lb-ft 298.3 Nm",
+          "Torque RPM": "1450",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "11 qts 10.4 L",
+          "Coolant capacity": "20 qts 18.9 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 9, 2023"
+        }
+      ]
+    }
+  }
+}

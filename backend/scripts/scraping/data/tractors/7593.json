@@ -1,0 +1,261 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/5/9/7593-caseih-puma-150.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/5/9/7593-caseih-puma-150-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/007/5/9/7593-caseih-puma-150-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/5/9/7593-caseih-puma-150-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 7593,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:50:05.649Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7593/7593-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 97 KB"
+  },
+  "tractor_data_id": 7593,
+  "name": "CaseIH Puma 150",
+  "brand": "CaseIH",
+  "model": "Puma 150",
+  "years": {
+    "desde": 2014,
+    "hasta": 2025
+  },
+  "model_year": 2014,
+  "engine_power_hp": 150,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 125,
+  "pto_tested_hp": 141.6,
+  "drawbar_tested_hp": 101.1,
+  "weight_kg": 6305,
+  "weight_basis": "Power shift",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 63.3,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 460/85R42",
+  "tire_width_mm": 460,
+  "tire_diameter_mm": 1849,
+  "tire_front": {
+    "original": "380/85R30",
+    "radial": true,
+    "width_mm": 380,
+    "rim_in": 30,
+    "diameter_mm_est": 1408,
+    "tipo": "Radial",
+    "texto": "380/85R30"
+  },
+  "fuel_consumption_lph": 29.5,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7593/7593-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7593/7593-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td7593.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2014 - 2025",
+          "__seccion_2__": "Model year 2014-2020 2021-2025",
+          "__seccion_3__": "Puma Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Basildon, England",
+          "Original price": "$136,669 (2014 power shift )",
+          "__seccion_4__": "$144,426 (2014 CVT )",
+          "__seccion_5__": "$155,110 (2015 CVT )",
+          "__seccion_6__": "$146,129 (2015 power shift )"
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 150 Engine",
+          "__seccion_2__": "FPT 6.7L 6-cyl diesel",
+          "Fuel tank": "71 gal 268.7 L",
+          "&nbsp": "86 gal * With 60L auxiliary tank. 325.5 L",
+          "Exhaust fluid (DEF)": "12.7 gal 48.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 150 Transmissions",
+          "__seccion_2__": "18-speed full power shift",
+          "__seccion_3__": "continuously variable transmission (CVT)",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 150 Power",
+          "Engine": "150 hp 111.9 kW",
+          "PTO (claimed)": "125 hp 93.2 kW",
+          "Drawbar (tested)": "101.1 hp 75.4 kW",
+          "PTO (tested)": "141.6 hp 105.6 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "Trailer brakes": "hydraulic Opt Optional",
+          "&nbsp": "pneumatic Opt Optional",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH Puma 150 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure flow compensating",
+          "Valves": "3 to 5",
+          "Pump flow": "26.5 gpm 100.3 lpm",
+          "Total flow": "43.5 gpm 164.6 lpm",
+          "Steering flow": "17 gpm 64.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "&nbsp": "III/II Opt Optional",
+          "Rear lift": "7900 lbs 3583 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "&nbsp": "1000/1000E (1.75)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "107.6 inches 273 cm",
+          "&nbsp": "109.8 inches * With suspended front axle 278 cm",
+          "Weight": "13900 to 14500 pounds",
+          "Front tire": "380/85R30",
+          "Rear tire": "460/85R42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "150",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Puma Series Tractors published in 2017, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 22, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2014 - 2025",
+          "__seccion_2__": "Model year 2014-2020 2021-2025",
+          "__seccion_3__": "Puma Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 150 Tires",
+          "Standard tires (ag)": "Front: 380/85R30. Rear: 460/85R42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "107.6 inches 273 cm",
+          "&nbsp": "109.8 inches * With suspended front axle 278 cm",
+          "Height (cab)": "118.3 inches 300 cm",
+          "__seccion_2__": "Flange rear axle",
+          "Bar rear axle": "112 inch length 2844 mm"
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 150 Weight",
+          "Power shift": "13900 lbs 6305 kg",
+          "CVT": "14500 lbs 6577 kg",
+          "Max capacity": "24251 lbs 11000 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 22, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2014 - 2025",
+          "__seccion_2__": "Model year 2014-2020 2021-2025",
+          "__seccion_3__": "Puma Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2970"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2970",
+          "__seccion_2__": "Diesel CVT 4WD June 2015 - October 2016, Link: OCED Tractor Test 2970 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "101.1 hp 75.4 kW",
+          "Fuel use": "7.8 gal/hour 29.5 l/hour",
+          "Power at rated engine speed": "125.7 hp 93.7 kW",
+          "Power at rated PTO speed": "137.6 hp 102.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Pull at 9.89 KPH",
+          "Max pull": "14225 lbs 6452 kg",
+          "__seccion_6__": "Pull at 4.91 KPH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 22, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2014 - 2025",
+          "__seccion_2__": "Model year 2014-2020 2021-2025",
+          "__seccion_3__": "Puma Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT",
+          "__seccion_3__": "turbocharged with air-to-air aftercooling diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "410.6 ci 6.7 L",
+          "Bore/Stroke": "4.094x5.197 inches 104 x 132 mm",
+          "Emissions": "Tier 4",
+          "Emission control": "selective catalytic reduction (SCR)",
+          "Power": "150 hp 111.9 kW",
+          "Maximum Power": "190 hp 141.7 kW",
+          "Fuel system": "electronic common rail",
+          "Cooling system": "viscous fan",
+          "&nbsp": "reversible Opt Optional",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "CaseIH Puma 150 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 22, 2022"
+        }
+      ]
+    }
+  }
+}

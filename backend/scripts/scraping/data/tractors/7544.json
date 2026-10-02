@@ -1,0 +1,269 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/5/4/7544-john-deere-6140r.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/5/4/7544-john-deere-6140r-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/007/5/4/7544-john-deere-6140r-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/5/4/7544-john-deere-6140r-engine.html",
+    "source_id": 7544,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:59:50.392Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7544/7544-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 38 KB"
+  },
+  "tractor_data_id": 7544,
+  "name": "John Deere 6140R",
+  "brand": "John Deere",
+  "model": "6140R",
+  "years": {
+    "desde": 2013,
+    "hasta": 2014
+  },
+  "model_year": 2013,
+  "engine_power_hp": 140,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 111,
+  "pto_tested_hp": 134.42,
+  "drawbar_tested_hp": 108.79,
+  "weight_kg": 6615,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 63.4,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 480/80R46",
+  "tire_width_mm": 480,
+  "tire_diameter_mm": 1936,
+  "tire_front": {
+    "original": "420/90R30",
+    "radial": true,
+    "width_mm": 420,
+    "rim_in": 30,
+    "diameter_mm_est": 1518,
+    "tipo": "Radial",
+    "texto": "420/90R30"
+  },
+  "fuel_consumption_lph": 28.8,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7544/7544-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7544/7544-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td7544.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2013 - 2014",
+          "__seccion_2__": "6R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "Original price": "$129,630 (2014 16-speed Basic Cab 2WD )",
+          "__seccion_4__": "$151,912 (2014 IVT Deluxe Cab 4WD )"
+        },
+        {
+          "__seccion_1__": "John Deere 6140R Engine",
+          "__seccion_2__": "John Deere 6.8L 6-cyl diesel",
+          "Fuel tank": "94 gal 355.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6140R Transmissions",
+          "__seccion_2__": "16-speed four-speed power shift",
+          "__seccion_3__": "20-speed",
+          "__seccion_4__": "infinitely variable transmission",
+          "__seccion_5__": "24-speed eight-speed power shift",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6140R Power",
+          "Engine (gross)": "140 hp 104.4 kW",
+          "Engine (max)": "154 hp 114.8 kW",
+          "PTO (claimed)": "111 hp 82.8 kW",
+          "Drawbar (tested)": "108.79 hp 81.1 kW",
+          "PTO (tested)": "134.42 hp 100.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "__seccion_3__": "Power steering",
+          "Brakes": "hydraulic wet disc",
+          "&nbsp": "optional TLS front-axle brakes",
+          "__seccion_4__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 6140R photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure and flow compensated",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "3 to 4",
+          "Pump flow": "30.1 gpm 113.9 lpm",
+          "SCV flow": "26.4 gpm 99.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/IIIN",
+          "Rear lift": "8199 lbs 3719 kg",
+          "Drawbar": "Cat. 2"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "1000@1969",
+          "&nbsp": "1000@2010",
+          "Front PTO": "independent Opt Optional",
+          "Front PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "117.5 inches 298 cm",
+          "4WD Wheelbase": "108.9 inches 276 cm",
+          "Weight": "14585 lbs 6615 kg",
+          "Front tire": "11.00-20",
+          "2WD Rear tire": "480/80R46",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6140R attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "6140R Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "&nbsp": "200 Opt Optional",
+          "Charging volts": "14",
+          "Battery CCA": "1200",
+          "Battery volts": "12",
+          "Battery Group": "4D"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "6R Series Tractors published in 2012, by John Deere",
+          "__seccion_3__": "Operator's Manual Tractors 6140R, 6150R, 6150RH, 6170R, 6190R and 6120R (OMAL211531) published in 2014"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 14, 2023",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2013 - 2014",
+          "__seccion_2__": "6R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 6140R Tires",
+          "2WD Standard tires (ag)": "Front: 11.00-20. Rear: 480/80R46",
+          "4WD Standard tires (ag)": "Front: 420/90R30. Rear: 480/80R46"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "117.5 inches 298 cm",
+          "4WD Wheelbase": "108.9 inches 276 cm",
+          "Operating weight": "14585 lbs 6615 kg",
+          "Max weight": "23809 lbs 10799 kg",
+          "Front axle": "Triple-Link Suspension",
+          "__seccion_2__": "Flange rear axle",
+          "Bar rear axle": "3.62 by 110.5 inches 91 by 2806 mm",
+          "Front tread": "60 to 88 inches 152 to 223 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 14, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2013 - 2014",
+          "__seccion_2__": "6R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2059"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2059",
+          "__seccion_2__": "Diesel AutoQuad 20-speed 4WD April 8 - 18, 2013 Link: OCED Tractor Test 2059 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "108.79 hp 81.1 kW",
+          "Fuel use": "7.4 gal/hour 28.0 l/hour",
+          "Power at rated engine speed": "114.09 hp 85.1 kW",
+          "Power at rated PTO speed": "126.30 hp 94.2 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "14262 lbs 6469 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 14, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2013 - 2014",
+          "__seccion_2__": "6R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech PVX",
+          "__seccion_3__": "variable geometry turbocharger with air-to-air aftercooling diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "414.2 ci 6.8 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Interim Tier IV",
+          "Emission control": "cooled exhaust gas recirculation",
+          "Rated Power (gross)": "140 hp 104.4 kW",
+          "Maximum Power (gross)": "154 hp 114.8 kW",
+          "Air cleaner": "dual stage dry",
+          "Compression": "16.5:1",
+          "Rated RPM": "2100",
+          "Idle RPM": "850-2250",
+          "Operating RPM": "1500-2100",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Coolant capacity": "29.8 qts 28.2 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 14, 2023"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/0/102-john-deere-8640.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/0/102-john-deere-8640-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/1/0/102-john-deere-8640-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/0/102-john-deere-8640-engine.html",
+    "source_id": 102,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:47:50.330Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/102/102-photo-001-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 33 KB"
+  },
+  "tractor_data_id": 102,
+  "name": "John Deere 8640",
+  "brand": "John Deere",
+  "model": "8640",
+  "years": {
+    "desde": 1979,
+    "hasta": 1982
+  },
+  "model_year": 1979,
+  "engine_power_hp": 275,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 225,
+  "pto_tested_hp": 228.75,
+  "drawbar_tested_hp": 203.34,
+  "weight_kg": 12823,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 123.6,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "18.4-34",
+    "radial": false,
+    "width_mm": 467,
+    "rim_in": 34,
+    "diameter_mm_est": 1658,
+    "tipo": "Diagonal",
+    "texto": "18.4-34"
+  },
+  "fuel_consumption_lph": 55.6,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/102/102-td3a.jpg",
+  "image_url": "/uploads/tractors/td102.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1979 - 1982",
+          "__seccion_2__": "Iron Horses Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "__seccion_4__": "Original price was $80,000 in 1982"
+        },
+        {
+          "__seccion_1__": "John Deere 8640 Engine",
+          "__seccion_2__": "John Deere 10.1L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8640 Transmission",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8640 Power",
+          "Engine": "275 hp 205.1 kW",
+          "PTO (claimed)": "225 hp 167.8 kW",
+          "Drawbar (tested)": "203.34 hp 151.6 kW",
+          "PTO (tested)": "228.75 hp 170.6 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "hydraulic front and rear",
+          "__seccion_3__": "Articulated power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 8640 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "214 gal 810.0 L",
+          "Hydraulic system": "41 gal 155.2 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "41 gal 155.2 L",
+          "Valves": "2",
+          "Pump flow": "33 gpm 124.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/IIIN",
+          "Rear lift": "8545 lbs 3876 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000",
+          "Engine RPM": "1000@2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "125 inches 317 cm",
+          "Weight": "28,270 lbs 12823 kg",
+          "Front tire": "18.4-34",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "8640 Serial Number Location",
+          "__seccion_2__": "On transmission case on the rear of the 8640."
+        },
+        {
+          "1979": "1500",
+          "1980": "3198",
+          "1981": "5704",
+          "1982": "7960",
+          "__seccion_1__": "8640 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "90",
+          "Batteries": "2",
+          "Battery CCA": "975",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Explore Discover Deere '79 published in 1979, by John Deere",
+          "__seccion_3__": "Move up to John Deere... published in 1981"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 18, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1979 - 1982",
+          "__seccion_2__": "Iron Horses Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8640 Tires",
+          "Ag front": "18.4-34",
+          "Ag rear": "18.4-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "125 inches 317 cm",
+          "Length": "223.5 inches 567 cm",
+          "Operating weight": "28,270 lbs 12823 kg",
+          "Ground clearance": "18.4 inches 46 cm",
+          "Front axle": "Rack-and-pinion: 3.937 by 118.4 inches 99 by 3007 mm",
+          "Rack-and-pinion rear axle": "3.937 by 118.4 inches 99 by 3007 mm",
+          "Front tread": "63 to 130 inches 160 to 330 cm",
+          "Rear tread": "63 to 130 inches 160 to 330 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 8640 Height",
+          "Hood": "87.1 inches 221 cm",
+          "Cab": "126.6 inches 321 cm",
+          "Exhaust": "134.5 inches 341 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 18, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1979 - 1982",
+          "__seccion_2__": "Iron Horses Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1324"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1324",
+          "__seccion_2__": "Diesel 16-speed 4WD September 11 - 18, 1979 Link: Nebraska Tractor Test 1324 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "228.75 hp 170.6 kW",
+          "Fuel use": "14.5 gal/hour 54.9 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "203.34 hp 151.6 kW",
+          "Max pull": "27,782 lbs 12601 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 18, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1979 - 1982",
+          "__seccion_2__": "Iron Horses Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "619 ci 10.1 L",
+          "Bore/Stroke": "5.12x5.00 inches 130 x 127 mm",
+          "Power": "275 hp 205.1 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "15.2:1",
+          "Rated RPM": "2100",
+          "Idle RPM": "800-2300",
+          "Operating RPM": "1500-2100",
+          "Starter volts": "12",
+          "Oil capacity": "26 qts 24.6 L",
+          "Coolant capacity": "48 qts 45.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 18, 2025"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/102/102-photo-001-ext045.jpg"
+}

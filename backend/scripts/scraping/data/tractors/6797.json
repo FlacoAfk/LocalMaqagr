@@ -1,0 +1,227 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/7/9/6797-john-deere-6520l.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/7/9/6797-john-deere-6520l-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/7/9/6797-john-deere-6520l-engine.html",
+    "source_id": 6797,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:51:06.777Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6797/6797-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 6797,
+  "name": "John Deere 6520L",
+  "brand": "John Deere",
+  "model": "6520L",
+  "years": {
+    "desde": 2002,
+    "hasta": 2006
+  },
+  "model_year": 2002,
+  "engine_power_hp": 95,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 95,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3800,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 34.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4-26",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1455,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F006/6797/6797-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td6797.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2002 - 2006",
+          "__seccion_2__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Orchard/Vineyard tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany",
+          "Original price": "$51,500 (2007)"
+        },
+        {
+          "__seccion_1__": "John Deere 6520L Engine",
+          "__seccion_2__": "John Deere 4.5L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6520L Transmissions",
+          "__seccion_2__": "12-speed fully synchronized",
+          "__seccion_3__": "16-speed power shuttle",
+          "__seccion_4__": "16-speed partial power shift",
+          "__seccion_5__": "24-speed partial power shift",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6520L Power",
+          "PTO (claimed)": "95 hp 70.8 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 MFWD 4WD (optional)",
+          "Steering": "hydrostatic power",
+          "__seccion_2__": "Hydraulic wet disc brakes",
+          "__seccion_3__": "ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 6520L are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "43.6 gal 165.0 L",
+          "&nbsp": "13.2 gal (PowrQuad 24) 50.0 L",
+          "Hydraulic system": "13.7 gal (SyncroPlus) 51.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "pressure and flow compensated",
+          "Capacity": "13.7 gal (SyncroPlus) 51.9 L",
+          "&nbsp": "13.2 gal (PowrQuad 24) 50.0 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "Pump flow": "25 gpm 94.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "&nbsp": "540/1000 (optional)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "8,379 lbs 3800 kg",
+          "Front tire": "27/9.5-15",
+          "Rear tire": "18.4-26 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging volts": "14",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 16, 2016",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2002 - 2006",
+          "__seccion_2__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 6520L Tires",
+          "Standard tires (ag)": "Front: 27/9.5-15. Rear: 18.4-26 (2WD)",
+          "&nbsp": "Front: 10.5/80-18. Rear: 18.4-26 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Shipping weight": "8,379 lbs (4WD ROPS) 3800 kg",
+          "Front tread": "55.1 to 68.5 inches 139 to 173 cm (4WD narrow)"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 16, 2016"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2002 - 2006",
+          "__seccion_2__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech 4045HL071",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "276 ci 4.5 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Tier I",
+          "Air cleaner": "dry",
+          "Rated RPM": "2300",
+          "Idle RPM": "875-2510",
+          "Operating RPM": "1000-2300",
+          "Torque": "289 lb-ft 391.9 Nm",
+          "Torque RPM": "1500",
+          "Firing order": "1-3-4-2",
+          "Starter volts": "12",
+          "Starter power": "4 hp 3.0 kW",
+          "Coolant capacity": "14.4 qts 13.6 L",
+          "Intake valve clearance": "0.014 inches 0.356 mm",
+          "Exhaust valve clearance": "0.018 inches 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "16.8 qts 15.9 L",
+          "Oil change": "500 h"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech 4045HL273",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "276 ci 4.5 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Tier II",
+          "Air cleaner": "dry",
+          "Rated RPM": "2300",
+          "Idle RPM": "845-2465",
+          "Operating RPM": "1000-2300",
+          "Torque": "350 lb-ft 474.6 Nm",
+          "Torque RPM": "1500",
+          "Firing order": "1-3-4-2",
+          "Coolant capacity": "14.4 qts 13.6 L",
+          "Intake valve clearance": "0.014 inches 0.356 mm",
+          "Exhaust valve clearance": "0.018 inches 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "16.8 qts 15.9 L",
+          "Oil change": "500 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 16, 2016"
+        }
+      ]
+    }
+  }
+}

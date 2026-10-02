@@ -1,0 +1,174 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/4/6/8465-deutz-d-15.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/4/6/8465-deutz-d-15-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/4/6/8465-deutz-d-15-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 8465,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T23:01:40.479Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8465/8465-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 50 KB"
+  },
+  "tractor_data_id": 8465,
+  "name": "Deutz D 15",
+  "brand": "Deutz",
+  "model": "D 15",
+  "years": {
+    "desde": 1959,
+    "hasta": 1964
+  },
+  "model_year": 1959,
+  "engine_power_hp": 14,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 920,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 5.1,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 8-24",
+  "tire_width_mm": 203,
+  "tire_diameter_mm": 955,
+  "tire_front": {
+    "original": "4.00-16",
+    "radial": false,
+    "width_mm": 102,
+    "rim_in": 16,
+    "diameter_mm_est": 579,
+    "tipo": "Diagonal",
+    "texto": "4.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F008/8465/8465-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F008/8465/8465-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td8465.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1959 - 1964",
+          "__seccion_2__": "D Series"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Deutz"
+        },
+        {
+          "__seccion_1__": "Deutz D 15 Engine",
+          "__seccion_2__": "Deutz 0.8L 1-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Deutz D 15 Transmission",
+          "__seccion_2__": "6-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Deutz D 15 Power",
+          "Engine": "14 hp 10.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Deutz D 15 photos..."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I Opt Optional"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "66.5 inches 168 cm",
+          "Weight": "2030 lbs 920 kg",
+          "Front tire": "4.00-16",
+          "Rear tire": "8-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Belt Pulley",
+          "Diameter": "7 inches 17 cm",
+          "Width": "3.9 inches 9 cm",
+          "RPM": "1655"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 30, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1959 - 1964",
+          "__seccion_2__": "D Series"
+        },
+        {
+          "__seccion_1__": "Deutz D 15 Tires",
+          "Ag front": "5.00-16",
+          "Ag rear": "9-24",
+          "&nbsp": "9-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "66.5 inches 168 cm",
+          "Length": "104 inches 264 cm",
+          "Width": "61 inches 154 cm",
+          "Height": "58.7 inches 149 cm",
+          "Weight": "2030 lbs 920 kg",
+          "Ground clearance": "16.9 inches 42 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 30, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1959 - 1964",
+          "__seccion_2__": "D Series"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Deutz F1L712",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "1-cylinder",
+          "__seccion_5__": "air-cooled",
+          "Displacement": "51.8 ci 0.8 L",
+          "Bore/Stroke": "3.74x4.72 inches 95 x 120 mm",
+          "Power": "14 hp 10.4 kW",
+          "Rated RPM": "2400"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 30, 2021"
+        }
+      ]
+    }
+  }
+}

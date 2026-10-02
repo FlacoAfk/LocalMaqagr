@@ -536,14 +536,21 @@ describe("powerLossService", () => {
       expect(r.zoz.p_alt_hp).toBe(19.32);
       // P_TEMP = ((18−15)/5)×1%×322 = 1,93
       expect(r.zoz.p_temp_hp).toBe(1.93);
+      // P_PAT = 12 % × 322 = 38,64 (dato del ejercicio "Pat. 12 %", dentro del corchete)
+      expect(r.zoz.p_pat_hp).toBe(38.64);
+      expect(r.losses.slippage).toBe(38.64);
       // P_ROD = 5500×4,5×(0,35·cos α + sen α)/274 ≈ 38,72 (hoja: 38,7)
       expect(r.zoz.p_rod_hp).toBe(38.72);
-      // P_EJE = (322 − 19,32 − 1,93 − 38,72)×0,86 ≈ 225,35
-      expect(r.zoz.p_eje_hp).toBe(225.35);
+      // P_EJE = (322 − 19,32 − 1,93 − 38,64 − 38,72)×0,86 ≈ 192,12
+      expect(r.zoz.p_eje_hp).toBe(192.12);
       // P_BDT = P_EJE × ET (malo, 2WD = 0,57)
       expect(r.zoz.et).toBe(0.57);
-      expect(r.netPower).toBe(128.45);
-      // 246,88 HP supera P_EJE y no puede salir de P_EJE × ET con 0 ≤ ET ≤ 1.
+      expect(r.netPower).toBe(109.51);
+      // La hoja anota 246,88 como dato de TDP (Pmax TDP), no como resultado.
+      // Ruta TDP del profesor: (0,85·350)·0,96 − 38,72 = 246,88 (el valor de la hoja)
+      expect(r.zoz.p_eje_tdp_hp).toBe(285.6);
+      expect(r.zoz.p_bdt_tdp_hp).toBe(246.88);
+      expect(r.zoz.tdp_to_axle_efficiency).toBe(0.96);
     });
 
     test('umbrales: altitud solo si A > 300 m, temperatura solo si T > 15 °C, turbo anula ambas', () => {
@@ -566,20 +573,25 @@ describe("powerLossService", () => {
       expect(def.zoz.warnings.some((w) => w.includes('arena suelta'))).toBe(true);
     });
 
-    test('PTO: default 0,86 × P_B y override del usuario (H3)', () => {
-      expect(V3().zoz.pto_power_hp).toBe(301);
-      expect(V3().zoz.pto_source).toBe('default 86% de la potencia bruta');
+    test('PTO: default 0,85 × P_B (ec. 29) y override del usuario (H3)', () => {
+      expect(V3().zoz.pto_power_hp).toBe(297.5);
+      expect(V3().zoz.pto_source).toBe('default 85% de la potencia bruta');
       const user = V3({ pmaxTdpHp: 246.88 });
       expect(user.zoz.pto_power_hp).toBe(246.88);
       expect(user.zoz.pto_source).toBe('ingresada por el usuario');
     });
 
-    test('patinamiento fuera de 7–15 % genera alerta (no resta potencia)', () => {
+    test('patinamiento: se resta en el corchete y mantiene la alerta 7–15 %', () => {
       const fuera = V3({ slippagePercent: 20 });
       expect(fuera.zoz.warnings.some((w) => w.includes('7% a 15%'))).toBe(true);
-      expect(fuera.losses.slippage).toBe(0);
+      expect(fuera.losses.slippage).toBe(64.4); // 20 % × 322
       const dentro = V3({ slippagePercent: 10 });
       expect(dentro.zoz.warnings.some((w) => w.includes('7% a 15%'))).toBe(false);
+      expect(dentro.losses.slippage).toBe(32.2); // 10 % × 322
+      // Sin dato → el término no aplica (0) y no hay alerta
+      const sinDato = V3({ slippagePercent: undefined });
+      expect(sinDato.losses.slippage).toBe(0);
+      expect(sinDato.zoz.warnings.some((w) => w.includes('7% a 15%'))).toBe(false);
     });
 
     test('desglose consistente: bruta − total de pérdidas = neta', () => {
@@ -609,13 +621,13 @@ describe("powerLossService", () => {
       expect(r.zoz.pto_source).toBe('ingresada por el usuario');
     });
 
-    test('pmax_tdp_hp inválida (no numérica o <= 0) cae al default 86% con advertencia', () => {
+    test('pmax_tdp_hp inválida (no numérica o <= 0) cae al default 85% con advertencia', () => {
       const noNumerica = V3({ pmaxTdpHp: 'abc' });
-      expect(noNumerica.zoz.pto_power_hp).toBe(301);
-      expect(noNumerica.zoz.pto_source).toBe('default 86% de la potencia bruta');
+      expect(noNumerica.zoz.pto_power_hp).toBe(297.5);
+      expect(noNumerica.zoz.pto_source).toBe('default 85% de la potencia bruta');
       expect(noNumerica.zoz.warnings.some((w) => w.includes('Pmax TDP inválida'))).toBe(true);
       const cero = V3({ pmaxTdpHp: 0 });
-      expect(cero.zoz.pto_power_hp).toBe(301);
+      expect(cero.zoz.pto_power_hp).toBe(297.5);
       expect(cero.zoz.warnings.some((w) => w.includes('Pmax TDP inválida'))).toBe(true);
     });
 
@@ -637,8 +649,9 @@ describe("powerLossService", () => {
       // El desglose nunca supera la potencia bruta: bruta − total = neta = 0
       expect(r.losses.total).toBeCloseTo(100, 2);
       expect(100 - r.losses.total).toBeCloseTo(r.netPower, 2);
-      // Rodadura + pendiente escaladas cubren exactamente lo disponible (92 con turbo)
-      expect(r.losses.rollingResistance + r.losses.slope).toBeCloseTo(92, 1);
+      // Rodadura + pendiente escaladas cubren lo disponible tras el patinamiento:
+      // 92 (turbo) − 11,04 (Pat. 12 % × 92) = 80,96
+      expect(r.losses.rollingResistance + r.losses.slope).toBeCloseTo(80.96, 1);
     });
   });
 

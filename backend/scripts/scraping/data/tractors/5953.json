@@ -1,0 +1,318 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/9/5/5953-ford-7610.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/9/5/5953-ford-7610-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/9/5/5953-ford-7610-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/9/5/5953-ford-7610-engine.html",
+    "source_id": 5953,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:15:10.107Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5953/5953-photo-001-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 53 KB"
+  },
+  "tractor_data_id": 5953,
+  "name": "Ford 7610",
+  "brand": "Ford",
+  "model": "7610",
+  "years": {
+    "desde": 1982,
+    "hasta": 1992
+  },
+  "model_year": 1982,
+  "engine_power_hp": 97,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 86,
+  "pto_tested_hp": 86.95,
+  "drawbar_tested_hp": 74.08,
+  "weight_kg": 2692,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 39.2,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-30",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1557,
+  "tire_front": {
+    "original": "11.2-24",
+    "radial": false,
+    "width_mm": 284,
+    "rim_in": 24,
+    "diameter_mm_est": 1093,
+    "tipo": "Diagonal",
+    "texto": "11.2-24"
+  },
+  "fuel_consumption_lph": 21.2,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5953/5953-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5953/5953-photo-001-ext045.jpg",
+  "image_url": "/uploads/tractors/td5953.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1982 - 1992",
+          "__seccion_2__": "10 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Original price was $29,750 in 1992"
+        },
+        {
+          "7610": "utility",
+          "7710": "row-crop",
+          "__seccion_1__": "Variants",
+          "7610O": "low-profile"
+        },
+        {
+          "__seccion_1__": "Ford 7610 Engine",
+          "__seccion_2__": "Ford 4.4L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 7610 Transmissions",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "16-speed partial power shift",
+          "__seccion_4__": "16-speed synchromesh partial power shift",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 7610 Power",
+          "Engine (gross)": "97 hp 72.3 kW",
+          "PTO (claimed)": "86 hp 64.1 kW",
+          "Drawbar (tested)": "74.08 hp 55.2 kW",
+          "PTO (tested)": "86.95 hp 64.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential mechanical wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 7610 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "34.5 gal 130.6 L",
+          "Hydraulic system": "15 gal 56.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "15 gal 56.8 L",
+          "Pressure": "2500 psi 172.4 bar",
+          "Valves": "1",
+          "Pump flow": "18.2 gpm 68.9 lpm",
+          "Steering flow": "2.74 gpm 10.4 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at 24\"/610mm)": "4473 lbs 2028 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000",
+          "Engine RPM": "540@1902",
+          "&nbsp": "1000@2059"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "87.5 inches 222 cm",
+          "4WD Wheelbase": "88.8 inches 225 cm",
+          "Weight": "5,935 lbs 2692 kg",
+          "Front tire": "7.50-16",
+          "Rear tire": "16.9-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 7610 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1982": "C681910",
+          "1983": "C695880",
+          "1984": "C713459",
+          "1985": "C737800",
+          "1986": "BA80100",
+          "1987": "BB06622",
+          "__seccion_1__": "7610 Serial Numbers",
+          "Location:": "On plate inside engine compartment and one right-front of transmission.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "51",
+          "Battery volts": "12",
+          "Battery AH": "128"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Farm Loaders published in 1982, by Ford",
+          "__seccion_3__": "Farm Loaders published in 1988, by Ford",
+          "__seccion_4__": "Front-end Loaders published in 1989, by Ford",
+          "__seccion_5__": "Front-end Loaders published in 1992, by Ford",
+          "__seccion_6__": "Front-end Loaders published in 1995, by New Holland",
+          "__seccion_7__": "62-86 hp Tractors published in 1986, by Ford",
+          "__seccion_8__": "If you're looking for tractor quality, look to Ford published in 1982",
+          "__seccion_9__": "62-86hp Tractors published in 1982, by Ford",
+          "__seccion_10__": "62-86hp Tractors published in 1984, by Ford",
+          "__seccion_11__": "62 to 86 PTO hp Tractors published in 1989, by Ford",
+          "__seccion_12__": "Salesman's Reference published in 1981, by Ford",
+          "__seccion_13__": "10 Series Tractors Repair Manual (SE 3870) published in 1989",
+          "__seccion_14__": "Tobacco Specials published in 1982, by Ford",
+          "__seccion_15__": "Tractor Buyer's Guide published in 1989, by Ford",
+          "__seccion_16__": "Sales Reference Guide published in 1986, by Ford"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 29, 2024",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1982 - 1992",
+          "__seccion_2__": "10 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Ford 7610 Tires",
+          "Ag front": "7.50-18 (2WD)",
+          "&nbsp": "16.9-38",
+          "Ag rear": "18.4-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "87.5 inches 222 cm",
+          "4WD Wheelbase": "88.8 inches 225 cm",
+          "2WD Length": "145.2 inches 368 cm",
+          "4WD Length": "153.1 inches 388 cm",
+          "Width": "76.9 inches 195 cm",
+          "Shipping weight": "5,935 lbs 2692 kg",
+          "Ballasted weight": "11,000 lbs 4989 kg",
+          "2WD Clearance (front axle)": "18.4 inches 46 cm",
+          "4WD Clearance (front axle)": "18.6 inches 47 cm",
+          "Clearance (rear axle)": "24.2 inches 61 cm",
+          "2WD Front tread": "52 to 80 inches 132 to 203 cm",
+          "4WD Front tread": "60 to 79 inches 152 to 200 cm",
+          "Rear tread": "56 to 90 inches 142 to 228 cm (power)"
+        },
+        {
+          "__seccion_1__": "Ford 7610 Height",
+          "Steering wheel": "68.2 inches 173 cm",
+          "ROPS": "95.9 inches 243 cm",
+          "Cab": "106.6 inches 270 cm",
+          "Exhaust": "96 inches 243 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 29, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1982 - 1992",
+          "__seccion_2__": "10 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 1432: diesel 16/4 4WD",
+          "__seccion_3__": "NTTL 1433: diesel 16/8 powershift 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1432"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1432",
+          "__seccion_2__": "Diesel 16/4 4WD April 14 - May 10, 1982 Link: Nebraska Tractor Test 1432 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "86.95 hp 64.8 kW",
+          "Fuel use": "5.5 gal/hour 20.8 l/hour",
+          "Power at rated PTO speed": "86.79 hp 64.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "74.08 hp 55.2 kW",
+          "__seccion_5__": "Gear 6L used for power test.",
+          "Max pull": "8,804 lbs 3993 kg",
+          "__seccion_6__": "Gear 3L used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1433"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1433",
+          "__seccion_2__": "Diesel 16/8 powershift 2WD April 2 - May 3, 1982 Link: Nebraska Tractor Test 1433 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "86.62 hp 64.6 kW",
+          "Fuel use": "5.3 gal/hour 20.1 l/hour",
+          "Power at rated PTO speed": "86.55 hp 64.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "72.33 hp 53.9 kW",
+          "__seccion_5__": "Gear 6L used for power test.",
+          "Max pull": "8,638 lbs 3918 kg",
+          "__seccion_6__": "Gear 3L used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 29, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1982 - 1992",
+          "__seccion_2__": "10 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "268 ci 4.4 L",
+          "Bore/Stroke": "4.4x4.4 inches 112 x 112 mm",
+          "Power (gross)": "97 hp 72.3 kW",
+          "Compression": "15.6:1",
+          "Rated RPM": "2100",
+          "Torque": "278 lb-ft 377.0 Nm",
+          "Starter volts": "12",
+          "Oil capacity": "9 qts 8.5 L",
+          "Coolant capacity": "18 qts 17.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 29, 2024"
+        }
+      ]
+    }
+  }
+}

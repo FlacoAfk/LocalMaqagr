@@ -1,0 +1,239 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/2/8/5286-massey-ferguson-350.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/2/8/5286-massey-ferguson-350-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/2/8/5286-massey-ferguson-350-engine.html",
+    "source_id": 5286,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:36:46.865Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7720/7720-serial-300x250.jpg",
+    "foto_calidad": "webp 960px/q65 → 15 KB"
+  },
+  "tractor_data_id": 5286,
+  "name": "Massey Ferguson 350",
+  "brand": "Massey Ferguson",
+  "model": "350",
+  "years": {
+    "desde": 1987,
+    "hasta": 1994
+  },
+  "model_year": 1987,
+  "engine_power_hp": 46,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 41,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2859,
+  "weight_basis": "4WD Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 15,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-32",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1348,
+  "tire_front": {
+    "original": "8.3-24",
+    "radial": false,
+    "width_mm": 211,
+    "rim_in": 24,
+    "diameter_mm_est": 968,
+    "tipo": "Diagonal",
+    "texto": "8.3-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F005/5286/5286-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7720/7720-serial-300x250.jpg",
+  "image_url": "/uploads/tractors/td5286.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1987 - 1994",
+          "__seccion_2__": "300 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Coventry, England"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 350 Engine",
+          "__seccion_2__": "Perkins 2.5L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 350 Transmissions",
+          "__seccion_2__": "8-speed synchronized",
+          "__seccion_3__": "8-speed mechanical shuttle",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 350 Power",
+          "Engine": "46 hp 34.3 kW",
+          "PTO (claimed)": "41 hp 30.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic Opt Optional",
+          "__seccion_5__": "Two- or four-post ROPS. Cab available."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 350 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "18 gal 68.1 L",
+          "Hydraulic system": "12.5 gal 47.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "12.5 gal 47.3 L",
+          "Pressure": "3000 psi 206.8 bar",
+          "Pump flow": "9.2 gpm (aux pump) 34.8 lpm",
+          "&nbsp": "4.5 gpm (hitch) 17.0 lpm",
+          "Total flow": "13.7 gpm 51.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position and draft control",
+          "Rear lift (at ends)": "4729 lbs * Capacity with links horizontal 2145 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "&nbsp": "independent Opt Optional",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1789"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "76 inches 193 cm",
+          "4WD Wheelbase": "84 inches 213 cm",
+          "Weight": "5859 to 6303 pounds",
+          "Front tire": "7.50-16",
+          "2WD Rear tire": "12.4-32",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "350 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the tractor, near the brake pedals."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "45",
+          "Battery CCA": "420",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "300 published in 1986, by Massey Ferguson",
+          "__seccion_3__": "300 published in 1988, by Massey Ferguson",
+          "__seccion_4__": "300 Series Tractors Data Book published in 1992, by Massey Ferguson",
+          "__seccion_5__": "M-F 300 Series Tractor Workshop Manual (1449 244M1) published in 1991",
+          "__seccion_6__": "350 published in 1986, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 6, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1987 - 1994",
+          "__seccion_2__": "300 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 350 Tires",
+          "2WD Standard tires (ag)": "Front: 7.50-16. Rear: 12.4-32",
+          "4WD Standard tires (ag)": "Front: 8.3-24. Rear: 12.4-32"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "76 inches 193 cm",
+          "4WD Wheelbase": "84 inches 213 cm",
+          "Length": "135 inches 342 cm",
+          "Width": "73.7 inches 187 cm",
+          "2WD Operating weight": "5859 lbs 2657 kg",
+          "4WD Operating weight": "6303 lbs 2859 kg"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 350 Height",
+          "Steering wheel": "65 inches 165 cm",
+          "ROPS": "95 inches 241 cm",
+          "Cab": "93.1 inches 236 cm",
+          "Exhaust": "93.3 inches 236 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 6, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1987 - 1994",
+          "__seccion_2__": "300 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins AD3.152",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "152.7 ci 2.5 L",
+          "Bore/Stroke": "3.60x5.00 inches 91 x 127 mm",
+          "Power": "46 hp 34.3 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dry element",
+          "Compression": "16:1",
+          "Rated RPM": "2250",
+          "Idle RPM": "750-2470",
+          "Torque": "126 lb-ft 170.9 Nm",
+          "Torque RPM": "1300",
+          "Firing order": "1-2-3",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Coolant capacity": "10.4 qts 9.8 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "7.2 qts 6.8 L",
+          "Oil change": "250 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 6, 2025"
+        }
+      ]
+    }
+  }
+}

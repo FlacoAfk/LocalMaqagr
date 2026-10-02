@@ -1,0 +1,252 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/8/5/6855-john-deere-7215r.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/8/5/6855-john-deere-7215r-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/006/8/5/6855-john-deere-7215r-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/8/5/6855-john-deere-7215r-engine.html",
+    "source_id": 6855,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:51:38.643Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6855/6855-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 94 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 6855,
+  "name": "John Deere 7215R",
+  "brand": "John Deere",
+  "model": "7215R",
+  "years": {
+    "desde": 2011,
+    "hasta": 2013
+  },
+  "model_year": 2011,
+  "engine_power_hp": 215,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 178,
+  "pto_tested_hp": 216.29,
+  "drawbar_tested_hp": 172.34,
+  "weight_kg": 11945,
+  "weight_basis": "TLS Plus",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 91.9,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 44.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F006/6855/6855-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6855/6855-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td6855.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "7R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA"
+        },
+        {
+          "__seccion_1__": "John Deere 7215R Engine",
+          "__seccion_2__": "John Deere 6.8L 6-cyl diesel",
+          "Fuel tank": "133 gal (PowrQuad) 503.4 L",
+          "&nbsp": "138 gal (IVT) 522.3 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7215R Transmissions",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "20-speed partial power shift",
+          "__seccion_4__": "20-speed power shift",
+          "__seccion_5__": "infinitely variable transmission",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7215R Power",
+          "Engine (gross)": "215 hp 160.3 kW",
+          "Engine (max)": "237 hp 176.7 kW",
+          "PTO (claimed)": "178 hp 132.7 kW",
+          "Drawbar (tested)": "172.34 hp 128.5 kW",
+          "PTO (tested)": "216.29 hp 161.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "full-locking electrohydraulic rear. Limited slip front axle. Electrohydraulic on TLS Plus front axle with front brakes.",
+          "Steering": "hydrostatic power",
+          "&nbsp": "ActiveCommand Steering optional",
+          "__seccion_3__": "CommandView II Cab. AutoTrac ready. ISO 1178.3 ISOBUS connection. JDLink and Service ADVISOR Remote available."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 7215R photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed-center pressure and flow compensated (PFC)",
+          "Pressure": "2958 psi 204.0 bar",
+          "Rear valves": "6 (max)",
+          "Mid valves": "0 to 2",
+          "Pump flow": "32 gpm 121.1 lpm",
+          "&nbsp": "59 gpm (optional) 223.3 lpm",
+          "SCV flow": "35 gpm 132.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "3/3N",
+          "Control": "electrohydraulic sensing",
+          "Rear lift": "12,000 lbs 5443 kg",
+          "&nbsp": "15,200 lbs (optional) 6894 kg",
+          "Front Hitch": "3N (optional)",
+          "Front lift": "11,464 lbs 5200 kg",
+          "Drawbar": "Category 3 drawbar standard with 4,050 to 6,000 pound rating. High-capacity 10,000 Cat. 3 drawbar optional."
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (1.75)",
+          "&nbsp": "1000 (1.75)",
+          "Engine RPM": "540@1950",
+          "Front PTO": "optional",
+          "Front PTO Type": "1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "115.2 inches 292 cm",
+          "Weight": "23080 to 26335 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7215R attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "200",
+          "Batteries": "2",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 6, 2023",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "7R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 7215R Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "115.2 inches 292 cm",
+          "Front axle": "Triple-Link Suspension Plus optional",
+          "Standard axle rear axle": "3.94 by 118.5 inches 100 by 3009 mm",
+          "Rear axle": "3.94 by 110.5 inches 100 by 2806 mm",
+          "Front tread": "60 to 88 inches 152 to 223 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 7215R Weight",
+          "__seccion_2__": "23,080 lbs 10469 kg",
+          "TLS Plus": "26,335 lbs 11945 kg",
+          "Max capacity": "31,967 lbs 14500 kg",
+          "Max front axle": "14,330 lbs 6500 kg",
+          "Max rear axle": "23,149 lbs 10500 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 6, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "7R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2055"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2055",
+          "__seccion_2__": "Diesel CommandQuad 4WD October 12 - 14, 2011 Link: OCED Tractor Test 2055 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "172.34 hp 128.5 kW",
+          "Fuel use": "10.9 gal/hour 41.3 l/hour",
+          "Power at rated engine speed": "190.20 hp 141.8 kW",
+          "Power at rated PTO speed": "213.07 hp 158.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "20652 lbs 9367 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 6, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2011 - 2013",
+          "__seccion_2__": "7R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech PSX",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "414 ci 6.8 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Tier 4A",
+          "Emission control": "exhaust gas recirculation (EGR)",
+          "Rated Power (gross)": "215 hp 160.3 kW",
+          "Maximum Power (gross)": "237 hp 176.7 kW",
+          "Fuel system": "electronic high-pressure common rail",
+          "Air cleaner": "dual stage dry",
+          "Compression": "17.2:1",
+          "Rated RPM": "2100",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 6, 2023"
+        }
+      ]
+    }
+  }
+}

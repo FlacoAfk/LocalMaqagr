@@ -1,0 +1,235 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/9/1/912-massey-ferguson-8270.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/9/1/912-massey-ferguson-8270-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/9/1/912-massey-ferguson-8270-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/9/1/912-massey-ferguson-8270-engine.html",
+    "source_id": 912,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:30:35.681Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/912/912-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 69 KB"
+  },
+  "tractor_data_id": 912,
+  "name": "Massey Ferguson 8270",
+  "brand": "Massey Ferguson",
+  "model": "8270",
+  "years": {
+    "desde": 1999,
+    "hasta": 2003
+  },
+  "model_year": 1999,
+  "engine_power_hp": 200,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 200,
+  "pto_tested_hp": 216.7,
+  "drawbar_tested_hp": 165.1,
+  "weight_kg": 9795,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 92.4,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 46.9,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/912/912-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/912/912-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td912.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1999 - 2003",
+          "__seccion_2__": "8200 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Beauvais, France",
+          "Original price": "$118,100"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 8270 Engine",
+          "__seccion_2__": "Sisu 8.4L 6-cyl diesel",
+          "Fuel tank": "120 gal 454.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 8270 Transmission",
+          "__seccion_2__": "18-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 8270 Power",
+          "PTO (claimed)": "200 hp 149.1 kW",
+          "Drawbar (tested)": "165.1 hp 123.1 kW",
+          "PTO (tested)": "216.7 hp 161.6 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Independent hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 8270 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed-center PFC",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "4",
+          "Pump flow": "29 gpm 109.8 lpm",
+          "&nbsp": "39 gpm Opt Optional 147.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Rear lift (at ends)": "22046 lbs 10000 kg",
+          "Rear lift (at 24\"/610mm)": "16000 lbs 7257 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000",
+          "Engine RPM": "1000@2090"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "121 inches 307 cm",
+          "Weight": "21595 lbs 9795 kg",
+          "Front tire": "16.9R-28",
+          "Rear tire": "18.4R-42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 8270 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "130",
+          "Batteries": "2",
+          "Battery CCA": "950",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF Loaders for Compact & Agricultural Tractors published in 2003, by Massey Ferguson",
+          "__seccion_3__": "MF 8200 - New cab model tractors from 135-225 hp published in 1999, by Massey Ferguson",
+          "__seccion_4__": "MF 8200 Series Tractors published in 1999, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on February 23, 2026"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1999 - 2003",
+          "__seccion_2__": "8200 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 8270 Tires",
+          "Ag front": "16.9R-28",
+          "Ag rear": "18.4R-42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "121 inches 307 cm",
+          "Length": "203 inches 515 cm",
+          "Height (cab)": "121 inches 307 cm",
+          "Height (exhaust)": "123 inches 312 cm",
+          "Operating weight": "21595 lbs 9795 kg",
+          "Clearance (drawbar)": "17 inches 43 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 23, 2026"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1999 - 2003",
+          "__seccion_2__": "8200 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1770"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1770",
+          "__seccion_2__": "Diesel 18-speed 4WD April 1 - May 1, 1998 Link: OCED Tractor Test 1770 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "165.1 hp 123.1 kW",
+          "Fuel use": "13.2 gal/hour 50.0 l/hour",
+          "Power at rated engine speed": "205.4 hp 153.2 kW",
+          "Power at rated PTO speed": "212.3 hp 158.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 10 used for power test.",
+          "Max pull": "20765 lbs 9419 kg",
+          "__seccion_6__": "Gear 6 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 23, 2026"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1999 - 2003",
+          "__seccion_2__": "8200 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Sisu 645",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "513.8 ci 8.4 L",
+          "Bore/Stroke": "4.370x5.709 inches 111 x 145 mm",
+          "Air cleaner": "dual paper elements",
+          "Compression": "16.5:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12",
+          "Coolant capacity": "32 qts 30.3 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 23, 2026"
+        }
+      ]
+    }
+  }
+}

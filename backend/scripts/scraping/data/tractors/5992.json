@@ -1,0 +1,256 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/9/9/5992-caseih-mxu115.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/9/9/5992-caseih-mxu115-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/9/9/5992-caseih-mxu115-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/9/9/5992-caseih-mxu115-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 5992,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:45:47.892Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5992/5992-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 103 KB"
+  },
+  "tractor_data_id": 5992,
+  "name": "CaseIH MXU115",
+  "brand": "CaseIH",
+  "model": "MXU115",
+  "years": {
+    "desde": 2005,
+    "hasta": 2006
+  },
+  "model_year": 2005,
+  "engine_power_hp": 116,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 95,
+  "pto_tested_hp": 104.7,
+  "drawbar_tested_hp": 93.4,
+  "weight_kg": 5370,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 55,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 18.4R38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "14.9R28",
+    "radial": true,
+    "width_mm": 378,
+    "rim_in": 28,
+    "diameter_mm_est": 1355,
+    "tipo": "Radial",
+    "texto": "14.9R28"
+  },
+  "fuel_consumption_lph": 24.2,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5992/5992-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5992/5992-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td5992.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2005 - 2006",
+          "__seccion_2__": "MXU Maxxum Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Basildon, England"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "MXU115 Limited": "premium model",
+          "MXU115 Value": "economy model",
+          "TS115A": "similar New Holland model"
+        },
+        {
+          "__seccion_1__": "CaseIH MXU115 Engine",
+          "__seccion_2__": "CNH 6.7L 6-cyl diesel",
+          "Fuel tank": "67 gal 253.6 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH MXU115 Transmissions",
+          "__seccion_2__": "16-speed synchromesh",
+          "__seccion_3__": "16-speed partial powershift",
+          "__seccion_4__": "24-speed partial powershift",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH MXU115 Power",
+          "Engine (gross)": "116 hp 86.5 kW",
+          "PTO (claimed)": "95 hp 70.8 kW",
+          "Drawbar (tested)": "93.4 hp 69.6 kW",
+          "PTO (tested)": "104.7 hp 78.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary inboard",
+          "Differential lock": "electro-hydraulic",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS. Cab available with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH MXU115 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "&nbsp": "37 gpm (closed center) Opt Optional 140.0 lpm",
+          "Valves": "2 to 4",
+          "Pump flow": "16.6 gpm (open center) 62.8 lpm",
+          "Total flow": "27.1 gpm (open center) 102.6 lpm",
+          "Steering flow": "10.5 gpm 39.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/IIIN",
+          "Control": "mechanical lower-link sensing",
+          "&nbsp": "12185 lbs Opt Optional 5527 kg",
+          "Rear lift (at 24\"/610mm)": "4878 lbs 2212 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "104.4 inches 265 cm",
+          "4WD Wheelbase": "104.7 inches 265 cm",
+          "Weight": "11840 lbs 5370 kg",
+          "Front tire": "10.00-16",
+          "2WD Rear tire": "18.4R38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "CaseIH MXU115 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "Battery CCA": "800",
+          "&nbsp": "1300 Opt Optional",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MXU Series Maxxum Tractors published in 2005, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on March 24, 2026"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2005 - 2006",
+          "__seccion_2__": "MXU Maxxum Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH MXU115 Tires",
+          "2WD Standard tires (ag)": "Front: 10.00-16. Rear: 18.4R38",
+          "4WD Standard tires (ag)": "Front: 14.9R28. Rear: 18.4R38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "104.4 inches 265 cm",
+          "4WD Wheelbase": "104.7 inches 265 cm",
+          "Height (ROPS)": "114.1 inches 289 cm",
+          "Height (cab)": "111 inches 281 cm",
+          "Operating weight": "11840 lbs (4WD ROPS) 5370 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 24, 2026"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2005 - 2006",
+          "__seccion_2__": "MXU Maxxum Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2228"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2228",
+          "__seccion_2__": "Diesel 24-speed 4WD September 2004 - November 2004, Link: OCED Tractor Test 2228 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "93.4 hp 69.6 kW",
+          "Fuel use": "7.5 gal/hour 28.4 l/hour",
+          "Power at rated engine speed": "101.0 hp 75.3 kW",
+          "Power at rated PTO speed": "103.7 hp 77.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 12 used for power test.",
+          "Max pull": "12,365 lbs 5608 kg",
+          "__seccion_6__": "Gear 1-I-Low used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 24, 2026"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2005 - 2006",
+          "__seccion_2__": "MXU Maxxum Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CNH",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "410.6 ci 6.7 L",
+          "Bore/Stroke": "4.094x5.196 inches 104 x 132 mm",
+          "Power (gross)": "116 hp 86.5 kW",
+          "Air cleaner": "dual paper elements",
+          "Pre-heating": "grid heater",
+          "Compression": "17.0:1",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 24, 2026"
+        }
+      ]
+    }
+  }
+}

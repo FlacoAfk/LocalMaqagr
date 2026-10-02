@@ -1,0 +1,328 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/5/253-ford-1710.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/5/253-ford-1710-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/2/5/253-ford-1710-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/5/253-ford-1710-engine.html",
+    "source_id": 253,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:10:07.289Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/253/253-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 96 KB"
+  },
+  "tractor_data_id": 253,
+  "name": "Ford 1710",
+  "brand": "Shibaura",
+  "model": "1710",
+  "years": {
+    "desde": 1983,
+    "hasta": 1986
+  },
+  "model_year": 1983,
+  "engine_power_hp": 26,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": 23.5,
+  "pto_tested_hp": 23.88,
+  "drawbar_tested_hp": 20.48,
+  "weight_kg": 1220,
+  "weight_basis": "4WD",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 12,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 11.2-24",
+  "tire_width_mm": 284,
+  "tire_diameter_mm": 1093,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": 7.2,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/253/253-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/253/253-photo-001.jpg",
+  "image_url": "/uploads/tractors/td253.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Ford",
+          "Manufacturer": "Shibaura",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan",
+          "__seccion_4__": "Original price was $8,859 in 1986"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "1710 Offset": "cultivating tractor"
+        },
+        {
+          "__seccion_1__": "Ford 1710 Engine",
+          "__seccion_2__": "Shibaura 1.4L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 1710 Transmissions",
+          "__seccion_2__": "12-speed unsynchronized gear",
+          "__seccion_3__": "12-speed partially synchronized",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 1710 Power",
+          "Engine (net)": "26 hp 19.4 kW",
+          "PTO (claimed)": "23.5 hp 17.5 kW",
+          "Drawbar (tested)": "20.48 hp 15.3 kW",
+          "PTO (tested)": "23.88 hp 17.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "spur gear",
+          "Differential lock": "mechanical rear",
+          "2WD Steering": "manual",
+          "4WD ((Optional with two-wheel drive.)) Steering": "power",
+          "__seccion_3__": "Differential mechanical drum brakes",
+          "__seccion_4__": "Two-post fixed ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 1710 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "7.7 gal 29.1 L",
+          "Hydraulic system": "4.75 gal 18.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "4.75 gal 18.0 L",
+          "Pressure": "2130 psi 146.9 bar",
+          "Total flow": "7.8 gpm 29.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at 24\"/610mm)": "1575 lbs 714 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "&nbsp": "live Opt Optional",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2420"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "63 inches 160 cm",
+          "Weight": "2425 to 2690 pounds",
+          "Front tire": "5.00-15",
+          "2WD Rear tire": "11.2-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 1710 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "snowblower",
+          "__seccion_4__": "front-end loader",
+          "__seccion_5__": "backhoe",
+          "__seccion_6__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "1710 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the left side of the Ford 1710, near the clutch pedal."
+        },
+        {
+          "1983": "UL00001",
+          "1984": "UL03489",
+          "1985": "UL07985",
+          "1986": "UL13798",
+          "__seccion_1__": "1710 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "35",
+          "Charging volts": "12",
+          "Battery volts": "12",
+          "Battery AH": "72"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Ford Shop Manual by Peter Letourneau",
+          "__seccion_3__": "Farm Loaders published in 1988, by Ford",
+          "__seccion_4__": "1000 Series Tractors published in 1985, by Ford",
+          "__seccion_5__": "1000 Series Tractors published in 1987, by Ford",
+          "__seccion_6__": "Salesman's Reference published in 1986, by Ford",
+          "__seccion_7__": "Repair Manual 1010 Series Tractors (SE 4301) published in 1986",
+          "__seccion_8__": "Sales Reference Guide published in 1986, by Ford"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on May 14, 2025",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Ford 1710 Tires",
+          "2WD Standard tires (ag)": "Front: 5.00-15. Rear: 11.2-24",
+          "4WD Standard tires (ag)": "Front: 6.00-16. Rear: 11.2-24",
+          "2WD Lawn/turf front": "23x8.50-12",
+          "4WD Lawn/turf front": "27x8.50-15",
+          "Lawn/turf rear": "13.6x16"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "63 inches 160 cm",
+          "Length": "117.5 inches 298 cm",
+          "Width": "54.7 inches 138 cm",
+          "Ground clearance": "13.9 inches 35 cm",
+          "2WD Front tread": "43.5 to 57.5 inches 110 to 146 cm",
+          "4WD Front tread": "45.3 inches 115 cm",
+          "Rear tread": "43.3 to 58.7 inches 109 to 149 cm"
+        },
+        {
+          "__seccion_1__": "Ford 1710 Weight",
+          "2WD": "2470 lbs 1120 kg",
+          "4WD": "2690 lbs 1220 kg",
+          "Operating": "2425 lbs 1099 kg",
+          "Ballasted": "3510 lbs 1592 kg"
+        },
+        {
+          "__seccion_1__": "Ford 1710 Height",
+          "2WD Steering wheel": "57.3 inches 145 cm",
+          "4WD Steering wheel": "57.9 inches 147 cm",
+          "ROPS": "84.8 inches 215 cm",
+          "2WD Exhaust": "73.3 inches 186 cm",
+          "4WD Exhaust": "74.5 inches 189 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 1502: diesel 12/4 gear 2WD",
+          "__seccion_3__": "NTTL 1503: diesel 12/4 synchro 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1502"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1502",
+          "__seccion_2__": "Diesel 12/4 gear 2WD October 17 - 31, 1983 Link: Nebraska Tractor Test 1502 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "23.88 hp 17.8 kW",
+          "Fuel use": "1.8 gal/hour 6.8 l/hour",
+          "Power at rated PTO speed": "22.19 hp 16.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "19.98 hp 14.9 kW",
+          "__seccion_5__": "Gear 3-3 used for power test.",
+          "Max pull": "2,700 lbs 1224 kg",
+          "__seccion_6__": "Gear 2-3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1503"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1503",
+          "__seccion_2__": "Diesel 12/4 synchro 2WD October 17 - 31, 1983 Link: Nebraska Tractor Test 1503 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "23.79 hp 17.7 kW",
+          "Fuel use": "1.9 gal/hour 7.2 l/hour",
+          "Power at rated PTO speed": "22.34 hp 16.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "20.48 hp 15.3 kW",
+          "__seccion_5__": "Gear 3-3 used for power test.",
+          "Max pull": "2,680 lbs 1215 kg",
+          "__seccion_6__": "Gear 2-3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibaura H843",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "85.2 ci 1.4 L",
+          "Bore/Stroke": "3.31x3.31 inches 84 x 84 mm",
+          "Power (net)": "26 hp 19.4 kW",
+          "Fuel use": "1.873 gal/hour 7.1 l/hour",
+          "Air cleaner": "dry",
+          "Pre-heating": "glow plugs",
+          "Compression": "23:1",
+          "Rated RPM": "2700",
+          "Idle RPM": "750-2875",
+          "Torque": "55.7 lb-ft 75.5 Nm",
+          "Torque RPM": "1500",
+          "Firing order": "1-2-3",
+          "Starter volts": "12",
+          "Oil capacity": "5.6 qts 5.3 L",
+          "Coolant capacity": "4.2 qts 4.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2025"
+        }
+      ]
+    }
+  }
+}

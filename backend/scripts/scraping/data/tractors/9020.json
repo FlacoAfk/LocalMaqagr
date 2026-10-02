@@ -1,0 +1,275 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/009/0/2/9020-new-holland-ts100a.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/009/0/2/9020-new-holland-ts100a-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/009/0/2/9020-new-holland-ts100a-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/009/0/2/9020-new-holland-ts100a-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 9020,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:38:43.778Z",
+    "foto_original": "https://www.tractordata.com/photos/F009/9020/9020-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 50 KB"
+  },
+  "tractor_data_id": 9020,
+  "name": "New Holland TS100A",
+  "brand": "New Holland (a part of CNH)",
+  "model": "holland ts100a",
+  "years": {
+    "desde": 2003,
+    "hasta": 2005
+  },
+  "model_year": 2003,
+  "engine_power_hp": 100,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 80,
+  "pto_tested_hp": 87.7,
+  "drawbar_tested_hp": 74.7,
+  "weight_kg": 4560,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 53.6,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 16.9R38",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1695,
+  "tire_front": {
+    "original": "13.6R28",
+    "radial": true,
+    "width_mm": 345,
+    "rim_in": 28,
+    "diameter_mm_est": 1298,
+    "tipo": "Radial",
+    "texto": "13.6R28"
+  },
+  "fuel_consumption_lph": 20.8,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F009/9020/9020-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F009/9020/9020-photo-001.jpg",
+  "image_url": "/uploads/tractors/td9020.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2003 - 2005",
+          "__seccion_2__": "TS-A Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland (a part of CNH)",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Basildon, England"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "TS100A Delta": "economy model",
+          "TS100A Plus": "premium model"
+        },
+        {
+          "__seccion_1__": "New Holland TS100A Engine",
+          "__seccion_2__": "Iveco 4.5L 4-cyl diesel",
+          "Fuel tank": "47.6 gal 180.2 L",
+          "SuperSteer Fuel tank": "41.2 gal 155.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TS100A Transmissions",
+          "__seccion_2__": "12-speed partially synchronized",
+          "__seccion_3__": "24-speed two-speed power shift",
+          "__seccion_4__": "16-speed four-speed power shift",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TS100A Power",
+          "Engine (gross)": "100 hp 74.6 kW",
+          "PTO (claimed)": "80 hp 59.7 kW",
+          "Drawbar (tested)": "74.7 hp 55.7 kW",
+          "PTO (tested)": "87.7 hp 65.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "electro-hydraulic rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS. Cab available with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland TS100A photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "&nbsp": "26.5 gpm (closed center) 100.3 lpm",
+          "Pressure": "2755 psi 190.0 bar",
+          "Rear valves": "2 to 4",
+          "Mid valves": "2 Opt Optional",
+          "Pump flow": "16.6 gpm (open center) 62.8 lpm",
+          "Steering flow": "10.5 gpm 39.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at ends)": "13708.3 lbs 6218 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@1969",
+          "&nbsp": "1000@2120"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "95 inches 241 cm",
+          "Terraglide Wheelbase": "95.3 inches 242 cm",
+          "SuperSteer Wheelbase": "99.2 inches 251 cm",
+          "Weight": "10053 lbs 4560 kg",
+          "Front tire": "13.6R28",
+          "Rear tire": "16.9R38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "New Holland TS100A attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "TS100A Serial Numbers",
+          "Location:": "Serial number decal on the left side of the tractor, on the lower part of the radiator support bracket."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "70",
+          "Cab Charging amps": "120",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "TS-A Series Tractors published in 2003, by New Holland",
+          "__seccion_3__": "TS-A Series Tractors published in 2004, by New Holland",
+          "__seccion_4__": "TS-A Tractors published in 2003, by New Holland",
+          "__seccion_5__": "TS-A Delta Tractors published in 2006, by New Holland",
+          "__seccion_6__": "TS-A Plus Tractors published in 2006, by New Holland",
+          "__seccion_7__": "TS-A Series Tractors published in 2006, by New Holland",
+          "__seccion_8__": "Operator's Manual TS-A Series Tractors (82999130) published in 2005",
+          "__seccion_9__": "Operator's Manual TS-A Series Tractors (87037956) published in 2003"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on May 14, 2026",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2003 - 2005",
+          "__seccion_2__": "TS-A Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "New Holland TS100A Tires",
+          "Standard tires (ag)": "Front: 13.6R28. Rear: 16.9R38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "95 inches 241 cm",
+          "Terraglide Wheelbase": "95.3 inches 242 cm",
+          "SuperSteer Wheelbase": "99.2 inches 251 cm",
+          "Length": "169 inches 429 cm",
+          "Width": "73.7 inches 187 cm",
+          "Height": "113.2 inches 287 cm",
+          "Shipping weight": "10053 lbs 4560 kg",
+          "Max weight": "17857 lbs 8099 kg",
+          "__seccion_2__": "Flange rear axle",
+          "Bar rear axle": "98 inch length 2489 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2026"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2003 - 2005",
+          "__seccion_2__": "TS-A Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2241"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2241",
+          "__seccion_2__": "Diesel 12-speed 4WD November 2004 - January 2005, Link: OCED Tractor Test 2241 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "74.7 hp 55.7 kW",
+          "Fuel use": "5.8 gal/hour 22.0 l/hour",
+          "Power at rated engine speed": "86.9 hp 64.8 kW",
+          "Power at rated PTO speed": "87.2 hp 65.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 2II used for power test.",
+          "Max pull": "12050 lbs 5465 kg",
+          "__seccion_6__": "Gear 1I used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2026"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2003 - 2005",
+          "__seccion_2__": "TS-A Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iveco NEF F4C",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "4-cylinder 8-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "273.7 ci 4.5 L",
+          "Bore/Stroke": "4.09x5.20 inches 104 x 132 mm",
+          "Power (gross)": "100 hp 74.6 kW",
+          "Fuel system": "mechanical direct injection",
+          "Air cleaner": "dual element dry",
+          "Pre-heating": "grid heater",
+          "Rated RPM": "2200",
+          "Plus Torque": "320.8 lb-ft 435.0 Nm",
+          "Delta Torque": "293.5 lb-ft 398.0 Nm",
+          "Torque RPM": "1400",
+          "Firing order": "1-3-4-2",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 14, 2026"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/2/5/10256-john-deere-30a.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/2/5/10256-john-deere-30a-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/2/5/10256-john-deere-30a-engine.html",
+    "source_id": 10256,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:06:55.817Z"
+  },
+  "tractor_data_id": 10256,
+  "name": "John Deere 30A",
+  "brand": "Goldini",
+  "model": "deere 30a",
+  "years": {
+    "desde": 2005,
+    "hasta": 2010
+  },
+  "model_year": 2005,
+  "engine_power_hp": 25,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": null,
+  "weight_basis": null,
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 9.2,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": null,
+  "photo_url_large": null,
+  "image_url": null,
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2005 - 2010",
+          "__seccion_2__": "Milenio A Series",
+          "__seccion_3__": "Orchard/Vineyard tractor",
+          "__seccion_4__": "Goldini built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "John Deere",
+          "Manufacturer": "Goldini",
+          "__seccion_2__": "Orchard/Vineyard tractor",
+          "__seccion_3__": "Built in Italy"
+        },
+        {
+          "__seccion_1__": "John Deere 30A Engine",
+          "__seccion_2__": "Lombardini 1.2L 2-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 30A Transmission",
+          "__seccion_2__": "6-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 30A Power",
+          "Engine": "25 hp 18.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Two-post mid-mount folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 30A are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 17, 2019",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2005 - 2010",
+          "__seccion_2__": "Milenio A Series",
+          "__seccion_3__": "Orchard/Vineyard tractor",
+          "__seccion_4__": "Goldini built"
+        },
+        {
+          "__seccion_1__": "John Deere 30A Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 17, 2019"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2005 - 2010",
+          "__seccion_2__": "Milenio A Series",
+          "__seccion_3__": "Orchard/Vineyard tractor",
+          "__seccion_4__": "Goldini built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Lombardini 9LD 626/2",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "air-cooled",
+          "Displacement": "76.2 ci 1.2 L",
+          "Bore/Stroke": "3.74x3.46 inches 95 x 88 mm",
+          "Power": "25 hp 18.6 kW",
+          "Air cleaner": "dry",
+          "Rated RPM": "2800",
+          "Torque": "49.4 lb-ft 67.0 Nm",
+          "Torque RPM": "2000",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 17, 2019"
+        }
+      ]
+    }
+  }
+}

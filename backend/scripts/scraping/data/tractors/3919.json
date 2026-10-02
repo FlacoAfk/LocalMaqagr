@@ -1,0 +1,243 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/9/1/3919-massey-ferguson-5435.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/9/1/3919-massey-ferguson-5435-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/9/1/3919-massey-ferguson-5435-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/9/1/3919-massey-ferguson-5435-engine.html",
+    "source_id": 3919,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:33:42.533Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3919/3919-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 3919,
+  "name": "Massey Ferguson 5435",
+  "brand": "Massey Ferguson",
+  "model": "5435",
+  "years": {
+    "desde": 2004,
+    "hasta": 2008
+  },
+  "model_year": 2004,
+  "engine_power_hp": 75,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 60,
+  "pto_tested_hp": 61.7,
+  "drawbar_tested_hp": 48.5,
+  "weight_kg": 4234,
+  "weight_basis": "4WD Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 22.6,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 18.4R34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "14.9R24",
+    "radial": true,
+    "width_mm": 378,
+    "rim_in": 24,
+    "diameter_mm_est": 1253,
+    "tipo": "Radial",
+    "texto": "14.9R24"
+  },
+  "fuel_consumption_lph": 15.1,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F003/3919/3919-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td3919.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2004 - 2008",
+          "__seccion_2__": "5400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Beauvais, France"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5435 Engine",
+          "__seccion_2__": "Perkins 4.4L 4-cyl diesel",
+          "Fuel tank": "40 gal 151.4 L",
+          "&nbsp": "53.2 gal (with optional tank) 201.4 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5435 Transmission",
+          "__seccion_2__": "16-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5435 Power",
+          "Engine": "75 hp 55.9 kW",
+          "Drawbar (claimed)": "49 hp 36.5 kW",
+          "PTO (claimed)": "60 hp 44.7 kW",
+          "Drawbar (tested)": "48.5 hp 36.2 kW",
+          "PTO (tested)": "61.7 hp 46.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Independent hydraulic wet disc brakes",
+          "__seccion_5__": "ROPS, cab optional"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 5435 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "&nbsp": "29 gpm (closed) 109.8 lpm",
+          "Pressure": "2684 psi 185.1 bar",
+          "Valves": "2 to 4",
+          "Total flow": "15 gpm (open) 56.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at 24\"/610mm)": "7000 lbs 3175 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000",
+          "&nbsp": "540E/1000 Opt Optional"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "97 inches 246 cm",
+          "Weight": "8695 to 9335 pounds",
+          "Front tire": "7.50-16",
+          "Rear tire": "18.4R34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5435 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging amps": "80",
+          "Battery CCA": "505",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "5400 Series published in 2006, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2004 - 2008",
+          "__seccion_2__": "5400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5435 Tires",
+          "Ag front": "7.50-16 (2WD)",
+          "&nbsp": "14.9R24 (4WD)",
+          "Ag rear": "18.4R34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "97 inches 246 cm",
+          "Length": "165.7 inches 420 cm",
+          "Width": "79.3 inches 201 cm",
+          "Height": "108.3 inches 275 cm",
+          "2WD Operating weight": "8695 lbs 3944 kg",
+          "4WD Operating weight": "9335 lbs 4234 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2004 - 2008",
+          "__seccion_2__": "5400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2275"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2275",
+          "__seccion_2__": "Diesel 16-speed 4WD January 2005 - February 2005, Link: OCED Tractor Test 2275 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "48.5 hp 36.2 kW",
+          "Fuel use": "3.9 gal/hour 14.8 l/hour",
+          "Power at rated engine speed": "61.0 hp 45.5 kW",
+          "Power at rated PTO speed": "59.7 hp 44.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 5 used for power test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2004 - 2008",
+          "__seccion_2__": "5400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins 1104",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled vertical",
+          "Displacement": "268.5 ci 4.4 L",
+          "Bore/Stroke": "4.134x5.00 inches 105 x 127 mm",
+          "Emissions": "Tier II",
+          "Power": "75 hp 55.9 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "19.3:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5435 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2024"
+        }
+      ]
+    }
+  }
+}

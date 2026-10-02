@@ -1,0 +1,259 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/8/2/1827-kubota-m5700.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/8/2/1827-kubota-m5700-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/8/2/1827-kubota-m5700-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/8/2/1827-kubota-m5700-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1827,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:53:40.437Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1827/1827-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 120 KB"
+  },
+  "tractor_data_id": 1827,
+  "name": "Kubota M5700",
+  "brand": "Kubota",
+  "model": "M5700",
+  "years": {
+    "desde": 2001,
+    "hasta": 2005
+  },
+  "model_year": 2001,
+  "engine_power_hp": 61.6,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 52,
+  "pto_tested_hp": 52.6,
+  "drawbar_tested_hp": 48.1,
+  "weight_kg": 1849,
+  "weight_basis": "4WD ROPS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 29.6,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 16.9-28",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1441,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": 14.4,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1827/1827-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1827/1827-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1827.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2001 - 2005",
+          "__seccion_2__": "M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M5700 Engine",
+          "__seccion_2__": "Kubota 2.7L 5-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M5700 Transmission",
+          "__seccion_2__": "8-speed synchronized shuttle",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M5700 Power",
+          "Engine": "61.6 hp 45.9 kW",
+          "PTO (claimed)": "52 hp 38.8 kW",
+          "Drawbar (tested)": "48.1 hp 35.9 kW",
+          "PTO (tested)": "52.6 hp 39.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota M5700 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "ROPS Fuel": "17.2 gal 65.1 L",
+          "Cab Fuel": "25.1 gal 95.0 L",
+          "Hydraulic system": "13.7 gal 51.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "13.7 gal 51.9 L",
+          "Valves": "1 to 3",
+          "Pump flow": "11 gpm 41.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position control and top-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "2840 lbs * Advertised lift was 3310 pounds but the Kubota M5700 only achieves 2840 pounds during testing. 1288 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "ROPS Wheelbase": "78.7 inches 199 cm",
+          "Cab Wheelbase": "81.7 inches 207 cm",
+          "Weight": "3858 to 4608 pounds",
+          "Front tire": "7.50-16",
+          "Rear tire": "16.9-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota M5700 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "45",
+          "Cab Charging amps": "60",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Diesel Tractor M4900/M5700/M6800/M8200/M9000 published in 2003, by Kubota"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 27, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2001 - 2005",
+          "__seccion_2__": "M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M5700 Tires",
+          "Standard tires (ag)": "Front: 7.50-16. Rear: 16.9-28",
+          "&nbsp": "Front: 9.5-22. Rear: 16.9-28 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "ROPS Wheelbase": "78.7 inches 199 cm",
+          "Cab Wheelbase": "81.7 inches 207 cm",
+          "2WD ROPS Length": "137.6 inches 349 cm",
+          "4WD ROPS Length": "134.1 inches 340 cm",
+          "2WD Cab Length": "140.6 inches 357 cm",
+          "4WD Cab Length": "137 inches 347 cm",
+          "Width": "72.8 inches * Minimum 184 cm",
+          "Height (ROPS)": "93.5 inches 237 cm",
+          "Height (cab)": "99.0 inches 251 cm",
+          "2WD Front tread": "55.9 to 71.7 inches 141 to 182 cm",
+          "4WD Front tread": "52.3 to 56.3 inches 132 to 143 cm",
+          "Rear tread": "55.9 to 67.7 inches 141 to 171 cm"
+        },
+        {
+          "__seccion_1__": "Kubota M5700 Weight",
+          "2WD ROPS Shipping": "3858 lbs 1749 kg",
+          "4WD ROPS Shipping": "4078 lbs 1849 kg",
+          "2WD Cab Shipping": "4453 lbs 2019 kg",
+          "4WD Cab Shipping": "4608 lbs 2090 kg",
+          "Ballasted": "7070 lbs 3206 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 27, 2020"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2001 - 2005",
+          "__seccion_2__": "M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1907"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1907",
+          "__seccion_2__": "Diesel 12-speed 4WD February 2000 - March 2000, Link: OCED Tractor Test 1907 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "52.6 hp 39.2 kW",
+          "Fuel use": "3.8 gal/hour 14.4 l/hour",
+          "Power at rated PTO speed": "50.4 hp 37.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "48.1 hp 35.9 kW",
+          "Max pull": "6,645 lbs 3014 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 27, 2020"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2001 - 2005",
+          "__seccion_2__": "M Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota F2803",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "5-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "167.5 ci 2.7 L",
+          "Bore/Stroke": "3.43x3.64 inches 87 x 92 mm",
+          "Power": "61.6 hp 45.9 kW",
+          "Fuel system": "indirect injection",
+          "Air cleaner": "two paper elements",
+          "Compression": "23:1",
+          "Rated RPM": "2800",
+          "Starter volts": "12",
+          "Oil capacity": "8.5 qts 8.0 L",
+          "Coolant capacity": "8.5 qts 8.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 27, 2020"
+        }
+      ]
+    }
+  }
+}

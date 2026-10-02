@@ -1,0 +1,268 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/009/0/9/9091-john-deere-8400r.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/009/0/9/9091-john-deere-8400r-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/009/0/9/9091-john-deere-8400r-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/009/0/9/9091-john-deere-8400r-engine.html",
+    "source_id": 9091,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:04:40.447Z",
+    "foto_original": "https://www.tractordata.com/photos/F009/9091/9091-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 74 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 9091,
+  "name": "John Deere 8400R",
+  "brand": "John Deere",
+  "model": "8400R",
+  "years": {
+    "desde": 2016,
+    "hasta": 2019
+  },
+  "model_year": 2016,
+  "engine_power_hp": 400,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": 367.8,
+  "drawbar_tested_hp": 320.19,
+  "weight_kg": 18000,
+  "weight_basis": "Max capacity",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 131.4,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 480/80R50",
+  "tire_width_mm": 480,
+  "tire_diameter_mm": 2038,
+  "tire_front": {
+    "original": "380/80R38",
+    "radial": true,
+    "width_mm": 380,
+    "rim_in": 38,
+    "diameter_mm_est": 1573,
+    "tipo": "Radial",
+    "texto": "380/80R38"
+  },
+  "fuel_consumption_lph": 69.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F009/9091/9091-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F009/9091/9091-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td9091.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2016 - 2019",
+          "__seccion_2__": "8R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA"
+        },
+        {
+          "__seccion_1__": "John Deere 8400R Engine",
+          "__seccion_2__": "John Deere 9.0L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8400R Transmission",
+          "__seccion_2__": "23-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8400R Power",
+          "Engine (gross)": "400 hp 298.3 kW",
+          "Drawbar (tested)": "320.19 hp 238.8 kW",
+          "PTO (tested)": "367.80 hp 274.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "hydraulic rear standard",
+          "&nbsp": "dual line air (optional)",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic (optional)",
+          "__seccion_4__": "CommandView III cab standard with air-conditioning. AutoTrac ready; JDLink; ServiceADVISOR Remote"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 8400R photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "170.4 gal 645.0 L",
+          "&nbsp": "23.8 gal (optional) 90.1 L",
+          "Exhaust fluid (DEF)": "6.8 gal 25.7 L",
+          "Hydraulic system": "10.6 gal 40.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed-center load sensing pressure flow compensated",
+          "Capacity": "10.6 gal 40.1 L",
+          "&nbsp": "42 gpm (optional) 159.0 lpm",
+          "Rear valves": "4 to 6",
+          "Front valves": "0 to 2",
+          "Pump flow": "60 gpm 227.1 lpm",
+          "SCV flow": "35 gpm 132.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IVN/III",
+          "Rear lift": "15000 lbs 6804 kg",
+          "&nbsp": "Cat 4 Heavy-Duty optional",
+          "Rear Arms": "hydraulic center link optional",
+          "Front Hitch": "optional",
+          "Front lift (at ends)": "11450 lbs 5193 kg",
+          "Drawbar": "Cat 4"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (1.75)",
+          "&nbsp": "1000 (1.375)",
+          "Front PTO": "optional independent",
+          "Front PTO Type": "1000 (1.75)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "120.1 inches 305 cm",
+          "Weight": "32691 lbs 14828 kg",
+          "Front tire": "380/80R38",
+          "Rear tire": "480/80R50",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "8400R Serial Number Location",
+          "__seccion_2__": "Serial number plate on the front-right of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "240",
+          "Batteries": "2",
+          "Battery CCA": "925 (each)",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 14, 2020",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2016 - 2019",
+          "__seccion_2__": "8R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8400R Tires",
+          "Standard tires (ag)": "Front: 380/80R38. Rear: 480/80R50"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "120.1 inches 305 cm",
+          "Length": "245 inches 622 cm",
+          "&nbsp": "19.7 inches * ILS axle Group 42 tires 50 cm",
+          "Width": "137.3 inches (warning lamps) 348 cm",
+          "Height (cab)": "129.3 inches 328 cm",
+          "Clearance (front axle)": "23.1 inches * 1500 axle Group 42 tires 58 cm",
+          "Clearance (rear axle)": "24.9 inches * With Group 47 tires 63 cm",
+          "Front axle": "ILS 50 KPH",
+          "Rear axle": "4.724 by 118.5 inches 119 by 3009 mm",
+          "Front tread": "62 to 88 inches 157 to 223 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 8400R Weight",
+          "__seccion_2__": "32691 lbs (IVT, duals, Cat 4 hitch) 14828 kg",
+          "Max capacity": "39683 lbs 18000 kg",
+          "Max front axle": "17637 lbs 8000 kg",
+          "Max rear axle": "25353 lbs 11500 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 14, 2020"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2016 - 2019",
+          "__seccion_2__": "8R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2172"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2172",
+          "__seccion_2__": "Diesel e23 4WD April 4 - 21, 2017 Link: OCED Tractor Test 2172 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "320.19 hp 238.8 kW",
+          "Fuel use": "18.7 gal/hour 70.8 l/hour",
+          "Power at rated engine speed": "338.29 hp 252.3 kW",
+          "Power at rated PTO speed": "362.26 hp 270.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 10 used for power test.",
+          "Max pull": "29545 lbs 13401 kg",
+          "__seccion_6__": "Gear 8 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 14, 2020"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2016 - 2019",
+          "__seccion_2__": "8R Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech PSS",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "548 ci 9.0 L",
+          "Bore/Stroke": "4.66x5.35 inches 118 x 136 mm",
+          "Emissions": "Tier 4",
+          "Emission control": "selective catalyst reduction",
+          "Rated Power (gross)": "400 hp 298.3 kW",
+          "Fuel system": "electronic high-pressure common rail",
+          "Compression": "16:1",
+          "Rated RPM": "2100",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 14, 2020"
+        }
+      ]
+    }
+  }
+}

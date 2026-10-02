@@ -1,0 +1,252 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/6/263-ford-4100.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/6/263-ford-4100-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/2/6/263-ford-4100-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/6/263-ford-4100-engine.html",
+    "source_id": 263,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:10:39.521Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/263/263-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 87 KB"
+  },
+  "tractor_data_id": 263,
+  "name": "Ford 4100",
+  "brand": "Ford",
+  "model": "4100",
+  "years": {
+    "desde": 1975,
+    "hasta": 1981
+  },
+  "model_year": 1975,
+  "engine_power_hp": 52,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 45,
+  "pto_tested_hp": 45.46,
+  "drawbar_tested_hp": 39.18,
+  "weight_kg": 2111,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 24.7,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 14.9-28",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1355,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": 11.7,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/263/263-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/263/263-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td263.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Original price was $9,000 in 1981"
+        },
+        {
+          "__seccion_1__": "Ford 4100 Engine",
+          "__seccion_2__": "Ford 3.0L 3-cyl diesel",
+          "Fuel tank": "13 gal 49.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 4100 Transmission",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 4100 Power",
+          "Engine (gross)": "52 hp 38.8 kW",
+          "Engine (net)": "47.5 hp 35.4 kW",
+          "Drawbar (claimed)": "39 hp 29.1 kW",
+          "PTO (claimed)": "45 hp 33.6 kW",
+          "Drawbar (tested)": "39.18 hp 29.2 kW",
+          "PTO (tested)": "45.46 hp 33.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical wet disc brakes",
+          "__seccion_5__": "Open operator station. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 4100 photos..."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift": "3080 lbs 1397 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "77.3 inches 196 cm",
+          "Weight": "4655 lbs 2111 kg",
+          "Front tire": "7.50-16",
+          "Rear tire": "14.9-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 4100 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1975": "C450700",
+          "1976": "C490300",
+          "1977": "C527300",
+          "1978": "C560500",
+          "1979": "C595800",
+          "1980": "C635700",
+          "1981": "C660700",
+          "__seccion_1__": "4100 Serial Numbers",
+          "Location:": "Front-right of transmission",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "2600 - 4100 - 3600 - 4600 published by Ford",
+          "__seccion_3__": "3900 4100 4600 published in 1979, by Ford *",
+          "__seccion_4__": "4100 - 4600 published in 1976, by Ford",
+          "__seccion_5__": "4100 - 4600 published in 1977, by Ford",
+          "__seccion_6__": "Ford 4100 4600 4600 SU published in 1979",
+          "__seccion_7__": "Ford now offer tractor from 37 to 295 horsepower published in 1979 *",
+          "__seccion_8__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 30, 2021",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Ford 4100 Tires",
+          "Ag front": "7.50-16",
+          "Ag rear": "14.9-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "77.3 inches 196 cm",
+          "Length": "136.3 inches 346 cm",
+          "Width": "70.8 inches * Minimum width 179 cm",
+          "Weight": "4655 lbs 2111 kg",
+          "Ground clearance": "17.3 inches 43 cm",
+          "Front tread": "52 to 80 inches 132 to 203 cm",
+          "Rear tread": "56 to 90 inches 142 to 228 cm * With power-adjust rear wheels."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 30, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1202"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1202",
+          "__seccion_2__": "Diesel 8-speed 2WD March 16 - April 5, 1976 Link: Nebraska Tractor Test 1202 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "45.46 hp 33.9 kW",
+          "Fuel use": "3.1 gal/hour 11.7 l/hour",
+          "Power at rated PTO speed": "41.13 hp 30.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "39.18 hp 29.2 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "5557 lbs 2520 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 30, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "183 ci 3.0 L",
+          "Bore/Stroke": "4.2126x4.4094 inches 107 x 112 mm",
+          "Power (net)": "47.5 hp 35.4 kW",
+          "Power (gross)": "52 hp 38.8 kW",
+          "Air cleaner": "oil bath",
+          "Compression": "16.3:1",
+          "Rated RPM": "2200",
+          "Torque": "138 lb-ft 187.1 Nm",
+          "Torque RPM": "1600",
+          "Firing order": "1-2-3",
+          "Starter volts": "12",
+          "Oil capacity": "7 qts 6.6 L",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 30, 2021"
+        }
+      ]
+    }
+  }
+}

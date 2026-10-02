@@ -1,0 +1,267 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/5/8/581-ford-1310.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/5/8/581-ford-1310-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/5/8/581-ford-1310-engine.html",
+    "source_id": 581,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:11:47.137Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/581/581-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 136 KB"
+  },
+  "tractor_data_id": 581,
+  "name": "Ford 1310",
+  "brand": "Shibaura",
+  "model": "1310",
+  "years": {
+    "desde": 1983,
+    "hasta": 1986
+  },
+  "model_year": 1983,
+  "engine_power_hp": 19,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": 16.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1025,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 6.1,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-16",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 942,
+  "tire_front": {
+    "original": "6.00-12",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 12,
+    "diameter_mm_est": 564,
+    "tipo": "Diagonal",
+    "texto": "6.00-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/581/581-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/581/581-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td581.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Ford",
+          "Manufacturer": "Shibaura",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan"
+        },
+        {
+          "__seccion_1__": "Ford 1310 Engine",
+          "__seccion_2__": "Shibaura 1.0L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 1310 Transmissions",
+          "__seccion_2__": "12-speed unsynchronized gear",
+          "__seccion_3__": "12-speed partially synchronized",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 1310 Power",
+          "Engine (net)": "19 hp 14.2 kW",
+          "PTO (claimed)": "16.5 hp 12.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "spur gear",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Differential mechanical drum brakes",
+          "__seccion_5__": "Two-post fixed ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 1310 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "6.9 gal 26.1 L",
+          "Hydraulic system": "4.5 gal 17.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "4.5 gal 17.0 L",
+          "Pressure": "2133 psi 147.1 bar",
+          "Total flow": "6.3 gpm 23.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at ends)": "1432 lbs 649 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "&nbsp": "live Opt Optional",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2425"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "63 inches 160 cm",
+          "Weight": "2063 to 2261 pounds",
+          "Front tire": "4-12",
+          "Rear tire": "8.3-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 1310 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "48\" rear-mount mower deck",
+          "__seccion_4__": "59\" rear-mount mower deck",
+          "__seccion_5__": "60\" rear-mount mower deck",
+          "__seccion_6__": "snowblower",
+          "__seccion_7__": "front-end loader",
+          "__seccion_8__": "backhoe",
+          "__seccion_9__": "Attachment details ..."
+        },
+        {
+          "1983": "UE00001",
+          "1984": "UE01019",
+          "1985": "UE02438",
+          "1986": "UE04444",
+          "__seccion_1__": "1310 Serial Numbers",
+          "Location:": "On transmission housing, left side.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "35",
+          "Charging volts": "12",
+          "Battery volts": "12",
+          "Battery AH": "72"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Ford Shop Manual by Peter Letourneau",
+          "__seccion_3__": "Farm Loaders published in 1988, by Ford",
+          "__seccion_4__": "Mid-Mount Finishing Mowers published in 1987, by Ford",
+          "__seccion_5__": "1000 Series Tractors published in 1985, by Ford",
+          "__seccion_6__": "1000 Series Tractors published in 1987, by Ford",
+          "__seccion_7__": "Salesman's Reference published in 1986, by Ford",
+          "__seccion_8__": "Repair Manual 1010 Series Tractors (SE 4301) published in 1986",
+          "__seccion_9__": "Sales Reference Guide published in 1986, by Ford"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 25, 2023",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Ford 1310 Tires",
+          "2WD Ag front": "4-12",
+          "4WD Ag front": "6.00-12",
+          "2WD Ag rear": "8.3-24",
+          "4WD Ag rear": "12.4-16",
+          "&nbsp": "13.6-28",
+          "2WD Lawn/turf front": "25x8.50-12",
+          "4WD Lawn/turf front": "25x8.50-14"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "63 inches 160 cm",
+          "Length": "109.3 inches 277 cm",
+          "2WD Width": "49.6 inches 125 cm",
+          "4WD Width": "55.7 inches 141 cm",
+          "2WD Weight": "2063 lbs 935 kg",
+          "4WD Weight": "2261 lbs 1025 kg",
+          "2WD Ground clearance": "13 inches 33 cm",
+          "4WD Ground clearance": "10.6 inches 26 cm",
+          "2WD Front tread": "39.4 to 50 inches 100 to 127 cm",
+          "4WD Front tread": "45.7 inches 116 cm",
+          "2WD Rear tread": "41.2 to 52 inches 104 to 132 cm",
+          "4WD Rear tread": "45.5 inches 115 cm"
+        },
+        {
+          "__seccion_1__": "Ford 1310 Height",
+          "2WD Steering wheel": "56.5 inches 143 cm",
+          "4WD Steering wheel": "55.1 inches 139 cm",
+          "ROPS": "82.9 inches 210 cm",
+          "2WD Exhaust": "71 inches 180 cm",
+          "4WD Exhaust": "69.1 inches 175 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 25, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "Ten Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibaura S753",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "58.2 ci 1.0 L",
+          "Bore/Stroke": "2.95x2.83 inches 75 x 72 mm",
+          "Power (net)": "19 hp 14.2 kW",
+          "Air cleaner": "dry",
+          "Pre-heating": "glow plugs",
+          "Compression": "23:1",
+          "Rated RPM": "2800",
+          "Idle RPM": "750-3000",
+          "Torque": "39 lb-ft 52.9 Nm",
+          "Torque RPM": "1800",
+          "Starter volts": "12",
+          "Oil capacity": "4 qts 3.8 L",
+          "Coolant capacity": "2.8 qts 2.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 25, 2023"
+        }
+      ]
+    }
+  }
+}

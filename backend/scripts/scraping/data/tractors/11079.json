@@ -1,0 +1,194 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/011/0/7/11079-ford-3900.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/011/0/7/11079-ford-3900-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/011/0/7/11079-ford-3900-engine.html",
+    "source_id": 11079,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:17:19.045Z",
+    "foto_original": "https://www.tractordata.com/photos/F011/11079/11079-photo-001-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 60 KB"
+  },
+  "tractor_data_id": 11079,
+  "name": "Ford 3900",
+  "brand": "Ford",
+  "model": "3900",
+  "years": {
+    "desde": 1975,
+    "hasta": 1981
+  },
+  "model_year": 1975,
+  "engine_power_hp": 47,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2161,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 17.2,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "6.00x19",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 19,
+    "diameter_mm_est": 742,
+    "tipo": "Diagonal",
+    "texto": "6.00x19"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F011/11079/11079-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F011/11079/11079-photo-001-ext045.jpg",
+  "image_url": "/uploads/tractors/td11079.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Ford 3900 Engine",
+          "__seccion_2__": "Ford 2.9L 3-cyl diesel",
+          "Fuel tank": "13 gal 49.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 3900 Transmission",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 3900 Power",
+          "Engine (gross)": "47 hp 35.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Differential lock": "mechanical rear Opt Optional",
+          "__seccion_3__": "Mechanical wet disc brakes",
+          "__seccion_4__": "ROPS standard. Cab available."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 3900 photos..."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position and draft control",
+          "Rear lift": "3417 lbs 1549 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1800"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "77.6 inches 197 cm",
+          "Weight": "4766 lbs 2161 kg",
+          "Front tire": "6.00x19",
+          "Rear tire": "12.4/11x36",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "28",
+          "Battery volts": "12",
+          "Battery AH": "128"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "3900 4100 4600 published in 1979, by Ford *",
+          "__seccion_3__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on August 23, 2021",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Ford 3900 Tires",
+          "Standard tires (ag)": "Front: 6.00x19. Rear: 12.4/11x36"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "77.6 inches 197 cm",
+          "Length": "134.7 inches 342 cm",
+          "Width": "73.2 inches 185 cm",
+          "Height (ROPS)": "90.6 inches 230 cm",
+          "Weight": "4766 lbs 2161 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 23, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "175 ci 2.9 L",
+          "Bore/Stroke": "4.20x4.20 inches 107 x 107 mm",
+          "Power (gross)": "47 hp 35.0 kW",
+          "Fuel system": "indirect injection",
+          "Air cleaner": "dry",
+          "Compression": "16.3:1",
+          "Rated RPM": "2000",
+          "Torque": "132.4 lb-ft 179.5 Nm",
+          "Torque RPM": "1200",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "7.4 qts 7.0 L",
+          "Coolant capacity": "10.6 qts 10.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 23, 2021"
+        }
+      ]
+    }
+  }
+}

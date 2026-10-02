@@ -1,0 +1,245 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/1/817-massey-ferguson-1020.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/1/817-massey-ferguson-1020-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/1/817-massey-ferguson-1020-engine.html",
+    "source_id": 817,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:25:30.087Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/817/817-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 65 KB"
+  },
+  "tractor_data_id": 817,
+  "name": "Massey Ferguson 1020",
+  "brand": "Toyosha",
+  "model": "ferguson 1020",
+  "years": {
+    "desde": 1983,
+    "hasta": 1994
+  },
+  "model_year": 1983,
+  "engine_power_hp": 21,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 17,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1235,
+  "weight_basis": "4WD hydro Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 6.2,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 8.3x24",
+  "tire_width_mm": 211,
+  "tire_diameter_mm": 968,
+  "tire_front": {
+    "original": "6x14",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 14,
+    "diameter_mm_est": 615,
+    "tipo": "Diagonal",
+    "texto": "6x14"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/817/817-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/817/817-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td817.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1983 - 1994",
+          "__seccion_2__": "1000 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Toyosha built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Massey Ferguson",
+          "Manufacturer": "Toyosha",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan",
+          "__seccion_4__": "Original price was $9,700 in 1994"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1020 Engine",
+          "__seccion_2__": "Toyosha 1.1L 3-cyl diesel",
+          "Fuel tank": "5.8 gal 22.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1020 Transmissions",
+          "__seccion_2__": "12-speed gear",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1020 Power",
+          "Engine": "21 hp 15.7 kW",
+          "Gear PTO (claimed)": "17 hp 12.7 kW",
+          "Hydro PTO (claimed)": "14.5 hp 10.8 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "manual",
+          "__seccion_3__": "Differential mechanical drum brakes",
+          "__seccion_4__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 1020 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "5.1 gpm 19.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Gear Rear lift (at ends)": "1543 lbs 699 kg",
+          "Hydro Rear lift (at ends)": "1697 lbs 769 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Gear Rear PTO": "transmission",
+          "Hydro Rear PTO": "live",
+          "Rear PTO Type": "540 (1.375)",
+          "Mid PTO Type": "2226 (with hydro)",
+          "Front PTO": "independent (optional)",
+          "Clutch": "electric"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Gear Wheelbase": "56.7 inches 144 cm",
+          "Hydro Wheelbase": "59.1 inches 150 cm",
+          "Weight": "1896 to 2723 pounds",
+          "Front tire": "4.00x12",
+          "2WD Rear tire": "8.3x24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1020 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "blade",
+          "__seccion_4__": "front-end loader",
+          "__seccion_5__": "Attachment details ..."
+        },
+        {
+          "1983": "40101 (1020-4)",
+          "1984": "40395 (1020-4)",
+          "1985": "40549 (1020-4)",
+          "1986": "41002 (1020-4)",
+          "1987": "41709 (1020H-4)",
+          "1988": "42343 (1020H-4)",
+          "1989": "42641 (1020H-4)",
+          "1990": "43016 (1020H-4)",
+          "1991": "43264 (1020H-4)",
+          "1992": "43694 (1020H-4)",
+          "__seccion_1__": "1020 Serial Numbers",
+          "Location:": "Serial number plate below the dash of the Massey Ferguson 1020.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Loaders - Compact and Agricultural published in 1989, by Massey Ferguson",
+          "__seccion_3__": "Compact Tractors published in 1986, by Massey Ferguson",
+          "__seccion_4__": "Compact Tractors and Implements published in 1987, by Massey Ferguson",
+          "__seccion_5__": "1020 published in 1986, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 6, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1983 - 1994",
+          "__seccion_2__": "1000 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Toyosha built"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1020 Tires",
+          "2WD Standard tires (ag)": "Front: 4.00x12. Rear: 8.3x24",
+          "4WD Standard tires (ag)": "Front: 6x14. Rear: 8.3x24",
+          "2WD Lawn/turf front": "24x8.50-12",
+          "4WD Lawn/turf front": "25x8.50-14",
+          "Lawn/turf rear": "13.6x16"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Gear Wheelbase": "56.7 inches 144 cm",
+          "Hydro Wheelbase": "59.1 inches 150 cm",
+          "Gear Length": "94.5 inches 240 cm",
+          "Hydro Length": "114 inches 289 cm",
+          "2WD Width": "45.5 inches 115 cm",
+          "4WD Width": "47 inches 119 cm",
+          "Height (steering wheel)": "52.9 inches 134 cm",
+          "2WD gear Shipping weight": "1896 lbs 860 kg",
+          "4WD hydro Shipping weight": "2723 lbs 1235 kg",
+          "2WD Ground clearance": "13.6 inches 34 cm",
+          "4WD Ground clearance": "11.6 inches 29 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 6, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1983 - 1994",
+          "__seccion_2__": "1000 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Toyosha built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Toyosha CS-112",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "68.7 ci 1.1 L",
+          "Bore/Stroke": "2.953x3.347 inches 75 x 85 mm",
+          "Power": "21 hp 15.7 kW",
+          "Fuel system": "indirect injection",
+          "Air cleaner": "single dry element",
+          "Pre-heating": "glow plugs",
+          "Compression": "23:1",
+          "Rated RPM": "2350",
+          "Firing order": "1-3-2",
+          "Starter volts": "12",
+          "Oil capacity": "2.3 qts 2.2 L",
+          "Coolant capacity": "4.4 qts 4.2 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 6, 2023"
+        }
+      ]
+    }
+  }
+}

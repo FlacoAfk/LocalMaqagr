@@ -1,0 +1,228 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/4/0/1400-john-deere-1030.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/4/0/1400-john-deere-1030-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/4/0/1400-john-deere-1030-engine.html",
+    "source_id": 1400,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:52:48.691Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1400/1400-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 104 KB"
+  },
+  "tractor_data_id": 1400,
+  "name": "John Deere 1030",
+  "brand": "John Deere",
+  "model": "1030",
+  "years": {
+    "desde": 1973,
+    "hasta": 1979
+  },
+  "model_year": 1973,
+  "engine_power_hp": 48.3,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 38.9,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2700,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 14.3,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-36",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1450,
+  "tire_front": {
+    "original": "6.50-16",
+    "radial": false,
+    "width_mm": 165,
+    "rim_in": 16,
+    "diameter_mm_est": 687,
+    "tipo": "Diagonal",
+    "texto": "6.50-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1400/1400-td3a.jpg",
+  "image_url": "/uploads/tractors/td1400.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1973 - 1979",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany"
+        },
+        {
+          "__seccion_1__": "John Deere 1030 Engine",
+          "__seccion_2__": "John Deere 2.7L 3-cyl diesel",
+          "Fuel tank": "16.4 gal 62.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 1030 Transmissions",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "16-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 1030 Power",
+          "Engine (gross)": "48.3 hp 36.0 kW",
+          "Engine (net)": "45.6 hp 34.0 kW",
+          "PTO (claimed)": "38.9 hp 29.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "Steering": "power Opt Optional",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 1030 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Pressure": "2248 psi 155.0 bar",
+          "Pump flow": "6.6 gpm 25.0 lpm",
+          "&nbsp": "12.4 gpm Opt Optional 46.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position control and lower-link draft sensing",
+          "Rear lift": "4024 lbs 1825 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "80.7 inches 204 cm",
+          "Weight": "4720 to 5954 pounds",
+          "Front tire": "6.50-16",
+          "Rear tire": "12.4-36",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "1030 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the 1030 tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "28",
+          "Batteries": "2",
+          "Battery volts": "12",
+          "Battery AH": "55"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operator's Manual 145 Loader (OMW21474)",
+          "__seccion_3__": "1030 Tractor published in 1977, by John Deere",
+          "__seccion_4__": "Tractors 40 to 80 hp published in 1978, by John Deere",
+          "__seccion_5__": "Product Information Manual published in 1975, by John Deere",
+          "__seccion_6__": "Product Information Manual published in 1977, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 24, 2024",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1973 - 1979",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 1030 Tires",
+          "Ag front": "6.50-16",
+          "Ag rear": "12.4-36"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "80.7 inches 204 cm",
+          "Length": "133 inches 337 cm",
+          "Width": "65.9 inches 167 cm",
+          "Weight": "5954 lbs 2700 kg",
+          "Shipping weight": "4720 lbs 2140 kg",
+          "Front tread": "49.6 to 75.8 inches 125 to 192 cm",
+          "Rear tread": "53.2 to 76.8 inches 135 to 195 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 1030 Height",
+          "Hood": "52.8 inches 134 cm",
+          "ROPS": "90.9 inches 230 cm",
+          "Exhaust": "78.3 inches 198 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 24, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1973 - 1979",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "164.4 ci 2.7 L",
+          "Bore/Stroke": "4.02x4.33 inches 102 x 110 mm",
+          "Power (net)": "45.6 hp 34.0 kW",
+          "Power (gross)": "48.3 hp 36.0 kW",
+          "Air cleaner": "dry",
+          "Compression": "16.2:1",
+          "Rated RPM": "2500",
+          "Idle RPM": "650-2650",
+          "Operating RPM": "1400-2500",
+          "Torque": "112 lb-ft 151.9 Nm",
+          "Torque RPM": "1400",
+          "Firing order": "1-2-3",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "6 qts 5.7 L",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 24, 2024"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1400/1400-td4-b01.jpg"
+}

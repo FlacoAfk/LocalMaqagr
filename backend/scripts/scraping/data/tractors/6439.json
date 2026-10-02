@@ -1,0 +1,281 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/4/3/6439-ji-case-990.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/4/3/6439-ji-case-990-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/006/4/3/6439-ji-case-990-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/4/3/6439-ji-case-990-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 6439,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:09:38.615Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6439/6439-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 800px/q55 → 49 KB"
+  },
+  "tractor_data_id": 6439,
+  "name": "J.I. Case 990",
+  "brand": "J.I. Case",
+  "model": "990",
+  "years": {
+    "desde": 1976,
+    "hasta": 1980
+  },
+  "model_year": 1976,
+  "engine_power_hp": 58,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": 52.9,
+  "pto_tested_hp": 53.77,
+  "drawbar_tested_hp": 45.68,
+  "weight_kg": 3039,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 32.6,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 12.4-36",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1450,
+  "tire_front": {
+    "original": "6.00-19",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 19,
+    "diameter_mm_est": 742,
+    "tipo": "Diagonal",
+    "texto": "6.00-19"
+  },
+  "fuel_consumption_lph": 13.2,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F006/6439/6439-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6439/6439-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td6439.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1976 - 1980",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Note: the J.I. Case model 990 is the same as the David Brown 990 Selectamatic. The following data is from the 990 Selectamatic listing."
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Meltham Mills, Huddersfield, England"
+        },
+        {
+          "__seccion_1__": "J.I. Case 990 Engine",
+          "__seccion_2__": "David Brown 3.2L 4-cyl diesel",
+          "Fuel tank": "17.9 gal 67.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 990 Transmission",
+          "__seccion_2__": "12-speed partially synchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 990 Power",
+          "Engine (net)": "58 hp 43.3 kW",
+          "Drawbar (claimed)": "45.2 hp 33.7 kW",
+          "PTO (claimed)": "52.9 hp 39.4 kW",
+          "Drawbar (tested)": "45.68 hp 34.1 kW",
+          "PTO (tested)": "53.77 hp 40.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic drum brakes",
+          "__seccion_5__": "Weather frame cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "J.I. Case 990 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2000 psi 137.9 bar",
+          "Total flow": "7.4 gpm 28.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift": "2000 lbs (recommended) 907 kg",
+          "&nbsp": "4250 lbs (maximum) 1927 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "&nbsp": "live Opt Optional",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "82 inches 208 cm",
+          "Weight": "5760 to 6700 pounds",
+          "Front tire": "6.00-19",
+          "Rear tire": "12.4-36 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1961": "440001",
+          "1962": "441323",
+          "1963": "450376",
+          "1964": "460376",
+          "1965": "472273",
+          "1966": "483768",
+          "1967": "496283",
+          "1968": "504690",
+          "1969": "808150",
+          "1970": "818301",
+          "1971": "826009",
+          "1972": "850600",
+          "1973": "854403",
+          "1974": "859367",
+          "1975": "863900",
+          "1976": "11070001",
+          "1977": "11080236",
+          "1978": "11089141",
+          "1979": "11096828",
+          "1980": "11104577",
+          "__seccion_1__": "990 Serial Numbers",
+          "Location:": "Serial number on the right side of the tractor frame.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Battery volts": "12",
+          "Battery AH": "96"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "1975 Spring Buyers Guide published by J.I. Case",
+          "__seccion_3__": "Time-saving experts published in 1975, by J.I. Case",
+          "__seccion_4__": "\"Specializing\" for Specialists published in 1978, by J.I. Case",
+          "__seccion_5__": "Specialization... the payoff in farming published in 1980, by J.I. Case",
+          "__seccion_6__": "The new look in farm power published in 1981, by J.I. Case"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 10, 2014"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1976 - 1980",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Note: the J.I. Case model 990 is the same as the David Brown 990 Selectamatic. The following data is from the 990 Selectamatic listing."
+        },
+        {
+          "__seccion_1__": "J.I. Case 990 Tires",
+          "Standard tires (ag)": "Front: 6.00-19. Rear: 12.4-36 (2WD)",
+          "&nbsp": "Front: 9.5-24. Rear: 12.4-36 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "82 inches 208 cm",
+          "Length": "129 inches 327 cm",
+          "Width": "67 inches * Minimum width 170 cm",
+          "2WD Weight": "5760 lbs 2612 kg",
+          "4WD Weight": "6700 lbs 3039 kg",
+          "2WD Clearance (front axle)": "21 inches 53 cm",
+          "4WD Clearance (front axle)": "15 inches 38 cm",
+          "Clearance (drawbar)": "16 inches 40 cm",
+          "2WD Front tread": "52/56/60/64/68/72 inches 132/142/152/162/172/182 cm",
+          "4WD Front tread": "60/64/68/72 inches 152/162/172/182 cm",
+          "Rear tread": "52/56/60/64/68/72/76 inches 132/142/152/162/172/182/193 cm"
+        },
+        {
+          "__seccion_1__": "J.I. Case 990 Height",
+          "Cab": "92.5 inches (Low-Profile) 234 cm",
+          "&nbsp": "99 inches (Q-Cab) 251 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 10, 2014"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1976 - 1980",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Note: the J.I. Case model 990 is the same as the David Brown 990 Selectamatic. The following data is from the 990 Selectamatic listing."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1144"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1144",
+          "__seccion_2__": "Diesel 12-speed 2WD September 17 - October 1, 1973 Link: Nebraska Tractor Test 1144 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "53.77 hp 40.1 kW",
+          "Fuel use": "3.4 gal/hour 12.9 l/hour",
+          "Power at rated PTO speed": "50.48 hp 37.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "45.68 hp 34.1 kW",
+          "Max pull": "7,335 lbs 3327 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 10, 2014"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1976 - 1980",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Note: the J.I. Case model 990 is the same as the David Brown 990 Selectamatic. The following data is from the 990 Selectamatic listing."
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "David Brown",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "195 ci 3.2 L",
+          "Bore/Stroke": "3.939x4.00 inches 100 x 102 mm",
+          "Power (net)": "58 hp 43.3 kW",
+          "Air cleaner": "oil bath",
+          "Compression": "17:1",
+          "Rated RPM": "2200",
+          "Operating RPM": "700-2200",
+          "Starter volts": "12",
+          "Oil capacity": "7.9 qts 7.5 L",
+          "Coolant capacity": "14.8 qts 14.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 10, 2014"
+        }
+      ]
+    }
+  }
+}

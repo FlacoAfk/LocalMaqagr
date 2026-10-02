@@ -1,0 +1,270 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/5/9/1598-john-deere-8520.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/5/9/1598-john-deere-8520-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/5/9/1598-john-deere-8520-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/5/9/1598-john-deere-8520-engine.html",
+    "source_id": 1598,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:37:21.774Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1598/1598-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 79 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 1598,
+  "name": "John Deere 8520",
+  "brand": "John Deere",
+  "model": "8520",
+  "years": {
+    "desde": 2002,
+    "hasta": 2005
+  },
+  "model_year": 2002,
+  "engine_power_hp": 305,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 255,
+  "pto_tested_hp": 292.88,
+  "drawbar_tested_hp": 225.13,
+  "weight_kg": 10455,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 158.4,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 60.9,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1598/1598-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1598/1598-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1598.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2002 - 2005",
+          "__seccion_2__": "8020 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA"
+        },
+        {
+          "8520": "wheeled tractor",
+          "__seccion_1__": "Variants",
+          "8520T": "crawler"
+        },
+        {
+          "__seccion_1__": "John Deere 8520 Engine",
+          "__seccion_2__": "John Deere 8.1L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8520 Transmission",
+          "__seccion_2__": "16-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8520 Power",
+          "Engine (gross)": "305 hp 227.4 kW",
+          "Engine (net)": "295 hp 220.0 kW",
+          "Engine (max)": "335 hp 249.8 kW",
+          "PTO (claimed)": "255 hp 190.2 kW",
+          "Drawbar (tested)": "225.13 hp 167.9 kW",
+          "PTO (tested)": "292.88 hp 218.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 8520 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "160 gal 605.6 L",
+          "Hydraulic system": "39.6 gal 149.9 L",
+          "Front hubs": "4.2 qts 4.0 L",
+          "Front diff.": "14.2 qts 13.4 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure-flow compensated (PFC)",
+          "Capacity": "39.6 gal 149.9 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "5",
+          "SCV flow": "30 gpm 113.6 lpm",
+          "Total flow": "33.5 gpm * With standard 45cc pump 126.8 lpm",
+          "&nbsp": "42.5 gpm * Optional 57cc pump 160.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/IIIN",
+          "Rear lift": "15180 lbs 6885 kg",
+          "&nbsp": "17300 lbs Opt Optional 7847 kg",
+          "Front Hitch": "IIIN Opt Optional",
+          "Front lift": "11000 lbs 4989 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet discs",
+          "Rear PTO Type": "1000 (1.75)",
+          "Engine RPM": "1000@2200"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "117.7 inches 298 cm",
+          "Weight": "23050 to 23800 pounds",
+          "Rear tire": "18.4R46",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "2002": "1001",
+          "2003": "10001",
+          "2004": "20001",
+          "2005": "30001",
+          "__seccion_1__": "8520 Serial Numbers",
+          "Location:": "Rear of tractor.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "150",
+          "Batteries": "2",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 23, 2015",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2002 - 2005",
+          "__seccion_2__": "8020 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8520 Tires",
+          "Ag rear": "18.4R46"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "117.7 inches 298 cm",
+          "Length": "211.9 inches 538 cm",
+          "Height (cab)": "122.2 inches 310 cm",
+          "Front axle": "Independent Link Suspension",
+          "Rack-and-pinion rear axle": "4.724 by 118.5 inches 119 by 3009 mm",
+          "4WD Front tread": "60 to 80 inches 152 to 203 cm",
+          "ILS Front tread": "60 to 88 inches 152 to 223 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 8520 Weight",
+          "Shipping": "23,050 lbs 10455 kg",
+          "Operating": "23,800 lbs (480/80R46 duals) 10795 kg",
+          "Max Drawbar": "4,900 lbs 2222 kg",
+          "&nbsp": "10,000 lbs (with HD support) 4536 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 23, 2015"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2002 - 2005",
+          "__seccion_2__": "8020 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1801"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1801",
+          "__seccion_2__": "Diesel 16-speed 4WD May 2 - 31, 2002 Link: OCED Tractor Test 1801 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "225.13 hp 167.9 kW",
+          "Fuel use": "14.9 gal/hour 56.4 l/hour",
+          "Power at rated engine speed": "256.49 hp 191.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 8 used for power test.",
+          "Max pull": "35,611 lbs 16153 kg",
+          "__seccion_6__": "Gear 3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 23, 2015"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2002 - 2005",
+          "__seccion_2__": "8020 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "496 ci 8.1 L",
+          "Bore/Stroke": "4.56x5.06 inches 116 x 129 mm",
+          "Rated Power (net)": "295 hp 220.0 kW",
+          "Rated Power (gross)": "305 hp 227.4 kW",
+          "Maximum Power (net)": "325 hp 242.4 kW",
+          "Maximum Power (gross)": "335 hp 249.8 kW",
+          "Fuel system": "electronic high-pressure common rail (HPCR)",
+          "Air cleaner": "dry with secondary element",
+          "Compression": "16.5:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "900-2300",
+          "Operating RPM": "1500-2200",
+          "Starter volts": "12",
+          "Coolant capacity": "35.9 qts 34.0 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "32.7 qts 30.9 L",
+          "Oil change": "250 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 23, 2015"
+        }
+      ]
+    }
+  }
+}

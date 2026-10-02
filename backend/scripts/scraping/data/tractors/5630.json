@@ -1,0 +1,244 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/6/3/5630-caseih-magnum-335.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/6/3/5630-caseih-magnum-335-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/6/3/5630-caseih-magnum-335-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/6/3/5630-caseih-magnum-335-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 5630,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:43:58.298Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5630/5630-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 5630,
+  "name": "CaseIH Magnum 335",
+  "brand": "CaseIH",
+  "model": "Magnum 335",
+  "years": {
+    "desde": 2008,
+    "hasta": 2011
+  },
+  "model_year": 2008,
+  "engine_power_hp": 330,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 275,
+  "pto_tested_hp": 314.96,
+  "drawbar_tested_hp": 243.25,
+  "weight_kg": 9684,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 169.1,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 480/80R50",
+  "tire_width_mm": 480,
+  "tire_diameter_mm": 2038,
+  "tire_front": {
+    "original": "380/80R38",
+    "radial": true,
+    "width_mm": 380,
+    "rim_in": 38,
+    "diameter_mm_est": 1573,
+    "tipo": "Radial",
+    "texto": "380/80R38"
+  },
+  "fuel_consumption_lph": 70,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5630/5630-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td5630.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2008 - 2011",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA",
+          "__seccion_4__": "Original price was $240,486 in 2010"
+        },
+        {
+          "__seccion_1__": "CaseIH Magnum 335 Engine",
+          "__seccion_2__": "CNH 8.9L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Magnum 335 Transmissions",
+          "__seccion_2__": "18-speed full powershift",
+          "__seccion_3__": "19-speed full power shift",
+          "__seccion_4__": "23-speed creeper",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Magnum 335 Power",
+          "Engine": "330 hp 246.1 kW",
+          "PTO (claimed)": "275 hp 205.1 kW",
+          "Drawbar (tested)": "243.25 hp 181.4 kW",
+          "PTO (tested)": "314.96 hp 234.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with heat and air-conditioning. Optional luxury cab with red or grey leather seat, tinted rear window, and leather-wrapped controls."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH Magnum 335 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "180 gal 681.3 L",
+          "Hydraulic system": "45.5 gal 172.2 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "PFC",
+          "Capacity": "45.5 gal 172.2 L",
+          "Valves": "3 to 5",
+          "Total flow": "46 gpm 174.1 lpm",
+          "&nbsp": "78 gpm (Twin-Flow) 295.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IVN/III",
+          "Rear lift": "18900 lbs 8573 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000",
+          "&nbsp": "540/1000 Opt Optional"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "118.3 inches 300 cm",
+          "Weight": "21350 lbs 9684 kg",
+          "Front tire": "380/80R38",
+          "Rear tire": "480/80R50",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "150",
+          "&nbsp": "175 Opt Optional",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Magnum Series Tractors published in 2007, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 22, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2008 - 2011",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH Magnum 335 Tires",
+          "Ag front": "380/80R38",
+          "Ag rear": "480/80R50"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "118.3 inches 300 cm",
+          "Height (cab)": "128.5 inches 326 cm",
+          "Shipping weight": "21350 lbs 9684 kg",
+          "Max weight": "37125 lbs 16839 kg",
+          "Bar rear axle": "4.5 by 120 inches 114 by 3048 mm",
+          "Front tread": "60 to 88 inches 152 to 223 cm",
+          "Rear tread": "64 to 129 inches 162 to 327 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 22, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2008 - 2011",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1936"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1936",
+          "__seccion_2__": "Diesel 19-speed 4WD September 17 - 26, 2008 Link: OCED Tractor Test 1936 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "243.25 hp 181.4 kW",
+          "Fuel use": "16.8 gal/hour 63.6 l/hour",
+          "Power at rated engine speed": "277.67 hp 207.1 kW",
+          "Power at rated PTO speed": "305.50 hp 227.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 7 used for power test.",
+          "Max pull": "38,024 lbs 17247 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 22, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2008 - 2011",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CNH",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "540 ci 8.9 L",
+          "Bore/Stroke": "4.488x5.689 inches 114 x 145 mm",
+          "Power": "330 hp 246.1 kW",
+          "Compression": "17.6:1",
+          "Rated RPM": "2100",
+          "Starter volts": "12",
+          "Oil capacity": "22 qts 20.8 L",
+          "Coolant capacity": "26 qts 24.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 22, 2025"
+        }
+      ]
+    }
+  }
+}

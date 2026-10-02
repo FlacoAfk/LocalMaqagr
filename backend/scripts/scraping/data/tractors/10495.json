@@ -1,0 +1,207 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/4/9/10495-massey-ferguson-2230.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/4/9/10495-massey-ferguson-2230-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/4/9/10495-massey-ferguson-2230-engine.html",
+    "source_id": 10495,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:51:23.569Z"
+  },
+  "tractor_data_id": 10495,
+  "name": "Massey Ferguson 2230",
+  "brand": "Massey Ferguson",
+  "model": "2230",
+  "years": {
+    "desde": 1999,
+    "hasta": 2001
+  },
+  "model_year": 1999,
+  "engine_power_hp": 73,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3250,
+  "weight_basis": "ROPS Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 26.8,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 420/70R30",
+  "tire_width_mm": 420,
+  "tire_diameter_mm": 1350,
+  "tire_front": {
+    "original": "360/70R20",
+    "radial": true,
+    "width_mm": 360,
+    "rim_in": 20,
+    "diameter_mm_est": 1012,
+    "tipo": "Radial",
+    "texto": "360/70R20"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": null,
+  "photo_url_large": null,
+  "image_url": null,
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1999 - 2001",
+          "__seccion_2__": "2200 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2230 Engine",
+          "__seccion_2__": "Perkins 4.2L 4-cyl diesel",
+          "Fuel tank": "17.7 gal 67.0 L",
+          "&nbsp": "26.4 gal * Total capacity with optional 33 liter auxiliary fuel tank. 99.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2230 Transmissions",
+          "__seccion_2__": "15-speed sync shuttle",
+          "__seccion_3__": "30-speed two-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2230 Power",
+          "Engine": "73 hp 54.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "electro-hydraulic",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic Opt Optional",
+          "__seccion_5__": "Cab standard with heat. Air-conditioning optional. Flat platform with Two-post ROPS available."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 2230 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2611 psi 180.0 bar",
+          "Valves": "3",
+          "Total flow": "20.3 gpm 76.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position and draft control",
+          "Rear lift": "4630 lbs 2100 kg",
+          "&nbsp": "7496 lbs Opt Optional 3400 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540/750 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "84.8 inches 215 cm",
+          "Weight": "7165 to 7385 pounds",
+          "Front tire": "360/70R20",
+          "Rear tire": "420/70R30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF 2200 published in 1999, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 20, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1999 - 2001",
+          "__seccion_2__": "2200 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2230 Tires",
+          "Standard tires (ag)": "Front: 360/70R20. Rear: 420/70R30",
+          "Optional tires (ag)": "Front: 11.2R24. Rear: 16.9R30",
+          "&nbsp": "Front: 480/65R24. Rear:"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "84.8 inches 215 cm",
+          "Length": "158.3 inches 402 cm",
+          "Width": "77.9 inches 197 cm",
+          "Height (cab)": "97.2 inches 246 cm",
+          "ROPS Weight": "7165 lbs 3250 kg",
+          "Cab Weight": "7385 lbs 3349 kg",
+          "Ground clearance": "15.6 inches 39 cm",
+          "Front tread": "62.8 to 73 inches 159 to 185 cm",
+          "Rear tread": "61.3 to 77.1 inches 155 to 195 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 20, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1999 - 2001",
+          "__seccion_2__": "2200 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins 1004-42",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "258.3 ci 4.2 L",
+          "Bore/Stroke": "4.055x5.00 inches 103 x 127 mm",
+          "Power": "73 hp 54.4 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dry",
+          "Compression": "18.5:1",
+          "Rated RPM": "2200",
+          "Torque": "173.3 lb-ft 235.0 Nm",
+          "Torque RPM": "1400",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 20, 2020"
+        }
+      ]
+    }
+  }
+}

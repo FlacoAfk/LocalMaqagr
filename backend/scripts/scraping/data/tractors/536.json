@@ -1,0 +1,232 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/5/3/536-ji-case-2870.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/5/3/536-ji-case-2870-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/5/3/536-ji-case-2870-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/5/3/536-ji-case-2870-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 536,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:07:20.107Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/536/536-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 49 KB"
+  },
+  "tractor_data_id": 536,
+  "name": "J.I. Case 2870 Traction King",
+  "brand": "J.I. Case",
+  "model": "2870 Traction King",
+  "years": {
+    "desde": 1976,
+    "hasta": 1979
+  },
+  "model_year": 1976,
+  "engine_power_hp": 300,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 252,
+  "pto_tested_hp": 252.1,
+  "drawbar_tested_hp": 210.64,
+  "weight_kg": 11385,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 117.4,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "18.4-34",
+    "radial": false,
+    "width_mm": 467,
+    "rim_in": 34,
+    "diameter_mm_est": 1658,
+    "tipo": "Diagonal",
+    "texto": "18.4-34"
+  },
+  "fuel_consumption_lph": 61.7,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/536/536-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/536/536-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td536.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1976 - 1979",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA",
+          "Total built": "1,259",
+          "__seccion_4__": "Original price was $57,000 in 1979"
+        },
+        {
+          "__seccion_1__": "J.I. Case 2870 Engine",
+          "__seccion_2__": "Saab-Scania 11.0L 6-cyl diesel",
+          "Fuel tank": "150 gal 567.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 2870 Transmission",
+          "__seccion_2__": "12-speed partial powershift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 2870 Power",
+          "Engine": "300 hp 223.7 kW",
+          "Drawbar (claimed)": "219 hp 163.3 kW",
+          "PTO (claimed)": "252 hp 187.9 kW",
+          "Drawbar (tested)": "210.64 hp 157.1 kW",
+          "PTO (tested)": "252.10 hp 188.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x4 4WD",
+          "Steering": "hydrostatic power, four-wheel steering",
+          "__seccion_2__": "Hydraulic dry disc brakes",
+          "__seccion_3__": "Cab standard"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "J.I. Case 2870 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "2",
+          "Total flow": "44 gpm 166.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "110 inches 279 cm",
+          "Weight": "25,100 lbs 11385 kg",
+          "Front tire": "18.4-34",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1976": "8792901",
+          "1977": "8825001",
+          "1978": "8853001",
+          "1979": "8853001",
+          "__seccion_1__": "2870 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "\"Specializing\" for Specialists published in 1978, by J.I. Case",
+          "__seccion_3__": "Specialization... the payoff in farming published in 1980, by J.I. Case"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 22, 2018"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1976 - 1979",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "J.I. Case 2870 Tires",
+          "Ag front": "18.4-34",
+          "Ag rear": "18.4-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "110 inches 279 cm",
+          "Operating weight": "25,100 lbs 11385 kg",
+          "Ballasted weight": "28,150 lbs 12768 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 22, 2018"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1976 - 1979",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1241"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1241",
+          "__seccion_2__": "Diesel 12-speed 4WD May 3 - 12, 1977 Link: Nebraska Tractor Test 1241 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "252.10 hp 188.0 kW",
+          "Fuel use": "16.2 gal/hour 61.3 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "210.64 hp 157.1 kW",
+          "__seccion_5__": "Gear 3-Intermediate used for power test.",
+          "Max pull": "26,386 lbs 11968 kg",
+          "__seccion_6__": "Gear 1I used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 22, 2018"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1976 - 1979",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Saab-Scania",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "673 ci 11.0 L",
+          "Bore/Stroke": "5.00x5.71 inches 127 x 145 mm",
+          "Power": "300 hp 223.7 kW",
+          "Air cleaner": "paper elements with pre-cleaner",
+          "Compression": "14.7:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12",
+          "Coolant capacity": "44 qts 41.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 22, 2018"
+        }
+      ]
+    }
+  }
+}

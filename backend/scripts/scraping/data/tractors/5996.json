@@ -1,0 +1,248 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/9/9/5996-john-deere-8400t.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/9/9/5996-john-deere-8400t-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/9/9/5996-john-deere-8400t-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/9/9/5996-john-deere-8400t-engine.html",
+    "source_id": 5996,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:49:10.471Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5996/5996-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 62 KB"
+  },
+  "tractor_data_id": 5996,
+  "name": "John Deere 8400T",
+  "brand": "John Deere",
+  "model": "8400T",
+  "years": {
+    "desde": 1997,
+    "hasta": 1999
+  },
+  "model_year": 1997,
+  "engine_power_hp": 225,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 225,
+  "pto_tested_hp": 255.16,
+  "drawbar_tested_hp": 195.75,
+  "weight_kg": 11340,
+  "weight_basis": "Operating weight",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 124.5,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 51.5,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5996/5996-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5996/5996-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td5996.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1997 - 1999",
+          "__seccion_2__": "8000/8000T Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Agricultural Crawler tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA"
+        },
+        {
+          "8400": "wheeled tractor",
+          "__seccion_1__": "Variants",
+          "8400T": "crawler tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8400T Engine",
+          "__seccion_2__": "John Deere 8.1L 6-cyl",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8400T Transmission",
+          "__seccion_2__": "16-speed full powershift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8400T Power",
+          "PTO (claimed)": "225 hp 167.8 kW",
+          "Drawbar (tested)": "195.75 hp 146.0 kW",
+          "PTO (tested)": "255.16 hp 190.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "crawler",
+          "Steering": "hydrostatic power",
+          "__seccion_2__": "Hydraulic wet disc brakes",
+          "__seccion_3__": "CommandView Cab standard"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 8400T photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "130 gal 492.1 L",
+          "Hydraulic system": "65 gal 246.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "pressure/flow compensated (PFC)",
+          "Capacity": "65 gal 246.0 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "3 to 5",
+          "Pump flow": "30 gpm 113.6 lpm",
+          "&nbsp": "38 gpm (optional) 143.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/IIIN",
+          "Rear lift": "15,650 lbs 7098 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tracks",
+          "Wheelbase": "89 inches 226 cm",
+          "Weight": "25,000 lbs 11340 kg",
+          "__seccion_2__": "16-inch tracks",
+          "__seccion_3__": "Full dimensions and tracks ..."
+        },
+        {
+          "1997": "901001",
+          "1998": "902001",
+          "1999": "904001",
+          "__seccion_1__": "8400T Serial Numbers",
+          "Location:": "Rear of tractor",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "140",
+          "Batteries": "2",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Questions",
+          "__seccion_2__": "I am attempting to finish the fall harvest and one is doing the ripping for our fall tillage. My question to you, if you are the person to ask is where is the transmission / hydraulic dip stick on the 8400t john deere tractor? I have not been able to find a picture in the manual that came with the tractor that we purchased used a few years ago. Looking at the manual it appears there is not a dipstick. It looks like a sightglass just to the left of the rear PTO shaft.",
+          "__seccion_3__": "Email: Peter@TractorData.com"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "8000/8000T Series Tractors Product Information Handbook published in 1998, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 27, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1997 - 1999",
+          "__seccion_2__": "8000/8000T Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8400T Tracks",
+          "Width": "30 inches 76 cm"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "89 inches 226 cm",
+          "Length": "207 inches 525 cm",
+          "&nbsp": "21.7 inches (rear axle) 55 cm",
+          "Width": "103.7 inches (minimum) 263 cm",
+          "Height (cab)": "122.9 inches 312 cm",
+          "Operating weight": "25,000 lbs 11340 kg",
+          "Ballasted weight": "27,330 lbs 12396 kg",
+          "Ground clearance": "17.7 inches (drawbar) 44 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 27, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1997 - 1999",
+          "__seccion_2__": "8000/8000T Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1747"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1747",
+          "__seccion_2__": "Diesel 16-speed crawler April 8 - May 1, 1998 Link: OCED Tractor Test 1747 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "195.75 hp 146.0 kW",
+          "Fuel use": "13.0 gal/hour 49.2 l/hour",
+          "Power at rated engine speed": "226.73 hp 169.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 9 used for power test.",
+          "Max pull": "27,993 lbs 12697 kg",
+          "__seccion_6__": "Gear 3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 27, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1997 - 1999",
+          "__seccion_2__": "8000/8000T Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged intercooled",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "496 ci 8.1 L",
+          "Bore/Stroke": "4.56x5.06 inches 116 x 129 mm",
+          "Air cleaner": "two paper elements",
+          "Compression": "16.5:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12",
+          "Oil capacity": "22.7 qts 21.5 L",
+          "Coolant capacity": "35.9 qts 34.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 27, 2022"
+        }
+      ]
+    }
+  }
+}

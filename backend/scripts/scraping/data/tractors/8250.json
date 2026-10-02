@@ -1,0 +1,256 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/2/5/8250-caseih-steiger-620.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/2/5/8250-caseih-steiger-620-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/008/2/5/8250-caseih-steiger-620-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/2/5/8250-caseih-steiger-620-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 8250,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:52:01.621Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8250/8250-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 4 KB"
+  },
+  "tractor_data_id": 8250,
+  "name": "CaseIH Steiger 620",
+  "brand": "CaseIH (a part of CNH)",
+  "model": "steiger 620",
+  "years": {
+    "desde": 2014,
+    "hasta": 2023
+  },
+  "model_year": 2014,
+  "engine_power_hp": 620,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 473,
+  "pto_tested_hp": 539.58,
+  "drawbar_tested_hp": 531.51,
+  "weight_kg": 21839,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 231.7,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 710/70R42",
+  "tire_width_mm": 710,
+  "tire_diameter_mm": 2061,
+  "tire_front": {
+    "original": "710/70R42",
+    "radial": true,
+    "width_mm": 710,
+    "rim_in": 42,
+    "diameter_mm_est": 2061,
+    "tipo": "Radial",
+    "texto": "710/70R42"
+  },
+  "fuel_consumption_lph": 106,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F008/8250/8250-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td8250.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2014 - 2023",
+          "__seccion_2__": "Steiger 4WD Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH (a part of CNH)",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Fargo, North Dakota, USA",
+          "__seccion_4__": "Original price was $468,459 in 2015"
+        },
+        {
+          "620": "wheeled tractor",
+          "__seccion_1__": "Variants",
+          "620QT": "crawler tractor",
+          "T9.700": "similar New Holland model"
+        },
+        {
+          "__seccion_1__": "CaseIH Steiger 620 Engine",
+          "__seccion_2__": "FPT 12.9L 6-cyl diesel",
+          "Fuel tank": "455 gal 1722.2 L",
+          "Exhaust fluid (DEF)": "66 gal 249.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Steiger 620 Transmission",
+          "__seccion_2__": "16-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Steiger 620 Power",
+          "Engine": "620 hp 462.3 kW",
+          "PTO (claimed)": "473 hp 352.7 kW",
+          "Drawbar (tested)": "531.51 hp 396.3 kW",
+          "PTO (tested)": "539.58 hp 402.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Steering": "hydraulic articulated",
+          "Brakes": "hydraulic wet disc",
+          "&nbsp": "engine brake Opt Optional",
+          "Trailer brakes": "hydraulic Opt Optional",
+          "__seccion_3__": "Surveyor Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH Steiger 620 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "pressure flow compensated",
+          "Valves": "4 to 8",
+          "Pump flow": "42 gpm 159.0 lpm",
+          "&nbsp": "113 gpm * TwinFlow option 427.7 lpm",
+          "SCV flow": "35 gpm 132.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IVN",
+          "Rear lift (at 24\"/610mm)": "19621 lbs 8900 kg",
+          "Rear Arms": "quick coupler",
+          "Drawbar": "Cat. 4",
+          "&nbsp": "Cat. 5 Opt Optional"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (1.75)",
+          "Engine RPM": "1000@1811"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "154 inches 391 cm",
+          "Weight": "48147 lbs 21839 kg",
+          "Front tire": "710/70R42",
+          "Rear tire": "710/70R42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "240",
+          "Batteries": "2",
+          "Battery CCA": "1000",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Steiger 370-620 Tractors published in 2014, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 14, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2014 - 2023",
+          "__seccion_2__": "Steiger 4WD Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH Steiger 620 Tires",
+          "Ag front": "710/70R42",
+          "Ag rear": "710/70R42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "154 inches 391 cm",
+          "Length": "300 inches 762 cm",
+          "Width": "120 inches * At axle ends. 304 cm",
+          "Height (cab)": "156 inches 396 cm",
+          "Weight": "48147 lbs 21839 kg",
+          "Max weight": "66000 lbs 29937 kg",
+          "Front axle": "Bar: 5.5 by 120 inches 139 by 3048 mm",
+          "Bar rear axle": "5.5 by 120 inches 139 by 3048 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 14, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2014 - 2023",
+          "__seccion_2__": "Steiger 4WD Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2164"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2164",
+          "__seccion_2__": "Diesel 16-speed 4WD September 27 - October 5, 2016 Link: OCED Tractor Test 2164 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "531.51 hp 396.3 kW",
+          "Fuel use": "30.1 gal/hour 113.9 l/hour",
+          "Power at rated engine speed": "477.00 hp 355.7 kW",
+          "Power at rated PTO speed": "535.05 hp 399.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 5 used for power test.",
+          "Max pull": "52098 lbs 23631 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 14, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2014 - 2023",
+          "__seccion_2__": "Steiger 4WD Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT",
+          "__seccion_3__": "two-stage turbocharged air-to-water intercooled air-to-air aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "787 ci 12.9 L",
+          "Bore/Stroke": "5.31x5.91 inches 135 x 150 mm",
+          "Emissions": "Tier 4",
+          "Emission control": "selective catalytic reduction (SCR)",
+          "Power": "620 hp 462.3 kW",
+          "Maximum Power": "682 hp 508.6 kW",
+          "Fuel system": "electronic high pressure common rail",
+          "Cooling system": "hydraulically-driven fan",
+          "Rated RPM": "2100",
+          "Starter": "electric",
+          "Starter volts": "24"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 14, 2024"
+        }
+      ]
+    }
+  }
+}

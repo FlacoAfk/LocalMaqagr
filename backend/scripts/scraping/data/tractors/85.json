@@ -1,0 +1,318 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/8/85-john-deere-2030.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/8/85-john-deere-2030-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/8/85-john-deere-2030-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/8/85-john-deere-2030-engine.html",
+    "source_id": 85,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:46:55.360Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/85/85-photo-001-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 79 KB"
+  },
+  "tractor_data_id": 85,
+  "name": "John Deere 2030",
+  "brand": "John Deere",
+  "model": "2030",
+  "years": {
+    "desde": 1971,
+    "hasta": 1975
+  },
+  "model_year": 1971,
+  "engine_power_hp": 68,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 60.34,
+  "pto_tested_hp": 60.65,
+  "drawbar_tested_hp": 50.42,
+  "weight_kg": 2177,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 28.2,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": 20.8,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/85/85-td3a.jpg",
+  "image_url": "/uploads/tractors/td85.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1971 - 1975",
+          "__seccion_2__": "Generation II Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "Factories": "Dubuque, Iowa, USA",
+          "&nbsp": "Mannheim, Baden-Württemberg, Germany",
+          "__seccion_3__": "Original price was $9,000 in 1975"
+        },
+        {
+          "__seccion_1__": "John Deere 2030 Engines",
+          "__seccion_2__": "John Deere 3.6L 4-cyl diesel",
+          "__seccion_3__": "John Deere 3.6L 4-cyl gasoline",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2030 Transmissions",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "16-speed partial power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2030 Power",
+          "Engine": "68 hp 50.7 kW",
+          "Drawbar (claimed)": "51 hp 38.0 kW",
+          "PTO (claimed)": "60.34 hp 45.0 kW",
+          "Drawbar (tested)": "50.42 hp 37.6 kW",
+          "PTO (tested)": "60.65 hp 45.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "power assist",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Open operator station. Optional two-post ROPS with canopy."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 2030 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "19.5 gal 73.8 L",
+          "Hydraulic system": "10 gal 37.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "10 gal 37.9 L",
+          "Pressure": "2250 psi 155.1 bar",
+          "Pump flow": "6 gpm (transmission) 22.7 lpm",
+          "&nbsp": "24.5 gpm Opt Optional 92.7 lpm",
+          "Total flow": "14.5 gpm 54.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "&nbsp": "540/1000",
+          "Rear PTO Type": "540",
+          "Mid PTO": "optional",
+          "Mid PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "85.75 inches (straight axle) 217 cm",
+          "&nbsp": "79.375 inches (swept axle) 201 cm",
+          "Weight": "4800 to 5230 pounds",
+          "Front tire": "6.00-16",
+          "Rear tire": "13.6-28/38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2030 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "2030 Serial Number Location",
+          "__seccion_2__": "Right side of grill or transmission case."
+        },
+        {
+          "1972": "134700",
+          "1973": "157109",
+          "1974": "140000L (Germany)",
+          "1975": "145500L (Germany)",
+          "__seccion_1__": "2030 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Batteries": "1",
+          "&nbsp": "2",
+          "Battery CCA": "370",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operator's Manual 145 Loader (OMW21474)",
+          "__seccion_3__": "Schlepper 2030 mit 71/68 PS published in 1972, by John Deere",
+          "__seccion_4__": "2030 Tractor with 71hp published by John Deere",
+          "__seccion_5__": "John Deere 2030 Tractor (Serial No. 187301-up) (OM-R59805)",
+          "__seccion_6__": "Tractors 1130, 2030, 2130, 3130 published in 1976, by John Deere",
+          "__seccion_7__": "Product Information Manual published in 1975, by John Deere",
+          "__seccion_8__": "Product Information Manual published in 1977, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 23, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1971 - 1975",
+          "__seccion_2__": "Generation II Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 2030 Tires",
+          "Ag front": "6.00-16",
+          "&nbsp": "18.4-26",
+          "Ag rear": "13.6-28/38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "85.75 inches (straight axle) 217 cm",
+          "&nbsp": "79.375 inches (swept axle) 201 cm",
+          "Length": "139.5 inches 354 cm",
+          "Width": "69.5 inches 176 cm",
+          "Height (hood)": "55.75 inches 141 cm",
+          "Height (exhaust)": "81.25 inches 206 cm",
+          "Shipping weight": "4800 lbs 2177 kg",
+          "Operating weight": "5230 lbs 2372 kg",
+          "Front tread": "53 to 73 inches 134 to 185 cm (heavy-duty)",
+          "Rear tread": "54 to 78 inches 137 to 198 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 23, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1971 - 1975",
+          "__seccion_2__": "Generation II Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 1084: gasoline 16-speed 2WD",
+          "__seccion_3__": "NTTL 1085: diesel 16-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1084"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1084",
+          "__seccion_2__": "Gasoline 16-speed 2WD October 23 - November 3, 1971 Link: Nebraska Tractor Test 1084 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "60.34 hp 45.0 kW",
+          "Fuel use": "5.7 gal/hour 21.6 l/hour",
+          "Power at rated PTO speed": "55.38 hp 41.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "49.03 hp 36.6 kW",
+          "__seccion_5__": "Gear 5-Hi used for power test.",
+          "Max pull": "6,340 lbs 2875 kg",
+          "__seccion_6__": "Gear 3-Lo used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1085"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1085",
+          "__seccion_2__": "Diesel 16-speed 2WD October 23 - November 4, 1971 Link: Nebraska Tractor Test 1085 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "60.65 hp 45.2 kW",
+          "Fuel use": "4.0 gal/hour 15.1 l/hour",
+          "Power at rated PTO speed": "55.23 hp 41.2 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "50.42 hp 37.6 kW",
+          "__seccion_5__": "Gear 5-Hi used for power test.",
+          "Max pull": "6,472 lbs 2935 kg",
+          "__seccion_6__": "Gear 3-Lo used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 23, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1971 - 1975",
+          "__seccion_2__": "Generation II Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "John Deere 3.6L 4-cyl diesel",
+          "__seccion_3__": "John Deere 3.6L 4-cyl gasoline"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "219.4 ci 3.6 L",
+          "Bore/Stroke": "4.02x4.33 inches 102 x 110 mm",
+          "Power": "68 hp 50.7 kW",
+          "Compression": "16.2:1",
+          "Rated RPM": "2500",
+          "Firing order": "1-3-4-2",
+          "Starter volts": "12",
+          "Oil capacity": "6 qts 5.7 L",
+          "Coolant capacity": "12 qts 11.4 L",
+          "Intake valve clearance": "0.014 inches 0.356 mm",
+          "Exhaust valve clearance": "0.018 inches 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "219 ci 3.6 L",
+          "Bore/Stroke": "4.02x4.33 inches 102 x 110 mm",
+          "Air cleaner": "dry",
+          "Compression": "8:1",
+          "Rated RPM": "2500",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 23, 2025"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/85/85-photo-001-ext090.jpg"
+}

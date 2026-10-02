@@ -1,0 +1,246 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/009/3/3/9339-caseih-maxxum-145.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/009/3/3/9339-caseih-maxxum-145-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/009/3/3/9339-caseih-maxxum-145-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 9339,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:53:09.619Z",
+    "foto_original": "https://www.tractordata.com/photos/F009/9339/9339-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 9339,
+  "name": "CaseIH Maxxum 145",
+  "brand": "CaseIH",
+  "model": "Maxxum 145",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 145,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 120,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 5694,
+  "weight_basis": "4WD",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 44,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 460/85R38",
+  "tire_width_mm": 460,
+  "tire_diameter_mm": 1747,
+  "tire_front": {
+    "original": "380/85R28",
+    "radial": true,
+    "width_mm": 380,
+    "rim_in": 28,
+    "diameter_mm_est": 1357,
+    "tipo": "Radial",
+    "texto": "380/85R28"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F009/9339/9339-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td9339.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2015 -",
+          "__seccion_2__": "Maxxum Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Original price was $119,606 in 2017"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "Maxxum 145": "standard",
+          "Maxxum 145MC": "premium"
+        },
+        {
+          "__seccion_1__": "CaseIH Maxxum 145 Engine",
+          "__seccion_2__": "FPT 4.5L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Maxxum 145 Transmission",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Maxxum 145 Power",
+          "Engine (gross)": "145 hp 108.1 kW",
+          "Engine (max)": "175 hp 130.5 kW",
+          "PTO (claimed)": "120 hp 89.5 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic Opt Optional",
+          "&nbsp": "pneumatic Opt Optional",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH Maxxum 145 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "51.5 gal 194.9 L",
+          "&nbsp": "60.8 gal * Optional, max tank. 230.1 L",
+          "Exhaust fluid (DEF)": "10.4 gal 39.4 L",
+          "Hydraulic system": "19.5 gal 73.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "&nbsp": "42.2 gpm * With optional PFC system. 159.7 lpm",
+          "Capacity": "19.5 gal 73.8 L",
+          "Rear valves": "2 to 4",
+          "Mid valves": "0 to 3",
+          "Pump flow": "21.1 gpm 79.9 lpm",
+          "SCV flow": "19.8 gpm 74.9 lpm",
+          "Total flow": "33.5 gpm 126.8 lpm",
+          "Steering flow": "12.4 gpm 46.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "&nbsp": "6900 lbs Opt Optional 3129 kg",
+          "Control": "electronic lower-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "6200 lbs 2812 kg",
+          "Rear Arms": "telescopic link ends",
+          "Front Hitch": "optional",
+          "Drawbar": "Cat. 3"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Front PTO": "independent Opt Optional",
+          "Clutch": "1000:1895",
+          "Front PTO Type": "1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "104.4 inches 265 cm",
+          "4WD Wheelbase": "104 inches 264 cm",
+          "Weight": "12004 to 12555 pounds",
+          "Front tire": "380/85R28",
+          "Rear tire": "460/85R38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging amps": "120",
+          "&nbsp": "1300 Opt Optional",
+          "Battery CCA": "800",
+          "Battery volts": "12",
+          "Battery AH": "176"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Maxxum Series Tractors published in 2016, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 10, 2017"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2015 -",
+          "__seccion_2__": "Maxxum Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH Maxxum 145 Tires",
+          "Standard tires (ag)": "Front: 380/85R28. Rear: 460/85R38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "104.4 inches 265 cm",
+          "4WD Wheelbase": "104 inches 264 cm",
+          "Length": "175.8 inches 446 cm",
+          "Width": "98 inches 248 cm",
+          "Height (cab)": "80 inches 203 cm",
+          "Front axle": "4WD",
+          "__seccion_2__": "Flange rear axle",
+          "Bar rear axle": "3.625 by 98 inches 92 by 2489 mm Opt Optional"
+        },
+        {
+          "__seccion_1__": "CaseIH Maxxum 145 Weight",
+          "2WD": "12004 lbs 5445 kg",
+          "4WD": "12555 lbs 5694 kg",
+          "Max capacity": "19841 lbs 8999 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 10, 2017"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2015 -",
+          "__seccion_2__": "Maxxum Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT",
+          "__seccion_3__": "turbocharged air-to-air intercooled diesel",
+          "__seccion_4__": "4-cylinder 16-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "274 ci 4.5 L",
+          "Bore/Stroke": "4.095x5.20 inches 104 x 132 mm",
+          "Emissions": "Tier 4",
+          "Emission control": "selective catalytic reduction with diesel exhaust fluid",
+          "Rated Power (gross)": "145 hp 108.1 kW",
+          "Maximum Power (gross)": "175 hp 130.5 kW",
+          "Fuel system": "electronic high-pressure common rail",
+          "Cooling system": "viscous fan",
+          "Pre-heating": "grid heater",
+          "&nbsp": "block heater Opt Optional",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "16 qts 15.1 L"
+        },
+        {
+          "__seccion_1__": "CaseIH Maxxum 145 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 10, 2017"
+        }
+      ]
+    }
+  }
+}

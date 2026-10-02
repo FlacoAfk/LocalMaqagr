@@ -1,0 +1,277 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/002/7/3/2731-john-deere-8430.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/002/7/3/2731-john-deere-8430-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/002/7/3/2731-john-deere-8430-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/002/7/3/2731-john-deere-8430-engine.html",
+    "source_id": 2731,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:38:32.514Z",
+    "foto_original": "https://www.tractordata.com/photos/F002/2731/2731-td4-b01-ext180.jpg",
+    "foto_calidad": "webp 960px/q65 → 83 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 2731,
+  "name": "John Deere 8430",
+  "brand": "John Deere",
+  "model": "8430",
+  "years": {
+    "desde": 2006,
+    "hasta": 2009
+  },
+  "model_year": 2006,
+  "engine_power_hp": 305,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 250,
+  "pto_tested_hp": 289.26,
+  "drawbar_tested_hp": 223.57,
+  "weight_kg": 11260,
+  "weight_basis": "Operating",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 106.9,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 56.4,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F002/2731/2731-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F002/2731/2731-td4-b01-ext180.jpg",
+  "image_url": "/uploads/tractors/td2731.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2006 - 2009",
+          "__seccion_2__": "8030 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA"
+        },
+        {
+          "8430": "row-crop tractor",
+          "__seccion_1__": "Variants",
+          "8430T": "crawler tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8430 Engine",
+          "__seccion_2__": "John Deere 9.0L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8430 Transmission",
+          "__seccion_2__": "16-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8430 Power",
+          "Engine (gross)": "305 hp 227.4 kW",
+          "Engine (max)": "330 hp 246.1 kW",
+          "PTO (claimed)": "250 hp 186.4 kW",
+          "Drawbar (tested)": "223.57 hp 166.7 kW",
+          "PTO (tested)": "289.26 hp 215.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x4 Independent Link Suspension MFWD 4WD (ILS)",
+          "&nbsp": "4x4 MFWD 4WD",
+          "__seccion_2__": "Power steering",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "CommandView cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 8430 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "180 gal 681.3 L",
+          "Hydraulic system": "9.5 gal 36.0 L",
+          "&nbsp": "14.5 gal (with aux reservoir) 54.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center PFC",
+          "Capacity": "9.5 gal 36.0 L",
+          "&nbsp": "60 gpm (optional) 227.1 lpm",
+          "Valves": "3 to 5",
+          "Pump flow": "31.7 gpm 120.0 lpm",
+          "Total flow": "44 gpm 166.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "&nbsp": "18,300 lbs (optional) 8300 kg",
+          "Rear lift": "17,300 lbs 7847 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000",
+          "&nbsp": "1000@2000",
+          "Engine RPM": "540@1817"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "118.9 inches (ILS) 302 cm",
+          "&nbsp": "120.1 inches (MFWD) 305 cm",
+          "Weight": "24825 to 25791 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "8430 Serial Number Location",
+          "__seccion_2__": "Rear of tractor near PTO"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "200",
+          "Batteries": "2",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "8030 Series 2007 Updates published by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 6, 2021",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2006 - 2009",
+          "__seccion_2__": "8030 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8430 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "118.9 inches (ILS) 302 cm",
+          "&nbsp": "120.1 inches (MFWD) 305 cm",
+          "Length": "219.1 inches 556 cm",
+          "Height": "122.9 inches 312 cm",
+          "Ground clearance": "17.4 inches 44 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 8430 Weight",
+          "Operating": "24,825 lbs 11260 kg",
+          "&nbsp": "25,791 lbs (ILS) 11698 kg",
+          "Ballasted": "33,650 lbs 15263 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 6, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2006 - 2009",
+          "__seccion_2__": "8030 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "OECD 1873: diesel PowerShift 4WD",
+          "__seccion_3__": "OECD 1874: diesel IVT 4WD"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1873"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1873",
+          "__seccion_2__": "Diesel PowerShift 4WD March 14 - April 5, 2006 Link: OCED Tractor Test 1873 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "223.57 hp 166.7 kW",
+          "Fuel use": "13.4 gal/hour 50.7 l/hour",
+          "Power at rated engine speed": "253.05 hp 188.7 kW",
+          "Power at rated PTO speed": "273.44 hp 203.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 10 used for power test.",
+          "Max pull": "24028 lbs 10899 kg",
+          "__seccion_6__": "Gear 5 used for pull test."
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1874"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1874",
+          "__seccion_2__": "Diesel IVT 4WD March 16 - April 5, 2006 Link: OCED Tractor Test 1874 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "211.26 hp 157.5 kW",
+          "Fuel use": "13.6 gal/hour 51.5 l/hour",
+          "Power at rated engine speed": "253.01 hp 188.7 kW",
+          "Power at rated PTO speed": "272.59 hp 203.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Pull at 7.5 kph",
+          "Max pull": "34,671 lbs 15726 kg",
+          "__seccion_6__": "Pull at 3.6 kph"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 6, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2006 - 2009",
+          "__seccion_2__": "8030 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech",
+          "__seccion_3__": "variable geometry turbocharger diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "548 ci 9.0 L",
+          "Bore/Stroke": "4.661x5.354 inches 118 x 136 mm",
+          "Rated Power (gross)": "305 hp 227.4 kW",
+          "Maximum Power (gross)": "330 hp 246.1 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "16.3:1",
+          "Rated RPM": "2100",
+          "Idle RPM": "900-2200",
+          "Operating RPM": "1500-2100",
+          "Starter volts": "12",
+          "Oil capacity": "25.5 qts 24.1 L",
+          "&nbsp": "29.5 qts (ILS) 27.9 L",
+          "Coolant capacity": "42.3 qts 40.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 6, 2021"
+        }
+      ]
+    }
+  }
+}

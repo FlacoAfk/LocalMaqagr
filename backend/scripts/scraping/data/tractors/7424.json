@@ -1,0 +1,236 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/4/2/7424-kubota-m8560.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/4/2/7424-kubota-m8560-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/4/2/7424-kubota-m8560-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 7424,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:00:26.605Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7424/7424-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 81 KB"
+  },
+  "tractor_data_id": 7424,
+  "name": "Kubota M8560",
+  "brand": "Kubota",
+  "model": "M8560",
+  "years": {
+    "desde": 2013,
+    "hasta": 2016
+  },
+  "model_year": 2013,
+  "engine_power_hp": 85.5,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": 76,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2639,
+  "weight_basis": "&nbsp",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 27.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9-30",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1492,
+  "tire_front": {
+    "original": "7.50-18",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 18,
+    "diameter_mm_est": 781,
+    "tipo": "Diagonal",
+    "texto": "7.50-18"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7424/7424-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7424/7424-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td7424.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2013 - 2016",
+          "__seccion_2__": "M60 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "M8560HF": "2WD ROPS 8-speed",
+          "M8560HFC": "2WD Cab 8-speed",
+          "M8560HD": "4WD ROPS 8-speed",
+          "M8560HDC": "4WD Cab 8-speed",
+          "M8560HD12": "4WD ROPS 12-speed",
+          "M8560HDC12": "4WD Cab 12-speed"
+        },
+        {
+          "__seccion_1__": "Kubota M8560 Engine",
+          "__seccion_2__": "Kubota 3.8L 4-cyl diesel",
+          "ROPS Fuel tank": "23.8 gal 90.1 L",
+          "Cab Fuel tank": "29.1 gal 110.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M8560 Transmissions",
+          "__seccion_2__": "8-speed power shuttle",
+          "__seccion_3__": "12-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M8560 Power",
+          "Engine (net)": "85.5 hp 63.8 kW",
+          "PTO (claimed)": "76 hp 56.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Two-post foldable ROPS. Optional Ultra Grand Cab with air-conditioning. Optional air-ride seat and AM/FM/CD/MP3 sound system."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota M8560 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Valves": "1 to 3",
+          "ROPS Pump flow": "15.9 gpm 60.2 lpm",
+          "Cab Pump flow": "17 gpm 64.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position control and top-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "4630 lbs 2100 kg",
+          "&nbsp": "7275 lbs (optional) 3299 kg",
+          "Rear Arms": "telescopic lower link ends"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540 (1.375",
+          "&nbsp": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "ROPS Wheelbase": "90 inches 228 cm",
+          "Cab Wheelbase": "88.6 inches 225 cm",
+          "Weight": "5400 to 6680 pounds",
+          "Front tire": "7.50-18",
+          "Rear tire": "16.9-30 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota M8560 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "45",
+          "Cab Charging amps": "60",
+          "Optional Charging amps": "100",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "M8560/M9960 published in 2012, by Kubota"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 3, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2013 - 2016",
+          "__seccion_2__": "M60 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M8560 Tires",
+          "Standard tires (ag)": "Front: 7.50-18. Rear: 16.9-30 (2WD)",
+          "&nbsp": "Front: 11.2-24. Rear: 16.9-30 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "ROPS Wheelbase": "90 inches 228 cm",
+          "Cab Wheelbase": "88.6 inches 225 cm",
+          "2WD Length": "153 inches 388 cm",
+          "4WD Length": "148 inches 375 cm",
+          "Width": "77 inches (min 2WD) 195 cm",
+          "&nbsp": "78 inches (min 4WD) 198 cm",
+          "Height (ROPS)": "99 inches 251 cm",
+          "Height (cab)": "100.2 inches 254 cm",
+          "2WD Clearance (front axle)": "20.5 inches 52 cm",
+          "4WD Clearance (front axle)": "18.7 inches 47 cm",
+          "__seccion_2__": "Flange rear axle",
+          "Front tread": "59.8 to 63.8 inches 151 to 162 cm (4WD)",
+          "Rear tread": "59.8 to 75.6 inches 151 to 192 cm"
+        },
+        {
+          "__seccion_1__": "Kubota M8560 Weight",
+          "__seccion_2__": "5400 lbs (2WD ROPS) 2449 kg",
+          "&nbsp": "6680 lbs (4WD Cab) 3030 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 3, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2013 - 2016",
+          "__seccion_2__": "M60 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V3800-CR-TE4",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "230 ci 3.8 L",
+          "Bore/Stroke": "3.94x4.72 inches 100 x 120 mm",
+          "Emissions": "Interim Tier IV",
+          "Emission control": "exhaust gas recirculation (EGR)",
+          "Power (net)": "85.5 hp 63.8 kW",
+          "Fuel system": "common rail direct injection",
+          "Rated RPM": "2400 (ROPS)",
+          "&nbsp": "2600 (cab)",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 3, 2023"
+        }
+      ]
+    }
+  }
+}

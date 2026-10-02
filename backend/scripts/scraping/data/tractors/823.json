@@ -1,0 +1,265 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/2/823-massey-ferguson-1085.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/2/823-massey-ferguson-1085-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/8/2/823-massey-ferguson-1085-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/2/823-massey-ferguson-1085-engine.html",
+    "source_id": 823,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:25:49.026Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/823/823-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 72 KB"
+  },
+  "tractor_data_id": 823,
+  "name": "Massey Ferguson 1085",
+  "brand": "Massey Ferguson",
+  "model": "1085",
+  "years": {
+    "desde": 1973,
+    "hasta": 1978
+  },
+  "model_year": 1973,
+  "engine_power_hp": 81,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 81,
+  "pto_tested_hp": 81.58,
+  "drawbar_tested_hp": 69.16,
+  "weight_kg": 3810,
+  "weight_basis": "Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 46.1,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "10.00-16",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 16,
+    "diameter_mm_est": 838,
+    "tipo": "Diagonal",
+    "texto": "10.00-16"
+  },
+  "fuel_consumption_lph": 19.7,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/823/823-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/823/823-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td823.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1973 - 1978",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Detroit, Michigan, USA",
+          "__seccion_4__": "Original price was $17,000 in 1978"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1085 Engine",
+          "__seccion_2__": "Perkins 5.2L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1085 Transmissions",
+          "__seccion_2__": "12-speed partial power shift",
+          "__seccion_3__": "8-speed gear",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1085 Power",
+          "PTO (claimed)": "81 hp 60.4 kW",
+          "Drawbar (tested)": "69.16 hp 51.6 kW",
+          "PTO (tested)": "81.58 hp 60.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical disc brakes",
+          "__seccion_5__": "Open operator station. Optional cab and air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 1085 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "45 gal 170.3 L",
+          "Hydraulic system": "8.5 gal 32.2 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Capacity": "8.5 gal 32.2 L",
+          "Pressure": "2300 psi 158.6 bar",
+          "SCV flow": "10 gpm 37.9 lpm",
+          "Steering flow": "5 gpm 18.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/III",
+          "Control": "position and draft control",
+          "Rear lift": "3550 lbs 1610 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "&nbsp": "1000@2000",
+          "Engine RPM": "540@1700"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "97.6 inches 247 cm",
+          "Weight": "8400 to 11540 pounds",
+          "Front tire": "10.00-16",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1085 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1972": "9B36563",
+          "1973": "9B36841",
+          "1974": "9B42685",
+          "1975": "9B50494",
+          "1976": "9B58735",
+          "1977": "9B66276",
+          "1978": "9B74241",
+          "1979": "9B76058",
+          "__seccion_1__": "1085 Serial Numbers",
+          "Location:": "In front of instrument panel on left side.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Batteries": "2",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Loaders and Spreaders published in 1979, by Massey Ferguson",
+          "__seccion_3__": "MF 285/1085 Tractors published in 1976, by Massey Ferguson",
+          "__seccion_4__": "Complete Farm Machinery Guide published in 1976, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1973 - 1978",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1085 Tires",
+          "Ag front": "6.00-16",
+          "Ag rear": "13.6-38",
+          "&nbsp": "23.1-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "97.6 inches 247 cm",
+          "Length": "153.9 inches 390 cm",
+          "Width": "114.2 inches 290 cm",
+          "Height (steering wheel)": "79.1 inches 200 cm",
+          "Clearance (drawbar)": "16.8 inches 42 cm",
+          "Front tread": "61.6 inches 156 cm (Western)",
+          "Rear tread": "70 to 114 inches 177 to 289 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1085 Weight",
+          "Shipping": "8400 lbs (open station) 3810 kg",
+          "&nbsp": "10100 lbs (cab) 4581 kg",
+          "Operating": "11540 lbs 5234 kg",
+          "Ballasted": "14385 lbs 6525 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1973 - 1978",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1133"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1133",
+          "__seccion_2__": "Diesel 12-speed 2WD May 29 - June 8, 1973 Link: Nebraska Tractor Test 1133 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "81.58 hp 60.8 kW",
+          "Fuel use": "5.1 gal/hour 19.3 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "69.16 hp 51.6 kW",
+          "__seccion_5__": "Gear 1-Hi-L used for power test.",
+          "Max pull": "10,355 lbs 4697 kg",
+          "__seccion_6__": "Gear 2-Lo-L used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1973 - 1978",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A4.318",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "318 ci 5.2 L",
+          "Bore/Stroke": "4.50x5.00 inches 114 x 127 mm",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dry",
+          "Compression": "17.5:1",
+          "Rated RPM": "2000",
+          "Starter volts": "12",
+          "Oil capacity": "9 qts 8.5 L",
+          "Coolant capacity": "16.5 qts 15.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 16, 2025"
+        }
+      ]
+    }
+  }
+}

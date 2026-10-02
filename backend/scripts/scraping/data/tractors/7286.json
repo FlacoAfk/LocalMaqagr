@@ -1,0 +1,253 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/2/8/7286-new-holland-t6030-delta.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/2/8/7286-new-holland-t6030-delta-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/007/2/8/7286-new-holland-t6030-delta-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/2/8/7286-new-holland-t6030-delta-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 7286,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:34:35.765Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7286/7286-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 7286,
+  "name": "New Holland T6030 Delta",
+  "brand": "New Holland",
+  "model": "T6030 Delta",
+  "years": {
+    "desde": 2007,
+    "hasta": 2012
+  },
+  "model_year": 2007,
+  "engine_power_hp": 115,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 95,
+  "pto_tested_hp": 111.4,
+  "drawbar_tested_hp": 93.3,
+  "weight_kg": 4699,
+  "weight_basis": "4WD ROPS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 45.5,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 25,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7286/7286-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td7286.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2007 - 2012",
+          "__seccion_2__": "T6000 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "T6030 Delta": "economy",
+          "T6030 Plus": "mid-level",
+          "T6030 Elite": "premium"
+        },
+        {
+          "__seccion_1__": "New Holland T6030 Delta Engine",
+          "__seccion_2__": "FPT 6.7L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland T6030 Delta Transmissions",
+          "__seccion_2__": "24-speed power shuttle",
+          "__seccion_3__": "16-speed partial power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland T6030 Delta Power",
+          "Engine (gross)": "115 hp 85.8 kW",
+          "PTO (claimed)": "95 hp 70.8 kW",
+          "Drawbar (tested)": "93.3 hp 69.6 kW",
+          "PTO (tested)": "111.4 hp 83.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 MFWD 4WD (optional)",
+          "Steering": "hydrostatic power",
+          "__seccion_2__": "Hydraulic wet disc brakes",
+          "__seccion_3__": "Two-post ROPS. Horizon cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the New Holland T6030 Delta are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "66 gal 249.8 L",
+          "Hydraulic system": "17.1 gal 64.7 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "17.1 gal 64.7 L",
+          "Valves": "2 or 3",
+          "Pump flow": "16.6 gpm 62.8 lpm",
+          "Total flow": "27.1 gpm 102.6 lpm",
+          "ElectroShift Total flow": "29 gpm 109.8 lpm",
+          "Steering flow": "10.5 gpm 39.7 lpm",
+          "ElectroShift Steering flow": "12.4 gpm 46.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "mechanical lower-link draft control",
+          "Rear lift": "7509 lbs 3406 kg",
+          "&nbsp": "8813 lbs (optional) 3997 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "93.3 inches 236 cm",
+          "4WD Wheelbase": "94.9 inches 241 cm",
+          "Weight": "9980 to 11336 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "Charging volts": "12",
+          "Battery CCA": "960",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 21, 2013",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2007 - 2012",
+          "__seccion_2__": "T6000 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "New Holland T6030 Delta Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "93.3 inches 236 cm",
+          "4WD Wheelbase": "94.9 inches 241 cm",
+          "Length": "169 inches 429 cm",
+          "Width": "75.3 inches 191 cm",
+          "2WD Front tread": "63.2 to 86.2 inches 160 to 218 cm",
+          "4WD Front tread": "62.2 to 92 inches 157 to 233 cm"
+        },
+        {
+          "__seccion_1__": "New Holland T6030 Delta Weight",
+          "2WD ROPS Shipping": "9980 lbs 4526 kg",
+          "4WD ROPS Shipping": "10360 lbs 4699 kg",
+          "2WD Cab Shipping": "10165 lbs 4610 kg",
+          "4WD Cab Shipping": "11336 lbs 5142 kg"
+        },
+        {
+          "__seccion_1__": "New Holland T6030 Delta Height",
+          "ROPS": "114.1 inches 289 cm",
+          "Cab": "111 inches 281 cm",
+          "Exhaust": "109 inches 276 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 21, 2013"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2007 - 2012",
+          "__seccion_2__": "T6000 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2428"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2428",
+          "__seccion_2__": "Diesel 16-speed 4WD October 2007 - January 2008, Link: OCED Tractor Test 2428 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "93.3 hp 69.6 kW",
+          "Fuel use": "6.8 gal/hour 25.7 l/hour",
+          "Power at rated engine speed": "111.3 hp 83.0 kW",
+          "Power at rated PTO speed": "111.2 hp 82.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 8B used for power test.",
+          "Max pull": "10235 lbs 4642 kg",
+          "__seccion_6__": "Gear 3A used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 21, 2013"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2007 - 2012",
+          "__seccion_2__": "T6000 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT",
+          "__seccion_3__": "turbocharged air-to-air intercooled diesel",
+          "__seccion_4__": "6-cylinder 12-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "411 ci 6.7 L",
+          "Bore/Stroke": "4.094x5.197 inches 104 x 132 mm",
+          "Power (gross)": "115 hp 85.8 kW",
+          "Fuel system": "mechanical rotary pump",
+          "Compression": "17.5:1",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "16 qts 15.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 21, 2013"
+        }
+      ]
+    }
+  }
+}

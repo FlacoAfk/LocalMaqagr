@@ -1,0 +1,227 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/7/3/8732-new-holland-l75.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/7/3/8732-new-holland-l75-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/7/3/8732-new-holland-l75-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 8732,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:37:52.619Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8732/8732-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 8732,
+  "name": "New Holland L75",
+  "brand": "New Holland",
+  "model": "L75",
+  "years": {
+    "desde": 1996,
+    "hasta": 1999
+  },
+  "model_year": 1996,
+  "engine_power_hp": 75,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 66,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3200,
+  "weight_basis": "4WD ROPS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 24.2,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F008/8732/8732-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td8732.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1996 - 1999",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Note: the New Holland model L75 is the same as the New Holland 5635. The following data is from the 5635 listing."
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Italy",
+          "__seccion_4__": "Original price was $31,100 in 1999"
+        },
+        {
+          "__seccion_1__": "New Holland L75 Engine",
+          "__seccion_2__": "Iveco 3.9L 4-cyl diesel",
+          "Fuel tank": "29 gal 109.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland L75 Transmissions",
+          "__seccion_2__": "12-speed partially synchronized",
+          "__seccion_3__": "12-speed partiallly synchronized with sync shuttle",
+          "__seccion_4__": "24-speed partial power shift",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland L75 Power",
+          "Engine": "75 hp 55.9 kW",
+          "PTO (claimed)": "66 hp 49.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post foldable ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the New Holland L75 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "2 to 3",
+          "Pump flow": "14.5 gpm 54.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "mechanical, lower link",
+          "Rear lift (at 24\"/610mm)": "5722 lbs 2595 kg",
+          "&nbsp": "6340 lbs Opt Optional 2875 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "92.2 inches 234 cm",
+          "4WD Wheelbase": "91.1 inches 231 cm",
+          "Weight": "6393 to 7496 pounds",
+          "Front tire": "7.50-16",
+          "Rear tire": "16.9-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "45",
+          "Cab Charging amps": "65",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Serie L published in 1996, by New Holland"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 18, 2015",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1996 - 1999",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Note: the New Holland model L75 is the same as the New Holland 5635. The following data is from the 5635 listing."
+        },
+        {
+          "__seccion_1__": "New Holland L75 Tires",
+          "Ag front": "7.50-16",
+          "Ag rear": "16.9-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "92.2 inches 234 cm",
+          "4WD Wheelbase": "91.1 inches 231 cm",
+          "Width": "72.6 inches 184 cm",
+          "Front tread": "56 to 84 inches 142 to 213 cm",
+          "Rear tread": "60 to 84 inches 152 to 213 cm"
+        },
+        {
+          "__seccion_1__": "New Holland L75 Weight",
+          "2WD ROPS Shipping": "6393 lbs 2899 kg",
+          "2WD Cab Shipping": "6834 lbs 3099 kg",
+          "4WD ROPS Shipping": "7055 lbs 3200 kg",
+          "4WD Cab Shipping": "7496 lbs 3400 kg"
+        },
+        {
+          "__seccion_1__": "New Holland L75 Height",
+          "ROPS": "105.5 inches 267 cm",
+          "&nbsp": "84 inches (folded) 213 cm",
+          "Cab": "97.5 inches 247 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 18, 2015"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1996 - 1999",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Note: the New Holland model L75 is the same as the New Holland 5635. The following data is from the 5635 listing."
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iveco 8045.05",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder 8-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "238 ci 3.9 L",
+          "Bore/Stroke": "4.094x4.527 inches 104 x 115 mm",
+          "Power": "75 hp 55.9 kW",
+          "Pre-heating": "Thermostart",
+          "Rated RPM": "2500",
+          "Starter volts": "12",
+          "Oil capacity": "12.4 qts 11.7 L",
+          "Coolant capacity": "14.8 qts (ROPS) 14.0 L",
+          "&nbsp": "16.9 qts (cab) 16.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 18, 2015"
+        }
+      ]
+    }
+  }
+}

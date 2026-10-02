@@ -1,0 +1,254 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/6/9/1699-zetor-7245.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/6/9/1699-zetor-7245-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/6/9/1699-zetor-7245-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/6/9/1699-zetor-7245-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1699,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:46:36.782Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1699/1699-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 800px/q55 → 45 KB"
+  },
+  "tractor_data_id": 1699,
+  "name": "Zetor 7245",
+  "brand": "Zetor",
+  "model": "7245",
+  "years": {
+    "desde": 1985,
+    "hasta": 1993
+  },
+  "model_year": 1985,
+  "engine_power_hp": 64.6,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 58,
+  "pto_tested_hp": 58.28,
+  "drawbar_tested_hp": 51.28,
+  "weight_kg": 3356,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 28.3,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 16.9-28",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1441,
+  "tire_front": {
+    "original": "11.2-24",
+    "radial": false,
+    "width_mm": 284,
+    "rim_in": 24,
+    "diameter_mm_est": 1093,
+    "tipo": "Diagonal",
+    "texto": "11.2-24"
+  },
+  "fuel_consumption_lph": 13.6,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1699/1699-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1699/1699-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td1699.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1985 - 1993",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Zetor",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Brno, Czechoslovakia",
+          "__seccion_4__": "Original price was $17,000 in 1989"
+        },
+        {
+          "7211": "2WD",
+          "7245": "4WD",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Zetor 7245 Engine",
+          "__seccion_2__": "Zetor 3.6L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 7245 Transmission",
+          "__seccion_2__": "10-speed sliding gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 7245 Power",
+          "Engine": "64.6 hp 48.2 kW",
+          "Drawbar (claimed)": "53 hp 39.5 kW",
+          "PTO (claimed)": "58 hp 43.3 kW",
+          "Drawbar (tested)": "51.28 hp 38.2 kW",
+          "PTO (tested)": "58.28 hp 43.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic drum brakes"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Zetor 7245 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "18.5 gal 70.0 L",
+          "Hydraulic system": "26.5 gal 100.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "26.5 gal 100.3 L",
+          "Valves": "2",
+          "Pump flow": "8 gpm 30.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift": "5300 lbs 2404 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "87.5 inches 222 cm",
+          "Weight": "7400 lbs 3356 kg",
+          "Front tire": "11.2-24",
+          "Rear tire": "16.9-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "7245 Serial Numbers",
+          "Location:": "Serial number plate on the right side of the dashboard."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "55",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "5211 - 5245 - 6211 - 6245 - 7211 - 7245 published by Zetor",
+          "__seccion_3__": "Owner's Instruction Manual 5211, 5245, 6211, 6245, 7211, 7245, 7711 and 7745",
+          "__seccion_4__": "7211 - 7245 published by Zetor"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 11, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1985 - 1993",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Zetor 7245 Tires",
+          "Standard tires (ag)": "Front: 11.2-24. Rear: 16.9-28",
+          "Optional tires (ag)": "Front: 11.2-24. Rear: 16.9-30",
+          "&nbsp": "Front: 12.4-24. Rear: 16.9-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "87.5 inches 222 cm",
+          "Length": "148.8 inches 377 cm",
+          "Width": "78 inches 198 cm",
+          "Weight": "7400 lbs 3356 kg",
+          "Clearance (front axle)": "14.7 inches 37 cm",
+          "Front tread": "59.4 inches 150 cm",
+          "Rear tread": "56.1 to 70.9 inches 142 to 180 cm"
+        },
+        {
+          "__seccion_1__": "Zetor 7245 Height",
+          "Steering wheel": "73.2 inches 185 cm",
+          "Cab": "104.8 inches 266 cm",
+          "Exhaust": "107.8 inches 273 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 11, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1985 - 1993",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1572"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1572",
+          "__seccion_2__": "Diesel 10-speed 4WD August 23 - September 6, 1985 Link: Nebraska Tractor Test 1572 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "58.28 hp 43.5 kW",
+          "Fuel use": "3.6 gal/hour 13.6 l/hour",
+          "Power at rated PTO speed": "54.91 hp 40.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "51.28 hp 38.2 kW",
+          "__seccion_5__": "Gear 2H used for power test.",
+          "Max pull": "6356 lbs 2883 kg",
+          "__seccion_6__": "Gear 4L used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 11, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1985 - 1993",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Zetor 7201",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "219.4 ci 3.6 L",
+          "Bore/Stroke": "4.016x4.331 inches 102 x 110 mm",
+          "Power": "64.6 hp 48.2 kW",
+          "Rated RPM": "2200",
+          "Idle RPM": "600-2400",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Coolant capacity": "14.5 qts 13.7 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 11, 2023"
+        }
+      ]
+    }
+  }
+}

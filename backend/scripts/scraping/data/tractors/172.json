@@ -1,0 +1,251 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/7/172-john-deere-8970.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/7/172-john-deere-8970-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/1/7/172-john-deere-8970-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/7/172-john-deere-8970-engine.html",
+    "source_id": 172,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:51:37.138Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/172/172-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 55 KB"
+  },
+  "tractor_data_id": 172,
+  "name": "John Deere 8970",
+  "brand": "John Deere",
+  "model": "8970",
+  "years": {
+    "desde": 1993,
+    "hasta": 1996
+  },
+  "model_year": 1993,
+  "engine_power_hp": 400,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 339,
+  "pto_tested_hp": 354.45,
+  "drawbar_tested_hp": 313.92,
+  "weight_kg": 14460,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 152.6,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 30.5-32",
+  "tire_width_mm": 775,
+  "tire_diameter_mm": 2130,
+  "tire_front": {
+    "original": "30.5-32",
+    "radial": false,
+    "width_mm": 775,
+    "rim_in": 32,
+    "diameter_mm_est": 2130,
+    "tipo": "Diagonal",
+    "texto": "30.5-32"
+  },
+  "fuel_consumption_lph": 78.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/172/172-td3a.jpg",
+  "image_url": "/uploads/tractors/td172.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1993 - 1996",
+          "__seccion_2__": "8070 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "__seccion_4__": "Original price was $144,175 in 1993"
+        },
+        {
+          "__seccion_1__": "John Deere 8970 Engine",
+          "__seccion_2__": "Cummins 14.0L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8970 Transmissions",
+          "__seccion_2__": "12-speed partially synchronized",
+          "__seccion_3__": "24-speed two-speed power shift",
+          "__seccion_4__": "12-speed full power shift",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8970 Power",
+          "Engine (gross)": "400 hp 298.3 kW",
+          "PTO (claimed)": "339 hp 252.8 kW",
+          "Drawbar (tested)": "313.92 hp 234.1 kW",
+          "PTO (tested)": "354.45 hp 264.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "__seccion_3__": "Articulated power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Sound-Gard cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 8970 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "220 gal 832.7 L",
+          "Hydraulic system": "38 gal 143.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure compensated",
+          "Capacity": "38 gal 143.8 L",
+          "Pressure": "2530 psi 174.4 bar",
+          "Rear valves": "3 to 5",
+          "Pump flow": "44.8 gpm 169.6 lpm",
+          "SCV flow": "33.3 gpm 126.0 lpm"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent (optional)",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "1000 (1.75)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "134 inches 340 cm",
+          "Weight": "31879 to 33655 pounds",
+          "Front tire": "24.5R-32",
+          "Rear tire": "24.5R-32",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "8970 Serial Number Location",
+          "__seccion_2__": "Left side of tractor hinge."
+        },
+        {
+          "1993": "1001",
+          "1994": "1991",
+          "1995": "2995",
+          "1996": "6001",
+          "__seccion_1__": "8970 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Batteries": "3",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "250- to 400-HP 70 Series Tractors published in 1995, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 2, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1993 - 1996",
+          "__seccion_2__": "8070 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8970 Tires",
+          "Ag front": "24.5R-32",
+          "&nbsp": "18.4R-46",
+          "Ag rear": "24.5R-32"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "134 inches 340 cm",
+          "Length": "268.9 inches 683 cm",
+          "Shipping weight": "31,879 lbs 14460 kg",
+          "Operating weight": "33,655 lbs 15265 kg",
+          "Front axle": "4.331 by 128 inches 110 by 3251 mm",
+          "Rear axle": "4.331 by 128 inches 110 by 3251 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 2, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1993 - 1996",
+          "__seccion_2__": "8070 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1673"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1673",
+          "__seccion_2__": "Diesel PowrSync 4WD October 26 - December 1, 1993 Link: OCED Tractor Test 1673 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "354.45 hp 264.3 kW",
+          "Fuel use": "20.1 gal/hour 76.1 l/hour",
+          "Power at rated PTO speed": "393.39 hp 293.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "313.92 hp 234.1 kW",
+          "Max pull": "34,302 lbs 15559 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 2, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1993 - 1996",
+          "__seccion_2__": "8070 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Cummins",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "855 ci 14.0 L",
+          "Bore/Stroke": "5.50x6.00 inches 140 x 152 mm",
+          "Power (gross)": "400 hp 298.3 kW",
+          "Air cleaner": "dual paper elements with aspirator",
+          "Compression": "14.0:1",
+          "Rated RPM": "2100",
+          "Starter volts": "12",
+          "Oil capacity": "36 qts 34.1 L",
+          "Coolant capacity": "72 qts 68.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 2, 2025"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/172/172-td4-b01-ext045.jpg"
+}

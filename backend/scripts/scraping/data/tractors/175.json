@@ -1,0 +1,225 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/7/175-john-deere-3640.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/7/175-john-deere-3640-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/7/175-john-deere-3640-engine.html",
+    "source_id": 175,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:51:47.214Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/175/175-photo-001-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 107 KB"
+  },
+  "tractor_data_id": 175,
+  "name": "John Deere 3640",
+  "brand": "John Deere",
+  "model": "3640",
+  "years": {
+    "desde": 1984,
+    "hasta": 1987
+  },
+  "model_year": 1984,
+  "engine_power_hp": 117,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4791,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 42.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9-38",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1695,
+  "tire_front": {
+    "original": "12.4-28",
+    "radial": false,
+    "width_mm": 315,
+    "rim_in": 28,
+    "diameter_mm_est": 1247,
+    "tipo": "Diagonal",
+    "texto": "12.4-28"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/175/175-td3a.jpg",
+  "image_url": "/uploads/tractors/td175.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1984 - 1987",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany"
+        },
+        {
+          "__seccion_1__": "John Deere 3640 Engine",
+          "__seccion_2__": "John Deere 5.9L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3640 Transmission",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3640 Power",
+          "Engine (gross)": "117 hp 87.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "rear standard",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Sound-Gard (SG2) cab."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 3640 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "49.2 gal 186.2 L",
+          "Hydraulic system": "11.1 gal 42.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center constant pressure",
+          "Capacity": "11.1 gal 42.0 L",
+          "Pressure": "2466 psi 170.0 bar",
+          "Pump flow": "11.9 gpm 45.0 lpm",
+          "&nbsp": "22.2 gpm Opt Optional 84.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/III",
+          "Control": "lower-link draft sensing",
+          "Rear lift (at ends)": "12818 lbs 5814 kg",
+          "Rear lift (at 24\"/610mm)": "7930 lbs 3597 kg",
+          "Front Hitch": "optional"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "540/1000",
+          "Engine RPM": "540@2175",
+          "&nbsp": "1000@2175",
+          "Front PTO": "optional"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "102 inches 259 cm",
+          "Weight": "10564 to 12929 pounds",
+          "Front tire": "12.4-28",
+          "Rear tire": "16.9-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "55",
+          "Batteries": "2",
+          "Battery volts": "12",
+          "Battery AH": "88"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "3640 Tractor published in 1984, by John Deere",
+          "__seccion_3__": "112-PS-Traktor 3640 published in 1985, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 12, 2016",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1984 - 1987",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 3640 Tires",
+          "Standard tires (ag)": "Front: 12.4-28. Rear: 16.9-38",
+          "&nbsp": "Front: 16.9-24. Rear: 18.4-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "102 inches 259 cm",
+          "Length": "189 inches 480 cm",
+          "Width": "85 inches 215 cm",
+          "Height (cab)": "111 inches 281 cm",
+          "Height (exhaust)": "117 inches 297 cm",
+          "Clearance (front axle)": "21 inches 53 cm",
+          "Front tread": "63 to 83 inches 160 to 210 cm",
+          "Rear tread": "63/69/73/76/79 inches 160/175/185/193/200 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 3640 Weight",
+          "Shipping": "10564 lbs 4791 kg",
+          "Operating": "12929 lbs 5864 kg",
+          "Max capacity": "17680 lbs 8019 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 12, 2016"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1984 - 1987",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "359 ci 5.9 L",
+          "Bore/Stroke": "4.19x4.33 inches 106 x 110 mm",
+          "Power (gross)": "117 hp 87.2 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dry",
+          "Compression": "17.4:1",
+          "Rated RPM": "2400",
+          "Torque": "290 lb-ft 393.2 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12",
+          "Oil capacity": "11.6 qts 11.0 L",
+          "Coolant capacity": "20.1 qts 19.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 12, 2016"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/175/175-photo-001-ext045.jpg"
+}

@@ -1,0 +1,228 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/8/9/10899-kubota-mx5400.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/8/9/10899-kubota-mx5400-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/8/9/10899-kubota-mx5400-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 10899,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:20:48.370Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10899/10899-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 76 KB"
+  },
+  "tractor_data_id": 10899,
+  "name": "Kubota MX5400",
+  "brand": "Kubota",
+  "model": "MX5400",
+  "years": {
+    "desde": 2000,
+    "hasta": 2025
+  },
+  "model_year": 2000,
+  "engine_power_hp": 55.5,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 46.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1685,
+  "weight_basis": "4WD Gear ROPS",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 17.1,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14.9-26",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1304,
+  "tire_front": {
+    "original": "9.5-16",
+    "radial": false,
+    "width_mm": 241,
+    "rim_in": 16,
+    "diameter_mm_est": 817,
+    "tipo": "Diagonal",
+    "texto": "9.5-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F010/10899/10899-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F010/10899/10899-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td10899.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2020 -",
+          "__seccion_2__": "MX Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Utility tractor",
+          "Original price": "$22,885 (2021 Gear 2WD ROPS )",
+          "__seccion_3__": "$37,531 (2021 Hydro 4WD Cab )"
+        },
+        {
+          "__seccion_1__": "Kubota MX5400 Engine",
+          "__seccion_2__": "Kubota 2.4L 4-cyl diesel",
+          "Fuel tank": "11.9 gal 45.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota MX5400 Transmissions",
+          "__seccion_2__": "8-speed synchronized shuttle",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota MX5400 Power",
+          "Engine (gross)": "55.5 hp 41.4 kW",
+          "Engine (net)": "53 hp 39.5 kW",
+          "PTO (claimed)": "46.5 hp 34.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota MX5400 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "3 Opt Optional",
+          "Pump flow": "9.5 gpm 36.0 lpm",
+          "Steering flow": "4.9 gpm 18.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position control with optional draft control",
+          "Rear lift (at 24\"/610mm)": "2310 lbs 1047 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "74.6 inches 189 cm",
+          "Weight": "3474 to 4268 pounds",
+          "Front tire": "7.5L-15",
+          "2WD Rear tire": "14.9-26",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota MX5400 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "45",
+          "Cab Charging amps": "60",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Diesel Tractor MX5400/MX6000 published in 2019, by Kubota",
+          "__seccion_3__": "MX Series published in 2024, by Kubota"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 9, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2020 -",
+          "__seccion_2__": "MX Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota MX5400 Tires",
+          "2WD Standard tires (ag)": "Front: 7.5L-15. Rear: 14.9-26",
+          "4WD Standard tires (ag)": "Front: 9.5-16. Rear: 14.9-26"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "74.6 inches 189 cm",
+          "2WD Length": "127.8 inches 324 cm",
+          "4WD Length": "125.8 inches 319 cm",
+          "Width": "69.7 inches * Minimum width. 177 cm",
+          "Height (ROPS)": "95.7 inches 243 cm",
+          "Height (cab)": "92.7 inches 235 cm",
+          "Ground clearance": "15.2 inches 38 cm",
+          "2WD Front tread": "50.4 to 62.2 inches 128 to 157 cm",
+          "4WD Front tread": "52.2 inches 132 cm",
+          "Rear tread": "54.1 to 58.7 inches 137 to 149 cm"
+        },
+        {
+          "__seccion_1__": "Kubota MX5400 Weight",
+          "2WD Gear ROPS": "3474 lbs 1575 kg",
+          "4WD Gear ROPS": "3716 lbs 1685 kg",
+          "4WD Gear Cab": "4251 lbs 1928 kg",
+          "4WD Hydro ROPS": "3734 lbs 1693 kg",
+          "4WD Hydro Cab": "4268 lbs 1935 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 9, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2020 -",
+          "__seccion_2__": "MX Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V2403CR-T",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "148.6 ci 2.4 L",
+          "Bore/Stroke": "3.43x4.03 inches 87 x 102 mm",
+          "Gear Power (net)": "53 hp 39.5 kW",
+          "Hydro Power (net)": "53.8 hp 40.1 kW",
+          "Gear Power (gross)": "55.5 hp 41.4 kW",
+          "Hydro Power (gross)": "57 hp 42.5 kW",
+          "Air cleaner": "dry",
+          "Rated RPM": "2700",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 9, 2025"
+        }
+      ]
+    }
+  }
+}

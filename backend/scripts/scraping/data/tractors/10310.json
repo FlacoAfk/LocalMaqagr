@@ -1,0 +1,211 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/3/1/10310-massey-ferguson-194f.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/3/1/10310-massey-ferguson-194f-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/3/1/10310-massey-ferguson-194f-engine.html",
+    "source_id": 10310,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:50:58.077Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10310/10310-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 127 KB"
+  },
+  "tractor_data_id": 10310,
+  "name": "Massey Ferguson 194F",
+  "brand": "Massey Ferguson",
+  "model": "194F",
+  "years": {
+    "desde": 1986,
+    "hasta": 1989
+  },
+  "model_year": 1986,
+  "engine_power_hp": 68,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 68,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2429,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 24.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9-24",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1339,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F010/10310/10310-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F010/10310/10310-photo-001.jpg",
+  "image_url": "/uploads/tractors/td10310.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1986 - 1989",
+          "__seccion_2__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 194F Engine",
+          "__seccion_2__": "Perkins 4.1L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 194F Transmissions",
+          "__seccion_2__": "12-speed partially synchronized",
+          "__seccion_3__": "20-speed creeper",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 194F Power",
+          "PTO (claimed)": "68 hp 50.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "outboard planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 194F photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "16 gal 60.6 L",
+          "Hydraulic system": "10 gal 37.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "10 gal 37.9 L",
+          "Rear valves": "2",
+          "Pump flow": "9 gpm 34.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position and draft control",
+          "Rear lift (at ends)": "5291 lbs 2399 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "81.5 inches 207 cm",
+          "4WD Wheelbase": "79.3 inches 201 cm",
+          "Weight": "5104 to 5357 pounds",
+          "Front tire": "7.50-16",
+          "2WD Rear tire": "16.9-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "45",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Massey-Ferguson Orchard/Vineyard Tractors published in 1986, by Massey Ferguson",
+          "__seccion_3__": "Massey-Ferguson 194F published in 1985, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 30, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1986 - 1989",
+          "__seccion_2__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 194F Tires",
+          "2WD Standard tires (ag)": "Front: 7.50-16. Rear: 16.9-24",
+          "&nbsp": "Front: 10.5-18. Rear: 16.9-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "81.5 inches 207 cm",
+          "4WD Wheelbase": "79.3 inches 201 cm",
+          "Length": "135.6 inches 344 cm",
+          "Width": "61.4 inches * Minimum width 155 cm",
+          "Height (steering wheel)": "55.1 inches 139 cm",
+          "2WD Weight": "5104 lbs 2315 kg",
+          "4WD Weight": "5357 lbs 2429 kg",
+          "2WD Ground clearance": "16 inches 40 cm",
+          "4WD Ground clearance": "14.6 inches 37 cm",
+          "2WD Front tread": "49.1 to 64.8 inches 124 to 164 cm",
+          "4WD Front tread": "49.1 to 60.9 inches 124 to 154 cm",
+          "Rear tread": "44.9 to 66.5 inches 114 to 168 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 30, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1986 - 1989",
+          "__seccion_2__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A4.248",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "248 ci 4.1 L",
+          "Bore/Stroke": "3.975x5.00 inches 101 x 127 mm",
+          "Air cleaner": "dry",
+          "Pre-heating": "thermostart",
+          "Rated RPM": "2100",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "7 qts 6.6 L",
+          "Coolant capacity": "16 qts 15.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 30, 2023"
+        }
+      ]
+    }
+  }
+}

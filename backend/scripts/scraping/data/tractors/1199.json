@@ -1,0 +1,258 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/1/9/1199-caseih-7240.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/1/9/1199-caseih-7240-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/1/9/1199-caseih-7240-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/1/9/1199-caseih-7240-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1199,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:36:33.651Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1199/1199-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 65 KB"
+  },
+  "tractor_data_id": 1199,
+  "name": "CaseIH 7240",
+  "brand": "CaseIH",
+  "model": "7240",
+  "years": {
+    "desde": 1994,
+    "hasta": 1996
+  },
+  "model_year": 1994,
+  "engine_power_hp": 195,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 195,
+  "pto_tested_hp": 219.05,
+  "drawbar_tested_hp": 167,
+  "weight_kg": 7640,
+  "weight_basis": "4WD Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 77.6,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 45,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1199/1199-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1199/1199-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1199.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1994 - 1996",
+          "__seccion_2__": "Magnum 7200 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA",
+          "__seccion_4__": "Original price was $94,500 in 1996"
+        },
+        {
+          "__seccion_1__": "CaseIH 7240 Engine",
+          "__seccion_2__": "CDC 8.3L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 7240 Transmissions",
+          "__seccion_2__": "18-speed full power shift",
+          "__seccion_3__": "24-speed creeper",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 7240 Power",
+          "PTO (claimed)": "195 hp 145.4 kW",
+          "Drawbar (tested)": "167.00 hp 124.5 kW",
+          "PTO (tested)": "219.05 hp 163.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "electric rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH 7240 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "95 gal 359.6 L",
+          "Hydraulic system": "45.5 gal 172.2 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure flow compensated (PFC)",
+          "Capacity": "45.5 gal 172.2 L",
+          "Pressure": "2300 psi 158.6 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "25 gpm 94.6 lpm",
+          "Total flow": "29 gpm 109.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Control": "electronic lower-link draft sensing",
+          "Rear lift": "12760 lbs 5787 kg",
+          "&nbsp": "14950 lbs Opt Optional 6781 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "1000 (1.75)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "118.3 inches 300 cm",
+          "Weight": "15825 to 17850 pounds",
+          "Front tire": "14L-16.1",
+          "Rear tire": "20.8R-42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1994": "JJA0050001",
+          "1995": "JJA0056459",
+          "1996": "JJA0064978",
+          "__seccion_1__": "7240 Serial Numbers",
+          "Location:": "Serial number plate on the dash console inside tractor cab, near the floor.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "110",
+          "Charging volts": "12",
+          "Batteries": "2",
+          "Battery CCA": "950",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Magnum 7200 Series published in 1996, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 17, 2017"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1994 - 1996",
+          "__seccion_2__": "Magnum 7200 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH 7240 Tires",
+          "Ag front": "14L-16.1",
+          "Ag rear": "20.8R-42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "118.3 inches 300 cm",
+          "2WD Clearance (front axle)": "22.8 inches 57 cm",
+          "4WD Clearance (front axle)": "17.6 inches 44 cm",
+          "Rear axle": "4.0 by 120 inches 101 by 3048 mm",
+          "2WD Front tread": "60 to 88 inches 152 to 223 cm",
+          "4WD Front tread": "60 to 95 inches 152 to 241 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH 7240 Weight",
+          "2WD Shipping": "15825 lbs 7178 kg",
+          "4WD Shipping": "16845 lbs 7640 kg",
+          "Operating": "17,850 lbs 8096 kg",
+          "Ballasted": "23,780 lbs 10786 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 17, 2017"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1994 - 1996",
+          "__seccion_2__": "Magnum 7200 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1711"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1711",
+          "__seccion_2__": "Diesel 18-speed 4WD May 3 - 15, 1996 Link: OCED Tractor Test 1711 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "167.00 hp 124.5 kW",
+          "Fuel use": "11.8 gal/hour 44.7 l/hour",
+          "Power at rated engine speed": "196.62 hp 146.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 8 used for power test.",
+          "Max pull": "17456 lbs 7918 kg",
+          "__seccion_6__": "Gear 5 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 17, 2017"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1994 - 1996",
+          "__seccion_2__": "Magnum 7200 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CDC",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "504.5 ci 8.3 L",
+          "Bore/Stroke": "4.488x5.315 inches 114 x 135 mm",
+          "Fuel system": "mechanical injection",
+          "Air cleaner": "dual paper elements",
+          "Pre-heating": "block heater Opt Optional",
+          "Compression": "16.5:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12",
+          "Oil capacity": "22 qts 20.8 L",
+          "Coolant capacity": "31 qts 29.3 L"
+        },
+        {
+          "__seccion_1__": "CaseIH 7240 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 17, 2017"
+        }
+      ]
+    }
+  }
+}

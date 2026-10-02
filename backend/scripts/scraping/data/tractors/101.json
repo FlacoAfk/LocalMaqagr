@@ -1,0 +1,262 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/0/101-john-deere-8440.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/0/101-john-deere-8440-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/1/0/101-john-deere-8440-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/0/101-john-deere-8440-engine.html",
+    "source_id": 101,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:47:47.087Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/101/101-photo-001-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 42 KB"
+  },
+  "tractor_data_id": 101,
+  "name": "John Deere 8440",
+  "brand": "John Deere",
+  "model": "8440",
+  "years": {
+    "desde": 1979,
+    "hasta": 1982
+  },
+  "model_year": 1979,
+  "engine_power_hp": 215,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 175,
+  "pto_tested_hp": 179.83,
+  "drawbar_tested_hp": 160.58,
+  "weight_kg": 12061,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 112.9,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "18.4-34",
+    "radial": false,
+    "width_mm": 467,
+    "rim_in": 34,
+    "diameter_mm_est": 1658,
+    "tipo": "Diagonal",
+    "texto": "18.4-34"
+  },
+  "fuel_consumption_lph": 42.8,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/101/101-td3a.jpg",
+  "image_url": "/uploads/tractors/td101.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1979 - 1982",
+          "__seccion_2__": "Iron Horses Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "__seccion_4__": "Original price was $64,000 in 1982"
+        },
+        {
+          "__seccion_1__": "John Deere 8440 Engine",
+          "__seccion_2__": "John Deere 7.6L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8440 Transmission",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8440 Power",
+          "Engine": "215 hp 160.3 kW",
+          "PTO (claimed)": "175 hp 130.5 kW",
+          "Drawbar (tested)": "160.58 hp 119.7 kW",
+          "PTO (tested)": "179.83 hp 134.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "hydraulic front and rear",
+          "__seccion_3__": "Articulated power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 8440 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "156 gal 590.5 L",
+          "Hydraulic system": "40 gal 151.4 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "40 gal 151.4 L",
+          "Valves": "2",
+          "Pump flow": "33 gpm 124.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Rear lift": "8545 lbs 3876 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "125 inches 317 cm",
+          "Weight": "26,590 lbs 12061 kg",
+          "Front tire": "18.4-34",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "8440 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the rear of transmission case."
+        },
+        {
+          "1979": "1000",
+          "1980": "2266",
+          "1981": "3758",
+          "1982": "5235",
+          "__seccion_1__": "8440 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "90",
+          "Batteries": "2",
+          "Battery CCA": "850",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Explore Discover Deere '79 published in 1979, by John Deere",
+          "__seccion_3__": "Move up to John Deere... published in 1981"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 30, 2018",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1979 - 1982",
+          "__seccion_2__": "Iron Horses Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8440 Tires",
+          "Ag front": "18.4-34",
+          "Ag rear": "18.4-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "125 inches 317 cm",
+          "Length": "223.5 inches 567 cm",
+          "Operating weight": "26,590 lbs * With 20.8-38 duals. 12061 kg",
+          "Ground clearance": "19.4 inches 49 cm",
+          "Front axle": "Rack-and-pinion: 3.937 by 118.4 inches 99 by 3007 mm",
+          "Rack-and-pinion rear axle": "3.937 by 118.4 inches 99 by 3007 mm",
+          "Front tread": "63 to 130 inches 160 to 330 cm",
+          "Rear tread": "63 to 130 inches 160 to 330 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 8440 Height",
+          "Hood": "87.1 inches 221 cm",
+          "Cab": "126.6 inches 321 cm",
+          "Exhaust": "134.5 inches 341 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 30, 2018"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1979 - 1982",
+          "__seccion_2__": "Iron Horses Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1323"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1323",
+          "__seccion_2__": "Diesel 16-speed 4WD September 10, 1979 - September 15, 1949 Link: Nebraska Tractor Test 1323 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "179.83 hp 134.1 kW",
+          "Fuel use": "11.2 gal/hour 42.4 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "160.58 hp 119.7 kW",
+          "Max pull": "25,383 lbs 11513 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 30, 2018"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1979 - 1982",
+          "__seccion_2__": "Iron Horses Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "466 ci 7.6 L",
+          "Bore/Stroke": "4.5625x4.75 inches 116 x 121 mm",
+          "Power": "215 hp 160.3 kW",
+          "Compression": "15.5:1",
+          "Rated RPM": "2100",
+          "Idle RPM": "800-2300",
+          "Operating RPM": "1500-2100",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Oil capacity": "22 qts 20.8 L",
+          "Coolant capacity": "40 qts 37.9 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 30, 2018"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/101/101-photo-001-ext045.jpg"
+}

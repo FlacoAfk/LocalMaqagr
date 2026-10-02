@@ -1,0 +1,204 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/9/8/1986-fiat-850.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/9/8/1986-fiat-850-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/9/8/1986-fiat-850-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1986,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:13:35.068Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1986/1986-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 2 KB"
+  },
+  "tractor_data_id": 1986,
+  "name": "Fiat 850",
+  "brand": "Fiat",
+  "model": "850",
+  "years": {
+    "desde": 1969,
+    "hasta": 1975
+  },
+  "model_year": 1969,
+  "engine_power_hp": 85,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3659,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 31.2,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1986/1986-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td1986.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1969 - 1975",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Fiat",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Fiat 850 Engine",
+          "__seccion_2__": "Fiat 4.9L 4-cyl diesel",
+          "Fuel tank": "22.7 gal 85.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 850 Transmissions",
+          "__seccion_2__": "12-speed partially synchronized",
+          "__seccion_3__": "16-speed creeper",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 850 Power",
+          "Engine": "85 hp 63.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "Steering": "power Opt Optional",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Fiat 850 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "8.9 gpm 33.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position and draft control",
+          "Rear lift": "6500 lbs 2948 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@1938",
+          "&nbsp": "1000@2038"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "93 inches 236 cm",
+          "4WD Wheelbase": "94.4 inches 239 cm",
+          "Weight": "6835 to 8068 pounds",
+          "Front tire": "7.50-2",
+          "2WD Rear tire": "13.6/12-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "850 published in 1971, by Fiat",
+          "__seccion_3__": "850 DT published in 1971, by Fiat"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 28, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1969 - 1975",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Fiat 850 Tires",
+          "2WD Standard tires (ag)": "Front: 7.50-2. Rear: 13.6/12-38",
+          "4WD Standard tires (ag)": "Front: 12.4/11-24. Rear: 16.9/14-34",
+          "2WD Optional tires (ag)": "Front: 6.50-20. Rear: 16.9/14-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "93 inches 236 cm",
+          "4WD Wheelbase": "94.4 inches 239 cm",
+          "2WD Length": "142.5 inches 361 cm",
+          "4WD Length": "147.6 inches 374 cm",
+          "2WD Weight": "6835 lbs 3100 kg",
+          "4WD Weight": "8068 lbs 3659 kg",
+          "2WD Ground clearance": "20.3 inches 51 cm",
+          "4WD Ground clearance": "15.5 inches 39 cm",
+          "2WD Front tread": "54.6 to 78 inches 138 to 198 cm",
+          "4WD Front tread": "66.3/70.2 inches 168/178 cm",
+          "Rear tread": "58.5 to 82.6 inches 148 to 209 cm"
+        },
+        {
+          "__seccion_1__": "Fiat 850 Height",
+          "2WD Steering wheel": "68.9 inches 175 cm",
+          "4WD Steering wheel": "70.6 inches 179 cm",
+          "2WD Hood": "61 inches 154 cm",
+          "4WD Hood": "63.8 inches 162 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 28, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1969 - 1975",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Fiat CO3/80",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "301.4 ci 4.9 L",
+          "Bore/Stroke": "4.33x5.12 inches 110 x 130 mm",
+          "Power": "85 hp 63.4 kW",
+          "Fuel system": "direct injection",
+          "Compression": "17:1",
+          "Rated RPM": "2100",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 28, 2023"
+        }
+      ]
+    }
+  }
+}

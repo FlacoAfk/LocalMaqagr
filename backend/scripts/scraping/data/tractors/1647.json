@@ -1,0 +1,241 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/6/4/1647-caseih-stx325.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/6/4/1647-caseih-stx325-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/6/4/1647-caseih-stx325-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/6/4/1647-caseih-stx325-engine.html",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1245/",
+    "source_id": 1647,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:40:19.159Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1647/1647-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 70 KB",
+    "nebraska_test": 1797
+  },
+  "tractor_data_id": 1647,
+  "name": "CaseIH STX325",
+  "brand": "CaseIH",
+  "model": "STX325",
+  "years": {
+    "desde": 2000,
+    "hasta": 2005
+  },
+  "model_year": 2000,
+  "engine_power_hp": 325,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 270,
+  "pto_tested_hp": 320.75,
+  "drawbar_tested_hp": 260.87,
+  "weight_kg": 14481,
+  "weight_basis": "Operating",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 117.7,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 65.1,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1647/1647-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1647/1647-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1647.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2000 - 2005",
+          "__seccion_2__": "Steiger STX Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Fargo, North Dakota, USA",
+          "__seccion_4__": "The CaseIH STX325 is the same as the New Holland TJ325."
+        },
+        {
+          "__seccion_1__": "Variants",
+          "TJ325": "similar New Holland model"
+        },
+        {
+          "__seccion_1__": "CaseIH STX325 Engine",
+          "__seccion_2__": "CDC 8.9L 6-cyl diesel",
+          "Fuel tank": "200 gal 757.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH STX325 Transmissions",
+          "__seccion_2__": "16-speed full power shift",
+          "__seccion_3__": "24-speed fully synchronized",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH STX325 Power",
+          "Engine": "325 hp 242.4 kW",
+          "Drawbar (claimed)": "240 hp 179.0 kW",
+          "PTO (claimed)": "270 hp 201.3 kW",
+          "Drawbar (tested)": "260.87 hp 194.5 kW",
+          "PTO (tested)": "320.75 hp 239.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Integrated hydraulic wet disc brakes",
+          "__seccion_4__": "Surveyor Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH STX325 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "pressure flow compensated (PFC)",
+          "Rear valves": "4 to 7",
+          "SCV flow": "35 gpm 132.5 lpm",
+          "Total flow": "40 gpm 151.4 lpm",
+          "&nbsp": "55 gpm Opt Optional 208.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IVN/III",
+          "Rear lift (at 24\"/610mm)": "14500 lbs 6577 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent Opt Optional",
+          "Rear PTO Type": "1000 (1.75)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "139 inches 353 cm",
+          "&nbsp": "145 inches (ACCUSTEER) 368 cm",
+          "Weight": "31925 lbs 14481 kg",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "STX Series Steiger Tractors published in 2000, by CaseIH *",
+          "__seccion_3__": "STX Series Steiger Tractors published in 2002, by CaseIH *",
+          "__seccion_4__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 7, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2000 - 2005",
+          "__seccion_2__": "Steiger STX Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH STX325 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "139 inches 353 cm",
+          "&nbsp": "145 inches (ACCUSTEER) 368 cm",
+          "Length": "295.5 inches 750 cm",
+          "Width": "36.5 inches (frame) 92 cm",
+          "Height": "145.2 inches 368 cm",
+          "Front axle": "4.0 inch diameter 101 mm",
+          "Rear axle": "4.0 inch diameter 101 mm",
+          "Rear tread": "60 to 176 inches 152 to 447 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH STX325 Weight",
+          "Operating": "31925 lbs 14481 kg",
+          "Max capacity": "39000 lbs 17690 kg",
+          "Max Drawbar": "4500 lbs 2041 kg",
+          "&nbsp": "11000 lbs * Drawbar at innermost position. 4989 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 7, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2000 - 2005",
+          "__seccion_2__": "Steiger STX Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1797",
+          "__seccion_2__": "Diesel 16-speed 4WD October 4 - 12, 2001 Link: Nebraska Tractor Test 1797 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "260.87 hp 194.5 kW",
+          "Fuel use": "16.3 gal/hour 61.7 l/hour",
+          "Power at rated engine speed": "291.80 hp 217.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 5 used for power test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 7, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2000 - 2005",
+          "__seccion_2__": "Steiger STX Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CDC 6TAA-9004",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "540 ci 8.9 L",
+          "Bore/Stroke": "4.488x5.689 inches 114 x 145 mm",
+          "Power": "325 hp 242.4 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "16.5:1",
+          "Rated RPM": "2000",
+          "Torque": "1150 lb-ft 1559.4 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12",
+          "Oil capacity": "29.2 qts 27.6 L"
+        },
+        {
+          "__seccion_1__": "CaseIH STX325 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 7, 2023"
+        }
+      ]
+    }
+  }
+}

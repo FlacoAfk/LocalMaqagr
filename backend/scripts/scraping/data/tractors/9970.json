@@ -1,0 +1,226 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/009/9/7/9970-massey-ferguson-1760m.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/009/9/7/9970-massey-ferguson-1760m-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/009/9/7/9970-massey-ferguson-1760m-engine.html",
+    "source_id": 9970,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:50:09.865Z",
+    "foto_original": "https://www.tractordata.com/photos/F009/9970/9970-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 32 KB"
+  },
+  "tractor_data_id": 9970,
+  "name": "Massey Ferguson 1760M",
+  "brand": "Massey Ferguson (a part of AGCO)",
+  "model": "ferguson 1760m",
+  "years": {
+    "desde": 2013,
+    "hasta": 2018
+  },
+  "model_year": 2013,
+  "engine_power_hp": 59.9,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 46.1,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1799,
+  "weight_basis": "ROPS hydro",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 16.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9x26",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1390,
+  "tire_front": {
+    "original": "9.5x16",
+    "radial": false,
+    "width_mm": 241,
+    "rim_in": 16,
+    "diameter_mm_est": 817,
+    "tipo": "Diagonal",
+    "texto": "9.5x16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F009/9970/9970-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F009/9970/9970-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td9970.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2018 -",
+          "__seccion_2__": "1700M Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson (a part of AGCO)",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Original price was $35,883"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1760M Engine",
+          "__seccion_2__": "Shibaura 2.2L 4-cyl diesel",
+          "Fuel tank": "14 gal 53.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1760M Transmissions",
+          "__seccion_2__": "12-speed shuttle",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1760M Power",
+          "Engine": "59.9 hp 44.7 kW",
+          "Gear PTO (claimed)": "46.1 hp 34.4 kW",
+          "Hydro PTO (claimed)": "44.4 hp 33.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "bull gear",
+          "Differential lock": "rear standard",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS. Cab optional. Deluxe cab available."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 1760M photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Rear valves": "3 Opt Optional",
+          "Hydro Pump flow": "12.1 gpm 45.8 lpm",
+          "Gear Pump flow": "13.3 gpm 50.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Hydro Rear Type": "I",
+          "Gear Rear Type": "II",
+          "Control": "position and draft control",
+          "Hydro Rear lift (at 24\"/610mm)": "3086 lbs 1399 kg",
+          "Gear Rear lift (at 24\"/610mm)": "3307 lbs 1500 kg",
+          "Rear Arms": "telescopic draft link ends"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Mid PTO": "independent Opt Optional",
+          "Mid PTO Type": "1916"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "77.2 inches 196 cm",
+          "Weight": "3968 to 4674 pounds",
+          "Front tire": "9.5x16",
+          "Rear tire": "16.9x26",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1760M attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 21, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2018 -",
+          "__seccion_2__": "1700M Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1760M Tires",
+          "Standard tires (ag)": "Front: 9.5x16. Rear: 16.9x26",
+          "Lawn/turf front": "27x10.50-15",
+          "Lawn/turf rear": "44x18.00-20",
+          "Industrial front": "12-16.5",
+          "Industrial rear": "18.4-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "77.2 inches 196 cm",
+          "Hydro Length": "132 inches 335 cm",
+          "Gear Length": "170 inches 431 cm",
+          "Hydro Width": "65.4 inches 166 cm",
+          "Gear Width": "71.1 inches 180 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1760M Weight",
+          "ROPS hydro": "3968 lbs 1799 kg",
+          "Cab hydro": "4464 lbs 2024 kg",
+          "Cab gear": "4674 lbs 2120 kg"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1760M Height",
+          "Hydro ROPS": "102.4 inches 260 cm",
+          "Gear ROPS": "103.2 inches 262 cm",
+          "Hydro Cab": "92.9 inches 235 cm",
+          "Gear Cab": "93.3 inches 236 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 21, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2018 -",
+          "__seccion_2__": "1700M Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibaura N4LDI-TA",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "135.2 ci 2.2 L",
+          "Bore/Stroke": "3.307x3.937 inches 84 x 100 mm",
+          "Emissions": "Tier IV",
+          "Emission control": "exhaust-gas recirculation and diesel oxidation catalyst",
+          "Power": "59.9 hp 44.7 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dry",
+          "Rated RPM": "2600",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 21, 2020"
+        }
+      ]
+    }
+  }
+}

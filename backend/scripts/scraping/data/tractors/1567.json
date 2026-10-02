@@ -1,0 +1,308 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/5/6/1567-john-deere-5105.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/5/6/1567-john-deere-5105-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/5/6/1567-john-deere-5105-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/5/6/1567-john-deere-5105-engine.html",
+    "source_id": 1567,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:35:41.765Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1567/1567-td4-b01-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 65 KB"
+  },
+  "tractor_data_id": 1567,
+  "name": "John Deere 5105",
+  "brand": "John Deere",
+  "model": "5105",
+  "years": {
+    "desde": 2000,
+    "hasta": 2007
+  },
+  "model_year": 2000,
+  "engine_power_hp": 45.6,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 40,
+  "pto_tested_hp": 47.56,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1939,
+  "weight_basis": "4WD Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 17.4,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14.9-28",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1355,
+  "tire_front": {
+    "original": "9.5-24",
+    "radial": false,
+    "width_mm": 241,
+    "rim_in": 24,
+    "diameter_mm_est": 1020,
+    "tipo": "Diagonal",
+    "texto": "9.5-24"
+  },
+  "fuel_consumption_lph": 9.1,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1567/1567-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1567/1567-td4-b01-ext090.jpg",
+  "image_url": "/uploads/tractors/td1567.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2000 - 2007",
+          "__seccion_2__": "5000 Advantage Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Augusta, Georgia, USA"
+        },
+        {
+          "__seccion_1__": "John Deere 5105 Engine",
+          "__seccion_2__": "John Deere 2.9L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5105 Transmission",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5105 Power",
+          "Engine": "45.6 hp 34.0 kW",
+          "PTO (claimed)": "40 hp 29.8 kW",
+          "&nbsp": "44 hp (after SN 512000) 32.8 kW",
+          "PTO (tested)": "47.56 hp 35.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential mechanical wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 5105 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "22.4 gal 84.8 L",
+          "Hydraulic system": "8.5 gal 32.2 L",
+          "Front axle": "4.8 qts 4.5 L",
+          "Front hubs": "0.53 qts 0.5 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "8.5 gal 32.2 L",
+          "Pressure": "2800 psi 193.1 bar",
+          "Valves": "4",
+          "Pump flow": "10.9 gpm 41.3 lpm",
+          "Total flow": "17.4 gpm 65.9 lpm",
+          "Steering flow": "6.5 gpm 24.6 lpm",
+          "Steering press.": "1900 psi 131.0 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "top-link draft sensing Opt Optional",
+          "Rear lift (at 24\"/610mm)": "2990 lbs 1356 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2300"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "76.8 inches 195 cm",
+          "Weight": "3850 to 4500 pounds",
+          "Front tire": "7.5-16",
+          "2WD Rear tire": "14.9-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5105 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "2000": "110001",
+          "2001": "210001",
+          "2002": "310001",
+          "2003": "410001",
+          "2004": "510001",
+          "2005": "610001",
+          "2006": "710001",
+          "2007": "810001",
+          "__seccion_1__": "5105 Serial Numbers",
+          "Location:": "On the right side of the 5105 tractor frame, above the front axle.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "Battery CCA": "700 (early)",
+          "&nbsp": "950 (late)",
+          "Battery volts": "12",
+          "Battery Group": "28H"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Grounds Care Equipment Purchasing Guide published in 2000, by John Deere",
+          "__seccion_3__": "Grounds Care Equipment Purchasing Guide published in 2001, by John Deere",
+          "__seccion_4__": "Commercial & Consumer Equipment Purchasing Guide published in 2007, by John Deere",
+          "__seccion_5__": "5000 Series Value Selling Guide published in 2005, by John Deere",
+          "__seccion_6__": "Operator's Manual 5105 and 5205 Tractors (OMRE72817) published in 2005",
+          "__seccion_7__": "Economy Class published in 1999, by John Deere",
+          "__seccion_8__": "Advantage Series Tractors published in 2000, by John Deere",
+          "__seccion_9__": "Commercial & Consumer Equipment Purchase Guide published in 2005, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 1, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2000 - 2007",
+          "__seccion_2__": "5000 Advantage Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 5105 Tires",
+          "2WD Standard tires (ag)": "Front: 7.5-16. Rear: 14.9-28",
+          "4WD Standard tires (ag)": "Front: 9.5-24. Rear: 14.9-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "76.8 inches 195 cm",
+          "2WD Length": "108.9 inches 276 cm",
+          "4WD Length": "128.4 inches 326 cm",
+          "Width": "69 inches 175 cm",
+          "Ground clearance": "16.7 inches 42 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 5105 Weight",
+          "2WD Shipping": "3850 lbs 1746 kg",
+          "4WD Shipping": "4275 lbs 1939 kg",
+          "2WD ROPS Operating": "4125 lbs 1871 kg",
+          "4WD ROPS Operating": "4500 lbs 2041 kg"
+        },
+        {
+          "__seccion_1__": "John Deere 5105 Height",
+          "Steering wheel": "61.1 inches 155 cm",
+          "Hood": "51.3 inches 130 cm",
+          "ROPS": "90.4 inches 229 cm",
+          "Height (Folded ROPS)": "74.8 inches 189 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 1, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2000 - 2007",
+          "__seccion_2__": "5000 Advantage Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 1770: diesel 8-speed 4WD",
+          "__seccion_3__": "NTTL 1838: diesel 8-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1770"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1770",
+          "__seccion_2__": "Diesel 8-speed 4WD May 2 - 17, 2000 Link: Nebraska Tractor Test 1770 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "40.58 hp 30.3 kW",
+          "Fuel use": "2.4 gal/hour 9.1 l/hour",
+          "Power at rated PTO speed": "40.69 hp 30.3 kW"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1838"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1838",
+          "__seccion_2__": "Diesel 8-speed 2WD May 26 - 27, 2004 Link: Nebraska Tractor Test 1838 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "47.56 hp 35.5 kW",
+          "Fuel use": "2.8 gal/hour 10.6 l/hour",
+          "Power at rated engine speed": "45.85 hp 34.2 kW",
+          "Power at rated PTO speed": "47.15 hp 35.2 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 1, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2000 - 2007",
+          "__seccion_2__": "5000 Advantage Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 3029D",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "179 ci 2.9 L",
+          "Bore/Stroke": "4.17x4.33 inches 106 x 110 mm",
+          "Power": "45.6 hp 34.0 kW",
+          "&nbsp": "50 hp (after SN 512000) 37.3 kW",
+          "Air cleaner": "dual dry element",
+          "Compression": "17.4:1",
+          "Rated RPM": "2300",
+          "Idle RPM": "825-2500",
+          "Operating RPM": "1400-2300",
+          "Firing order": "1-2-3",
+          "Starter volts": "12",
+          "Coolant capacity": "10 qts 9.5 L",
+          "Intake valve clearance": "0.014 inches 0.356 mm",
+          "Exhaust valve clearance": "0.018 inches 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "7.9 qts 7.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 1, 2022"
+        }
+      ]
+    }
+  }
+}

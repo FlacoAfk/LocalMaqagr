@@ -1,0 +1,272 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/2/25-john-deere-a.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/2/25-john-deere-a-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/2/25-john-deere-a-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/2/25-john-deere-a-engine.html",
+    "source_id": 25,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:34:49.975Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/25/25-photo-001-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 107 KB",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1045/",
+    "nebraska_test": 222
+  },
+  "tractor_data_id": 25,
+  "name": "John Deere A",
+  "brand": "John Deere",
+  "model": "A",
+  "years": {
+    "desde": 1934,
+    "hasta": 1952
+  },
+  "model_year": 1934,
+  "engine_power_hp": 24,
+  "engine_power_source": "belt_claimed (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": 23.63,
+  "drawbar_tested_hp": 18.72,
+  "weight_kg": 1715,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 13,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 50x6",
+  "tire_width_mm": 1270,
+  "tire_diameter_mm": 2311,
+  "tire_front": {
+    "original": "24x4",
+    "radial": false,
+    "width_mm": 610,
+    "rim_in": 4,
+    "diameter_mm_est": 1138,
+    "tipo": "Diagonal",
+    "texto": "24x4 steel"
+  },
+  "fuel_consumption_lph": 8.7,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/25/25-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/25/25-photo-001-ext000.jpg",
+  "image_url": "/uploads/tractors/td25.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1934 - 1952",
+          "__seccion_2__": "Model year 1934-1938 1939-1947 1947-1952",
+          "__seccion_3__": "Two-Cylinder Letter Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "Total built": "300,000",
+          "__seccion_4__": "The A was John Deere's first true row-crop tractor, replacing the GP. There were several variants of the A. The A was the row-crop model. The AR was a standard (or fixed) tread model. The AO was an orchard model, with no exhaust stack and shielded fenders. There was also the AI industrial model, the AN with narrow front, the AW wide front, and the high-crop ANH and AWH. The model A was the first Deere tractor to come from the factory with rubber tires."
+        },
+        {
+          "__seccion_1__": "Variants",
+          "A": "Row-crop",
+          "AR": "Standard front axle",
+          "AO": "Orchard",
+          "AOS": "narrow orchard",
+          "AW": "Adjustable wide-front",
+          "AN": "Single front wheel",
+          "AWH": "High-crop, adjustable wide-front",
+          "ANH": "High-crop, single-front wheel"
+        },
+        {
+          "__seccion_1__": "John Deere A Engine",
+          "__seccion_2__": "John Deere 5.1L 2-cyl all fuel",
+          "Fuel tank": "14 gal 53.0 L",
+          "Aux. fuel": "1 gal 3.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere A Transmission",
+          "__seccion_2__": "4-speed unsynchronized gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere A Power",
+          "Drawbar (claimed)": "18 hp 13.4 kW",
+          "Belt (claimed)": "24 hp 17.9 kW",
+          "Plows": "2 * 14-inch",
+          "Drawbar (tested)": "18.72 hp 14.0 kW",
+          "PTO (tested)": "23.63 hp 17.6 kW",
+          "Belt (tested)": "24.71 hp 18.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Differential mechanical expanding shoe brakes",
+          "__seccion_5__": "Open operator station with steel pan seat."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere A photos..."
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "3783 lbs 1715 kg",
+          "Front tire": "24x4",
+          "Rear tire": "50x6",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "A Serial Number Location",
+          "__seccion_2__": "Serial number plate on the left side of tractor, above the flywheel."
+        },
+        {
+          "1934": "410000",
+          "1935": "412866",
+          "1936": "424025",
+          "1937": "442151",
+          "1938": "466787",
+          "1939": "477000",
+          "1940": "488000",
+          "1941": "499000",
+          "1942": "510239",
+          "1943": "520004",
+          "1944": "524423",
+          "1945": "542700",
+          "1946": "555334",
+          "1947": "569610",
+          "1948": "587349",
+          "1949": "611921",
+          "1950": "640246",
+          "1951": "666307",
+          "1952": "682602",
+          "__seccion_1__": "A Serial Numbers",
+          "Final": "703384",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere Unstyled Letter Series by J.R. Hobbs",
+          "__seccion_3__": "Instructions for General Purpose Tractor Model A (DIR 103) published in 1934",
+          "__seccion_4__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_5__": "Models A & B General Purpose Tractors published in 1936, by John Deere",
+          "__seccion_6__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 26, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1934 - 1952",
+          "__seccion_2__": "Model year 1934-1938 1939-1947 1947-1952",
+          "__seccion_3__": "Two-Cylinder Letter Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere A Tires",
+          "Ag front": "5.50x16",
+          "Ag rear": "9/10/11.25x36"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Length": "124 inches 314 cm",
+          "Width": "83 inches 210 cm",
+          "&nbsp": "63.875 inches 162 cm",
+          "Height": "60 inches 152 cm",
+          "Weight": "3783 lbs 1715 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 26, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1934 - 1952",
+          "__seccion_2__": "Model year 1934-1938 1939-1947 1947-1952",
+          "__seccion_3__": "Two-Cylinder Letter Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 222"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 222",
+          "__seccion_2__": "Distillate 4-speed 2WD April 19 - 27, 1934 Link: Nebraska Tractor Test 222 file",
+          "Belt power (max)": "24.71 hp 18.4 kW",
+          "Belt fuel use (max)": "2.4 gal/hour 9.1 l/hour",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "23.63 hp 17.6 kW",
+          "Fuel use": "2.3 gal/hour 8.7 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "18.72 hp 14.0 kW",
+          "__seccion_5__": "Gear 1 used for power test.",
+          "Max pull": "2,923 lbs 1325 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 26, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1934 - 1952",
+          "__seccion_2__": "Model year 1934-1938 1939-1947 1947-1952",
+          "__seccion_3__": "Two-Cylinder Letter Series",
+          "__seccion_4__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "all fuel",
+          "__seccion_4__": "2-cylinder 4-valve",
+          "__seccion_5__": "liquid-cooled horizontal",
+          "Displacement": "309 ci 5.1 L",
+          "Bore/Stroke": "5.50x6.50 inches 140 x 165 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "4.45:1",
+          "Rated RPM": "975",
+          "Firing order": "1-2",
+          "Starter type": "manual * Hand-crank of tractor flywheel.",
+          "Oil capacity": "9.25 qts 8.8 L",
+          "Coolant capacity": "38 qts 36.0 L",
+          "Sparkplug gap": ".030 inches 0.762 mm",
+          "Point gap": "0.021 inches 0.533 mm",
+          "Intake valve clearance": "0.020 inches * Hot 0.508 mm",
+          "Exhaust valve clearance": "0.020 inches * Hot 0.508 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 26, 2025"
+        }
+      ]
+    }
+  }
+}

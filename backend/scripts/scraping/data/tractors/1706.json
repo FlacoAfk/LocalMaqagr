@@ -1,0 +1,198 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/7/0/1706-zetor-8011.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/7/0/1706-zetor-8011-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/7/0/1706-zetor-8011-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1706,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:46:59.605Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1706/1706-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 46 KB"
+  },
+  "tractor_data_id": 1706,
+  "name": "Zetor 8011",
+  "brand": "Zetor",
+  "model": "8011",
+  "years": {
+    "desde": 1968,
+    "hasta": 1987
+  },
+  "model_year": 1968,
+  "engine_power_hp": 85,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3700,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 31.2,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1706/1706-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1706/1706-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1706.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1968 - 1987",
+          "__seccion_2__": "Crystal UR2 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Zetor",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Brno, Czechoslovakia"
+        },
+        {
+          "8011": "2WD",
+          "8045": "4WD",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Zetor 8011 Engine",
+          "__seccion_2__": "Zetor 4.6L 4-cyl diesel",
+          "Fuel tank": "23.8 gal 90.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 8011 Transmission",
+          "__seccion_2__": "16-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 8011 Power",
+          "Engine": "85 hp 63.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic dry disc brakes",
+          "__seccion_5__": "Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Zetor 8011 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "1",
+          "Pump flow": "8.4 gpm 31.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "lower-link draft control",
+          "Rear lift": "7496 lbs 3400 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@2200",
+          "&nbsp": "1000@2175"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "92.8 inches 235 cm",
+          "Weight": "8157 lbs 3700 kg",
+          "Front tire": "7.50-16",
+          "Rear tire": "16.9/14-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "8011-8045 / 10011-10045 / 12045 published by Zetor",
+          "__seccion_3__": "Crystal 8011 published by Zetor"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on July 14, 2026"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1968 - 1987",
+          "__seccion_2__": "Crystal UR2 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Zetor 8011 Tires",
+          "Ag front": "7.50-16",
+          "Ag rear": "16.9/14-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "92.8 inches 235 cm",
+          "Length": "155.3 inches 394 cm",
+          "Width": "72.1 inches 183 cm",
+          "Height": "97.1 inches 246 cm",
+          "Weight": "8157 lbs 3700 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 14, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1968 - 1987",
+          "__seccion_2__": "Crystal UR2 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Zetor Z 8001",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "278.4 ci 4.6 L",
+          "Bore/Stroke": "4.33x4.72 inches 110 x 120 mm",
+          "Power": "85 hp 63.4 kW",
+          "Fuel system": "direct injection",
+          "Rated RPM": "2200"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 14, 2026"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/7/4/746-massey-ferguson-165.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/7/4/746-massey-ferguson-165-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/7/4/746-massey-ferguson-165-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/7/4/746-massey-ferguson-165-engine.html",
+    "source_id": 746,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:23:04.914Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/746/746-td4-b01-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 109 KB"
+  },
+  "tractor_data_id": 746,
+  "name": "Massey Ferguson 165",
+  "brand": "Massey Ferguson",
+  "model": "165",
+  "years": {
+    "desde": 1964,
+    "hasta": 1975
+  },
+  "model_year": 1964,
+  "engine_power_hp": 58.3,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 47,
+  "pto_tested_hp": 52.42,
+  "drawbar_tested_hp": 44.93,
+  "weight_kg": 2270,
+  "weight_basis": "Operating",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 25.4,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": 11.7,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/746/746-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/746/746-td4-b01-ext090.jpg",
+  "image_url": "/uploads/tractors/td746.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1964 - 1975",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Detroit, Michigan, USA",
+          "__seccion_4__": "Original price was $6,700 in 1975"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 165 Engines",
+          "__seccion_2__": "Perkins 3.3L 4-cyl diesel",
+          "__seccion_3__": "Continental 2.9L 4-cyl gasoline",
+          "__seccion_4__": "Perkins 3.5L 4-cyl diesel",
+          "__seccion_5__": "Perkins 3.5L 4-cyl gasoline",
+          "__seccion_6__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 165 Transmissions",
+          "__seccion_2__": "12-speed partial power shift",
+          "__seccion_3__": "6-speed",
+          "__seccion_4__": "8-speed",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 165 Power",
+          "Engine (gross)": "58.3 hp 43.5 kW",
+          "Gas Drawbar (claimed)": "41 hp 30.6 kW",
+          "Diesel Drawbar (claimed)": "46 hp 34.3 kW",
+          "Gas PTO (claimed)": "47 hp 35.0 kW",
+          "Diesel PTO (claimed)": "51 hp 38.0 kW",
+          "Plows": "4",
+          "Drawbar (tested)": "44.93 hp 33.5 kW",
+          "PTO (tested)": "52.42 hp 39.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical dry disc brakes",
+          "__seccion_5__": "Open operator station"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 165 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "18.5 gal 70.0 L",
+          "Hydraulic system": "8 gal 30.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "8 gal 30.3 L",
+          "Pump flow": "4.5 gpm 17.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "&nbsp": "I/II",
+          "Rear lift": "3,594 lbs 1630 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "&nbsp": "independent Opt Optional",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "82 inches (wide front) 208 cm",
+          "&nbsp": "86.875 inches (tricycle) 220 cm",
+          "Weight": "5005 to 5830 pounds",
+          "Front tire": "6.00-16",
+          "Rear tire": "16.9/14-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 165 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1964": "643000001",
+          "1965": "643000481",
+          "1966": "643007763",
+          "1967": "9A1000",
+          "1968": "9A39836",
+          "1969": "9A63158",
+          "1970": "9A87325",
+          "1971": "9A107597",
+          "1972": "9A128141",
+          "1973": "9A152025",
+          "1974": "9A179544",
+          "1975": "9A207681",
+          "__seccion_1__": "165 Serial Numbers",
+          "Location:": "Serial number plate on the dashboard of the 165, below the steering column.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "generator",
+          "Charging amps": "25",
+          "Battery volts": "12",
+          "Battery AH": "41 (gas)",
+          "&nbsp": "96 (diesel)"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF 135 / MF 150 / MF 165 published in 1975, by Massey Ferguson",
+          "__seccion_3__": "MF 165 Tractor published in 1964, by Massey Ferguson",
+          "__seccion_4__": "Installation & Operation of Basic & Auxiliary Hydraulic Systems (690 562 M2) published in 1968"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 10, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1964 - 1975",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 165 Tires",
+          "Ag front": "6.50-16",
+          "Ag rear": "13.6/12-28",
+          "&nbsp": "15.5-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "82 inches (wide front) 208 cm",
+          "&nbsp": "86.875 inches (tricycle) 220 cm",
+          "Length": "124.5 inches 316 cm",
+          "Height (steering wheel)": "68.7 inches 174 cm",
+          "Front tread": "8/6 inches 20/15 cm (tricycle)",
+          "Rear tread": "52.4 to 86 inches 133 to 218 cm (manual)"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 165 Weight",
+          "Operating": "5005 lbs (gas) 2270 kg",
+          "&nbsp": "5830 lbs (212 diesel) 2644 kg",
+          "Ballasted": "7760 lbs 3519 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 10, 2020"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1964 - 1975",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 896: 203 diesel 12-speed 2WD",
+          "__seccion_3__": "NTTL 898: gasoline 12-speed 2WD",
+          "__seccion_4__": "NTTL 1008: 212 gasoline 12-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 896"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 896",
+          "__seccion_2__": "203 diesel 12-speed 2WD May 13 - 22, 1965 Link: Nebraska Tractor Test 896 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "52.42 hp 39.1 kW",
+          "Fuel use": "3.0 gal/hour 11.4 l/hour",
+          "Power at rated PTO speed": "47.4 hp 35.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "44.93 hp 33.5 kW",
+          "__seccion_5__": "Gear 1HL used for power test.",
+          "Max pull": "5,718 lbs 2593 kg",
+          "__seccion_6__": "Gear 2LH used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 898"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 898",
+          "__seccion_2__": "Gasoline 12-speed 2WD May 18 - 29, 1965 Link: Nebraska Tractor Test 898 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "46.92 hp 35.0 kW",
+          "Fuel use": "4.0 gal/hour 15.1 l/hour",
+          "Power at rated PTO speed": "43.64 hp 32.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "39.89 hp 29.7 kW",
+          "__seccion_5__": "Gear 7 used for power test.",
+          "Max pull": "5,496 lbs 2492 kg",
+          "__seccion_6__": "Gear 2LH used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1008"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1008",
+          "__seccion_2__": "212 gasoline 12-speed 2WD April 28 - May 12, 1969 Link: Nebraska Tractor Test 1008 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "51.91 hp 38.7 kW",
+          "Fuel use": "4.9 gal/hour 18.5 l/hour",
+          "Power at rated PTO speed": "48.2 hp 35.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "44.44 hp 33.1 kW",
+          "__seccion_5__": "Gear 7 used for power test.",
+          "Max pull": "6,005 lbs 2723 kg",
+          "__seccion_6__": "Gear 7 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 10, 2020"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1964 - 1975",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Perkins 3.3L 4-cyl diesel",
+          "__seccion_3__": "Continental 2.9L 4-cyl gasoline",
+          "__seccion_4__": "Perkins 3.5L 4-cyl diesel",
+          "__seccion_5__": "Perkins 3.5L 4-cyl gasoline"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins AD4.203",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "203.5 ci 3.3 L",
+          "Bore/Stroke": "3.60x5.00 inches 91 x 127 mm",
+          "Power (gross)": "58.3 hp 43.5 kW",
+          "Compression": "18.5:1",
+          "Rated RPM": "2000",
+          "Torque": "169 lb-ft 229.2 Nm",
+          "Torque RPM": "1300",
+          "Firing order": "1-3-4-2",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "8.5 qts 8.0 L",
+          "Coolant capacity": "14.4 qts 13.6 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Continental",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder 8-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "176 ci 2.9 L",
+          "Bore/Stroke": "3.58x4.38 inches 91 x 111 mm",
+          "Air cleaner": "dry element",
+          "Compression": "7.1:1",
+          "Rated RPM": "2000",
+          "Firing order": "1-3-4-2",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "6 qts 5.7 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A4.212",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "212 ci 3.5 L",
+          "Bore/Stroke": "3.875x4.50 inches 98 x 114 mm",
+          "Rated RPM": "2000",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins AG4.212",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder",
+          "Displacement": "212 ci 3.5 L",
+          "Bore/Stroke": "3.875x4.50 inches 98 x 114 mm",
+          "Compression": "7:1"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 10, 2020"
+        }
+      ]
+    }
+  }
+}

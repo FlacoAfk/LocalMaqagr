@@ -1,0 +1,259 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/5/3/530-ji-case-2094.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/5/3/530-ji-case-2094-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/5/3/530-ji-case-2094-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/5/3/530-ji-case-2094-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 530,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:07:00.762Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/530/530-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 63 KB"
+  },
+  "tractor_data_id": 530,
+  "name": "J.I. Case 2094",
+  "brand": "J.I. Case",
+  "model": "2094",
+  "years": {
+    "desde": 1979,
+    "hasta": 1983
+  },
+  "model_year": 1979,
+  "engine_power_hp": 127,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 110,
+  "pto_tested_hp": 111.5,
+  "drawbar_tested_hp": 98.66,
+  "weight_kg": 4966,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 53,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 23.1x34",
+  "tire_width_mm": 587,
+  "tire_diameter_mm": 1861,
+  "tire_front": null,
+  "fuel_consumption_lph": 27.3,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/530/530-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/530/530-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td530.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1984",
+          "__seccion_2__": "94 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA",
+          "__seccion_4__": "Original price was $43,400 in 1984"
+        },
+        {
+          "__seccion_1__": "J.I. Case 2094 Engine",
+          "__seccion_2__": "Case 8.3L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 2094 Transmission",
+          "__seccion_2__": "12-speed three-speed power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 2094 Power",
+          "Engine": "127 hp 94.7 kW",
+          "Drawbar (claimed)": "100 hp 74.6 kW",
+          "PTO (claimed)": "110 hp 82.0 kW",
+          "Drawbar (tested)": "98.66 hp 73.6 kW",
+          "PTO (tested)": "111.50 hp 83.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Four-post ROPS. Silent Guardian cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "J.I. Case 2094 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "65 gal 246.0 L",
+          "&nbsp": "25 gal (optional auxiliary tank) 94.6 L",
+          "Hydraulic system": "25 gal 94.6 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "25 gal 94.6 L",
+          "Pressure": "2250 psi 155.1 bar",
+          "Valves": "2 to 4 * 3 only with 4WD",
+          "Pump flow": "23 gpm 87.1 lpm",
+          "Steering flow": "8 gpm 30.3 lpm",
+          "Steering press.": "2000 psi 137.9 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at 24\"/610mm)": "6,600 lbs 2993 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "104 inches 264 cm",
+          "&nbsp": "110 inches * Optional long wheelbase. 279 cm",
+          "Weight": "10950 to 14190 pounds",
+          "Front tire": "11.00x16",
+          "Rear tire": "18.4x38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1984": "9931800",
+          "__seccion_1__": "2094 Serial Numbers",
+          "Location:": "Inside cab or on right-front frame",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "72",
+          "&nbsp": "105 Opt Optional",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "2094 - 2294 published in 1983, by J.I. Case",
+          "__seccion_3__": "94 Series published in 1983, by J.I. Case",
+          "__seccion_4__": "2094/2294/2394/2594 Tractors published in 1983, by J.I. Case",
+          "__seccion_5__": "Product Information - Case 94 Series Tractors published in 1983, by J.I. Case",
+          "__seccion_6__": "The Tractor Specialist Buyers Guide published in 1984, by J.I. Case",
+          "__seccion_7__": "Tractor & Loaders Buyers Guide published in 1985, by J.I. Case"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 6, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1984",
+          "__seccion_2__": "94 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "J.I. Case 2094 Tires",
+          "Ag front": "14Lx16",
+          "Ag rear": "23.1x34",
+          "&nbsp": "20.8x38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "104 inches 264 cm",
+          "&nbsp": "120 inches (optional axle) 304 cm",
+          "Width": "96 inches 243 cm",
+          "Bar rear axle": "3.5 by 120 inches 88 by 3048 mm",
+          "Rear tread": "60 to 112 inches 152 to 284 cm"
+        },
+        {
+          "__seccion_1__": "J.I. Case 2094 Weight",
+          "Shipping": "10,950 lbs 4966 kg",
+          "Operating": "14,190 lbs 6436 kg",
+          "Max capacity": "15,600 lbs (2WD) 7076 kg",
+          "&nbsp": "16,600 lbs (4WD) 7529 kg",
+          "Max front axle": "12,125 lbs 5499 kg",
+          "Max rear axle": "13,000 lbs 5896 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 6, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1984",
+          "__seccion_2__": "94 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1525"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1525",
+          "__seccion_2__": "Diesel 12-speed 2WD May 30 - June 16, 1984 Link: Nebraska Tractor Test 1525 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "111.50 hp 83.1 kW",
+          "Fuel use": "7.1 gal/hour 26.9 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "98.66 hp 73.6 kW",
+          "__seccion_5__": "Gear 3-2 used for power test.",
+          "Max pull": "11,910 lbs 5402 kg",
+          "__seccion_6__": "Gear 2-1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 6, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1984",
+          "__seccion_2__": "94 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Case",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "504 ci 8.3 L",
+          "Bore/Stroke": "4.625x5.00 inches 117 x 127 mm",
+          "Power": "127 hp 94.7 kW",
+          "Compression": "16:1",
+          "Rated RPM": "2100",
+          "Torque": "366.6 lb-ft 497.1 Nm",
+          "Torque RPM": "1575",
+          "Starter volts": "12",
+          "Oil capacity": "19 qts 18.0 L",
+          "Coolant capacity": "38 qts 36.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 6, 2023"
+        }
+      ]
+    }
+  }
+}

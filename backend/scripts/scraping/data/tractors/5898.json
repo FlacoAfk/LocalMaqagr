@@ -1,0 +1,226 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/8/9/5898-john-deere-4075r.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/8/9/5898-john-deere-4075r-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/8/9/5898-john-deere-4075r-engine.html",
+    "source_id": 5898,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:48:03.133Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7575/7575-serial-300x250.jpg",
+    "foto_calidad": "webp 960px/q65 → 12 KB"
+  },
+  "tractor_data_id": 5898,
+  "name": "John Deere 4075R",
+  "brand": "John Deere",
+  "model": "4075R",
+  "years": {
+    "desde": 2000,
+    "hasta": 2026
+  },
+  "model_year": 2000,
+  "engine_power_hp": 74.3,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 60,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1500,
+  "weight_basis": "Max front axle",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 22,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 13.6-28",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1298,
+  "tire_front": {
+    "original": "8-16",
+    "radial": false,
+    "width_mm": 203,
+    "rim_in": 16,
+    "diameter_mm_est": 752,
+    "tipo": "Diagonal",
+    "texto": "8-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5898/5898-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7575/7575-serial-300x250.jpg",
+  "image_url": "/uploads/tractors/td5898.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2024 -",
+          "__seccion_2__": "4R Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Augusta, Georgia, USA",
+          "Original price": "$68,049 (2024)",
+          "__seccion_4__": "$72,166 (2026)"
+        },
+        {
+          "__seccion_1__": "John Deere 4075R Engine",
+          "__seccion_2__": "Yanmar 2.1L 4-cyl diesel",
+          "Fuel tank": "14.7 gal 55.6 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4075R Transmission",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4075R Power",
+          "Engine (gross)": "74.3 hp 55.4 kW",
+          "PTO (claimed)": "60 hp 44.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 4075R are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "3 to 5",
+          "Total flow": "15.9 gpm 60.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position control",
+          "Rear lift (at ends)": "3130 lbs 1419 kg",
+          "Rear lift (at 24\"/610mm)": "2500 lbs 1134 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "wet disc",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2600",
+          "&nbsp": "540E@1750"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "73 inches 185 cm",
+          "Weight": "4828 lbs 2189 kg",
+          "Front tire": "8-16",
+          "Rear tire": "13.6-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "4075R Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the 4075R tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "75",
+          "Battery CCA": "770",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "4 Series published in 2023, by John Deere",
+          "__seccion_3__": "Operator's Manual 4 Series (OMTR130411) published in 2023 *",
+          "__seccion_4__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on March 2, 2026",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2024 -",
+          "__seccion_2__": "4R Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 4075R Tires",
+          "Standard tires (ag)": "Front: 8-16. Rear: 13.6-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "73 inches 185 cm",
+          "Length": "133.4 inches 338 cm",
+          "Width": "78.3 inches 198 cm",
+          "Height (cab)": "97.4 inches 247 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 4075R Weight",
+          "__seccion_2__": "4828 lbs 2189 kg",
+          "Max front axle": "3307 lbs 1500 kg",
+          "Max rear axle": "5512 lbs 2500 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 2, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2024 -",
+          "__seccion_2__": "4R Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Yanmar 4TNV86",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "127.5 ci 2.1 L",
+          "Bore/Stroke": "3.39x3.54 inches 86 x 90 mm",
+          "Emissions": "Tier IV",
+          "Emission control": "diesel particulate filter (DPF)",
+          "Rated Power (gross)": "74.3 hp 55.4 kW",
+          "Fuel system": "high-pressure common rail",
+          "Air cleaner": "dry",
+          "Compression": "17.3:1",
+          "Rated RPM": "2600",
+          "Idle RPM": "900-2750",
+          "Torque": "194.7 lb-ft 264.0 Nm",
+          "Torque RPM": "1690",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "5.7 qts 5.4 L",
+          "Coolant capacity": "8 qts 7.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 2, 2026"
+        }
+      ]
+    }
+  }
+}

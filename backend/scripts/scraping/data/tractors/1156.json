@@ -1,0 +1,247 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/1/5/1156-caseih-885.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/1/5/1156-caseih-885-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/1/5/1156-caseih-885-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1156,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:34:15.292Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1156/1156-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 81 KB"
+  },
+  "tractor_data_id": 1156,
+  "name": "CaseIH 885",
+  "brand": "CaseIH",
+  "model": "885",
+  "years": {
+    "desde": 1985,
+    "hasta": 1990
+  },
+  "model_year": 1985,
+  "engine_power_hp": 84,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 72,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3560,
+  "weight_basis": "4WD Operating",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 26.4,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "11.2-24",
+    "radial": false,
+    "width_mm": 284,
+    "rim_in": 24,
+    "diameter_mm_est": 1093,
+    "tipo": "Diagonal",
+    "texto": "11.2-24 R1"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1156/1156-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1156/1156-photo-001.jpg",
+  "image_url": "/uploads/tractors/td1156.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1985 - 1990",
+          "__seccion_2__": "85 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Doncaster, England",
+          "__seccion_4__": "Original price was $25,700 in 1990"
+        },
+        {
+          "__seccion_1__": "CaseIH 885 Engine",
+          "__seccion_2__": "Case International 4.4L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 885 Transmissions",
+          "__seccion_2__": "8-speed synchro",
+          "__seccion_3__": "16-speed two-speed power shift",
+          "__seccion_4__": "8-speed shuttle",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 885 Power",
+          "Engine (gross)": "84 hp 62.6 kW",
+          "Engine (net)": "79 hp 58.9 kW",
+          "PTO (claimed)": "72 hp 53.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Independent hydraulic wet disc brakes",
+          "__seccion_5__": "ROPS available. Cab with heat and air-conditioning optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH 885 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "20 gal 75.7 L",
+          "2WD Hydraulic system": "9 gal 34.1 L",
+          "4WD Hydraulic system": "9.65 gal 36.5 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center gear pump",
+          "2WD Capacity": "9 gal 34.1 L",
+          "4WD Capacity": "9.65 gal 36.5 L",
+          "Pressure": "2500 psi 172.4 bar",
+          "Valves": "1 to 3",
+          "Pump flow": "15.8 gpm 59.8 lpm",
+          "Total flow": "15.8 gpm 59.8 lpm",
+          "&nbsp": "18.6 gpm Opt Optional 70.4 lpm",
+          "Steering flow": "2.5 gpm 9.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at 24\"/610mm)": "3260 lbs 1478 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent dual shaft",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "88 inches 223 cm",
+          "4WD Wheelbase": "85.2 inches 216 cm",
+          "Weight": "6065 to 7849 pounds",
+          "Front tire": "7.50-18",
+          "Rear tire": "18.4-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1985": "15000",
+          "1986": "18000",
+          "1987": "19138",
+          "1988": "22668",
+          "1989": "27254",
+          "1990": "30427",
+          "__seccion_1__": "885 Serial Numbers",
+          "Location:": "Serial number plate on the front-right of the tractor.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "Lucas alternator",
+          "ROPS Charging amps": "45",
+          "Cab Charging amps": "65",
+          "Battery volts": "12",
+          "Battery AH": "93"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Model 885 Tractor published in 1986, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 28, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1985 - 1990",
+          "__seccion_2__": "85 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH 885 Tires",
+          "Ag front": "7.50-18 F2",
+          "&nbsp": "11.2-24 R1 (4WD)",
+          "Ag rear": "18.4-30 R1"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "88 inches 223 cm",
+          "4WD Wheelbase": "85.2 inches 216 cm",
+          "2WD Length": "142 inches 360 cm",
+          "4WD Length": "148 inches 375 cm",
+          "2WD Width": "73.2 inches 185 cm",
+          "4WD Width": "78 inches 198 cm",
+          "Height (ROPS)": "97.4 inches 247 cm",
+          "Height (cab)": "102 inches 259 cm",
+          "Ground clearance": "18.2 inches 46 cm",
+          "2WD Front tread": "56 to 77 inches 142 to 195 cm",
+          "4WD Front tread": "54 to 72 inches 137 to 182 cm",
+          "Rear tread": "54 to 96 inches 137 to 243 cm (row-crop)"
+        },
+        {
+          "__seccion_1__": "CaseIH 885 Weight",
+          "Shipping": "6,065 lbs (2WD utility ROPS) 2751 kg",
+          "&nbsp": "7,223 lbs (4WD ROPS) 3276 kg",
+          "2WD Operating": "7364 lbs 3340 kg",
+          "4WD Operating": "7849 lbs 3560 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 28, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1985 - 1990",
+          "__seccion_2__": "85 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Case International D-268",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "268 ci 4.4 L",
+          "Bore/Stroke": "3.94x5.51 inches 100 x 140 mm",
+          "Power (net)": "79 hp 58.9 kW",
+          "Power (gross)": "84 hp 62.6 kW",
+          "Compression": "15.1:1",
+          "Rated RPM": "2400",
+          "Idle RPM": "650-2650",
+          "Torque": "205 lb-ft 278.0 Nm",
+          "Torque RPM": "1600",
+          "Starter volts": "12",
+          "Oil capacity": "9 qts 8.5 L",
+          "Coolant capacity": "14.5 qts 13.7 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 28, 2023"
+        }
+      ]
+    }
+  }
+}

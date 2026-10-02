@@ -66,52 +66,62 @@ const TAB_NAMES = {
   especificacionesTecnicas: 'Especificaciones Técnicas',
 };
 
+// El API devuelve snake_case (columnas de Postgres); el mock usaba camelCase.
+// Se aceptan ambos formatos para que la página funcione con cualquier fuente.
+const pick = (obj, ...keys) => {
+  for (const k of keys) {
+    const v = obj?.[k];
+    if (v !== undefined && v !== null) return v;
+  }
+  return null;
+};
+
 const mapTractorToMockFormat = (tractor) => ({
-  id: tractor.tractorId || tractor.id,
-  title: tractor.name || `${tractor.brand} ${tractor.model}`,
+  id: pick(tractor, 'tractorId', 'tractor_id', 'id'),
+  title: tractor.name || `${tractor.brand || ''} ${tractor.model || ''}`.trim(),
   category: 'Tractor',
-  imageSrc: tractor.imageUrl || TractorImgFallback,
-  fichaTecnicaUrl: tractor.fichaTecnicaUrl || '#',
+  imageSrc: pick(tractor, 'imageUrl', 'image_url') || TractorImgFallback,
+  fichaTecnicaUrl: pick(tractor, 'fichaPdfUrl', 'ficha_pdf_url') || '#',
   identificacion: {
-    nombreComercial: tractor.name || `${tractor.brand} ${tractor.model}`,
+    nombreComercial: tractor.name || `${tractor.brand || ''} ${tractor.model || ''}`.trim(),
     marca: tractor.brand,
     modelo: tractor.model,
     estado: tractor.status === 'available' ? 'Disponible' : (tractor.status === 'maintenance' ? 'En mantenimiento' : tractor.status),
   },
   motor: {
-    potenciaBruta: tractor.enginePowerHp ? `${tractor.enginePowerHp} HP` : 'N/A',
-    fuerzaTraccion: tractor.tractionForceKn ? `${tractor.tractionForceKn} kN` : 'N/A',
-    tipoTraccion: tractor.tractionType || 'N/A',
+    potenciaBruta: pick(tractor, 'enginePowerHp', 'engine_power_hp') ? `${pick(tractor, 'enginePowerHp', 'engine_power_hp')} HP` : 'N/A',
+    fuerzaTraccion: pick(tractor, 'tractionForceKn', 'traction_force_kn') ? `${pick(tractor, 'tractionForceKn', 'traction_force_kn')} kN` : 'N/A',
+    tipoTraccion: (pick(tractor, 'tractionType', 'traction_type') || 'N/A').toUpperCase(),
   },
   dimensiones: {
-    peso: tractor.weightKg ? `${tractor.weightKg} kg` : 'N/A',
-    tipoLlanta: tractor.tireType || 'N/A',
-    anchoLlanta: tractor.tireWidthMm ? `${tractor.tireWidthMm} mm` : 'N/A',
-    diametroLlanta: tractor.tireDiameterMm ? `${tractor.tireDiameterMm} mm` : 'N/A',
-    presionLlanta: tractor.tirePressurePsi ? `${tractor.tirePressurePsi} psi` : 'N/A',
+    peso: pick(tractor, 'weightKg', 'weight_kg') ? `${pick(tractor, 'weightKg', 'weight_kg')} kg` : 'N/A',
+    tipoLlanta: tractor.tireType || tractor.tire_type || 'N/A',
+    anchoLlanta: pick(tractor, 'tireWidthMm', 'tire_width_mm') ? `${pick(tractor, 'tireWidthMm', 'tire_width_mm')} mm` : 'N/A',
+    diametroLlanta: pick(tractor, 'tireDiameterMm', 'tire_diameter_mm') ? `${pick(tractor, 'tireDiameterMm', 'tire_diameter_mm')} mm` : 'N/A',
+    presionLlanta: pick(tractor, 'tirePressurePsi', 'tire_pressure_psi') ? `${pick(tractor, 'tirePressurePsi', 'tire_pressure_psi')} psi` : 'N/A',
   },
 });
 
 const mapImplementToMockFormat = (machine) => ({
-  id: machine.implementId || machine.id,
-  title: machine.implementName,
+  id: pick(machine, 'implementId', 'implement_id', 'id'),
+  title: machine.implementName || machine.implement_name,
   category: 'Máquina',
-  imageSrc: machine.imageUrl || MaquinaImgFallback,
-  fichaTecnicaUrl: machine.fichaTecnicaUrl || '#',
+  imageSrc: pick(machine, 'imageUrl', 'image_url') || MaquinaImgFallback,
+  fichaTecnicaUrl: pick(machine, 'fichaPdfUrl', 'ficha_pdf_url') || '#',
   identificacion: {
-    nombreComercial: machine.implementName,
+    nombreComercial: machine.implementName || machine.implement_name,
     marca: machine.brand,
-    tipo: machine.implementType,
+    tipo: machine.implementType || machine.implement_type,
     estado: machine.status === 'available' ? 'Disponible' : (machine.status === 'maintenance' ? 'En mantenimiento' : machine.status),
   },
   dimensiones: {
-    peso: machine.weightKg ? `${machine.weightKg} kg` : 'N/A',
+    peso: pick(machine, 'weightKg', 'weight_kg') ? `${pick(machine, 'weightKg', 'weight_kg')} kg` : 'N/A',
   },
   especificacionesTecnicas: {
-    anchoDeTrabajo: machine.workingWidthM ? `${machine.workingWidthM} m` : 'N/A',
-    profundidadTrabajo: machine.workingDepthCm ? `${machine.workingDepthCm} cm` : 'N/A',
-    requerimientoPotencia: machine.powerRequirementHp ? `${machine.powerRequirementHp} HP` : 'N/A',
-    tipoSuelo: machine.soilType || 'N/A',
+    anchoDeTrabajo: pick(machine, 'workingWidthM', 'working_width_m') ? `${pick(machine, 'workingWidthM', 'working_width_m')} m` : 'N/A',
+    profundidadTrabajo: pick(machine, 'workingDepthCm', 'working_depth_cm') ? `${pick(machine, 'workingDepthCm', 'working_depth_cm')} cm` : 'N/A',
+    requerimientoPotencia: pick(machine, 'powerRequirementHp', 'power_requirement_hp') ? `${pick(machine, 'powerRequirementHp', 'power_requirement_hp')} HP` : 'N/A',
+    tipoSuelo: machine.soilType || machine.soil_type || 'N/A',
   },
 });
 
@@ -289,16 +299,24 @@ const TractorDetail = () => {
                   : `${item.identificacion.nombreComercial}, marca ${item.identificacion.marca}.`}
               </p>
 
-              {/* CTA: descargar ficha técnica */}
-              <Button
-                variant="primary"
-                color="#909d00"
-                href={item.fichaTecnicaUrl}
-                download
-                className="w-full sm:w-auto"
-              >
-                Descargar ficha técnica
-              </Button>
+              {/* CTA: ficha técnica — informe de la prueba Nebraska (tractores) o
+                  página del fabricante (implementos); solo si hay enlace. Abre en
+                  pestaña nueva; el PDF se descarga desde el botón "Download" del
+                  repositorio de la universidad. */}
+              {item.fichaTecnicaUrl && item.fichaTecnicaUrl !== '#' && (
+                <Button
+                  variant="primary"
+                  color="#909d00"
+                  href={item.fichaTecnicaUrl}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="w-full sm:w-auto"
+                >
+                  {item.category === 'Tractor'
+                    ? 'Ficha técnica oficial (PDF)'
+                    : 'Ver ficha técnica del fabricante'}
+                </Button>
+              )}
             </div>
 
             {/* Imagen del equipo */}
@@ -312,6 +330,8 @@ const TractorDetail = () => {
                     alt={item.title}
                     className="w-full h-auto object-contain mix-blend-multiply"
                     loading="lazy"
+                    referrerPolicy="no-referrer"
+                    onError={(e) => { e.currentTarget.style.display = 'none'; }}
                   />
                 )}
               </div>

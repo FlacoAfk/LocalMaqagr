@@ -1,0 +1,310 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/7/2/7720-massey-ferguson-390.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/7/2/7720-massey-ferguson-390-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/007/7/2/7720-massey-ferguson-390-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/7/2/7720-massey-ferguson-390-engine.html",
+    "source_id": 7720,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:44:08.574Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7720/7720-serial-300x250.jpg",
+    "foto_calidad": "webp 960px/q65 → 15 KB"
+  },
+  "tractor_data_id": 7720,
+  "name": "Massey Ferguson 390",
+  "brand": "Massey Ferguson",
+  "model": "390",
+  "years": {
+    "desde": 1987,
+    "hasta": 1997
+  },
+  "model_year": 1987,
+  "engine_power_hp": 76,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 69,
+  "pto_tested_hp": 67.3,
+  "drawbar_tested_hp": 55.5,
+  "weight_kg": 3295,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 22.3,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 16.9-24",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1339,
+  "tire_front": {
+    "original": "6.50-16",
+    "radial": false,
+    "width_mm": 165,
+    "rim_in": 16,
+    "diameter_mm_est": 687,
+    "tipo": "Diagonal",
+    "texto": "6.50-16"
+  },
+  "fuel_consumption_lph": 16.7,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F007/7720/7720-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7720/7720-serial-300x250.jpg",
+  "image_url": "/uploads/tractors/td7720.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1987 - 1997",
+          "__seccion_2__": "Model year 1987-1988 1989-1997",
+          "__seccion_3__": "300 Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Coventry, England",
+          "Original price": "$23,500 (1988 2WD )",
+          "__seccion_4__": "$29,200 (1988 4WD )"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 390 Engine",
+          "__seccion_2__": "Perkins 4.1L 4-cyl diesel",
+          "Fuel tank": "28.5 gal 107.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 390 Transmissions",
+          "__seccion_2__": "12-speed synchromesh",
+          "__seccion_3__": "12-speed two-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 390 Power",
+          "Engine": "76 hp 56.7 kW",
+          "PTO (claimed)": "69 hp 51.5 kW",
+          "Drawbar (tested)": "55.5 hp 41.4 kW",
+          "PTO (tested)": "67.3 hp 50.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Canopy optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 390 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "3000 psi 206.8 bar",
+          "Pump flow": "4.4 gpm (linkage pump) 16.7 lpm",
+          "&nbsp": "16.8 gpm Opt Optional 63.6 lpm",
+          "Total flow": "13.9 gpm 52.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position and draft control",
+          "Rear lift": "4250 lbs * Capacity through full lift range 1927 kg",
+          "Rear lift (at ends)": "5701 lbs (fixed-end) * Capacity with links horizontal 2585 kg",
+          "&nbsp": "5410 lbs (wrist-action) * Capacity with links horizontal 2453 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "&nbsp": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "84.1 inches 213 cm",
+          "4WD Wheelbase": "92.5 inches 234 cm",
+          "Weight": "6036 to 7266 pounds",
+          "Front tire": "6.50-16",
+          "Rear tire": "16.9-24 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "390 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the tractor, near the brake pedals."
+        },
+        {
+          "1986": "U01001",
+          "1987": "V01001",
+          "1988": "N01001",
+          "1989": "P01001",
+          "1990": "R01001",
+          "1991": "S01001",
+          "1992": "A01001",
+          "1993": "B01001",
+          "1994": "C01001",
+          "1995": "D01001",
+          "1996": "E01001",
+          "1997": "F01001",
+          "__seccion_1__": "390 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "45",
+          "Battery CCA": "420 (2x)",
+          "&nbsp": "540 (1x)",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "300 published in 1986, by Massey Ferguson",
+          "__seccion_3__": "300 published in 1986, by Massey Ferguson",
+          "__seccion_4__": "300 Series Tractors Data Book published in 1992, by Massey Ferguson",
+          "__seccion_5__": "M-F 300 Series Tractor Workshop Manual (1449 244M1) published in 1991"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 17, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1987 - 1997",
+          "__seccion_2__": "Model year 1987-1988 1989-1997",
+          "__seccion_3__": "300 Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 390 Tires",
+          "Standard tires (ag)": "Front: 6.50-16. Rear: 16.9-24 (2WD)",
+          "&nbsp": "Front: 11.2-24. Rear: 16.9-30 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "84.1 inches 213 cm",
+          "4WD Wheelbase": "92.5 inches 234 cm",
+          "2WD Length": "144.4 inches 366 cm",
+          "4WD Length": "152.8 inches 388 cm",
+          "Width": "77.7 inches 197 cm",
+          "2WD Weight": "6036 lbs 2737 kg",
+          "4WD Weight": "7266 lbs 3295 kg",
+          "2WD Clearance (front axle)": "20.9 inches 53 cm",
+          "4WD Clearance (front axle)": "16.9 inches 42 cm",
+          "Clearance (drawbar)": "14.9 inches 37 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 390 Height",
+          "Steering wheel": "70.1 inches 178 cm",
+          "ROPS": "99.4 inches 252 cm",
+          "Cab": "99.6 inches (LoLine) 252 cm",
+          "&nbsp": "104.3 inches (HiLine) 264 cm",
+          "Exhaust": "97.8 inches 248 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 17, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1987 - 1997",
+          "__seccion_2__": "Model year 1987-1988 1989-1997",
+          "__seccion_3__": "300 Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "OECD 1102: diesel 12-speed 2WD",
+          "__seccion_3__": "OECD 1101: diesel 12-speed 4WD"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1102"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1102",
+          "__seccion_2__": "Diesel 12-speed 2WD June 1987 - September 1987, Link: OCED Tractor Test 1102 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "67.3 hp 50.2 kW",
+          "Fuel use": "4.3 gal/hour 16.3 l/hour",
+          "Power at rated PTO speed": "63.8 hp 47.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "55.5 hp 41.4 kW",
+          "__seccion_5__": "Gear 2HM used for power test.",
+          "Max pull": "5015 lbs 2274 kg",
+          "__seccion_6__": "Gear 3L used for pull test."
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1101"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1101",
+          "__seccion_2__": "Diesel 12-speed 4WD June 1987 - September 1987, Link: OCED Tractor Test 1101 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "67.3 hp 50.2 kW",
+          "Fuel use": "4.5 gal/hour 17.0 l/hour",
+          "Power at rated PTO speed": "63.4 hp 47.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "55.4 hp 41.3 kW",
+          "__seccion_5__": "Gear 2HL used for power test.",
+          "Max pull": "6790 lbs 3079 kg",
+          "__seccion_6__": "Gear 2LH used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 17, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1987 - 1997",
+          "__seccion_2__": "Model year 1987-1988 1989-1997",
+          "__seccion_3__": "300 Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A4.248",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "248 ci 4.1 L",
+          "Bore/Stroke": "3.975x5.00 inches 101 x 127 mm",
+          "Power": "76 hp 56.7 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dual dry element",
+          "Compression": "16:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "750-2380",
+          "Torque": "206 lb-ft 279.3 Nm",
+          "Torque RPM": "1400",
+          "Firing order": "1-3-4-2",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "7.9 qts 7.5 L",
+          "Coolant capacity": "16 qts 15.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 17, 2022"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/4/7/478-ji-case-511-b.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/4/7/478-ji-case-511-b-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/4/7/478-ji-case-511-b-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/4/7/478-ji-case-511-b-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 478,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:05:01.453Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/478/478-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 47 KB"
+  },
+  "tractor_data_id": 478,
+  "name": "J.I. Case 511-B",
+  "brand": "J.I. Case",
+  "model": "511 B",
+  "years": {
+    "desde": 1958,
+    "hasta": 1960
+  },
+  "model_year": 1958,
+  "engine_power_hp": 45,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 45,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 39.05,
+  "weight_kg": 2141,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 25.1,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 12.4-36",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1450,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/478/478-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/478/478-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td478.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1958 - 1960",
+          "__seccion_2__": "500B Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Rock Island, Illinois, USA",
+          "Total built": "1,481",
+          "__seccion_4__": "Original price was $3,700 in 1960"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "510B": "utility",
+          "511B": "row-crop"
+        },
+        {
+          "__seccion_1__": "J.I. Case 511-B Engine",
+          "__seccion_2__": "J.I. Case 2.7L 4-cyl gasoline",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 511-B Transmissions",
+          "__seccion_2__": "4-speed gear",
+          "__seccion_3__": "12-speed gear",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 511-B Power",
+          "PTO (claimed)": "45 hp 33.6 kW",
+          "Drawbar (tested)": "39.05 hp 29.1 kW",
+          "Belt (tested)": "45.10 hp 33.6 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Disc brakes",
+          "__seccion_5__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "J.I. Case 511-B photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "13.8 gal 52.2 L",
+          "Hydraulic system": "3 gal 11.4 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "3 gal 11.4 L",
+          "Pressure": "1200 psi 82.7 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Type": "Case Eagle Hitch Opt Optional"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1925"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "87 inches 220 cm",
+          "Weight": "4721 lbs 2141 kg",
+          "Front tire": "6.00-16",
+          "Rear tire": "12.4-36",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 511-B attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1958": "6095001",
+          "1959": "6120001",
+          "__seccion_1__": "511-B Serial Numbers",
+          "Location:": "Serial number plate on instrument panel",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Belt Pulley",
+          "Diameter": "9.25 inches 23 cm",
+          "Width": "6.4 inches 16 cm",
+          "RPM": "1360",
+          "Speed": "3290 ft/min 1002.79 meters/min"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive",
+          "Battery volts": "12",
+          "Battery AH": "50"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operator's Manual 500B, 600B Tractors (9-482) published in 1958",
+          "__seccion_3__": "J.I. Case presents published in 1957"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 14, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1958 - 1960",
+          "__seccion_2__": "500B Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "J.I. Case 511-B Tires",
+          "Ag front": "6.50-16",
+          "Ag rear": "11.2-36",
+          "&nbsp": "13.9-36"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "87 inches 220 cm",
+          "Length": "138 inches 350 cm",
+          "Width": "80.75 inches * Width at axle ends. 205 cm",
+          "Height (steering wheel)": "65.5 inches 166 cm",
+          "Height (exhaust)": "85.5 inches 217 cm",
+          "Operating weight": "4721 lbs 2141 kg",
+          "Ballasted weight": "7463 lbs 3385 kg",
+          "Front tread": "44 to 60 inches 111 to 152 cm (narrow wide front)",
+          "Rear tread": "54 to 88 inches 137 to 223 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 14, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1958 - 1960",
+          "__seccion_2__": "500B Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 646"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 646",
+          "__seccion_2__": "Gasoline 12-speed 2WD April 14 - 18, 1958 Link: Nebraska Tractor Test 646 file",
+          "Belt power (max)": "45.10 hp 33.6 kW",
+          "Belt fuel use (max)": "4.1 gal/hour 15.5 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "39.05 hp 29.1 kW",
+          "__seccion_4__": "Gear 5 used for power test.",
+          "Max pull": "5,635 lbs 2556 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 14, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1958 - 1960",
+          "__seccion_2__": "500B Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "J.I. Case G164",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled vertical I-head",
+          "Displacement": "164.5 ci 2.7 L",
+          "Bore/Stroke": "3.6525x4.125 inches 93 x 105 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "7.3:1",
+          "Rated RPM": "2000",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Coolant capacity": "12 qts 11.4 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "5 qts 4.7 L",
+          "Oil change": "100 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 14, 2025"
+        }
+      ]
+    }
+  }
+}

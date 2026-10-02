@@ -1,0 +1,288 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/1/4/1146-caseih-mx270.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/1/4/1146-caseih-mx270-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/1/4/1146-caseih-mx270-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/1/4/1146-caseih-mx270-engine.html",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1229/",
+    "source_id": 1146,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:33:42.749Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1146/1146-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 43 KB",
+    "nebraska_test": 1761
+  },
+  "tractor_data_id": 1146,
+  "name": "CaseIH MX270 Magnum",
+  "brand": "CaseIH",
+  "model": "MX270 Magnum",
+  "years": {
+    "desde": 1999,
+    "hasta": 2002
+  },
+  "model_year": 1999,
+  "engine_power_hp": 235,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 235,
+  "pto_tested_hp": 270.93,
+  "drawbar_tested_hp": 207.01,
+  "weight_kg": 9162,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 96.4,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 20.8R42",
+  "tire_width_mm": 528,
+  "tire_diameter_mm": 1965,
+  "tire_front": {
+    "original": "16.9R30",
+    "radial": true,
+    "width_mm": 429,
+    "rim_in": 30,
+    "diameter_mm_est": 1492,
+    "tipo": "Radial",
+    "texto": "16.9R30"
+  },
+  "fuel_consumption_lph": 56,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1146/1146-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1146/1146-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1146.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1999 - 2002",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA",
+          "Original price": "$141,000"
+        },
+        {
+          "__seccion_1__": "CaseIH MX270 Engine",
+          "__seccion_2__": "CDC 8.3L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH MX270 Transmissions",
+          "__seccion_2__": "18-speed full power shift",
+          "__seccion_3__": "24-speed creeper",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH MX270 Power",
+          "PTO (claimed)": "235 hp 175.2 kW",
+          "Drawbar (tested)": "207.01 hp 154.4 kW",
+          "PTO (tested)": "270.93 hp 202.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "electro-hydraulic rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Surveyor Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH MX270 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "160 gal 605.6 L",
+          "Hydraulic system": "45.5 gal 172.2 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center PFC",
+          "Capacity": "45.5 gal 172.2 L",
+          "Pressure": "2500 psi 172.4 bar",
+          "Valves": "3 to 5",
+          "Pump flow": "30 gpm 113.6 lpm",
+          "&nbsp": "40 gpm Opt Optional 151.4 lpm",
+          "SCV flow": "27 gpm 102.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/IIIN",
+          "Control": "position and draft control",
+          "Rear lift": "13000 lbs 5896 kg",
+          "&nbsp": "16000 lbs Opt Optional 7257 kg",
+          "Front Hitch": "II Opt Optional",
+          "Front lift (at 24\"/610mm)": "5500 lbs 2494 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (1.75)",
+          "Engine RPM": "1000@1974"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "118.3 inches 300 cm",
+          "Weight": "20200 to 20900 pounds",
+          "Front tire": "16.9R30",
+          "Rear tire": "20.8R42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "MX270 Serial Number Location",
+          "__seccion_2__": "Serial number tag on the right side of the tractor frame, above the front axle."
+        },
+        {
+          "1999": "JJA0097438",
+          "2000": "JJA0105000",
+          "2001": "JJA0108800",
+          "2002": "JJA0115301",
+          "__seccion_1__": "MX270 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "110",
+          "&nbsp": "135 Opt Optional",
+          "Charging volts": "12",
+          "Batteries": "2",
+          "Battery CCA": "1000",
+          "Battery volts": "12",
+          "Battery Group": "31"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MX Series Magnum Tractors published in 1998, by CaseIH",
+          "__seccion_3__": "Operator's Manual MX Series Magnum Tractors (Rac 6-5341) published in 1999",
+          "__seccion_4__": "MX Series Magnum Sales Support Manual published in 1998, by Case IH *",
+          "__seccion_5__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 31, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1999 - 2002",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH MX270 Tires",
+          "Standard tires (ag)": "Front: 16.9R30. Rear: 20.8R42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "118.3 inches 300 cm",
+          "Length": "226 inches 574 cm",
+          "Height (cab)": "123.8 inches 314 cm",
+          "Ground clearance": "17.1 inches 43 cm",
+          "Bar rear axle": "4.5 by 120 inches 114 by 3048 mm",
+          "Front tread": "60 to 88 inches 152 to 223 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH MX270 Weight",
+          "Shipping": "20200 lbs 9162 kg",
+          "Operating": "20900 lbs 9480 kg",
+          "Max capacity": "31500 lbs 14288 kg",
+          "Max front axle": "13300 lbs 6032 kg",
+          "Max rear axle": "31500 lbs (4.0) 14288 kg",
+          "&nbsp": "37000 lbs (4.5) 16783 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 31, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1999 - 2002",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1761"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1761",
+          "__seccion_2__": "Diesel 18-speed 4WD April 15 - 24, 1999 Link: Nebraska Tractor Test 1761 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "207.01 hp 154.4 kW",
+          "Fuel use": "13.2 gal/hour 50.0 l/hour",
+          "Power at rated engine speed": "237.53 hp 177.1 kW",
+          "Power at rated PTO speed": "243.18 hp 181.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 7 used for power test.",
+          "Max pull": "21,665 lbs 9827 kg",
+          "__seccion_6__": "Gear 5 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 31, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1999 - 2002",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CDC",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "504.5 ci 8.3 L",
+          "Bore/Stroke": "4.488x5.315 inches 114 x 135 mm",
+          "Fuel system": "electric direct injection",
+          "Air cleaner": "dual paper elements",
+          "Compression": "17.0:1",
+          "Rated RPM": "2000",
+          "Idle RPM": "900-2240",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Coolant capacity": "26 qts 24.6 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "22 qts 20.8 L",
+          "Oil change": "300 h"
+        },
+        {
+          "__seccion_1__": "CaseIH MX270 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 31, 2025"
+        }
+      ]
+    }
+  }
+}

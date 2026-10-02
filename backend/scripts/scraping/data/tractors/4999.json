@@ -1,0 +1,236 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/004/9/9/4999-john-deere-3350.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/004/9/9/4999-john-deere-3350-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/004/9/9/4999-john-deere-3350-engine.html",
+    "source_id": 4999,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:43:57.982Z",
+    "foto_original": "https://www.tractordata.com/photos/F004/4999/4999-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 63 KB"
+  },
+  "tractor_data_id": 4999,
+  "name": "John Deere 3350",
+  "brand": "John Deere",
+  "model": "3350",
+  "years": {
+    "desde": 1986,
+    "hasta": 1993
+  },
+  "model_year": 1986,
+  "engine_power_hp": 100,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 91.12,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4935,
+  "weight_basis": "4WD",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 33.4,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4-38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "13.6-28",
+    "radial": false,
+    "width_mm": 345,
+    "rim_in": 28,
+    "diameter_mm_est": 1298,
+    "tipo": "Diagonal",
+    "texto": "13.6-28"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F004/4999/4999-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F004/4999/4999-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td4999.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1986 - 1993",
+          "__seccion_2__": "3050 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "Factories": "Mannheim, Baden-Württemberg, Germany",
+          "&nbsp": "Rosario, Argentina"
+        },
+        {
+          "__seccion_1__": "John Deere 3350 Engine",
+          "__seccion_2__": "John Deere 5.9L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3350 Transmissions",
+          "__seccion_2__": "16-speed",
+          "__seccion_3__": "8-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 3350 Power",
+          "Engine": "100 hp 74.6 kW",
+          "PTO (claimed)": "91.12 hp 67.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Sound-Gard (SG2) Cab standard with optional air-conditioning. Open operator station in some markets."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 3350 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "32 gal 121.1 L",
+          "&nbsp": "13.74 gal (4WD) 52.0 L",
+          "Hydraulic system": "12.94 gal (2WD) 49.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center constant pressure",
+          "Capacity": "12.94 gal (2WD) 49.0 L",
+          "&nbsp": "13.74 gal (4WD) 52.0 L",
+          "Pressure": "2698 psi 186.0 bar",
+          "Total flow": "11.62 gpm 44.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/IIIN",
+          "2WD Rear lift (at ends)": "8988 lbs 4076 kg",
+          "4WD Rear lift (at ends)": "10800 lbs 4898 kg",
+          "Front Hitch": "II",
+          "Front lift (at ends)": "3594 lbs 1630 kg",
+          "&nbsp": "6526 lbs Opt Optional 2960 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "540/1000",
+          "Engine RPM": "1000@2172",
+          "&nbsp": "1000@2172",
+          "Front PTO": "independent",
+          "Front PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "88.6 inches 225 cm",
+          "4WD Wheelbase": "101.7 inches 258 cm",
+          "Weight": "9315 to 10880 pounds",
+          "Front tire": "10.00-16",
+          "2WD Rear tire": "18.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging amps": "55",
+          "Batteries": "2",
+          "Battery volts": "12",
+          "Battery AH": "88"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Tractor 3350 published by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 12, 2016",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1986 - 1993",
+          "__seccion_2__": "3050 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 3350 Tires",
+          "2WD Standard tires (ag)": "Front: 10.00-16. Rear: 18.4-38",
+          "4WD Standard tires (ag)": "Front: 13.6-28. Rear: 18.4-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "88.6 inches 225 cm",
+          "4WD Wheelbase": "101.7 inches 258 cm",
+          "Length": "188.5 inches 478 cm",
+          "Width": "80.2 inches 203 cm",
+          "Height (cab)": "112 inches (SG2) 284 cm",
+          "&nbsp": "106.5 inches (low-profile) 270 cm",
+          "4WD Ground clearance": "20.9 inches 53 cm",
+          "2WD Ground clearance": "27 inches 68 cm",
+          "2WD Front tread": "56.9 to 82.4 inches 144 to 209 cm",
+          "4WD Front tread": "59.8 to 79.1 inches 151 to 200 cm",
+          "Rear tread": "59.1 to 78.7 inches 150 to 199 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 3350 Weight",
+          "2WD": "9315 lbs 4225 kg",
+          "4WD": "10880 lbs 4935 kg",
+          "4WD Max capacity": "16534 lbs 7499 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 12, 2016"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1986 - 1993",
+          "__seccion_2__": "3050 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 6359 DL008",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "359 ci 5.9 L",
+          "Bore/Stroke": "4.193x4.331 inches 107 x 110 mm",
+          "Power": "100 hp 74.6 kW",
+          "Air cleaner": "dry",
+          "Compression": "17.4:1",
+          "Rated RPM": "2300",
+          "Torque": "272.9 lb-ft 370.1 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12",
+          "Starter power": "4 hp 3.0 kW",
+          "Oil capacity": "12.15 qts 11.5 L",
+          "Coolant capacity": "20.08 qts 19.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 12, 2016"
+        }
+      ]
+    }
+  }
+}

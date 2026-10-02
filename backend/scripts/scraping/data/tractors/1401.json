@@ -1,0 +1,233 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/4/0/1401-john-deere-1630.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/4/0/1401-john-deere-1630-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/4/0/1401-john-deere-1630-engine.html",
+    "source_id": 1401,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:52:51.952Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1401/1401-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 61 KB"
+  },
+  "tractor_data_id": 1401,
+  "name": "John Deere 1630",
+  "brand": "John Deere",
+  "model": "1630",
+  "years": {
+    "desde": 1973,
+    "hasta": 1979
+  },
+  "model_year": 1973,
+  "engine_power_hp": 59,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 50,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2168,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 18.3,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 13.6-36",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1502,
+  "tire_front": {
+    "original": "9.50-24",
+    "radial": false,
+    "width_mm": 241,
+    "rim_in": 24,
+    "diameter_mm_est": 1020,
+    "tipo": "Diagonal",
+    "texto": "9.50-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1401/1401-td3a.jpg",
+  "image_url": "/uploads/tractors/td1401.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1973 - 1979",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "Factories": "Mannheim, Baden-Württemberg, Germany",
+          "&nbsp": "Getafe, Spain"
+        },
+        {
+          "__seccion_1__": "John Deere 1630 Engine",
+          "__seccion_2__": "John Deere 2.9L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 1630 Transmissions",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "16-speed two-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 1630 Power",
+          "Engine (gross)": "59 hp 44.0 kW",
+          "Engine (net)": "56 hp 41.8 kW",
+          "PTO (claimed)": "50 hp 37.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "Steering": "power Opt Optional",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Open operator station. ROPS and cab available."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 1630 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "16.5 gal 62.5 L",
+          "Hydraulic system": "9.5 gal 36.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "9.5 gal 36.0 L",
+          "Pressure": "2050 psi 141.3 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position control and lower-link draft sensing",
+          "Rear lift": "4100 lbs 1859 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "&nbsp": "independent Opt Optional",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "80.1 inches 203 cm",
+          "Weight": "4780 lbs 2168 kg",
+          "Front tire": "7.50-16",
+          "2WD Rear tire": "13.6-36",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "1630 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the 1630 tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "28",
+          "Charging volts": "14",
+          "Batteries": "2",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operator's Manual 145 Loader (OMW21474)",
+          "__seccion_3__": "Operator's Manual 1020, 1120 and 1630 Tractors published by John Deere",
+          "__seccion_4__": "1630 Tractor published in 1977, by John Deere",
+          "__seccion_5__": "Tractors 40 to 80 hp published in 1978, by John Deere",
+          "__seccion_6__": "Product Information Manual published in 1975, by John Deere",
+          "__seccion_7__": "Product Information Manual published in 1977, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 24, 2024",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1973 - 1979",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 1630 Tires",
+          "2WD Standard tires (ag)": "Front: 7.50-16. Rear: 13.6-36",
+          "4WD Standard tires (ag)": "Front: 9.50-24. Rear: 13.6-36",
+          "Ag front": "6.50-16",
+          "Ag rear": "16.9/14-28",
+          "&nbsp": "12.4/11-36"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "80.1 inches 203 cm",
+          "Length": "141.7 inches 359 cm",
+          "Width": "76.6 inches 194 cm",
+          "Height (ROPS)": "97 inches 246 cm",
+          "Height (exhaust)": "87.4 inches 221 cm",
+          "Shipping weight": "4780 lbs 2168 kg",
+          "2WD Clearance (front axle)": "20 inches 50 cm",
+          "Front tread": "49.5 to 81 inches 125 to 205 cm",
+          "Rear tread": "57 to 77 inches 144 to 195 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 24, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1973 - 1979",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 3179DL-01",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "179 ci 2.9 L",
+          "Bore/Stroke": "4.19x4.33 inches 106 x 110 mm",
+          "Power (net)": "56 hp 41.8 kW",
+          "Power (gross)": "59 hp 44.0 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dry",
+          "Compression": "16.2:1",
+          "Rated RPM": "2500",
+          "Idle RPM": "800-2650",
+          "Operating RPM": "1400-2500",
+          "Torque": "138.7 lb-ft 188.1 Nm",
+          "Torque RPM": "1300",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "6 qts 5.7 L",
+          "Coolant capacity": "12.1 qts 11.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 24, 2024"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1401/1401-td4-b01.jpg"
+}

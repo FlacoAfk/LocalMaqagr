@@ -1,0 +1,215 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/5/854-massey-ferguson-2220.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/5/854-massey-ferguson-2220-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/8/5/854-massey-ferguson-2220-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/5/854-massey-ferguson-2220-engine.html",
+    "source_id": 854,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:27:28.879Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/854/854-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 854,
+  "name": "Massey Ferguson 2220",
+  "brand": "Massey Ferguson",
+  "model": "2220",
+  "years": {
+    "desde": 1999,
+    "hasta": 2000
+  },
+  "model_year": 1999,
+  "engine_power_hp": 63,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 58,
+  "pto_tested_hp": 58.46,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2245,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 21.4,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 14.9R28",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1355,
+  "tire_front": {
+    "original": "11.2R20",
+    "radial": true,
+    "width_mm": 284,
+    "rim_in": 20,
+    "diameter_mm_est": 992,
+    "tipo": "Radial",
+    "texto": "11.2R20"
+  },
+  "fuel_consumption_lph": 14,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/854/854-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td854.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1999 - 2000",
+          "__seccion_2__": "2200 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Utility tractor",
+          "Original price": "$35,000"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2220 Engine",
+          "__seccion_2__": "Perkins 2.7L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2220 Transmission",
+          "__seccion_2__": "12-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2220 Power",
+          "Engine": "63 hp 47.0 kW",
+          "PTO (claimed)": "58 hp 43.3 kW",
+          "PTO (tested)": "58.46 hp 43.6 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Independent hydraulic wet disc brakes"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 2220 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "14 gal 53.0 L",
+          "Hydraulic system": "9.3 gal 35.2 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Capacity": "9.3 gal 35.2 L",
+          "Valves": "2",
+          "Pump flow": "7.9 gpm 29.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at ends)": "4628 lbs 2099 kg",
+          "&nbsp": "7487 lbs * Optional. Advertised capacity. Actual tested lift was 6430 pounds. 3396 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "79 inches 200 cm",
+          "Weight": "4,950 lbs 2245 kg",
+          "Front tire": "11.2R20",
+          "Rear tire": "14.9R28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 3, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1999 - 2000",
+          "__seccion_2__": "2200 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2220 Tires",
+          "Ag front": "11.2R20",
+          "Ag rear": "14.9R28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "79 inches 200 cm",
+          "Operating weight": "4,950 lbs 2245 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 3, 2020"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1999 - 2000",
+          "__seccion_2__": "2200 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1793"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1793",
+          "__seccion_2__": "Diesel 12-speed 4WD May 10 - 18, 2001 Link: Nebraska Tractor Test 1793 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "58.46 hp 43.6 kW",
+          "Fuel use": "3.4 gal/hour 12.9 l/hour",
+          "Power at rated engine speed": "58.38 hp 43.5 kW",
+          "Power at rated PTO speed": "57.33 hp 42.8 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 3, 2020"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1999 - 2000",
+          "__seccion_2__": "2200 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "165 ci 2.7 L",
+          "Bore/Stroke": "3.74x5.00 inches 95 x 127 mm",
+          "Power": "63 hp 47.0 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "17.3:1",
+          "Rated RPM": "2250",
+          "Starter volts": "12",
+          "Coolant capacity": "10.6 qts 10.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 3, 2020"
+        }
+      ]
+    }
+  }
+}

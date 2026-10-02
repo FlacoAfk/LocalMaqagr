@@ -1,0 +1,267 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/2/5/3254-new-holland-tn60a.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/2/5/3254-new-holland-tn60a-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/2/5/3254-new-holland-tn60a-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/2/5/3254-new-holland-tn60a-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3254,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:25:36.847Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3254/3254-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 3254,
+  "name": "New Holland TN60A",
+  "brand": "New Holland",
+  "model": "TN60A",
+  "years": {
+    "desde": 2004,
+    "hasta": 2008
+  },
+  "model_year": 2004,
+  "engine_power_hp": 57,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 45,
+  "pto_tested_hp": 48.3,
+  "drawbar_tested_hp": 38.4,
+  "weight_kg": 2449,
+  "weight_basis": "4WD",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 27.3,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "11.2x20",
+    "radial": false,
+    "width_mm": 284,
+    "rim_in": 20,
+    "diameter_mm_est": 992,
+    "tipo": "Diagonal",
+    "texto": "11.2x20"
+  },
+  "fuel_consumption_lph": 11.4,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F003/3254/3254-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td3254.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2004 - 2008",
+          "__seccion_2__": "TN-A Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Jesi, Italy"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "TN60A": "ROPS",
+          "TN60DA": "cab",
+          "TN60SA": "SuperSteer",
+          "JX1060C": "similar CaseIH model"
+        },
+        {
+          "__seccion_1__": "New Holland TN60A Engine",
+          "__seccion_2__": "Iveco 2.9L 3-cyl diesel",
+          "Fuel tank": "23 gal 87.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TN60A Transmissions",
+          "__seccion_2__": "8-speed constant mesh with mechanical shuttle",
+          "__seccion_3__": "12-speed partially synchronized with mechanical shuttle",
+          "__seccion_4__": "16-speed partially synchronized with mechanical shuttle",
+          "__seccion_5__": "16-speed partially synchronized with power shuttle",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TN60A Power",
+          "Engine (gross)": "57 hp 42.5 kW",
+          "Engine (net)": "55 hp 41.0 kW",
+          "PTO (claimed)": "45 hp 33.6 kW",
+          "Drawbar (tested)": "38.4 hp 28.6 kW",
+          "PTO (tested)": "48.3 hp 36.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Differential wet disc brakes",
+          "__seccion_4__": "ROPS. Canopy optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the New Holland TN60A are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2755 psi 190.0 bar",
+          "Valves": "1 to 4",
+          "Pump flow": "12.4 gpm 46.9 lpm",
+          "&nbsp": "9.2 gpm (with power shuttle) 34.8 lpm",
+          "Steering flow": "7.2 gpm 27.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift (at 24\"/610mm)": "3960 lbs 1796 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD, 78.9 4WD} Wheelbase": "81.5 inches 207 cm",
+          "Weight": "5180 to 5400 pounds",
+          "Front tire": "9.5x15",
+          "Rear tire": "14.9",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "New Holland TN60A attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "65",
+          "Battery CCA": "730",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "TN-A Series Utility Tractors published in 2005, by New Holland",
+          "__seccion_3__": "TN-A Series Utility Tractors published in 2006, by New Holland"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 15, 2025",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2004 - 2008",
+          "__seccion_2__": "TN-A Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "New Holland TN60A Tires",
+          "2WD Ag front": "9.5x15",
+          "4WD Ag front": "11.2x20",
+          "Ag rear": "14.9"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD, 78.9 4WD} Wheelbase": "81.5 inches 207 cm",
+          "4WD Length": "151.6 inches 385 cm",
+          "2WD Length": "153.3 inches 389 cm",
+          "Width": "67.2 inches 170 cm",
+          "Height (ROPS)": "95.1 inches 241 cm",
+          "Height (Folded ROPS)": "75.1 inches 190 cm"
+        },
+        {
+          "__seccion_1__": "New Holland TN60A Weight",
+          "2WD": "5180 lbs 2349 kg",
+          "4WD": "5400 lbs 2449 kg",
+          "Ballasted": "6460 lbs 2930 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 15, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2004 - 2008",
+          "__seccion_2__": "TN-A Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2158"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2158",
+          "__seccion_2__": "Diesel 16-speed 2WD March 1 - April 1, 2004 Link: OCED Tractor Test 2158 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "38.4 hp 28.6 kW",
+          "Fuel use": "3.0 gal/hour 11.4 l/hour",
+          "Power at rated engine speed": "48.0 hp 35.8 kW",
+          "Power at rated PTO speed": "47.5 hp 35.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 3M Lo used for power test.",
+          "Max pull": "6,135 lbs 2782 kg",
+          "__seccion_6__": "Gear 1M Lo used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 15, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2004 - 2008",
+          "__seccion_2__": "TN-A Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iveco",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "179 ci 2.9 L",
+          "Bore/Stroke": "4.094x4.528 inches 104 x 115 mm",
+          "Emissions": "Tier 2",
+          "Power (net)": "55 hp 41.0 kW",
+          "Power (gross)": "57 hp 42.5 kW",
+          "Fuel use": "3.00 gal/hour 11.4 l/hour",
+          "Air cleaner": "dual paper elements",
+          "Compression": "17:1",
+          "Rated RPM": "2300",
+          "Torque": "148 lb-ft 200.7 Nm",
+          "Torque RPM": "1400",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 15, 2025"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/7/6/7760-john-deere-5085e.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/7/6/7760-john-deere-5085e-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/7/6/7760-john-deere-5085e-engine.html",
+    "source_id": 7760,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:00:22.858Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7760/7760-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 62 KB"
+  },
+  "tractor_data_id": 7760,
+  "name": "John Deere 5085E",
+  "brand": "John Deere",
+  "model": "5085E",
+  "years": {
+    "desde": 2013,
+    "hasta": 2017
+  },
+  "model_year": 2013,
+  "engine_power_hp": 85,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 70,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3200,
+  "weight_basis": "ROPS Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 25.7,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9-30",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1492,
+  "tire_front": {
+    "original": "11.2-24",
+    "radial": false,
+    "width_mm": 284,
+    "rim_in": 24,
+    "diameter_mm_est": 1093,
+    "tipo": "Diagonal",
+    "texto": "11.2-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7760/7760-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7760/7760-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td7760.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2013 - 2017",
+          "__seccion_2__": "Model year 2013-2014 2015-2017",
+          "__seccion_3__": "5E Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Augusta, Georgia, USA",
+          "Original price": "$41,102 (2014 ROPS )",
+          "__seccion_4__": "$50,040 (2014 Cab )"
+        },
+        {
+          "__seccion_1__": "John Deere 5085E Engine",
+          "__seccion_2__": "John Deere 4.5L 4-cyl diesel",
+          "ROPS Fuel tank": "25 gal 94.6 L",
+          "Cab Fuel tank": "30 gal 113.6 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5085E Transmission",
+          "__seccion_2__": "12-speed partially synchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5085E Power",
+          "Engine (gross)": "85 hp 63.4 kW",
+          "PTO (claimed)": "70 hp 52.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "mechanical",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post foldable ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 5085E photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Rear valves": "0, 2 or 3",
+          "Mid valves": "0, 2 or 3",
+          "Pump flow": "15.9 gpm 60.2 lpm",
+          "Total flow": "22.5 gpm 85.2 lpm",
+          "Steering flow": "6.6 gpm 25.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "top link draft sensing",
+          "Rear lift (at 24\"/610mm)": "3213 lbs 1457 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540/540E (1.375)",
+          "Engine RPM": "540@2400",
+          "&nbsp": "540E@1700"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "90.6 inches 230 cm",
+          "Weight": "7055 to 7937 pounds",
+          "Front tire": "11.2-24",
+          "Rear tire": "16.9-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5085E attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "90",
+          "&nbsp": "120 Opt Optional",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "5D - 5E Utility Tractors published in 2013, by John Deere *",
+          "__seccion_3__": "5D - 5E Utility Tractors published in 2014, by John Deere *",
+          "__seccion_4__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 2, 2023",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2013 - 2017",
+          "__seccion_2__": "Model year 2013-2014 2015-2017",
+          "__seccion_3__": "5E Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 5085E Tires",
+          "Standard tires (ag)": "Front: 11.2-24. Rear: 16.9-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "90.6 inches 230 cm",
+          "Length": "154.5 inches 392 cm",
+          "Width": "69.6 inches 176 cm",
+          "ROPS Weight": "7055 lbs 3200 kg",
+          "Cab Weight": "7937 lbs 3600 kg",
+          "ROPS Clearance (front axle)": "16 inches 40 cm",
+          "Cab Clearance (front axle)": "15.2 inches 38 cm",
+          "__seccion_2__": "Flange rear axle",
+          "Front tread": "52.8 to 75 inches 134 to 190 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 5085E Height",
+          "Hood": "62.7 inches 159 cm",
+          "ROPS": "99.8 inches 253 cm",
+          "&nbsp": "77.6 inches (folded) 197 cm",
+          "Cab": "100.2 inches 254 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 2, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2013 - 2017",
+          "__seccion_2__": "Model year 2013-2014 2015-2017",
+          "__seccion_3__": "5E Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech 4045",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "276 ci 4.5 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Interim Tier IV",
+          "Rated Power (gross)": "85 hp 63.4 kW",
+          "Rated RPM": "2400",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 2, 2023"
+        }
+      ]
+    }
+  }
+}

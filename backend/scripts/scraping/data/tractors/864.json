@@ -1,0 +1,236 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/6/864-massey-ferguson-3060.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/6/864-massey-ferguson-3060-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/6/864-massey-ferguson-3060-engine.html",
+    "source_id": 864,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:28:01.344Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/864/864-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 129 KB"
+  },
+  "tractor_data_id": 864,
+  "name": "Massey Ferguson 3060",
+  "brand": "Massey Ferguson",
+  "model": "3060",
+  "years": {
+    "desde": 1986,
+    "hasta": 1992
+  },
+  "model_year": 1986,
+  "engine_power_hp": 77,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 68,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3690,
+  "weight_basis": "4WD ROPS",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 24.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4-30",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1557,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/864/864-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/864/864-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td864.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1986 - 1992",
+          "__seccion_2__": "3000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Original price was $32,500 in 1992"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3060 Engine",
+          "__seccion_2__": "Perkins 4.1L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3060 Transmissions",
+          "__seccion_2__": "16-speed fully synchronized",
+          "__seccion_3__": "32-speed two-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3060 Power",
+          "Engine": "77 hp 57.4 kW",
+          "PTO (claimed)": "68 hp 50.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post fixed ROPS. Cab with optional air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 3060 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "39 gal 147.6 L",
+          "Hydraulic system": "15.9 gal 60.2 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "15.9 gal 60.2 L",
+          "Pressure": "2610 psi 180.0 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "13.2 gpm 50.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position control and lower-link draft sensing",
+          "Rear lift (at ends)": "7926 lbs 3595 kg",
+          "Rear lift (at 24\"/610mm)": "5100 lbs 2313 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "93.3 inches 236 cm",
+          "4WD Wheelbase": "93.4 inches 237 cm",
+          "Weight": "7529 to 9310 pounds",
+          "Front tire": "7.50-16",
+          "Rear tire": "18.4-30 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3060 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "55",
+          "Batteries": "2",
+          "Battery CCA": "420",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Loaders - Compact and Agricultural published in 1989, by Massey Ferguson",
+          "__seccion_3__": "MF 3000 & 3100 Series published in 1991, by Massey Ferguson",
+          "__seccion_4__": "MF 3000 Product Information Manual (0783/0986) published in 1986 *",
+          "__seccion_5__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 9, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1986 - 1992",
+          "__seccion_2__": "3000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3060 Tires",
+          "Standard tires (ag)": "Front: 7.50-16. Rear: 18.4-30 (2WD)",
+          "&nbsp": "Front: 12.4-24. Rear: 18.4-30 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "93.3 inches 236 cm",
+          "4WD Wheelbase": "93.4 inches 237 cm",
+          "2WD Length": "157.3 inches 399 cm",
+          "4WD Length": "158.4 inches 402 cm",
+          "Width": "72.1 inches 183 cm",
+          "2WD Clearance (front axle)": "21.9 inches 55 cm",
+          "4WD Clearance (front axle)": "16.2 inches 41 cm",
+          "Clearance (drawbar)": "14.2 inches 36 cm",
+          "2WD Front tread": "54.4 to 86.3 inches 138 to 219 cm",
+          "4WD Front tread": "56.4 to 75.7 inches 143 to 192 cm",
+          "Rear tread": "56.4 to 84.1 inches 143 to 213 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3060 Weight",
+          "2WD ROPS": "7529 lbs 3415 kg",
+          "2WD Cab": "8660 lbs 3928 kg",
+          "4WD ROPS": "8135 lbs 3690 kg",
+          "4WD Cab": "9310 lbs 4223 kg"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3060 Height",
+          "2WD Steering wheel": "76.2 inches 193 cm",
+          "4WD Steering wheel": "76.8 inches 195 cm",
+          "Cab": "103.6 inches 263 cm",
+          "Exhaust": "103 inches 261 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 9, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1986 - 1992",
+          "__seccion_2__": "3000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A4.248",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "248 ci 4.1 L",
+          "Power": "77 hp 57.4 kW",
+          "Rated RPM": "2200",
+          "Torque": "207 lb-ft 280.7 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 9, 2022"
+        }
+      ]
+    }
+  }
+}

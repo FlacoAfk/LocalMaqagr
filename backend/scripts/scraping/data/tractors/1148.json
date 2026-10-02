@@ -1,0 +1,228 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/1/4/1148-caseih-385.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/1/4/1148-caseih-385-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/1/4/1148-caseih-385-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1148,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:33:49.131Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1148/1148-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 72 KB"
+  },
+  "tractor_data_id": 1148,
+  "name": "CaseIH 385",
+  "brand": "CaseIH",
+  "model": "385",
+  "years": {
+    "desde": 1985,
+    "hasta": 1990
+  },
+  "model_year": 1985,
+  "engine_power_hp": 43,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 35,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2235,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 12.8,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14.9x28",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1355,
+  "tire_front": {
+    "original": "8.3x24",
+    "radial": false,
+    "width_mm": 211,
+    "rim_in": 24,
+    "diameter_mm_est": 968,
+    "tipo": "Diagonal",
+    "texto": "8.3x24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1148/1148-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1148/1148-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1148.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1985 - 1990",
+          "__seccion_2__": "85 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Doncaster, England",
+          "__seccion_4__": "Original price was $14,000 in 1990"
+        },
+        {
+          "__seccion_1__": "CaseIH 385 Engine",
+          "__seccion_2__": "CaseIH 2.5L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 385 Transmissions",
+          "__seccion_2__": "8-speed synchromesh",
+          "__seccion_3__": "16-speed partial power shift",
+          "__seccion_4__": "8-speed power shuttle",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 385 Power",
+          "Engine": "43 hp 32.1 kW",
+          "PTO (claimed)": "35 hp 26.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Optional canopy. Optional deluxe canopy with lights and radio wiring."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH 385 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "20 gal 75.7 L",
+          "Hydraulic system": "9 gal 34.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "9 gal 34.1 L",
+          "Pressure": "2500 psi 172.4 bar",
+          "Valves": "0 to 2",
+          "Total flow": "14.3 gpm 54.1 lpm",
+          "Steering flow": "2.5 gpm 9.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift (at 24\"/610mm)": "2,158 lbs 978 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "79.6 inches 202 cm",
+          "Weight": "4869 to 5940 pounds",
+          "Front tire": "6.00-16",
+          "Rear tire": "13.6-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1985": "15000",
+          "1986": "18000",
+          "1987": "18806",
+          "1988": "19454",
+          "1989": "20811",
+          "1990": "22231",
+          "__seccion_1__": "385 Serial Numbers",
+          "Location:": "Front right bolster",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "45",
+          "Battery volts": "12",
+          "Battery AH": "93"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Model 385 Tractor published in 1991, by CaseIH",
+          "__seccion_3__": "85 Series published in 1985, by CaseIH",
+          "__seccion_4__": "1985 Farm Equipment Buyer's Guide published by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 2, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1985 - 1990",
+          "__seccion_2__": "85 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH 385 Tires",
+          "Ag front": "7.50x16",
+          "&nbsp": "18.4x16.1",
+          "Ag rear": "14.9x24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "79.6 inches 202 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH 385 Weight",
+          "Shipping": "4929 lbs (utility) 2235 kg",
+          "&nbsp": "5940 lbs (4WD) 2694 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 2, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1985 - 1990",
+          "__seccion_2__": "85 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CaseIH D-155",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "155 ci 2.5 L",
+          "Bore/Stroke": "3.8x4.3 inches 97 x 109 mm",
+          "Power": "43 hp 32.1 kW",
+          "Air cleaner": "dry type with safety element",
+          "Pre-heating": "ether injection",
+          "Compression": "16:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "700-2400",
+          "Torque": "119 lb-ft 161.4 Nm",
+          "Torque RPM": "1650",
+          "Starter volts": "12",
+          "Oil capacity": "8 qts 7.6 L",
+          "Coolant capacity": "12 qts 11.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 2, 2025"
+        }
+      ]
+    }
+  }
+}

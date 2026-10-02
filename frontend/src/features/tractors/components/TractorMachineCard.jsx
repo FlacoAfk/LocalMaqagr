@@ -59,6 +59,7 @@ const TractorMachineCard = ({ imageSrc, link, title, description }) => {
             alt={title}
             className="h-full w-full object-contain"
             loading="lazy"
+            referrerPolicy="no-referrer"
           />
         )}
       </div>

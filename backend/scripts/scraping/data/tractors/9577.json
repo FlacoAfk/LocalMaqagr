@@ -1,0 +1,198 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/009/5/7/9577-kubota-gl220.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/009/5/7/9577-kubota-gl220-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/009/5/7/9577-kubota-gl220-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 9577,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:05:22.798Z",
+    "foto_original": "https://www.tractordata.com/photos/F009/9577/9577-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 103 KB"
+  },
+  "tractor_data_id": 9577,
+  "name": "Kubota GL220",
+  "brand": "Kubota",
+  "model": "GL220",
+  "years": {
+    "desde": 1993,
+    "hasta": 1995
+  },
+  "model_year": 1993,
+  "engine_power_hp": 21.7,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1094,
+  "weight_basis": "ROPS Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 8,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 9.5-22",
+  "tire_width_mm": 241,
+  "tire_diameter_mm": 969,
+  "tire_front": {
+    "original": "6-14",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 14,
+    "diameter_mm_est": 615,
+    "tipo": "Diagonal",
+    "texto": "6-14"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F009/9577/9577-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F009/9577/9577-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td9577.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1993 - 1995",
+          "__seccion_2__": "GL Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "GL220": "ROPS",
+          "GL220Q": "cab"
+        },
+        {
+          "__seccion_1__": "Kubota GL220 Engine",
+          "__seccion_2__": "Kubota 1.5L 3-cyl diesel",
+          "Fuel tank": "7.1 gal 26.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota GL220 Transmissions",
+          "__seccion_2__": "16-speed gear",
+          "__seccion_3__": "16-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota GL220 Power",
+          "Engine": "21.7 hp 16.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota GL220 photos..."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "546/772/947/1254 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "ROPS Wheelbase": "61 inches 154 cm",
+          "Cab Wheelbase": "62.4 inches 158 cm",
+          "Weight": "2414 to 2745 pounds",
+          "Front tire": "6-14",
+          "Rear tire": "9.5-22",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 1, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1993 - 1995",
+          "__seccion_2__": "GL Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota GL220 Tires",
+          "Standard tires (ag)": "Front: 6-14. Rear: 9.5-22"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "ROPS Wheelbase": "61 inches 154 cm",
+          "Cab Wheelbase": "62.4 inches 158 cm",
+          "ROPS Length": "116.1 inches 294 cm",
+          "Cab Length": "118.3 inches 300 cm",
+          "ROPS Width": "49.2 inches 124 cm",
+          "Cab Width": "51.2 inches 130 cm",
+          "Height (ROPS)": "77 inches 195 cm",
+          "Height (cab)": "77.6 inches 197 cm",
+          "ROPS Weight": "2414 lbs 1094 kg",
+          "Cab Weight": "2745 lbs 1245 kg",
+          "Ground clearance": "13.2 inches 33 cm",
+          "Front tread": "37.4 inches 94 cm",
+          "Rear tread": "39.8/44.5 inches 101/113 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 1, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1993 - 1995",
+          "__seccion_2__": "GL Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota D1463",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "89.3 ci 1.5 L",
+          "Bore/Stroke": "3.23x3.64 inches 82 x 92 mm",
+          "Power": "21.7 hp 16.2 kW",
+          "Rated RPM": "2500",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Kubota GL220 Engine",
+          "__seccion_2__": "Image courtesy of Agro-Engineering"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 1, 2020"
+        }
+      ]
+    }
+  }
+}

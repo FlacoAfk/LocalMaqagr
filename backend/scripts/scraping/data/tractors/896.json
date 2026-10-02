@@ -1,0 +1,209 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/9/896-massey-ferguson-6180.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/9/896-massey-ferguson-6180-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/9/896-massey-ferguson-6180-engine.html",
+    "source_id": 896,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:29:44.405Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/896/896-td4-b01-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 72 KB"
+  },
+  "tractor_data_id": 896,
+  "name": "Massey Ferguson 6180",
+  "brand": "Massey Ferguson",
+  "model": "6180",
+  "years": {
+    "desde": 1995,
+    "hasta": 1998
+  },
+  "model_year": 1995,
+  "engine_power_hp": 110,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 110,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 5164,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 40.4,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "10.00-16",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 16,
+    "diameter_mm_est": 838,
+    "tipo": "Diagonal",
+    "texto": "10.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/896/896-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/896/896-td4-b01-ext090.jpg",
+  "image_url": "/uploads/tractors/td896.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1995 - 1998",
+          "__seccion_2__": "6100 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Original price was $58,000 in 1998"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 6180 Engine",
+          "__seccion_2__": "Perkins 6.0L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 6180 Transmissions",
+          "__seccion_2__": "16-speed synchronized",
+          "__seccion_3__": "32-speed four-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 6180 Power",
+          "PTO (claimed)": "110 hp 82.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "QuietView cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 6180 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "42.3 gal 160.1 L",
+          "Hydraulic system": "18 gal 68.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "18 gal 68.1 L",
+          "Pressure": "2931 psi 202.1 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "14.9 gpm 56.4 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "electronic draft control",
+          "Rear lift (at ends)": "9590 lbs 4350 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540/1000",
+          "Engine RPM": "540@1980",
+          "&nbsp": "1000E@1550"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "106 inches 269 cm",
+          "Weight": "11153 to 11385 pounds",
+          "Front tire": "10.00-16",
+          "Rear tire": "18.4R-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Batteries": "2",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF 6100 & 8100 Series published in 1995, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 11, 2019"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1995 - 1998",
+          "__seccion_2__": "6100 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 6180 Tires",
+          "Ag front": "10.00-16",
+          "Ag rear": "18.4R-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "106 inches 269 cm",
+          "Length": "178 inches 452 cm",
+          "Width": "76 inches 193 cm",
+          "Height (cab)": "109 inches 276 cm",
+          "2WD Weight": "11153 lbs 5059 kg",
+          "4WD Weight": "11385 lbs 5164 kg",
+          "2WD Front tread": "60.5 to 99.6 inches 153 to 252 cm",
+          "4WD Front tread": "61.6 to 80.5 inches 156 to 204 cm",
+          "Rear tread": "60.3 to 88.2 inches 153 to 224 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 11, 2019"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1995 - 1998",
+          "__seccion_2__": "6100 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins 1006-6T",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "365 ci 6.0 L",
+          "Bore/Stroke": "3.94x5.00 inches 100 x 127 mm",
+          "Air cleaner": "dual dry element",
+          "Rated RPM": "2200",
+          "Starter volts": "12",
+          "Coolant capacity": "26.4 qts 25.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 11, 2019"
+        }
+      ]
+    }
+  }
+}

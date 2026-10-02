@@ -1,0 +1,228 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/7/2/723-john-deere-2130.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/7/2/723-john-deere-2130-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/7/2/723-john-deere-2130-engine.html",
+    "source_id": 723,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:51:53.673Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/723/723-photo-001-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 145 KB"
+  },
+  "tractor_data_id": 723,
+  "name": "John Deere 2130",
+  "brand": "John Deere",
+  "model": "2130",
+  "years": {
+    "desde": 1973,
+    "hasta": 1977
+  },
+  "model_year": 1973,
+  "engine_power_hp": 79.1,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 60.4,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2712,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 22.2,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 15.5-38",
+  "tire_width_mm": 394,
+  "tire_diameter_mm": 1634,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/723/723-td3a.jpg",
+  "image_url": "/uploads/tractors/td723.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1973 - 1977",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany"
+        },
+        {
+          "__seccion_1__": "John Deere 2130 Engine",
+          "__seccion_2__": "John Deere 3.9L 4-cyl diesel",
+          "Fuel tank": "23.8 gal 90.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2130 Transmissions",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "16-speed two-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2130 Power",
+          "Engine (gross)": "79.1 hp 59.0 kW",
+          "Engine (net)": "73.8 hp 55.0 kW",
+          "PTO (claimed)": "60.4 hp 45.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 HFWD 4WD",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "Steering": "power Opt Optional",
+          "__seccion_2__": "Hydraulic wet disc brakes",
+          "__seccion_3__": "Open operator station. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 2130 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Pressure": "2248 psi 155.0 bar",
+          "Pump flow": "6.6 gpm 25.0 lpm",
+          "&nbsp": "12.4 gpm Opt Optional 46.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position control and lower-link draft sensing",
+          "Rear lift": "5560 lbs 2522 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "&nbsp": "1000@2100",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "85.8 inches 217 cm",
+          "Weight": "5980 lbs 2712 kg",
+          "Rear tire": "15.5-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "2130 Serial Number Location",
+          "__seccion_2__": "Right side of tractor frame, above front axle."
+        },
+        {
+          "1973": "------",
+          "1974": "140000",
+          "1975": "155483",
+          "1976": "190675",
+          "1977": "230487",
+          "1978": "274909",
+          "1979": "309934",
+          "__seccion_1__": "2130 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "28",
+          "Charging volts": "14",
+          "Batteries": "2",
+          "Battery volts": "12",
+          "Battery AH": "55"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operator's Manual 145 Loader (OMW21474)",
+          "__seccion_3__": "Tractors 1130, 2030, 2130, 3130 published in 1976, by John Deere",
+          "__seccion_4__": "Tractors 40 to 80 hp published in 1978, by John Deere",
+          "__seccion_5__": "Product Information Manual published in 1975, by John Deere",
+          "__seccion_6__": "Product Information Manual published in 1977, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 31, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1973 - 1977",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 2130 Tires",
+          "Ag rear": "15.5-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "85.8 inches 217 cm",
+          "Length": "139.6 inches 354 cm",
+          "Width": "80.3 inches * Minimum width. 203 cm",
+          "Height": "102.4 inches 260 cm",
+          "Weight": "5980 lbs 2712 kg",
+          "__seccion_2__": "Flange rear axle",
+          "__seccion_3__": "Rack-and-pinion rear axle",
+          "Front tread": "53.5 to 73.6 inches 135 to 186 cm",
+          "Rear tread": "61 to 96.1 inches 154 to 244 cm (rack-and-pinion)"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 31, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1973 - 1977",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "239 ci 3.9 L",
+          "Bore/Stroke": "4.19x4.33 inches 106 x 110 mm",
+          "Power (net)": "73.8 hp 55.0 kW",
+          "Power (gross)": "79.1 hp 59.0 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dry",
+          "Compression": "16.8:1",
+          "Rated RPM": "2500",
+          "Idle RPM": "650-2660",
+          "Operating RPM": "1400-2500",
+          "Torque": "181.4 lb-ft 246.0 Nm",
+          "Torque RPM": "1400",
+          "Firing order": "1-3-4-2",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Coolant capacity": "12.1 qts 11.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 31, 2025"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/723/723-photo-001-ext045.jpg"
+}

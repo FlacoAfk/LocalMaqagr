@@ -1,0 +1,238 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/4/3/6435-caseih-farmall-75a.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/4/3/6435-caseih-farmall-75a-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/006/4/3/6435-caseih-farmall-75a-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/4/3/6435-caseih-farmall-75a-engine.html",
+    "source_id": 6435,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:31:50.908Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6435/6435-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 135 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 6435,
+  "name": "CaseIH Farmall 75A",
+  "brand": "CaseIH",
+  "model": "Farmall 75A",
+  "years": {
+    "desde": 2010,
+    "hasta": 2015
+  },
+  "model_year": 2010,
+  "engine_power_hp": 75,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 66,
+  "pto_tested_hp": 68.18,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2580,
+  "weight_basis": "4WD Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 25,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9x30",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1492,
+  "tire_front": {
+    "original": "11.2x24",
+    "radial": false,
+    "width_mm": 284,
+    "rim_in": 24,
+    "diameter_mm_est": 1093,
+    "tipo": "Diagonal",
+    "texto": "11.2x24"
+  },
+  "fuel_consumption_lph": 16.3,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F006/6435/6435-td3a.jpg",
+  "image_url": "/uploads/tractors/td6435.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2010 - 2015",
+          "__seccion_2__": "Farmall A Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in India"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 75A Engine",
+          "__seccion_2__": "FPT 3.2L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 75A Transmission",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 75A Power",
+          "Engine (gross)": "75 hp 55.9 kW",
+          "PTO (claimed)": "66 hp 49.2 kW",
+          "PTO (tested)": "68.18 hp 50.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear differential lock with foot pedal, limited slip 4WD front axle",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Differential mechanical dry disc brakes",
+          "__seccion_4__": "Two-post foldable ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH Farmall 75A photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "16.4 gal 62.1 L",
+          "Steering": "8.5 qts 8.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center fixed displacement gear pump",
+          "Valves": "1 or 2",
+          "Pump flow": "10.4 gpm 39.4 lpm",
+          "Total flow": "18.7 gpm 70.8 lpm",
+          "Steering cap.": "8.5 qts 8.0 L"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "2/1",
+          "Control": "position control and mechanical draft sensing",
+          "Rear lift (at 24\"/610mm)": "2,954 lbs 1339 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "5059 to 5688 pounds",
+          "Front tire": "7.50x16",
+          "2WD Rear tire": "16.9x30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 75A attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "65",
+          "Charging volts": "12",
+          "Battery CCA": "800",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Farmall A Series Tractors published in 2011, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on August 17, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2010 - 2015",
+          "__seccion_2__": "Farmall A Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 75A Tires",
+          "2WD Standard tires (ag)": "Front: 7.50x16. Rear: 16.9x30",
+          "4WD Standard tires (ag)": "Front: 11.2x24. Rear: 16.9x30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Length": "137.2 inches 348 cm",
+          "4WD Length": "139.6 inches 354 cm",
+          "Width": "78.4 inches 199 cm",
+          "Height": "96.9 inches 246 cm",
+          "2WD Shipping weight": "5,059 lbs 2294 kg",
+          "4WD Shipping weight": "5,688 lbs 2580 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 17, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2010 - 2015",
+          "__seccion_2__": "Farmall A Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 2014A"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 2014A",
+          "__seccion_2__": "Diesel 8-speed 4WD December 7 - 9, 2011 Link: Nebraska Tractor Test 2014A file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "68.18 hp 50.8 kW",
+          "Fuel use": "4.0 gal/hour 15.1 l/hour",
+          "Power at rated engine speed": "66.89 hp 49.9 kW",
+          "Power at rated PTO speed": "66.69 hp 49.7 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 17, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2010 - 2015",
+          "__seccion_2__": "Farmall A Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "195 ci 3.2 L",
+          "Power (gross)": "75 hp 55.9 kW",
+          "Rated RPM": "2500",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 17, 2021"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6435/6435-photo-001.jpg"
+}

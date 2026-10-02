@@ -1,0 +1,221 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/6/0/609-new-holland-4330v.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/6/0/609-new-holland-4330v-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/6/0/609-new-holland-4330v-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 609,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:20:11.177Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/609/609-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 609,
+  "name": "New Holland 4330V",
+  "brand": "New Holland",
+  "model": "4330V",
+  "years": {
+    "desde": 1997,
+    "hasta": 2000
+  },
+  "model_year": 1997,
+  "engine_power_hp": 70,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 62,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1869,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 22.7,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-28",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1247,
+  "tire_front": {
+    "original": "7.00-12",
+    "radial": false,
+    "width_mm": 178,
+    "rim_in": 12,
+    "diameter_mm_est": 607,
+    "tipo": "Diagonal",
+    "texto": "7.00-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/609/609-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td609.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1997 - 2000",
+          "__seccion_2__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Orchard/Vineyard tractor",
+          "__seccion_3__": "Original price was $25,500 in 2000"
+        },
+        {
+          "__seccion_1__": "New Holland 4330V Engine",
+          "__seccion_2__": "Iveco 3.6L 4-cyl diesel",
+          "Fuel tank": "11.9 gal 45.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland 4330V Transmission",
+          "__seccion_2__": "12-speed mechanical shuttle",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland 4330V Power",
+          "Engine": "70 hp 52.2 kW",
+          "PTO (claimed)": "62 hp 46.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "2WD Differential lock": "mechanical",
+          "4WD Differential lock": "electro-hydraulic",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical wet disc brakes",
+          "__seccion_5__": "Two-post mid-mount ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the New Holland 4330V are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "2",
+          "Pump flow": "11 gpm 41.6 lpm",
+          "Steering flow": "8.1 gpm 30.7 lpm",
+          "Steering press.": "1450 psi 100.0 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control and lower-link draft sensing",
+          "Rear lift": "4321 lbs 1960 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "dry disc",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "77.1 inches 195 cm",
+          "4WD Wheelbase": "80.1 inches 203 cm",
+          "Weight": "3935 to 4122 pounds",
+          "Front tire": "6.00-16",
+          "2WD Rear tire": "12.4-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "33",
+          "Cab Charging amps": "65",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "New Holland Narrow Tractors 45 and 62 HP published in 1998",
+          "__seccion_3__": "North American Buyer's Guide published in 1997, by New Holland"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 21, 2020",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1997 - 2000",
+          "__seccion_2__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "New Holland 4330V Tires",
+          "2WD Standard tires (ag)": "Front: 6.00-16. Rear: 12.4-28",
+          "4WD Standard tires (ag)": "Front: 7.00-12. Rear: 12.4-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "77.1 inches 195 cm",
+          "4WD Wheelbase": "80.1 inches 203 cm",
+          "2WD Length": "133.5 inches 339 cm",
+          "4WD Length": "134.1 inches 340 cm",
+          "Width": "47.1 inches 119 cm",
+          "2WD Weight": "3935 lbs 1784 kg",
+          "4WD Weight": "4122 lbs 1869 kg",
+          "2WD Clearance (front axle)": "15 inches 38 cm",
+          "4WD Clearance (front axle)": "11.5 inches 29 cm"
+        },
+        {
+          "__seccion_1__": "New Holland 4330V Height",
+          "2WD Steering wheel": "53.3 inches 135 cm",
+          "4WD Steering wheel": "52.2 inches 132 cm",
+          "2WD Hood": "48.5 inches 123 cm",
+          "4WD Hood": "47.5 inches 120 cm",
+          "2WD ROPS": "84.6 inches 214 cm",
+          "4WD ROPS": "83.5 inches 212 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 21, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1997 - 2000",
+          "__seccion_2__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iveco 8045.06",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "220 ci 3.6 L",
+          "Bore/Stroke": "3.94x4.53 inches 100 x 115 mm",
+          "Power": "70 hp 52.2 kW",
+          "Pre-heating": "thermostart",
+          "Compression": "17:1",
+          "Rated RPM": "2500",
+          "Firing order": "1-3-4-2",
+          "Starter volts": "12",
+          "Oil capacity": "12.4 qts 11.7 L",
+          "Coolant capacity": "14.3 qts 13.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 21, 2020"
+        }
+      ]
+    }
+  }
+}

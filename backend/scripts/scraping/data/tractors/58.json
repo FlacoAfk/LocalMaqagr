@@ -1,0 +1,342 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/5/58-john-deere-2010.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/5/58-john-deere-2010-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/5/58-john-deere-2010-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/5/58-john-deere-2010-engine.html",
+    "source_id": 58,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:34:51.482Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/58/58-photo-001-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 60 KB",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1392/",
+    "nebraska_test": 799
+  },
+  "tractor_data_id": 58,
+  "name": "John Deere 2010",
+  "brand": "John Deere",
+  "model": "2010",
+  "years": {
+    "desde": 1960,
+    "hasta": 1965
+  },
+  "model_year": 1960,
+  "engine_power_hp": 46.86,
+  "engine_power_source": "pto_tested (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": 46.86,
+  "drawbar_tested_hp": 39.28,
+  "weight_kg": 2131,
+  "weight_basis": "Gas row-crop Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 20.3,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 14,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/58/58-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/58/58-photo-001-ext090.jpg",
+  "image_url": "/uploads/tractors/td58.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1960 - 1965",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Dubuque, Iowa, USA",
+          "__seccion_4__": "Original price was $4,600 in 1965"
+        },
+        {
+          "2010": "ag tractor",
+          "__seccion_1__": "Variants",
+          "2010C": "ag crawler",
+          "2010 Wheel": "industrial tractor",
+          "2010 Hi-Crop": "high-clearance"
+        },
+        {
+          "__seccion_1__": "John Deere 2010 Engines",
+          "__seccion_2__": "John Deere 2.4L 4-cyl gasoline",
+          "__seccion_3__": "John Deere 2.7L 4-cyl diesel",
+          "__seccion_4__": "John Deere 2.4L 4-cyl LP gas",
+          "__seccion_5__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2010 Transmission",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2010 Power",
+          "Drawbar (tested)": "39.28 hp 29.3 kW",
+          "PTO (tested)": "46.86 hp 34.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "power Opt Optional",
+          "__seccion_3__": "Differential mechanical dry disc brakes",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 2010 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "16 gal 60.6 L",
+          "Hydraulic system": "8 gal 30.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "8 gal 30.3 L",
+          "Pressure": "1150 psi 79.3 bar",
+          "Valves": "1 or 2",
+          "Total flow": "11 gpm 41.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position and draft control"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent Opt Optional",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@1900"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Row-crop Wheelbase": "90 inches 228 cm",
+          "Utility Wheelbase": "86.9 inches 220 cm",
+          "Weight": "4700 to 5120 pounds",
+          "Front tire": "6.00/6.50/7.50-16",
+          "Rear tire": "12.4/13.6/14.9-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2010 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "2010 Serial Number Location",
+          "__seccion_2__": "Right-hand side of engine block."
+        },
+        {
+          "1961": "10001",
+          "1962": "19240",
+          "1963": "29001",
+          "1964": "42001",
+          "1965": "54826",
+          "__seccion_1__": "2010 Serial Numbers",
+          "Final": "68259",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive",
+          "Charging system": "generator",
+          "Gas Battery CCA": "420",
+          "Diesel Battery CCA": "625",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere 10 Series New Generation Tractors published in 2004, by Hain Publishing",
+          "__seccion_3__": "Twenty Ten Row-Crop and Row-Crop Utility Tractors published in 1961, by John Deere",
+          "__seccion_4__": "2010 Row-Crop and Row-Crop Utility Tractors published in 1964, by John Deere",
+          "__seccion_5__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_6__": "Facts About John Deere Tractor Wholesale Prices 1935-1961",
+          "__seccion_7__": "Modern Farming published in 1962, by John Deere",
+          "__seccion_8__": "Modern Farming published in 1965, by John Deere",
+          "__seccion_9__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 24, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1960 - 1965",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 2010 Tires",
+          "Ag front": "6.00-14",
+          "Ag rear": "11.2/12.4/13.9-36 (row-crop)",
+          "&nbsp": "9.00-10 (row-crop)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Row-crop Wheelbase": "90 inches 228 cm",
+          "Utility Wheelbase": "86.9 inches 220 cm",
+          "Row-crop Length": "140 inches 355 cm",
+          "Utility Length": "139.75 inches 354 cm",
+          "Row-crop Width": "86 inches 218 cm",
+          "Utility Width": "71 inches 180 cm",
+          "Row-crop Clearance (front axle)": "23.75 inches 60 cm",
+          "Utility Clearance (front axle)": "19.625 inches 49 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 2010 Weight",
+          "Gas row-crop Shipping": "4700 lbs 2131 kg",
+          "Diesel row-crop Shipping": "4800 lbs 2177 kg",
+          "Gas utility Shipping": "4850 lbs 2199 kg",
+          "Diesel utility Shipping": "4920 lbs 2231 kg",
+          "Gas Operating": "5054 lbs 2292 kg",
+          "Diesel Operating": "5120 lbs 2322 kg",
+          "Ballasted": "6392 lbs 2899 kg"
+        },
+        {
+          "__seccion_1__": "John Deere 2010 Height",
+          "Row-crop Hood": "60.1 inches 152 cm",
+          "Utility Hood": "55.6 inches 141 cm",
+          "Row-crop Exhaust": "85.75 inches 217 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 24, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1960 - 1965",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 799: diesel 8-speed 2WD",
+          "__seccion_3__": "NTTL 800: gasoline 8-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 799"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 799",
+          "__seccion_2__": "Diesel 8-speed 2WD June 6 - 22, 1961 Link: Nebraska Tractor Test 799 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "46.67 hp 34.8 kW",
+          "Fuel use": "3.6 gal/hour 13.6 l/hour",
+          "Power at rated PTO speed": "38.64 hp 28.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "39.28 hp 29.3 kW",
+          "__seccion_5__": "Gear 3 used for power test.",
+          "Max pull": "4,553 lbs 2065 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 800"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 800",
+          "__seccion_2__": "Gasoline 8-speed 2WD June 13 - 22, 1961 Link: Nebraska Tractor Test 800 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "46.86 hp 34.9 kW",
+          "Fuel use": "3.9 gal/hour 14.8 l/hour",
+          "Power at rated PTO speed": "38.45 hp 28.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "39.12 hp 29.2 kW",
+          "__seccion_5__": "Gear 3 used for power test.",
+          "Max pull": "4,596 lbs 2084 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 24, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1960 - 1965",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "John Deere 2.4L 4-cyl gasoline",
+          "__seccion_3__": "John Deere 2.7L 4-cyl diesel",
+          "__seccion_4__": "John Deere 2.4L 4-cyl LP gas"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "144.5 ci 2.4 L",
+          "Bore/Stroke": "3.625x3.50 inches 92 x 89 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "8.3:1",
+          "Rated RPM": "2500",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "165.1 ci 2.7 L",
+          "Bore/Stroke": "3.875x3.50 inches 98 x 89 mm",
+          "Pre-heating": "glow plugs",
+          "Compression": "19:1",
+          "Rated RPM": "2500",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "John Deere 2010 Engine"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "LP gas",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "144.5 ci 2.4 L",
+          "Bore/Stroke": "3.625x3.50 inches 92 x 89 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "8.9:1",
+          "Rated RPM": "2500",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 24, 2025"
+        }
+      ]
+    }
+  }
+}

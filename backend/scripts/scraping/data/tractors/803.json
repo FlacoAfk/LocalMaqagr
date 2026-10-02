@@ -1,0 +1,165 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/0/803-fiat-355c.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/0/803-fiat-355c-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/0/803-fiat-355c-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 803,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:12:34.181Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/803/803-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 3 KB"
+  },
+  "tractor_data_id": 803,
+  "name": "Fiat 355C",
+  "brand": "Fiat",
+  "model": "355C",
+  "years": {
+    "desde": 1971,
+    "hasta": 1975
+  },
+  "model_year": 1971,
+  "engine_power_hp": 34.5,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2229,
+  "weight_basis": "Weight",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 12.7,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/803/803-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td803.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1971 - 1975",
+          "__seccion_2__": "55 Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Fiat",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Fiat 355C Engine",
+          "__seccion_2__": "Fiat 2.3L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 355C Transmission",
+          "__seccion_2__": "6-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Fiat 355C Power",
+          "Engine": "34.5 hp 25.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "crawler",
+          "__seccion_2__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Fiat 355C are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear lift": "2646 lbs 1200 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "Engine RPM": "540@2120"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tracks",
+          "Wheelbase": "50.9 inches 129 cm",
+          "Weight": "4916 lbs 2229 kg",
+          "__seccion_2__": "10-inch tracks",
+          "__seccion_3__": "Full dimensions and tracks ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 30, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1971 - 1975",
+          "__seccion_2__": "55 Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Fiat 355C Tracks",
+          "Width": "10 inches 25 cm"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "50.9 inches 129 cm",
+          "Length": "96.9 inches 246 cm",
+          "Width": "46.5 inches 118 cm",
+          "Height (hood)": "44.3 inches 112 cm",
+          "Height (exhaust)": "63.2 inches 160 cm",
+          "Weight": "4916 lbs 2229 kg",
+          "Ground clearance": "9.8 inches 24 cm",
+          "Gauge": "35.4 inches 89 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 30, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1971 - 1975",
+          "__seccion_2__": "55 Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Fiat 8035",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "142.7 ci 2.3 L",
+          "Bore/Stroke": "3.74x4.33 inches 95 x 110 mm",
+          "Power": "34.5 hp 25.7 kW",
+          "Starter type": "electric"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 30, 2022"
+        }
+      ]
+    }
+  }
+}

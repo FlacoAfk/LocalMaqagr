@@ -1,0 +1,212 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/011/2/0/11207-new-holland-workmaster-95.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/011/2/0/11207-new-holland-workmaster-95-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/011/2/0/11207-new-holland-workmaster-95-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 11207,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:41:34.463Z",
+    "foto_original": "https://www.tractordata.com/photos/F011/11207/11207-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 11207,
+  "name": "New Holland Workmaster 95",
+  "brand": "New Holland",
+  "model": "Workmaster 95",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 97,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 78,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3509,
+  "weight_basis": "ROPS Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 28.6,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4-30",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1557,
+  "tire_front": {
+    "original": "12.4-24",
+    "radial": false,
+    "width_mm": 315,
+    "rim_in": 24,
+    "diameter_mm_est": 1145,
+    "tipo": "Diagonal",
+    "texto": "12.4-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F011/11207/11207-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td11207.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2019 -",
+          "__seccion_2__": "Workmaster Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Utility tractor",
+          "Original price": "$67,370 (2022 ROPS )",
+          "__seccion_3__": "$83,837 (2022 Cab )"
+        },
+        {
+          "__seccion_1__": "New Holland Workmaster 95 Engine",
+          "__seccion_2__": "FPT 3.4L 4-cyl diesel",
+          "ROPS Fuel tank": "24 gal 90.8 L",
+          "Cab Fuel tank": "29 gal 109.8 L",
+          "Exhaust fluid (DEF)": "2.9 gal 11.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland Workmaster 95 Transmission",
+          "__seccion_2__": "12-speed power shuttle",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland Workmaster 95 Power",
+          "Engine (gross)": "97 hp 72.3 kW",
+          "PTO (claimed)": "78 hp 58.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the New Holland Workmaster 95 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Rear valves": "2 or 3",
+          "Pump flow": "16.9 gpm 64.0 lpm",
+          "&nbsp": "21.6 gpm Opt Optional 81.8 lpm",
+          "Steering flow": "9.7 gpm 36.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift (at 24\"/610mm)": "3200 lbs 1451 kg",
+          "&nbsp": "6200 lbs Opt Optional 2812 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540",
+          "&nbsp": "540/540E l 540/1000 ) ((Optional) Opt Optional"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "ROPS Wheelbase": "83.7 inches 212 cm",
+          "Cab Wheelbase": "88.9 inches 225 cm",
+          "Weight": "7738 to 8637 pounds",
+          "Front tire": "12.4-24",
+          "Rear tire": "18.4-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "New Holland Workmaster 95 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 20, 2022",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2019 -",
+          "__seccion_2__": "Workmaster Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "New Holland Workmaster 95 Tires",
+          "Standard tires (ag)": "Front: 12.4-24. Rear: 18.4-30",
+          "Optional tires (ag)": "Front: 13.6-24. Rear: 16.9-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "ROPS Wheelbase": "83.7 inches 212 cm",
+          "Cab Wheelbase": "88.9 inches 225 cm",
+          "Length": "161.1 inches 409 cm",
+          "Height (ROPS)": "103 inches 261 cm",
+          "Height (cab)": "105.4 inches 267 cm",
+          "ROPS Weight": "7738 lbs 3509 kg",
+          "Cab Weight": "8637 lbs 3917 kg",
+          "__seccion_2__": "Flange rear axle"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 20, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2019 -",
+          "__seccion_2__": "Workmaster Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT F5",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "207 ci 3.4 L",
+          "Bore/Stroke": "3.90x4.33 inches 99 x 110 mm",
+          "Emissions": "Tier 4",
+          "Power (gross)": "97 hp 72.3 kW",
+          "Rated RPM": "2300",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 20, 2022"
+        }
+      ]
+    }
+  }
+}

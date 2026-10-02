@@ -1,0 +1,204 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/011/0/2/11025-kubota-m5970.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/011/0/2/11025-kubota-m5970-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/011/0/2/11025-kubota-m5970-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 11025,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:21:42.939Z"
+  },
+  "tractor_data_id": 11025,
+  "name": "Kubota M5970",
+  "brand": "Kubota",
+  "model": "M5970",
+  "years": {
+    "desde": 1984,
+    "hasta": 1988
+  },
+  "model_year": 1984,
+  "engine_power_hp": 59.5,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 57.1,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2580,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 20.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-32",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1348,
+  "tire_front": {
+    "original": "8.3-24",
+    "radial": false,
+    "width_mm": 211,
+    "rim_in": 24,
+    "diameter_mm_est": 968,
+    "tipo": "Diagonal",
+    "texto": "8.3-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": null,
+  "photo_url_large": null,
+  "image_url": null,
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1984 - 1988",
+          "__seccion_2__": "M70 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M5970 Engine",
+          "__seccion_2__": "Kubota 3.2L 3-cyl diesel",
+          "Fuel tank": "18.5 gal 70.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M5970 Transmission",
+          "__seccion_2__": "16-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M5970 Power",
+          "Engine": "59.5 hp 44.4 kW",
+          "PTO (claimed)": "57.1 hp 42.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Kubota M5970 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Pump flow": "9.25 gpm 35.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "JISII/I",
+          "Rear lift": "4189 lbs 1900 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@2194",
+          "&nbsp": "1000@2530"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "82.7 inches 210 cm",
+          "4WD Wheelbase": "83.3 inches 211 cm",
+          "Weight": "5049 to 5688 pounds",
+          "Front tire": "6.00-16",
+          "2WD Rear tire": "12.4-32",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operator's Manual M70 (636830-9971-8)"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 28, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1984 - 1988",
+          "__seccion_2__": "M70 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M5970 Tires",
+          "2WD Standard tires (ag)": "Front: 6.00-16. Rear: 12.4-32",
+          "4WD Standard tires (ag)": "Front: 8.3-24. Rear: 12.4-32"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "82.7 inches 210 cm",
+          "4WD Wheelbase": "83.3 inches 211 cm",
+          "Length": "143.5 inches 364 cm",
+          "2WD Width": "64.8 inches 164 cm",
+          "4WD Width": "71.3 inches 181 cm",
+          "2WD Weight": "5049 lbs 2290 kg",
+          "4WD Weight": "5688 lbs 2580 kg",
+          "Ground clearance": "14.4 inches 36 cm",
+          "2WD Front tread": "48 to 71.7 inches 121 to 182 cm",
+          "4WD Front tread": "52.4 to 63.8 inches 133 to 162 cm",
+          "Rear tread": "48 to 75.6 inches 121 to 192 cm"
+        },
+        {
+          "__seccion_1__": "Kubota M5970 Height",
+          "2WD ROPS": "95.1 inches 241 cm",
+          "4WD ROPS": "95.3 inches 242 cm",
+          "Exhaust": "89.4 inches 227 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 28, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1984 - 1988",
+          "__seccion_2__": "M70 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota D3200",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "196.6 ci 3.2 L",
+          "Bore/Stroke": "4.29x4.53 inches 109 x 115 mm",
+          "Power": "59.5 hp 44.4 kW",
+          "Rated RPM": "2400",
+          "Torque": "153.1 lb-ft 207.6 Nm",
+          "Torque RPM": "1300",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "10.4 qts 9.8 L",
+          "Coolant capacity": "12.3 qts 11.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 28, 2021"
+        }
+      ]
+    }
+  }
+}

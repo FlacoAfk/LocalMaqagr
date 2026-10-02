@@ -1,0 +1,157 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/3/5/3359-zetor-4945.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/3/5/3359-zetor-4945-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/3/5/3359-zetor-4945-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3359,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:51:04.328Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3359/3359-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 2 KB"
+  },
+  "tractor_data_id": 3359,
+  "name": "Zetor 4945",
+  "brand": "Zetor",
+  "model": "4945",
+  "years": {
+    "desde": 1977,
+    "hasta": 1980
+  },
+  "model_year": 1977,
+  "engine_power_hp": 45,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": null,
+  "weight_basis": null,
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 16.5,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F003/3359/3359-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td3359.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1977 - 1980",
+          "__seccion_2__": "UR1 9 Series Series"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Zetor"
+        },
+        {
+          "4911": "2WD",
+          "4945": "4WD",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Zetor 4945 Engine",
+          "__seccion_2__": "Zetor 2.7L 3-cyl diesel",
+          "Fuel tank": "14.5 gal 54.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 4945 Transmission",
+          "__seccion_2__": "10-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 4945 Power",
+          "Engine": "45 hp 33.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Zetor 4945 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear lift": "2,977 lbs 1350 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "78 inches 198 cm",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 15, 2014"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1977 - 1980",
+          "__seccion_2__": "UR1 9 Series Series"
+        },
+        {
+          "__seccion_1__": "Zetor 4945 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "78 inches 198 cm",
+          "Length": "133 inches 337 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 15, 2014"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1977 - 1980",
+          "__seccion_2__": "UR1 9 Series Series"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Zetor Z4901",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "164.5 ci 2.7 L",
+          "Bore/Stroke": "4.01x4.33 inches 102 x 110 mm",
+          "Power": "45 hp 33.6 kW",
+          "Rated RPM": "2200",
+          "Torque": "31.9 lb-ft 43.3 Nm",
+          "Torque RPM": "1450"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 15, 2014"
+        }
+      ]
+    }
+  }
+}

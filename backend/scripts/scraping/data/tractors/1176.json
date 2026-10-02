@@ -1,0 +1,241 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/1/7/1176-caseih-3594.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/1/7/1176-caseih-3594-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/1/7/1176-caseih-3594-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/1/7/1176-caseih-3594-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1176,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:35:19.380Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1176/1176-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 1176,
+  "name": "CaseIH 3594",
+  "brand": "CaseIH",
+  "model": "3594",
+  "years": {
+    "desde": 1985,
+    "hasta": 1988
+  },
+  "model_year": 1985,
+  "engine_power_hp": 182,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 182,
+  "pto_tested_hp": 182.27,
+  "drawbar_tested_hp": 160.39,
+  "weight_kg": 7978,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 90.7,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "16.9-26",
+    "radial": false,
+    "width_mm": 429,
+    "rim_in": 26,
+    "diameter_mm_est": 1390,
+    "tipo": "Diagonal",
+    "texto": "16.9-26"
+  },
+  "fuel_consumption_lph": 44.7,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1176/1176-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td1176.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1985 - 1988",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA",
+          "__seccion_4__": "Original price was $75,000 in 1987"
+        },
+        {
+          "__seccion_1__": "CaseIH 3594 Engine",
+          "__seccion_2__": "Case 8.3L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 3594 Transmissions",
+          "__seccion_2__": "24-speed partial power shift",
+          "__seccion_3__": "12-speed partial power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 3594 Power",
+          "PTO (claimed)": "182 hp 135.7 kW",
+          "Drawbar (tested)": "160.39 hp 119.6 kW",
+          "PTO (tested)": "182.27 hp 135.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH 3594 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "85 gal 321.7 L",
+          "Hydraulic system": "33.25 gal 125.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "33.25 gal 125.9 L",
+          "Pressure": "2250 psi 155.1 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "30 gpm 113.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Rear lift (at 24\"/610mm)": "7750 lbs 3515 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "116 inches 294 cm",
+          "Weight": "17590 lbs 7978 kg",
+          "Front tire": "16.9-26",
+          "Rear tire": "24.5R-32",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1985": "9938100",
+          "1986": "9941573",
+          "1987": "9945448",
+          "1988": "9948517",
+          "__seccion_1__": "3594 Serial Numbers",
+          "Location:": "Inside cab",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "105"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "2 Wheel Drive and Mechanical Front Drive Tractors published in 1987, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 22, 2018"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1985 - 1988",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH 3594 Tires",
+          "Ag front": "16.9-26",
+          "Ag rear": "24.5R-32"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "116 inches 294 cm",
+          "Length": "192.5 inches 488 cm",
+          "Width": "60 inches 152 cm",
+          "Height (cab)": "120 inches 304 cm",
+          "Operating weight": "17590 lbs 7978 kg",
+          "Ballasted weight": "20500 lbs 9298 kg",
+          "Ground clearance": "18 inches 45 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 22, 2018"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1985 - 1988",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1584"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1584",
+          "__seccion_2__": "Diesel 24-speed 4WD October 16 - 31, 1985 Link: Nebraska Tractor Test 1584 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "182.27 hp 135.9 kW",
+          "Fuel use": "11.7 gal/hour 44.3 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "160.39 hp 119.6 kW",
+          "__seccion_5__": "Gear 16 used for power test.",
+          "Max pull": "20384 lbs 9246 kg",
+          "__seccion_6__": "Gear 1-4 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 22, 2018"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1985 - 1988",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Case",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "504 ci 8.3 L",
+          "Bore/Stroke": "4.625x5.00 inches 117 x 127 mm",
+          "Air cleaner": "dual paper elements",
+          "Compression": "15.8:1",
+          "Rated RPM": "2100",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 22, 2018"
+        }
+      ]
+    }
+  }
+}

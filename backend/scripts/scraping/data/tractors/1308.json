@@ -1,0 +1,227 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/3/0/1308-kubota-l4350.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/3/0/1308-kubota-l4350-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/3/0/1308-kubota-l4350-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1308,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:52:32.792Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1308/1308-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 91 KB"
+  },
+  "tractor_data_id": 1308,
+  "name": "Kubota L4350",
+  "brand": "Kubota",
+  "model": "L4350",
+  "years": {
+    "desde": 1991,
+    "hasta": 1997
+  },
+  "model_year": 1991,
+  "engine_power_hp": 47.5,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 38,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1750,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 13.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-28",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1247,
+  "tire_front": {
+    "original": "8.3-16",
+    "radial": false,
+    "width_mm": 211,
+    "rim_in": 16,
+    "diameter_mm_est": 765,
+    "tipo": "Diagonal",
+    "texto": "8.3-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1308/1308-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1308/1308-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1308.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1991 - 1997",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota L4350 Engine",
+          "__seccion_2__": "Kubota 2.2L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L4350 Transmissions",
+          "__seccion_2__": "8-speed mechanical shuttle",
+          "__seccion_3__": "8-speed hydraulic shuttle",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L4350 Power",
+          "Engine (gross)": "47.5 hp 35.4 kW",
+          "PTO (claimed)": "38 hp 28.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post fixed ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota L4350 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "15.9 gal 60.2 L",
+          "Hydraulic system": "11.4 gal 43.1 L",
+          "Front hubs": "2.9 qts (each) 2.7 L",
+          "Front diff.": "5.8 qts 5.5 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "11.4 gal 43.1 L",
+          "Pump flow": "11 gpm 41.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position and draft control",
+          "Rear lift (at ends)": "3300 lbs 1496 kg",
+          "Rear lift (at 24\"/610mm)": "3200 lbs 1451 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540/750 (1.375)",
+          "Engine RPM": "540@2243",
+          "&nbsp": "750@2391"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "72.6 inches 184 cm",
+          "Weight": "3860 lbs 1750 kg",
+          "Front tire": "8.3-16",
+          "Rear tire": "12.4-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota L4350 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "L4350 Serial Numbers",
+          "Location:": "Left side of transmission housing, on operator platform."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery CCA": "600",
+          "Battery volts": "12",
+          "Battery AH": "110",
+          "&nbsp": "160 Opt Optional"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Backhoes published in 1992, by Kubota",
+          "__seccion_3__": "Backhoes published in 1994, by Kubota",
+          "__seccion_4__": "Front Loaders B, L and M-Series published in 1994, by Kubota *",
+          "__seccion_5__": "Product Catalog published in 1990, by Kubota",
+          "__seccion_6__": "Diesel Tractor L4350/L4850/L5450 published in 1990, by Kubota",
+          "__seccion_7__": "Diesel Tractor L4350/L4850/L5450 published in 1994, by Kubota",
+          "__seccion_8__": "Operator's Manual L4350-L4850-L5450 (32550-1971-4)",
+          "__seccion_9__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 27, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1991 - 1997",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota L4350 Tires",
+          "Ag front": "8.3-16",
+          "Ag rear": "12.4-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "72.6 inches 184 cm",
+          "Length": "134.1 inches 340 cm",
+          "Width": "65 inches 165 cm",
+          "Height (steering wheel)": "60.4 inches 153 cm",
+          "Weight": "3860 lbs 1750 kg",
+          "Max Drawbar": "2200 lbs 997 kg",
+          "Ground clearance": "11.6 inches 29 cm",
+          "Front tread": "50.5 inches 128 cm",
+          "Rear tread": "52 to 72 inches 132 to 182 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 27, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1991 - 1997",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V2203-DI",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "134.1 ci 2.2 L",
+          "Bore/Stroke": "3.4x3.6 inches 86 x 91 mm",
+          "Power (gross)": "47.5 hp 35.4 kW",
+          "Rated RPM": "2600",
+          "Starter volts": "12",
+          "Starter power": "1.87 hp 1.4 kW",
+          "Oil capacity": "6.9 qts 6.5 L",
+          "Coolant capacity": "7.4 qts 7.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 27, 2023"
+        }
+      ]
+    }
+  }
+}

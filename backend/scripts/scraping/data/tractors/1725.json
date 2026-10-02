@@ -1,0 +1,196 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/7/2/1725-zetor-10245.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/7/2/1725-zetor-10245-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/7/2/1725-zetor-10245-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1725,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:48:00.828Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1725/1725-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 2 KB"
+  },
+  "tractor_data_id": 1725,
+  "name": "Zetor 10245",
+  "brand": "Zetor",
+  "model": "10245",
+  "years": {
+    "desde": 1990,
+    "hasta": 1997
+  },
+  "model_year": 1990,
+  "engine_power_hp": 88,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 88,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4309,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 32.3,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9-30",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1492,
+  "tire_front": {
+    "original": "12.4-24",
+    "radial": false,
+    "width_mm": 315,
+    "rim_in": 24,
+    "diameter_mm_est": 1145,
+    "tipo": "Diagonal",
+    "texto": "12.4-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1725/1725-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td1725.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1990 - 1997",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Zetor",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Brno, Czechoslovakia",
+          "__seccion_4__": "Original price was $32,000 in 1992"
+        },
+        {
+          "10211": "2WD",
+          "10245": "4WD",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Zetor 10245 Engine",
+          "__seccion_2__": "Zetor 4.6L 4-cyl diesel",
+          "Fuel tank": "33 gal 124.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 10245 Transmission",
+          "__seccion_2__": "16-speed synchromesh",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 10245 Power",
+          "PTO (claimed)": "88 hp 65.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic dry disc brakes",
+          "Trailer brakes": "hydraulic Opt Optional",
+          "__seccion_5__": "Cab standard with heater."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Zetor 10245 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "2",
+          "Total flow": "10.8 gpm 40.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "7340 lbs 3329 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "93.9 inches 238 cm",
+          "Weight": "9500 lbs 4309 kg",
+          "Front tire": "12.4-24",
+          "Rear tire": "16.9-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "55"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 2, 2017"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1990 - 1997",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Zetor 10245 Tires",
+          "Ag front": "12.4-24",
+          "Ag rear": "16.9-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "93.9 inches 238 cm",
+          "Length": "156.7 inches 398 cm",
+          "Width": "76.8 inches 195 cm",
+          "Height (cab)": "106.7 inches 271 cm",
+          "Height (exhaust)": "113.4 inches 288 cm",
+          "Weight": "9500 lbs 4309 kg",
+          "Ground clearance": "15 inches 38 cm",
+          "Rear tread": "59.1 to 73.8 inches 150 to 187 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 2, 2017"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1990 - 1997",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Zetor",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "278.4 ci 4.6 L",
+          "Bore/Stroke": "4.33x4.72 inches 110 x 120 mm",
+          "Fuel system": "direct injection",
+          "Rated RPM": "2200",
+          "Starter type": "electric",
+          "Coolant capacity": "19 qts 18.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 2, 2017"
+        }
+      ]
+    }
+  }
+}

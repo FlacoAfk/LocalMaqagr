@@ -1,0 +1,218 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/1/7/7176-john-deere-6325.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/1/7/7176-john-deere-6325-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/1/7/7176-john-deere-6325-engine.html",
+    "source_id": 7176,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:58:00.821Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7176/7176-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 7176,
+  "name": "John Deere 6325",
+  "brand": "John Deere",
+  "model": "6325",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 105,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 88,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3779,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 32.3,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 18.4R30",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1557,
+  "tire_front": {
+    "original": "7.50R18",
+    "radial": true,
+    "width_mm": 191,
+    "rim_in": 18,
+    "diameter_mm_est": 781,
+    "tipo": "Radial",
+    "texto": "7.50R18"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7176/7176-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td7176.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "6025 Series",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany"
+        },
+        {
+          "__seccion_1__": "John Deere 6325 Engine",
+          "__seccion_2__": "John Deere 4.5L 4-cyl diesel",
+          "Fuel tank": "43.6 gal 165.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6325 Transmissions",
+          "__seccion_2__": "12-speed synchronized",
+          "__seccion_3__": "16-speed power shuttle",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6325 Power",
+          "Engine (gross)": "105 hp 78.3 kW",
+          "Engine (net)": "100 hp 74.6 kW",
+          "Engine (max)": "109 hp 81.3 kW",
+          "PTO (claimed)": "88 hp 65.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 MFWD 4WD (optional)",
+          "Steering": "hydrostatic power",
+          "__seccion_2__": "Hydraulic wet disc brakes",
+          "__seccion_3__": "Two-post foldable ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 6325 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center gear pump",
+          "Pressure": "2538 psi 175.0 bar",
+          "Pump flow": "14.27 gpm 54.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "2/1",
+          "Control": "load and depth control with mechanical top-link sensing",
+          "Rear lift": "9,037 lbs 4099 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "mechanical-hydraulic wet disc",
+          "Rear PTO Type": "540/1000",
+          "Engine RPM": "540@2143",
+          "&nbsp": "1000@2208"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "94.5 inches 240 cm",
+          "Weight": "8,333 lbs 3779 kg",
+          "Front tire": "7.50R18",
+          "Rear tire": "18.4R30 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "6325 Serial Numbers",
+          "Location:": "Right side of main tractor frame."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "90",
+          "Battery volts": "12",
+          "Battery AH": "110"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 26, 2012",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "6025 Series",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 6325 Tires",
+          "Standard tires (ag)": "Front: 7.50R18. Rear: 18.4R30 (2WD)",
+          "&nbsp": "Front: 13.6R24. Rear: 18.4R30 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "94.5 inches 240 cm",
+          "Length": "168.2 inches 427 cm",
+          "Width": "87.2 inches 221 cm",
+          "Height (ROPS)": "108.9 inches 276 cm",
+          "Shipping weight": "8,333 lbs 3779 kg",
+          "Max weight": "15,430 lbs 6999 kg",
+          "Clearance (rear axle)": "63.5,63.9,66.2,67.4,71.5,72.7,72.7,73.9,75.4 inches 161 cm",
+          "__seccion_2__": "Flange rear axle"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 26, 2012"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "6025 Series",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 4045HL",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "276 ci 4.5 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Stage III",
+          "Rated Power (net)": "100 hp 74.6 kW",
+          "Rated Power (gross)": "105 hp 78.3 kW",
+          "Maximum Power (net)": "105 hp 78.3 kW",
+          "Maximum Power (gross)": "109 hp 81.3 kW",
+          "Fuel system": "electronic fuel injection",
+          "Cooling system": "viscous fan",
+          "Rated RPM": "2300",
+          "Idle RPM": "850-2460",
+          "Operating RPM": "1500-2300",
+          "Torque": "319 lb-ft 432.6 Nm",
+          "Torque RPM": "1600",
+          "Firing order": "1-3-4-2",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "16.9 qts 16.0 L",
+          "Coolant capacity": "28 qts 26.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 26, 2012"
+        }
+      ]
+    }
+  }
+}

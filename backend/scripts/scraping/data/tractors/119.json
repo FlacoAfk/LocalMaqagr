@@ -1,0 +1,287 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/1/119-john-deere-2350.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/1/119-john-deere-2350-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/1/1/119-john-deere-2350-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/1/119-john-deere-2350-engine.html",
+    "source_id": 119,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:48:45.463Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/119/119-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 99 KB"
+  },
+  "tractor_data_id": 119,
+  "name": "John Deere 2350",
+  "brand": "John Deere",
+  "model": "2350",
+  "years": {
+    "desde": 1983,
+    "hasta": 1986
+  },
+  "model_year": 1983,
+  "engine_power_hp": 55,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 55,
+  "pto_tested_hp": 56.18,
+  "drawbar_tested_hp": 46.66,
+  "weight_kg": 3728,
+  "weight_basis": "4WD cab Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 25.3,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 16.9-30",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1492,
+  "tire_front": {
+    "original": "11.2-24",
+    "radial": false,
+    "width_mm": 284,
+    "rim_in": 24,
+    "diameter_mm_est": 1093,
+    "tipo": "Diagonal",
+    "texto": "11.2-24"
+  },
+  "fuel_consumption_lph": 14,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/119/119-td3a.jpg",
+  "image_url": "/uploads/tractors/td119.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "2050 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany",
+          "Original price": "$19155 (1983 2WD )",
+          "__seccion_4__": "$23,770 (1983 4WD )"
+        },
+        {
+          "__seccion_1__": "John Deere 2350 Engine",
+          "__seccion_2__": "John Deere 3.9L 4-cyl diesel",
+          "Fuel tank": "24 gal 90.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2350 Transmissions",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "16-speed two-speed power shift",
+          "__seccion_4__": "8-speed power shuttle",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2350 Power",
+          "PTO (claimed)": "55 hp 41.0 kW",
+          "Drawbar (tested)": "46.66 hp 34.8 kW",
+          "PTO (tested)": "56.18 hp 41.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post fixed ROPS. Canopy available. Sound-Gard cab optional with available heat and air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 2350 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Pressure": "2250 psi 155.1 bar",
+          "Rear valves": "1 or 2",
+          "Pump flow": "13 gpm 49.2 lpm",
+          "&nbsp": "23 gpm Opt Optional 87.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "load and depth control",
+          "Rear lift": "2735 lbs 1240 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "&nbsp": "live * With reverser",
+          "Rear PTO Type": "540",
+          "Engine RPM": "540@2382"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "89.2 inches 226 cm",
+          "4WD Wheelbase": "90 inches 228 cm",
+          "Weight": "6810 to 8220 pounds",
+          "Front tire": "7.50-16",
+          "2WD Rear tire": "16.9-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2350 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "2350 Serial Number Location",
+          "__seccion_2__": "Right side of main tractor frame, above front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "33",
+          "Cab Charging amps": "55",
+          "Batteries": "1 (ROPS)",
+          "&nbsp": "2 (cab)",
+          "Battery volts": "12",
+          "Battery AH": "55"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Consumer Products Price List published in 1983, by John Deere",
+          "__seccion_3__": "Grounds Care Equipment Purchasing Guide published in 1983, by John Deere",
+          "__seccion_4__": "Loaders, Spreaders and Blades published in 1984, by John Deere",
+          "__seccion_5__": "Utility Tractors 45 & 55 HP published in 1984, by John Deere",
+          "__seccion_6__": "Operator's Manual 2350 and 2550 (OML55481) published in 1984",
+          "__seccion_7__": "Compact Utility/Utility Tractors Product Information Handbook published in 1983, by John Deere",
+          "__seccion_8__": "Tractors 45 to 85 HP published in 1984, by John Deere",
+          "__seccion_9__": "Utility Tractors Product Information Handbook published in 1984, by John Deere",
+          "__seccion_10__": "Mechanical Front-Wheel Drive published in 1984, by John Deere",
+          "__seccion_11__": "Agricultural Price List published in 1983, by John Deere",
+          "__seccion_12__": "Tractors Hi-Crop, Low-Profile, Narrow- and Wide-Tread published in 1985, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 27, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "2050 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 2350 Tires",
+          "2WD Standard tires (ag)": "Front: 7.50-16. Rear: 16.9-30",
+          "4WD Standard tires (ag)": "Front: 11.2-24. Rear: 16.9-30",
+          "4WD Optional tires (ag)": "Front: 9.5-24. Rear: 16.9-28",
+          "Lawn/turf front": "27x9.5-15",
+          "Lawn/turf rear": "21.5L-16.1"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "89.2 inches 226 cm",
+          "4WD Wheelbase": "90 inches 228 cm",
+          "2WD Length": "132.2 inches 335 cm",
+          "4WD Length": "133.4 inches 338 cm",
+          "Height (steering wheel)": "61.1 inches 155 cm",
+          "Height (cab)": "101.1 inches 256 cm",
+          "2WD Clearance (front axle)": "24.8 inches 62 cm",
+          "4WD Clearance (front axle)": "17.5 inches 44 cm",
+          "__seccion_2__": "Flange rear axle",
+          "__seccion_3__": "Rack-and-pinion rear axle Opt Optional"
+        },
+        {
+          "__seccion_1__": "John Deere 2350 Weight",
+          "2WD cab Shipping": "7520 lbs 3411 kg",
+          "4WD cab Shipping": "8220 lbs 3728 kg",
+          "2WD ROPS Operating": "6810 lbs 3089 kg",
+          "Ballasted": "7190 lbs 3261 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 27, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "2050 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1470"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1470",
+          "__seccion_2__": "Diesel 16-speed 2WD April 12 - May 5, 1983 Link: Nebraska Tractor Test 1470 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "56.18 hp 41.9 kW",
+          "Fuel use": "3.6 gal/hour 13.6 l/hour",
+          "Power at rated PTO speed": "56.18 hp 41.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "46.66 hp 34.8 kW",
+          "__seccion_5__": "Gear 9 used for power test.",
+          "Max pull": "5,688 lbs 2580 kg",
+          "__seccion_6__": "Gear 3L used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 27, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1983 - 1986",
+          "__seccion_2__": "2050 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "239 ci 3.9 L",
+          "Bore/Stroke": "4.19x4.33 inches 106 x 110 mm",
+          "Compression": "17.4:1",
+          "Rated RPM": "2500",
+          "Operating RPM": "1500-2500",
+          "Torque": "160 lb-ft 217.0 Nm",
+          "Torque RPM": "1400",
+          "Firing order": "1-3-4-2",
+          "Starter volts": "12",
+          "Coolant capacity": "13.6 qts 12.9 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "8.9 qts 8.4 L",
+          "Oil change": "100 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 27, 2022"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/119/119-td4-b01.jpg"
+}

@@ -1,0 +1,254 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/5/3/533-ji-case-2470.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/5/3/533-ji-case-2470-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/5/3/533-ji-case-2470-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/5/3/533-ji-case-2470-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 533,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:07:10.452Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/533/533-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 27 KB"
+  },
+  "tractor_data_id": 533,
+  "name": "J.I. Case 2470 Traction King",
+  "brand": "J.I. Case",
+  "model": "2470 Traction King",
+  "years": {
+    "desde": 1972,
+    "hasta": 1979
+  },
+  "model_year": 1972,
+  "engine_power_hp": 213,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 176,
+  "pto_tested_hp": 174.2,
+  "drawbar_tested_hp": 150.52,
+  "weight_kg": 7030,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 80.3,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-30",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1557,
+  "tire_front": {
+    "original": "18.4-30",
+    "radial": false,
+    "width_mm": 467,
+    "rim_in": 30,
+    "diameter_mm_est": 1557,
+    "tipo": "Diagonal",
+    "texto": "18.4-30"
+  },
+  "fuel_consumption_lph": 43.1,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/533/533-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/533/533-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td533.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1972 - 1979",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA",
+          "Total built": "7,996",
+          "__seccion_4__": "Original price was $43,600 in 1979"
+        },
+        {
+          "__seccion_1__": "J.I. Case 2470 Engine",
+          "__seccion_2__": "J.I. Case 8.3L 6-cyl diesel",
+          "Fuel tank": "110 gal 416.4 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 2470 Transmission",
+          "__seccion_2__": "12-speed partial power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 2470 Power",
+          "Engine (gross)": "213 hp 158.8 kW",
+          "Drawbar (claimed)": "154 hp 114.8 kW",
+          "PTO (claimed)": "176 hp 131.2 kW",
+          "Drawbar (tested)": "150.52 hp 112.2 kW",
+          "PTO (tested)": "174.20 hp 129.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x4 4WD",
+          "Final drives": "planetary",
+          "Steering": "hydrostatic front, hydraulic-assist rear",
+          "__seccion_2__": "Hydraulic wet disc brakes",
+          "__seccion_3__": "Cab standard with optional heat and air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "J.I. Case 2470 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2050 psi 141.3 bar",
+          "Valves": "2 to 4",
+          "SCV flow": "17 gpm 64.3 lpm",
+          "Total flow": "34 gpm 128.7 lpm",
+          "Steering flow": "17 gpm 64.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/II",
+          "Rear lift (at 24\"/610mm)": "10000 lbs 4536 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (1.375)",
+          "Engine RPM": "1000@2200"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "102 inches 259 cm",
+          "Weight": "15500 to 20485 pounds",
+          "Front tire": "18.4-34",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1972": "8691801",
+          "1973": "8712001",
+          "1974": "8762001",
+          "1975": "8767001",
+          "1976": "8792901",
+          "1977": "8825001",
+          "1978": "8853001",
+          "1979": "8853001",
+          "__seccion_1__": "2470 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "55",
+          "Batteries": "2",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Is there a Case Four-wheel-drive in your tomorrow? published in 1974, by J.I. Case",
+          "__seccion_3__": "New 2470 4-wheel-drive 165 pto turbo hp published in 1972, by J.I. Case",
+          "__seccion_4__": "1975 Spring Buyers Guide published by J.I. Case",
+          "__seccion_5__": "Time-saving experts published in 1975, by J.I. Case",
+          "__seccion_6__": "\"Specializing\" for Specialists published in 1978, by J.I. Case",
+          "__seccion_7__": "Specialization... the payoff in farming published in 1980, by J.I. Case"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 22, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1972 - 1979",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "J.I. Case 2470 Tires",
+          "Ag front": "18.4-30",
+          "Ag rear": "18.4-30",
+          "&nbsp": "23.1-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "102 inches 259 cm",
+          "Length": "207 inches 525 cm",
+          "Height": "130 inches 330 cm",
+          "Shipping weight": "15500 lbs 7030 kg",
+          "Operating weight": "20485 lbs * Weight with 18.4-34 duals. 9291 kg",
+          "Front tread": "72 to 92 inches 182 to 233 cm",
+          "Rear tread": "72 to 92 inches 182 to 233 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 22, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1972 - 1979",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1114"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1114",
+          "__seccion_2__": "Diesel 12-speed 4WD October 25 - 31, 1972 Link: Nebraska Tractor Test 1114 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "174.20 hp 129.9 kW",
+          "Fuel use": "11.3 gal/hour 42.8 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "150.52 hp 112.2 kW",
+          "__seccion_5__": "Gear 3-2 used for power test.",
+          "Max pull": "18,050 lbs 8187 kg",
+          "__seccion_6__": "Gear 2-1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 22, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1972 - 1979",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "J.I. Case",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "504 ci 8.3 L",
+          "Bore/Stroke": "4.625x5.00 inches 117 x 127 mm",
+          "Power (gross)": "213 hp 158.8 kW",
+          "Air cleaner": "dual paper elements with pre-cleaner",
+          "Compression": "15.8:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12",
+          "Coolant capacity": "44 qts 41.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 22, 2024"
+        }
+      ]
+    }
+  }
+}

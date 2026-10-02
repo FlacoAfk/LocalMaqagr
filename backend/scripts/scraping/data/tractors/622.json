@@ -1,0 +1,219 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/6/2/622-ford-6610.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/6/2/622-ford-6610-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/6/2/622-ford-6610-engine.html",
+    "source_id": 622,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:12:13.119Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/622/622-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 622,
+  "name": "Ford 6610 Mark III",
+  "brand": "Ford",
+  "model": "6610 Mark III",
+  "years": {
+    "desde": 1988,
+    "hasta": 1991
+  },
+  "model_year": 1988,
+  "engine_power_hp": 86,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": 73,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3592,
+  "weight_basis": "4WD ROPS",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 26.8,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4-30",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1557,
+  "tire_front": {
+    "original": "12.4-24",
+    "radial": false,
+    "width_mm": 315,
+    "rim_in": 24,
+    "diameter_mm_est": 1145,
+    "tipo": "Diagonal",
+    "texto": "12.4-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/622/622-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td622.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1988 - 1991",
+          "__seccion_2__": "10 Mark III Series"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford"
+        },
+        {
+          "__seccion_1__": "Ford 6610 Engine",
+          "__seccion_2__": "Ford 4.4L 4-cyl diesel",
+          "ROPS Fuel tank": "21 gal 79.5 L",
+          "Cab Fuel tank": "28 gal 106.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 6610 Transmission",
+          "__seccion_2__": "16-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 6610 Power",
+          "Engine (net)": "86 hp 64.1 kW",
+          "PTO (claimed)": "73 hp 54.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Four-post ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Ford 6610 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center with closed-center valves",
+          "Pressure": "2500 psi 172.4 bar",
+          "Pump flow": "18.2 gpm 68.9 lpm",
+          "SCV flow": "14.5 gpm 54.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at ends)": "5874 lbs 2664 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@1900",
+          "&nbsp": "1000@2060"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "87.5 inches 222 cm",
+          "4WD Wheelbase": "88.9 inches 225 cm",
+          "Weight": "7280 to 8760 pounds",
+          "Front tire": "10.00-16",
+          "2WD Rear tire": "18.4-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "45",
+          "Cab Charging amps": "80",
+          "Battery volts": "12",
+          "Battery AH": "128"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Generation III Tractors published in 1990, by Ford"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 29, 2020",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1988 - 1991",
+          "__seccion_2__": "10 Mark III Series"
+        },
+        {
+          "__seccion_1__": "Ford 6610 Tires",
+          "2WD Standard tires (ag)": "Front: 10.00-16. Rear: 18.4-30",
+          "4WD Standard tires (ag)": "Front: 12.4-24. Rear: 18.4-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "87.5 inches 222 cm",
+          "4WD Wheelbase": "88.9 inches 225 cm",
+          "2WD Length": "145.2 inches 368 cm",
+          "4WD Length": "153.1 inches 388 cm",
+          "2WD Ground clearance": "16.6 inches 42 cm",
+          "4WD Ground clearance": "13.8 inches 35 cm",
+          "2WD Front tread": "52 to 890 inches 132 to 2260 cm",
+          "4WD Front tread": "60 to 88 inches 152 to 223 cm",
+          "Rear tread": "56 to 80 inches 142 to 203 cm"
+        },
+        {
+          "__seccion_1__": "Ford 6610 Weight",
+          "2WD ROPS": "7280 lbs 3302 kg",
+          "2WD Cab": "7700 lbs 3492 kg",
+          "4WD ROPS": "7920 lbs 3592 kg",
+          "4WD Cab": "8760 lbs 3973 kg"
+        },
+        {
+          "__seccion_1__": "Ford 6610 Height",
+          "__seccion_2__": "78.4 inches 199 cm",
+          "Cab": "104.8 inches 266 cm",
+          "2WD Exhaust": "110 inches 279 cm",
+          "4WD Exhaust": "113 inches 287 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 29, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1988 - 1991",
+          "__seccion_2__": "10 Mark III Series"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "268.1 ci 4.4 L",
+          "Bore/Stroke": "4.40x4.40 inches 112 x 112 mm",
+          "Power (net)": "86 hp 64.1 kW",
+          "Compression": "16.3:1",
+          "Rated RPM": "2070",
+          "Torque": "217.6 lb-ft 295.1 Nm",
+          "Torque RPM": "1200"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 29, 2020"
+        }
+      ]
+    }
+  }
+}

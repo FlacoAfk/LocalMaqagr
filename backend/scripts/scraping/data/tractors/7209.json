@@ -1,0 +1,227 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/2/0/7209-kubota-l4300.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/2/0/7209-kubota-l4300-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/2/0/7209-kubota-l4300-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 7209,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:59:28.391Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7209/7209-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 110 KB"
+  },
+  "tractor_data_id": 7209,
+  "name": "Kubota L4300",
+  "brand": "Kubota",
+  "model": "L4300",
+  "years": {
+    "desde": 2001,
+    "hasta": 2005
+  },
+  "model_year": 2001,
+  "engine_power_hp": 45.3,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 37.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1290,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 13.8,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14.9-24",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1253,
+  "tire_front": {
+    "original": "8.0-16",
+    "radial": false,
+    "width_mm": 203,
+    "rim_in": 16,
+    "diameter_mm_est": 752,
+    "tipo": "Diagonal",
+    "texto": "8.0-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F007/7209/7209-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7209/7209-photo-001.jpg",
+  "image_url": "/uploads/tractors/td7209.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2001 - 2005",
+          "__seccion_2__": "Standard L Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "The Kubota L4300 was an \"economy\" version of the L4310. It was only available with an unsynchronized 8-speed gear transmission and no cab was offered."
+        },
+        {
+          "__seccion_1__": "Variants",
+          "L4300F": "2WD",
+          "L4300DT": "4WD"
+        },
+        {
+          "__seccion_1__": "Kubota L4300 Engine",
+          "__seccion_2__": "Kubota 2.2L 4-cyl diesel",
+          "Fuel tank": "8.2 gal 31.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L4300 Transmission",
+          "__seccion_2__": "8-speed sliding gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L4300 Power",
+          "Engine (gross)": "45.3 hp 33.8 kW",
+          "PTO (claimed)": "37.5 hp 28.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "helical gear",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota L4300 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "1 to 3",
+          "Pump flow": "6.4 gpm 24.2 lpm",
+          "Total flow": "10.4 gpm 39.4 lpm",
+          "Steering flow": "3.9 gpm 14.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control with optional draft control",
+          "Rear lift (at ends)": "2870 lbs 1301 kg",
+          "Rear lift (at 24\"/610mm)": "2310 lbs 1047 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "71.6 inches 181 cm",
+          "4WD Wheelbase": "71.1 inches 180 cm",
+          "Weight": "2844 to 2976 pounds",
+          "Front tire": "7.5L-15",
+          "2WD Rear tire": "14.9-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota L4300 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery CCA": "550",
+          "Battery volts": "12",
+          "Battery AH": "55"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "L2600/L3000/L4300 Basic Tractor Series published in 2002, by Kubota",
+          "__seccion_3__": "L4300 Diesel Tractor published in 2000, by Kubota"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 8, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2001 - 2005",
+          "__seccion_2__": "Standard L Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota L4300 Tires",
+          "2WD Standard tires (ag)": "Front: 7.5L-15. Rear: 14.9-24",
+          "4WD Standard tires (ag)": "Front: 8.0-16. Rear: 14.9-24",
+          "Lawn/turf front": "10-16.5",
+          "Lawn/turf rear": "17.5-24",
+          "2WD Industrial front": "27x8.5-15",
+          "4WD Industrial front": "29x12.5-15",
+          "2WD Industrial rear": "41x14-20",
+          "4WD Industrial rear": "21.5:-16.1"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "71.6 inches 181 cm",
+          "4WD Wheelbase": "71.1 inches 180 cm",
+          "Length": "110 inches 279 cm",
+          "Width": "60.8 inches 154 cm",
+          "Height (ROPS)": "84.8 inches 215 cm",
+          "4WD Weight": "2976 lbs 1349 kg",
+          "Clearance (front axle)": "15 inches 38 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 8, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2001 - 2005",
+          "__seccion_2__": "Standard L Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V-2203",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "134.1 ci 2.2 L",
+          "Bore/Stroke": "3.43x3.64 inches 87 x 92 mm",
+          "Power (gross)": "45.3 hp 33.8 kW",
+          "Fuel system": "indirect injection",
+          "Air cleaner": "dual dry elelment",
+          "Pre-heating": "glow plugs",
+          "Rated RPM": "2600",
+          "Starter volts": "12",
+          "Oil capacity": "8 qts 7.6 L",
+          "Coolant capacity": "6.7 qts 6.3 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 8, 2024"
+        }
+      ]
+    }
+  }
+}

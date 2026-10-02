@@ -1,0 +1,244 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/2/2/1224-caseih-9380.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/2/2/1224-caseih-9380-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/2/2/1224-caseih-9380-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/2/2/1224-caseih-9380-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1224,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:37:54.127Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1224/1224-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 1224,
+  "name": "CaseIH 9380",
+  "brand": "CaseIH",
+  "model": "9380",
+  "years": {
+    "desde": 1996,
+    "hasta": 2000
+  },
+  "model_year": 1996,
+  "engine_power_hp": 400,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 345,
+  "pto_tested_hp": 364.34,
+  "drawbar_tested_hp": 321.75,
+  "weight_kg": 14324,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 148.7,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 77.2,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1224/1224-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td1224.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1996 - 2000",
+          "__seccion_2__": "9300 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Fargo, North Dakota, USA",
+          "__seccion_4__": "Original price was $156,000 in 1999"
+        },
+        {
+          "9380": "wheeled tractor",
+          "__seccion_1__": "Variants",
+          "9380QT": "Quadtrac crawler"
+        },
+        {
+          "__seccion_1__": "CaseIH 9380 Engine",
+          "__seccion_2__": "Cummins 14.0L 6-cyl diesel",
+          "Fuel tank": "270 gal 1022.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 9380 Transmissions",
+          "__seccion_2__": "12-speed full powershift",
+          "__seccion_3__": "12-speed",
+          "__seccion_4__": "24-speed",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 9380 Power",
+          "Engine (gross)": "400 hp 298.3 kW",
+          "PTO (claimed)": "345 hp 257.3 kW",
+          "Drawbar (tested)": "321.75 hp 239.9 kW",
+          "PTO (tested)": "364.34 hp 271.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Articulated power steering",
+          "__seccion_4__": "Hydraulic disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH 9380 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "4",
+          "Pump flow": "27 gpm (Power shift) 102.2 lpm",
+          "&nbsp": "34 gpm (Synchro shift) 128.7 lpm",
+          "Steering flow": "31 gpm (Power shift) 117.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IV",
+          "Rear lift (at 24\"/610mm)": "17000 lbs 7711 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "144 inches 365 cm",
+          "Weight": "31580 lbs 14324 kg",
+          "Front tire": "20.8R-42",
+          "Rear tire": "20.8R-42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "125",
+          "Batteries": "3",
+          "Battery CCA": "625",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Steiger 9300 Series 4WDs published in 1996, by CaseIH",
+          "__seccion_3__": "Product Insight: 9300 STEIGER vs. Agcostar 8360 & 8425 published in 1996"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 3, 2017"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1996 - 2000",
+          "__seccion_2__": "9300 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH 9380 Tires",
+          "Ag front": "20.8R-42",
+          "Ag rear": "20.8R-42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "144 inches 365 cm",
+          "Length": "281 inches 713 cm",
+          "Width": "96 inches * Width at fenders. 243 cm",
+          "Height (exhaust)": "149.6 inches 379 cm",
+          "Operating weight": "31580 lbs 14324 kg",
+          "Max weight": "44000 lbs 19958 kg",
+          "Clearance (front axle)": "31.5 inches 80 cm",
+          "Clearance (drawbar)": "19.2 inches 48 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 3, 2017"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1996 - 2000",
+          "__seccion_2__": "9300 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1714"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1714",
+          "__seccion_2__": "Diesel 12-speed 4WD May 30 - June 4, 1996 Link: OCED Tractor Test 1714 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "321.75 hp 239.9 kW",
+          "Fuel use": "20.7 gal/hour 78.3 l/hour",
+          "Power at rated engine speed": "360.76 hp 269.0 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 7 used for power test.",
+          "Max pull": "33,422 lbs 15160 kg",
+          "__seccion_6__": "Gear 3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 3, 2017"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1996 - 2000",
+          "__seccion_2__": "9300 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Cummins N14-A400",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "855 ci 14.0 L",
+          "Bore/Stroke": "5.50x6.00 inches 140 x 152 mm",
+          "Power (gross)": "400 hp 298.3 kW",
+          "Compression": "16.5:1",
+          "Rated RPM": "2100",
+          "Idle RPM": "850-2300",
+          "Starter volts": "12",
+          "Oil capacity": "40.8 qts 38.6 L",
+          "Oil change": "250 h",
+          "Coolant capacity": "66 qts 62.5 L"
+        },
+        {
+          "__seccion_1__": "CaseIH 9380 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 3, 2017"
+        }
+      ]
+    }
+  }
+}

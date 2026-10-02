@@ -1,0 +1,204 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/011/4/3/11434-massey-ferguson-9s310.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/011/4/3/11434-massey-ferguson-9s310-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/011/4/3/11434-massey-ferguson-9s310-engine.html",
+    "source_id": 11434,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:55:47.843Z",
+    "foto_original": "https://www.tractordata.com/photos/F011/11434/11434-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 11434,
+  "name": "Massey Ferguson 9S.310",
+  "brand": "Massey Ferguson (a part of AGCO)",
+  "model": "ferguson 9s310",
+  "years": {
+    "desde": 2018,
+    "hasta": 2024
+  },
+  "model_year": 2018,
+  "engine_power_hp": 310,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": null,
+  "weight_basis": null,
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 113.7,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 650/85R38",
+  "tire_width_mm": 650,
+  "tire_diameter_mm": 2070,
+  "tire_front": {
+    "original": "600/70R30",
+    "radial": true,
+    "width_mm": 600,
+    "rim_in": 30,
+    "diameter_mm_est": 1602,
+    "tipo": "Radial",
+    "texto": "600/70R30"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F011/11434/11434-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td11434.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2024 -",
+          "__seccion_2__": "9S Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson (a part of AGCO)",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Beauvais, France"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 9S.310 Engine",
+          "__seccion_2__": "AGCO Power 8.4L 6-cyl diesel",
+          "Fuel tank": "174.4 gal 660.1 L",
+          "Exhaust fluid (DEF)": "18 gal 68.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 9S.310 Transmission",
+          "__seccion_2__": "continuously variable transmission",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 9S.310 Power",
+          "Engine": "310 hp 231.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 9S.310 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing",
+          "Pressure": "2900 psi 200.0 bar",
+          "Rear valves": "6 Opt Optional",
+          "Front valves": "1 or 2",
+          "Pump flow": "71.3 gpm 269.9 lpm",
+          "&nbsp": "105.7 gpm Opt Optional 400.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IV/III",
+          "Rear lift (at ends)": "26455 lbs 11999 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "&nbsp": "1000E@1605",
+          "Engine RPM": "1000@2036",
+          "Front PTO": "independent",
+          "Front PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "122.1 inches 310 cm",
+          "Front tire": "600/70R30",
+          "Rear tire": "650/85R38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF 9S - Outstanding design, ultimate performance published in 2023, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 17, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2024 -",
+          "__seccion_2__": "9S Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 9S.310 Tires",
+          "Standard tires (ag)": "Front: 600/70R30. Rear: 650/85R38",
+          "Optional tires (ag)": "Front: 650/60R34. Rear: 750/70R44",
+          "&nbsp": "Front: 710/55R34. Rear: 900/40R42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "122.1 inches 310 cm",
+          "Length": "220.5 inches 560 cm",
+          "Height": "134.3 inches 341 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 17, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2024 -",
+          "__seccion_2__": "9S Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "AGCO Power",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "512.6 ci 8.4 L",
+          "Bore/Stroke": "4.37x5.71 inches 111 x 145 mm",
+          "Emissions": "Stage V",
+          "Power": "310 hp 231.2 kW",
+          "Maximum Power": "340 hp 253.5 kW",
+          "Torque": "996 lb-ft 1350.6 Nm",
+          "Torque RPM": "1500",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 9S.310 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 17, 2023"
+        }
+      ]
+    }
+  }
+}

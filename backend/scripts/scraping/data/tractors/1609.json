@@ -1,0 +1,243 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/6/0/1609-caseih-dx26.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/6/0/1609-caseih-dx26-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/6/0/1609-caseih-dx26-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1609,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:38:17.134Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1609/1609-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 1609,
+  "name": "CaseIH DX26",
+  "brand": "CaseIH (a part of CNH)",
+  "model": "dx26",
+  "years": {
+    "desde": 2005,
+    "hasta": 2008
+  },
+  "model_year": 2005,
+  "engine_power_hp": 26,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 20.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 725,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 7.5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 31x13.5-15",
+  "tire_width_mm": 343,
+  "tire_diameter_mm": 787,
+  "tire_front": {
+    "original": "6-12",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 12,
+    "diameter_mm_est": 564,
+    "tipo": "Diagonal",
+    "texto": "6-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1609/1609-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td1609.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2005 - 2008",
+          "__seccion_2__": "DX Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH (a part of CNH)",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "TC26DA": "similar New Holland model"
+        },
+        {
+          "__seccion_1__": "CaseIH DX26 Engine",
+          "__seccion_2__": "Shibaura 1.1L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH DX26 Transmission",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH DX26 Power",
+          "Engine (gross)": "26 hp 19.4 kW",
+          "PTO (claimed)": "20.5 hp 15.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH DX26 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "5.3 gal 20.1 L",
+          "Hydraulic system": "4.23 gal 16.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "4.23 gal 16.0 L",
+          "Pressure": "1849 psi 127.5 bar",
+          "Pump flow": "5.3 gpm 20.1 lpm",
+          "Total flow": "8.3 gpm 31.4 lpm",
+          "Steering flow": "3.0 gpm 11.4 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at 24\"/610mm)": "1265 lbs 573 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Gear Rear PTO": "transmission",
+          "Hydro Rear PTO": "independent",
+          "Clutch": "mechanical dry disc",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2388 (gear)",
+          "&nbsp": "540@2503 (hydro)",
+          "Mid PTO": "independent",
+          "Mid PTO Type": "2000 (1.0)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "57.5 inches 146 cm",
+          "Weight": "1599 lbs 725 kg",
+          "Front tire": "5-12",
+          "Rear tire": "9.5-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "CaseIH DX26 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "DX26 Serial Numbers",
+          "Location:": "Serial number decal on the front-right of the tractor frame."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "Battery CCA": "450",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operator's Manual DX23, DX26 Tractors (87307205) published in 2004"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 7, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2005 - 2008",
+          "__seccion_2__": "DX Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH DX26 Tires",
+          "Ag front": "6-12",
+          "Ag rear": "9.5-16",
+          "Lawn/turf front": "23x8.50-12",
+          "Lawn/turf rear": "31x13.5-15",
+          "Industrial front": "23x8.50-12",
+          "Industrial rear": "12-16.5"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "57.5 inches 146 cm",
+          "Length": "106.3 inches 270 cm",
+          "Width": "44.7 inches * Minimum width. 113 cm",
+          "Height (steering wheel)": "50.8 inches 129 cm",
+          "Height (ROPS)": "81.2 inches 206 cm",
+          "Height (Folded ROPS)": "68.2 inches 173 cm",
+          "Weight": "1599 lbs 725 kg",
+          "Ground clearance": "10.7 inches 27 cm",
+          "Front tread": "33.3 inches 84 cm",
+          "Rear tread": "35.2 inches 89 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 7, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2005 - 2008",
+          "__seccion_2__": "DX Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibaura",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "69 ci 1.1 L",
+          "Bore/Stroke": "3.03x3.19 inches 77 x 81 mm",
+          "Power (gross)": "26 hp 19.4 kW",
+          "Compression": "23.1:1",
+          "Rated RPM": "2850",
+          "Idle RPM": "1100-3075",
+          "Firing order": "1-2-3",
+          "Starter volts": "12",
+          "Coolant capacity": "3.7 qts 3.5 L",
+          "Intake valve clearance": "0.008 inches (cold) 0.203 mm",
+          "Exhaust valve clearance": "0.008 inches (cold) 0.203 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "3.5 qts 3.3 L",
+          "Oil change": "100 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 7, 2025"
+        }
+      ]
+    }
+  }
+}

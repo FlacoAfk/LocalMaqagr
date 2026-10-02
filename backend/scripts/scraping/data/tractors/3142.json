@@ -1,0 +1,287 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/1/4/3142-new-holland-tm115.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/1/4/3142-new-holland-tm115-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/1/4/3142-new-holland-tm115-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/1/4/3142-new-holland-tm115-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3142,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:24:51.624Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3142/3142-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 3142,
+  "name": "New Holland TM115",
+  "brand": "New Holland",
+  "model": "TM115",
+  "years": {
+    "desde": 2000,
+    "hasta": 2002
+  },
+  "model_year": 2000,
+  "engine_power_hp": 115,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 92,
+  "pto_tested_hp": 98,
+  "drawbar_tested_hp": 76.2,
+  "weight_kg": 5039,
+  "weight_basis": "4WD Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 52,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 22,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F003/3142/3142-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td3142.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2000 - 2002",
+          "__seccion_2__": "TM Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Basildon, England"
+        },
+        {
+          "__seccion_1__": "New Holland TM115 Engine",
+          "__seccion_2__": "New Holland 7.5L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TM115 Transmissions",
+          "__seccion_2__": "18-speed power shift",
+          "__seccion_3__": "24-speed two-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TM115 Power",
+          "Engine": "115 hp 85.8 kW",
+          "PTO (claimed)": "92 hp 68.6 kW",
+          "Drawbar (tested)": "76.2 hp 56.8 kW",
+          "PTO (tested)": "98.0 hp 73.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the New Holland TM115 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "58 gal 219.5 L",
+          "Hydraulic system": "23.75 gal 89.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed-center load sensing (CCLS)",
+          "Capacity": "23.75 gal 89.9 L",
+          "Pressure": "2750 psi 189.6 bar",
+          "Rear valves": "4 (max)",
+          "Mid valves": "4 (max)",
+          "Pump flow": "28 gpm 106.0 lpm",
+          "Steering flow": "15.5 gpm 58.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "electronic lower-link draft sensing",
+          "Rear lift": "8725 lbs 3957 kg",
+          "Front Hitch": "II",
+          "Front lift": "7208 lbs 3269 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540/1000",
+          "&nbsp": "1000@2120",
+          "Engine RPM": "540@1970"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "108.1 inches 274 cm",
+          "4WD Wheelbase": "107.2 inches 272 cm",
+          "SuperSteer Wheelbase": "113.4 inches 288 cm",
+          "Terraglide Wheelbase": "109.6 inches 278 cm",
+          "Weight": "10229 to 11760 pounds",
+          "Front tire": "480/70R-28",
+          "Rear tire": "580/70R-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "New Holland TM115 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "2000": "13443B",
+          "2001": "155247B",
+          "2002": "173895B",
+          "__seccion_1__": "TM115 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "Batteries": "2",
+          "Battery CCA": "900",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "92 to 135 PTO hp Tractors published in 2001, by New Holland",
+          "__seccion_3__": "Operator's Manual TM115, TM125, TM135, TM150 and TM160 Tractors (604.53.261.00) published in 1999"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 7, 2016",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2000 - 2002",
+          "__seccion_2__": "TM Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "New Holland TM115 Tires",
+          "Standard tires (ag)": "Front: 480/70R-28. Rear: 580/70R-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "108.1 inches 274 cm",
+          "4WD Wheelbase": "107.2 inches 272 cm",
+          "SuperSteer Wheelbase": "113.4 inches 288 cm",
+          "Terraglide Wheelbase": "109.6 inches 278 cm",
+          "2WD Length": "180.5 inches 458 cm",
+          "4WD Length": "185.7 inches 471 cm",
+          "Terraglide Length": "188.1 inches 477 cm",
+          "SuperSteer Length": "191.9 inches 487 cm",
+          "Width": "79.2 inches 201 cm",
+          "Clearance (front axle)": "16.2 inches 41 cm",
+          "Clearance (drawbar)": "10.2 inches 25 cm",
+          "Front axle": "TerraGlide 4WD inch diameter 0 mm",
+          "__seccion_2__": "Flange rear axle",
+          "Bar rear axle": "112 inch length 2844 mm",
+          "2WD Front tread": "60.8 to 86.1 inches 154 to 218 cm",
+          "4WD Front tread": "61.1 to 89.3 inches 155 to 226 cm",
+          "Rear tread": "60.9 to 114.5 inches 154 to 290 cm (long bar)"
+        },
+        {
+          "__seccion_1__": "New Holland TM115 Weight",
+          "2WD Shipping": "10229 lbs 4639 kg",
+          "4WD Shipping": "11111 lbs 5039 kg",
+          "Operating": "11760 lbs 5334 kg"
+        },
+        {
+          "__seccion_1__": "New Holland TM115 Height",
+          "Cab": "113.4 inches 288 cm",
+          "&nbsp": "117.8 inches * Height with cab suspension. 299 cm",
+          "Exhaust": "118.9 inches 302 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 7, 2016"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2000 - 2002",
+          "__seccion_2__": "TM Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1917"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1917",
+          "__seccion_2__": "Diesel 18-speed 4WD February 2000 - May 2000, Link: OCED Tractor Test 1917 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "76.2 hp 56.8 kW",
+          "Fuel use": "5.9 gal/hour 22.3 l/hour",
+          "Power at rated engine speed": "94.0 hp 70.1 kW",
+          "Power at rated PTO speed": "94.8 hp 70.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 2B used for power test.",
+          "Max pull": "11690 lbs 5302 kg",
+          "__seccion_6__": "Gear 1A used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 7, 2016"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2000 - 2002",
+          "__seccion_2__": "TM Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "New Holland",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "456 ci 7.5 L",
+          "Bore/Stroke": "4.40x5.00 inches 112 x 127 mm",
+          "Power": "115 hp 85.8 kW",
+          "Air cleaner": "dual dry element",
+          "Compression": "17.5:1",
+          "Rated RPM": "2200",
+          "Operating RPM": "1500-2200",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Coolant capacity": "26.9 qts 25.5 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "20 qts 18.9 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 7, 2016"
+        }
+      ]
+    }
+  }
+}

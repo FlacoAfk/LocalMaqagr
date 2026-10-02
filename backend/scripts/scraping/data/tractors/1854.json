@@ -1,0 +1,232 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/8/5/1854-kubota-l4630.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/8/5/1854-kubota-l4630-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/8/5/1854-kubota-l4630-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1854,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:54:57.767Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1854/1854-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 1854,
+  "name": "Kubota L4630",
+  "brand": "Kubota",
+  "model": "L4630",
+  "years": {
+    "desde": 2003,
+    "hasta": 2007
+  },
+  "model_year": 2003,
+  "engine_power_hp": 47.2,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 39.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1560,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 14.5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14.9-24",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1253,
+  "tire_front": {
+    "original": "8.3-16",
+    "radial": false,
+    "width_mm": 211,
+    "rim_in": 16,
+    "diameter_mm_est": 765,
+    "tipo": "Diagonal",
+    "texto": "8.3-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1854/1854-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td1854.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2003 - 2007",
+          "__seccion_2__": "L30 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "L4630DT": "4WD 8 speed",
+          "L4630GST": "4WD 12 speed",
+          "L4630HST": "hydro",
+          "L4630GSTC": "cab"
+        },
+        {
+          "__seccion_1__": "Kubota L4630 Engine",
+          "__seccion_2__": "Kubota 2.2L 4-cyl diesel",
+          "Fuel tank": "10.6 gal 40.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L4630 Transmissions",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "8-speed fully synchronized",
+          "__seccion_4__": "12-speed power shift",
+          "__seccion_5__": "24-speed",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota L4630 Power",
+          "Engine (gross)": "47.2 hp 35.2 kW",
+          "Engine (net)": "44.7 hp 33.3 kW",
+          "Gear PTO (claimed)": "39.5 hp 29.5 kW",
+          "Hydro PTO (claimed)": "38 hp 28.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPs. Grand Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Kubota L4630 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "3 Opt Optional",
+          "Pump flow": "9.8 gpm 37.1 lpm",
+          "Total flow": "14.7 gpm 55.6 lpm",
+          "Steering flow": "4.9 gpm 18.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control with optional draft control",
+          "Rear lift (at 24\"/610mm)": "2760 lbs 1251 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Mid PTO": "independent Opt Optional",
+          "Mid PTO Type": "2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "74.6 inches 189 cm",
+          "Weight": "3440 to 3815 pounds",
+          "Front tire": "8.3-16",
+          "Rear tire": "14.9-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota L4630 attachments",
+          "__seccion_2__": "snowblower",
+          "__seccion_3__": "blade",
+          "__seccion_4__": "front-end loader",
+          "__seccion_5__": "backhoe",
+          "__seccion_6__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "L4630 Serial Numbers",
+          "Location:": "Serial number decal on the left side of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "40",
+          "Cab Charging amps": "60",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Grand L 30 Series published in 2004, by Kubota *",
+          "__seccion_3__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 7, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2003 - 2007",
+          "__seccion_2__": "L30 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota L4630 Tires",
+          "Standard tires (ag)": "Front: 8.3-16. Rear: 14.9-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "74.6 inches 189 cm",
+          "Length": "121.3 inches 308 cm",
+          "Width": "66.5 inches 168 cm",
+          "Height (ROPS)": "91.1 inches 231 cm",
+          "Height (cab)": "87 inches 220 cm",
+          "Weight": "3440 lbs (DT) 1560 kg",
+          "&nbsp": "3815 lbs (GSTC) 1730 kg",
+          "Ground clearance": "14.8 inches 37 cm",
+          "Front tread": "51.2 inches 130 cm",
+          "Rear tread": "50.6/56.5/:60.2 inches 128/143/0 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 7, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2003 - 2007",
+          "__seccion_2__": "L30 Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "134.1 ci 2.2 L",
+          "Bore/Stroke": "3.425x3.638 inches 87 x 92 mm",
+          "Power (net)": "44.7 hp 33.3 kW",
+          "Power (gross)": "47.2 hp 35.2 kW",
+          "Fuel system": "indirect injection",
+          "Air cleaner": "dual dry element",
+          "Rated RPM": "2700",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 7, 2023"
+        }
+      ]
+    }
+  }
+}

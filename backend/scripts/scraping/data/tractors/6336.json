@@ -1,0 +1,232 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/3/3/6336-new-holland-t9050.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/3/3/6336-new-holland-t9050-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/006/3/3/6336-new-holland-t9050-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/3/3/6336-new-holland-t9050-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 6336,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:29:22.964Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6336/6336-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 87 KB"
+  },
+  "tractor_data_id": 6336,
+  "name": "New Holland T9050",
+  "brand": "New Holland",
+  "model": "T9050",
+  "years": {
+    "desde": 2007,
+    "hasta": 2010
+  },
+  "model_year": 2007,
+  "engine_power_hp": 485,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 429,
+  "pto_tested_hp": 498.35,
+  "drawbar_tested_hp": 400.38,
+  "weight_kg": 19813,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 194.9,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 710/70R42",
+  "tire_width_mm": 710,
+  "tire_diameter_mm": 2061,
+  "tire_front": {
+    "original": "710/70R42",
+    "radial": true,
+    "width_mm": 710,
+    "rim_in": 42,
+    "diameter_mm_est": 2061,
+    "tipo": "Radial",
+    "texto": "710/70R42"
+  },
+  "fuel_consumption_lph": 100.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F006/6336/6336-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6336/6336-photo-001.jpg",
+  "image_url": "/uploads/tractors/td6336.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2007 - 2010",
+          "__seccion_2__": "T9000 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Fargo, North Dakota, USA"
+        },
+        {
+          "__seccion_1__": "New Holland T9050 Engine",
+          "__seccion_2__": "Iveco 12.9L 6-cyl diesel",
+          "Fuel tank": "300 gal 1135.5 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland T9050 Transmission",
+          "__seccion_2__": "16-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland T9050 Power",
+          "Engine": "485 hp 361.7 kW",
+          "PTO (claimed)": "429 hp 319.9 kW",
+          "Drawbar (tested)": "400.38 hp 298.6 kW",
+          "PTO (tested)": "498.35 hp 371.6 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Integral hydraulic wet disc brakes",
+          "__seccion_4__": "Cab standard with heat and air-conditioning"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland T9050 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing (CCLS)",
+          "Pressure": "2000 psi 137.9 bar",
+          "Valves": "4 to 9",
+          "Pump flow": "33 gpm 124.9 lpm",
+          "Total flow": "40 gpm 151.4 lpm",
+          "&nbsp": "90 gpm (optional MegaFlow) 340.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IVN (optional)",
+          "Rear lift (at 24\"/610mm)": "19,620 lbs 8899 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (optional)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "154 inches 391 cm",
+          "Weight": "43,680 lbs 19813 kg",
+          "Front tire": "710/70R42",
+          "Rear tire": "710/70R42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "175",
+          "Batteries": "2",
+          "Battery volts": "12",
+          "Battery AH": "1000"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 15, 2014",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2007 - 2010",
+          "__seccion_2__": "T9000 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "New Holland T9050 Tires",
+          "Ag front": "710/70R42",
+          "Ag rear": "710/70R42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "154 inches 391 cm",
+          "Length": "298 inches 756 cm",
+          "Height": "150 inches 381 cm",
+          "Operating weight": "43,680 lbs 19813 kg",
+          "Max weight": "54,000 lbs 24494 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 15, 2014"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2007 - 2010",
+          "__seccion_2__": "T9000 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1934",
+          "__seccion_2__": "Diesel 16-speed 4WD September 8 - 11, 2008 Link: OCED Tractor Test 1934 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "400.38 hp 298.6 kW",
+          "Fuel use": "24.7 gal/hour 93.5 l/hour",
+          "Power at rated engine speed": "443.69 hp 330.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 6 used for power test.",
+          "Max pull": "43,815 lbs 19874 kg",
+          "__seccion_6__": "Gear 3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 15, 2014"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2007 - 2010",
+          "__seccion_2__": "T9000 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iveco",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "786 ci 12.9 L",
+          "Bore/Stroke": "5.314x5.906 inches 135 x 150 mm",
+          "Power": "485 hp 361.7 kW",
+          "Maximum Power": "535 hp 398.9 kW",
+          "Rated RPM": "2000",
+          "Torque": "1801 lb-ft 2442.2 Nm",
+          "Torque RPM": "1400",
+          "Starter": "electric",
+          "Starter volts": "24",
+          "Oil capacity": "32.75 qts 31.0 L",
+          "Coolant capacity": "84.4 qts 79.9 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 15, 2014"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/9/0/8902-john-deere-2020.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/9/0/8902-john-deere-2020-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/9/0/8902-john-deere-2020-engine.html",
+    "source_id": 8902,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:04:04.975Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8902/8902-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 80 KB"
+  },
+  "tractor_data_id": 8902,
+  "name": "John Deere 2020",
+  "brand": "John Deere",
+  "model": "2020",
+  "years": {
+    "desde": 1967,
+    "hasta": 1972
+  },
+  "model_year": 1967,
+  "engine_power_hp": 64,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2154,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 23.5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12x36",
+  "tire_width_mm": 305,
+  "tire_diameter_mm": 1433,
+  "tire_front": {
+    "original": "7.50x16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50x16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F008/8902/8902-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F008/8902/8902-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td8902.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1967 - 1972",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany"
+        },
+        {
+          "__seccion_1__": "John Deere 2020 Engine",
+          "__seccion_2__": "John Deere 3.3L 4-cyl diesel",
+          "Fuel tank": "19.6 gal 74.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2020 Transmissions",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "16-speed two-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2020 Power",
+          "Engine": "64 hp 47.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "Steering": "power Opt Optional",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 2020 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Pressure": "2200 psi 151.7 bar",
+          "Pump flow": "10.7 gpm 40.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position and depth control",
+          "Rear lift": "2760 lbs 1251 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "85.8 inches 217 cm",
+          "Weight": "4750 lbs 2154 kg",
+          "Front tire": "7.50x16",
+          "Rear tire": "12x36",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "2020 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "generator",
+          "Batteries": "2",
+          "Battery AH": "60"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "New 2020 and 2120 Tractors published in 1969, by John Deere",
+          "__seccion_3__": "New 2020 64 hp. tractor published in 1967, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 6, 2021",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1967 - 1972",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 2020 Tires",
+          "Ag front": "7.50x16",
+          "Ag rear": "12x36"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "85.8 inches 217 cm",
+          "Length": "140.6 inches 357 cm",
+          "Width": "88.2 inches 224 cm",
+          "Height": "88.2 inches 224 cm",
+          "Shipping weight": "4750 lbs 2154 kg",
+          "Ground clearance": "13.8 inches 35 cm",
+          "Front tread": "49.6 to 81 inches 125 to 205 cm",
+          "Rear tread": "53.2 to 76.8 inches 135 to 195 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 6, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1967 - 1972",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "202.6 ci 3.3 L",
+          "Bore/Stroke": "3.86x4.33 inches 98 x 110 mm",
+          "Power": "64 hp 47.7 kW",
+          "Fuel system": "direct injection",
+          "Compression": "16.7:1",
+          "Rated RPM": "2500",
+          "Torque": "141 lb-ft 191.2 Nm",
+          "Torque RPM": "1500",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "John Deere 2020 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 6, 2021"
+        }
+      ]
+    }
+  }
+}

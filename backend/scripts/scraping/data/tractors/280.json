@@ -1,0 +1,267 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/8/280-ford-8600.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/8/280-ford-8600-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/2/8/280-ford-8600-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/8/280-ford-8600-engine.html",
+    "source_id": 280,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:11:31.074Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/280/280-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 65 KB"
+  },
+  "tractor_data_id": 280,
+  "name": "Ford 8600",
+  "brand": "Ford",
+  "model": "8600",
+  "years": {
+    "desde": 1972,
+    "hasta": 1976
+  },
+  "model_year": 1972,
+  "engine_power_hp": 110.69,
+  "engine_power_source": "pto_tested (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": 110.69,
+  "drawbar_tested_hp": 92.42,
+  "weight_kg": 4091,
+  "weight_basis": "&nbsp",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 50.5,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "7.50-18",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 18,
+    "diameter_mm_est": 781,
+    "tipo": "Diagonal",
+    "texto": "7.50-18"
+  },
+  "fuel_consumption_lph": 27.6,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/280/280-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/280/280-photo-001.jpg",
+  "image_url": "/uploads/tractors/td280.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1972 - 1976"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Built in Romeo, Michigan, USA",
+          "__seccion_3__": "Original price was $15,200 in 1976"
+        },
+        {
+          "__seccion_1__": "Ford 8600 Engine",
+          "__seccion_2__": "Ford 6.6L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 8600 Transmissions",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "16-speed partial power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 8600 Power",
+          "Drawbar (tested)": "92.42 hp 68.9 kW",
+          "PTO (tested)": "110.69 hp 82.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Differential lock": "foot pedal",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Open operator station. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 8600 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "43 gal 162.8 L",
+          "Hydraulic system": "16 gal 60.6 L",
+          "&nbsp": "17.3 gal (Dual Power) 65.5 L",
+          "Steering": "3 qts 2.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Capacity": "16 gal 60.6 L",
+          "&nbsp": "17.3 gal (Dual Power) 65.5 L",
+          "Pressure": "2500 psi 172.4 bar",
+          "Pump flow": "12 gpm 45.4 lpm",
+          "Steering flow": "4.2 gpm 15.9 lpm",
+          "Steering cap.": "3 qts 2.8 L",
+          "Steering press.": "1500 psi 103.4 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "91.5 inches (all purpose) 232 cm",
+          "&nbsp": "108 inches (row crop) 274 cm",
+          "Weight": "8033 to 11430 pounds",
+          "Front tire": "7.50-18",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1972": "C327200",
+          "1973": "C367300",
+          "1974": "C405200",
+          "1975": "C450700",
+          "1976": "C490300",
+          "__seccion_1__": "8600 Serial Numbers",
+          "Location:": "Inside tool box cover and on top of rear axle, near top link mount.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "55",
+          "Battery volts": "12",
+          "Battery AH": "128"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Buyer's Guide '74 published in 1974, by Ford",
+          "__seccion_3__": "8000, 8600, 9000 and 9600 Repair Time Schedule (SE 3410) published in 1973",
+          "__seccion_4__": "8600 Operator's Manual (SE 3377) published in 1972"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 5, 2025",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1972 - 1976"
+        },
+        {
+          "__seccion_1__": "Ford 8600 Tires",
+          "Ag front": "10.00-16",
+          "&nbsp": "16.9-38",
+          "Ag rear": "18.4-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "91.5 inches (all purpose) 232 cm",
+          "&nbsp": "25.2 inches (row crop rear axle) 64 cm",
+          "Length": "154.8 inches (row crop) 393 cm",
+          "Width": "85 inches 215 cm",
+          "Ground clearance": "25.3 inches (all purpose front axle) 64 cm"
+        },
+        {
+          "__seccion_1__": "Ford 8600 Weight",
+          "__seccion_2__": "8,033 lbs (all purpose) 3643 kg",
+          "&nbsp": "9,020 lbs (row crop) 4091 kg",
+          "Operating": "11,430 lbs 5184 kg",
+          "Ballasted": "14,790 lbs 6708 kg"
+        },
+        {
+          "__seccion_1__": "Ford 8600 Height",
+          "Hood": "74 inches (all purpose) 187 cm",
+          "&nbsp": "104.6 inches (row crop) 265 cm",
+          "Exhaust": "106 inches (all purpose) 269 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 5, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1972 - 1976"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1121"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1121",
+          "__seccion_2__": "Diesel Dual Power 2WD April 2 - 14, 1973 Link: Nebraska Tractor Test 1121 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "110.69 hp 82.5 kW",
+          "Fuel use": "7.3 gal/hour 27.6 l/hour",
+          "Power at rated PTO speed": "99.32 hp 74.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "92.42 hp 68.9 kW",
+          "__seccion_5__": "Gear 5PD used for power test.",
+          "Max pull": "11,363 lbs 5154 kg",
+          "__seccion_6__": "Gear 2DD used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 5, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1972 - 1976"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "401 ci 6.6 L",
+          "Bore/Stroke": "4.40x4.40 inches 112 x 112 mm",
+          "Air cleaner": "dry",
+          "Compression": "16.5:1",
+          "Rated RPM": "2300",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Coolant capacity": "18 qts 17.0 L",
+          "&nbsp": "19.5 qts (with heater) 18.5 L",
+          "Intake valve clearance": "0.015 inches (hot) 0.381 mm",
+          "Exhaust valve clearance": "0.018 inches (hot) 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "12 qts 11.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 5, 2025"
+        }
+      ]
+    }
+  }
+}

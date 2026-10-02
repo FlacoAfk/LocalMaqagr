@@ -1,0 +1,235 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/3/2/6324-new-holland-t8010.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/3/2/6324-new-holland-t8010-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/006/3/2/6324-new-holland-t8010-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/3/2/6324-new-holland-t8010-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 6324,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:28:44.206Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6324/6324-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 70 KB"
+  },
+  "tractor_data_id": 6324,
+  "name": "New Holland T8010",
+  "brand": "New Holland",
+  "model": "T8010",
+  "years": {
+    "desde": 2007,
+    "hasta": 2010
+  },
+  "model_year": 2007,
+  "engine_power_hp": 221,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 175,
+  "pto_tested_hp": 213.73,
+  "drawbar_tested_hp": 154.64,
+  "weight_kg": 8959,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 106.8,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "16.9R30",
+    "radial": true,
+    "width_mm": 429,
+    "rim_in": 30,
+    "diameter_mm_est": 1492,
+    "tipo": "Radial",
+    "texto": "16.9R30"
+  },
+  "fuel_consumption_lph": 49.2,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F006/6324/6324-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6324/6324-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td6324.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2007 - 2010",
+          "__seccion_2__": "T8000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA"
+        },
+        {
+          "__seccion_1__": "New Holland T8010 Engine",
+          "__seccion_2__": "New Holland 8.3L 6-cyl diesel",
+          "Fuel tank": "180 gal 681.3 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland T8010 Transmissions",
+          "__seccion_2__": "19-speed full power shift",
+          "__seccion_3__": "23-speed full power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland T8010 Power",
+          "Engine": "221 hp 164.8 kW",
+          "PTO (claimed)": "175 hp 130.5 kW",
+          "Drawbar (tested)": "154.64 hp 115.3 kW",
+          "PTO (tested)": "213.73 hp 159.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with heat and air-conditioning. Optional luxury cab with leather seats, tinted windows, and sunscreens."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland T8010 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Valves": "3 to 5",
+          "Total flow": "44 gpm 166.5 lpm",
+          "&nbsp": "75 gpm (optional MegaFlow) 283.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IIIN/III",
+          "Rear lift": "14084 lbs 6388 kg",
+          "&nbsp": "16375 lbs Opt Optional 7427 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "1000 (1.75)",
+          "&nbsp": "1000@1984",
+          "Engine RPM": "540@1988"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "19752 to 21150 pounds",
+          "Front tire": "16.9R30",
+          "Rear tire": "20.8R42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "150",
+          "&nbsp": "175 Opt Optional",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 10, 2018",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2007 - 2010",
+          "__seccion_2__": "T8000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "New Holland T8010 Tires",
+          "Ag front": "16.9R30",
+          "Ag rear": "20.8R42"
+        },
+        {
+          "__seccion_1__": "Dimensions"
+        },
+        {
+          "__seccion_1__": "New Holland T8010 Weight",
+          "Shipping": "19,752 lbs 8959 kg",
+          "&nbsp": "20,145 lbs (SuperSteer) 9137 kg",
+          "Operating": "21,150 lbs 9593 kg",
+          "Ballasted": "24,285 lbs 11015 kg",
+          "Max capacity": "26,500 lbs 12020 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 10, 2018"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2007 - 2010",
+          "__seccion_2__": "T8000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1900"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1900",
+          "__seccion_2__": "Diesel 19-speed 4WD May 4 - 18, 2007 Link: OCED Tractor Test 1900 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "154.64 hp 115.3 kW",
+          "Fuel use": "11.7 gal/hour 44.3 l/hour",
+          "Power at rated engine speed": "177.89 hp 132.7 kW",
+          "Power at rated PTO speed": "213.41 hp 159.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 7 used for power test.",
+          "Max pull": "24,009 lbs 10890 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 10, 2018"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2007 - 2010",
+          "__seccion_2__": "T8000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "New Holland",
+          "__seccion_3__": "intercooled turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "506.5 ci 8.3 L",
+          "Bore/Stroke": "4.488x5.315 inches 114 x 135 mm",
+          "Power": "221 hp 164.8 kW",
+          "Compression": "17.5:1",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 10, 2018"
+        }
+      ]
+    }
+  }
+}

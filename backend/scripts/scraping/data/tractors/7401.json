@@ -1,0 +1,277 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/4/0/7401-caseih-steiger-370.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/4/0/7401-caseih-steiger-370-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/007/4/0/7401-caseih-steiger-370-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/4/0/7401-caseih-steiger-370-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 7401,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:49:46.431Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7401/7401-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 7401,
+  "name": "CaseIH Steiger 370",
+  "brand": "CaseIH (a part of CNH)",
+  "model": "steiger 370",
+  "years": {
+    "desde": 2014,
+    "hasta": 2023
+  },
+  "model_year": 2014,
+  "engine_power_hp": 370,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 311,
+  "pto_tested_hp": 366.46,
+  "drawbar_tested_hp": 300.99,
+  "weight_kg": 17449,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 167.6,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "710/70R42",
+    "radial": true,
+    "width_mm": 710,
+    "rim_in": 42,
+    "diameter_mm_est": 2061,
+    "tipo": "Radial",
+    "texto": "710/70R42"
+  },
+  "fuel_consumption_lph": 72.7,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7401/7401-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td7401.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2014 - 2023",
+          "__seccion_2__": "Steiger 4WD Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH (a part of CNH)",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Fargo, North Dakota, USA",
+          "__seccion_4__": "Original price was $314,043 in 2015"
+        },
+        {
+          "370": "wheeled tractor",
+          "__seccion_1__": "Variants",
+          "370RT": "crawler tractor",
+          "T9.435": "similar New Holland model"
+        },
+        {
+          "__seccion_1__": "CaseIH Steiger 370 Engine",
+          "__seccion_2__": "FPT 8.7L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Steiger 370 Transmission",
+          "__seccion_2__": "16-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Steiger 370 Power",
+          "Engine": "370 hp 275.9 kW",
+          "PTO (claimed)": "311 hp 231.9 kW",
+          "Drawbar (tested)": "300.99 hp 224.4 kW",
+          "PTO (tested)": "366.46 hp 273.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Steering": "hydraulic articulated",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic Opt Optional",
+          "__seccion_4__": "Surveyor Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the CaseIH Steiger 370 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "220 gal 832.7 L",
+          "Exhaust fluid (DEF)": "42 gal 159.0 L",
+          "Hydraulic system": "62.5 gal 236.6 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing",
+          "Capacity": "62.5 gal 236.6 L",
+          "Valves": "4 to 8",
+          "Pump flow": "40 gpm 151.4 lpm",
+          "&nbsp": "108 gpm * TwinFlow option 408.8 lpm",
+          "SCV flow": "35 gpm 132.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IVN",
+          "&nbsp": "III * Optional.",
+          "Rear lift (at 24\"/610mm)": "20000 lbs 9072 kg",
+          "Rear Arms": "quick coupler",
+          "Drawbar": "Cat. 4"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (1.75)",
+          "Engine RPM": "1000@1998 (early)",
+          "&nbsp": "1000@1811 (late)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "148 inches 375 cm",
+          "Weight": "38469 to 38759 pounds",
+          "Front tire": "710/70R42",
+          "Rear tire": "710/70R42",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "200",
+          "Batteries": "2",
+          "Battery CCA": "1000",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Steiger 370-620 Tractors published in 2014, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 10, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2014 - 2023",
+          "__seccion_2__": "Steiger 4WD Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH Steiger 370 Tires",
+          "Ag front": "710/70R42",
+          "Ag rear": "710/70R42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "148 inches 375 cm",
+          "Length": "291 inches 739 cm",
+          "Width": "100.4 inches (frame) 255 cm",
+          "&nbsp": "174 inches (duals) 441 cm",
+          "Height (cab)": "144.2 inches 366 cm",
+          "Height (exhaust)": "157 inches 398 cm",
+          "Clearance (drawbar)": "17.4 inches 44 cm",
+          "Front axle": "Bar: 5.0 by 120 inches 127 by 3048 mm",
+          "Bar rear axle": "5.0 by 120 inches 127 by 3048 mm"
+        },
+        {
+          "__seccion_1__": "CaseIH Steiger 370 Weight",
+          "__seccion_2__": "38759 lbs 17581 kg",
+          "Shipping": "38469 lbs 17449 kg",
+          "Max capacity": "42000 lbs (standard) 19051 kg",
+          "&nbsp": "49500 lbs (heavy duty) 22453 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 10, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2014 - 2023",
+          "__seccion_2__": "Steiger 4WD Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2092"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2092",
+          "__seccion_2__": "Diesel 16-speed 4WD September 9 - 29, 2014 Link: OCED Tractor Test 2092 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "300.99 hp 224.4 kW",
+          "Fuel use": "17.4 gal/hour 65.9 l/hour",
+          "Power at rated engine speed": "323.32 hp 241.1 kW",
+          "Power at rated PTO speed": "364.07 hp 271.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "37687 lbs 17094 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 10, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2014 - 2023",
+          "__seccion_2__": "Steiger 4WD Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT",
+          "__seccion_3__": "variable-geometry turbocharger air-to-air aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "531 ci 8.7 L",
+          "Bore/Stroke": "4.61x5.31 inches 117 x 135 mm",
+          "Emissions": "Tier 4",
+          "Emission control": "selective catalytic reduction (SCR)",
+          "Power": "370 hp 275.9 kW",
+          "Maximum Power": "405 hp 302.0 kW",
+          "Fuel system": "electronic high pressure common rail",
+          "Cooling system": "viscous fan drive",
+          "Air cleaner": "two stage dry",
+          "Compression": "15.9:1",
+          "Rated RPM": "2000",
+          "Idle RPM": "850-2350",
+          "Torque": "1361 lb-ft 1845.5 Nm",
+          "Torque RPM": "1400",
+          "Firing order": "1-4-2-6-3-5",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "26.4 qts 25.0 L",
+          "Coolant capacity": "13.2 qts 12.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 10, 2024"
+        }
+      ]
+    }
+  }
+}

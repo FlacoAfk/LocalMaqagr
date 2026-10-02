@@ -1,0 +1,294 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/7/9/5793-john-deere-5075e.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/7/9/5793-john-deere-5075e-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/7/9/5793-john-deere-5075e-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/7/9/5793-john-deere-5075e-engine.html",
+    "source_id": 5793,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:31:48.799Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5793/5793-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 84 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 5793,
+  "name": "John Deere 5075E",
+  "brand": "John Deere",
+  "model": "5075E",
+  "years": {
+    "desde": 2008,
+    "hasta": 2025
+  },
+  "model_year": 2008,
+  "engine_power_hp": 75,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 61,
+  "pto_tested_hp": 64.42,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2299,
+  "weight_basis": "4WD Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 23.6,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9-28",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1441,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": 15.1,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5793/5793-td3a.jpg",
+  "image_url": "/uploads/tractors/td5793.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2008 - 2025",
+          "__seccion_2__": "Model year 2008-2012 2013-2014 2015-2022 2023-2025",
+          "__seccion_3__": "5E Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Pune, Maharashtra, India"
+        },
+        {
+          "__seccion_1__": "John Deere 5075E Engine",
+          "__seccion_2__": "John Deere 2.9L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5075E Transmissions",
+          "__seccion_2__": "9-speed",
+          "__seccion_3__": "9-speed partially synchronized",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5075E Power",
+          "Engine (gross)": "75 hp 55.9 kW",
+          "PTO (claimed)": "61 hp 45.5 kW",
+          "PTO (tested)": "64.42 hp 48.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "rear diff lock standard",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Folding 2-post ROPS. Optional canopy. Optional deluxe canopy with lights and insulation."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 5075E photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "18 gal 68.1 L",
+          "2WD Hydraulic system": "10 gal 37.9 L",
+          "4WD Hydraulic system": "10.3 gal 39.0 L",
+          "Front axle": "4.8 qts 4.5 L",
+          "Front hubs": "0.85 qts * Each hub 0.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "2WD Capacity": "10 gal 37.9 L",
+          "4WD Capacity": "10.3 gal 39.0 L",
+          "Pressure": "2828 psi 195.0 bar",
+          "Rear valves": "1 or 2",
+          "Mid valves": "2 (optional)",
+          "Pump flow": "11.4 gpm 43.1 lpm",
+          "Total flow": "18.2 gpm 68.9 lpm",
+          "Steering flow": "6.8 gpm 25.7 lpm",
+          "Steering press.": "1958 psi 135.0 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "2",
+          "Control": "position and top-link draft control",
+          "Rear lift (at 24\"/610mm)": "3,192 lbs 1447 kg",
+          "Drawbar": "adjustable drawbar"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "mechanical",
+          "Rear PTO Type": "540",
+          "Engine RPM": "540@2400"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "80.7 inches 204 cm",
+          "Weight": "4634 to 5475 pounds",
+          "Front tire": "7.50-16",
+          "Rear tire": "16.9-28 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5075E attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "altenrator",
+          "Charging amps": "40",
+          "Battery CCA": "623",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "New 5 Series Utility Tractors published in 2009, by John Deere",
+          "__seccion_3__": "5 Series published in 2009, by John Deere",
+          "__seccion_4__": "5D - 5E - 5E Limited Tractors published in 2012, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 3, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2008 - 2025",
+          "__seccion_2__": "Model year 2008-2012 2013-2014 2015-2022 2023-2025",
+          "__seccion_3__": "5E Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 5075E Tires",
+          "Standard tires (ag)": "Front: 7.50-16. Rear: 16.9-28 (2WD)",
+          "&nbsp": "12.5/80-18 (4WD)",
+          "Lawn/turf front": "27/12LL-15 (2WD)",
+          "Lawn/turf rear": "21.5L-16.1",
+          "Industrial front": "11L-15 (2WD)",
+          "Industrial rear": "16.9-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "80.7 inches 204 cm",
+          "Length": "137.8 inches 350 cm",
+          "Width": "57.3 inches (axle flange) 145 cm",
+          "2WD Clearance (front axle)": "18.8 inches 47 cm",
+          "4WD Clearance (front axle)": "13.4 inches 34 cm",
+          "Front axle": "Flange axle: 64.6 inch length 1640 mm",
+          "Flange axle rear axle": "57.5 inch length 1460 mm",
+          "Front tread": "56 to 80 inches 142 to 203 cm",
+          "Rear tread": "55.8 to 71.7 inches 141 to 182 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 5075E Weight",
+          "2WD Shipping": "4,634 lbs 2101 kg",
+          "4WD Shipping": "5,070 lbs 2299 kg",
+          "4WD Operating": "5,475 lbs 2483 kg"
+        },
+        {
+          "__seccion_1__": "John Deere 5075E Height",
+          "Hood": "53.8 inches 136 cm",
+          "ROPS": "96.8 inches 245 cm",
+          "&nbsp": "78.5 inches (folded) 199 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 3, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2008 - 2025",
+          "__seccion_2__": "Model year 2008-2012 2013-2014 2015-2022 2023-2025",
+          "__seccion_3__": "5E Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1957"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1957",
+          "__seccion_2__": "Diesel 9-speed 4WD October 1 - 8, 2009 Link: Nebraska Tractor Test 1957 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "64.42 hp 48.0 kW",
+          "Fuel use": "4.1 gal/hour 15.5 l/hour",
+          "Power at rated engine speed": "62.16 hp 46.4 kW",
+          "Power at rated PTO speed": "62.81 hp 46.8 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 3, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2008 - 2025",
+          "__seccion_2__": "Model year 2008-2012 2013-2014 2015-2022 2023-2025",
+          "__seccion_3__": "5E Series",
+          "__seccion_4__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech 3029H",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "179 ci 2.9 L",
+          "Bore/Stroke": "4.19x4.33 inches 106 x 110 mm",
+          "Rated Power (gross)": "75 hp 55.9 kW",
+          "Air cleaner": "two paper elements",
+          "Pre-heating": "coolant heater (optional)",
+          "&nbsp": "heavy-duty air pre-heater (optional)",
+          "Compression": "17.8:1",
+          "Rated RPM": "2400",
+          "Idle RPM": "800-2600",
+          "Operating RPM": "1800-2400",
+          "Torque": "195.5 lb-ft 265.1 Nm",
+          "Torque RPM": "1700",
+          "Firing order": "1-2-3",
+          "Starter volts": "12",
+          "Coolant capacity": "10 qts 9.5 L",
+          "Intake valve clearance": "0.014 inches 0.356 mm",
+          "Exhaust valve clearance": "0.018 inches 0.457 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "9 qts 8.5 L",
+          "Oil change": "100 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 3, 2022"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5793/5793-td4-b01-ext045.jpg"
+}

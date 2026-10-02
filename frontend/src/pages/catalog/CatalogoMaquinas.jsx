@@ -13,9 +13,10 @@
  * @module pages/CatalogoMaquinas
  */
 
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback, useRef } from 'react';
 import TractorMachineCard from '@/features/tractors/components/TractorMachineCard';
 import SkeletonCard from '@/components/ui/SkeletonCard';
+import Pagination from '@/components/ui/Pagination';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import MaquinaImg from '../../assets/icons/plow.webp';
@@ -39,7 +40,13 @@ export default function CatalogoMaquinas() {
   const [minPower, setMinPower] = useState('');
   const [maxPower, setMaxPower] = useState('');
 
+  // Paginación
+  const [page, setPage] = useState(1);
+  const [pageSize, setPageSize] = useState(12);
+  const [pagination, setPagination] = useState({ total: 0, totalPages: 0 });
+
   const debouncedSearch = useDebounce(search, 500);
+  const gridRef = useRef(null);
 
   const fetchImplements = useCallback(async () => {
     setIsLoading(true);
@@ -49,24 +56,47 @@ export default function CatalogoMaquinas() {
         search: debouncedSearch,
         minPower,
         maxPower,
-        limit: 12
+        page,
+        limit: pageSize
       });
       setImplementsList(response.data || []);
+      if (response.pagination) {
+        setPagination({
+          total: response.pagination.total ?? 0,
+          totalPages: response.pagination.totalPages ?? 0,
+        });
+      }
     } catch (err) {
       setError(err.message || 'Error al cargar el catálogo de maquinaria');
     } finally {
       setIsLoading(false);
     }
-  }, [debouncedSearch, minPower, maxPower]);
+  }, [debouncedSearch, minPower, maxPower, page, pageSize]);
 
   useEffect(() => {
     fetchImplements();
   }, [fetchImplements]);
 
+  // Volver a la página 1 cuando cambia cualquier filtro
+  useEffect(() => {
+    setPage(1);
+  }, [debouncedSearch, minPower, maxPower]);
+
+  const handleChangePage = (newPage) => {
+    setPage(newPage);
+    gridRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  };
+
+  const handleChangePageSize = (newSize) => {
+    setPageSize(newSize);
+    setPage(1);
+  };
+
   const handleClearFilters = () => {
     setSearch('');
     setMinPower('');
     setMaxPower('');
+    setPage(1);
   };
 
   return (
@@ -139,7 +169,7 @@ export default function CatalogoMaquinas() {
               </div>
             )}
 
-            <div className="grid grid-cols-1 gap-4 sm:gap-5 sm:grid-cols-2 xl:grid-cols-3">
+            <div ref={gridRef} className="grid grid-cols-1 gap-4 sm:gap-5 sm:grid-cols-2 xl:grid-cols-3 scroll-mt-20">
               {isLoading ? (
                 // Skeletons de carga
                 Array.from({ length: 6 }).map((_, i) => <SkeletonCard key={i} />)
@@ -159,6 +189,19 @@ export default function CatalogoMaquinas() {
                 </div>
               )}
             </div>
+
+            {/* Paginación server-side */}
+            {!isLoading && pagination.totalPages > 1 && (
+              <Pagination
+                paginaActual={page}
+                totalPaginas={pagination.totalPages}
+                onCambiarPagina={handleChangePage}
+                total={pagination.total}
+                limit={pageSize}
+                onLimitChange={handleChangePageSize}
+                isLoading={isLoading}
+              />
+            )}
           </main>
         </div>
       </div>

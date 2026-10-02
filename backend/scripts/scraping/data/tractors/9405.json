@@ -1,0 +1,207 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/009/4/0/9405-zetor-12050.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/009/4/0/9405-zetor-12050-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/009/4/0/9405-zetor-12050-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 9405,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:55:53.946Z",
+    "foto_original": "https://www.tractordata.com/photos/F009/9405/9405-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 2 KB"
+  },
+  "tractor_data_id": 9405,
+  "name": "Zetor 12050",
+  "brand": "Zetor",
+  "model": "12050",
+  "years": {
+    "desde": 2008,
+    "hasta": 2011
+  },
+  "model_year": 2008,
+  "engine_power_hp": 120,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 104,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4102,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 38.2,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 18.4R34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "13.6R24",
+    "radial": true,
+    "width_mm": 345,
+    "rim_in": 24,
+    "diameter_mm_est": 1197,
+    "tipo": "Radial",
+    "texto": "13.6R24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F009/9405/9405-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td9405.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2008 - 2011",
+          "__seccion_2__": "Silver Series"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Zetor",
+          "__seccion_2__": "Built in Brno, Czech Republic"
+        },
+        {
+          "__seccion_1__": "Zetor 12050 Engine",
+          "__seccion_2__": "Zetor 4.2L 4-cyl diesel",
+          "Fuel tank": "48 gal 181.7 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 12050 Transmission",
+          "__seccion_2__": "24-speed three-speed power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 12050 Power",
+          "Engine (gross)": "120 hp 89.5 kW",
+          "Engine (net)": "114 hp 85.0 kW",
+          "PTO (claimed)": "104 hp 77.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "&nbsp": "limited-slip front",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with air-condtioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Zetor 12050 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "3",
+          "SCV flow": "14 gpm 53.0 lpm",
+          "Total flow": "20 gpm 75.7 lpm",
+          "Steering flow": "6 gpm 22.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position and draft control",
+          "Rear lift (at ends)": "7600 lbs 3447 kg",
+          "&nbsp": "9150 lbs Opt Optional 4150 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "96 inches 243 cm",
+          "Weight": "9045 lbs 4102 kg",
+          "Front tire": "13.6R24",
+          "Rear tire": "18.4R34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Zetor 12050 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "95",
+          "Charging volts": "12",
+          "Battery CCA": "950",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 24, 2017"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2008 - 2011",
+          "__seccion_2__": "Silver Series"
+        },
+        {
+          "__seccion_1__": "Zetor 12050 Tires",
+          "Standard tires (ag)": "Front: 13.6R24. Rear: 18.4R34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "96 inches 243 cm",
+          "Length": "157 inches 398 cm",
+          "Width": "78 inches * Minimum width 198 cm",
+          "Height (cab)": "106 inches 269 cm",
+          "Weight": "9045 lbs 4102 kg",
+          "Ground clearance": "18 inches 45 cm",
+          "Front tread": "59 to 77 inches 149 to 195 cm",
+          "Rear tread": "59 to 71 inches 149 to 180 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 24, 2017"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2008 - 2011",
+          "__seccion_2__": "Silver Series"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Zetor",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "254 ci 4.2 L",
+          "Bore/Stroke": "4.13x4.72 inches 105 x 120 mm",
+          "Power (net)": "114 hp 85.0 kW",
+          "Power (gross)": "120 hp 89.5 kW",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 24, 2017"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/6/9/6690-massey-ferguson-5425.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/6/9/6690-massey-ferguson-5425-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/006/6/9/6690-massey-ferguson-5425-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/6/9/6690-massey-ferguson-5425-engine.html",
+    "source_id": 6690,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:39:44.108Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6690/6690-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 6690,
+  "name": "Massey Ferguson 5425",
+  "brand": "Massey Ferguson",
+  "model": "5425",
+  "years": {
+    "desde": 2008,
+    "hasta": 2013
+  },
+  "model_year": 2008,
+  "engine_power_hp": 80,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 65,
+  "pto_tested_hp": 81.1,
+  "drawbar_tested_hp": 64,
+  "weight_kg": 4172,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 35.6,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 420/85R34",
+  "tire_width_mm": 420,
+  "tire_diameter_mm": 1578,
+  "tire_front": {
+    "original": "340/85R24",
+    "radial": true,
+    "width_mm": 340,
+    "rim_in": 24,
+    "diameter_mm_est": 1188,
+    "tipo": "Radial",
+    "texto": "340/85R24"
+  },
+  "fuel_consumption_lph": 18.2,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F006/6690/6690-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td6690.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2008 - 2013",
+          "__seccion_2__": "5400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Beauvais, France",
+          "Original price": "$38,042 (2009 ROPS 2WD )",
+          "__seccion_4__": "$56,602 (2009 Cab 4WD )",
+          "__seccion_5__": "During official testing, the Massey 5425 optional open-center hydraulic pump was unable to produce 26 GPM, actual delivery was 24.1 GPM."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5425 Engine",
+          "__seccion_2__": "Perkins 4.4L 4-cyl diesel",
+          "Fuel tank": "38 gal 143.8 L",
+          "&nbsp": "50 gal * Total capacity with optional 45 liter tank. 189.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5425 Transmission",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5425 Power",
+          "Engine (gross)": "80 hp 59.7 kW",
+          "PTO (claimed)": "65 hp 48.5 kW",
+          "Drawbar (tested)": "64.0 hp 47.7 kW",
+          "PTO (tested)": "81.1 hp 60.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "electro-hydraulic rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic Opt Optional",
+          "__seccion_5__": "Two-post folding ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 5425 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "2 to 4",
+          "Pump flow": "15 gpm 56.8 lpm",
+          "&nbsp": "26 gpm * Optional combined flow. 98.4 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "electronic draft control",
+          "Rear lift (at 24\"/610mm)": "7817 lbs 3545 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "100.5 inches 255 cm",
+          "&nbsp": "97 inches (Hi-Vis) 246 cm",
+          "Weight": "9198 to 9848 pounds",
+          "Front tire": "9.5L-15",
+          "2WD Rear tire": "420/85R30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "80",
+          "Battery CCA": "775",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 14, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2008 - 2013",
+          "__seccion_2__": "5400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5425 Tires",
+          "2WD Standard tires (ag)": "Front: 9.5L-15. Rear: 420/85R30",
+          "4WD Standard tires (ag)": "Front: 340/85R24. Rear: 420/85R34",
+          "2WD Optional tires (ag)": "Front: 11.00-16. Rear: 460/85R38",
+          "4WD Optional tires (ag)": "Front: 380/85R28. Rear: 460/85R38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "100.5 inches 255 cm",
+          "&nbsp": "9,848 lbs (4WD cab) 4467 kg",
+          "Length": "165.7 inches 420 cm",
+          "Width": "79.3 inches (min) 201 cm",
+          "Height (cab)": "108.3 inches 275 cm",
+          "Shipping weight": "9,198 lbs (2WD cab) 4172 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 14, 2020"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2008 - 2013",
+          "__seccion_2__": "5400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2532"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2532",
+          "__seccion_2__": "Diesel 16-speed 4WD June 2009 - 2009, Link: OCED Tractor Test 2532 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "64.0 hp 47.7 kW",
+          "Fuel use": "4.8 gal/hour 18.2 l/hour",
+          "Power at rated engine speed": "76.7 hp 57.2 kW",
+          "Power at rated PTO speed": "81.1 hp 60.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 3A used for power test.",
+          "Max pull": "8,005 lbs 3631 kg",
+          "__seccion_6__": "Gear 1D used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 14, 2020"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2008 - 2013",
+          "__seccion_2__": "5400 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins 1104",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "268 ci 4.4 L",
+          "Bore/Stroke": "4.134x5.00 inches 105 x 127 mm",
+          "Emissions": "Tier III",
+          "Power (gross)": "80 hp 59.7 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dry",
+          "Compression": "18.2:1",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 14, 2020"
+        }
+      ]
+    }
+  }
+}

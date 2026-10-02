@@ -1,0 +1,259 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/4/8/5489-new-holland-t6030-elite.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/4/8/5489-new-holland-t6030-elite-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/4/8/5489-new-holland-t6030-elite-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/4/8/5489-new-holland-t6030-elite-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 5489,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:27:36.398Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5489/5489-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 79 KB"
+  },
+  "tractor_data_id": 5489,
+  "name": "New Holland T6030 Elite",
+  "brand": "New Holland",
+  "model": "T6030 Elite",
+  "years": {
+    "desde": 2007,
+    "hasta": 2012
+  },
+  "model_year": 2007,
+  "engine_power_hp": 115,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 95,
+  "pto_tested_hp": 114.3,
+  "drawbar_tested_hp": 79.1,
+  "weight_kg": 5368,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 53.3,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 24.2,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5489/5489-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5489/5489-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td5489.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2007 - 2012",
+          "__seccion_2__": "T6000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Basildon, England"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "T6030 Delta": "economy",
+          "T6030 Plus": "mid-level",
+          "T6030 Elite": "premium"
+        },
+        {
+          "__seccion_1__": "New Holland T6030 Elite Engine",
+          "__seccion_2__": "FPT 6.7L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland T6030 Elite Transmissions",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "18-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland T6030 Elite Power",
+          "Engine (gross)": "115 hp 85.8 kW",
+          "Engine (max)": "126 hp 94.0 kW",
+          "PTO (claimed)": "95 hp 70.8 kW",
+          "Drawbar (tested)": "79.1 hp 59.0 kW",
+          "PTO (tested)": "114.3 hp 85.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Horizon cab standard with air-conditioning. Optional deluxe cab with automatic temperature control and air-ride seat. Optional Comfort Ride cab suspension. Programmable headland management system."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland T6030 Elite photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "79.3 gal 300.2 L",
+          "Hydraulic system": "18.5 gal 70.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing",
+          "Capacity": "18.5 gal 70.0 L",
+          "Valves": "2 to 4",
+          "Pump flow": "26.5 gpm 100.3 lpm",
+          "Total flow": "43.6 gpm 165.0 lpm",
+          "Steering flow": "17.1 gpm 64.7 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "2/3N",
+          "Control": "electronic lower-link draft control",
+          "Rear lift": "12,185 lbs 5527 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "104.4 inches 265 cm",
+          "&nbsp": "99.2 inches (SuperSteer axle) 251 cm",
+          "Weight": "11836 to 12135 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "Charging volts": "12",
+          "Battery CCA": "1300",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 21, 2013",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2007 - 2012",
+          "__seccion_2__": "T6000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "New Holland T6030 Elite Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "104.4 inches 265 cm",
+          "&nbsp": "99.2 inches (SuperSteer axle) 251 cm",
+          "Height (cab)": "112.4 inches 285 cm",
+          "Height (exhaust)": "113.4 inches 288 cm",
+          "Shipping weight": "11,836 lbs 5368 kg",
+          "Operating weight": "12,135 lbs 5504 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 21, 2013"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2007 - 2012",
+          "__seccion_2__": "T6000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "OECD 2484: diesel AutoShift 4WD",
+          "__seccion_3__": "OECD 2493: diesel Range Command 4WD"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2484"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2484",
+          "__seccion_2__": "Diesel AutoShift 4WD March 2008 - June 2008, Link: OCED Tractor Test 2484 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "79.1 hp 59.0 kW",
+          "Fuel use": "6.5 gal/hour 24.6 l/hour",
+          "Power at rated engine speed": "98.6 hp 73.5 kW",
+          "Power at rated PTO speed": "106.6 hp 79.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 8L used for power test.",
+          "Max pull": "11,985 lbs 5436 kg",
+          "__seccion_6__": "Gear 1L used for pull test."
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2493"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2493",
+          "__seccion_2__": "Diesel Range Command 4WD September 2008 - December 2008, Link: OCED Tractor Test 2493 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "74.3 hp 55.4 kW",
+          "Fuel use": "6.2 gal/hour 23.5 l/hour",
+          "Power at rated engine speed": "102.2 hp 76.2 kW",
+          "Power at rated PTO speed": "109.4 hp 81.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 2M used for power test.",
+          "Max pull": "12,160 lbs 5515 kg",
+          "__seccion_6__": "Gear 1L used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 21, 2013"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2007 - 2012",
+          "__seccion_2__": "T6000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT NEF",
+          "__seccion_3__": "turbocharged air-to-air intercooled diesel",
+          "__seccion_4__": "6-cylinder 16-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "410.6 ci 6.7 L",
+          "Bore/Stroke": "4.094x5.197 inches 104 x 132 mm",
+          "Emissions": "Tier 3",
+          "Rated Power (gross)": "115 hp 85.8 kW",
+          "Maximum Power (gross)": "126 hp 94.0 kW",
+          "Fuel system": "high pressure common rail (HPCR)",
+          "Rated RPM": "2200",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "16 qts 15.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 21, 2013"
+        }
+      ]
+    }
+  }
+}

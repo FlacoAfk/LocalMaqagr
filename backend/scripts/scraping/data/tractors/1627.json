@@ -1,0 +1,234 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/6/2/1627-caseih-jx1075c.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/6/2/1627-caseih-jx1075c-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/6/2/1627-caseih-jx1075c-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/6/2/1627-caseih-jx1075c-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1627,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:39:14.723Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1627/1627-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 79 KB"
+  },
+  "tractor_data_id": 1627,
+  "name": "CaseIH JX1075C",
+  "brand": "CaseIH",
+  "model": "JX1075C",
+  "years": {
+    "desde": 2004,
+    "hasta": 2008
+  },
+  "model_year": 2004,
+  "engine_power_hp": 75,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 62,
+  "pto_tested_hp": 64.5,
+  "drawbar_tested_hp": 55.3,
+  "weight_kg": 3000,
+  "weight_basis": "4WD Operating",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 23.7,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 15.1,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1627/1627-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1627/1627-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1627.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2004 - 2008",
+          "__seccion_2__": "JXC Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Jesi, Italy"
+        },
+        {
+          "__seccion_1__": "CaseIH JX1075C Engine",
+          "__seccion_2__": "Iveco 2.9L 3-cyl diesel",
+          "Fuel tank": "19.5 gal 73.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH JX1075C Transmissions",
+          "__seccion_2__": "16-speed mechanical shuttle",
+          "__seccion_3__": "16-speed power shuttle",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH JX1075C Power",
+          "Engine (gross)": "75 hp 55.9 kW",
+          "PTO (claimed)": "62 hp 46.2 kW",
+          "Drawbar (tested)": "55.3 hp 41.2 kW",
+          "PTO (tested)": "64.5 hp 48.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH JX1075C photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2755 psi 190.0 bar",
+          "Valves": "1 to 4",
+          "Pump flow": "16.9 gpm 64.0 lpm",
+          "Steering flow": "9.4 gpm 35.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "mechanical lower-link draft sensing.",
+          "Rear lift": "3960 lbs 1796 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "mechanical dry disc",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "83.9 inches 213 cm",
+          "4WD Wheelbase": "81.3 inches 206 cm",
+          "Weight": "6085 to 6615 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "65",
+          "Cab Charging amps": "85",
+          "Battery CCA": "730",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 15, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2004 - 2008",
+          "__seccion_2__": "JXC Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH JX1075C Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "83.9 inches 213 cm",
+          "4WD Wheelbase": "81.3 inches 206 cm",
+          "2WD Length": "155.7 inches 395 cm",
+          "4WD Length": "154 inches 391 cm",
+          "Width": "69.6 inches * Minimum width. 176 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH JX1075C Weight",
+          "2WD Operating": "6085 lbs 2760 kg",
+          "4WD Operating": "6615 lbs 3000 kg",
+          "Ballasted": "7685 lbs 3485 kg"
+        },
+        {
+          "__seccion_1__": "CaseIH JX1075C Height",
+          "ROPS": "95.6 inches 242 cm",
+          "&nbsp": "75.6 inches (lowered) 192 cm",
+          "Cab": "91.5 inches 232 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 15, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2004 - 2008",
+          "__seccion_2__": "JXC Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2114"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2114",
+          "__seccion_2__": "Diesel 16-speed 4WD October 1, 2003 - February 1, 2004 Link: OCED Tractor Test 2114 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "55.3 hp 41.2 kW",
+          "Fuel use": "3.9 gal/hour 14.8 l/hour",
+          "Power at rated engine speed": "63.8 hp 47.6 kW",
+          "Power at rated PTO speed": "63.7 hp 47.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 12 used for power test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 15, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2004 - 2008",
+          "__seccion_2__": "JXC Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iveco",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "178.8 ci 2.9 L",
+          "Bore/Stroke": "4.094x4.528 inches 104 x 115 mm",
+          "Power (gross)": "75 hp 55.9 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dual paper elements",
+          "Pre-heating": "thermostart",
+          "Compression": "18.0:1",
+          "Rated RPM": "2300",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 15, 2025"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/5/2/522-ji-case-1370.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/5/2/522-ji-case-1370-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/5/2/522-ji-case-1370-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/5/2/522-ji-case-1370-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 522,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:06:34.966Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/522/522-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 75 KB"
+  },
+  "tractor_data_id": 522,
+  "name": "J.I. Case 1370",
+  "brand": "J.I. Case",
+  "model": "1370",
+  "years": {
+    "desde": 1971,
+    "hasta": 1978
+  },
+  "model_year": 1971,
+  "engine_power_hp": 155.56,
+  "engine_power_source": "pto_tested (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": 155.56,
+  "drawbar_tested_hp": 130.9,
+  "weight_kg": 5973,
+  "weight_basis": "Cab",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 73.9,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "10.00-16",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 16,
+    "diameter_mm_est": 838,
+    "tipo": "Diagonal",
+    "texto": "10.00-16"
+  },
+  "fuel_consumption_lph": 36.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/522/522-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/522/522-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td522.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1971 - 1978"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Built in Racine, Wisconsin, USA",
+          "Total built": "17,413",
+          "__seccion_3__": "Original price was $31,400 in 1978"
+        },
+        {
+          "__seccion_1__": "J.I. Case 1370 Engine",
+          "__seccion_2__": "J.I. Case 8.3L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 1370 Transmission",
+          "__seccion_2__": "12-speed partial power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 1370 Power",
+          "Drawbar (tested)": "130.9 hp 97.6 kW",
+          "PTO (tested)": "155.56 hp 116.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Differential lock": "hydraulic",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet discs brakes",
+          "__seccion_5__": "Cab standard. Four-post ROPS and open-station available."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "J.I. Case 1370 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "80 gal 302.8 L",
+          "Hydraulic system": "34.5 gal 130.6 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "&nbsp": "48 gpm Opt Optional 181.7 lpm",
+          "Capacity": "34.5 gal 130.6 L",
+          "Pressure": "2050 psi 141.3 bar",
+          "Valves": "2",
+          "Pump flow": "20 gpm 75.7 lpm",
+          "Total flow": "28 gpm 106.0 lpm",
+          "Steering flow": "8 gpm 30.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "105 inches 266 cm",
+          "Weight": "11690 to 13170 pounds",
+          "Front tire": "10.00-16",
+          "Rear tire": "18.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1971": "8674001",
+          "1972": "8691801",
+          "1973": "8712001",
+          "1974": "8736601",
+          "1975": "8770001",
+          "1976": "8797501",
+          "1977": "8810601",
+          "1978": "8830001",
+          "__seccion_1__": "1370 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Batteries": "2",
+          "Battery CCA": "300",
+          "Battery volts": "12",
+          "Battery Group": "30H"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Agri King 1370 - 1270 - 1175 High-Production Tractors published in 1973, by J.I. Case",
+          "__seccion_3__": "1975 Spring Buyers Guide published by J.I. Case",
+          "__seccion_4__": "Time-saving experts published in 1975, by J.I. Case",
+          "__seccion_5__": "\"Specializing\" for Specialists published in 1978, by J.I. Case"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on May 21, 2026"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1971 - 1978"
+        },
+        {
+          "__seccion_1__": "J.I. Case 1370 Tires",
+          "Ag front": "9.50-20",
+          "Ag rear": "16.9-38",
+          "&nbsp": "12.4-42"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "105 inches 266 cm",
+          "Length": "182 inches 462 cm",
+          "Width": "96 inches 243 cm",
+          "&nbsp": "120 inches (duals) 304 cm",
+          "Height (ROPS)": "106 inches 269 cm",
+          "Height (cab)": "116 inches 294 cm",
+          "Ground clearance": "16 inches 40 cm",
+          "Bar rear axle": "3.875 inch diameter 98 mm"
+        },
+        {
+          "__seccion_1__": "J.I. Case 1370 Weight",
+          "Cab": "13170 lbs 5973 kg",
+          "ROPS": "11690 lbs 5302 kg",
+          "Ballasted": "20960 lbs 9507 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 21, 2026"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1971 - 1978"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 1102: diesel (2100 rpm) 12-speed 2WD",
+          "__seccion_3__": "NTTL 1148: diesel (2200 rpm) 12-speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1102"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1102",
+          "__seccion_2__": "Diesel (2100 rpm) 12-speed 2WD June 10 - 19, 1972 Link: Nebraska Tractor Test 1102 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "142.51 hp 106.3 kW",
+          "Fuel use": "9.5 gal/hour 36.0 l/hour",
+          "Power at rated PTO speed": "143.64 hp 107.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "120.97 hp 90.2 kW",
+          "__seccion_5__": "Gear 3-Lo used for power test.",
+          "Max pull": "16,609 lbs 7533 kg",
+          "__seccion_6__": "Gear 1-Int used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1148"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1148",
+          "__seccion_2__": "Diesel (2200 rpm) 12-speed 2WD October 31 - November 7, 1973 Link: Nebraska Tractor Test 1148 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "155.56 hp 116.0 kW",
+          "Fuel use": "10.9 gal/hour 41.3 l/hour",
+          "Power at rated PTO speed": "156.32 hp 116.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "130.9 hp 97.6 kW",
+          "__seccion_5__": "Gear 3-Lo used for power test.",
+          "Max pull": "16,480 lbs 7475 kg",
+          "__seccion_6__": "Gear 1-Int used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 21, 2026"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1971 - 1978"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "J.I. Case 504BDT",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "__seccion_6__": "Power increased in 1973 with engine RPM increase to 2200.",
+          "Displacement": "504 ci 8.3 L",
+          "Bore/Stroke": "4.625x5.00 inches 117 x 127 mm",
+          "Air cleaner": "two-stage dry",
+          "Compression": "16.5:1",
+          "Rated RPM": "2200",
+          "&nbsp": "2100 (early)",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Oil capacity": "14.9 qts 14.1 L",
+          "Coolant capacity": "42 qts 39.7 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 21, 2026"
+        }
+      ]
+    }
+  }
+}

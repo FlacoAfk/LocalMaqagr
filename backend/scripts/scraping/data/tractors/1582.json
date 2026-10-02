@@ -1,0 +1,269 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/5/8/1582-john-deere-6715.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/5/8/1582-john-deere-6715-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/5/8/1582-john-deere-6715-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/5/8/1582-john-deere-6715-engine.html",
+    "source_id": 1582,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:36:30.098Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1582/1582-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 75 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 1582,
+  "name": "John Deere 6715",
+  "brand": "John Deere",
+  "model": "6715",
+  "years": {
+    "desde": 2003,
+    "hasta": 2007
+  },
+  "model_year": 2003,
+  "engine_power_hp": 129.4,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 105,
+  "pto_tested_hp": 119.1,
+  "drawbar_tested_hp": 94.3,
+  "weight_kg": 4246,
+  "weight_basis": "4WD ROPS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 52.3,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "12.4-28",
+    "radial": false,
+    "width_mm": 315,
+    "rim_in": 28,
+    "diameter_mm_est": 1247,
+    "tipo": "Diagonal",
+    "texto": "12.4-28"
+  },
+  "fuel_consumption_lph": 26.1,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1582/1582-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1582/1582-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td1582.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2003 - 2007",
+          "__seccion_2__": "6015 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany"
+        },
+        {
+          "6715": "utility",
+          "__seccion_1__": "Variants",
+          "6715HC": "high-clearance"
+        },
+        {
+          "__seccion_1__": "John Deere 6715 Engine",
+          "__seccion_2__": "John Deere 6.8L 6-cyl diesel",
+          "Fuel tank": "54.7 gal 207.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6715 Transmissions",
+          "__seccion_2__": "12-speed fully synchronized",
+          "__seccion_3__": "16-speed power shuttle",
+          "__seccion_4__": "16-speed four-speed power shift",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6715 Power",
+          "Engine (gross)": "129.4 hp 96.5 kW",
+          "Engine (net)": "125 hp 93.2 kW",
+          "PTO (claimed)": "105 hp 78.3 kW",
+          "Drawbar (tested)": "94.3 hp 70.3 kW",
+          "PTO (tested)": "119.1 hp 88.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "electro-hydraulic rear",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Hydraulic wet disc brakes",
+          "__seccion_4__": "Two-post foldable ROPS. ComfortVantage Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 6715 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "constant-flow load-sensing",
+          "Valves": "1 to 4",
+          "Pump flow": "17.5 gpm 66.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "electro-hydraulic lower-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "5915 lbs * During testing, actual lift was only 5430 pounds. 2683 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "106.3 inches 270 cm",
+          "4WD Wheelbase": "104.3 inches 264 cm",
+          "Weight": "8776 to 10252 pounds",
+          "Front tire": "10.00-16",
+          "2WD Rear tire": "18.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6715 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "6715 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the right side of the tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "90",
+          "Battery CCA": "1230",
+          "Battery volts": "12",
+          "Battery AH": "154"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "6015 Series published in 2002, by John Deere",
+          "__seccion_3__": "6015 Series published in 2004, by John Deere",
+          "__seccion_4__": "High-Crop and High-Clearance Tractors published in 2004, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 22, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2003 - 2007",
+          "__seccion_2__": "6015 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 6715 Tires",
+          "2WD Standard tires (ag)": "Front: 10.00-16. Rear: 18.4-38",
+          "4WD Standard tires (ag)": "Front: 12.4-28. Rear: 18.4-38",
+          "2WD Optional tires (ag)": "Front: 10.00-16. Rear: 18.4-34",
+          "4WD Optional tires (ag)": "Front: 13.6-28. Rear: 18.4-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "106.3 inches 270 cm",
+          "4WD Wheelbase": "104.3 inches 264 cm",
+          "Length": "177.2 inches 450 cm",
+          "Height (exhaust)": "107.8 inches 273 cm",
+          "__seccion_2__": "Flange rear axle",
+          "Rack-and-pinion rear axle": "3.1 by 100.6 inches 78 by 2555 mm"
+        },
+        {
+          "__seccion_1__": "John Deere 6715 Weight",
+          "2WD ROPS Shipping": "8776 lbs 3980 kg",
+          "2WD Cab Shipping": "9658 lbs 4380 kg",
+          "4WD ROPS Shipping": "9361 lbs 4246 kg",
+          "4WD Cab Shipping": "10252 lbs 4650 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 22, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2003 - 2007",
+          "__seccion_2__": "6015 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2238"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2238",
+          "__seccion_2__": "Diesel 16-speed 4WD November 2004 - January 2005, Link: OCED Tractor Test 2238 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "94.3 hp 70.3 kW",
+          "Fuel use": "6.8 gal/hour 25.7 l/hour",
+          "Power at rated engine speed": "107.4 hp 80.1 kW",
+          "Power at rated PTO speed": "115.5 hp 86.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "11755 lbs 5332 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 22, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2003 - 2007",
+          "__seccion_2__": "6015 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 6068",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "414 ci 6.8 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Rated Power (net)": "125 hp 93.2 kW",
+          "Rated Power (gross)": "129.4 hp 96.5 kW",
+          "Compression": "17:1",
+          "Rated RPM": "2300",
+          "Operating RPM": "1500-2300",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Starter power": "4.2 hp 3.1 kW",
+          "Oil capacity": "21.2 qts 20.1 L",
+          "Coolant capacity": "19 qts 18.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 22, 2022"
+        }
+      ]
+    }
+  }
+}

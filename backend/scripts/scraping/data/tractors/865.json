@@ -1,0 +1,229 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/8/6/865-massey-ferguson-3070.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/8/6/865-massey-ferguson-3070-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/8/6/865-massey-ferguson-3070-engine.html",
+    "source_id": 865,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:28:04.578Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/865/865-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 46 KB"
+  },
+  "tractor_data_id": 865,
+  "name": "Massey Ferguson 3070",
+  "brand": "Massey Ferguson",
+  "model": "3070",
+  "years": {
+    "desde": 1986,
+    "hasta": 1992
+  },
+  "model_year": 1986,
+  "engine_power_hp": 80,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 80,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4623,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 29.4,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4-34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "10.00-16",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 16,
+    "diameter_mm_est": 838,
+    "tipo": "Diagonal",
+    "texto": "10.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/865/865-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/865/865-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td865.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1986 - 1992",
+          "__seccion_2__": "3000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Original price was $41,800 in 1992"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3070 Engine",
+          "__seccion_2__": "Perkins 3.9L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3070 Transmissions",
+          "__seccion_2__": "16-speed fully synchronized",
+          "__seccion_3__": "32-speed two-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3070 Power",
+          "PTO (claimed)": "80 hp 59.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 3070 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "50 gal 189.2 L",
+          "Hydraulic system": "15.9 gal 60.2 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "15.9 gal 60.2 L",
+          "Pressure": "2610 psi 180.0 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "13.2 gpm 50.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position control and lower-link draft sensing",
+          "Rear lift (at ends)": "10617 lbs 4815 kg",
+          "Rear lift (at 24\"/610mm)": "6900 lbs 3129 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "96.9 inches 246 cm",
+          "4WD Wheelbase": "97 inches 246 cm",
+          "Weight": "9652 to 10192 pounds",
+          "Front tire": "10.00-16",
+          "Rear tire": "18.4-34 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3070 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "55",
+          "Batteries": "2",
+          "Battery CCA": "420",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Loaders - Compact and Agricultural published in 1989, by Massey Ferguson",
+          "__seccion_3__": "MF 3000 & 3100 Series published in 1991, by Massey Ferguson",
+          "__seccion_4__": "MF 3000 Product Information Manual (0783/0986) published in 1986 *",
+          "__seccion_5__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 7, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1986 - 1992",
+          "__seccion_2__": "3000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3070 Tires",
+          "Standard tires (ag)": "Front: 10.00-16. Rear: 18.4-34 (2WD)",
+          "&nbsp": "Front: 14.9-24. Rear: 18.4-34 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "96.9 inches 246 cm",
+          "4WD Wheelbase": "97 inches 246 cm",
+          "2WD Length": "160.8 inches 408 cm",
+          "4WD Length": "164.6 inches 418 cm",
+          "Width": "78.2 inches 198 cm",
+          "2WD Weight": "9652 lbs 4378 kg",
+          "4WD Weight": "10192 lbs 4623 kg",
+          "2WD Clearance (front axle)": "24.3 inches 61 cm",
+          "4WD Clearance (front axle)": "157.7 inches 400 cm",
+          "Clearance (drawbar)": "16.5 inches 41 cm",
+          "2WD Front tread": "60.7 to 91.9 inches 154 to 233 cm",
+          "4WD Front tread": "62.3 to 81.6 inches 158 to 207 cm",
+          "Rear tread": "60.6 to 84.5 inches 153 to 214 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 3070 Height",
+          "2WD Steering wheel": "80.5 inches 204 cm",
+          "4WD Steering wheel": "80.2 inches 203 cm",
+          "Cab": "108.5. inches 275 cm",
+          "Exhaust": "106.6 inches 270 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 7, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1986 - 1992",
+          "__seccion_2__": "3000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins AT4.236",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "236 ci 3.9 L",
+          "Rated RPM": "2200",
+          "Torque": "253 lb-ft 343.1 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 7, 2022"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/6/260-ford-3600.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/6/260-ford-3600-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/2/6/260-ford-3600-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/6/260-ford-3600-engine.html",
+    "source_id": 260,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:10:29.973Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/260/260-td4-b01-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 110 KB"
+  },
+  "tractor_data_id": 260,
+  "name": "Ford 3600",
+  "brand": "Ford",
+  "model": "3600",
+  "years": {
+    "desde": 1975,
+    "hasta": 1981
+  },
+  "model_year": 1975,
+  "engine_power_hp": 48,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 40,
+  "pto_tested_hp": 40.62,
+  "drawbar_tested_hp": 34.35,
+  "weight_kg": 1744,
+  "weight_basis": "Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 22.7,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 12.4-28",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1247,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": 10.2,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/260/260-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/260/260-td4-b01-ext090.jpg",
+  "image_url": "/uploads/tractors/td260.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Original price was $7,200 in 1981"
+        },
+        {
+          "3600": "utility",
+          "__seccion_1__": "Variants",
+          "3600-N": "narrow",
+          "3600-O": "orchard"
+        },
+        {
+          "__seccion_1__": "Ford 3600 Engines",
+          "__seccion_2__": "Ford 2.9L 3-cyl diesel",
+          "__seccion_3__": "Ford 2.9L 3-cyl gasoline",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 3600 Transmissions",
+          "__seccion_2__": "6-speed gear",
+          "__seccion_3__": "8-speed",
+          "__seccion_4__": "6-speed mechanical shuttle",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 3600 Power",
+          "Engine (gross)": "48 hp 35.8 kW",
+          "Engine (net)": "45 hp 33.6 kW",
+          "Drawbar (claimed)": "34 hp 25.4 kW",
+          "PTO (claimed)": "40 hp 29.8 kW",
+          "Drawbar (tested)": "34.35 hp 25.6 kW",
+          "PTO (tested)": "40.62 hp 30.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Differential lock": "mechanical rear Opt Optional",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential mechanical expanding shoe brakes",
+          "__seccion_5__": "Open operator station. Two-post ROPS optional with available canopy. Cab available with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 3600 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "13 gal 49.2 L",
+          "Hydraulic system": "6.15 gal 23.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Capacity": "6.15 gal 23.3 L",
+          "Pressure": "2100 psi 144.8 bar",
+          "Pump flow": "8.5 gpm 32.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "top-link draft sensing",
+          "Rear lift": "1940 lbs 879 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "&nbsp": "live * Optional with 8-speed Dual-Range transmission.",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "75.8 inches 192 cm",
+          "Weight": "3846 to 5590 pounds",
+          "Front tire": "6.00-16",
+          "Rear tire": "12.4-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 3600 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1975": "C450700",
+          "1976": "C490300",
+          "1977": "C527300",
+          "1978": "C560500",
+          "1979": "C595800",
+          "1980": "C635700",
+          "1981": "C660700",
+          "__seccion_1__": "3600 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "32",
+          "&nbsp": "51 Opt Optional",
+          "Battery volts": "12",
+          "Gas Battery AH": "77",
+          "Diesel Battery AH": "128"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "2600 - 3600 published in 1975, by Ford",
+          "__seccion_3__": "2600 - 3600 published in 1977, by Ford",
+          "__seccion_4__": "2600 - 3600 published in 1977, by Ford",
+          "__seccion_5__": "2600 - 3600 published in 1980, by Ford",
+          "__seccion_6__": "2600 - 4100 - 3600 - 4600 published by Ford",
+          "__seccion_7__": "Ford now offer tractor from 37 to 295 horsepower published in 1979 *",
+          "__seccion_8__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 9, 2022",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Ford 3600 Tires",
+          "Ag front": "6.00-16",
+          "Ag rear": "12.4-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "75.8 inches 192 cm",
+          "Length": "127 inches 322 cm",
+          "Width": "64 inches * Minimum width 162 cm",
+          "Height (hood)": "54 inches 137 cm",
+          "Height (cab)": "99.1 inches 251 cm",
+          "Clearance (front axle)": "21.5 inches 54 cm",
+          "Clearance (rear axle)": "13.3 inches 33 cm",
+          "Front tread": "52 to 80 inches 132 to 203 cm",
+          "Rear tread": "52 to 80 inches 132 to 203 cm * Power adjust wheels"
+        },
+        {
+          "__seccion_1__": "Ford 3600 Weight",
+          "Shipping": "3846 lbs 1744 kg",
+          "Operating": "4415 lbs (6-speed) 2002 kg",
+          "&nbsp": "5590 lbs (8-speed, cab) 2535 kg",
+          "Ballasted": "6900 lbs 3129 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 9, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 1203: diesel 6 speed 2WD",
+          "__seccion_3__": "NTTL 1208: gasoline 6 speed 2WD",
+          "__seccion_4__": "NTTL 1221: diesel 8 speed 2WD",
+          "__seccion_5__": "NTTL 1226: gasoline 8 speed 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1203"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1203",
+          "__seccion_2__": "Diesel 6 speed 2WD March 16 - April 7, 1976 Link: Nebraska Tractor Test 1203 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "40.49 hp 30.2 kW",
+          "Fuel use": "2.6 gal/hour 9.8 l/hour",
+          "Power at rated PTO speed": "37.64 hp 28.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "33.79 hp 25.2 kW",
+          "__seccion_5__": "Gear 3 used for power test.",
+          "Max pull": "5,114 lbs 2319 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1208"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1208",
+          "__seccion_2__": "Gasoline 6 speed 2WD March 25 - April 21, 1976 Link: Nebraska Tractor Test 1208 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "40.17 hp 30.0 kW",
+          "Fuel use": "3.7 gal/hour 14.0 l/hour",
+          "Power at rated PTO speed": "37.91 hp 28.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "34.35 hp 25.6 kW",
+          "__seccion_5__": "Gear 3 used for power test.",
+          "Max pull": "5,158 lbs 2339 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1221"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1221",
+          "__seccion_2__": "Diesel 8 speed 2WD September 28 - October 9, 1976 Link: Nebraska Tractor Test 1221 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "40.55 hp 30.2 kW",
+          "Fuel use": "2.6 gal/hour 9.8 l/hour",
+          "Power at rated PTO speed": "38.31 hp 28.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "33.71 hp 25.1 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "5,277 lbs 2393 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1226"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1226",
+          "__seccion_2__": "Gasoline 8 speed 2WD September 23 - October 14, 1976 Link: Nebraska Tractor Test 1226 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "40.62 hp 30.3 kW",
+          "Fuel use": "3.7 gal/hour 14.0 l/hour",
+          "Power at rated PTO speed": "38.29 hp 28.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "33.80 hp 25.2 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "5,123 lbs 2323 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 9, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1975 - 1981",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "Ford 2.9L 3-cyl diesel",
+          "__seccion_3__": "Ford 2.9L 3-cyl gasoline"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "175 ci 2.9 L",
+          "Bore/Stroke": "4.20x4.20 inches 107 x 107 mm",
+          "Power (net)": "45 hp 33.6 kW",
+          "Power (gross)": "48 hp 35.8 kW",
+          "Air cleaner": "oil bath",
+          "Pre-heating": "ether injection Opt Optional",
+          "&nbsp": "coolant heater Opt Optional",
+          "Compression": "16.3:1",
+          "Rated RPM": "2000",
+          "Torque": "135 lb-ft 183.1 Nm",
+          "Torque RPM": "1400",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "7 qts 6.6 L",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "Ford 3600 Engine"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "175 ci 2.9 L",
+          "Bore/Stroke": "4.20x4.20 inches 107 x 107 mm",
+          "Power (net)": "44 hp 32.8 kW",
+          "Power (gross)": "46 hp 34.3 kW",
+          "Air cleaner": "dry",
+          "Compression": "7.75:1",
+          "Rated RPM": "2000",
+          "Torque": "135 lb-ft 183.1 Nm",
+          "Torque RPM": "1100",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "7 qts 6.6 L",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 9, 2022"
+        }
+      ]
+    }
+  }
+}

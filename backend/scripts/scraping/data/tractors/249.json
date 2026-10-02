@@ -1,0 +1,247 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/2/4/249-ford-1300.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/2/4/249-ford-1300-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/2/4/249-ford-1300-engine.html",
+    "source_id": 249,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:09:54.785Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/249/249-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 79 KB"
+  },
+  "tractor_data_id": 249,
+  "name": "Ford 1300",
+  "brand": "Shibaura",
+  "model": "1300",
+  "years": {
+    "desde": 1979,
+    "hasta": 1982
+  },
+  "model_year": 1979,
+  "engine_power_hp": 16,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 13.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 970,
+  "weight_basis": "4WD Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 13.6-16",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 994,
+  "tire_front": {
+    "original": "6.00-14",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 14,
+    "diameter_mm_est": 615,
+    "tipo": "Diagonal",
+    "texto": "6.00-14"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/249/249-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/249/249-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td249.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1979 - 1982",
+          "__seccion_2__": "Hundred Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Ford",
+          "Manufacturer": "Shibaura",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan",
+          "__seccion_4__": "Original price was $6,257 in 1982"
+        },
+        {
+          "__seccion_1__": "Ford 1300 Engine",
+          "__seccion_2__": "Shibaura 0.8L 2-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 1300 Transmission",
+          "__seccion_2__": "12-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 1300 Power",
+          "Engine (gross)": "16 hp 11.9 kW",
+          "Engine": "15.3 hp 11.4 kW",
+          "PTO (claimed)": "13.5 hp 10.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Differential mechanical drum brakes",
+          "__seccion_5__": "Two-post fixed ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 1300 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "5.8 gal 22.0 L",
+          "Hydraulic system": "5.3 gal 20.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "5.3 gal 20.1 L",
+          "Pressure": "2136 psi 147.3 bar",
+          "Pump flow": "4.75 gpm 18.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at ends)": "1432 lbs 649 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Clutch": "overrunning",
+          "Rear PTO Type": "540 (1.375)",
+          "Front PTO": "optional"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "56.7 inches 144 cm",
+          "Weight": "1873 to 2139 pounds",
+          "Front tire": "4.00-12",
+          "Rear tire": "8.3-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 1300 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "snowblower",
+          "__seccion_4__": "front-end loader",
+          "__seccion_5__": "backhoe",
+          "__seccion_6__": "Attachment details ..."
+        },
+        {
+          "1979": "U300001",
+          "1980": "U302697",
+          "1981": "U303446",
+          "1982": "---",
+          "1983": "U304962",
+          "__seccion_1__": "1300 Serial Numbers",
+          "Location:": "Transmission housing, left side",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "20",
+          "Battery volts": "12",
+          "Battery AH": "72"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Ford Shop Manual by Peter Letourneau",
+          "__seccion_3__": "Farm Loaders published in 1982, by Ford",
+          "__seccion_4__": "1000 Series Tractors published in 1979, by Ford",
+          "__seccion_5__": "1000 Series Tractors published in 1981, by Ford"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 11, 2025",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1979 - 1982",
+          "__seccion_2__": "Hundred Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Ford 1300 Tires",
+          "2WD Ag front": "4.00-12",
+          "4WD Ag front": "6.00-14",
+          "Ag rear": "8.3-24",
+          "2WD Lawn/turf front": "20x8-10",
+          "4WD Lawn/turf front": "25x8.5-14",
+          "Lawn/turf rear": "13.6-16"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "56.7 inches 144 cm",
+          "Length": "105.6 inches 268 cm",
+          "Width": "49.7 inches 126 cm",
+          "Height (ROPS)": "83.8 inches 212 cm",
+          "Height (exhaust)": "71.9 inches 182 cm",
+          "2WD Weight": "1873 lbs 849 kg",
+          "4WD Weight": "2139 lbs 970 kg",
+          "2WD Ground clearance": "13 inches 33 cm",
+          "4WD Ground clearance": "11.8 inches 29 cm",
+          "2WD Front tread": "41.3 to 43.3 inches 104 to 109 cm",
+          "4WD Front tread": "39.8 inches 101 cm",
+          "Rear tread": "41.3 to 47.3 inches 104 to 120 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 11, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1979 - 1982",
+          "__seccion_2__": "Hundred Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibaura LEK802D",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "49.1 ci 0.8 L",
+          "Bore/Stroke": "3.15x3.15 inches 80 x 80 mm",
+          "Power": "15.3 hp 11.4 kW",
+          "Power (gross)": "16 hp 11.9 kW",
+          "Air cleaner": "dry",
+          "Pre-heating": "glow plugs",
+          "Compression": "23:1",
+          "Rated RPM": "2700",
+          "Starter volts": "12",
+          "Oil capacity": "4.5 qts 4.3 L",
+          "Coolant capacity": "4.2 qts 4.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 11, 2025"
+        }
+      ]
+    }
+  }
+}

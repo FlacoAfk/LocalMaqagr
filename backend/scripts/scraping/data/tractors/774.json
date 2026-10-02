@@ -1,0 +1,222 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/7/7/774-massey-ferguson-283.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/7/7/774-massey-ferguson-283-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/7/7/774-massey-ferguson-283-engine.html",
+    "source_id": 774,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:24:32.020Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/774/774-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 105 KB"
+  },
+  "tractor_data_id": 774,
+  "name": "Massey Ferguson 283",
+  "brand": "Massey Ferguson",
+  "model": "283",
+  "years": {
+    "desde": 1985,
+    "hasta": 1999
+  },
+  "model_year": 1985,
+  "engine_power_hp": 89,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 67,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2463,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 24.6,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4-30",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1557,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/774/774-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/774/774-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td774.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1985 - 1999",
+          "__seccion_2__": "200 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Utility tractor",
+          "Factories": "Coventry, England",
+          "&nbsp": "Brazil",
+          "Original price": "$21,000 (1997)"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 283 Engine",
+          "__seccion_2__": "Perkins 4.1L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 283 Transmission",
+          "__seccion_2__": "8-speed sliding gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 283 Power",
+          "Engine": "89 hp 66.4 kW",
+          "PTO (claimed)": "67 hp 50.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 283 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "21.7 gal 82.1 L",
+          "Hydraulic system": "10.8 gal 40.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "10.8 gal 40.9 L"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position and draft control"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live (two-stage clutch)",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "84.3 inches 214 cm",
+          "Weight": "5,432 lbs 2463 kg",
+          "Front tire": "7.50-16",
+          "Rear tire": "18.4-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 283 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1988": "5469?????? (Brazil)",
+          "1989": "P01001 (UK)",
+          "1990": "R01001 (UK)",
+          "1991": "S01001 (UK)",
+          "1992": "A01001 (UK)",
+          "1993": "B01001 (UK)",
+          "1994": "C01001 (UK)",
+          "1995": "D01001 (UK)",
+          "1996": "E01001 (UK)",
+          "1997": "F01001 (UK)",
+          "1998": "G01001 (UK)",
+          "1999": "H01001 (UK)",
+          "__seccion_1__": "283 Serial Numbers",
+          "Location:": "Serial number plate on the dashboard panel of the Massey Ferguson 283.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Loaders - Compact and Agricultural published in 1989, by Massey Ferguson",
+          "__seccion_3__": "Loaders - Compact and Agricultural published in 1989, by Massey Ferguson",
+          "__seccion_4__": "MF 200 Series published in 1994, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 9, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1985 - 1999",
+          "__seccion_2__": "200 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 283 Tires",
+          "Ag front": "7.50-16",
+          "Ag rear": "18.4-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "84.3 inches 214 cm",
+          "Length": "145.6 inches 369 cm",
+          "Width": "79.3 inches 201 cm",
+          "Height (ROPS)": "99.5 inches 252 cm",
+          "Weight": "5,432 lbs 2463 kg",
+          "Ground clearance": "16.3 inches 41 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 9, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1985 - 1999",
+          "__seccion_2__": "200 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A4.248",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "248 ci 4.1 L",
+          "Power": "89 hp 66.4 kW",
+          "Rated RPM": "2200",
+          "Starter volts": "12",
+          "Coolant capacity": "15.2 qts 14.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 9, 2022"
+        }
+      ]
+    }
+  }
+}

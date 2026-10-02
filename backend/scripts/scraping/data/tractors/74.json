@@ -1,0 +1,271 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/7/74-john-deere-4320.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/7/74-john-deere-4320-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/7/74-john-deere-4320-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/7/74-john-deere-4320-engine.html",
+    "source_id": 74,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:46:19.567Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/74/74-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 119 KB"
+  },
+  "tractor_data_id": 74,
+  "name": "John Deere 4320",
+  "brand": "John Deere",
+  "model": "4320",
+  "years": {
+    "desde": 1971,
+    "hasta": 1972
+  },
+  "model_year": 1971,
+  "engine_power_hp": 115,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 115,
+  "pto_tested_hp": 116.55,
+  "drawbar_tested_hp": 101.7,
+  "weight_kg": 4105,
+  "weight_basis": "Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 52.4,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "10.00-16",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 16,
+    "diameter_mm_est": 838,
+    "tipo": "Diagonal",
+    "texto": "10.00-16"
+  },
+  "fuel_consumption_lph": 30.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/74/74-td3a.jpg",
+  "image_url": "/uploads/tractors/td74.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1971 - 1972",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "Total built": "21,485",
+          "__seccion_4__": "Original price was $12,000 in 1972",
+          "__seccion_5__": "The John Deere 4320 might be called a 4020 with a turbocharged engine, although both the engine and final drives received upgrades. The 4320 was created to fill a horsepower gap in the Deere lineup between the 4020 and the 4520/4620."
+        },
+        {
+          "__seccion_1__": "John Deere 4320 Engine",
+          "__seccion_2__": "John Deere 6.6L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4320 Transmission",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4320 Power",
+          "PTO (claimed)": "115 hp 85.8 kW",
+          "Drawbar (tested)": "101.7 hp 75.8 kW",
+          "PTO (tested)": "116.55 hp 86.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 HFWD 4WD",
+          "__seccion_2__": "Power steering",
+          "__seccion_3__": "Differential hydraulic wet disc brakes",
+          "__seccion_4__": "Open operator station. Two-post ROPS and canopy optional. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 4320 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "44 gal 166.5 L",
+          "Hydraulic system": "14 gal 53.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "14 gal 53.0 L",
+          "Valves": "1 to 3",
+          "Pump flow": "22 gpm 83.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "3750 lbs 1701 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000",
+          "&nbsp": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "106.5 inches 270 cm",
+          "Weight": "9050 to 10675 pounds",
+          "Front tire": "10.00-16",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4320 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "4320 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the rear of the 4320 transmission case."
+        },
+        {
+          "1971": "6000",
+          "1972": "17031",
+          "__seccion_1__": "4320 Serial Numbers",
+          "Final": "27484",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere 20 Series New Generation Tractors by Benjamin Hain"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 18, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1971 - 1972",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 4320 Tires",
+          "Ag front": "11.00-12 (single front)",
+          "Ag rear": "15.5-38",
+          "&nbsp": "18.4-34 (duals)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "106.5 inches 270 cm",
+          "Length": "159.3 inches 404 cm",
+          "Width": "89.6 inches 227 cm",
+          "&nbsp": "26 inches (rear housing) 66 cm",
+          "Height": "107 inches 271 cm",
+          "Height (steering wheel)": "81.4 inches 206 cm",
+          "Clearance (front axle)": "24.5 inches (adjustable) 62 cm",
+          "Clearance (rear axle)": "27.8 inches 70 cm",
+          "Clearance (drawbar)": "15 inches 38 cm",
+          "Rear axle": "3.375 inch diameter 85 mm",
+          "Front tread": "70 to 88 inches 177 to 223 cm (4WD wide)",
+          "Rear tread": "60 to 120 inches 152 to 304 cm (offset dual axle)"
+        },
+        {
+          "__seccion_1__": "John Deere 4320 Weight",
+          "Shipping": "9050 lbs 4105 kg",
+          "Operating": "10675 lbs 4842 kg",
+          "Ballasted": "14380 lbs 6522 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 18, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1971 - 1972",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1050"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1050",
+          "__seccion_2__": "Diesel Syncro-Range 2WD September 21 - 26, 1970 Link: Nebraska Tractor Test 1050 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "116.55 hp 86.9 kW",
+          "Fuel use": "8.0 gal/hour 30.3 l/hour",
+          "Power at rated PTO speed": "108.02 hp 80.6 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "101.7 hp 75.8 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "11,783 lbs 5344 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 18, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1971 - 1972",
+          "__seccion_2__": "New Generation Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "404 ci 6.6 L",
+          "Bore/Stroke": "4.25x4.75 inches 108 x 121 mm",
+          "Fuel use": "7.953 gal/hour 30.1 l/hour",
+          "Air cleaner": "paper elements",
+          "Compression": "15.7:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "800-2200",
+          "Operating RPM": "1500-2200",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Oil capacity": "16 qts 15.1 L",
+          "Coolant capacity": "28 qts 26.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 18, 2025"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/74/74-photo-001.jpg"
+}

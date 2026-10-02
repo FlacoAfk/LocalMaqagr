@@ -1,0 +1,234 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/8/5/6853-john-deere-730.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/8/5/6853-john-deere-730-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/8/5/6853-john-deere-730-engine.html",
+    "source_id": 6853,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:51:32.546Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6853/6853-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 32 KB"
+  },
+  "tractor_data_id": 6853,
+  "name": "John Deere 730",
+  "brand": "John Deere",
+  "model": "730",
+  "years": {
+    "desde": 1961,
+    "hasta": 1971
+  },
+  "model_year": 1961,
+  "engine_power_hp": 59,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 59,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3079,
+  "weight_basis": "Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 21.6,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 13.6-38",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1552,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F006/6853/6853-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6853/6853-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td6853.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1961 - 1971",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Rosario, Argentina",
+          "__seccion_4__": "The John Deere model 730, originally built in Waterloo, was also exported to Argentina and assembled at Deere's factory in Rosario. When two-cylinder production ended at Waterloo the tooling for the 730 was moved to Argentina. Production continued until 1971. Argentine model 730s were built in row-crop, standard, and high-crop variants. The paint scheme and hood medallion were different than US-built 730s."
+        },
+        {
+          "__seccion_1__": "John Deere 730 Engines",
+          "__seccion_2__": "John Deere 5.9L 2-cyl gasoline",
+          "__seccion_3__": "John Deere 6.2L 2-cyl diesel",
+          "Fuel tank": "26.5 gal (gasoline) 100.3 L",
+          "&nbsp": "20 gal (diesel) 75.7 L",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 730 Transmission",
+          "__seccion_2__": "6-speed unsynchronized gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 730 Power",
+          "Drawbar (claimed)": "53 hp 39.5 kW",
+          "PTO (claimed)": "59 hp 44.0 kW",
+          "Plows": "5"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "manual",
+          "__seccion_3__": "Differential mechanical drum brakes",
+          "__seccion_4__": "Open operator station. Optional Float-Ride seat."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 730 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "1 or 2"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II (optional)"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "93.7 inches 237 cm",
+          "Weight": "6790 to 7861 pounds",
+          "Front tire": "6.00-16",
+          "Rear tire": "13.6-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Belt Pulley",
+          "Diameter": "12.8 inches 32 cm",
+          "Width": "7.4 inches 18 cm",
+          "RPM": "1,125",
+          "Speed": "3,790 ft/min 1155.19 meters/min"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive",
+          "Charging system": "generator",
+          "Batteries": "2",
+          "&nbsp": "4 (diesel)",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere 30 Series by J.R. Hobbs"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 26, 2013",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1961 - 1971",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 730 Tires",
+          "Ag front": "6.00-16",
+          "Ag rear": "13.6-38",
+          "&nbsp": "13-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "93.7 inches 237 cm",
+          "Length": "135.25 inches 343 cm",
+          "Width": "86.625 inches 220 cm",
+          "Height": "88.25 inches 224 cm",
+          "Front tread": "48 to 80 inches 121 to 203 cm",
+          "Rear tread": "60 to 122 inches 152 to 309 cm (extra-long axle)"
+        },
+        {
+          "__seccion_1__": "John Deere 730 Weight",
+          "Shipping": "6,790 lbs (gasoline) 3079 kg",
+          "&nbsp": "7,861 lbs (diesel) 3565 kg",
+          "Operating": "7,445 lbs (gasoline) 3377 kg",
+          "Ballasted": "9,241 lbs 4191 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 26, 2013"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1961 - 1971",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "John Deere 5.9L 2-cyl gasoline",
+          "__seccion_3__": "John Deere 6.2L 2-cyl diesel"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "2-cylinder 4-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "360.5 ci 5.9 L",
+          "Bore/Stroke": "6.00x6.375 inches 152 x 162 mm",
+          "Fuel use": "4.514 gal/hour 17.1 l/hour",
+          "Air cleaner": "oil bath",
+          "Compression": "6.14:1",
+          "Rated RPM": "1125",
+          "Starter volts": "12",
+          "Coolant capacity": "29 qts 27.4 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "2-cylinder 4-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "376 ci 6.2 L",
+          "Bore/Stroke": "6.125x6.375 inches 156 x 162 mm",
+          "Fuel use": "3.153 gal/hour 11.9 l/hour",
+          "Air cleaner": "oil bath",
+          "Compression": "16:1",
+          "Rated RPM": "1125",
+          "Firing order": "1-2",
+          "Starter volts": "24"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on December 26, 2013"
+        }
+      ]
+    }
+  }
+}

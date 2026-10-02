@@ -1,0 +1,185 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/002/0/3/2031-fiat-f130.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/002/0/3/2031-fiat-f130-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/002/0/3/2031-fiat-f130-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 2031,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:15:59.940Z",
+    "foto_original": "https://www.tractordata.com/photos/F002/2031/2031-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 69 KB"
+  },
+  "tractor_data_id": 2031,
+  "name": "Fiat F130",
+  "brand": "Fiat",
+  "model": "F130",
+  "years": {
+    "desde": 1990,
+    "hasta": 1996
+  },
+  "model_year": 1990,
+  "engine_power_hp": 130,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 5000,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 47.7,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4-34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "11.00-16",
+    "radial": false,
+    "width_mm": 279,
+    "rim_in": 16,
+    "diameter_mm_est": 881,
+    "tipo": "Diagonal",
+    "texto": "11.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F002/2031/2031-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F002/2031/2031-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td2031.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1990 - 1996",
+          "__seccion_2__": "Winner Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Fiat",
+          "__seccion_2__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Fiat F130 Engine",
+          "__seccion_2__": "Iveco 5.9L 6-cyl diesel",
+          "Fuel tank": "58.1 gal 219.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Fiat F130 Transmissions",
+          "__seccion_2__": "16-speed",
+          "__seccion_3__": "20-speed",
+          "__seccion_4__": "32-speed",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Fiat F130 Power",
+          "Engine": "130 hp 96.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "hydraulic power",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Cab standard. Air-conditioning optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Fiat F130 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Pump flow": "14.5 gpm 54.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/II",
+          "Control": "position control and lower-link draft sensing",
+          "Rear lift": "14553 lbs 6601 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540/1000",
+          "&nbsp": "540/750/1000 (optional)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "109.5 inches 278 cm",
+          "Weight": "11025 lbs 5000 kg",
+          "Front tire": "11.00-16",
+          "Rear tire": "18.4-34 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 19, 2018"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1990 - 1996",
+          "__seccion_2__": "Winner Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Fiat F130 Tires",
+          "Standard tires (ag)": "Front: 11.00-16. Rear: 18.4-34 (2WD)",
+          "&nbsp": "Front: 14.9-28. Rear: 18.4-34 (4WD)",
+          "Optional tires (ag)": "Front: 420/70-28. Rear: 520/70-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "109.5 inches 278 cm",
+          "Length": "183.1 inches 465 cm",
+          "Height": "110.6 inches 280 cm",
+          "Weight": "11025 lbs 5000 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 19, 2018"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1990 - 1996",
+          "__seccion_2__": "Winner Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iveco 8065.25",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "357.64 ci 5.9 L",
+          "Bore/Stroke": "4.0945x4.53 inches 104 x 115 mm",
+          "Power": "130 hp 96.9 kW",
+          "Rated RPM": "2300",
+          "Starter type": "electric"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 19, 2018"
+        }
+      ]
+    }
+  }
+}

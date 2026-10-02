@@ -1,0 +1,252 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/1/0/3103-new-holland-tc55da.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/1/0/3103-new-holland-tc55da-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/1/0/3103-new-holland-tc55da-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/1/0/3103-new-holland-tc55da-engine.html",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1250/",
+    "source_id": 3103,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:22:55.431Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3103/3103-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 134 KB",
+    "nebraska_test": 1837
+  },
+  "tractor_data_id": 3103,
+  "name": "New Holland TC55DA",
+  "brand": "New Holland",
+  "model": "TC55DA",
+  "years": {
+    "desde": 2003,
+    "hasta": 2007
+  },
+  "model_year": 2003,
+  "engine_power_hp": 55,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 47,
+  "pto_tested_hp": 48.01,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1922,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 17.6,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14.9-24",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1253,
+  "tire_front": {
+    "original": "8-16",
+    "radial": false,
+    "width_mm": 203,
+    "rim_in": 16,
+    "diameter_mm_est": 752,
+    "tipo": "Diagonal",
+    "texto": "8-16"
+  },
+  "fuel_consumption_lph": 14.8,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3103/3103-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3103/3103-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td3103.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2003 - 2007",
+          "__seccion_2__": "Boomer TC-A Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "New Holland",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Dublin, Georgia, USA"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "Farmall DX55": "similar CaseIH model"
+        },
+        {
+          "__seccion_1__": "New Holland TC55DA Engine",
+          "__seccion_2__": "Shibaura 2.2L 4-cyl diesel",
+          "Fuel tank": "13.5 gal 51.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TC55DA Transmissions",
+          "__seccion_2__": "12-speed mechanical shuttle",
+          "__seccion_3__": "12-speed power shuttle",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TC55DA Power",
+          "Engine (gross)": "55 hp 41.0 kW",
+          "PTO (claimed)": "47 hp (mech shuttle) 35.0 kW",
+          "&nbsp": "46 hp (power shuttle) 34.3 kW",
+          "PTO (tested)": "48.01 hp 35.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS. Canopy optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland TC55DA photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "3 Opt Optional",
+          "Pump flow": "11.6 gpm * Advertised. Flow during testing was 10.9 GPM. 43.9 lpm",
+          "Steering flow": "5.52 gpm 20.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift (at 24\"/610mm)": "3465 lbs 1571 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2475"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "74.8 inches 189 cm",
+          "Weight": "4238 lbs 1922 kg",
+          "Front tire": "9.5L-15",
+          "Rear tire": "14.9-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "New Holland TC55DA attachments",
+          "__seccion_2__": "blade",
+          "__seccion_3__": "front-end loader",
+          "__seccion_4__": "backhoe",
+          "__seccion_5__": "Attachment details ..."
+        },
+        {
+          "2004": "HX10001",
+          "2005": "HX11615",
+          "2006": "HX12946",
+          "__seccion_1__": "TC55DA Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "BOOMER Tractor Implements, Attachments and Accessories published in 2005, by New Holland",
+          "__seccion_3__": "Boomer 18 to 55 HP Tractors published in 2004, by New Holland",
+          "__seccion_4__": "BOOMER 18 To 55 HP Tractors published in 2005, by New Holland"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 21, 2025",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2003 - 2007",
+          "__seccion_2__": "Boomer TC-A Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "New Holland TC55DA Tires",
+          "Ag front": "8-16 (4WD)",
+          "Ag rear": "14.9-24",
+          "Lawn/turf front": "27x10.5-15R3",
+          "Lawn/turf rear": "44x18-20R3",
+          "Industrial front": "11L-15SL",
+          "Industrial rear": "18.4-24R4"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "74.8 inches 189 cm",
+          "Length": "137.3 inches 348 cm",
+          "Width": "64.4 inches 163 cm",
+          "Height": "91 inches 231 cm",
+          "Weight": "4238 lbs 1922 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 21, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2003 - 2007",
+          "__seccion_2__": "Boomer TC-A Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1837"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1837",
+          "__seccion_2__": "Diesel 12-speed 4WD April 29 - 30, 2004 Link: Nebraska Tractor Test 1837 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "48.01 hp 35.8 kW",
+          "Fuel use": "3.7 gal/hour 14.0 l/hour",
+          "Power at rated PTO speed": "47.80 hp 35.6 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 21, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2003 - 2007",
+          "__seccion_2__": "Boomer TC-A Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibaura N844L",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "135.2 ci 2.2 L",
+          "Bore/Stroke": "3.307x3.937 inches 84 x 100 mm",
+          "Power (gross)": "55 hp 41.0 kW",
+          "Air cleaner": "dual dry element",
+          "Compression": "22.4:1",
+          "Rated RPM": "2700",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 21, 2025"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/009/1/3/9135-challenger-mt595e.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/009/1/3/9135-challenger-mt595e-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/009/1/3/9135-challenger-mt595e-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/009/1/3/9135-challenger-mt595e-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 9135,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:41:59.334Z",
+    "foto_original": "https://www.tractordata.com/photos/F009/9135/9135-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 3 KB"
+  },
+  "tractor_data_id": 9135,
+  "name": "Challenger MT595E",
+  "brand": "Challenger (a part of AGCO)",
+  "model": "mt595e",
+  "years": {
+    "desde": 2015,
+    "hasta": 2020
+  },
+  "model_year": 2015,
+  "engine_power_hp": 240,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 200,
+  "pto_tested_hp": 235.9,
+  "drawbar_tested_hp": 169.6,
+  "weight_kg": null,
+  "weight_basis": null,
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 73.5,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 50.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F009/9135/9135-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td9135.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2015 - 2020",
+          "__seccion_2__": "MT500E Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Challenger (a part of AGCO)",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Jackson, Minnesota, USA"
+        },
+        {
+          "7726": "similar Massey Ferguson model",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Challenger MT595E Engine",
+          "__seccion_2__": "AGCO Power 7.4L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Challenger MT595E Transmissions",
+          "__seccion_2__": "24-speed six-speed power shift",
+          "__seccion_3__": "continuously-variable transmission (CVT)",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Challenger MT595E Power",
+          "Engine (gross)": "240 hp 179.0 kW",
+          "Engine (max)": "280 hp 208.8 kW",
+          "PTO (claimed)": "200 hp 149.1 kW",
+          "Drawbar (tested)": "169.6 hp 126.5 kW",
+          "PTO (tested)": "235.9 hp 175.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "electro-hydraulic front and rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning. Auto-Guide 3000"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Challenger MT595E are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "114 gal 431.5 L",
+          "Exhaust fluid (DEF)": "11 gal 41.6 L",
+          "Hydraulic system": "26.4 gal 99.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed-center load sensing",
+          "Capacity": "26.4 gal 99.9 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "4",
+          "SCV flow": "26.4 gpm 99.9 lpm",
+          "Total flow": "29 gpm 109.8 lpm",
+          "&nbsp": "50 gpm * Optional with CVT 189.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/IIIN",
+          "Rear lift (at ends)": "13500 lbs 6123 kg",
+          "&nbsp": "16700 lbs * Lift capacity with CVT transmission. 7575 kg",
+          "Front Hitch": "IIIN Opt Optional",
+          "Front lift (at ends)": "7954 lbs 3607 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/540E/1000",
+          "&nbsp": "540/540E/1000/1000E * With CVT transmission."
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "117 inches 297 cm",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MT500E Series Tractors published in 2015, by AGCO"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 20, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2015 - 2020",
+          "__seccion_2__": "MT500E Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Challenger MT595E Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "117 inches 297 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 20, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2015 - 2020",
+          "__seccion_2__": "MT500E Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "OECD 2938: diesel CVT 4WD",
+          "__seccion_3__": "OECD 2915: diesel AutoPower VI 4WD"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2938"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2938",
+          "__seccion_2__": "Diesel CVT 4WD November 2015 - January 2016, Link: OCED Tractor Test 2938 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "166.2 hp 123.9 kW",
+          "Fuel use": "12.7 gal/hour 48.1 l/hour",
+          "Power at rated engine speed": "215.1 hp 160.4 kW",
+          "Power at rated PTO speed": "235.9 hp 175.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Pull at 7.91KPH",
+          "Max pull": "16520 lbs 7493 kg",
+          "__seccion_6__": "Pull at 2.73KPH"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2915"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2915",
+          "__seccion_2__": "Diesel AutoPower VI 4WD July 2015 - August 2015, Link: OCED Tractor Test 2915 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "169.6 hp 126.5 kW",
+          "Fuel use": "12.3 gal/hour 46.6 l/hour",
+          "Power at rated engine speed": "208.0 hp 155.1 kW",
+          "Power at rated PTO speed": "227.0 hp 169.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 3B used for power test.",
+          "Max pull": "18095 lbs 8207 kg",
+          "__seccion_6__": "Gear 1D used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 20, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2015 - 2020",
+          "__seccion_2__": "MT500E Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "AGCO Power",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "449 ci 7.4 L",
+          "Bore/Stroke": "4.252x5.276 inches 108 x 134 mm",
+          "Emissions": "Tier IV",
+          "Emission control": "selective catalytic reduction (SCR)",
+          "Rated Power (gross)": "240 hp 179.0 kW",
+          "Maximum Power (gross)": "280 hp 208.8 kW",
+          "Air cleaner": "dry element",
+          "Compression": "17.8:1",
+          "Rated RPM": "2100",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 20, 2022"
+        }
+      ]
+    }
+  }
+}

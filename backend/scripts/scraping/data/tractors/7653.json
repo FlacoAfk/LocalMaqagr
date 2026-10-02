@@ -1,0 +1,217 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/6/5/7653-kubota-m110gx.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/6/5/7653-kubota-m110gx-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/6/5/7653-kubota-m110gx-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 7653,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:00:39.249Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7653/7653-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 60 KB"
+  },
+  "tractor_data_id": 7653,
+  "name": "Kubota M110GX",
+  "brand": "Kubota",
+  "model": "M110GX",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 109.5,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 96,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 4180,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 35.2,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 18.4R34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "13.6R24",
+    "radial": true,
+    "width_mm": 345,
+    "rim_in": 24,
+    "diameter_mm_est": 1197,
+    "tipo": "Radial",
+    "texto": "13.6R24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7653/7653-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7653/7653-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td7653.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2012 -",
+          "__seccion_2__": "Grand X Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Original price was $70,010 in 2014"
+        },
+        {
+          "__seccion_1__": "Kubota M110GX Engine",
+          "__seccion_2__": "Kubota 3.8L 4-cyl diesel",
+          "Fuel tank": "50.2 gal 190.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M110GX Transmissions",
+          "__seccion_2__": "24-speed eight-speed power shift",
+          "__seccion_3__": "32-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M110GX Power",
+          "Engine": "109.5 hp 81.7 kW",
+          "PTO (claimed)": "96 hp 71.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "electro-hydraulic front and rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Grand X Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota M110GX photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Valves": "2 to 4",
+          "Pump flow": "18.7 gpm 70.8 lpm",
+          "Steering flow": "16 gpm 60.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "electronic lower-link draft control",
+          "Rear lift (at 24\"/610mm)": "6834 lbs 3099 kg",
+          "&nbsp": "9447 lbs (optional) 4285 kg",
+          "Rear Arms": "telescopic lower link ends"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "95.9 inches 243 cm",
+          "Weight": "9216 lbs 4180 kg",
+          "Front tire": "13.6R24",
+          "Rear tire": "18.4R34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota M110GX attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "M110GX Serial Number Location",
+          "__seccion_2__": "Serial number decal on the right side of the M110GX tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "80",
+          "Battery CCA": "900",
+          "Battery volts": "12",
+          "Battery AH": "100"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 14, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2012 -",
+          "__seccion_2__": "Grand X Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M110GX Tires",
+          "Ag front": "13.6R24",
+          "Ag rear": "18.4R34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "95.9 inches 243 cm",
+          "Length": "165.4 inches 420 cm",
+          "Width": "82.7 inches 210 cm",
+          "Height": "111.8 inches 283 cm",
+          "Weight": "9216 lbs 4180 kg",
+          "Ground clearance": "19.5 inches 49 cm",
+          "Front axle": "4WD",
+          "Front tread": "62.2 to 66.1 inches 157 to 167 cm",
+          "Rear tread": "60.2 to 80.3 inches 152 to 203 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 14, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2012 -",
+          "__seccion_2__": "Grand X Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V3800-TI-CRS",
+          "__seccion_3__": "turbocharged and intercooled diesel",
+          "__seccion_4__": "4-cylinder 16-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "230 ci 3.8 L",
+          "Bore/Stroke": "3.94x4.72 inches 100 x 120 mm",
+          "Emissions": "Interim Tier IV",
+          "Emission control": "exhaust gas recirculation and diesel particulate filter (DPF) (EGR)",
+          "Power": "109.5 hp 81.7 kW",
+          "Fuel system": "common rail direct injection",
+          "Air cleaner": "dual dry element",
+          "Rated RPM": "2600",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 14, 2020"
+        }
+      ]
+    }
+  }
+}

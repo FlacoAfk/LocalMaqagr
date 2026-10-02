@@ -1,0 +1,236 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/4/7/477-ji-case-500.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/4/7/477-ji-case-500-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/4/7/477-ji-case-500-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/4/7/477-ji-case-500-engine.html",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1126/",
+    "source_id": 477,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:04:58.224Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/477/477-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 41 KB",
+    "nebraska_test": 508
+  },
+  "tractor_data_id": 477,
+  "name": "J.I. Case 500",
+  "brand": "J.I. Case",
+  "model": "500",
+  "years": {
+    "desde": 1953,
+    "hasta": 1956
+  },
+  "model_year": 1953,
+  "engine_power_hp": 55,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 55,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 56.32,
+  "weight_kg": 3628,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 33,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 15-30",
+  "tire_width_mm": 381,
+  "tire_diameter_mm": 1410,
+  "tire_front": {
+    "original": "7.50-18",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 18,
+    "diameter_mm_est": 781,
+    "tipo": "Diagonal",
+    "texto": "7.50-18"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/477/477-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/477/477-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td477.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1953 - 1956",
+          "__seccion_2__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Standard-tread tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA",
+          "Total built": "5,985",
+          "__seccion_4__": "Original price was $4,900 in 1958",
+          "__seccion_5__": "The Case 500 was also made in an industrial version, the Case 520. Only 265 were built."
+        },
+        {
+          "520": "industrial tractor",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "J.I. Case 500 Engine",
+          "__seccion_2__": "J.I. Case 6.2L 6-cyl diesel",
+          "Fuel tank": "30 gal 113.6 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 500 Transmission",
+          "__seccion_2__": "4-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 500 Power",
+          "Drawbar (claimed)": "44 hp 32.8 kW",
+          "PTO (claimed)": "55 hp 41.0 kW",
+          "Belt (claimed)": "55 hp 41.0 kW",
+          "Plows": "5",
+          "Drawbar (tested)": "56.32 hp 42.0 kW",
+          "Belt (tested)": "63.81 hp 47.6 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "J.I. Case 500 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center Opt Optional"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "88 inches 223 cm",
+          "Weight": "8000 lbs 3628 kg",
+          "Front tire": "7.50-18",
+          "Rear tire": "15-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1857": "8100001",
+          "1953": "5700001",
+          "1954": "8035001",
+          "1955": "8060001",
+          "1956": "8080001",
+          "__seccion_1__": "500 Serial Numbers",
+          "Location:": "plate on instrument panel",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Belt Pulley",
+          "Diameter": "13 inches 33 cm",
+          "Width": "8.25 inches 20 cm",
+          "RPM": "956",
+          "Speed": "3254 ft/min 991.82 meters/min"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Diesel 500 published in 1953, by J.I. Case"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on June 23, 2026"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1953 - 1956",
+          "__seccion_2__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "J.I. Case 500 Tires",
+          "Ag front": "30 (steel)",
+          "Ag rear": "14-30",
+          "&nbsp": "48 (steel)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "88 inches 223 cm",
+          "Length": "114.3 inches 290 cm",
+          "Height": "61.4 inches 155 cm",
+          "Operating weight": "8000 lbs 3628 kg",
+          "Ballasted weight": "11605 lbs 5264 kg",
+          "Front tread": "62 inches 157 cm",
+          "Rear tread": "60.75 inches 154 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 23, 2026"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1953 - 1956",
+          "__seccion_2__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 508"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 508",
+          "__seccion_2__": "Diesel 4-speed 2WD October 5 - 10, 1953 Link: Nebraska Tractor Test 508 file",
+          "Belt power (max)": "63.81 hp 47.6 kW",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "56.32 hp 42.0 kW",
+          "__seccion_4__": "Gear 3 used for power test.",
+          "Max pull": "7,409 lbs 3360 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 23, 2026"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1953 - 1956",
+          "__seccion_2__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "J.I. Case",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled vertical I-head",
+          "Displacement": "377 ci 6.2 L",
+          "Bore/Stroke": "4.00x5.00 inches 102 x 127 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "15.0:1",
+          "Rated RPM": "1350",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 23, 2026"
+        }
+      ]
+    }
+  }
+}

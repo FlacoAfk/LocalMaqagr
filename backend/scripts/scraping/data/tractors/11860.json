@@ -1,0 +1,224 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/011/8/6/11860-john-deere-2027r.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/011/8/6/11860-john-deere-2027r-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/011/8/6/11860-john-deere-2027r-engine.html",
+    "source_id": 11860,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:13:12.956Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7283/7283-serial-300x250.jpg",
+    "foto_calidad": "webp 960px/q65 → 13 KB"
+  },
+  "tractor_data_id": 11860,
+  "name": "John Deere 2027R",
+  "brand": "John Deere",
+  "model": "2027R",
+  "years": {
+    "desde": 2013,
+    "hasta": 2016
+  },
+  "model_year": 2013,
+  "engine_power_hp": 26.5,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 20.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 879,
+  "weight_basis": "Max front axle",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 7.5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14-17.5",
+  "tire_width_mm": 356,
+  "tire_diameter_mm": 1049,
+  "tire_front": {
+    "original": "23x8.5-12",
+    "radial": false,
+    "width_mm": 216,
+    "rim_in": 12,
+    "diameter_mm_est": 584,
+    "tipo": "Diagonal",
+    "texto": "23x8.5-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F011/11860/11860-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7283/7283-serial-300x250.jpg",
+  "image_url": "/uploads/tractors/td11860.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2013 - 2016",
+          "__seccion_2__": "2R Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Augusta, Georgia, USA"
+        },
+        {
+          "__seccion_1__": "John Deere 2027R Engine",
+          "__seccion_2__": "Yanmar 1.3L 3-cyl diesel",
+          "Fuel tank": "7.1 gal 26.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2027R Transmission",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2027R Power",
+          "Engine (gross)": "26.5 hp 19.8 kW",
+          "PTO (claimed)": "20.5 hp 15.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "spur gear",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 2027R are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at ends)": "1433 lbs 650 kg",
+          "Rear lift (at 24\"/610mm)": "1150 lbs 521 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "Mid PTO": "independent",
+          "Mid PTO Type": "2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "65.2 inches 165 cm",
+          "Weight": "1865 lbs 845 kg",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2027R attachments",
+          "__seccion_2__": "157 cm mid-mount mower deck",
+          "__seccion_3__": "front-end loader",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "2027R Serial Number Location",
+          "__seccion_2__": "Right side of tractor frame, above and behind the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "Battery CCA": "500",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operator's Manual 2025R, 2027R and 2032R Compact Utility Tractors (OMVLU26876) published in 2015"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on March 2, 2026",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2013 - 2016",
+          "__seccion_2__": "2R Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 2027R Tires",
+          "Lawn/turf front": "24x8.5-14",
+          "Lawn/turf rear": "36x14.00-15",
+          "Industrial front": "23x8.5-12",
+          "Industrial rear": "14-17.5"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "65.2 inches 165 cm",
+          "Length": "108.9 inches 276 cm",
+          "Width": "51 inches 129 cm",
+          "Height (hood)": "47 inches 119 cm",
+          "Height (ROPS)": "90 inches 228 cm",
+          "Clearance (front axle)": "13 inches 33 cm",
+          "Clearance (drawbar)": "11 inches 27 cm",
+          "Front tread": "36.3 inches 92 cm",
+          "Rear tread": "37.6 inches 95 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 2027R Weight",
+          "__seccion_2__": "1865 lbs 845 kg",
+          "Max front axle": "1940 lbs 879 kg",
+          "Max rear axle": "2426 lbs 1100 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 2, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2013 - 2016",
+          "__seccion_2__": "2R Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Yanmar 3TNV85A",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "81.2 ci 1.3 L",
+          "Bore/Stroke": "3.23x3.31 inches 82 x 84 mm",
+          "Power (gross)": "26.5 hp 19.8 kW",
+          "Air cleaner": "dual stage dry",
+          "Rated RPM": "2600",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "3.6 qts 3.4 L",
+          "Coolant capacity": "4.2 qts 4.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 2, 2026"
+        }
+      ]
+    }
+  }
+}

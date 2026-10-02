@@ -1,0 +1,258 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/7/4/745-massey-ferguson-154-4.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/7/4/745-massey-ferguson-154-4-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/7/4/745-massey-ferguson-154-4-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/7/4/745-massey-ferguson-154-4-engine.html",
+    "source_id": 745,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:23:01.571Z",
+    "foto_original": "https://www.tractordata.com/photos/F011/11333/11333-serial-300x250.jpg",
+    "foto_calidad": "webp 960px/q65 → 17 KB"
+  },
+  "tractor_data_id": 745,
+  "name": "Massey Ferguson 154-4",
+  "brand": "Landini",
+  "model": "ferguson 154 4",
+  "years": {
+    "desde": 1980,
+    "hasta": 1981
+  },
+  "model_year": 1980,
+  "engine_power_hp": 50,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 42,
+  "pto_tested_hp": 42.52,
+  "drawbar_tested_hp": 35.56,
+  "weight_kg": 2347,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 22.8,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 9.8,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/745/745-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F011/11333/11333-serial-300x250.jpg",
+  "image_url": "/uploads/tractors/td745.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1980 - 1981",
+          "__seccion_2__": "104 Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Landini built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Massey Ferguson",
+          "Manufacturer": "Landini",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Italy",
+          "__seccion_4__": "Original price was $18,700 in 1981"
+        },
+        {
+          "154": "2WD",
+          "__seccion_1__": "Variants",
+          "154-4": "4WD"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 154-4 Engine",
+          "__seccion_2__": "Perkins 2.5L 3-cyl diesel",
+          "Fuel tank": "16 gal 60.6 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 154-4 Transmission",
+          "__seccion_2__": "12-speed partially synchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 154-4 Power",
+          "Engine": "50 hp 37.3 kW",
+          "PTO (claimed)": "42 hp 31.3 kW",
+          "Drawbar (tested)": "35.56 hp 26.5 kW",
+          "PTO (tested)": "42.52 hp 31.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Dry disc brakes",
+          "__seccion_5__": "Open operator station. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 154-4 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "7.4 gpm 28.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position and draft control",
+          "Rear lift (at ends)": "5842 lbs 2649 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "dry disc",
+          "Rear PTO Type": "540 (1.375)",
+          "&nbsp": "1000@1916",
+          "Engine RPM": "540@1944"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "81.1 inches 205 cm",
+          "Weight": "5176 lbs 2347 kg",
+          "Front tire": "9.5/9-20",
+          "Rear tire": "13.6/12-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "154-4 Serial Number Location",
+          "__seccion_2__": "Serial number stamped into the rear of the tractor, above and to the left of the PTO shaft."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operator Instruction Book 154 - 174 - 184 - 194 (3300912M2) *",
+          "__seccion_3__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 17, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1980 - 1981",
+          "__seccion_2__": "104 Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Landini built"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 154-4 Tires",
+          "Standard tires (ag)": "Front: 9.5/9-20. Rear: 13.6/12-28",
+          "Optional tires (ag)": "Front: 8.3/8-24. Rear: 14.9/13-28",
+          "&nbsp": "Front: 8.3/8-24. Rear: 12.4/11-32"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "81.1 inches 205 cm",
+          "Length": "140 inches 355 cm",
+          "Width": "60.6 inches * Minimum width 153 cm",
+          "Operating weight": "5176 lbs 2347 kg",
+          "Ballasted weight": "6920 lbs 3138 kg",
+          "Clearance (front axle)": "12 inches 30 cm",
+          "Front tread": "59.1 inches 150 cm",
+          "Rear tread": "47.2 to 74.8 inches 119 to 189 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 154-4 Height",
+          "Steering wheel": "61.4 inches 155 cm",
+          "Hood": "53.7 inches 136 cm",
+          "ROPS": "87.8 inches 223 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 17, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1980 - 1981",
+          "__seccion_2__": "104 Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Landini built"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1411"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1411",
+          "__seccion_2__": "Diesel 12-speed 4WD October 12 - 19, 1981 Link: Nebraska Tractor Test 1411 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "42.52 hp 31.7 kW",
+          "Fuel use": "2.5 gal/hour 9.5 l/hour",
+          "Power at rated PTO speed": "40.38 hp 30.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "35.56 hp 26.5 kW",
+          "__seccion_5__": "Gear 8 used for power test.",
+          "Max pull": "5138 lbs 2330 kg",
+          "__seccion_6__": "Gear 5 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 17, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1980 - 1981",
+          "__seccion_2__": "104 Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Landini built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins AD3.152",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "152.7 ci 2.5 L",
+          "Bore/Stroke": "3.60x5.00 inches 91 x 127 mm",
+          "Power": "50 hp 37.3 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "oil bath",
+          "Compression": "17.4:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "650-2390",
+          "Torque": "126.6 lb-ft 171.7 Nm",
+          "Torque RPM": "1350",
+          "Firing order": "1-2-3",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Coolant capacity": "11 qts 10.4 L",
+          "Intake valve clearance": "0.012 inches (cold) 0.305 mm",
+          "Exhaust valve clearance": "0.012 inches (cold) 0.305 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 17, 2023"
+        }
+      ]
+    }
+  }
+}

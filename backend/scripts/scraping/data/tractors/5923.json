@@ -1,0 +1,242 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/9/2/5923-ford-1120.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/9/2/5923-ford-1120-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/9/2/5923-ford-1120-engine.html",
+    "source_id": 5923,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:13:36.994Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5923/5923-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 63 KB"
+  },
+  "tractor_data_id": 5923,
+  "name": "Ford 1120",
+  "brand": "Shibaura",
+  "model": "1120",
+  "years": {
+    "desde": 1987,
+    "hasta": 1993
+  },
+  "model_year": 1987,
+  "engine_power_hp": 14.7,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 12.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 648,
+  "weight_basis": "4WD Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 4.6,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 8-16",
+  "tire_width_mm": 203,
+  "tire_diameter_mm": 752,
+  "tire_front": {
+    "original": "5-12",
+    "radial": false,
+    "width_mm": 127,
+    "rim_in": 12,
+    "diameter_mm_est": 521,
+    "tipo": "Diagonal",
+    "texto": "5-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F005/5923/5923-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5923/5923-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td5923.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1987 - 1993",
+          "__seccion_2__": "Twenty Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Ford",
+          "Manufacturer": "Shibaura",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan",
+          "__seccion_4__": "Original price was $9,000 in 1993"
+        },
+        {
+          "__seccion_1__": "Ford 1120 Engine",
+          "__seccion_2__": "Shibaura 0.9L 3-cyl diesel",
+          "Fuel tank": "4.8 gal 18.2 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 1120 Transmissions",
+          "__seccion_2__": "9-speed gear",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 1120 Power",
+          "Engine (gross)": "14.7 hp 11.0 kW",
+          "Engine (net)": "14 hp 10.4 kW",
+          "Gear PTO (claimed)": "12.5 hp 9.3 kW",
+          "Hydro PTO (claimed)": "12 hp 8.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "power * Optional, available with hydrostatic transmission after 1989.",
+          "__seccion_3__": "Expanding shoe brakes",
+          "__seccion_4__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 1120 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "4.7 gpm 17.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at ends)": "1406 lbs 637 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "&nbsp": "live * Optional with hydrostatic transmission",
+          "Rear PTO Type": "540",
+          "Mid PTO": "optional",
+          "Mid PTO Type": "2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "55.3 inches 140 cm",
+          "Weight": "1338 to 1429 pounds",
+          "Front tire": "4.00-12",
+          "2WD Rear tire": "8-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 1120 attachments",
+          "__seccion_2__": "48\" mid-mount mower deck",
+          "__seccion_3__": "snowblower",
+          "__seccion_4__": "blade",
+          "__seccion_5__": "front-end loader",
+          "__seccion_6__": "backhoe",
+          "__seccion_7__": "Attachment details ..."
+        },
+        {
+          "1987": "UB02475",
+          "1988": "UB21281",
+          "1989": "UB21944",
+          "1990": "UB22142",
+          "1991": "UB22329",
+          "1992": "UB22439",
+          "1993": "UB22527",
+          "__seccion_1__": "1120 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Ford Shop Manual by Peter Letourneau",
+          "__seccion_3__": "Mid-Mount Finishing Mower published in 1988, by Ford",
+          "__seccion_4__": "12.5 to 34.5 PTO hp Compact Diesels published in 1987, by Ford",
+          "__seccion_5__": "12.5 to 34.5 PTO hp Compact Diesel Tractors published in 1988, by Ford",
+          "__seccion_6__": "12.5 to 34.5 PTO hp Compact Diesel Tractors published in 1993, by Ford",
+          "__seccion_7__": "Tractor Buyer's Guide published in 1989, by Ford"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 19, 2023",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1987 - 1993",
+          "__seccion_2__": "Twenty Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Ford 1120 Tires",
+          "2WD Standard tires (ag)": "Front: 4.00-12. Rear: 8-16",
+          "4WD Standard tires (ag)": "Front: 5-12. Rear: 8-16",
+          "Lawn/turf front": "20x8.00-10",
+          "Lawn/turf rear": "29x12.00-15"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "55.3 inches 140 cm",
+          "Length": "106.3 inches 270 cm",
+          "Width": "40.9 inches 103 cm",
+          "Height (ROPS)": "80.1 inches 203 cm",
+          "2WD Shipping weight": "1338 lbs 606 kg",
+          "4WD Shipping weight": "1429 lbs 648 kg",
+          "2WD Ground clearance": "10.1 inches 25 cm",
+          "4WD Ground clearance": "9.6 inches 24 cm",
+          "2WD Front tread": "33.6 to 35.4 inches 85 to 89 cm",
+          "4WD Front tread": "32.3 inches 82 cm",
+          "Rear tread": "33.5 to 39.3 inches 85 to 99 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 19, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1987 - 1993",
+          "__seccion_2__": "Twenty Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Shibaura built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Shibaura S723",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "53.6 ci 0.9 L",
+          "Bore/Stroke": "2.83x2.83 inches 72 x 72 mm",
+          "Power (net)": "14 hp 10.4 kW",
+          "Power (gross)": "14.7 hp 11.0 kW",
+          "Compression": "23:1",
+          "Rated RPM": "2500",
+          "Idle RPM": "800-2700",
+          "Firing order": "1-2-3",
+          "Starter volts": "12",
+          "Intake valve clearance": "0.008 inches * Cold 0.203 mm",
+          "Exhaust valve clearance": "0.008 inches * Cold 0.203 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 19, 2023"
+        }
+      ]
+    }
+  }
+}

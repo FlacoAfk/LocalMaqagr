@@ -1,0 +1,260 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/4/47-john-deere-820.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/4/47-john-deere-820-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/4/47-john-deere-820-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/4/47-john-deere-820-engine.html",
+    "source_id": 47,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:34:50.676Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/47/47-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 50 KB",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1091/",
+    "nebraska_test": 632
+  },
+  "tractor_data_id": 47,
+  "name": "John Deere 820",
+  "brand": "John Deere",
+  "model": "820",
+  "years": {
+    "desde": 1956,
+    "hasta": 1958
+  },
+  "model_year": 1956,
+  "engine_power_hp": 67,
+  "engine_power_source": "belt_claimed (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 67.15,
+  "weight_kg": 3560,
+  "weight_basis": "Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 38.5,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 15-34",
+  "tire_width_mm": 381,
+  "tire_diameter_mm": 1511,
+  "tire_front": {
+    "original": "7.50-18",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 18,
+    "diameter_mm_est": 781,
+    "tipo": "Diagonal",
+    "texto": "7.50-18"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/47/47-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/47/47-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td47.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "Two-Cylinder 20 Series",
+          "__seccion_3__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Standard-tread tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "Total built": "7,080",
+          "__seccion_4__": "The early model 820 \"Green Dash\" tractors were little-changed from the previous model 80. in 1957, for the 1958 production year, the improved 820 \"Black Dash\" tractors appeared with a number of modifications and more horsepower."
+        },
+        {
+          "__seccion_1__": "John Deere 820 Engine",
+          "__seccion_2__": "John Deere 7.7L 2-cyl diesel",
+          "Fuel tank": "32.5 gal 123.0 L",
+          "Aux. fuel": "0.25 gal 0.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 820 Transmission",
+          "__seccion_2__": "6-speed unsynchronized gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 820 Power",
+          "Belt (claimed)": "67 hp (Green Dash) 50.0 kW",
+          "&nbsp": "75.6 hp (Black Dash) 56.4 kW",
+          "Plows": "5-6",
+          "Drawbar (tested)": "67.15 hp 50.1 kW",
+          "Belt (tested)": "72.82 hp 54.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Final drives": "bull gear",
+          "Steering": "manual",
+          "&nbsp": "power optional",
+          "__seccion_3__": "Mechanical expanding shoe brakes",
+          "__seccion_4__": "Open operator station. Steel cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 820 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "1"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "85.25 inches 216 cm",
+          "Weight": "7850 to 8600 pounds",
+          "Front tire": "7.50-18",
+          "Rear tire": "15-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "820 Serial Number Location"
+        },
+        {
+          "1956": "8000000 (green-dash)",
+          "1957": "8203100 (black-dash)",
+          "1958": "8203850 (black-dash)",
+          "__seccion_1__": "820 Serial Numbers",
+          "Final": "8207080 (black-dash)",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Belt Pulley",
+          "Diameter": "12.2 inches 30 cm",
+          "Width": "9 inches 22 cm",
+          "RPM": "1125",
+          "Speed": "3600 ft/min 1097.28 meters/min"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive",
+          "Charging system": "generator",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere 20 series Two Cylinder Tractors by Benjamin Hain",
+          "__seccion_3__": "The New 820 Diesel Tractor published in 1956, by John Deere",
+          "__seccion_4__": "The 820 Diesel Tractor published in 1957, by John Deere",
+          "__seccion_5__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_6__": "Facts about horsepower and fuel economy published in 1957, by John Deere",
+          "__seccion_7__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 8, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "Two-Cylinder 20 Series",
+          "__seccion_3__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 820 Tires",
+          "Ag front": "7.50-18",
+          "Ag rear": "14-34",
+          "&nbsp": "18-26"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "85.25 inches 216 cm",
+          "Length": "142.75 inches 362 cm",
+          "Width": "79.5 inches 201 cm",
+          "Height": "81 inches 205 cm",
+          "Front tread": "56.5 to 63 inches 143 to 160 cm",
+          "Rear tread": "64.5/68.5 inches 163/173 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 820 Weight",
+          "Shipping": "7850 lbs 3560 kg",
+          "Operating": "8600 lbs 3900 kg",
+          "Ballasted": "12000 lbs 5443 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 8, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "Two-Cylinder 20 Series",
+          "__seccion_3__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 632"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 632",
+          "__seccion_2__": "Diesel 6-speed 2WD October 14 - 18, 1957 Link: Nebraska Tractor Test 632 file",
+          "Belt power (max)": "72.82 hp 54.3 kW",
+          "Belt fuel use (max)": "4.2 gal/hour 15.9 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "67.15 hp 50.1 kW",
+          "__seccion_4__": "Gear 3 used for power test.",
+          "Max pull": "8,667 lbs 3931 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 8, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "Two-Cylinder 20 Series",
+          "__seccion_3__": "Standard-tread tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "470.7 ci 7.7 L",
+          "Bore/Stroke": "6.125x8.00 inches 156 x 203 mm",
+          "Air cleaner": "oil bath",
+          "Rated RPM": "1125",
+          "Firing order": "1-2",
+          "Starter type": "gasoline pony motor",
+          "Coolant capacity": "8 qts 7.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 8, 2025"
+        }
+      ]
+    }
+  }
+}

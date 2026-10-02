@@ -1,0 +1,192 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/2/7/10270-john-deere-100f.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/2/7/10270-john-deere-100f-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/2/7/10270-john-deere-100f-engine.html",
+    "source_id": 10270,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:07:37.745Z"
+  },
+  "tractor_data_id": 10270,
+  "name": "John Deere 100F",
+  "brand": "Goldini",
+  "model": "deere 100f",
+  "years": {
+    "desde": 2009,
+    "hasta": 2015
+  },
+  "model_year": 2009,
+  "engine_power_hp": 97,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2370,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 35.6,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 420/70-24",
+  "tire_width_mm": 420,
+  "tire_diameter_mm": 1198,
+  "tire_front": {
+    "original": "380/70-24",
+    "radial": false,
+    "width_mm": 380,
+    "rim_in": 24,
+    "diameter_mm_est": 1142,
+    "tipo": "Diagonal",
+    "texto": "380/70-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": null,
+  "photo_url_large": null,
+  "image_url": null,
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2009 - 2015",
+          "__seccion_2__": "Milenio F Series",
+          "__seccion_3__": "Orchard/Vineyard tractor",
+          "__seccion_4__": "Goldini built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "John Deere",
+          "Manufacturer": "Goldini",
+          "__seccion_2__": "Orchard/Vineyard tractor",
+          "__seccion_3__": "Built in Italy"
+        },
+        {
+          "__seccion_1__": "John Deere 100F Engine",
+          "__seccion_2__": "VM Motori 3.0L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 100F Transmissions",
+          "__seccion_2__": "16-speed",
+          "__seccion_3__": "8-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 100F Power",
+          "Engine (gross)": "97 hp 72.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Disc brakes",
+          "__seccion_5__": "Two-post mid-mount folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 100F are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "10.6 gpm 40.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift (at ends)": "5512 lbs 2500 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540/540E"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "77.2 inches 196 cm",
+          "Weight": "5225 lbs 2370 kg",
+          "Front tire": "380/70-24",
+          "Rear tire": "420/70-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Serie Milenio published in 2010, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 17, 2019",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2009 - 2015",
+          "__seccion_2__": "Milenio F Series",
+          "__seccion_3__": "Orchard/Vineyard tractor",
+          "__seccion_4__": "Goldini built"
+        },
+        {
+          "__seccion_1__": "John Deere 100F Tires",
+          "Standard tires (ag)": "Front: 380/70-24. Rear: 420/70-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "77.2 inches 196 cm",
+          "Length": "146.7 inches 372 cm",
+          "Height": "89 inches 226 cm",
+          "Weight": "5225 lbs 2370 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 17, 2019"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2009 - 2015",
+          "__seccion_2__": "Milenio F Series",
+          "__seccion_3__": "Orchard/Vineyard tractor",
+          "__seccion_4__": "Goldini built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "VM Motori",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "181.2 ci 3.0 L",
+          "Rated Power (gross)": "97 hp 72.3 kW",
+          "Rated RPM": "2600",
+          "Torque": "245.6 lb-ft 333.0 Nm",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 17, 2019"
+        }
+      ]
+    }
+  }
+}

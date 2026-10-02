@@ -1,0 +1,191 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/7/5/1758-zetor-5545.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/7/5/1758-zetor-5545-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/7/5/1758-zetor-5545-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1758,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:49:46.821Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1758/1758-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 54 KB"
+  },
+  "tractor_data_id": 1758,
+  "name": "Zetor 5545",
+  "brand": "Zetor",
+  "model": "5545",
+  "years": {
+    "desde": 1968,
+    "hasta": 1972
+  },
+  "model_year": 1968,
+  "engine_power_hp": 56,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 53.9,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2550,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 19.8,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 13-28",
+  "tire_width_mm": 330,
+  "tire_diameter_mm": 1273,
+  "tire_front": {
+    "original": "8-24",
+    "radial": false,
+    "width_mm": 203,
+    "rim_in": 24,
+    "diameter_mm_est": 955,
+    "tipo": "Diagonal",
+    "texto": "8-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1758/1758-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1758/1758-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1758.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1968 - 1972"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Zetor",
+          "__seccion_2__": "Built in Brno, Czechoslovakia"
+        },
+        {
+          "5511": "2WD open",
+          "5545": "4WD open",
+          "5611": "2WD cab",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Zetor 5545 Engine",
+          "__seccion_2__": "Zetor 3.1L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 5545 Transmission",
+          "__seccion_2__": "10-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 5545 Power",
+          "Engine": "56 hp 41.8 kW",
+          "Drawbar (claimed)": "48 hp 35.8 kW",
+          "PTO (claimed)": "53.9 hp 40.2 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "spur gear",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Hydraulic drum brakes",
+          "__seccion_5__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Zetor 5545 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2134 psi 147.1 bar",
+          "Valves": "1"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position and draft control",
+          "Rear lift (at ends)": "3080 lbs 1397 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "89 inches 226 cm",
+          "Weight": "5622 lbs 2550 kg",
+          "Front tire": "8-24",
+          "Rear tire": "13-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "5511 - 5545 - 5611 published by Zetor *",
+          "__seccion_3__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 22, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1968 - 1972"
+        },
+        {
+          "__seccion_1__": "Zetor 5545 Tires",
+          "Ag front": "8-24",
+          "Ag rear": "13-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "89 inches 226 cm",
+          "Weight": "5622 lbs 2550 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 22, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1968 - 1972"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Zetor",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "Displacement": "190.4 ci 3.1 L",
+          "Bore/Stroke": "3.74x4.33 inches 95 x 110 mm",
+          "Power": "56 hp 41.8 kW",
+          "Fuel system": "direct injection",
+          "Compression": "17.9:1",
+          "Rated RPM": "2200",
+          "Torque": "132.4 lb-ft 179.5 Nm",
+          "Torque RPM": "1470"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 22, 2022"
+        }
+      ]
+    }
+  }
+}

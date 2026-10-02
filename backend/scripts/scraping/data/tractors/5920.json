@@ -1,0 +1,254 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/9/2/5920-john-deere-8295rt.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/9/2/5920-john-deere-8295rt-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/9/2/5920-john-deere-8295rt-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/9/2/5920-john-deere-8295rt-engine.html",
+    "source_id": 5920,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:48:51.242Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5920/5920-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 5920,
+  "name": "John Deere 8295RT",
+  "brand": "John Deere",
+  "model": "8295RT",
+  "years": {
+    "desde": 2009,
+    "hasta": 2010
+  },
+  "model_year": 2009,
+  "engine_power_hp": 295,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 235,
+  "pto_tested_hp": 279.14,
+  "drawbar_tested_hp": 212.62,
+  "weight_kg": 15631,
+  "weight_basis": "Shipping weight",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 145.9,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 56.8,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5920/5920-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td5920.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2009 - 2010",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Agricultural Crawler tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "8295R": "wheeled tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8295RT Engine",
+          "__seccion_2__": "John Deere 9.0L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8295RT Transmission",
+          "__seccion_2__": "16-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8295RT Power",
+          "Engine (gross)": "295 hp 220.0 kW",
+          "Engine (net)": "284 hp 211.8 kW",
+          "Engine (max)": "322 hp 240.1 kW",
+          "PTO (claimed)": "235 hp 175.2 kW",
+          "Drawbar (tested)": "212.62 hp 158.6 kW",
+          "PTO (tested)": "279.14 hp 208.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "crawler",
+          "Steering": "electro-hydraulic power",
+          "__seccion_2__": "Hydraulic wet disc brakes",
+          "__seccion_3__": "CommandView cab standard with heat and air-conditioning. Optional automatic temperature control, mirros, and front/rear windshield wipers."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 8295RT are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "200 gal 757.0 L",
+          "Hydraulic system": "68.3 gal 258.5 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure-flow compensated",
+          "Capacity": "68.3 gal 258.5 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "3 to 5",
+          "Pump flow": "35 gpm 132.5 lpm",
+          "Total flow": "44 gpm 166.5 lpm",
+          "&nbsp": "60 gpm (optional) 227.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/IIIN",
+          "&nbsp": "19,300 lbs (optional) 8754 kg",
+          "Rear lift (at 24\"/610mm)": "16,800 lbs 7620 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000 (1-3/4)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tracks",
+          "Wheelbase": "99 inches 251 cm",
+          "Weight": "34,460 lbs 15631 kg",
+          "__seccion_2__": "25-inch tracks",
+          "__seccion_3__": "Full dimensions and tracks ..."
+        },
+        {
+          "__seccion_1__": "8295RT Serial Numbers",
+          "Location:": "Right side of tractor."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "200",
+          "Batteries": "2",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "8R/8RT Series published in 2009, by John Deere",
+          "__seccion_3__": "8R/8RT Series - Top 10 Feature & Benefits, plus Tractor Optimization Tips published in 2009, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 27, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2009 - 2010",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8295RT Tracks",
+          "Width": "30 inches 76 cm"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "99 inches 251 cm",
+          "Length": "223.5 inches 567 cm",
+          "Width": "150 inches 381 cm",
+          "Height (cab)": "130.8 inches 332 cm",
+          "Shipping weight": "34,460 lbs 15631 kg",
+          "Clearance (rear axle)": "24.5 inches 62 cm",
+          "Clearance (drawbar)": "14.6 inches 37 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 27, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2009 - 2010",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1970"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1970",
+          "__seccion_2__": "Diesel 16-speed crawler April 28 - May 12, 2010 Link: OCED Tractor Test 1970 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "212.62 hp 158.6 kW",
+          "Fuel use": "13.4 gal/hour 50.7 l/hour",
+          "Power at rated engine speed": "242.81 hp 181.1 kW",
+          "Power at rated PTO speed": "267.29 hp 199.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 8 used for power test.",
+          "Max pull": "32,799 lbs 14877 kg",
+          "__seccion_6__": "Gear 3 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 27, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2009 - 2010",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged aftercooled diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "548 ci 9.0 L",
+          "Bore/Stroke": "4.661x5.354 inches 118 x 136 mm",
+          "Emissions": "Tier 3",
+          "&nbsp": "Stage IIIA",
+          "Rated Power (net)": "284 hp 211.8 kW",
+          "Rated Power (gross)": "295 hp 220.0 kW",
+          "Maximum Power (gross)": "322 hp 240.1 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "16.3:1",
+          "Rated RPM": "2100",
+          "Operating RPM": "1500-2100",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Coolant capacity": "42.3 qts 40.0 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "27 qts 25.6 L",
+          "Oil change": "250 h",
+          "&nbsp": "375 h (JD Plus-50 II oil)"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 27, 2022"
+        }
+      ]
+    }
+  }
+}

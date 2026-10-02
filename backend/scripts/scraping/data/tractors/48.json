@@ -1,0 +1,249 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/4/48-john-deere-330.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/4/48-john-deere-330-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/4/48-john-deere-330-engine.html",
+    "source_id": 48,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:34:51.424Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/48/48-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 58 KB"
+  },
+  "tractor_data_id": 48,
+  "name": "John Deere 330",
+  "brand": "John Deere",
+  "model": "330",
+  "years": {
+    "desde": 1958,
+    "hasta": 1960
+  },
+  "model_year": 1958,
+  "engine_power_hp": 21.5,
+  "engine_power_source": "belt_claimed (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1202,
+  "weight_basis": "330S Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 7.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 9-24",
+  "tire_width_mm": 229,
+  "tire_diameter_mm": 998,
+  "tire_front": {
+    "original": "5.00x15",
+    "radial": false,
+    "width_mm": 127,
+    "rim_in": 15,
+    "diameter_mm_est": 597,
+    "tipo": "Diagonal",
+    "texto": "5.00x15"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/48/48-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/48/48-photo-001.jpg",
+  "image_url": "/uploads/tractors/td48.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1958 - 1960",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Dubuque, Iowa, USA",
+          "Total built": "1,091",
+          "330U Total built": "247",
+          "330S Total built": "844",
+          "__seccion_4__": "Original price was $2,200 in 1960"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "330S": "Standard",
+          "330U": "Utility"
+        },
+        {
+          "__seccion_1__": "John Deere 330 Engine",
+          "__seccion_2__": "John Deere 1.6L 2-cyl gasoline",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 330 Transmission",
+          "__seccion_2__": "4-speed unsynchronized gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 330 Power",
+          "Belt (claimed)": "21.5 hp 16.0 kW",
+          "Plows": "2 (12-inch)"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Differential mechanical disc brakes",
+          "__seccion_5__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 330 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "10.5 gal 39.7 L",
+          "Hydraulic system": "1.1 gal 4.2 L",
+          "&nbsp": "1.4 gal (dual) 5.3 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "Touch-O-Matic",
+          "Capacity": "1.1 gal 4.2 L",
+          "&nbsp": "1.4 gal (dual) 5.3 L",
+          "Valves": "1 or 2"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "Load-and-Depth control"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Rear PTO Type": "550"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "330S Wheelbase": "70 inches 177 cm",
+          "330U Wheelbase": "77.75 inches 197 cm",
+          "Weight": "2650 to 2750 pounds",
+          "Front tire": "5.00x15",
+          "Rear tire": "9-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "330 Serial Number Location",
+          "__seccion_2__": "Serial number tag on the left side of the 330, just behind the clutch housing."
+        },
+        {
+          "1958": "330001",
+          "1959": "330171",
+          "1960": "330935",
+          "__seccion_1__": "330 Serial Numbers",
+          "Final": "331091",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Belt Pulley",
+          "Diameter": "9 inches 22 cm",
+          "Width": "6 inches 15 cm",
+          "RPM": "1,246",
+          "Speed": "2,955 ft/min 900.68 meters/min"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive",
+          "Charging system": "generator",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere 30 Series by J.R. Hobbs",
+          "__seccion_3__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_4__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 20, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1958 - 1960",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 330 Tires",
+          "Ag front": "5.00x15",
+          "Ag rear": "9-24",
+          "&nbsp": "10-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "330S Wheelbase": "70 inches 177 cm",
+          "330U Wheelbase": "77.75 inches 197 cm",
+          "330S Length": "115.75 inches 294 cm",
+          "330U Length": "119.25 inches 302 cm",
+          "330S Width": "53.5 inches 135 cm",
+          "330U Width": "55.5 inches 140 cm",
+          "330S Shipping weight": "2,650 lbs 1202 kg",
+          "330U Shipping weight": "2,750 lbs 1247 kg",
+          "330S Ground clearance": "21 inches 53 cm",
+          "330U Ground clearance": "11 inches 27 cm",
+          "330S Front tread": "40.1 to 55 inches 101 to 139 cm",
+          "330U Front tread": "43 to 55 inches 109 to 139 cm",
+          "330S Rear tread": "38.75 to 54.25 inches 98 to 137 cm",
+          "330U Rear tread": "40.9 to 56.4 inches 103 to 143 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 330 Height",
+          "330S Hood": "55.5 inches 140 cm",
+          "330U Hood": "50.25 inches 127 cm",
+          "330S Exhaust": "73.4 inches 186 cm",
+          "330U Exhaust": "68.1 inches 172 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 20, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1958 - 1960",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "2-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "100.5 ci 1.6 L",
+          "Bore/Stroke": "4.00x4.00 inches 102 x 102 mm",
+          "Fuel system": "Marvel-Schebler TSX-245 carburetor",
+          "Compression": "6.5:1",
+          "Rated RPM": "1650",
+          "Firing order": "1-2",
+          "Starter volts": "6",
+          "Oil capacity": "5 qts 4.7 L",
+          "Coolant capacity": "14 qts 13.2 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 20, 2025"
+        }
+      ]
+    }
+  }
+}

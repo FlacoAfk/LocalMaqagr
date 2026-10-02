@@ -1,0 +1,270 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/1/5/1154-caseih-685.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/1/5/1154-caseih-685-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/1/5/1154-caseih-685-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/1/5/1154-caseih-685-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1154,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:34:08.466Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1154/1154-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 73 KB"
+  },
+  "tractor_data_id": 1154,
+  "name": "CaseIH 685",
+  "brand": "CaseIH",
+  "model": "685",
+  "years": {
+    "desde": 1985,
+    "hasta": 1990
+  },
+  "model_year": 1985,
+  "engine_power_hp": 68.1,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 63.3,
+  "pto_tested_hp": 61.02,
+  "drawbar_tested_hp": 52.9,
+  "weight_kg": 4012,
+  "weight_basis": "Ballasted",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 32.1,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 16.9-30",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1492,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": 15.9,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1154/1154-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1154/1154-photo-001.jpg",
+  "image_url": "/uploads/tractors/td1154.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1985 - 1990",
+          "__seccion_2__": "85 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Doncaster, England",
+          "__seccion_4__": "Original price was $22,300 in 1990"
+        },
+        {
+          "685": "utility",
+          "__seccion_1__": "Variants",
+          "685-O": "orchard"
+        },
+        {
+          "__seccion_1__": "CaseIH 685 Engine",
+          "__seccion_2__": "CaseIH 3.9L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 685 Transmissions",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "16-speed two-speed power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 685 Power",
+          "Engine": "68.1 hp 50.8 kW",
+          "PTO (claimed)": "63.3 hp (max) 47.2 kW",
+          "&nbsp": "61.7 hp (1000) 46.0 kW",
+          "Drawbar (tested)": "52.90 hp 39.4 kW",
+          "PTO (tested)": "61.02 hp 45.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH 685 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "20 gal 75.7 L",
+          "Hydraulic system": "9 gal 34.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "9 gal 34.1 L",
+          "Pressure": "2500 psi 172.4 bar",
+          "Valves": "1 or 2",
+          "Pump flow": "15.8 gpm 59.8 lpm",
+          "&nbsp": "18.6 gpm Opt Optional 70.4 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift (at 24\"/610mm)": "3260 lbs 1478 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@2140",
+          "&nbsp": "1000@2190"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "88 inches 223 cm",
+          "4WD Wheelbase": "85.2 inches 216 cm",
+          "Weight": "5660 lbs 2567 kg",
+          "Front tire": "7.50-16",
+          "Rear tire": "16.9-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1985": "15000",
+          "1986": "18000",
+          "1987": "19558",
+          "1988": "23107",
+          "1989": "26391",
+          "1990": "29371",
+          "__seccion_1__": "685 Serial Numbers",
+          "Location:": "Serial number plate on the tractors front-right axle support.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "45"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "85 Series published in 1985, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 30, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1985 - 1990",
+          "__seccion_2__": "85 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH 685 Tires",
+          "Ag front": "7.50-16",
+          "Ag rear": "16.9-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "88 inches 223 cm",
+          "4WD Wheelbase": "85.2 inches 216 cm",
+          "Length": "141.6 inches 359 cm",
+          "Width": "64 inches * Minimum widht. 162 cm",
+          "2WD Height": "93.5 inches 237 cm",
+          "4WD Height": "96.5 inches 245 cm",
+          "Ground clearance": "11.8 inches 29 cm",
+          "2WD Front tread": "52 to 77 inches 132 to 195 cm",
+          "4WD Front tread": "63 to 78 inches 160 to 198 cm",
+          "Rear tread": "56 to 76 inches 142 to 193 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH 685 Weight",
+          "2WD Operating": "5660 lbs 2567 kg",
+          "Ballasted": "8845 lbs 4012 kg",
+          "Max capacity": "10150 lbs 4604 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 30, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1985 - 1990",
+          "__seccion_2__": "85 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1604"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1604",
+          "__seccion_2__": "Diesel 16-speed 2WD October 7 - 14, 1986 Link: Nebraska Tractor Test 1604 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "61.02 hp 45.5 kW",
+          "Fuel use": "4.2 gal/hour 15.9 l/hour",
+          "Power at rated PTO speed": "58.80 hp 43.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "52.90 hp 39.4 kW",
+          "__seccion_5__": "Gear 1HDD used for power test.",
+          "Max pull": "7207 lbs 3269 kg",
+          "__seccion_6__": "Gear 2LDD used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 30, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1985 - 1990",
+          "__seccion_2__": "85 Utility Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CaseIH D-239",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "238.8 ci 3.9 L",
+          "Bore/Stroke": "3.875x5.06 inches 98 x 129 mm",
+          "Power": "68.1 hp 50.8 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "16:1",
+          "Rated RPM": "2400",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 30, 2025"
+        }
+      ]
+    }
+  }
+}

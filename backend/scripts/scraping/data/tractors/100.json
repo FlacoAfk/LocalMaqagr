@@ -1,0 +1,297 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/0/100-john-deere-950.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/0/100-john-deere-950-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/1/0/100-john-deere-950-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/0/100-john-deere-950-engine.html",
+    "source_id": 100,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:47:43.841Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/100/100-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 103 KB"
+  },
+  "tractor_data_id": 100,
+  "name": "John Deere 950",
+  "brand": "Yanmar",
+  "model": "deere 950",
+  "years": {
+    "desde": 1978,
+    "hasta": 1989
+  },
+  "model_year": 1978,
+  "engine_power_hp": 31,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 27,
+  "pto_tested_hp": 27.36,
+  "drawbar_tested_hp": 22.12,
+  "weight_kg": 1360,
+  "weight_basis": "4WD Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 13.6,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 12.4-28",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1247,
+  "tire_front": null,
+  "fuel_consumption_lph": 6.8,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/100/100-td3a.jpg",
+  "image_url": "/uploads/tractors/td100.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1978 - 1989",
+          "__seccion_2__": "50 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "John Deere",
+          "Manufacturer": "Yanmar",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan",
+          "Original price": "$8,670 (1983 )",
+          "__seccion_4__": "$12,000 (1988 )"
+        },
+        {
+          "__seccion_1__": "John Deere 950 Engine",
+          "__seccion_2__": "Yanmar 1.7L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 950 Transmission",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 950 Power",
+          "Engine (gross)": "31 hp 23.1 kW",
+          "Drawbar (claimed)": "23 hp 17.2 kW",
+          "PTO (claimed)": "27 hp 20.1 kW",
+          "Drawbar (tested)": "22.12 hp 16.5 kW",
+          "PTO (tested)": "27.36 hp 20.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "manual",
+          "&nbsp": "power Opt Optional",
+          "__seccion_3__": "Differential mechanical expanding shoe brakes",
+          "__seccion_4__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 950 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "8.5 gal 32.2 L",
+          "Hydraulic system": "4.75 gal * Early 18.0 L",
+          "&nbsp": "5.25 gal * After 1984. 19.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "4.75 gal * Early 18.0 L",
+          "&nbsp": "5.25 gal * After 1984. 19.9 L",
+          "Pressure": "2030 psi 140.0 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission * Early models of the John Deere 950.",
+          "&nbsp": "live two-stage clutch * Tractors built after 1984, serial number 20001.",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "68.9 inches 175 cm",
+          "Weight": "2700 to 3000 pounds",
+          "Front tire": "5.00-15",
+          "Rear tire": "11.2-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 950 attachments",
+          "__seccion_2__": "72\" mid-mount mower deck",
+          "__seccion_3__": "snowblower",
+          "__seccion_4__": "blade",
+          "__seccion_5__": "front-end loader",
+          "__seccion_6__": "backhoe",
+          "__seccion_7__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "950 Serial Number Location",
+          "__seccion_2__": "Serial number plate on rear of tractor, below PTO shaft."
+        },
+        {
+          "1978": "1024",
+          "1979": "5229",
+          "1980": "10453",
+          "1981": "14893",
+          "1982": "16204",
+          "1983": "18204",
+          "1984": "20007",
+          "1985": "23001",
+          "1986": "26001",
+          "1987": "28501",
+          "1988": "30082",
+          "__seccion_1__": "950 Serial Numbers",
+          "Final": "31853",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "25",
+          "Battery CCA": "570",
+          "Battery volts": "12",
+          "Battery Group": "BCI 30H"
+        },
+        {
+          "__seccion_1__": "Questions",
+          "__seccion_2__": "I don't know what fluid goes in the front wheel axle. The front axle takes 9 US quarts of GL-5 gear lubricant.",
+          "__seccion_3__": "Email: Peter@TractorData.com"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Introducing the John Deere lawn and garden line for 1979",
+          "__seccion_3__": "Consumer Products Price List published in 1983, by John Deere",
+          "__seccion_4__": "Grounds Care Equipment Purchasing Guide published in 1983, by John Deere",
+          "__seccion_5__": "Compact Utility/Utility Tractors Product Information Handbook published in 1983, by John Deere",
+          "__seccion_6__": "Operator's Manual 850, 950 and 1050 Tractors (OMRW19870) published in 1984",
+          "__seccion_7__": "John Deere 850 and 950 tractors published in 1978",
+          "__seccion_8__": "Operator's Manual 850 and 950 Tractors (OMR68993) published in 1978",
+          "__seccion_9__": "John Deere tractors 22 to 50 HP published in 1980",
+          "__seccion_10__": "Compact Utility Diesel Tractors 14.5 to 40 PTO hp published in 1982, by John Deere",
+          "__seccion_11__": "Diesel Tractors 14.5 to 60 PTO hp published in 1984, by John Deere",
+          "__seccion_12__": "Mechanical Front-Wheel Drive published in 1984, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 20, 2024",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1978 - 1989",
+          "__seccion_2__": "50 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "John Deere 950 Tires",
+          "Ag front": "5.00-15",
+          "Ag rear": "11.2-24",
+          "&nbsp": "12.4-28",
+          "Lawn/turf front": "27/8.5-15",
+          "Lawn/turf rear": "13.6-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "68.9 inches 175 cm",
+          "Length": "122 inches 309 cm",
+          "Width": "53.3 inches * Minimum 135 cm",
+          "Height (hood)": "53.1 inches 134 cm",
+          "Ground clearance": "15.3 inches 38 cm",
+          "Front tread": "44.9 to 56.7 inches 114 to 144 cm",
+          "Rear tread": "45.3 to 59.1 inches 115 to 150 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 950 Weight",
+          "4WD Shipping": "3000 lbs 1360 kg",
+          "2WD Operating": "2700 lbs 1224 kg",
+          "Ballasted": "3615 lbs 1639 kg",
+          "Max Drawbar": "825 lbs 374 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 20, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1978 - 1989",
+          "__seccion_2__": "50 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1281"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1281",
+          "__seccion_2__": "Diesel 8-speed 2WD June 12 - 16, 1978 Link: Nebraska Tractor Test 1281 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "27.36 hp 20.4 kW",
+          "Fuel use": "1.8 gal/hour 6.8 l/hour",
+          "Power at rated PTO speed": "28.05 hp 20.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "22.12 hp 16.5 kW",
+          "__seccion_5__": "Gear 6 used for power test.",
+          "Max pull": "3,056 lbs 1386 kg",
+          "__seccion_6__": "Gear 4 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 20, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1978 - 1989",
+          "__seccion_2__": "50 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Yanmar 3T90-J",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "105 ci 1.7 L",
+          "Bore/Stroke": "3.54x3.54 inches 90 x 90 mm",
+          "Power (gross)": "31 hp 23.1 kW",
+          "Air cleaner": "paper element",
+          "Compression": "20.4:1",
+          "Rated RPM": "2400",
+          "Starter volts": "12",
+          "Coolant capacity": "6.5 qts 6.2 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 20, 2024"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/100/100-td4-b01-ext045.jpg"
+}

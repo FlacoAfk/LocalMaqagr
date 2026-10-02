@@ -1,0 +1,213 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/8/3/8836-ford-4630.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/8/3/8836-ford-4630-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/8/3/8836-ford-4630-engine.html",
+    "source_id": 8836,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:16:43.590Z"
+  },
+  "tractor_data_id": 8836,
+  "name": "Ford 4630",
+  "brand": "Ford (a part of New Holland)",
+  "model": "4630",
+  "years": {
+    "desde": 1992,
+    "hasta": 1997
+  },
+  "model_year": 1992,
+  "engine_power_hp": 63,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 55,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2676,
+  "weight_basis": "4WD Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 20.2,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4x30",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1557,
+  "tire_front": {
+    "original": "12.4x24",
+    "radial": false,
+    "width_mm": 315,
+    "rim_in": 24,
+    "diameter_mm_est": 1145,
+    "tipo": "Diagonal",
+    "texto": "12.4x24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": null,
+  "photo_url_large": null,
+  "image_url": null,
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "30 Superforça Series"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford (a part of New Holland)",
+          "__seccion_2__": "Built in Curitiba, Brazil"
+        },
+        {
+          "__seccion_1__": "Ford 4630 Engine",
+          "__seccion_2__": "Ford 3.3L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 4630 Transmission",
+          "__seccion_2__": "8-speed constant mesh",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 4630 Power",
+          "Engine": "63 hp 47.0 kW",
+          "PTO (claimed)": "55 hp 41.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Mechanical wet disc brakes",
+          "__seccion_5__": "Two-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Ford 4630 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "16 gal 60.6 L",
+          "Hydraulic system": "12 gal 45.4 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "12 gal 45.4 L",
+          "Pressure": "2503 psi 172.6 bar",
+          "Pump flow": "8.5 gpm 32.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position and draft control",
+          "Rear lift (at 24\"/610mm)": "3638 lbs 1650 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "hydraulic",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@1800"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "84.7 inches 215 cm",
+          "4WD Wheelbase": "84.1 inches 213 cm",
+          "Weight": "4888 to 5900 pounds",
+          "Front tire": "6.00x16",
+          "2WD Rear tire": "14.9/13x28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "55",
+          "Battery volts": "12",
+          "Battery AH": "100"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 29, 2016",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "30 Superforça Series"
+        },
+        {
+          "__seccion_1__": "Ford 4630 Tires",
+          "2WD Standard tires (ag)": "Front: 6.00x16. Rear: 14.9/13x28",
+          "4WD Standard tires (ag)": "Front: 12.4x24. Rear: 18.4x30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "84.7 inches 215 cm",
+          "4WD Wheelbase": "84.1 inches 213 cm",
+          "2WD Length": "152.2 inches 386 cm",
+          "4WD Length": "145.2 inches 368 cm",
+          "2WD Width": "67.5 inches 171 cm",
+          "4WD Width": "76.9 inches 195 cm",
+          "2WD Shipping weight": "4888 lbs 2217 kg",
+          "4WD Shipping weight": "5900 lbs 2676 kg",
+          "2WD Clearance (front axle)": "20.3 inches 51 cm",
+          "4WD Clearance (front axle)": "15.4 inches 39 cm",
+          "2WD Clearance (rear axle)": "18.7 inches 47 cm",
+          "4WD Clearance (rear axle)": "14.5 inches 36 cm",
+          "2WD Front tread": "52 to 80 inches 132 to 203 cm",
+          "4WD Front tread": "64.8 to 72.4 inches 164 to 183 cm",
+          "Rear tread": "60 to 80 inches 152 to 203 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 29, 2016"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1992 - 1997",
+          "__seccion_2__": "30 Superforça Series"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford OHV 3.201",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "201 ci 3.3 L",
+          "Bore/Stroke": "4.4x4.4 inches 112 x 112 mm",
+          "Power": "63 hp 47.0 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dual stage dry",
+          "Compression": "16.3:1",
+          "Rated RPM": "2200",
+          "Torque": "159.1 lb-ft 215.7 Nm",
+          "Torque RPM": "1400",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "7 qts 6.6 L",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 29, 2016"
+        }
+      ]
+    }
+  }
+}

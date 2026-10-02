@@ -1,0 +1,273 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/4/4/7440-massey-ferguson-7616.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/4/4/7440-massey-ferguson-7616-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/007/4/4/7440-massey-ferguson-7616-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/4/4/7440-massey-ferguson-7616-engine.html",
+    "source_id": 7440,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:42:44.746Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7440/7440-td4-b01-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 71 KB"
+  },
+  "tractor_data_id": 7440,
+  "name": "Massey Ferguson 7616",
+  "brand": "Massey Ferguson (a part of AGCO)",
+  "model": "ferguson 7616",
+  "years": {
+    "desde": 2013,
+    "hasta": 2014
+  },
+  "model_year": 2013,
+  "engine_power_hp": 150,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": 120,
+  "pto_tested_hp": 144.4,
+  "drawbar_tested_hp": 107.3,
+  "weight_kg": 6831,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 67.3,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 31.8,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7440/7440-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7440/7440-td4-b01-ext090.jpg",
+  "image_url": "/uploads/tractors/td7440.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2013 - 2014",
+          "__seccion_2__": "7600 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson (a part of AGCO)",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Beauvais, France"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 7616 Engine",
+          "__seccion_2__": "Sisu 6.6L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 7616 Transmission",
+          "__seccion_2__": "24-speed six-speed power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 7616 Power",
+          "Engine (net)": "150 hp 111.9 kW",
+          "PTO (claimed)": "120 hp 89.5 kW",
+          "Drawbar (tested)": "107.3 hp 80.0 kW",
+          "PTO (tested)": "144.4 hp 107.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "electro-hydraulic standard",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic (optional)",
+          "&nbsp": "pneumatic (optional)",
+          "__seccion_5__": "Cab standard. Optional hydraulic OptiRide cab suspension. AGCOCOMMAND (optional); Auto-Guide 3000 (optional)"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 7616 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "82 gal 310.4 L",
+          "Exhaust fluid (DEF)": "8 gal 30.3 L",
+          "Hydraulic system": "26.4 gal 99.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed-center load sensing (CCLS)",
+          "&nbsp": "4 (electric)",
+          "Capacity": "26.4 gal 99.9 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "3 (mechanical)",
+          "SCV flow": "24.3 gpm 92.0 lpm",
+          "Total flow": "29 gpm 109.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Control": "electronic lower link draft sensing",
+          "Rear lift (at ends)": "9800 lbs (Dyna-6) 4445 kg",
+          "&nbsp": "11500 lbs (Dyna-VT) 5216 kg",
+          "Front Hitch": "optional",
+          "Drawbar": "Cat. II with drop pin"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "&nbsp": "1000E@1572",
+          "Engine RPM": "540@1890"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "113.1 inches 287 cm",
+          "Weight": "15060 lbs 6831 kg",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "&nbsp": "240 (dual 120 option)",
+          "Batteries": "2",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "7600 Series published in 2013, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 15, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2013 - 2014",
+          "__seccion_2__": "7600 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 7616 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "113.1 inches 287 cm",
+          "Length": "192.8 inches 489 cm",
+          "Height (cab)": "117.4 inches 298 cm",
+          "&nbsp": "120.7 inches (AutoGuide) 306 cm",
+          "Front axle": "QuadLink Suspended 4WD",
+          "Flange rear axle": "72.24 inch length 1834 mm",
+          "Bar rear axle": "89.65 inch length 2277 mm (Dyna-VT)",
+          "Long bar rear axle": "113 inch length 2870 mm (Dyna-VT)"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 7616 Weight",
+          "Shipping": "15060 lbs 6831 kg",
+          "Max capacity": "20393 lbs (Dyna-6) 9250 kg",
+          "&nbsp": "25353 lbs (Dyna-VT) 11500 kg",
+          "Max Drawbar": "3527 lbs 1599 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 15, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2013 - 2014",
+          "__seccion_2__": "7600 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "OECD 2773: diesel Dyna-VT 4WD",
+          "__seccion_3__": "OECD 2789: diesel Dyna-6 4WD"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2773"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2773",
+          "__seccion_2__": "Diesel Dyna-VT 4WD March 2013 - April 2013, Link: OCED Tractor Test 2773 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "105.5 hp 78.7 kW",
+          "Fuel use": "7.9 gal/hour 29.9 l/hour",
+          "Power at rated engine speed": "128.9 hp 96.1 kW",
+          "Power at rated PTO speed": "138.7 hp 103.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Pull at 7.8KPH",
+          "Max pull": "15130 lbs 6862 kg",
+          "__seccion_6__": "Pull at 3.0KPH"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2789"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2789",
+          "__seccion_2__": "Diesel Dyna-6 4WD November 2012 - July 2013, Link: OCED Tractor Test 2789 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "107.3 hp 80.0 kW",
+          "Fuel use": "7.2 gal/hour 27.3 l/hour",
+          "Power at rated engine speed": "126.1 hp 94.0 kW",
+          "Power at rated PTO speed": "137.9 hp 102.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 3A used for power test.",
+          "Max pull": "13195 lbs 5985 kg",
+          "__seccion_6__": "Gear 1F used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 15, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2013 - 2014",
+          "__seccion_2__": "7600 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Sisu",
+          "__seccion_3__": "turbocharged air-to-air aftercooled diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "402.5 ci 6.6 L",
+          "Bore/Stroke": "4.252x4.724 inches 108 x 120 mm",
+          "Emissions": "Interim Tier IV",
+          "Emission control": "selective catalytic reduction (SCR)",
+          "Power (net)": "150 hp 111.9 kW",
+          "Fuel system": "electronic high-pressure common rail",
+          "Pre-heating": "thermostart",
+          "Compression": "17.4:1",
+          "Rated RPM": "2100",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 15, 2024"
+        }
+      ]
+    }
+  }
+}

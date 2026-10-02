@@ -1,0 +1,211 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/7/2/10723-massey-ferguson-2855m.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/7/2/10723-massey-ferguson-2855m-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/7/2/10723-massey-ferguson-2855m-engine.html",
+    "source_id": 10723,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:52:18.345Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10723/10723-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 10723,
+  "name": "Massey Ferguson 2855M",
+  "brand": "Massey Ferguson (a part of AGCO)",
+  "model": "ferguson 2855m",
+  "years": {
+    "desde": 2020,
+    "hasta": 2024
+  },
+  "model_year": 2020,
+  "engine_power_hp": 53.6,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 40,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1830,
+  "weight_basis": "ROPS Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 14.7,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 13.6-28",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1298,
+  "tire_front": {
+    "original": "9.5-16",
+    "radial": false,
+    "width_mm": 241,
+    "rim_in": 16,
+    "diameter_mm_est": 817,
+    "tipo": "Diagonal",
+    "texto": "9.5-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F010/10723/10723-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td10723.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2020 - 2024",
+          "__seccion_2__": "2800M Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson (a part of AGCO)",
+          "__seccion_2__": "Compact Utility tractor",
+          "Original price": "$33,350 (2020 ROPS )",
+          "__seccion_3__": "$40,930 (2020 Cab )"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2855M Engine",
+          "__seccion_2__": "Iseki 2.4L 4-cyl diesel",
+          "Fuel tank": "14 gal 53.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2855M Transmission",
+          "__seccion_2__": "12-speed power shuttle",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2855M Power",
+          "Engine": "53.6 hp 40.0 kW",
+          "PTO (claimed)": "40 hp 29.8 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 2855M are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pump flow": "12.6 gpm 47.7 lpm",
+          "Steering flow": "7 gpm 26.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift (at ends)": "3483 lbs 1579 kg",
+          "Rear lift (at 24\"/610mm)": "3086 lbs 1399 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Weight": "4035 to 4420 pounds",
+          "Front tire": "9.5-16",
+          "Rear tire": "13.6-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2855M attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "M Series published in 2020, by Massey Ferguson",
+          "__seccion_3__": "2800M Series published in 2020, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 24, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2020 - 2024",
+          "__seccion_2__": "2800M Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 2855M Tires",
+          "Standard tires (ag)": "Front: 9.5-16. Rear: 13.6-28",
+          "Optional tires (ag)": "Front: 9.5-16. Rear: 16.9-24",
+          "Lawn/turf front": "27x10.50-15",
+          "Lawn/turf rear": "44x18.00-20",
+          "Industrial front": "10-16.5",
+          "Industrial rear": "14.9-24",
+          "&nbsp": "17.5L-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Length": "132.3 inches 336 cm",
+          "Width": "70.1 inches 178 cm",
+          "Height (ROPS)": "102.4 inches 260 cm",
+          "Height (cab)": "92.9 inches 235 cm",
+          "ROPS Weight": "4035 lbs 1830 kg",
+          "Cab Weight": "4420 lbs 2004 kg",
+          "Ground clearance": "14 inches 35 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 24, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2020 - 2024",
+          "__seccion_2__": "2800M Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iseki E4FH",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "148.6 ci 2.4 L",
+          "Bore/Stroke": "3.43x4.03 inches 87 x 102 mm",
+          "Emissions": "Tier IV",
+          "Power": "53.6 hp 40.0 kW",
+          "Fuel system": "common rail direct injection",
+          "Air cleaner": "dry",
+          "Rated RPM": "2600",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 24, 2025"
+        }
+      ]
+    }
+  }
+}

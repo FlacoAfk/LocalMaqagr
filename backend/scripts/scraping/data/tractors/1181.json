@@ -1,0 +1,254 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/1/8/1181-caseih-4694.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/1/8/1181-caseih-4694-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/1/8/1181-caseih-4694-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/1/8/1181-caseih-4694-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1181,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:35:35.503Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1181/1181-td4-b01-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 92 KB"
+  },
+  "tractor_data_id": 1181,
+  "name": "CaseIH 4694",
+  "brand": "CaseIH",
+  "model": "4694",
+  "years": {
+    "desde": 1984,
+    "hasta": 1987
+  },
+  "model_year": 1984,
+  "engine_power_hp": 261,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 219,
+  "pto_tested_hp": 219.62,
+  "drawbar_tested_hp": 189.75,
+  "weight_kg": 10119,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 109.3,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "18.4-34",
+    "radial": false,
+    "width_mm": 467,
+    "rim_in": 34,
+    "diameter_mm_est": 1658,
+    "tipo": "Diagonal",
+    "texto": "18.4-34"
+  },
+  "fuel_consumption_lph": 54.5,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1181/1181-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1181/1181-td4-b01-ext090.jpg",
+  "image_url": "/uploads/tractors/td1181.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1984 - 1987",
+          "__seccion_2__": "4WD 94 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA",
+          "Original price": "$81,000 (1987)"
+        },
+        {
+          "__seccion_1__": "CaseIH 4694 Engine",
+          "__seccion_2__": "Case 8.3L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 4694 Transmission",
+          "__seccion_2__": "12-speed partial power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 4694 Power",
+          "Engine": "261 hp 194.6 kW",
+          "PTO (claimed)": "219 hp 163.3 kW",
+          "Drawbar (tested)": "189.75 hp 141.5 kW",
+          "PTO (tested)": "219.62 hp 163.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x4 4WD",
+          "Steering": "hydraulic, front, rear or four-wheel crab steering",
+          "__seccion_2__": "Hydraulic dry disc brakes",
+          "__seccion_3__": "Silent Guardian cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH 4694 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "128 gal 484.5 L",
+          "Hydraulic system": "15.5 gal 58.7 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "15.5 gal 58.7 L",
+          "Pressure": "2350 psi 162.0 bar",
+          "Valves": "2 to 4",
+          "Total flow": "31 gpm 117.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III (optional)",
+          "Rear lift (at 24\"/610mm)": "12,750 lbs 5783 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent (optional)",
+          "Rear PTO Type": "1000",
+          "Engine RPM": "1000@2200"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "102 inches 259 cm",
+          "Weight": "22,310 lbs 10119 kg",
+          "Front tire": "18.4-34",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1984": "8865000 (JI Case)",
+          "1985": "8866200",
+          "1986": "8866971",
+          "1987": "8867559",
+          "__seccion_1__": "4694 Serial Numbers",
+          "Location:": "Data plates located at forward-right corner in top of the tractor cab.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "4-Wheel Drive Tractors published in 1987, by CaseIH",
+          "__seccion_3__": "1985 Farm Equipment Buyer's Guide published by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 29, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1984 - 1987",
+          "__seccion_2__": "4WD 94 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH 4694 Tires",
+          "Ag front": "18.4-34",
+          "Ag rear": "18.4-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "102 inches 259 cm",
+          "Length": "225 inches 571 cm",
+          "Width": "96 inches (minimum) 243 cm",
+          "&nbsp": "143 inches (duals) 363 cm",
+          "Height (exhaust)": "125 inches 317 cm",
+          "Operating weight": "22,310 lbs (with 20.8-34 duals) 10119 kg",
+          "Ballasted weight": "25,230 lbs 11444 kg",
+          "Ground clearance": "18 inches (frame) 45 cm",
+          "Front tread": "76 to 139 inches 193 to 353 cm",
+          "Rear tread": "76 to 139 inches 193 to 353 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 29, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1984 - 1987",
+          "__seccion_2__": "4WD 94 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1329"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1329",
+          "__seccion_2__": "Diesel 12-speed 4WD October 18 - 26, 1979 Link: Nebraska Tractor Test 1329 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "219.62 hp 163.8 kW",
+          "Fuel use": "14.2 gal/hour 53.7 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "189.75 hp 141.5 kW",
+          "__seccion_5__": "Gear 3-2 used for power test.",
+          "Max pull": "24,564 lbs 11142 kg",
+          "__seccion_6__": "Gear 1-2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 29, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1984 - 1987",
+          "__seccion_2__": "4WD 94 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Case",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "504 ci 8.3 L",
+          "Bore/Stroke": "4.625x5.00 inches 117 x 127 mm",
+          "Power": "261 hp 194.6 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "15.8:1",
+          "Rated RPM": "2200",
+          "Torque": "680 lb-ft 922.1 Nm",
+          "Torque RPM": "1650",
+          "Starter volts": "12",
+          "Oil capacity": "24 qts 22.7 L",
+          "Coolant capacity": "48 qts 45.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 29, 2022"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/9/4/5948-ford-5640.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/9/4/5948-ford-5640-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/9/4/5948-ford-5640-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/9/4/5948-ford-5640-engine.html",
+    "source_id": 5948,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:14:57.353Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5948/5948-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 33 KB"
+  },
+  "tractor_data_id": 5948,
+  "name": "Ford 5640",
+  "brand": "Ford",
+  "model": "5640",
+  "years": {
+    "desde": 1991,
+    "hasta": 1995
+  },
+  "model_year": 1991,
+  "engine_power_hp": 78.7,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 66,
+  "pto_tested_hp": 66.26,
+  "drawbar_tested_hp": 59.99,
+  "weight_kg": 3670,
+  "weight_basis": "4WD ROPS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 38.3,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 16.9-30",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1492,
+  "tire_front": {
+    "original": "7.50-16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50-16"
+  },
+  "fuel_consumption_lph": 15.5,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F005/5948/5948-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5948/5948-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td5948.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1991 - 1995",
+          "__seccion_2__": "PowerStar 40 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Ford",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Basildon, England",
+          "__seccion_4__": "Original price was $30,000 in 1998"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "5640S": "8-speed economy",
+          "5640SL": "12-speed",
+          "5640SLE": "16-speed premium"
+        },
+        {
+          "__seccion_1__": "Ford 5640 Engine",
+          "__seccion_2__": "Ford 4.4L 4-cyl diesel",
+          "Fuel tank": "25 gal 94.6 L",
+          "&nbsp": "46.9 gal (cab optional) 177.5 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Ford 5640 Transmissions",
+          "__seccion_2__": "8-speed constant mesh",
+          "__seccion_3__": "16-speed two-speed power shift",
+          "__seccion_4__": "12-speed synchronized",
+          "__seccion_5__": "16-speed four-speed power shift",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Ford 5640 Power",
+          "Engine (gross)": "78.7 hp 58.7 kW",
+          "Engine (net)": "75 hp 55.9 kW",
+          "PTO (claimed)": "66 hp 49.2 kW",
+          "Drawbar (tested)": "59.99 hp 44.7 kW",
+          "PTO (tested)": "66.26 hp 49.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "mechanical rear (S)",
+          "&nbsp": "hydraulic wet disc (SL/SLE)",
+          "__seccion_3__": "Power steering",
+          "Brakes": "mechanical (S)",
+          "__seccion_4__": "Two-post foldable ROPS. Straddle-mount (5640 S) or raised deck (SL/SLE). Comfort Command Cab optional with air-conditioning (SL/SLE)."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Ford 5640 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center (S/SL)",
+          "&nbsp": "21 gpm (SLE) 79.5 lpm",
+          "Valves": "1 to 4",
+          "Pump flow": "18.2 gpm 68.9 lpm",
+          "Steering press.": "2100 psi 144.8 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "Position control and top-link draft sensing. Electronic lower-link sensing optional on 5640 SLE.",
+          "Rear lift (at 24\"/610mm)": "4200 lbs 1905 kg",
+          "&nbsp": "6564 lbs (SLE optional) 2977 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "&nbsp": "540/1000 Opt Optional"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "93 inches 236 cm",
+          "Weight": "7099 to 9121 pounds",
+          "Front tire": "7.50-16",
+          "Rear tire": "16.9-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Ford 5640 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1991": "BC68791",
+          "1992": "BD02865",
+          "1993": "BD35935",
+          "1994": "BD65544",
+          "1995": "BD98440",
+          "1996": "022377B",
+          "1997": "056436B",
+          "1998": "083503B",
+          "__seccion_1__": "5640 Serial Numbers",
+          "Location:": "Data plate inside hood.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "55",
+          "Cab Charging amps": "100",
+          "ROPS Batteries": "1",
+          "Cab Batteries": "2",
+          "Battery CCA": "800",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Front-end Loaders published in 1992, by Ford",
+          "__seccion_3__": "Front-end Loaders published in 1995, by New Holland",
+          "__seccion_4__": "66 to 106 PTO hp PowerStar Tractors published in 1991, by Ford",
+          "__seccion_5__": "66 to 106 PTO hp PowerStar Tractors published in 1992, by Ford"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 2, 2023",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official Ford operator manuals from CNH."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1991 - 1995",
+          "__seccion_2__": "PowerStar 40 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Ford 5640 Tires",
+          "Ag front": "7.50-16",
+          "Ag rear": "16.9-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "93 inches 236 cm",
+          "Length": "162 inches 411 cm",
+          "2WD Width": "77 inches 195 cm",
+          "4WD Width": "80 inches 203 cm",
+          "2WD Clearance (front axle)": "22 inches 55 cm",
+          "4WD Clearance (front axle)": "20 inches 50 cm"
+        },
+        {
+          "__seccion_1__": "Ford 5640 Weight",
+          "2WD ROPS Shipping": "7099 lbs 3220 kg",
+          "4WD ROPS Shipping": "8091 lbs 3670 kg",
+          "2WD Cab Shipping": "8129 lbs 3687 kg",
+          "4WD Cab Shipping": "9121 lbs 4137 kg",
+          "Operating": "8070 lbs (4WD ROPS) 3660 kg",
+          "Ballasted": "9768 lbs 4430 kg"
+        },
+        {
+          "__seccion_1__": "Ford 5640 Height",
+          "Hood": "67 inches 170 cm",
+          "Cab": "107 inches 271 cm",
+          "Exhaust": "112 inches 284 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 2, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1991 - 1995",
+          "__seccion_2__": "PowerStar 40 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1656"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1656",
+          "__seccion_2__": "Diesel 16x4 4WD April 22 - May 12, 1992 Link: OCED Tractor Test 1656 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "66.26 hp 49.4 kW",
+          "Fuel use": "4.2 gal/hour 15.9 l/hour",
+          "Power at rated PTO speed": "63.17 hp 47.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "59.99 hp 44.7 kW",
+          "__seccion_5__": "Gear 5-Low used for power test.",
+          "Max pull": "8,611 lbs 3905 kg",
+          "__seccion_6__": "Gear 2H used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 2, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1991 - 1995",
+          "__seccion_2__": "PowerStar 40 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Ford Genesis",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder 8-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "268 ci 4.4 L",
+          "Bore/Stroke": "4.40x4.40 inches 112 x 112 mm",
+          "Power (net)": "75 hp 55.9 kW",
+          "Power (gross)": "78.7 hp 58.7 kW",
+          "Air cleaner": "dual paper elements",
+          "Compression": "17.5:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "725-2375",
+          "Torque": "289 lb-ft 391.9 Nm",
+          "Torque RPM": "1400",
+          "Firing order": "1-3-4-2",
+          "Starter volts": "12",
+          "ROPS Coolant capacity": "15.3 qts 14.5 L",
+          "Cab Coolant capacity": "16.9 qts 16.0 L",
+          "Intake valve clearance": "0.016 inches * Cold 0.406 mm",
+          "Exhaust valve clearance": "0.019 inches * Cold 0.483 mm"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "12.1 qts 11.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 2, 2023"
+        }
+      ]
+    }
+  }
+}

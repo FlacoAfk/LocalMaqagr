@@ -1,0 +1,250 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/1/0/7102-john-deere-9560rt.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/1/0/7102-john-deere-9560rt-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/007/1/0/7102-john-deere-9560rt-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/1/0/7102-john-deere-9560rt-engine.html",
+    "source_id": 7102,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:52:49.512Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7102/7102-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 29 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 7102,
+  "name": "John Deere 9560RT",
+  "brand": "John Deere",
+  "model": "9560RT",
+  "years": {
+    "desde": 2012,
+    "hasta": 2014
+  },
+  "model_year": 2012,
+  "engine_power_hp": 560,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 319,
+  "pto_tested_hp": 354.45,
+  "drawbar_tested_hp": 433.29,
+  "weight_kg": 20371,
+  "weight_basis": "Shipping weight",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 214.6,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 77.2,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7102/7102-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7102/7102-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td7102.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2012 - 2014",
+          "__seccion_2__": "9R/RT Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Agricultural Crawler tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "__seccion_4__": "Original price was $454,112 in 2014"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "9560R": "4WD",
+          "9560RT": "crawler"
+        },
+        {
+          "__seccion_1__": "John Deere 9560RT Engine",
+          "__seccion_2__": "John Deere 13.5L 6-cyl diesel",
+          "Fuel tank": "340 gal 1286.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 9560RT Transmission",
+          "__seccion_2__": "18-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 9560RT Power",
+          "Engine (gross)": "560 hp 417.6 kW",
+          "Engine (net)": "538 hp 401.2 kW",
+          "PTO (claimed)": "319 hp 237.9 kW",
+          "Drawbar (tested)": "433.29 hp 323.1 kW",
+          "PTO (tested)": "354.45 hp 264.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "crawler",
+          "Final drives": "outboard planetary",
+          "Steering": "hydrostatic power differential",
+          "__seccion_2__": "Hydraulic wet disc brakes",
+          "__seccion_3__": "CommandView II cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 9560RT photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure flow compensated",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "4 to 6",
+          "Pump flow": "48 gpm 181.7 lpm",
+          "&nbsp": "45 gpm (19.1mm SCV) 170.3 lpm",
+          "SCV flow": "37 gpm 140.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "4N/4",
+          "Control": "electronic draft sensing",
+          "Rear lift": "15,300 lbs 6940 kg",
+          "&nbsp": "20,000 lbs (optional) 9072 kg",
+          "Drawbar": "Category 5 wide-swing drawbar standard, rated to 4,581 kg. Optional heavy-duty kit rated to 5,440 kg."
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent (optional)",
+          "Rear PTO Type": "1000 (1.75)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tracks",
+          "Wheelbase": "116 inches 294 cm",
+          "Weight": "44910 to 47015 pounds",
+          "__seccion_2__": "30-inch tracks",
+          "__seccion_3__": "Full dimensions and tracks ..."
+        },
+        {
+          "__seccion_1__": "9560RT Serial Number Location",
+          "__seccion_2__": "On main tractor frame, front-right side."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "200",
+          "Batteries": "3",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 30, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2012 - 2014",
+          "__seccion_2__": "9R/RT Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 9560RT Tracks",
+          "Width": "30 inches 76 cm"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "116 inches 294 cm",
+          "Length": "237 inches 601 cm",
+          "Width": "136 inches (30-in track) 345 cm",
+          "&nbsp": "156 inches (frame weights) 396 cm",
+          "Height (cab)": "134 inches 340 cm",
+          "Height (exhaust)": "155 inches 393 cm",
+          "Shipping weight": "44910 lbs 20371 kg",
+          "Operating weight": "47015 lbs 21326 kg",
+          "Ground clearance": "16 inches 40 cm",
+          "Clearance (drawbar)": "19 inches 48 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 30, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2012 - 2014",
+          "__seccion_2__": "9R/RT Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2045"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2045",
+          "__seccion_2__": "Diesel 18-speed crawler October 12 - 23, 2012 Link: OCED Tractor Test 2045 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "433.29 hp 323.1 kW",
+          "Fuel use": "28.2 gal/hour 106.7 l/hour",
+          "Power at rated engine speed": "309.98 hp 231.2 kW",
+          "Power at rated PTO speed": "346.35 hp 258.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 7 used for power test.",
+          "Max pull": "48255 lbs 21888 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 30, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2012 - 2014",
+          "__seccion_2__": "9R/RT Series",
+          "__seccion_3__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech PSX",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "826.7 ci 13.5 L",
+          "Bore/Stroke": "5.197x6.496 inches 132 x 165 mm",
+          "Emissions": "Interim Tier 4",
+          "Emission control": "exhaust gas recirculation (EGR)",
+          "Rated Power (net)": "538 hp 401.2 kW",
+          "Rated Power (gross)": "560 hp 417.6 kW",
+          "Cooling system": "variable ratio belt drive",
+          "Compression": "16:1",
+          "Rated RPM": "2100",
+          "Idle RPM": "900-2200",
+          "Operating RPM": "1500-2100",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "50.7 qts 48.0 L",
+          "Coolant capacity": "58.2 qts 55.1 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 30, 2022"
+        }
+      ]
+    }
+  }
+}

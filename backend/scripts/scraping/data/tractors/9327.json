@@ -1,0 +1,205 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/009/3/2/9327-massey-ferguson-5310.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/009/3/2/9327-massey-ferguson-5310-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/009/3/2/9327-massey-ferguson-5310-engine.html",
+    "source_id": 9327,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:48:23.435Z",
+    "foto_original": "https://www.tractordata.com/photos/F009/9327/9327-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 9327,
+  "name": "Massey Ferguson 5310",
+  "brand": "Massey Ferguson (a part of AGCO)",
+  "model": "ferguson 5310",
+  "years": {
+    "desde": 2002,
+    "hasta": 2009
+  },
+  "model_year": 2002,
+  "engine_power_hp": 105,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3758,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 38.5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4-34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "14.9-24",
+    "radial": false,
+    "width_mm": 378,
+    "rim_in": 24,
+    "diameter_mm_est": 1253,
+    "tipo": "Diagonal",
+    "texto": "14.9-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F009/9327/9327-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td9327.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2002 - 2009",
+          "__seccion_2__": "5000 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson (a part of AGCO)",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Canoas, Brazil"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5310 Engine",
+          "__seccion_2__": "Perkins 4.0L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5310 Transmission",
+          "__seccion_2__": "12-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5310 Power",
+          "Engine": "105 hp 78.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "electro-hydraulic rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Massey Ferguson 5310 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "33 gal 124.9 L",
+          "Hydraulic system": "13.2 gal 50.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Capacity": "13.2 gal 50.0 L",
+          "Total flow": "14.5 gpm 54.9 lpm",
+          "&nbsp": "17.4 gpm * With 540/1000 PTO. 65.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift": "6614 lbs 3000 kg",
+          "&nbsp": "8818 lbs Opt Optional 3999 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)",
+          "&nbsp": "1000@2000",
+          "Engine RPM": "540@1900"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "92.5 inches 234 cm",
+          "Weight": "8287 lbs 3758 kg",
+          "Front tire": "14.9-24",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "70",
+          "Battery volts": "12",
+          "Battery AH": "90"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 7, 2017"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2002 - 2009",
+          "__seccion_2__": "5000 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 5310 Tires",
+          "Standard tires (ag)": "Front: 14.9-24. Rear: 18.4-34",
+          "&nbsp": "Front: 14.9-26. Rear: 23.1-26"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "92.5 inches 234 cm",
+          "Length": "157.9 inches 401 cm",
+          "Width": "81.1 inches 205 cm",
+          "Height": "104.7 inches 265 cm",
+          "Weight": "8287 lbs 3758 kg",
+          "Ballasted weight": "12472 lbs 5657 kg",
+          "Ground clearance": "15.4 inches 39 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 7, 2017"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2002 - 2009",
+          "__seccion_2__": "5000 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins 1004-4T",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "244 ci 4.0 L",
+          "Bore/Stroke": "3.94x5.00 inches 100 x 127 mm",
+          "Power": "105 hp 78.3 kW",
+          "Air cleaner": "dual element dry",
+          "Rated RPM": "2200",
+          "Torque": "274.9 lb-ft 372.8 Nm",
+          "Torque RPM": "1400",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 7, 2017"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/4/7/5472-john-deere-5603.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/4/7/5472-john-deere-5603-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/4/7/5472-john-deere-5603-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/4/7/5472-john-deere-5603-engine.html",
+    "source_id": 5472,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:45:47.451Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5472/5472-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 44 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 5472,
+  "name": "John Deere 5603",
+  "brand": "John Deere",
+  "model": "5603",
+  "years": {
+    "desde": 2007,
+    "hasta": 2008
+  },
+  "model_year": 2007,
+  "engine_power_hp": 99,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 82,
+  "pto_tested_hp": 83.78,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3240,
+  "weight_basis": "Operating",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 30.7,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "12.4-24",
+    "radial": false,
+    "width_mm": 315,
+    "rim_in": 24,
+    "diameter_mm_est": 1145,
+    "tipo": "Diagonal",
+    "texto": "12.4-24"
+  },
+  "fuel_consumption_lph": 21.6,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F005/5472/5472-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5472/5472-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td5472.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2007 - 2008",
+          "__seccion_2__": "5003 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Augusta, Georgia, USA"
+        },
+        {
+          "__seccion_1__": "John Deere 5603 Engine",
+          "__seccion_2__": "John Deere 4.5L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5603 Transmission",
+          "__seccion_2__": "12-speed power shuttle",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 5603 Power",
+          "Engine (gross)": "99 hp 73.8 kW",
+          "PTO (claimed)": "82 hp 61.1 kW",
+          "PTO (tested)": "83.78 hp 62.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 5603 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "33.5 gal 126.8 L",
+          "Hydraulic system": "11.5 gal 43.5 L",
+          "Front hubs": "0.74 qts (each) 0.7 L",
+          "Front diff.": "4.8 qts 4.5 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "11.5 gal 43.5 L",
+          "Valves": "1 to 3",
+          "Pump flow": "15.9 gpm 60.2 lpm",
+          "Total flow": "22.5 gpm 85.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "1/2",
+          "Rear lift (at 24\"/610mm)": "3,374 lbs 1530 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/540E",
+          "&nbsp": "540E@1700",
+          "Engine RPM": "540@2400"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "85.7 inches 217 cm",
+          "Weight": "7,145 lbs 3240 kg",
+          "Front tire": "12.4-24",
+          "Rear tire": "18.4-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "5603 Serial Numbers",
+          "Location:": "Serial plate on the front-left tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "90",
+          "&nbsp": "120 Opt Optional",
+          "Battery CCA": "750",
+          "Battery volts": "12",
+          "Battery Group": "31"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "New 5003 Series Tractors published in 2008, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2021",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2007 - 2008",
+          "__seccion_2__": "5003 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 5603 Tires",
+          "Ag front": "12.4-24",
+          "Ag rear": "18.4-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "85.7 inches 217 cm",
+          "Ground clearance": "15.8 inches 40 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 5603 Weight",
+          "Operating": "7,145 lbs 3240 kg",
+          "Max Drawbar": "1,675 lbs (extended) 759 kg",
+          "&nbsp": "2,470 lbs (retracted) 1120 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2007 - 2008",
+          "__seccion_2__": "5003 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1905"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1905",
+          "__seccion_2__": "Diesel 12-speed 4WD September 6 - 11, 2007 Link: Nebraska Tractor Test 1905 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "83.78 hp 62.5 kW",
+          "Fuel use": "5.4 gal/hour 20.4 l/hour",
+          "Power at rated engine speed": "82.81 hp 61.8 kW"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2007 - 2008",
+          "__seccion_2__": "5003 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere PowerTech 4045",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "276 ci 4.5 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Emissions": "Tier II",
+          "Power (gross)": "99 hp 73.8 kW",
+          "Air cleaner": "paper and felt elements",
+          "Compression": "17.0:1",
+          "Rated RPM": "2400",
+          "Idle RPM": "825-2625",
+          "Starter volts": "12",
+          "Coolant capacity": "12 qts 11.4 L",
+          "Coolant change": "2100 h"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "9 qts 8.5 L",
+          "Oil change": "300 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 13, 2021"
+        }
+      ]
+    }
+  }
+}

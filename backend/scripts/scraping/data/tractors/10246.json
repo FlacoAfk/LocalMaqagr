@@ -1,0 +1,179 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/2/4/10246-john-deere-1047.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/2/4/10246-john-deere-1047-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/2/4/10246-john-deere-1047-engine.html",
+    "source_id": 10246,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:06:23.590Z"
+  },
+  "tractor_data_id": 10246,
+  "name": "John Deere 1047",
+  "brand": "Goldini",
+  "model": "deere 1047",
+  "years": {
+    "desde": 2003,
+    "hasta": 2004
+  },
+  "model_year": 2003,
+  "engine_power_hp": 33,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": null,
+  "weight_basis": null,
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 12.1,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": null,
+  "photo_url_large": null,
+  "image_url": null,
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2003 - 2004",
+          "__seccion_2__": "47 Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Goldini built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "John Deere",
+          "Manufacturer": "Goldini",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Italy"
+        },
+        {
+          "__seccion_1__": "John Deere 1047 Engine",
+          "__seccion_2__": "Lombardini 1.6L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 1047 Transmission",
+          "__seccion_2__": "12-speed synchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 1047 Power",
+          "Engine": "33 hp 24.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post mid-mount folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 1047 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Pressure": "2176 psi 150.0 bar",
+          "Pump flow": "7.9 gpm 29.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I/IN",
+          "Rear lift (at ends)": "2976 lbs 1349 kg",
+          "Rear lift (at 24\"/610mm)": "2161 lbs 980 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000",
+          "Engine RPM": "540@2608",
+          "&nbsp": "1000@2620"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "55",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 17, 2019",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2003 - 2004",
+          "__seccion_2__": "47 Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Goldini built"
+        },
+        {
+          "__seccion_1__": "John Deere 1047 Tires"
+        },
+        {
+          "__seccion_1__": "Dimensions"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 17, 2019"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2003 - 2004",
+          "__seccion_2__": "47 Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Goldini built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Lombardini LDW 1503",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "94.7 ci 1.6 L",
+          "Bore/Stroke": "3.46x3.35 inches 88 x 85 mm",
+          "Power": "33 hp 24.6 kW",
+          "Air cleaner": "dry",
+          "Rated RPM": "2800",
+          "Torque": "68.6 lb-ft 93.0 Nm",
+          "Torque RPM": "2000",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 17, 2019"
+        }
+      ]
+    }
+  }
+}

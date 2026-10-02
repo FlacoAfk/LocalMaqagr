@@ -1,0 +1,225 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/1/118-john-deere-2255.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/1/118-john-deere-2255-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/1/118-john-deere-2255-engine.html",
+    "source_id": 118,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:48:42.461Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/118/118-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 5 KB"
+  },
+  "tractor_data_id": 118,
+  "name": "John Deere 2255",
+  "brand": "John Deere",
+  "model": "2255",
+  "years": {
+    "desde": 1983,
+    "hasta": 1987
+  },
+  "model_year": 1983,
+  "engine_power_hp": 50,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 50,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2320,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 18.3,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4-16.1",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1203,
+  "tire_front": {
+    "original": "9.5-15",
+    "radial": false,
+    "width_mm": 241,
+    "rim_in": 15,
+    "diameter_mm_est": 791,
+    "tipo": "Diagonal",
+    "texto": "9.5-15"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/118/118-td3a.jpg",
+  "image_url": "/uploads/tractors/td118.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1983 - 1987",
+          "__seccion_2__": "2050 Series",
+          "__seccion_3__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Orchard/Vineyard tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany",
+          "Original price": "$16,842 (1983 )",
+          "__seccion_4__": "$18,000 (1987 )"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "2255 Orchard": "low-profile",
+          "2255 Vineyard": "narrow-profile"
+        },
+        {
+          "__seccion_1__": "John Deere 2255 Engine",
+          "__seccion_2__": "John Deere 2.9L 3-cyl diesel",
+          "Fuel tank": "19.5 gal 73.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2255 Transmissions",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "16-speed partial power shift",
+          "__seccion_4__": "8-speed power shuttle",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2255 Power",
+          "PTO (claimed)": "50 hp 37.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Differential lock": "mechanical rear",
+          "Steering": "power assist",
+          "__seccion_3__": "Wet disc brakes",
+          "__seccion_4__": "Open operator station. Low-profile ROPS available."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 2255 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Valves": "1",
+          "Pump flow": "13 gpm 49.2 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "load and depth control",
+          "Rear lift": "2,020 lbs 916 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "&nbsp": "live (with reverser)",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "75 inches 190 cm",
+          "Weight": "5090 to 5115 pounds",
+          "Front tire": "9.5-15",
+          "Rear tire": "18.4-16.1 (Orchard)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 2255 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "33",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Loaders, Spreaders and Blades published in 1984, by John Deere",
+          "__seccion_3__": "Tractors 45 to 85 HP published in 1984, by John Deere",
+          "__seccion_4__": "Agricultural Price List published in 1983, by John Deere",
+          "__seccion_5__": "Tractors Hi-Crop, Low-Profile, Narrow- and Wide-Tread published in 1985, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 31, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1983 - 1987",
+          "__seccion_2__": "2050 Series",
+          "__seccion_3__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 2255 Tires",
+          "Standard tires (ag)": "Front: 9.5-15. Rear: 18.4-16.1 (Orchard)",
+          "&nbsp": "Front: 6.50-16. Rear: 14.9-24 (Vineyard)",
+          "Ag rear": "14.9-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "75 inches 190 cm",
+          "Length": "132.6 inches 336 cm",
+          "Width": "65.5 inches (Orchard) 166 cm",
+          "&nbsp": "18.5 inches (Vineyard) 46 cm",
+          "Shipping weight": "5115 lbs (Orchard) 2320 kg",
+          "Clearance (front axle)": "17.3 inches (Orchard) 43 cm",
+          "Front tread": "44 to 66 inches 111 to 167 cm (Vineyard)",
+          "Rear tread": "44 to 64 inches 111 to 162 cm (Vineyard)"
+        },
+        {
+          "__seccion_1__": "John Deere 2255 Height",
+          "Steering wheel": "52.4 inches (ORchard) 133 cm",
+          "&nbsp": "53.1 inches (Vineyard) 134 cm",
+          "Hood": "51.4 inches (Orchard) 130 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 31, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1983 - 1987",
+          "__seccion_2__": "2050 Series",
+          "__seccion_3__": "Orchard/Vineyard tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "179 ci 2.9 L",
+          "Bore/Stroke": "4.19x4.33 inches 106 x 110 mm",
+          "Compression": "17.4:1",
+          "Rated RPM": "2500",
+          "Operating RPM": "1500-2500",
+          "Starter volts": "12",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 31, 2022"
+        }
+      ]
+    }
+  }
+}

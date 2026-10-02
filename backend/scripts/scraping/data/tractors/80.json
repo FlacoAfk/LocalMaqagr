@@ -1,0 +1,302 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/8/80-john-deere-4230.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/8/80-john-deere-4230-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/8/80-john-deere-4230-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/8/80-john-deere-4230-engine.html",
+    "source_id": 80,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:46:39.137Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/80/80-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 57 KB"
+  },
+  "tractor_data_id": 80,
+  "name": "John Deere 4230",
+  "brand": "John Deere",
+  "model": "4230",
+  "years": {
+    "desde": 1973,
+    "hasta": 1977
+  },
+  "model_year": 1973,
+  "engine_power_hp": 100,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 100,
+  "pto_tested_hp": 100.32,
+  "drawbar_tested_hp": 83.95,
+  "weight_kg": 3674,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 49.6,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 23.1-26",
+  "tire_width_mm": 587,
+  "tire_diameter_mm": 1658,
+  "tire_front": null,
+  "fuel_consumption_lph": 26.9,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/80/80-td3a.jpg",
+  "image_url": "/uploads/tractors/td80.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1973 - 1977",
+          "__seccion_2__": "Generation II Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "Total built": "33 (gasoline)",
+          "&nbsp": "90 (Low-Profile)",
+          "__seccion_4__": "The John Deere 4230 was the Generation II replacement for the popular 4020. A row-crop tricycle front-end was an option on the 4230. Along with the smaller 4030, this was the final tractor from the Deere's Waterloo factory to have a tricycle option."
+        },
+        {
+          "4230": "row-crop",
+          "__seccion_1__": "Variants",
+          "4230 Hi-Crop": "high clearance",
+          "4230 LP": "low-profile"
+        },
+        {
+          "__seccion_1__": "John Deere 4230 Engines",
+          "__seccion_2__": "John Deere 6.6L 6-cyl diesel",
+          "__seccion_3__": "John Deere 5.9L 6-cyl gasoline",
+          "__seccion_4__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4230 Transmissions",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "16-speed partial power shift",
+          "__seccion_4__": "8-speed full power shift",
+          "__seccion_5__": "13-speed creeper",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4230 Power",
+          "PTO (claimed)": "100 hp 74.6 kW",
+          "Drawbar (tested)": "83.95 hp 62.6 kW",
+          "PTO (tested)": "100.32 hp 74.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 HFWD 4WD",
+          "Final drives": "planetary",
+          "Differential lock": "hydro-mechanical rear",
+          "__seccion_2__": "Power steering",
+          "__seccion_3__": "Differential hydraulic wet disc brakes",
+          "__seccion_4__": "Open operator station. Four-post Roll-Gard ROPS optional. Sound-Gard cab with air-conditioning optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 4230 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "37 gal 140.0 L",
+          "Hydraulic system": "16 gal 60.6 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "16 gal 60.6 L",
+          "Valves": "1 to 3"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "104 inches 264 cm",
+          "Weight": "8100 to 10800 pounds",
+          "Front tire": "9.5L-15",
+          "Rear tire": "18.4-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4230 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "4230 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the rear of the John Deere 4230, above the PTO shaft."
+        },
+        {
+          "1973": "1000",
+          "1974": "13000",
+          "1975": "22074",
+          "1976": "28957",
+          "1977": "35588",
+          "__seccion_1__": "4230 Serial Numbers",
+          "Final": "42331",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Batteries": "2",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "4230-4430-4630 published in 1974, by John Deere",
+          "__seccion_3__": "Tractors 80 to 150 hp published in 1975, by John Deere",
+          "__seccion_4__": "Making you next tractor a John Deere has traditionally been a good investment published in 1975",
+          "__seccion_5__": "Product Information Manual published in 1975, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 22, 2025",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1973 - 1977",
+          "__seccion_2__": "Generation II Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 4230 Tires",
+          "Ag front": "7.5L-15",
+          "Ag rear": "23.1-26",
+          "&nbsp": "18.4-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "104 inches 264 cm",
+          "2WD Length": "165.6 inches 420 cm",
+          "4WD Length": "169.3 inches 430 cm",
+          "Width": "89.625 inches 227 cm",
+          "&nbsp": "54.375 inches (Cab) 138 cm",
+          "Rack-and-pinion rear axle": "3.39 by 113 inches 86 by 2870 mm",
+          "Front tread": "58 to 96 inches 147 to 243 cm",
+          "Rear tread": "61 to 118 inches 154 to 299 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 4230 Weight",
+          "Shipping": "8100 lbs (Syncro) 3674 kg",
+          "&nbsp": "8500 lbs 3855 kg",
+          "Operating": "10800 lbs 4898 kg",
+          "Ballasted": "14150 lbs 6418 kg"
+        },
+        {
+          "__seccion_1__": "John Deere 4230 Height",
+          "Steering wheel": "86.7 inches 220 cm",
+          "Cab": "109.875 inches 279 cm",
+          "Exhaust": "151.75 inches 385 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 22, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1973 - 1977",
+          "__seccion_2__": "Generation II Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1112"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1112",
+          "__seccion_2__": "Diesel Quad-Range 2WD October 13 - 24, 1972 Link: Nebraska Tractor Test 1112 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "100.32 hp 74.8 kW",
+          "Fuel use": "7.0 gal/hour 26.5 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "83.95 hp 62.6 kW",
+          "Max pull": "11,150 lbs 5057 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 22, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1973 - 1977",
+          "__seccion_2__": "Generation II Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine options",
+          "__seccion_2__": "John Deere 6.6L 6-cyl diesel",
+          "__seccion_3__": "John Deere 5.9L 6-cyl gasoline"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled inline horizontal-shaft",
+          "Displacement": "404 ci 6.6 L",
+          "Bore/Stroke": "4.25x4.75 inches 108 x 121 mm",
+          "Air cleaner": "dry with secondary element",
+          "Pre-heating": "ether injection",
+          "&nbsp": "coolant heater Opt Optional",
+          "Compression": "16.2:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "800-2400",
+          "Operating RPM": "1500-2200",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "17 qts 16.1 L",
+          "Coolant capacity": "24 qts 22.7 L"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "__seccion_6__": "The gasoline engine was only available during the 1973 model year for the Deere 4230.",
+          "Displacement": "362 ci 5.9 L",
+          "Bore/Stroke": "4.25x4.25 inches 108 x 108 mm",
+          "Rated RPM": "2200",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 22, 2025"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/80/80-photo-001.jpg"
+}

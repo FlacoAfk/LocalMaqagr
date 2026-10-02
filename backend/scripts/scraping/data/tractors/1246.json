@@ -1,0 +1,234 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/2/4/1246-kubota-b2410.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/2/4/1246-kubota-b2410-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/2/4/1246-kubota-b2410-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1246,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:49:19.556Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1246/1246-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 83 KB"
+  },
+  "tractor_data_id": 1246,
+  "name": "Kubota B2410",
+  "brand": "Kubota",
+  "model": "B2410",
+  "years": {
+    "desde": 2000,
+    "hasta": 2005
+  },
+  "model_year": 2000,
+  "engine_power_hp": 24,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 18,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 669,
+  "weight_basis": "4WD",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 6.6,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 11.2-16",
+  "tire_width_mm": 284,
+  "tire_diameter_mm": 890,
+  "tire_front": {
+    "original": "7-12",
+    "radial": false,
+    "width_mm": 178,
+    "rim_in": 12,
+    "diameter_mm_est": 607,
+    "tipo": "Diagonal",
+    "texto": "7-12"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1246/1246-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1246/1246-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1246.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2000 - 2005",
+          "__seccion_2__": "B Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "B2410HSE": "2WD",
+          "B2410HSD": "4WD",
+          "B2410HSDB": "4WD bi-speed turn"
+        },
+        {
+          "__seccion_1__": "Kubota B2410 Engine",
+          "__seccion_2__": "Kubota 1.1L 3-cyl diesel",
+          "Fuel tank": "6.3 gal 23.8 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B2410 Transmission",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota B2410 Power",
+          "Engine (gross)": "24 hp 17.9 kW",
+          "PTO (claimed)": "18 hp 13.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "spur gear",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota B2410 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "2",
+          "Pump flow": "4.4 gpm 16.7 lpm",
+          "Steering flow": "2.6 gpm 9.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at ends)": "1655 lbs 750 kg",
+          "Rear lift (at 24\"/610mm)": "1300 lbs * The Kubota manual recommends 600 pounds as the maximum load to be carried on the hitch. 589 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "2500@2578",
+          "Mid PTO": "live",
+          "Mid PTO Type": "2500"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "59 inches 149 cm",
+          "Weight": "1367 to 1500 pounds",
+          "Front tire": "6.50-10",
+          "2WD Rear tire": "11.2-16",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota B2410 attachments",
+          "__seccion_2__": "54\" mid-mount mower deck",
+          "__seccion_3__": "60\" mid-mount mower deck",
+          "__seccion_4__": "snowblower",
+          "__seccion_5__": "blade",
+          "__seccion_6__": "front-end loader",
+          "__seccion_7__": "backhoe",
+          "__seccion_8__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery CCA": "433",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "B7400/B7500 B2410/B2710/B2910 published in 1999, by Kubota",
+          "__seccion_3__": "B7400/B7500/B7800 B2410/B2710/B2910 published in 2003, by Kubota"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 1, 2024"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2000 - 2005",
+          "__seccion_2__": "B Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota B2410 Tires",
+          "2WD Standard tires (ag)": "Front: 6.50-10. Rear: 11.2-16",
+          "4WD Standard tires (ag)": "Front: 7-12. Rear: 11.2-16"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "59 inches 149 cm",
+          "Length": "91.7 inches 232 cm",
+          "Width": "46.3 inches 117 cm",
+          "Height (steering wheel)": "53.2 inches 135 cm",
+          "Height (ROPS)": "77.4 inches 196 cm",
+          "Ground clearance": "12.8 inches 32 cm",
+          "&nbsp": "11.2 inches (HSDB) 28 cm",
+          "2WD Front tread": "32.9 inches 83 cm",
+          "4WD Front tread": "35.4 inches 89 cm",
+          "Rear tread": "35 to 41.9 inches 88 to 106 cm"
+        },
+        {
+          "__seccion_1__": "Kubota B2410 Weight",
+          "2WD": "1367 lbs 620 kg",
+          "4WD": "1477 lbs 669 kg",
+          "HSDB": "1500 lbs 680 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 1, 2024"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2000 - 2005",
+          "__seccion_2__": "B Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota D1105",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "68.5 ci 1.1 L",
+          "Bore/Stroke": "3.07x3.09 inches 78 x 78 mm",
+          "Power (gross)": "24 hp 17.9 kW",
+          "Fuel system": "indirect injection",
+          "Air cleaner": "dry",
+          "Rated RPM": "2600",
+          "Torque": "50 lb-ft 67.8 Nm",
+          "Starter volts": "12",
+          "Oil capacity": "3.2 qts 3.0 L",
+          "Coolant capacity": "4 qts 3.8 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 1, 2024"
+        }
+      ]
+    }
+  }
+}

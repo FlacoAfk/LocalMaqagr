@@ -1,0 +1,257 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/1/9/1194-caseih-7140.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/1/9/1194-caseih-7140-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/1/9/1194-caseih-7140-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/1/9/1194-caseih-7140-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1194,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:36:17.402Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1194/1194-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 77 KB"
+  },
+  "tractor_data_id": 1194,
+  "name": "CaseIH 7140",
+  "brand": "CaseIH",
+  "model": "7140",
+  "years": {
+    "desde": 1987,
+    "hasta": 1993
+  },
+  "model_year": 1987,
+  "engine_power_hp": 195,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 195,
+  "pto_tested_hp": 197.53,
+  "drawbar_tested_hp": null,
+  "weight_kg": 7475,
+  "weight_basis": "Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 72.5,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 18.4R42",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1861,
+  "tire_front": null,
+  "fuel_consumption_lph": 42.4,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1194/1194-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1194/1194-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1194.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1987 - 1993",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA",
+          "Original price": "$91,000 (1993)"
+        },
+        {
+          "__seccion_1__": "CaseIH 7140 Engine",
+          "__seccion_2__": "CDC 8.3L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 7140 Transmissions",
+          "__seccion_2__": "18-speed full power shift",
+          "__seccion_3__": "24-speed powershift with creeper",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 7140 Power",
+          "PTO (claimed)": "195 hp 145.4 kW",
+          "PTO (tested)": "197.53 hp 147.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 MFWD 4WD optional",
+          "Steering": "hydrostatic power",
+          "__seccion_2__": "Differential hydraulic wet disc brakes",
+          "__seccion_3__": "Silent Guardian II Cab standard with air-conditioning. Optional radio/tape deck."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH 7140 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "95 gal 359.6 L",
+          "Hydraulic system": "50.5 gal 191.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure flow compensated (PFC)",
+          "Capacity": "50.5 gal 191.1 L",
+          "Pressure": "2600 psi 179.3 bar",
+          "Valves": "2 to 4",
+          "Pump flow": "22 gpm 83.3 lpm",
+          "Total flow": "29 gpm 109.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/IIIN",
+          "Control": "electronic lower link",
+          "Rear lift (at 24\"/610mm)": "10,200 lbs 4626 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "wet disc",
+          "Rear PTO Type": "1000 (1.75)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "118.3 inches 300 cm",
+          "Weight": "16480 to 17850 pounds",
+          "Front tire": "14L-16.1",
+          "Rear tire": "18.4R42 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1987": "9949001",
+          "1988": "JJA0001501",
+          "1989": "JJA0008528",
+          "1990": "JJA0018838",
+          "1991": "JJA0030160",
+          "1992": "JJA0039300",
+          "1993": "JJA0046350",
+          "__seccion_1__": "7140 Serial Numbers",
+          "Location:": "On the floor, inside the tractor's cab.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "110",
+          "Batteries": "2",
+          "Battery CCA": "950",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Magnum published in 1987, by CaseIH",
+          "__seccion_3__": "Magnum Serie 7100 published in 1990, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 29, 2014"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1987 - 1993",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH 7140 Tires",
+          "Standard tires (ag)": "Front: 14L-16.1. Rear: 18.4R42 (2WD)",
+          "&nbsp": "Front: 14.9R28. Rear: 18.4R42 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "118.3 inches 300 cm",
+          "Length": "191.4 inches (2WD) 486 cm",
+          "&nbsp": "17.6 inches (4WD) 44 cm",
+          "Height (cab)": "119.3 inches (2WD) 303 cm",
+          "Clearance (front axle)": "22.8 inches (2WD) 57 cm",
+          "Clearance (drawbar)": "16.6 inches 42 cm",
+          "Rear axle": "4 by 114 inches 101 by 2895 mm",
+          "Front tread": "60 to 95 inches 152 to 241 cm (4WD)",
+          "Rear tread": "60 to 127 inches 152 to 322 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH 7140 Weight",
+          "Shipping": "16,480 lbs (2WD) 7475 kg",
+          "&nbsp": "17,760 lbs (4WD) 8055 kg",
+          "Operating": "17,850 lbs 8096 kg",
+          "Ballasted": "23,780 lbs 10786 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 29, 2014"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1987 - 1993",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1612",
+          "__seccion_2__": "Diesel 18-speed 4WD July 1988 - 1988,",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "197.53 hp 147.3 kW",
+          "Fuel use": "11.2 gal/hour 42.4 l/hour"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 29, 2014"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1987 - 1993",
+          "__seccion_2__": "Magnum Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "CDC",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "6-cylinder 12-valve",
+          "__seccion_5__": "liquid-cooled vertical inline",
+          "Displacement": "504.5 ci 8.3 L",
+          "Bore/Stroke": "4.488x5.315 inches 114 x 135 mm",
+          "Cooling system": "viscous fan",
+          "Air cleaner": "dual paper elements",
+          "Pre-heating": "ether starting aid",
+          "&nbsp": "oil pan heater (optional)",
+          "Compression": "16.5:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12",
+          "Oil capacity": "21 qts 19.9 L",
+          "Oil change": "250 h",
+          "Coolant capacity": "31 qts 29.3 L"
+        },
+        {
+          "__seccion_1__": "CaseIH 7140 Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 29, 2014"
+        }
+      ]
+    }
+  }
+}

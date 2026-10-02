@@ -1,0 +1,219 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/7/5/754-massey-ferguson-231.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/7/5/754-massey-ferguson-231-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/7/5/754-massey-ferguson-231-engine.html",
+    "source_id": 754,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:23:30.813Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/754/754-td4-b01-ext270.jpg",
+    "foto_calidad": "webp 960px/q65 → 73 KB"
+  },
+  "tractor_data_id": 754,
+  "name": "Massey Ferguson 231",
+  "brand": "Massey Ferguson",
+  "model": "231",
+  "years": {
+    "desde": 1989,
+    "hasta": 1999
+  },
+  "model_year": 1989,
+  "engine_power_hp": 38,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 34,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1843,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 12.5,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 13.6-28",
+  "tire_width_mm": 345,
+  "tire_diameter_mm": 1298,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/754/754-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/754/754-td4-b01-ext270.jpg",
+  "image_url": "/uploads/tractors/td754.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1989 - 1999",
+          "__seccion_2__": "200 One Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson",
+          "__seccion_2__": "Utility tractor",
+          "Original price": "$13,000 (1999)"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 231 Engine",
+          "__seccion_2__": "Perkins 2.5L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 231 Transmission",
+          "__seccion_2__": "8-speed sliding gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 231 Power",
+          "Engine": "38 hp 28.3 kW",
+          "PTO (claimed)": "34 hp 25.4 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "power assist",
+          "__seccion_3__": "Drum brakes",
+          "__seccion_4__": "Two-post folding ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 231 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "15.3 gal 57.9 L",
+          "Hydraulic system": "9.2 gal 34.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open",
+          "Capacity": "9.2 gal 34.8 L"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position and draft control"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live (two-stage clutch)",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "76 inches 193 cm",
+          "Weight": "4,065 lbs 1843 kg",
+          "Front tire": "6.00-16",
+          "Rear tire": "13.6-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 231 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1989": "P17001",
+          "1990": "Q01001",
+          "1991": "S01001",
+          "1992": "A01001",
+          "1993": "B01001",
+          "1994": "C01001",
+          "1995": "D01001",
+          "1996": "E01001",
+          "1997": "F01001",
+          "1998": "G01001",
+          "1999": "H01001",
+          "__seccion_1__": "231 Serial Numbers",
+          "Location:": "Right side of instrument panel",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Loaders - Compact and Agricultural published in 1989, by Massey Ferguson",
+          "__seccion_3__": "MF 200 Series published in 1994, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 9, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1989 - 1999",
+          "__seccion_2__": "200 One Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 231 Tires",
+          "Ag front": "6.00-16",
+          "Ag rear": "13.6-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "76 inches 193 cm",
+          "Length": "128 inches 325 cm",
+          "Width": "76 inches 193 cm",
+          "Height (ROPS)": "87.5 inches 222 cm",
+          "Weight": "4,065 lbs 1843 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 9, 2022"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1989 - 1999",
+          "__seccion_2__": "200 One Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins AD3.152",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "152 ci 2.5 L",
+          "Bore/Stroke": "3.60x5.00 inches 91 x 127 mm",
+          "Power": "38 hp 28.3 kW",
+          "Air cleaner": "oil bath",
+          "Rated RPM": "2000",
+          "Starter volts": "12",
+          "Coolant capacity": "11.2 qts 10.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 9, 2022"
+        }
+      ]
+    }
+  }
+}

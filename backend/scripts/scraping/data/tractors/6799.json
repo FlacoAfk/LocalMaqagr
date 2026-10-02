@@ -1,0 +1,225 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/7/9/6799-kubota-m5640su.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/7/9/6799-kubota-m5640su-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/7/9/6799-kubota-m5640su-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 6799,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:58:27.213Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6799/6799-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 108 KB"
+  },
+  "tractor_data_id": 6799,
+  "name": "Kubota M5640SU",
+  "brand": "Kubota",
+  "model": "M5640SU",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 56,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": 50,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1699,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 18.3,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 14.9-28",
+  "tire_width_mm": 378,
+  "tire_diameter_mm": 1355,
+  "tire_front": {
+    "original": "6.50-16",
+    "radial": false,
+    "width_mm": 165,
+    "rim_in": 16,
+    "diameter_mm_est": 687,
+    "tipo": "Diagonal",
+    "texto": "6.50-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F006/6799/6799-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6799/6799-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td6799.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2009 - ????",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Kubota",
+          "__seccion_2__": "Utility tractor",
+          "Original price": "$19,540 (2011)"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "M5640SU": "2WD",
+          "M5640SUD": "4WD"
+        },
+        {
+          "__seccion_1__": "Kubota M5640SU Engine",
+          "__seccion_2__": "Kubota 2.4L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M5640SU Transmission",
+          "__seccion_2__": "8-speed partially synchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Kubota M5640SU Power",
+          "Engine (net)": "56 hp 41.8 kW",
+          "PTO (claimed)": "50 hp 37.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 MFWD 4WD (optional)",
+          "Differential lock": "rear standard",
+          "Steering": "hydrostatic power",
+          "__seccion_2__": "Mechanical wet disc brakes",
+          "__seccion_3__": "Two-post foldable ROPS. Optional canopy."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Kubota M5640SU photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "13.1 gal 49.6 L",
+          "Hydraulic system": "10.6 gal 40.1 L",
+          "Front axle": "8.5 qts 8.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "10.6 gal 40.1 L",
+          "Valves": "0 to 2",
+          "Pump flow": "11 gpm 41.6 lpm",
+          "Total flow": "17.1 gpm 64.7 lpm",
+          "Steering flow": "6.1 gpm 23.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift (at ends)": "4,200 lbs 1905 kg",
+          "Rear lift (at 24\"/610mm)": "3,307 lbs 1500 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "Engine RPM": "540@2295"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "78.7 inches 199 cm",
+          "Weight": "3747 to 3858 pounds",
+          "Front tire": "6.50-16",
+          "Rear tire": "14.9-28 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Kubota M5640SU attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "Battery CCA": "582",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 16, 2016"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2009 - ????",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Kubota M5640SU Tires",
+          "Standard tires (ag)": "Front: 6.50-16. Rear: 14.9-28 (2WD)",
+          "&nbsp": "21.5L-16",
+          "Optional tires (ag)": "Front: 7.50-16. Rear: 16.9-28 (2WD)",
+          "Lawn/turf front": "9.00-10 (2WD)",
+          "Lawn/turf rear": "16.9-24 (2WD)",
+          "Industrial front": "12.5/80-18 (4WD)",
+          "Industrial rear": "16.9-24 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "78.7 inches 199 cm",
+          "Length": "136 inches (2WD) 345 cm",
+          "&nbsp": "3,858 lbs (4WD) 1749 kg",
+          "Width": "67.3 inches 170 cm",
+          "Height (ROPS)": "92.9 inches 235 cm",
+          "Weight": "3,747 lbs (2WD) 1699 kg",
+          "Clearance (front axle)": "17.9 inches 45 cm",
+          "Front tread": "52.4 to 56.3 inches 133 to 143 cm (4WD)",
+          "Rear tread": "51.9 to 67.7 inches 131 to 171 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 16, 2016"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2009 - ????",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Kubota V2403-T",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "148.5 ci 2.4 L",
+          "Emissions": "Interim Tier IV",
+          "Power (net)": "56 hp 41.8 kW",
+          "Air cleaner": "dual dry element",
+          "Rated RPM": "2700",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "7.6 qts 7.2 L",
+          "Coolant capacity": "7.4 qts 7.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on June 16, 2016"
+        }
+      ]
+    }
+  }
+}

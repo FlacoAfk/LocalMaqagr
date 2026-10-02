@@ -1,0 +1,166 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/0/5/5053-belarus-5440.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/0/5/5053-belarus-5440-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/0/5/5053-belarus-5440-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 5053,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:29:38.143Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5053/5053-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 4 KB"
+  },
+  "tractor_data_id": 5053,
+  "name": "Belarus 5440",
+  "brand": "Belarus",
+  "model": "5440",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 40,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 40,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2154,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 14.7,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "8.3x20",
+    "radial": false,
+    "width_mm": 211,
+    "rim_in": 20,
+    "diameter_mm_est": 866,
+    "tipo": "Diagonal",
+    "texto": "8.3x20"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F005/5053/5053-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td5053.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Belarus"
+        },
+        {
+          "__seccion_1__": "Belarus 5440 Engine",
+          "__seccion_2__": "3.1L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Belarus 5440 Transmission",
+          "__seccion_2__": "6-speed shuttle",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Belarus 5440 Power",
+          "PTO (claimed)": "40 hp 29.8 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "ROPS. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Belarus 5440 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "1"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO Type": "540"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "82 inches 208 cm",
+          "Weight": "4750 to 4850 pounds",
+          "Front tire": "8.3x20",
+          "Rear tire": "12.4Rx28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 28, 2011"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "Belarus 5440 Tires",
+          "Ag front": "8.3x20",
+          "Ag rear": "12.4Rx28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "82 inches 208 cm",
+          "Length": "137 inches 347 cm",
+          "Width": "65 inches 165 cm",
+          "Height (ROPS)": "97.7 inches 248 cm",
+          "Height (cab)": "99.7 inches 253 cm",
+          "Ground clearance": "12.5 inches (drawbar) 31 cm",
+          "&nbsp": "15.5 inches (front axle) 39 cm"
+        },
+        {
+          "__seccion_1__": "Belarus 5440 Weight",
+          "Shipping": "4,750 lbs (ROPS) 2154 kg",
+          "&nbsp": "5,842 lbs (cab) 2649 kg",
+          "Max capacity": "5,773 lbs (ROPS) 2618 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 28, 2011"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "diesel",
+          "__seccion_3__": "3-cylinder",
+          "__seccion_4__": "air-cooled",
+          "Displacement": "190 ci 3.1 L",
+          "Rated RPM": "2000",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 28, 2011"
+        }
+      ]
+    }
+  }
+}

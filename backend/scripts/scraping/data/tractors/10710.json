@@ -1,0 +1,241 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/7/1/10710-massey-ferguson-gc1723e.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/7/1/10710-massey-ferguson-gc1723e-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/7/1/10710-massey-ferguson-gc1723e-engine.html",
+    "source_id": 10710,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:51:55.803Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10710/10710-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 149 KB"
+  },
+  "tractor_data_id": 10710,
+  "name": "Massey Ferguson GC1723E",
+  "brand": "Massey Ferguson (a part of AGCO)",
+  "model": "ferguson gc1723e",
+  "years": {
+    "desde": 2019,
+    "hasta": 2024
+  },
+  "model_year": 2019,
+  "engine_power_hp": 22.5,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 18.7,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1220,
+  "weight_basis": "Max capacity",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 6.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 26x12.00-12",
+  "tire_width_mm": 305,
+  "tire_diameter_mm": 660,
+  "tire_front": {
+    "original": "18x8.50-10",
+    "radial": false,
+    "width_mm": 216,
+    "rim_in": 10,
+    "diameter_mm_est": 457,
+    "tipo": "Diagonal",
+    "texto": "18x8.50-10"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F010/10710/10710-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F010/10710/10710-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td10710.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2019 - 2024",
+          "__seccion_2__": "GC1700 Series",
+          "__seccion_3__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson (a part of AGCO)",
+          "__seccion_2__": "Sub-Compact Utility tractor",
+          "__seccion_3__": "Original price was $11,156 in 2020"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "GC1723E": "tractor",
+          "GC1723EB": "backhoe-loader tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson GC1723E Engine",
+          "__seccion_2__": "Iseki 1.1L 3-cyl diesel",
+          "Fuel tank": "6.6 gal 25.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson GC1723E Transmission",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson GC1723E Power",
+          "Engine (gross)": "22.5 hp 16.8 kW",
+          "Engine (net)": "21.6 hp 16.1 kW",
+          "PTO (claimed)": "18.7 hp 13.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post fixed ROPS. Folding ROPS on GC1723EB backhoe package."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson GC1723E photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "1920 psi 132.4 bar",
+          "Pump flow": "4.3 gpm 16.3 lpm",
+          "Total flow": "6.3 gpm 23.8 lpm",
+          "Steering flow": "2.0 gpm 7.6 lpm",
+          "Steering press.": "1209 psi 83.4 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at ends)": "1191 lbs 540 kg",
+          "Rear lift (at 24\"/610mm)": "661 lbs 299 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "mechanical wet disc",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2532",
+          "Mid PTO": "independent",
+          "Mid PTO Type": "2000 (1.00)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "57.1 inches 145 cm",
+          "Weight": "1521 lbs 689 kg",
+          "Front tire": "18x8.50-10",
+          "Rear tire": "26x12.00-12",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson GC1723E attachments",
+          "__seccion_2__": "54\" mid-mount mower deck",
+          "__seccion_3__": "60\" mid-mount mower deck",
+          "__seccion_4__": "snowblower",
+          "__seccion_5__": "blade",
+          "__seccion_6__": "front-end loader",
+          "__seccion_7__": "backhoe",
+          "__seccion_8__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "Battery CCA": "433",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF GC1700 Series published in 2023, by Massey Ferguson",
+          "__seccion_3__": "GC1700E/M Series published in 2019, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on October 4, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2019 - 2024",
+          "__seccion_2__": "GC1700 Series",
+          "__seccion_3__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson GC1723E Tires",
+          "Ag front": "18x8.50-10",
+          "Ag rear": "26x12.00-12",
+          "Lawn/turf front": "18x8.50-10",
+          "Lawn/turf rear": "26x12.00-12",
+          "Industrial front": "18x8.50-10",
+          "Industrial rear": "26x12.00-12"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "57.1 inches 145 cm",
+          "Length": "97.6 inches 247 cm",
+          "Width": "46.7 inches * Minimum width with R1 tires. 118 cm",
+          "Height (steering wheel)": "52 inches 132 cm",
+          "Height (ROPS)": "72.8 inches 184 cm",
+          "Ground clearance": "6.7 inches 17 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson GC1723E Weight",
+          "__seccion_2__": "1521 lbs 689 kg",
+          "Max capacity": "2690 lbs 1220 kg",
+          "Max front axle": "1940 lbs 879 kg",
+          "Max rear axle": "2094 lbs 949 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 4, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2019 - 2024",
+          "__seccion_2__": "GC1700 Series",
+          "__seccion_3__": "Sub-Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iseki E3112",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "68.5 ci 1.1 L",
+          "Bore/Stroke": "3.08x3.07 inches 78 x 78 mm",
+          "Emissions": "Tier IV",
+          "Power (net)": "21.6 hp 16.1 kW",
+          "Power (gross)": "22.5 hp 16.8 kW",
+          "Fuel system": "indirect injection",
+          "Air cleaner": "dry",
+          "Compression": "22.5:1",
+          "Rated RPM": "2600",
+          "Idle RPM": "1250-2860",
+          "Firing order": "1-3-2",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 4, 2025"
+        }
+      ]
+    }
+  }
+}

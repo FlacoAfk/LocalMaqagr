@@ -1,0 +1,220 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/8/5/7859-john-deere-6100b.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/8/5/7859-john-deere-6100b-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/8/5/7859-john-deere-6100b-engine.html",
+    "source_id": 7859,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:00:29.063Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7859/7859-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 2 KB"
+  },
+  "tractor_data_id": 7859,
+  "name": "John Deere 6100B",
+  "brand": "John Deere",
+  "model": "6100B",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 106,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 90,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3700,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 33,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 18.4x34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "13.6x24",
+    "radial": false,
+    "width_mm": 345,
+    "rim_in": 24,
+    "diameter_mm_est": 1197,
+    "tipo": "Diagonal",
+    "texto": "13.6x24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7859/7859-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td7859.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2010 -",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Tianjin, China"
+        },
+        {
+          "__seccion_1__": "John Deere 6100B Engine",
+          "__seccion_2__": "John Deere 4.5L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6100B Transmission",
+          "__seccion_2__": "9-speed unsynchronized gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 6100B Power",
+          "Engine": "106 hp 79.0 kW",
+          "PTO (claimed)": "90 hp 67.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Mechanical wet disc brakes",
+          "__seccion_5__": "Four-post ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 6100B are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "39.6 gal 149.9 L",
+          "Hydraulic system": "15.85 gal 60.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "15.85 gal 60.0 L",
+          "Valves": "0 to 3",
+          "Pump flow": "12.7 gpm 48.1 lpm",
+          "Steering flow": "7.1 gpm 26.9 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at ends)": "5292 lbs 2400 kg",
+          "Rear lift (at 24\"/610mm)": "4829 lbs 2190 kg",
+          "Rear Arms": "fixed link ends"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@2100",
+          "&nbsp": "1000@2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "91 inches 231 cm",
+          "Weight": "8157 lbs 3700 kg",
+          "Front tire": "12.4x24",
+          "Rear tire": "16.9x34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "6100B Serial Numbers",
+          "Location:": "Right side of tractor frame above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "75",
+          "Battery CCA": "925",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 12, 2018",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2010 -",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 6100B Tires",
+          "Ag front": "13.6x24",
+          "Ag rear": "18.4x34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "91 inches 231 cm",
+          "Length": "174.1 inches 442 cm",
+          "Width": "65 inches 165 cm",
+          "Height (exhaust)": "112.6 inches 286 cm",
+          "Shipping weight": "8157 lbs 3700 kg",
+          "Clearance (front axle)": "17.1 inches 43 cm",
+          "Clearance (rear axle)": "26.4 inches 67 cm",
+          "Clearance (drawbar)": "18.4 inches 46 cm",
+          "Front tread": "60.2 to 79.7 inches 152 to 202 cm",
+          "Rear tread": "59.5 to 79.4 inches 151 to 201 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 12, 2018"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2010 -",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere 4045T",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "274.6 ci 4.5 L",
+          "Bore/Stroke": "4.173x5.00 inches 106 x 127 mm",
+          "Power": "106 hp 79.0 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dual dry element",
+          "Compression": "17:1",
+          "Rated RPM": "21000",
+          "Firing order": "1-3-4-2",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Starter power": "5.6 hp 4.2 kW",
+          "Coolant capacity": "14.3 qts 13.5 L"
+        },
+        {
+          "__seccion_1__": "Engine Oil",
+          "Oil capacity": "13.2 qts 12.5 L",
+          "Oil change": "250 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 12, 2018"
+        }
+      ]
+    }
+  }
+}

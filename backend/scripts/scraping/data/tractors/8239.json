@@ -1,0 +1,258 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/2/3/8239-massey-ferguson-7718.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/2/3/8239-massey-ferguson-7718-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/008/2/3/8239-massey-ferguson-7718-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/2/3/8239-massey-ferguson-7718-engine.html",
+    "source_id": 8239,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:46:01.363Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8239/8239-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 33 KB",
+    "nebraska_pdf": null
+  },
+  "tractor_data_id": 8239,
+  "name": "Massey Ferguson 7718",
+  "brand": "Massey Ferguson (a part of AGCO)",
+  "model": "ferguson 7718",
+  "years": {
+    "desde": 2015,
+    "hasta": 2018
+  },
+  "model_year": 2015,
+  "engine_power_hp": 165,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 135,
+  "pto_tested_hp": 165.6,
+  "drawbar_tested_hp": 126.6,
+  "weight_kg": null,
+  "weight_basis": null,
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 62.6,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 460/85R38",
+  "tire_width_mm": 460,
+  "tire_diameter_mm": 1747,
+  "tire_front": {
+    "original": "380/85R28",
+    "radial": true,
+    "width_mm": 380,
+    "rim_in": 28,
+    "diameter_mm_est": 1357,
+    "tipo": "Radial",
+    "texto": "380/85R28"
+  },
+  "fuel_consumption_lph": 34.1,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F008/8239/8239-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F008/8239/8239-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td8239.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2015 - 2018",
+          "__seccion_2__": "7700 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Massey Ferguson (a part of AGCO)",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Beauvais, France",
+          "Original price": "$146,453 (2015 Dyna-6 Classic )",
+          "__seccion_4__": "$188,259 (2015 Dyna-VT Premium )"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 7718 Engine",
+          "__seccion_2__": "AGCO POWER 6.6L 6-cyl diesel",
+          "Fuel tank": "82 gal 310.4 L",
+          "Exhaust fluid (DEF)": "8 gal 30.3 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 7718 Transmissions",
+          "__seccion_2__": "24-speed six-speed power shift",
+          "__seccion_3__": "continuously-variable transmission (CVT)",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 7718 Power",
+          "Engine (gross)": "165 hp 123.0 kW",
+          "PTO (claimed)": "135 hp 100.7 kW",
+          "Drawbar (tested)": "126.6 hp 94.4 kW",
+          "PTO (tested)": "165.6 hp 123.5 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "full-locking electro-hydraulic",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Cab standard with air-conditioning. AGCOMMAND ready"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 7718 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center load sensing",
+          "Pressure": "2900 psi 200.0 bar",
+          "Pump flow": "29 gpm 109.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/II",
+          "Control": "electronic lower-link draft sensing",
+          "Drawbar": "Cat. 2"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000",
+          "&nbsp": "540/540E/1000/1000E"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Front tire": "380/85R28",
+          "Rear tire": "460/85R38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "175",
+          "&nbsp": "240 * Dual 120A alternators on Deluxe and Premium models.",
+          "Batteries": "2",
+          "Battery CCA": "600",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "7700 Series published in 2015, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 29, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2015 - 2018",
+          "__seccion_2__": "7700 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 7718 Tires",
+          "Standard tires (ag)": "Front: 380/85R28. Rear: 460/85R38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "__seccion_2__": "Flange rear axle",
+          "Bar rear axle": "3.74 by 90 inches 94 by 2286 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 29, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2015 - 2018",
+          "__seccion_2__": "7700 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "OECD 2993: diesel Dyna-6 4WD",
+          "__seccion_3__": "OECD 2990: diesel Dyna-VT 4WD"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2993"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2993",
+          "__seccion_2__": "Diesel Dyna-6 4WD May 2016 - August 2016, Link: OCED Tractor Test 2993 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "126.6 hp 94.4 kW",
+          "Fuel use": "9.0 gal/hour 34.1 l/hour",
+          "Power at rated engine speed": "154.1 hp 114.9 kW",
+          "Power at rated PTO speed": "161.6 hp 120.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 3A used for power test.",
+          "Max pull": "14075 lbs 6384 kg",
+          "__seccion_6__": "Gear 1F used for pull test."
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2990"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2990",
+          "__seccion_2__": "Diesel Dyna-VT 4WD July 2016 - August 2016, Link: OCED Tractor Test 2990 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "119.8 hp 89.3 kW",
+          "Fuel use": "9.0 gal/hour 34.1 l/hour",
+          "Power at rated engine speed": "156.1 hp 116.4 kW",
+          "Power at rated PTO speed": "164.7 hp 122.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Pull at 7.80 KPH",
+          "Max pull": "15600 lbs 7076 kg",
+          "__seccion_6__": "Pull at 4.19 KPH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 29, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2015 - 2018",
+          "__seccion_2__": "7700 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "AGCO POWER",
+          "__seccion_3__": "turbocharged air-to-air aftercooled diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "402.5 ci 6.6 L",
+          "Bore/Stroke": "4.252x4.724 inches 108 x 120 mm",
+          "Emissions": "Tier 4",
+          "Emission control": "selective catalytic reduction (SCR)",
+          "Power (gross)": "165 hp 123.0 kW",
+          "Fuel system": "common rail",
+          "Cooling system": "electronic viscous fan",
+          "Air cleaner": "dual dry element",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on July 29, 2021"
+        }
+      ]
+    }
+  }
+}

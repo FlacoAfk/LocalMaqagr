@@ -1,0 +1,237 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/011/3/3/11333-massey-ferguson-174-4.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/011/3/3/11333-massey-ferguson-174-4-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/011/3/3/11333-massey-ferguson-174-4-engine.html",
+    "source_id": 11333,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:55:38.404Z",
+    "foto_original": "https://www.tractordata.com/photos/F011/11333/11333-td4-b01-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 125 KB"
+  },
+  "tractor_data_id": 11333,
+  "name": "Massey Ferguson 174-4",
+  "brand": "Landini",
+  "model": "ferguson 174 4",
+  "years": {
+    "desde": 1973,
+    "hasta": 1983
+  },
+  "model_year": 1973,
+  "engine_power_hp": 65,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2490,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 23.8,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F011/11333/11333-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F011/11333/11333-td4-b01-ext045.jpg",
+  "image_url": "/uploads/tractors/td11333.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1973 - 1983",
+          "__seccion_2__": "104 Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Landini built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Massey Ferguson",
+          "Manufacturer": "Landini",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Italy"
+        },
+        {
+          "174": "2WD",
+          "6500": "similar Landini model",
+          "__seccion_1__": "Variants",
+          "174-4": "4WD",
+          "174C": "ag crawler"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 174-4 Engine",
+          "__seccion_2__": "Perkins 3.9L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 174-4 Transmission",
+          "__seccion_2__": "12-speed partially synchronized",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 174-4 Power",
+          "Engine": "65 hp 48.5 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Dry disc brakes",
+          "__seccion_5__": "Open operator station. Cab optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 174-4 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "16 gal 60.6 L",
+          "Hydraulic system": "5.5 gal 20.8 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "5.5 gal 20.8 L",
+          "Pressure": "2418 psi 166.7 bar",
+          "Pump flow": "7.4 gpm 28.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "position and draft control",
+          "Rear lift (at ends)": "5842 lbs 2649 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "dry disc",
+          "Rear PTO Type": "540 (1.375)",
+          "&nbsp": "1000@1916",
+          "Engine RPM": "540@1944"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "85.8 inches 217 cm",
+          "Weight": "5490 lbs 2490 kg",
+          "Front tire": "9.5/9-24",
+          "Rear tire": "14.9/13-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 174-4 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "174-4 Serial Number Location",
+          "__seccion_2__": "Serial number stamped into the rear of the tractor, above and to the left of the PTO shaft."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12",
+          "Battery AH": "92"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operator Instruction Book 154 - 174 - 184 - 194 (3300912M2) *",
+          "__seccion_3__": "MF174-4 published in 1977, by Massey Ferguson",
+          "__seccion_4__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 17, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1973 - 1983",
+          "__seccion_2__": "104 Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Landini built"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 174-4 Tires",
+          "Standard tires (ag)": "Front: 9.5/9-24. Rear: 14.9/13-30",
+          "Optional tires (ag)": "Front: 8.3/8-24. Rear: 14.9/13-28",
+          "&nbsp": "Front: 11.2/10-24. Rear: 12.4-11-36"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "85.8 inches 217 cm",
+          "Length": "146.7 inches 372 cm",
+          "Width": "62 inches * Minimum width 157 cm",
+          "Weight": "5490 lbs 2490 kg",
+          "Clearance (front axle)": "14.1 inches 35 cm",
+          "Front tread": "59.2 inches 150 cm",
+          "Rear tread": "47.2 to 74.8 inches 119 to 189 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 174-4 Height",
+          "Steering wheel": "64 inches 162 cm",
+          "Hood": "55.5 inches 140 cm",
+          "ROPS": "89.4 inches 227 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 17, 2023"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1973 - 1983",
+          "__seccion_2__": "104 Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Landini built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins A4.236",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "235.8 ci 3.9 L",
+          "Bore/Stroke": "3.875x5.00 inches 98 x 127 mm",
+          "Power": "65 hp 48.5 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "oil bath",
+          "Compression": "16:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "650-2410",
+          "Torque": "179.3 lb-ft 243.1 Nm",
+          "Torque RPM": "1400",
+          "Firing order": "1-3-4-2",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "9.6 qts 9.1 L",
+          "Coolant capacity": "15.9 qts 15.0 L",
+          "Intake valve clearance": "0.012 inches (cold) 0.305 mm",
+          "Exhaust valve clearance": "0.012 inches (cold) 0.305 mm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 17, 2023"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/6/161-john-deere-7600.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/6/161-john-deere-7600-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/1/6/161-john-deere-7600-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/6/161-john-deere-7600-engine.html",
+    "source_id": 161,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:51:01.532Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/161/161-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 96 KB"
+  },
+  "tractor_data_id": 161,
+  "name": "John Deere 7600",
+  "brand": "John Deere",
+  "model": "7600",
+  "years": {
+    "desde": 1992,
+    "hasta": 1996
+  },
+  "model_year": 1992,
+  "engine_power_hp": 130,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": 112,
+  "pto_tested_hp": 113.04,
+  "drawbar_tested_hp": 100.57,
+  "weight_kg": 6781,
+  "weight_basis": "4WD Operating weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 63.8,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": {
+    "original": "10.00-16",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 16,
+    "diameter_mm_est": 838,
+    "tipo": "Diagonal",
+    "texto": "10.00-16"
+  },
+  "fuel_consumption_lph": 24.2,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/161/161-td3a.jpg",
+  "image_url": "/uploads/tractors/td161.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1992 - 1996",
+          "__seccion_2__": "7000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "__seccion_4__": "Original price was $60,500 in 1996"
+        },
+        {
+          "__seccion_1__": "John Deere 7600 Engine",
+          "__seccion_2__": "John Deere 6.8L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7600 Transmissions",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "19-speed full power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7600 Power",
+          "Engine (net)": "130 hp 96.9 kW",
+          "PTO (claimed)": "112 hp 83.5 kW",
+          "Drawbar (tested)": "100.57 hp 75.0 kW",
+          "PTO (tested)": "113.04 hp 84.3 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "electro-hydraulic rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Differential hydraulic wet disc brakes",
+          "__seccion_5__": "ComfortGard cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 7600 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "65 gal 246.0 L",
+          "&nbsp": "91 gal Opt Optional 344.4 L",
+          "Hydraulic system": "22.5 gal 85.2 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center pressure and flow compensated",
+          "Capacity": "22.5 gal 85.2 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "2 to 3",
+          "SCV flow": "25.4 gpm 96.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "IIIN/II",
+          "Control": "position and draft control",
+          "Rear lift": "7225 lbs 3277 kg",
+          "&nbsp": "10050 lbs * Optional with four-wheel drive. 4558 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "114.4 inches 290 cm",
+          "4WD Wheelbase": "110.2 inches 279 cm",
+          "Weight": "13160 to 14950 pounds",
+          "Front tire": "10.00-16",
+          "Rear tire": "18.4-38 (2WD)",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 7600 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "7600 Serial Number Location",
+          "__seccion_2__": "Serial number tag on right side of tractor frame, above the front axle."
+        },
+        {
+          "1993": "1001",
+          "1994": "4601",
+          "1995": "6195",
+          "1996": "8001",
+          "__seccion_1__": "7600 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "140",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "New 110- to 145-HP 7000 Series Tractors published in 1992, by John Deere",
+          "__seccion_3__": "New John Deere 7000 Series Tractors published in 1993",
+          "__seccion_4__": "Row-Crop Tractors Product Information Handbook published in 1992, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 7, 2021",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1992 - 1996",
+          "__seccion_2__": "7000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 7600 Tires",
+          "Standard tires (ag)": "Front: 10.00-16. Rear: 18.4-38 (2WD)",
+          "&nbsp": "Front: 14.9-28. Rear: 18.4-38 (4WD)"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "114.4 inches 290 cm",
+          "4WD Wheelbase": "110.2 inches 279 cm",
+          "Length": "187.2 inches 475 cm",
+          "Height (cab)": "118.4 inches 300 cm",
+          "2WD Shipping weight": "13160 lbs 5969 kg",
+          "4WD Operating weight": "14950 lbs 6781 kg",
+          "4WD Ground clearance": "22.2 inches 56 cm",
+          "Rack-and-pinion rear axle": "3.62 by 118 inches 91 by 2997 mm",
+          "4WD Front tread": "60 to 88 inches 152 to 223 cm",
+          "Rear tread": "60 to 108.3 inches 152 to 275 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 7, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1992 - 1996",
+          "__seccion_2__": "7000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "OECD 1664: diesel PowrQuad 4WD",
+          "__seccion_3__": "OECD 1665: diesel power shift 4WD"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1664"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1664",
+          "__seccion_2__": "Diesel PowrQuad 4WD April 21 - May 12, 1993 Link: OCED Tractor Test 1664 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "100.57 hp 75.0 kW",
+          "Fuel use": "6.5 gal/hour 24.6 l/hour",
+          "Power at rated engine speed": "110.90 hp 82.7 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "14,351 lbs 6509 kg"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1665"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1665",
+          "__seccion_2__": "Diesel power shift 4WD April 28 - June 19, 1993 Link: OCED Tractor Test 1665 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "111.59 hp 83.2 kW",
+          "Fuel use": "6.4 gal/hour 24.2 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "93.53 hp 69.7 kW",
+          "__seccion_5__": "Gear 9 used for power test.",
+          "Max pull": "14,507 lbs 6580 kg",
+          "__seccion_6__": "Gear 5 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 7, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1992 - 1996",
+          "__seccion_2__": "7000 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "414 ci 6.8 L",
+          "Bore/Stroke": "4.19x5.00 inches 106 x 127 mm",
+          "Rated Power (net)": "130 hp 96.9 kW",
+          "Air cleaner": "dual dry element",
+          "Compression": "17.2:1",
+          "Rated RPM": "2100",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Coolant capacity": "25 qts 23.7 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 7, 2021"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/161/161-td4-b01.jpg"
+}

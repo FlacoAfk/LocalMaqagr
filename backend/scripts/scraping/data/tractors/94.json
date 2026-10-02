@@ -1,0 +1,315 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/0/9/94-john-deere-4040.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/0/9/94-john-deere-4040-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/0/9/94-john-deere-4040-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/0/9/94-john-deere-4040-engine.html",
+    "source_id": 94,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:47:24.550Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/94/94-td4-b01-ext090.jpg",
+    "foto_calidad": "webp 960px/q65 → 59 KB"
+  },
+  "tractor_data_id": 94,
+  "name": "John Deere 4040",
+  "brand": "John Deere",
+  "model": "4040",
+  "years": {
+    "desde": 1978,
+    "hasta": 1982
+  },
+  "model_year": 1978,
+  "engine_power_hp": 90,
+  "engine_power_source": "pto_claimed (proxy)",
+  "pto_claimed_hp": 90,
+  "pto_tested_hp": 90.8,
+  "drawbar_tested_hp": 76.56,
+  "weight_kg": 4368,
+  "weight_basis": "Shipping",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 39.7,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4-38",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1760,
+  "tire_front": null,
+  "fuel_consumption_lph": 25.4,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/94/94-td3a.jpg",
+  "image_url": "/uploads/tractors/td94.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1978 - 1982",
+          "__seccion_2__": "Iron Horses Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "Original price": "$29,992 (1982 Syncro-Range ROPS 2WD )",
+          "__seccion_4__": "$36,549 (1982 Power Shift Cab 2WD )"
+        },
+        {
+          "__seccion_1__": "John Deere 4040 Engine",
+          "__seccion_2__": "John Deere 6.6L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4040 Transmissions",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "8-speed partially synchronized",
+          "__seccion_4__": "8-speed full power shift",
+          "__seccion_5__": "13-speed creeper",
+          "__seccion_6__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4040 Power",
+          "Drawbar (claimed)": "77 hp 57.4 kW",
+          "PTO (claimed)": "90 hp 67.1 kW",
+          "Drawbar (tested)": "76.56 hp 57.1 kW",
+          "PTO (tested)": "90.80 hp 67.7 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 HFWD 4WD",
+          "Differential lock": "pedal-actuated hydraulic",
+          "__seccion_2__": "Power steering",
+          "__seccion_3__": "Differential hydraulic wet disc brakes",
+          "__seccion_4__": "Sound-Gard cab standard."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 4040 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "37 gal 140.0 L",
+          "Hydraulic system": "11 gal 41.6 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "11 gal 41.6 L",
+          "Valves": "1 or 2",
+          "Pump flow": "23 gpm 87.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift": "4316 lbs 1957 kg",
+          "&nbsp": "5395 lbs Opt Optional 2447 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "104 inches 264 cm",
+          "Weight": "9630 to 10490 pounds",
+          "Front tire": "9.5L-15",
+          "Rear tire": "18.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 4040 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "4040 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the rear of the 4040, above the PTO shaft."
+        },
+        {
+          "1978": "1000",
+          "1979": "3199",
+          "1980": "6033",
+          "1981": "8707",
+          "1982": "11727",
+          "__seccion_1__": "4040 Serial Numbers",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Batteries": "2",
+          "Battery CCA": "850",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The New Iron Horses published in 1978, by John Deere",
+          "__seccion_3__": "Tractors 90 to 180 HP published in 1979, by John Deere",
+          "__seccion_4__": "Tractors 90, 110, 130, 155, 180 HP published in 1979, by John Deere",
+          "__seccion_5__": "Row-Crop Tractors Product Information Handbook published in 1977, by John Deere",
+          "__seccion_6__": "40 Series Row-Crop Tractors Product Information Handbook published in 1982, by John Deere",
+          "__seccion_7__": "Performance on the Leading Edge published in 1978, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 31, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1978 - 1982",
+          "__seccion_2__": "Iron Horses Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 4040 Tires",
+          "Ag front": "11L-15",
+          "Ag rear": "23.1-30",
+          "&nbsp": "18.4R38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "104 inches 264 cm",
+          "Length": "153.2 inches 389 cm",
+          "Width": "96 inches 243 cm",
+          "&nbsp": "133 inches (long axle) 337 cm",
+          "Clearance (front axle)": "22.2 inches 56 cm",
+          "Clearance (rear axle)": "27 inches 68 cm",
+          "Clearance (drawbar)": "14.1 inches 35 cm",
+          "Rack-and-pinion rear axle": "3.386 by 113 inches 86 by 2870 mm",
+          "Front tread": "50 to 91.3 inches 127 to 231 cm",
+          "Rear tread": "60 to 118.3 inches 152 to 300 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 4040 Weight",
+          "Shipping": "9630 lbs 4368 kg",
+          "Operating": "10490 lbs 4758 kg",
+          "Ballasted": "12090 lbs 5484 kg"
+        },
+        {
+          "__seccion_1__": "John Deere 4040 Height",
+          "Steering wheel": "86.7 inches 220 cm",
+          "ROPS": "104.1 inches 264 cm",
+          "Cab": "109.8 inches 278 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 31, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1978 - 1982",
+          "__seccion_2__": "Iron Horses Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 1267: diesel Quad-Range 2WD",
+          "__seccion_3__": "NTTL 1359: diesel Syncro-Range 2WD",
+          "__seccion_4__": "NTTL 1360: diesel Powershift 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1267"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1267",
+          "__seccion_2__": "Diesel Quad-Range 2WD November 12 - 28, 1977 Link: Nebraska Tractor Test 1267 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "90.80 hp 67.7 kW",
+          "Fuel use": "6.7 gal/hour 25.4 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "74.83 hp 55.8 kW",
+          "Max pull": "8,936 lbs 4053 kg"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1359"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1359",
+          "__seccion_2__": "Diesel Syncro-Range 2WD August 20 - September 9, 1980 Link: Nebraska Tractor Test 1359 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "90.31 hp 67.3 kW",
+          "Fuel use": "6.3 gal/hour 23.8 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "73.83 hp 55.1 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "9,035 lbs 4098 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1360"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1360",
+          "__seccion_2__": "Diesel Powershift 2WD August 20 - September 11, 1980 Link: Nebraska Tractor Test 1360 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "90.79 hp 67.7 kW",
+          "Fuel use": "6.7 gal/hour 25.4 l/hour",
+          "Power at rated PTO speed": "90.88 hp 67.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "76.56 hp 57.1 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "9,195 lbs 4170 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 31, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1978 - 1982",
+          "__seccion_2__": "Iron Horses Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "404 ci 6.6 L",
+          "Bore/Stroke": "4.25x4.75 inches 108 x 121 mm",
+          "Pre-heating": "ether injection",
+          "Compression": "16.7:1",
+          "Rated RPM": "2200",
+          "Idle RPM": "800-2400",
+          "Operating RPM": "1500-2200",
+          "Firing order": "1-5-3-6-2-4",
+          "Starter volts": "12",
+          "Oil capacity": "17 qts 16.1 L",
+          "Coolant capacity": "24 qts 22.7 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 31, 2022"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/94/94-td4-b01-ext090.jpg"
+}

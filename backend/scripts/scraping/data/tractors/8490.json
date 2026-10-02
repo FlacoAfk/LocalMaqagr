@@ -1,0 +1,239 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/008/4/9/8490-caseih-farmall-130a.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/008/4/9/8490-caseih-farmall-130a-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/008/4/9/8490-caseih-farmall-130a-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/008/4/9/8490-caseih-farmall-130a-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 8490,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:52:20.933Z",
+    "foto_original": "https://www.tractordata.com/photos/F008/8490/8490-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 45 KB"
+  },
+  "tractor_data_id": 8490,
+  "name": "CaseIH Farmall 130A",
+  "brand": "CaseIH",
+  "model": "Farmall 130A",
+  "years": {
+    "desde": 2012,
+    "hasta": 2014
+  },
+  "model_year": 2012,
+  "engine_power_hp": 130,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 105,
+  "pto_tested_hp": 117.69,
+  "drawbar_tested_hp": 94.17,
+  "weight_kg": 4638,
+  "weight_basis": "4WD ROPS",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 39.1,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 18.4x34",
+  "tire_width_mm": 467,
+  "tire_diameter_mm": 1658,
+  "tire_front": {
+    "original": "14.9x24",
+    "radial": false,
+    "width_mm": 378,
+    "rim_in": 24,
+    "diameter_mm_est": 1253,
+    "tipo": "Diagonal",
+    "texto": "14.9x24"
+  },
+  "fuel_consumption_lph": 25.4,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F008/8490/8490-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F008/8490/8490-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td8490.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2015 -",
+          "__seccion_2__": "Farmall 100A Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor",
+          "Original price": "$68,708 (2015 ROPS 2WD )",
+          "__seccion_3__": "$85,006 (2015 Cab 4WD )"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 130A Engine",
+          "__seccion_2__": "FPT 4.5L 4-cyl diesel",
+          "Fuel tank": "56.8 gal 215.0 L",
+          "Exhaust fluid (DEF)": "7.9 gal 29.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 130A Transmissions",
+          "__seccion_2__": "8-speed power shuttle",
+          "__seccion_3__": "8-speed mechanical shuttle",
+          "__seccion_4__": "16-speed power shuttle",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 130A Power",
+          "Engine": "130 hp 96.9 kW",
+          "PTO (claimed)": "105 hp 78.3 kW",
+          "Drawbar (tested)": "94.17 hp 70.2 kW",
+          "PTO (tested)": "117.69 hp 87.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Two-post ROPS. Cab available with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH Farmall 130A photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center with closed-center load-sensing remotes",
+          "Valves": "2 to 4",
+          "Pump flow": "22 gpm 83.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "draft sensing",
+          "Rear lift (at 24\"/610mm)": "7200 lbs 3265 kg"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "95.7 inches 243 cm",
+          "4WD Wheelbase": "104 inches 264 cm",
+          "Weight": "9660 to 10605 pounds",
+          "Front tire": "10.00-16",
+          "2WD Rear tire": "18.4x34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "120",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Farmall 110A-140A Tier 4B/Final Tractor Specifications published in 2015, by CaseIH",
+          "__seccion_3__": "Farmall Utility Series Tractors published in 2021, by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 18, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2015 -",
+          "__seccion_2__": "Farmall 100A Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 130A Tires",
+          "2WD Standard tires (ag)": "Front: 10.00-16. Rear: 18.4x34",
+          "4WD Standard tires (ag)": "Front: 14.9x24. Rear: 18.4x34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "95.7 inches 243 cm",
+          "4WD Wheelbase": "104 inches 264 cm",
+          "Width": "74.5 inches * Width at fenders 189 cm",
+          "Height (ROPS)": "117.3 inches 297 cm",
+          "Height (cab)": "110 inches 279 cm",
+          "__seccion_2__": "Flange rear axle",
+          "Bar rear axle": "3.071 by 98 inches 78 by 2489 mm"
+        },
+        {
+          "__seccion_1__": "CaseIH Farmall 130A Weight",
+          "2WD ROPS": "9660 lbs 4381 kg",
+          "4WD ROPS": "10225 lbs 4638 kg",
+          "2WD Cab": "10040 lbs 4554 kg",
+          "4WD Cab": "10605 lbs 4810 kg",
+          "Ballasted": "12700 lbs 5760 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 18, 2021"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2015 -",
+          "__seccion_2__": "Farmall 100A Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2158"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2158",
+          "__seccion_2__": "Diesel 16-speed 4WD September 2 - October 3, 2016 Link: OCED Tractor Test 2158 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "94.17 hp 70.2 kW",
+          "Fuel use": "6.9 gal/hour 26.1 l/hour",
+          "Power at rated engine speed": "115.68 hp 86.3 kW",
+          "Power at rated PTO speed": "115.25 hp 85.9 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max pull": "8790 lbs 3987 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 18, 2021"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2015 -",
+          "__seccion_2__": "Farmall 100A Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "FPT",
+          "__seccion_3__": "turbocharged intercooled diesel",
+          "__seccion_4__": "4-cylinder 8-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "273.7 ci 4.5 L",
+          "Bore/Stroke": "4.094x5.197 inches 104 x 132 mm",
+          "Emissions": "Tier IV",
+          "Emission control": "selective catalytic reduction",
+          "Power": "130 hp 96.9 kW",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "10.6 qts 10.0 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 18, 2021"
+        }
+      ]
+    }
+  }
+}

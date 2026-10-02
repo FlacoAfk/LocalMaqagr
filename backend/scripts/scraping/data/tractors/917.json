@@ -1,0 +1,236 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/9/1/917-challenger-65.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/9/1/917-challenger-65-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/9/1/917-challenger-65-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/9/1/917-challenger-65-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 917,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:33:53.078Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/917/917-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 64 KB"
+  },
+  "tractor_data_id": 917,
+  "name": "Challenger 65",
+  "brand": "Challenger (a part of Caterpillar)",
+  "model": "65",
+  "years": {
+    "desde": 1987,
+    "hasta": 1990
+  },
+  "model_year": 1987,
+  "engine_power_hp": 270,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 235,
+  "pto_tested_hp": 237.91,
+  "drawbar_tested_hp": 213.73,
+  "weight_kg": 15059,
+  "weight_basis": "Operating weight",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 145.4,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 53,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/917/917-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/917/917-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td917.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1987 - 1990",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Challenger (a part of Caterpillar)",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Challenger 65 Engine",
+          "__seccion_2__": "Caterpillar 10.5L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Challenger 65 Transmission",
+          "__seccion_2__": "10-speed full power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Challenger 65 Power",
+          "Engine (gross)": "270 hp 201.3 kW",
+          "Engine (net)": "256 hp 190.9 kW",
+          "Drawbar (claimed)": "202 hp 150.6 kW",
+          "PTO (claimed)": "235 hp 175.2 kW",
+          "Drawbar (tested)": "213.73 hp 159.4 kW",
+          "PTO (tested)": "237.91 hp 177.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "crawler",
+          "Steering": "hydrostatic differential steering",
+          "__seccion_2__": "Hydraulic caliper disc brakes",
+          "__seccion_3__": "Cab standard with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Challenger 65 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "186 gal 704.0 L",
+          "Hydraulic system": "16 gal 60.6 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center",
+          "Capacity": "16 gal 60.6 L",
+          "Pressure": "2500 psi 172.4 bar",
+          "Valves": "4",
+          "Pump flow": "27.2 gpm 103.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Rear lift": "12300 lbs 5579 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tracks",
+          "Wheelbase": "106 inches 269 cm",
+          "Weight": "33200 lbs 15059 kg",
+          "__seccion_2__": "24.5-inch tracks",
+          "__seccion_3__": "Full dimensions and tracks ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "105",
+          "Batteries": "2",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Make Farming More Efficient published in 1990, by Caterpillar",
+          "__seccion_3__": "Challenger 65 published in 1987, by Caterpillar",
+          "__seccion_4__": "Speaking From Experience... published in 1989, by Caterpillar"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 12, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1987 - 1990",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Challenger 65 Tracks",
+          "Width": "24.5 inches 62 cm",
+          "Length on ground": "106 inches 269 cm",
+          "Area on ground": "5193 in&sup2; 3.4 m&sup2;",
+          "Ground pressure": "5.7 psi 0.4 bar"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "106 inches 269 cm",
+          "Length": "225 inches 571 cm",
+          "Width": "113 inches 287 cm",
+          "Height (cab)": "127 inches 322 cm",
+          "Height (exhaust)": "135 inches 342 cm",
+          "Operating weight": "33200 lbs 15059 kg",
+          "Ground clearance": "14.9 inches 37 cm",
+          "Gauge": "84.6 inches 214 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 12, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1987 - 1990",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1613"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1613",
+          "__seccion_2__": "Diesel 10-speed crawler September 1 - 30, 1988 Link: OCED Tractor Test 1613 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "213.73 hp 159.4 kW",
+          "Fuel use": "14.0 gal/hour 53.0 l/hour",
+          "Power at rated engine speed": "232.29 hp 173.2 kW",
+          "Power at rated PTO speed": "236.30 hp 176.2 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Gear 3 used for power test.",
+          "Max pull": "32,684 lbs 14825 kg",
+          "__seccion_6__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 12, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1987 - 1990",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Caterpillar 3306 DITA",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "638 ci 10.5 L",
+          "Bore/Stroke": "4.75x6.00 inches 121 x 152 mm",
+          "Power (net)": "256 hp 190.9 kW",
+          "Power (gross)": "270 hp 201.3 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dual paper elements with aspirator",
+          "Compression": "15:1",
+          "Rated RPM": "2100",
+          "Starter volts": "12",
+          "Oil capacity": "28 qts 26.5 L",
+          "Coolant capacity": "44 qts 41.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 12, 2022"
+        }
+      ]
+    }
+  }
+}

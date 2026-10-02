@@ -1,0 +1,242 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/6/9/1696-zetor-6340.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/6/9/1696-zetor-6340-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/6/9/1696-zetor-6340-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/6/9/1696-zetor-6340-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1696,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:46:27.118Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1696/1696-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 3 KB"
+  },
+  "tractor_data_id": 1696,
+  "name": "Zetor 6340",
+  "brand": "Zetor",
+  "model": "6340",
+  "years": {
+    "desde": 1993,
+    "hasta": 1997
+  },
+  "model_year": 1993,
+  "engine_power_hp": 66,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 62,
+  "pto_tested_hp": 65.74,
+  "drawbar_tested_hp": 55.87,
+  "weight_kg": 3583,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 33.3,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 16.9-34",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1593,
+  "tire_front": {
+    "original": "12.4-24",
+    "radial": false,
+    "width_mm": 315,
+    "rim_in": 24,
+    "diameter_mm_est": 1145,
+    "tipo": "Diagonal",
+    "texto": "12.4-24"
+  },
+  "fuel_consumption_lph": 15.1,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1696/1696-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td1696.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1993 - 1997",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Zetor",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Brno, Czechoslovakia",
+          "__seccion_4__": "Original price was $26,000 in 1999"
+        },
+        {
+          "6320": "2WD",
+          "6340": "4WD",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Zetor 6340 Engine",
+          "__seccion_2__": "Zetor 3.9L 4-cyl diesel",
+          "Fuel tank": "18.5 gal 70.0 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 6340 Transmissions",
+          "__seccion_2__": "10-speed synchro",
+          "__seccion_3__": "10-speed",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 6340 Power",
+          "Engine": "66 hp 49.2 kW",
+          "PTO (claimed)": "62 hp 46.2 kW",
+          "Drawbar (tested)": "55.87 hp 41.7 kW",
+          "PTO (tested)": "65.74 hp 49.0 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic dry disc brakes",
+          "__seccion_5__": "Two-post ROPS. Cab available with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Zetor 6340 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2600 psi 179.3 bar",
+          "Valves": "1 to 3",
+          "Pump flow": "11 gpm 41.6 lpm",
+          "Total flow": "15 gpm 56.8 lpm",
+          "Steering flow": "4 gpm 15.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position and draft control",
+          "Rear lift": "5850 lbs 2653 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "88 inches 223 cm",
+          "Weight": "7900 lbs 3583 kg",
+          "Front tire": "12.4-24",
+          "Rear tire": "16.9-34",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Zetor 6340 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "55",
+          "Battery CCA": "950",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Tractor Model 6320/6340 published by Zetor",
+          "__seccion_3__": "Range 1 Tractors published by Zetor"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on November 30, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1993 - 1997",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Zetor 6340 Tires",
+          "Ag front": "12.4-24",
+          "Ag rear": "16.9-34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "88 inches 223 cm",
+          "Length": "144 inches 365 cm",
+          "Width": "73 inches 185 cm",
+          "Height (steering wheel)": "75 inches 190 cm",
+          "Height (cab)": "105 inches 266 cm",
+          "Weight": "7900 lbs 3583 kg",
+          "Ground clearance": "21 inches 53 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 30, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1993 - 1997",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1602"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1602",
+          "__seccion_2__": "Diesel 10-speed 4WD September 11 - 30, 1986 Link: Nebraska Tractor Test 1602 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "65.74 hp 49.0 kW",
+          "Fuel use": "3.7 gal/hour 14.0 l/hour",
+          "Power at rated PTO speed": "62.17 hp 46.4 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "55.87 hp 41.7 kW",
+          "Max pull": "7,484 lbs 3394 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 30, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1993 - 1997",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Zetor Z7701",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "239 ci 3.9 L",
+          "Bore/Stroke": "4.02x4.72 inches 102 x 120 mm",
+          "Power": "66 hp 49.2 kW",
+          "Compression": "17:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 30, 2025"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/8/7/10874-zetor-utilix-55.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/8/7/10874-zetor-utilix-55-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/8/7/10874-zetor-utilix-55-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 10874,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:56:22.944Z"
+  },
+  "tractor_data_id": 10874,
+  "name": "Zetor Utilix 55",
+  "brand": "Zetor",
+  "model": "Utilix 55",
+  "years": {
+    "desde": 2000,
+    "hasta": 2024
+  },
+  "model_year": 2000,
+  "engine_power_hp": 48.7,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1710,
+  "weight_basis": "ROPS",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 17.9,
+  "traction_force_estimado": true,
+  "tire_type": "Radial 320/70R24",
+  "tire_width_mm": 320,
+  "tire_diameter_mm": 1058,
+  "tire_front": {
+    "original": "240/70R16",
+    "radial": true,
+    "width_mm": 240,
+    "rim_in": 16,
+    "diameter_mm_est": 742,
+    "tipo": "Radial",
+    "texto": "240/70R16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": null,
+  "photo_url_large": null,
+  "image_url": null,
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2020 -",
+          "__seccion_2__": "Utilix Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Zetor",
+          "__seccion_2__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "CL 55": "gear",
+          "HT 55": "hydrostatic"
+        },
+        {
+          "__seccion_1__": "Zetor Utilix 55 Engine",
+          "__seccion_2__": "Perkins 2.2L 4-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Zetor Utilix 55 Transmissions",
+          "__seccion_2__": "16-speed mechanical shuttle",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Zetor Utilix 55 Power",
+          "Engine (gross)": "48.7 hp 36.3 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Two-post folding ROPS. Cab available with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Zetor Utilix 55 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Rear valves": "2",
+          "Mid valves": "2",
+          "Pump flow": "9.6 gpm 36.3 lpm",
+          "Total flow": "14.7 gpm 55.6 lpm",
+          "Steering flow": "5.1 gpm 19.3 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position and draft control",
+          "Rear lift (at ends)": "3372 lbs 1529 kg",
+          "Rear lift (at 24\"/610mm)": "2923 lbs 1325 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "76.2 inches 193 cm",
+          "Weight": "3770 to 4189 pounds",
+          "Front tire": "240/70R16",
+          "Rear tire": "320/70R24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 29, 2021"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2020 -",
+          "__seccion_2__": "Utilix Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Zetor Utilix 55 Tires",
+          "Standard tires (ag)": "Front: 240/70R16. Rear: 320/70R24",
+          "Industrial front": "12-16.5",
+          "Industrial rear": "17.5L-24"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "76.2 inches 193 cm",
+          "Length": "141.3 inches 358 cm",
+          "R1 Width": "63.8 inches 162 cm",
+          "R4 Width": "73.6 inches 186 cm",
+          "Height (ROPS)": "102.1 inches 259 cm",
+          "Height (cab)": "99.6 inches 252 cm"
+        },
+        {
+          "__seccion_1__": "Zetor Utilix 55 Weight",
+          "ROPS": "3770 lbs 1710 kg",
+          "Cab": "4189 lbs 1900 kg",
+          "Max capacity": "7330 lbs 3324 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 29, 2021"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2020 -",
+          "__seccion_2__": "Utilix Series",
+          "__seccion_3__": "Compact Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Perkins 404D-22",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "135.2 ci 2.2 L",
+          "Bore/Stroke": "3.31x3.94 inches 84 x 100 mm",
+          "Emissions": "Stage 3A",
+          "Rated Power (gross)": "48.7 hp 36.3 kW",
+          "Rated RPM": "2800",
+          "Starter": "electric",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on January 29, 2021"
+        }
+      ]
+    }
+  }
+}

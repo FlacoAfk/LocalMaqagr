@@ -1,0 +1,248 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/1/4/5143-john-deere-420c.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/1/4/5143-john-deere-420c-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/005/1/4/5143-john-deere-420c-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/1/4/5143-john-deere-420c-engine.html",
+    "source_id": 5143,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T18:44:36.622Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5143/5143-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 80 KB",
+    "nebraska_pdf": "https://digitalcommons.unl.edu/tractormuseumlit/1087/",
+    "nebraska_test": 601
+  },
+  "tractor_data_id": 5143,
+  "name": "John Deere 420C",
+  "brand": "John Deere",
+  "model": "420C",
+  "years": {
+    "desde": 1956,
+    "hasta": 1958
+  },
+  "model_year": 1956,
+  "engine_power_hp": 28.76,
+  "engine_power_source": "belt_tested (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": 23.53,
+  "weight_kg": 1877,
+  "weight_basis": "Shipping weight",
+  "traction_type": "track",
+  "traction_type_derivado": false,
+  "traction_force_kn": 21.6,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F005/5143/5143-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F005/5143/5143-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td5143.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Agricultural Crawler tractor",
+          "__seccion_3__": "Built in Dubuque, Iowa, USA",
+          "Total built": "17,882",
+          "__seccion_4__": "Original price was $2,350 in 1956"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "420W": "row-crop utility",
+          "420T": "tricycle",
+          "420C": "crawler",
+          "420U": "utility",
+          "420S": "standard"
+        },
+        {
+          "__seccion_1__": "John Deere 420C Engine",
+          "__seccion_2__": "John Deere 1.9L 2-cyl gasoline",
+          "Fuel tank": "10.5 gal 39.7 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 420C Transmissions",
+          "__seccion_2__": "4-speed unsynchronized gear",
+          "__seccion_3__": "5-speed unsynchronized gear",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 420C Power",
+          "Plows": "3-4",
+          "Drawbar (tested)": "23.53 hp 17.5 kW",
+          "Belt (tested)": "28.76 hp 21.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "crawler",
+          "Steering": "mechanical disc clutches",
+          "__seccion_2__": "Mechanical band brakes",
+          "__seccion_3__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 420C photos..."
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I Opt Optional"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "live",
+          "Rear PTO Type": "560"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tracks",
+          "Weight": "4140 to 4700 pounds",
+          "__seccion_2__": "10-inch tracks",
+          "__seccion_3__": "Full dimensions and tracks ..."
+        },
+        {
+          "__seccion_1__": "John Deere 420C attachments",
+          "__seccion_2__": "blade",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1956": "80001",
+          "1957": "100001",
+          "1958": "125001",
+          "__seccion_1__": "420C Serial Numbers",
+          "Final": "136795",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Belt Pulley",
+          "Diameter": "9 inches 22 cm",
+          "Width": "6 inches 15 cm",
+          "RPM": "1270",
+          "Speed": "3000 ft/min 914.40 meters/min"
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "positive",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "The John Deere 20 series Two Cylinder Tractors by Benjamin Hain",
+          "__seccion_3__": "Industrial Tractors and Equipment published in 1956, by John Deere",
+          "__seccion_4__": "Industrial Tractors and Equipment published in 1957, by John Deere",
+          "__seccion_5__": "The New 420 Crawler published in 1956, by John Deere",
+          "__seccion_6__": "Tractors 1918-1976 published by John Deere *",
+          "__seccion_7__": "Facts about horsepower and fuel economy published in 1957, by John Deere",
+          "__seccion_8__": "*Publication contains known errors."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 14, 2024",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 420C Tracks",
+          "Width": "14 inches 35 cm"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Length": "102 inches 259 cm",
+          "Width": "60 inches 152 cm",
+          "Height (hood)": "51.875 inches 131 cm",
+          "Height (exhaust)": "69 inches 175 cm",
+          "Shipping weight": "4,140 lbs (4-roller) 1877 kg",
+          "&nbsp": "4,700 lbs (5-roller) 2131 kg",
+          "Ground clearance": "14 inches 35 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 14, 2024"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 601"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 601",
+          "__seccion_2__": "Gasoline 5-speed crawler October 15 - 25, 1956 Link: Nebraska Tractor Test 601 file",
+          "Belt power (max)": "28.76 hp 21.4 kW",
+          "Belt fuel use (max)": "2.6 gal/hour 9.8 l/hour",
+          "__seccion_3__": "Drawbar performance",
+          "Max power": "23.53 hp 17.5 kW",
+          "__seccion_4__": "Gear 3 used for power test.",
+          "Max pull": "4,862 lbs 2205 kg",
+          "__seccion_5__": "Gear 1 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 14, 2024"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1956 - 1958",
+          "__seccion_2__": "Agricultural Crawler tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "gasoline",
+          "__seccion_4__": "2-cylinder 4-valve",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "113 ci 1.9 L",
+          "Bore/Stroke": "4.25x4.00 inches 108 x 102 mm",
+          "Air cleaner": "oil bath",
+          "Compression": "7.2:1",
+          "Rated RPM": "1850",
+          "Starter volts": "6",
+          "Oil capacity": "5 qts 4.7 L",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "John Deere 420C Engine"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 14, 2024"
+        }
+      ]
+    }
+  }
+}

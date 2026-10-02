@@ -1,0 +1,234 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/006/2/8/6283-massey-ferguson-gc2400.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/006/2/8/6283-massey-ferguson-gc2400-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/006/2/8/6283-massey-ferguson-gc2400-engine.html",
+    "source_id": 6283,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:38:30.222Z",
+    "foto_original": "https://www.tractordata.com/photos/F006/6283/6283-td4-b01-ext000.jpg",
+    "foto_calidad": "webp 960px/q65 → 101 KB"
+  },
+  "tractor_data_id": 6283,
+  "name": "Massey Ferguson GC2400",
+  "brand": "Iseki",
+  "model": "ferguson gc2400",
+  "years": {
+    "desde": 2008,
+    "hasta": 2012
+  },
+  "model_year": 2008,
+  "engine_power_hp": 22.5,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 18.7,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 650,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 6.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 26x12.00-12",
+  "tire_width_mm": 305,
+  "tire_diameter_mm": 660,
+  "tire_front": {
+    "original": "18x8.50-10",
+    "radial": false,
+    "width_mm": 216,
+    "rim_in": 10,
+    "diameter_mm_est": 457,
+    "tipo": "Diagonal",
+    "texto": "18x8.50-10"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F006/6283/6283-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F006/6283/6283-td4-b01-ext000.jpg",
+  "image_url": "/uploads/tractors/td6283.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2008 - 2012",
+          "__seccion_2__": "GC Series",
+          "__seccion_3__": "Sub-Compact Utility tractor",
+          "__seccion_4__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Massey Ferguson",
+          "Manufacturer": "Iseki",
+          "__seccion_2__": "Sub-Compact Utility tractor",
+          "__seccion_3__": "Original price was $9,624 in 2009"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "GC2310TLB": "tractor with loader and backhoe"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson GC2400 Engine",
+          "__seccion_2__": "Iseki 1.1L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson GC2400 Transmission",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson GC2400 Power",
+          "Engine (gross)": "22.5 hp 16.8 kW",
+          "PTO (claimed)": "18.7 hp 13.9 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post fixed ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson GC2400 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "6.6 gal 25.0 L",
+          "Hydraulic system": "2.9 gal 11.0 L",
+          "Front axle": "4.2 qts 4.0 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "2.9 gal 11.0 L",
+          "Pump flow": "4.3 gpm 16.3 lpm",
+          "Total flow": "6.3 gpm 23.8 lpm",
+          "Steering flow": "2 gpm 7.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Rear lift (at ends)": "1190 lbs 539 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "Mid PTO": "independent",
+          "Mid PTO Type": "2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "57.1 inches 145 cm",
+          "Weight": "1433 lbs 650 kg",
+          "Front tire": "18x8.50-10",
+          "Rear tire": "26x12.00-12",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson GC2400 attachments",
+          "__seccion_2__": "54\" mid-mount mower deck",
+          "__seccion_3__": "60\" mid-mount mower deck",
+          "__seccion_4__": "snowblower",
+          "__seccion_5__": "blade",
+          "__seccion_6__": "front-end loader",
+          "__seccion_7__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Battery CCA": "390",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "GC Series published in 2008, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 13, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2008 - 2012",
+          "__seccion_2__": "GC Series",
+          "__seccion_3__": "Sub-Compact Utility tractor",
+          "__seccion_4__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson GC2400 Tires",
+          "Standard tires (ag)": "Front: 18x8.50-10. Rear: 26x12.00-12",
+          "Lawn/turf front": "18x8.50-10",
+          "Lawn/turf rear": "26x12.00-12",
+          "Industrial front": "18x8.50-10",
+          "Industrial rear": "26x12.00-12"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "57.1 inches 145 cm",
+          "Length": "97.6 inches 247 cm",
+          "Width": "46.9 inches 119 cm",
+          "Height (ROPS)": "72.8 inches 184 cm",
+          "Ground clearance": "6.7 inches 17 cm",
+          "Front tread": "36.6 inches 92 cm",
+          "Rear tread": "33 inches 83 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson GC2400 Weight",
+          "Shipping": "1433 lbs 650 kg",
+          "Max capacity": "2755 lbs 1249 kg",
+          "Max front axle": "1940 lbs 879 kg",
+          "Max rear axle": "2094 lbs 949 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 13, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2008 - 2012",
+          "__seccion_2__": "GC Series",
+          "__seccion_3__": "Sub-Compact Utility tractor",
+          "__seccion_4__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iseki E3112",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "68.5 ci 1.1 L",
+          "Bore/Stroke": "3.08x3.07 inches 78 x 78 mm",
+          "Power (gross)": "22.5 hp 16.8 kW",
+          "Rated RPM": "2600",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "2.7 qts 2.6 L",
+          "Coolant capacity": "4.9 qts 4.6 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 13, 2020"
+        }
+      ]
+    }
+  }
+}

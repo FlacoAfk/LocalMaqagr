@@ -1,0 +1,241 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/1/6/1162-caseih-1394.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/1/6/1162-caseih-1394-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/1/6/1162-caseih-1394-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1162,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:34:34.294Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1162/1162-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 150 KB"
+  },
+  "tractor_data_id": 1162,
+  "name": "CaseIH 1394",
+  "brand": "CaseIH",
+  "model": "1394",
+  "years": {
+    "desde": 1985,
+    "hasta": 1988
+  },
+  "model_year": 1985,
+  "engine_power_hp": 77,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 65,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3166,
+  "weight_basis": "4WD synchro",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 23.8,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9-30",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1492,
+  "tire_front": {
+    "original": "12.4-24",
+    "radial": false,
+    "width_mm": 315,
+    "rim_in": 24,
+    "diameter_mm_est": 1145,
+    "tipo": "Diagonal",
+    "texto": "12.4-24"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1162/1162-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1162/1162-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1162.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1985 - 1988",
+          "__seccion_2__": "94 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Original price was $22,000 in 1988"
+        },
+        {
+          "__seccion_1__": "CaseIH 1394 Engine",
+          "__seccion_2__": "Case 3.6L 4-cyl diesel",
+          "Fuel tank": "19 gal 71.9 L",
+          "&nbsp": "26.4 gal (with cab) 99.9 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 1394 Transmissions",
+          "__seccion_2__": "12-speed synchromesh",
+          "__seccion_3__": "12-speed partial power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 1394 Power",
+          "Engine": "77 hp 57.4 kW",
+          "PTO (claimed)": "65 hp 48.5 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Steering": "hydrostatic power",
+          "__seccion_3__": "Drum brakes",
+          "__seccion_4__": "Cab with air-conditioning optional."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH 1394 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2550 psi 175.8 bar",
+          "Valves": "1 to 3",
+          "Total flow": "7.7 gpm 29.1 lpm",
+          "&nbsp": "15.3 gpm (tandem) 57.9 lpm",
+          "Steering flow": "7.7 gpm 29.1 lpm",
+          "Steering press.": "1500 psi 103.4 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Rear lift (at ends)": "5,000 lbs 2268 kg",
+          "Rear lift (at 24\"/610mm)": "2,990 lbs 1356 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000 (1.375)",
+          "Engine RPM": "540@2050",
+          "&nbsp": "1000@2050"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "83 inches 210 cm",
+          "4WD Wheelbase": "84.5 inches 214 cm",
+          "Weight": "6520 to 7160 pounds",
+          "Front tire": "7.50-16",
+          "Rear tire": "13.6-36",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1985": "11502001",
+          "1986": "11504635",
+          "1987": "11506453",
+          "1988": "11508682",
+          "__seccion_1__": "1394 Serial Numbers",
+          "Location:": "Main frame on right side",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "45",
+          "&nbsp": "128 (heavy duty)",
+          "Battery CCA": "420",
+          "Battery volts": "12",
+          "Battery AH": "96"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "1394-1494 published by CaseIH",
+          "__seccion_3__": "1985 Farm Equipment Buyer's Guide published by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on February 8, 2026"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1985 - 1988",
+          "__seccion_2__": "94 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH 1394 Tires",
+          "2WD Ag front": "11.2-24",
+          "4WD Ag front": "12.4-24",
+          "Ag rear": "13.6-36",
+          "&nbsp": "13.6-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "83 inches 210 cm",
+          "4WD Wheelbase": "84.5 inches 214 cm",
+          "Length": "143 inches 363 cm",
+          "Width": "70 inches 177 cm",
+          "Height (cab)": "100 inches 254 cm",
+          "2WD Ground clearance": "15 inches 38 cm",
+          "4WD Ground clearance": "13.5 inches 34 cm",
+          "2WD Front tread": "52 to 72 inches 132 to 182 cm",
+          "4WD Front tread": "60 to 76 inches 152 to 193 cm",
+          "Rear tread": "56 to 80 inches 142 to 203 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH 1394 Weight",
+          "2WD synchro": "6520 lbs 2957 kg",
+          "2WD Hydra-Shift": "6695 lbs 3036 kg",
+          "4WD synchro": "6980 lbs 3166 kg",
+          "4WD Hydra-Shift": "7160 lbs 3247 kg",
+          "Max capacity": "10,000 lbs 4536 kg",
+          "Max Drawbar": "3,000 lbs 1360 kg",
+          "2WD Max front axle": "4,500 lbs 2041 kg",
+          "4WD Max front axle": "5,000 lbs 2268 kg",
+          "Max rear axle": "9,000 lbs 4082 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 8, 2026"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1985 - 1988",
+          "__seccion_2__": "94 Series",
+          "__seccion_3__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Case",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "219 ci 3.6 L",
+          "Bore/Stroke": "3.937x4.50 inches 100 x 114 mm",
+          "Power": "77 hp 57.4 kW",
+          "Compression": "16:1",
+          "Rated RPM": "2200",
+          "Torque": "200.6 lb-ft 272.0 Nm",
+          "Torque RPM": "1400",
+          "Starter volts": "12",
+          "Oil capacity": "7.8 qts 7.4 L",
+          "Coolant capacity": "15 qts 14.2 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on February 8, 2026"
+        }
+      ]
+    }
+  }
+}

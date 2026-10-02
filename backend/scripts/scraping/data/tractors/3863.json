@@ -1,0 +1,244 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/8/6/3863-massey-ferguson-1540.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/8/6/3863-massey-ferguson-1540-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/8/6/3863-massey-ferguson-1540-engine.html",
+    "source_id": 3863,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:32:05.875Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3863/3863-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 65 KB"
+  },
+  "tractor_data_id": 3863,
+  "name": "Massey Ferguson 1540",
+  "brand": "Iseki",
+  "model": "ferguson 1540",
+  "years": {
+    "desde": 2005,
+    "hasta": 2014
+  },
+  "model_year": 2005,
+  "engine_power_hp": 40.1,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 29.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1387,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 10.8,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 12.4-24",
+  "tire_width_mm": 315,
+  "tire_diameter_mm": 1145,
+  "tire_front": {
+    "original": "8-16",
+    "radial": false,
+    "width_mm": 203,
+    "rim_in": 16,
+    "diameter_mm_est": 752,
+    "tipo": "Diagonal",
+    "texto": "8-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3863/3863-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F003/3863/3863-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td3863.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2005 - 2014",
+          "__seccion_2__": "Model year 2005-2010 2011-2014",
+          "__seccion_3__": "1500 Series",
+          "__seccion_4__": "Compact Utility tractor",
+          "__seccion_5__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Massey Ferguson",
+          "Manufacturer": "Iseki",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Matsuyama, Japan",
+          "Original price": "$17,939 (2008 SyncShuttle )",
+          "__seccion_4__": "$20,651 (2009 hydrostatic )"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1540 Engine",
+          "__seccion_2__": "Iseki 1.5L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1540 Transmissions",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "hydrostatic",
+          "__seccion_4__": "12-speed",
+          "__seccion_5__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1540 Power",
+          "Engine (gross)": "40.1 hp 29.9 kW",
+          "Hydro PTO (claimed)": "29.5 hp 22.0 kW",
+          "Shuttle PTO (claimed)": "31 hp 23.1 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Massey Ferguson 1540 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "10.6 gal 40.1 L",
+          "Front axle": "7.9 qts 7.5 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Valves": "2 optional",
+          "Pump flow": "9.1 gpm 34.4 lpm",
+          "Total flow": "14 gpm 53.0 lpm",
+          "&nbsp": "6 gpm * With PowerShuttle 22.7 lpm",
+          "Steering flow": "4.9 gpm 18.5 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control",
+          "Rear lift (at ends)": "2800 lbs 1270 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic",
+          "Rear PTO Type": "540 (1.375)",
+          "Mid PTO": "independent Opt Optional",
+          "Mid PTO Type": "2000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "70 inches 177 cm",
+          "Weight": "3058 lbs 1387 kg",
+          "Front tire": "8-16",
+          "Rear tire": "12.4-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1540 attachments",
+          "__seccion_2__": "snowblower",
+          "__seccion_3__": "blade",
+          "__seccion_4__": "front-end loader",
+          "__seccion_5__": "backhoe",
+          "__seccion_6__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MF 1500 Series published in 2004, by Massey Ferguson",
+          "__seccion_3__": "MF 1500 Series published in 2005, by Massey Ferguson",
+          "__seccion_4__": "MF 1500 Series published in 2006, by Massey Ferguson",
+          "__seccion_5__": "1500 Series Compact Tractors published in 2007, by Massey Ferguson"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 22, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2005 - 2014",
+          "__seccion_2__": "Model year 2005-2010 2011-2014",
+          "__seccion_3__": "1500 Series",
+          "__seccion_4__": "Compact Utility tractor",
+          "__seccion_5__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1540 Tires",
+          "Standard tires (ag)": "Front: 8-16. Rear: 12.4-24",
+          "Optional tires (ag)": "Front: 8-16. Rear: 13.6-24",
+          "Lawn/turf front": "LSW305 R343 LSW430",
+          "Lawn/turf rear": "LSW610 R470 LSW430",
+          "Industrial front": "25x8.5-14",
+          "Industrial rear": "15x19.5"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "70 inches 177 cm",
+          "Length": "121 inches 307 cm",
+          "Width": "62 inches 157 cm",
+          "Height": "87.4 inches 221 cm",
+          "Ground clearance": "14 inches 35 cm",
+          "Front tread": "44.1 inches 112 cm",
+          "Rear tread": "46.8 inches 118 cm"
+        },
+        {
+          "__seccion_1__": "Massey Ferguson 1540 Weight",
+          "Shipping": "3058 lbs 1387 kg",
+          "Max capacity": "6614 lbs 3000 kg",
+          "Max front axle": "3968 lbs 1799 kg",
+          "Max rear axle": "3968 lbs 1799 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 22, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2005 - 2014",
+          "__seccion_2__": "Model year 2005-2010 2011-2014",
+          "__seccion_3__": "1500 Series",
+          "__seccion_4__": "Compact Utility tractor",
+          "__seccion_5__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iseki",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "91.4 ci 1.5 L",
+          "Bore/Stroke": "3.43x3.31 inches 87 x 84 mm",
+          "Power (gross)": "40.1 hp 29.9 kW",
+          "Air cleaner": "dry",
+          "Rated RPM": "2600",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "5 qts 4.7 L",
+          "Coolant capacity": "7.1 qts 6.7 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 22, 2020"
+        }
+      ]
+    }
+  }
+}

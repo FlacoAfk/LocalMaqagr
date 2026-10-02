@@ -1,0 +1,262 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/003/8/2/3828-challenger-mt635b.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/003/8/2/3828-challenger-mt635b-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/003/8/2/3828-challenger-mt635b-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/003/8/2/3828-challenger-mt635b-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 3828,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:35:45.793Z",
+    "foto_original": "https://www.tractordata.com/photos/F003/3828/3828-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 3 KB"
+  },
+  "tractor_data_id": 3828,
+  "name": "Challenger MT635B",
+  "brand": "Challenger (a part of AGCO)",
+  "model": "mt635b",
+  "years": {
+    "desde": 2005,
+    "hasta": 2008
+  },
+  "model_year": 2005,
+  "engine_power_hp": 215,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 180,
+  "pto_tested_hp": 199,
+  "drawbar_tested_hp": 157.87,
+  "weight_kg": 8304,
+  "weight_basis": "Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 75.3,
+  "traction_force_estimado": false,
+  "tire_type": "Radial 480/80R46",
+  "tire_width_mm": 480,
+  "tire_diameter_mm": 1936,
+  "tire_front": {
+    "original": "380/85R34",
+    "radial": true,
+    "width_mm": 380,
+    "rim_in": 34,
+    "diameter_mm_est": 1510,
+    "tipo": "Radial",
+    "texto": "380/85R34"
+  },
+  "fuel_consumption_lph": 40.9,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F003/3828/3828-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td3828.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2005 - 2008",
+          "__seccion_2__": "MT600B Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Challenger (a part of AGCO)",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Beauvais, France"
+        },
+        {
+          "__seccion_1__": "Challenger MT635B Engine",
+          "__seccion_2__": "Sisu 7.4L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Challenger MT635B Transmission",
+          "__seccion_2__": "continuously variable transmission (CVT)",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Challenger MT635B Power",
+          "Engine": "215 hp 160.3 kW",
+          "PTO (claimed)": "180 hp 134.2 kW",
+          "Drawbar (tested)": "157.87 hp 117.7 kW",
+          "PTO (tested)": "199.0 hp 148.4 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "electrohydraulic front and rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "Trailer brakes": "hydraulic Opt Optional",
+          "__seccion_5__": "Cab standard with heat and A/C. Optional pneumatic cab suspension and automatic climate control."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Challenger MT635B are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "159 gal 601.8 L",
+          "Hydraulic system": "26.4 gal 99.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "pressure flow compensated (PFC)",
+          "Capacity": "26.4 gal 99.9 L",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "4 to 6",
+          "Total flow": "39 gpm 147.6 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III",
+          "Rear lift (at 24\"/610mm)": "15,600 lbs 7076 kg",
+          "Front Hitch": "II Opt Optional",
+          "Front lift": "7,700 lbs 3492 kg",
+          "&nbsp": "12,100 lbs Opt Optional 5488 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540 (1.375)",
+          "&nbsp": "1000@2031",
+          "Engine RPM": "540@2037"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "121.1 inches 307 cm",
+          "Weight": "18308 to 19595 pounds",
+          "Front tire": "380/85R34",
+          "Rear tire": "480/80R46",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "150",
+          "Batteries": "2",
+          "Battery CCA": "775",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Challenger MT600B Seires published in 2005, by AGCO",
+          "__seccion_3__": "Challenger MT600B Product Information Guide published in 2005, by AGCO",
+          "__seccion_4__": "Challenger Specialty Wheel Tractors published in 2007"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 21, 2022"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2005 - 2008",
+          "__seccion_2__": "MT600B Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Challenger MT635B Tires",
+          "Ag front": "380/85R34",
+          "Ag rear": "480/80R46"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "121.1 inches 307 cm",
+          "Length": "206 inches 523 cm",
+          "Width": "118 inches 299 cm",
+          "Height (cab)": "123.6 inches 313 cm",
+          "Ground clearance": "22.4 inches 56 cm",
+          "Bar rear axle": "4.33 by 118 inches 109 by 2997 mm",
+          "Rear tread": "60 to 88 inches 152 to 223 cm"
+        },
+        {
+          "__seccion_1__": "Challenger MT635B Weight",
+          "Shipping": "18,308 lbs 8304 kg",
+          "Operating": "19,595 lbs 8888 kg",
+          "Max Drawbar": "5620 lbs 2549 kg",
+          "Max front axle": "10861 lbs 4926 kg",
+          "Max rear axle": "17044 lbs 7731 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 21, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2005 - 2008",
+          "__seccion_2__": "MT600B Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1875"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 1875",
+          "__seccion_2__": "Diesel CVT 4WD April 20 - May 3, 2006 Link: OCED Tractor Test 1875 file",
+          "__seccion_3__": "PTO performance",
+          "Max power": "157.87 hp 117.7 kW",
+          "Fuel use": "10.9 gal/hour 41.3 l/hour",
+          "Power at rated engine speed": "184.65 hp 137.7 kW",
+          "Power at rated PTO speed": "197.74 hp 147.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "__seccion_5__": "Pull at 9 KPH",
+          "Max pull": "16,927 lbs 7678 kg",
+          "__seccion_6__": "Pull at 5 KPH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 21, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2005 - 2008",
+          "__seccion_2__": "MT600B Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Sisu 74ETA",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "6-cylinder 24-valve",
+          "__seccion_5__": "liquid-cooled vertical inline",
+          "Displacement": "449 ci 7.4 L",
+          "Bore/Stroke": "4.251x5.278 inches 108 x 134 mm",
+          "Power": "215 hp 160.3 kW",
+          "Air cleaner": "dual paper elements",
+          "Pre-heating": "1000W coolant heater Opt Optional",
+          "Compression": "17.5:1",
+          "Rated RPM": "2200",
+          "Starter volts": "12",
+          "Oil capacity": "20 qts 18.9 L",
+          "Coolant capacity": "35.6 qts 33.7 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on October 21, 2022"
+        }
+      ]
+    }
+  }
+}

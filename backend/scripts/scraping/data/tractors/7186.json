@@ -1,0 +1,260 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/007/1/8/7186-new-holland-td5050.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/007/1/8/7186-new-holland-td5050-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/007/1/8/7186-new-holland-td5050-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/007/1/8/7186-new-holland-td5050-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 7186,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T20:33:53.860Z",
+    "foto_original": "https://www.tractordata.com/photos/F007/7186/7186-photo-001.jpg",
+    "foto_calidad": "webp 960px/q65 → 91 KB"
+  },
+  "tractor_data_id": 7186,
+  "name": "New Holland TD5050",
+  "brand": "Turk Tractor",
+  "model": "holland td5050",
+  "years": {
+    "desde": 2008,
+    "hasta": 2014
+  },
+  "model_year": 2008,
+  "engine_power_hp": 93,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 80,
+  "pto_tested_hp": 80.7,
+  "drawbar_tested_hp": 74.4,
+  "weight_kg": 3539,
+  "weight_basis": "4WD ROPS Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 33,
+  "traction_force_estimado": false,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": null,
+  "fuel_consumption_lph": 20.1,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F007/7186/7186-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F007/7186/7186-photo-001.jpg",
+  "image_url": "/uploads/tractors/td7186.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2008 - 2014",
+          "__seccion_2__": "TD5000 Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Turk Tractor built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "New Holland",
+          "Manufacturer": "Turk Tractor",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Ankara, Turkey"
+        },
+        {
+          "__seccion_1__": "Variants",
+          "TD5050HC": "high-crop",
+          "Farmall 95": "similar CaseIH model"
+        },
+        {
+          "__seccion_1__": "New Holland TD5050 Engine",
+          "__seccion_2__": "Iveco 4.5L 4-cyl diesel",
+          "Fuel tank": "23.8 gal 90.1 L",
+          "&nbsp": "30.8 gal Opt Optional 116.6 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TD5050 Transmissions",
+          "__seccion_2__": "12-speed partially synchronized mechanical shuttle",
+          "__seccion_3__": "20-speed creeper",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "New Holland TD5050 Power",
+          "Engine (gross)": "93 hp 69.4 kW",
+          "PTO (claimed)": "80 hp 59.7 kW",
+          "Drawbar (tested)": "74.4 hp 55.5 kW",
+          "PTO (tested)": "80.7 hp 60.2 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Platform with ROPS. Cab optional with heat and air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "New Holland TD5050 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2755 psi 190.0 bar",
+          "Rear valves": "1 to 3",
+          "Pump flow": "16.1 gpm 60.9 lpm",
+          "Total flow": "25.6 gpm 96.9 lpm",
+          "Steering flow": "9.5 gpm 36.0 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Control": "mechanical lower-link draft sensing",
+          "Rear lift (at 24\"/610mm)": "5025 lbs 2279 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "11-inch mechanical dry disc",
+          "Rear PTO Type": "540 (1.375)",
+          "&nbsp": "540/1000 (1.375) Opt Optional"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "2WD Wheelbase": "94 inches 238 cm",
+          "4WD Wheelbase": "91.8 inches 233 cm",
+          "Weight": "6702 to 8333 pounds",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "New Holland TD5050 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "65",
+          "Battery CCA": "800",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "TD5000 Series Tractors published in 2009, by New Holland"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2025",
+          "__seccion_7__": "https://www.dmcretail.com/newholland - Official operator manuals from New Holland."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2008 - 2014",
+          "__seccion_2__": "TD5000 Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Turk Tractor built"
+        },
+        {
+          "__seccion_1__": "New Holland TD5050 Tires",
+          "Ag rear": "hydraulic wet disc"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "2WD Wheelbase": "94 inches 238 cm",
+          "4WD Wheelbase": "91.8 inches 233 cm",
+          "Height (ROPS)": "107.7 inches 273 cm",
+          "Height (cab)": "102.4 inches 260 cm",
+          "2WD Front tread": "55.2 to 74.9 inches 140 to 190 cm",
+          "4WD Front tread": "61.4 to 78.7 inches 155 to 199 cm"
+        },
+        {
+          "__seccion_1__": "New Holland TD5050 Weight",
+          "2WD ROPS Shipping": "6,702 lbs 3040 kg",
+          "4WD ROPS Shipping": "7,804 lbs 3539 kg",
+          "2WD cab Shipping": "7,363 lbs 3339 kg",
+          "4WD cab Shipping": "8,333 lbs 3779 kg",
+          "2WD Max front axle": "5732 lbs 2600 kg",
+          "4WD Max front axle": "6613 lbs 2999 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2025"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "2008 - 2014",
+          "__seccion_2__": "TD5000 Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Turk Tractor built"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2510"
+        },
+        {
+          "__seccion_1__": "OCED Tractor Test 2510",
+          "__seccion_2__": "Diesel 12-speed 4WD December 2008 - 2008, Link: OCED Tractor Test 2510 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "80.7 hp 60.2 kW",
+          "Fuel use": "5.1 gal/hour 19.3 l/hour",
+          "Power at rated PTO speed": "80.6 hp 60.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "74.4 hp 55.5 kW",
+          "Max pull": "7,415 lbs 3363 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2025"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "2008 - 2014",
+          "__seccion_2__": "TD5000 Series",
+          "__seccion_3__": "Utility tractor",
+          "__seccion_4__": "Turk Tractor built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iveco NEF",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "274 ci 4.5 L",
+          "Bore/Stroke": "4.094x5.196 inches 104 x 132 mm",
+          "Emissions": "Tier 3",
+          "Power (gross)": "93 hp 69.4 kW",
+          "Fuel system": "direct injection",
+          "Air cleaner": "dual dry element",
+          "Pre-heating": "thermostart",
+          "Compression": "17.5:1",
+          "Rated RPM": "2500",
+          "Torque": "288 lb-ft 390.5 Nm",
+          "Torque RPM": "1300",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil change": "600 h"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2025"
+        }
+      ]
+    }
+  }
+}

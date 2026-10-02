@@ -1,0 +1,269 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/0/109-john-deere-8650.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/0/109-john-deere-8650-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/1/0/109-john-deere-8650-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/0/109-john-deere-8650-engine.html",
+    "source_id": 109,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:48:13.020Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/109/109-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 98 KB"
+  },
+  "tractor_data_id": 109,
+  "name": "John Deere 8650",
+  "brand": "John Deere",
+  "model": "8650",
+  "years": {
+    "desde": 1982,
+    "hasta": 1988
+  },
+  "model_year": 1982,
+  "engine_power_hp": 290,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 235,
+  "pto_tested_hp": 238.56,
+  "drawbar_tested_hp": 219.93,
+  "weight_kg": 13299,
+  "weight_basis": "Shipping weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 125.7,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 24.5-32",
+  "tire_width_mm": 622,
+  "tire_diameter_mm": 1871,
+  "tire_front": {
+    "original": "24.5-32",
+    "radial": false,
+    "width_mm": 622,
+    "rim_in": 32,
+    "diameter_mm_est": 1871,
+    "tipo": "Diagonal",
+    "texto": "24.5-32"
+  },
+  "fuel_consumption_lph": 58.3,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F000/109/109-td3a.jpg",
+  "image_url": "/uploads/tractors/td109.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1982 - 1988",
+          "__seccion_2__": "8050 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Four-wheel Drive (4WD) tractor",
+          "__seccion_3__": "Built in Waterloo, Iowa, USA",
+          "__seccion_4__": "Original price was $97,562 in 1983",
+          "__seccion_5__": "The 8650 was the middle model of John Deere's 50-series four-wheel drive tractors that were first available in 1982. Efficiency was the advertising focus, noting that these tractors could be used throughout the season, not simply for tillage. The 8650 was able to plant and cultivate 30-inch rows, and perform a variety of field operations with its draft-control hitch and full-power PTO."
+        },
+        {
+          "__seccion_1__": "John Deere 8650 Engine",
+          "__seccion_2__": "John Deere 10.1L 6-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8650 Transmission",
+          "__seccion_2__": "16-speed partial power shift",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8650 Power",
+          "Engine": "290 hp 216.3 kW",
+          "PTO (claimed)": "235 hp 175.2 kW",
+          "Drawbar (tested)": "219.93 hp 164.0 kW",
+          "PTO (tested)": "238.56 hp 177.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "inboard planetary",
+          "Differential lock": "electro-hydraulic front and rear",
+          "__seccion_3__": "Articulated power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Sound-Gard cab with air-conditioning"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 8650 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "214 gal 810.0 L",
+          "Hydraulic system": "37.5 gal 141.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "closed center constant-pressure",
+          "Capacity": "37.5 gal 141.9 L",
+          "Valves": "2 to 4",
+          "Pump flow": "32 gpm 121.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "III/IIIN",
+          "Control": "lower-link draft sensing",
+          "Rear lift": "9260 lbs 4200 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent Opt Optional",
+          "Clutch": "hydraulic wet disc",
+          "Rear PTO Type": "1000 (1.75)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "125 inches 317 cm",
+          "Weight": "29320 to 30270 pounds",
+          "Front tire": "18.4-38",
+          "Rear tire": "18.4-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 8650 attachments",
+          "__seccion_2__": "blade",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "1982": "1500",
+          "1983": "3000",
+          "1984": "5001",
+          "1985": "7001",
+          "1986": "8001",
+          "1987": "8501",
+          "1988": "9001",
+          "__seccion_1__": "8650 Serial Numbers",
+          "Location:": "Serial number plate on the rear of the tractor.",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "110",
+          "Batteries": "2",
+          "Battery CCA": "975",
+          "Battery volts": "6"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Loaders, Spreaders and Blades published in 1984, by John Deere",
+          "__seccion_3__": "4-Wheel-Drive Tractors published in 1981, by John Deere",
+          "__seccion_4__": "4-Wheel-Drive Tractors published in 1983, by John Deere",
+          "__seccion_5__": "4-Wheel-Drive Tractors published in 1986, by John Deere",
+          "__seccion_6__": "8450, 8650, 8850 Competition published in 1982, by John Deere",
+          "__seccion_7__": "Agricultural Price List published in 1983, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 18, 2022",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1982 - 1988",
+          "__seccion_2__": "8050 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 8650 Tires",
+          "Ag front": "24.5-32",
+          "Ag rear": "24.5-32",
+          "&nbsp": "20.8-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "125 inches 317 cm",
+          "Length": "223.5 inches 567 cm",
+          "Shipping weight": "29320 lbs 13299 kg",
+          "Operating weight": "30270 lbs 13730 kg",
+          "Front axle": "Long axle: 3.937 by 118.6 inches 99 by 3012 mm",
+          "Standard axle rear axle": "3.938 by 96 inches 100 by 2438 mm",
+          "Long axle rear axle": "3.937 by 118.6 inches 99 by 3012 mm",
+          "Front tread": "66 to 129 inches 167 to 327 cm",
+          "Rear tread": "66 to 129 inches 167 to 327 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 18, 2022"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1982 - 1988",
+          "__seccion_2__": "8050 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1435"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1435",
+          "__seccion_2__": "Diesel 16-speed 4WD May 13 - 24, 1982 Link: Nebraska Tractor Test 1435 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "238.56 hp 177.9 kW",
+          "Fuel use": "15.4 gal/hour 58.3 l/hour",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "219.93 hp 164.0 kW",
+          "Max pull": "28,257 lbs 12817 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 18, 2022"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1982 - 1988",
+          "__seccion_2__": "8050 Series",
+          "__seccion_3__": "Four-wheel Drive (4WD) tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "intercooled turbocharged diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "619 ci 10.1 L",
+          "Bore/Stroke": "5.12x5.00 inches 130 x 127 mm",
+          "Power": "290 hp 216.3 kW",
+          "Air cleaner": "dual paper elements with aspirator",
+          "Compression": "15.2:1",
+          "Rated RPM": "2100",
+          "Starter volts": "12",
+          "Oil capacity": "28 qts 26.5 L",
+          "Coolant capacity": "48 qts 45.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on April 18, 2022"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/109/109-td4-b01.jpg"
+}

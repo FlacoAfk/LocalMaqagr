@@ -1,0 +1,302 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/1/1/112-john-deere-750.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/1/1/112-john-deere-750-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/1/1/112-john-deere-750-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/1/1/112-john-deere-750-engine.html",
+    "source_id": 112,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T07:48:22.752Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/112/112-photo-001-ext045.jpg",
+    "foto_calidad": "webp 960px/q65 → 45 KB"
+  },
+  "tractor_data_id": 112,
+  "name": "John Deere 750",
+  "brand": "Yanmar",
+  "model": "deere 750",
+  "years": {
+    "desde": 1981,
+    "hasta": 1988
+  },
+  "model_year": 1981,
+  "engine_power_hp": 20,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 18.5,
+  "pto_tested_hp": 18.54,
+  "drawbar_tested_hp": 15.3,
+  "weight_kg": 907,
+  "weight_basis": "4WD Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": true,
+  "traction_force_kn": 7.4,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 9.5-24",
+  "tire_width_mm": 241,
+  "tire_diameter_mm": 1020,
+  "tire_front": {
+    "original": "4.00-15",
+    "radial": false,
+    "width_mm": 102,
+    "rim_in": 15,
+    "diameter_mm_est": 554,
+    "tipo": "Diagonal",
+    "texto": "4.00-15"
+  },
+  "fuel_consumption_lph": 4.5,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/112/112-td3a.jpg",
+  "image_url": "/uploads/tractors/td112.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1981 - 1988",
+          "__seccion_2__": "50 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "John Deere",
+          "Manufacturer": "Yanmar",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Japan",
+          "Original price": "$7,070 (1983)",
+          "__seccion_4__": "$10,000 (1989)"
+        },
+        {
+          "__seccion_1__": "John Deere 750 Engine",
+          "__seccion_2__": "Yanmar 1.3L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 750 Transmission",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 750 Power",
+          "Engine (gross)": "20 hp 14.9 kW",
+          "PTO (claimed)": "18.5 hp 13.8 kW",
+          "Drawbar (tested)": "15.30 hp 11.4 kW",
+          "PTO (tested)": "18.54 hp 13.8 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two- or four-wheel drive",
+          "Differential lock": "mechanical rear",
+          "Steering": "manual",
+          "&nbsp": "power Opt Optional",
+          "__seccion_3__": "Differential mechanical dry, internal expanding shoe brakes",
+          "__seccion_4__": "Two-post fixed ROPS."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "John Deere 750 photos..."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "6.2 gal 23.5 L",
+          "Hydraulic system": "3.75 gal 14.2 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "3.75 gal 14.2 L",
+          "Pressure": "2030 psi 140.0 bar",
+          "Valves": "2 Opt Optional"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position control"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "transmission",
+          "Clutch": "electro-magnetic",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2300",
+          "Front PTO": "independent Opt Optional"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "61.1 inches 155 cm",
+          "Weight": "1900 to 2000 pounds",
+          "Front tire": "4.00-15",
+          "Rear tire": "9.5-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "John Deere 750 attachments",
+          "__seccion_2__": "60\" mid-mount mower deck",
+          "__seccion_3__": "snowblower",
+          "__seccion_4__": "blade",
+          "__seccion_5__": "front-end loader",
+          "__seccion_6__": "backhoe",
+          "__seccion_7__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "750 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the rear of the John Deere 750, below the PTO shaft."
+        },
+        {
+          "1981": "1000",
+          "1982": "3448",
+          "1983": "5613",
+          "1984": "8457",
+          "1985": "13001",
+          "1986": "18501",
+          "1987": "22601",
+          "1988": "26450",
+          "__seccion_1__": "750 Serial Numbers",
+          "Final": "28161",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "15",
+          "Battery CCA": "370",
+          "Battery volts": "12",
+          "Battery Group": "BCI 24"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Consumer Products Price List published in 1983, by John Deere",
+          "__seccion_3__": "Grounds Care Equipment Purchasing Guide published in 1983, by John Deere",
+          "__seccion_4__": "Compact Utility/Utility Tractors Product Information Handbook published in 1983, by John Deere",
+          "__seccion_5__": "Compact Utility Tractors published in 1981, by John Deere",
+          "__seccion_6__": "Compact Utility Diesel Tractors 14.5 to 40 PTO hp published in 1982, by John Deere",
+          "__seccion_7__": "Diesel Tractors 14.5 to 60 PTO hp published in 1984, by John Deere",
+          "__seccion_8__": "Mechanical Front-Wheel Drive published in 1984, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on May 22, 2026",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1981 - 1988",
+          "__seccion_2__": "50 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "John Deere 750 Tires",
+          "Standard tires (ag)": "Front: 4.00-15. Rear: 9.5-24",
+          "&nbsp": "Front: 5-14. Rear: 9.5-24",
+          "Lawn/turf front": "25/8.5-14",
+          "Lawn/turf rear": "13.6-16"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "61.1 inches 155 cm",
+          "Length": "112 inches 284 cm",
+          "Width": "45.1 inches 114 cm",
+          "2WD Clearance (front axle)": "15.1 inches 38 cm",
+          "4WD Clearance (front axle)": "13 inches 33 cm",
+          "2WD Front tread": "35 inches 88 cm",
+          "4WD Front tread": "36 inches 91 cm",
+          "Rear tread": "35/39 inches 88/99 cm"
+        },
+        {
+          "__seccion_1__": "John Deere 750 Weight",
+          "2WD Shipping": "1900 lbs 861 kg",
+          "4WD Shipping": "2000 lbs 907 kg",
+          "Max Drawbar": "625 lbs 283 kg"
+        },
+        {
+          "__seccion_1__": "John Deere 750 Height",
+          "2WD Hood": "45.6 inches 115 cm",
+          "4WD Hood": "46.4 inches 117 cm",
+          "ROPS": "74.9 inches 190 cm",
+          "Exhaust": "76.9 inches 195 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 22, 2026"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1981 - 1988",
+          "__seccion_2__": "50 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1504"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1504",
+          "__seccion_2__": "Diesel 8-speed 2WD October 31 - November 10, 1983 Link: Nebraska Tractor Test 1504 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "18.54 hp 13.8 kW",
+          "Fuel use": "1.2 gal/hour 4.5 l/hour",
+          "Power at rated PTO speed": "19.80 hp 14.8 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "15.30 hp 11.4 kW",
+          "__seccion_5__": "Gear 7 used for power test.",
+          "Max pull": "1,661 lbs 753 kg",
+          "__seccion_6__": "Gear 5 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 22, 2026"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1981 - 1988",
+          "__seccion_2__": "50 Compact Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Yanmar built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Yanmar 3T80",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled inline",
+          "Displacement": "78.2 ci 1.3 L",
+          "Bore/Stroke": "3.15x3.35 inches 80 x 85 mm",
+          "Power (gross)": "20 hp 14.9 kW",
+          "Air cleaner": "dry",
+          "Pre-heating": "therostart",
+          "Compression": "22.5:1",
+          "Rated RPM": "2400",
+          "Starter volts": "12",
+          "Oil capacity": "4.0 qts 3.8 L",
+          "Coolant capacity": "4.5 qts 4.3 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 22, 2026"
+        }
+      ]
+    }
+  },
+  "photo_url_large": "https://www.tractordata.com/photos/F000/112/112-photo-001-ext045.jpg"
+}

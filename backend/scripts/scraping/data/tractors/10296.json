@@ -1,0 +1,220 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/010/2/9/10296-john-deere-830.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/010/2/9/10296-john-deere-830-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/010/2/9/10296-john-deere-830-engine.html",
+    "source_id": 10296,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T19:07:50.632Z",
+    "foto_original": "https://www.tractordata.com/photos/F010/10296/10296-td3a.jpg",
+    "foto_calidad": "webp 960px/q65 → 3 KB"
+  },
+  "tractor_data_id": 10296,
+  "name": "John Deere 830",
+  "brand": "John Deere",
+  "model": "830",
+  "years": {
+    "desde": 1974,
+    "hasta": 1979
+  },
+  "model_year": 1974,
+  "engine_power_hp": 35,
+  "engine_power_source": "engine_net",
+  "pto_claimed_hp": 29.5,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 2150,
+  "weight_basis": "Weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 10.8,
+  "traction_force_estimado": true,
+  "tire_type": null,
+  "tire_width_mm": null,
+  "tire_diameter_mm": null,
+  "tire_front": {
+    "original": "6.00-16",
+    "radial": false,
+    "width_mm": 152,
+    "rim_in": 16,
+    "diameter_mm_est": 665,
+    "tipo": "Diagonal",
+    "texto": "6.00-16"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F010/10296/10296-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td10296.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1974 - 1979",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "John Deere",
+          "__seccion_2__": "Utility tractor",
+          "__seccion_3__": "Built in Mannheim, Baden-Württemberg, Germany"
+        },
+        {
+          "__seccion_1__": "John Deere 830 Engine",
+          "__seccion_2__": "John Deere 2.7L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 830 Transmission",
+          "__seccion_2__": "8-speed gear",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "John Deere 830 Power",
+          "Engine (net)": "35 hp 26.1 kW",
+          "PTO (claimed)": "29.5 hp 22.0 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Final drives": "planetary",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Manual steering",
+          "__seccion_4__": "Wet disc brakes"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the John Deere 830 are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "16.4 gal 62.1 L",
+          "Hydraulic system": "7.9 gal 29.9 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Capacity": "7.9 gal 29.9 L",
+          "Pressure": "2104 psi 145.1 bar",
+          "Pump flow": "6.3 gpm 23.8 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position and draft control",
+          "Rear lift": "3417 lbs 1549 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Clutch": "dry disc",
+          "Rear PTO Type": "540 (1.375)",
+          "Engine RPM": "540@2100"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "74.4 inches 188 cm",
+          "Weight": "4740 lbs 2150 kg",
+          "Front tire": "6.00-16",
+          "Rear tire": "13.6/12-28",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "830 Serial Numbers",
+          "Location:": "Serial number plate on the right side of the Deere 830 tractor frame, above the front axle."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "28",
+          "Battery volts": "12",
+          "Battery AH": "55"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Operator's Manual Tractors 830 and 930 (OML31437)",
+          "__seccion_3__": "Operator's Manual Tractors 830 and 930 (OML33962)",
+          "__seccion_4__": "Product Information Manual published in 1975, by John Deere",
+          "__seccion_5__": "Product Information Manual published in 1977, by John Deere"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on August 24, 2020",
+          "__seccion_7__": "http://techpubs.deere.com/ - Official operator manuals for purchase or download from Deere."
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1974 - 1979",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "John Deere 830 Tires",
+          "Ag front": "6.00-16",
+          "Ag rear": "13.6/12-28"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "74.4 inches 188 cm",
+          "Length": "131.5 inches 334 cm",
+          "Width": "65.9 inches 167 cm",
+          "Height": "89 inches 226 cm",
+          "Weight": "4740 lbs 2150 kg",
+          "Front tread": "49.6 to 79.5 inches 125 to 201 cm",
+          "Rear tread": "53.5 to 73.2 inches 135 to 185 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 24, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "1974 - 1979",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "John Deere",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "164.4 ci 2.7 L",
+          "Bore/Stroke": "4.02x4.33 inches 102 x 110 mm",
+          "Power (net)": "35 hp 26.1 kW",
+          "Air cleaner": "dry",
+          "Compression": "16.2:1",
+          "Rated RPM": "2400",
+          "Idle RPM": "650-2545",
+          "Operating RPM": "1300-2400",
+          "Torque": "87 lb-ft 118.0 Nm",
+          "Torque RPM": "1300",
+          "Starter": "electric",
+          "Starter volts": "12",
+          "Oil capacity": "6 qts 5.7 L",
+          "Coolant capacity": "11 qts 10.4 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2026 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on August 24, 2020"
+        }
+      ]
+    }
+  }
+}

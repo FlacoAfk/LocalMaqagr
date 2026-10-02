@@ -1,0 +1,212 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/7/7/1772-zetor-6441.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/7/7/1772-zetor-6441-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/7/7/1772-zetor-6441-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1772,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:50:32.137Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1772/1772-td4-b01.jpg",
+    "foto_calidad": "webp 800px/q55 → 47 KB"
+  },
+  "tractor_data_id": 1772,
+  "name": "Zetor Proxima 6441",
+  "brand": "Zetor",
+  "model": "Proxima 6441",
+  "years": {
+    "desde": 2004,
+    "hasta": 2009
+  },
+  "model_year": 2004,
+  "engine_power_hp": 67,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 60,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 3601,
+  "weight_basis": "Weight",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 22,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 16.9-30",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1492,
+  "tire_front": {
+    "original": "12.4-34",
+    "radial": false,
+    "width_mm": 315,
+    "rim_in": 34,
+    "diameter_mm_est": 1399,
+    "tipo": "Diagonal",
+    "texto": "12.4-34"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": true,
+  "photo_url": "https://www.tractordata.com/photos/F001/1772/1772-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1772/1772-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1772.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2004 - 2009",
+          "__seccion_2__": "Proxima Series"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "Zetor",
+          "__seccion_2__": "Built in Brno, Czechoslovakia"
+        },
+        {
+          "6421": "2WD",
+          "6441": "4WD",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Zetor 6441 Engine",
+          "__seccion_2__": "Zetor 4.2L 4-cyl diesel",
+          "ROPS Fuel tank": "20 gal 75.7 L",
+          "Cab Fuel tank": "32 gal 121.1 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 6441 Transmissions",
+          "__seccion_2__": "10-speed syncromesh",
+          "__seccion_3__": "12-speed mechanical shuttle",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Zetor 6441 Power",
+          "Engine (gross)": "67 hp 50.0 kW",
+          "Engine (net)": "64 hp 47.7 kW",
+          "PTO (claimed)": "60 hp 44.7 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Hydraulic wet disc brakes",
+          "__seccion_5__": "Two-post folding ROPS. Cab optional with air-conditioning."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "Zetor 6441 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2900 psi 200.0 bar",
+          "Valves": "3",
+          "Pump flow": "14 gpm 53.0 lpm",
+          "Total flow": "18 gpm 68.1 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II/I",
+          "Control": "position and draft control",
+          "Rear lift": "6830 lbs 3098 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540 (1.375)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "88 inches 223 cm",
+          "Weight": "7940 lbs 3601 kg",
+          "Front tire": "11.2-24",
+          "Rear tire": "16.9-30",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Zetor 6441 attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "ROPS Charging amps": "55",
+          "Cab Charging amps": "70",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "Proxima Series Tractors published in 2004, by Zetor"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "Email me: Peter@TractorData.com",
+          "__seccion_4__": "TractorData is a family-owned small business located in Minnesota. I have been researching tractor history and providing specifications for free since 1999.",
+          "__seccion_5__": "Peter Easterlund - owner/author",
+          "__seccion_6__": "This machine's data modified on November 30, 2025"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2004 - 2009",
+          "__seccion_2__": "Proxima Series"
+        },
+        {
+          "__seccion_1__": "Zetor 6441 Tires",
+          "Ag front": "11.2-24",
+          "&nbsp": "12.4-34 (optional)",
+          "Ag rear": "16.9-30"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "88 inches 223 cm",
+          "Length": "152 inches 386 cm",
+          "Width": "73 inches 185 cm",
+          "Height (ROPS)": "103 inches 261 cm",
+          "Height (cab)": "102 inches 259 cm",
+          "Weight": "7940 lbs 3601 kg",
+          "Ground clearance": "16 inches 40 cm",
+          "Front tread": "59 to 71 inches 149 to 180 cm",
+          "Rear tread": "56 to 71 inches 142 to 180 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 30, 2025"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2004 - 2009",
+          "__seccion_2__": "Proxima Series"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Zetor",
+          "__seccion_3__": "turbocharged diesel",
+          "__seccion_4__": "4-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "254 ci 4.2 L",
+          "Power (net)": "64 hp 47.7 kW",
+          "Power (gross)": "67 hp 50.0 kW",
+          "Rated RPM": "2200",
+          "Starter volts": "12"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2025 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on November 30, 2025"
+        }
+      ]
+    }
+  }
+}

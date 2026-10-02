@@ -1,0 +1,284 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/001/1/6/1164-caseih-1594.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/001/1/6/1164-caseih-1594-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/001/1/6/1164-caseih-1594-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/001/1/6/1164-caseih-1594-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 1164,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T21:34:40.687Z",
+    "foto_original": "https://www.tractordata.com/photos/F001/1164/1164-td4-b01.jpg",
+    "foto_calidad": "webp 960px/q65 → 47 KB"
+  },
+  "tractor_data_id": 1164,
+  "name": "CaseIH 1594",
+  "brand": "CaseIH",
+  "model": "1594",
+  "years": {
+    "desde": 1985,
+    "hasta": 1988
+  },
+  "model_year": 1985,
+  "engine_power_hp": 97,
+  "engine_power_source": "engine",
+  "pto_claimed_hp": 86,
+  "pto_tested_hp": 85.9,
+  "drawbar_tested_hp": 72.17,
+  "weight_kg": 4213,
+  "weight_basis": "Operating",
+  "traction_type": "4x2",
+  "traction_type_derivado": true,
+  "traction_force_kn": 37,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 16.9-38",
+  "tire_width_mm": 429,
+  "tire_diameter_mm": 1695,
+  "tire_front": {
+    "original": "10.00-16",
+    "radial": false,
+    "width_mm": 254,
+    "rim_in": 16,
+    "diameter_mm_est": 838,
+    "tipo": "Diagonal",
+    "texto": "10.00-16"
+  },
+  "fuel_consumption_lph": 19.7,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F001/1164/1164-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F001/1164/1164-td4-b01.jpg",
+  "image_url": "/uploads/tractors/td1164.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1985 - 1988",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "CaseIH",
+          "__seccion_2__": "Utility tractor",
+          "Original price": "$26,000 (1988)"
+        },
+        {
+          "__seccion_1__": "CaseIH 1594 Engine",
+          "__seccion_2__": "Case 5.4L 6-cyl diesel",
+          "Fuel tank": "36 gal 136.3 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 1594 Transmissions",
+          "__seccion_2__": "12-speed synchromesh",
+          "__seccion_3__": "12-speed partial power shift",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "CaseIH 1594 Power",
+          "Engine": "97 hp 72.3 kW",
+          "Drawbar (claimed)": "74 hp 55.2 kW",
+          "PTO (claimed)": "86 hp 64.1 kW",
+          "Drawbar (tested)": "72.17 hp 53.8 kW",
+          "PTO (tested)": "85.90 hp 64.1 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "Drive": "4x2 2WD",
+          "&nbsp": "4x4 MFWD 4WD (optional)",
+          "Steering": "hydrostatic power",
+          "__seccion_2__": "Differential hydraulic wet disc brakes",
+          "__seccion_3__": "ROPS or cab."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "CaseIH 1594 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Pressure": "2600 psi 179.3 bar",
+          "Valves": "2",
+          "Total flow": "10.5 gpm 39.7 lpm",
+          "&nbsp": "20.1 gpm (tandem) 76.1 lpm",
+          "Steering flow": "7.7 gpm 29.1 lpm",
+          "Steering press.": "1850 psi 127.6 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "II",
+          "Rear lift (at ends)": "7,440 lbs 3374 kg",
+          "Rear lift (at 24\"/610mm)": "6,290 lbs 2853 kg"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540/1000"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "100 inches 254 cm",
+          "Weight": "9,290 lbs 4213 kg",
+          "Front tire": "10.00-16",
+          "Rear tire": "16.9-38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "1985": "11526001",
+          "1986": "11526518",
+          "1987": "11527297",
+          "1988": "11528442",
+          "__seccion_1__": "1594 Serial Numbers",
+          "Location:": "On right side of main frame",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Charging system": "alternator",
+          "Charging amps": "45",
+          "&nbsp": "128 (heavy duty)",
+          "Battery CCA": "420",
+          "Battery volts": "12",
+          "Battery AH": "96"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "1985 Farm Equipment Buyer's Guide published by CaseIH"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2014"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1985 - 1988",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "CaseIH 1594 Tires",
+          "Ag front": "10.00-16 (2WD)",
+          "&nbsp": "18.6-38",
+          "Ag rear": "16.9-38"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "100 inches 254 cm",
+          "Length": "164 inches 416 cm",
+          "Width": "78 inches 198 cm",
+          "Height (cab)": "107 inches 271 cm",
+          "Ground clearance": "16 inches (2WD) 40 cm",
+          "&nbsp": "15 inches (4WD) 38 cm",
+          "Front tread": "60 to 76 inches 152 to 193 cm (4WD)",
+          "Rear tread": "56 to 84 inches 142 to 213 cm"
+        },
+        {
+          "__seccion_1__": "CaseIH 1594 Weight",
+          "Operating": "9,290 lbs (2WD cab) 4213 kg",
+          "Ballasted": "11,210 lbs 5084 kg",
+          "Max capacity": "13,500 lbs 6123 kg",
+          "Max Drawbar": "3,300 lbs (PTO position) 1496 kg",
+          "Max front axle": "7,500 lbs (2WD) 3402 kg",
+          "&nbsp": "8,000 lbs (4WD) 3628 kg",
+          "Max rear axle": "12,000 lbs 5443 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2014"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1985 - 1988",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Tractor Tests",
+          "__seccion_2__": "NTTL 1546: diesel synchromesh 2WD",
+          "__seccion_3__": "NTTL 1547: diesel Hydra-Shift 2WD"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1546"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1546",
+          "__seccion_2__": "Diesel synchromesh 2WD October 24 - November 2, 1984 Link: Nebraska Tractor Test 1546 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "85.90 hp 64.1 kW",
+          "Fuel use": "5.1 gal/hour 19.3 l/hour",
+          "Power at rated PTO speed": "80.83 hp 60.3 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "72.17 hp 53.8 kW",
+          "__seccion_5__": "Gear 7 used for power test.",
+          "Max pull": "8,331 lbs 3778 kg",
+          "__seccion_6__": "Gear 4 used for pull test."
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1547"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 1547",
+          "__seccion_2__": "Diesel Hydra-Shift 2WD October 23 - 30, 1984 Link: Nebraska Tractor Test 1547 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "85.54 hp 63.8 kW",
+          "Fuel use": "5.1 gal/hour 19.3 l/hour",
+          "Power at rated PTO speed": "81.94 hp 61.1 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "69.37 hp 51.7 kW",
+          "__seccion_5__": "Gear 7 used for power test.",
+          "Max pull": "8,198 lbs 3718 kg",
+          "__seccion_6__": "Gear 4 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2014"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1985 - 1988",
+          "__seccion_2__": "Utility tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Case",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "329 ci 5.4 L",
+          "Bore/Stroke": "3.937x4.500 inches 100 x 114 mm",
+          "Power": "97 hp 72.3 kW",
+          "Air cleaner": "dual paper elements with pre-cleaner",
+          "Compression": "16:1",
+          "Rated RPM": "2300",
+          "Torque": "242.7 lb-ft 329.1 Nm",
+          "Torque RPM": "1425",
+          "Starter volts": "12",
+          "Oil capacity": "13.2 qts 12.5 L",
+          "Coolant capacity": "16.2 qts 15.3 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on March 13, 2014"
+        }
+      ]
+    }
+  }
+}

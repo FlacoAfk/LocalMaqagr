@@ -1,0 +1,251 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/000/5/1/511-ji-case-1031.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/000/5/1/511-ji-case-1031-dimensions.html",
+    "tests_url": "https://www.tractordata.com/farm-tractors/000/5/1/511-ji-case-1031-tests.html",
+    "engine_url": "https://www.tractordata.com/farm-tractors/000/5/1/511-ji-case-1031-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 511,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:05:59.497Z",
+    "foto_original": "https://www.tractordata.com/photos/F000/511/511-td4-b01-ext090.jpg",
+    "foto_calidad": "webp 800px/q55 → 50 KB"
+  },
+  "tractor_data_id": 511,
+  "name": "J.I. Case 1031",
+  "brand": "J.I. Case",
+  "model": "1031",
+  "years": {
+    "desde": 1966,
+    "hasta": 1969
+  },
+  "model_year": 1966,
+  "engine_power_hp": 101.79,
+  "engine_power_source": "pto_tested (proxy)",
+  "pto_claimed_hp": null,
+  "pto_tested_hp": 101.79,
+  "drawbar_tested_hp": 88.34,
+  "weight_kg": 4234,
+  "weight_basis": "Operating weight",
+  "traction_type": "4x2",
+  "traction_type_derivado": false,
+  "traction_force_kn": 53.6,
+  "traction_force_estimado": false,
+  "tire_type": "Diagonal 15.5x38",
+  "tire_width_mm": 394,
+  "tire_diameter_mm": 1634,
+  "tire_front": {
+    "original": "7.50x16",
+    "radial": false,
+    "width_mm": 191,
+    "rim_in": 16,
+    "diameter_mm_est": 730,
+    "tipo": "Diagonal",
+    "texto": "7.50x16"
+  },
+  "fuel_consumption_lph": 29.1,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F000/511/511-td3a.jpg",
+  "photo_url_large": "https://www.tractordata.com/photos/F000/511/511-td4-b01-ext090.jpg",
+  "image_url": "/uploads/tractors/td511.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "1966 - 1969",
+          "__seccion_2__": "1030 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Manufacturer": "J.I. Case",
+          "__seccion_2__": "Row-Crop tractor",
+          "__seccion_3__": "Built in Racine, Wisconsin, USA",
+          "Total built": "13,763 (all types)",
+          "__seccion_4__": "Original price was $10,300 in 1969",
+          "__seccion_5__": "The Case 1030 series was composed of the model 1031 General-Purpose and the 1032 Western Special. There was, technically, no model code 1030, although all tractors carried a 1030 decal on the hood. The model code was stamped onto the serial number plate."
+        },
+        {
+          "1031": "1030 General-Purpose",
+          "1032": "1030 Western Special",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "J.I. Case 1031 Engine",
+          "__seccion_2__": "J.I. Case 7.4L 6-cyl diesel",
+          "Fuel tank": "48 gal 181.7 L",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 1031 Transmission",
+          "__seccion_2__": "8-speed",
+          "__seccion_3__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "J.I. Case 1031 Power",
+          "Plows": "7",
+          "Drawbar (tested)": "88.34 hp 65.9 kW",
+          "PTO (tested)": "101.79 hp 75.9 kW",
+          "__seccion_2__": "Performance test details ..."
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Two-wheel drive",
+          "Steering": "power",
+          "__seccion_3__": "Disc brakes",
+          "__seccion_4__": "Open operator station."
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "J.I. Case 1031 photos..."
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Valves": "2",
+          "Pump flow": "12 gpm 45.4 lpm"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "2"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Rear PTO": "independent",
+          "Rear PTO Type": "540",
+          "&nbsp": "1000",
+          "Engine RPM": "1000@1700"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "109 inches 276 cm",
+          "Weight": "9335 lbs 4234 kg",
+          "Front tire": "7.50x16",
+          "Rear tire": "15.5x38",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "1031 Serial Number Location",
+          "__seccion_2__": "Serial number plate on the tractor's instrument panel."
+        },
+        {
+          "1966": "8279001",
+          "1967": "8306501",
+          "1968": "8332101",
+          "1969": "8356251",
+          "__seccion_1__": "1031 Serial Numbers",
+          "Final": "8376150",
+          "__seccion_2__": "FAQ: How to read a serial number table."
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "1030 7-plow General Purpose and Special Models published by J.I. Case",
+          "__seccion_3__": "Buyers Guide for '67 published in 1967, by J.I. Case"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 14, 2023"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "1966 - 1969",
+          "__seccion_2__": "1030 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "J.I. Case 1031 Tires",
+          "Ag front": "9.00x16",
+          "Ag rear": "23.1x30",
+          "&nbsp": "18.4x34"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "109 inches 276 cm",
+          "Length": "165 inches 419 cm",
+          "Width": "88 inches 223 cm",
+          "Height (steering wheel)": "87 inches 220 cm",
+          "Height (hood)": "72 inches 182 cm",
+          "Operating weight": "9335 lbs 4234 kg",
+          "Ballasted weight": "16220 lbs 7357 kg",
+          "Ground clearance": "16 inches 40 cm",
+          "Front tread": "56 to 81 inches 142 to 205 cm",
+          "Rear tread": "76 to 92 inches 193 to 233 cm"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 14, 2023"
+        }
+      ],
+      "pruebas": [
+        {
+          "__seccion_1__": "1966 - 1969",
+          "__seccion_2__": "1030 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 952"
+        },
+        {
+          "__seccion_1__": "Nebraska Tractor Test 952",
+          "__seccion_2__": "Diesel 8-speed 2WD November 2 - 5, 1966 Link: Nebraska Tractor Test 952 file",
+          "__seccion_3__": "PTO performance",
+          "Power at rated engine speed": "101.79 hp 75.9 kW",
+          "Fuel use": "7.6 gal/hour 28.8 l/hour",
+          "Power at rated PTO speed": "93.15 hp 69.5 kW",
+          "__seccion_4__": "Drawbar performance",
+          "Max power": "88.34 hp 65.9 kW",
+          "__seccion_5__": "Gear 4 used for power test.",
+          "Max pull": "12,056 lbs 5468 kg",
+          "__seccion_6__": "Gear 2 used for pull test."
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 14, 2023"
+        }
+      ],
+      "motor": [
+        {
+          "__seccion_1__": "1966 - 1969",
+          "__seccion_2__": "1030 Series",
+          "__seccion_3__": "Row-Crop tractor"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "J.I. Case",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "6-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "451 ci 7.4 L",
+          "Bore/Stroke": "4.375x5.00 inches 111 x 127 mm",
+          "Air cleaner": "dry",
+          "Compression": "15:1",
+          "Rated RPM": "2000",
+          "Starter volts": "12",
+          "Oil capacity": "14 qts 13.2 L",
+          "Coolant capacity": "40 qts 37.9 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on September 14, 2023"
+        }
+      ]
+    }
+  }
+}

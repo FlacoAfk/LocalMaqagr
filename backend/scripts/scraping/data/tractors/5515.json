@@ -1,0 +1,260 @@
+{
+  "fuente": {
+    "sitio": "TractorData.com",
+    "url": "https://www.tractordata.com/farm-tractors/005/5/1/5515-challenger-mt255b.html",
+    "dimensions_url": "https://www.tractordata.com/farm-tractors/005/5/1/5515-challenger-mt255b-dimensions.html",
+    "tests_url": null,
+    "engine_url": "https://www.tractordata.com/farm-tractors/005/5/1/5515-challenger-mt255b-engine.html",
+    "nebraska_pdf": null,
+    "source_id": 5515,
+    "licencia": "Datos factuales extraídos de TractorData.com para uso como referencia del catálogo local de MaqAgr. La compilación de TractorData tiene copyright propio: no redistribuir el volcado completo; conservar la atribución de fuente por registro.",
+    "recuperado": "2026-09-30T22:37:29.162Z",
+    "foto_original": "https://www.tractordata.com/photos/F005/5515/5515-td3a.jpg",
+    "foto_calidad": "webp 800px/q55 → 2 KB"
+  },
+  "tractor_data_id": 5515,
+  "name": "Challenger MT255B",
+  "brand": "Iseki",
+  "model": "mt255b",
+  "years": {
+    "desde": 2005,
+    "hasta": 2008
+  },
+  "model_year": 2005,
+  "engine_power_hp": 28.4,
+  "engine_power_source": "engine_gross",
+  "pto_claimed_hp": 24.2,
+  "pto_tested_hp": null,
+  "drawbar_tested_hp": null,
+  "weight_kg": 1075,
+  "weight_basis": "Gear Shipping",
+  "traction_type": "4x4",
+  "traction_type_derivado": false,
+  "traction_force_kn": 8.9,
+  "traction_force_estimado": true,
+  "tire_type": "Diagonal 36x13.50-15",
+  "tire_width_mm": 343,
+  "tire_diameter_mm": 914,
+  "tire_front": {
+    "original": "24x8.50-14",
+    "radial": false,
+    "width_mm": 216,
+    "rim_in": 14,
+    "diameter_mm_est": 610,
+    "tipo": "Diagonal",
+    "texto": "24x8.50-14"
+  },
+  "fuel_consumption_lph": null,
+  "has_turbo": false,
+  "photo_url": "https://www.tractordata.com/photos/F005/5515/5515-td3a.jpg",
+  "photo_url_large": null,
+  "image_url": "/uploads/tractors/td5515.webp",
+  "specs": {
+    "ficha_completa": {
+      "principal": [
+        {
+          "__seccion_1__": "2005 - 2008",
+          "__seccion_2__": "MT200B Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Production",
+          "Distributor": "Challenger (a part of AGCO)",
+          "Manufacturer": "Iseki",
+          "__seccion_2__": "Compact Utility tractor",
+          "__seccion_3__": "Built in Matsuyama, Japan"
+        },
+        {
+          "1528": "similar Massey Ferguson model",
+          "__seccion_1__": "Variants"
+        },
+        {
+          "__seccion_1__": "Challenger MT255B Engine",
+          "__seccion_2__": "Iseki 1.5L 3-cyl diesel",
+          "__seccion_3__": "Engine details ..."
+        },
+        {
+          "__seccion_1__": "Challenger MT255B Transmissions",
+          "__seccion_2__": "hydrostatic",
+          "__seccion_3__": "9-speed gear",
+          "__seccion_4__": "Transmission details ..."
+        },
+        {
+          "__seccion_1__": "Challenger MT255B Power",
+          "Engine (gross)": "28.4 hp 21.2 kW",
+          "Engine (net)": "28 hp 20.9 kW",
+          "Gear PTO (claimed)": "24.2 hp 18.0 kW",
+          "Hydro PTO (claimed)": "22.3 hp 16.6 kW"
+        },
+        {
+          "__seccion_1__": "Mechanical",
+          "__seccion_2__": "Four-wheel drive",
+          "Final drives": "spur gear",
+          "Differential lock": "mechanical rear",
+          "__seccion_3__": "Power steering",
+          "__seccion_4__": "Wet disc brakes",
+          "__seccion_5__": "Two-post foldable ROPS"
+        },
+        {
+          "__seccion_1__": "Photos",
+          "__seccion_2__": "No photos of the Challenger MT255B are currently available. To submit yours, email it to Peter@TractorData.com . Photos may only be used with the permission of the original photographer."
+        },
+        {
+          "__seccion_1__": "Capacity",
+          "Fuel": "7.9 gal 29.9 L",
+          "Gear Hydraulic system": "4.8 gal 18.2 L",
+          "Hydro Hydraulic system": "7.7 gal 29.1 L"
+        },
+        {
+          "__seccion_1__": "Hydraulics",
+          "Type": "open center",
+          "Gear Capacity": "4.8 gal 18.2 L",
+          "Hydro Capacity": "7.7 gal 29.1 L",
+          "Pressure": "2134 psi 147.1 bar",
+          "Rear valves": "2 Opt Optional",
+          "Mid valves": "2 Opt Optional",
+          "Pump flow": "7.4 gpm 28.0 lpm",
+          "Total flow": "10.0 gpm 37.9 lpm",
+          "Steering flow": "2.6 gpm 9.8 lpm",
+          "Steering press.": "1711 psi 118.0 bar"
+        },
+        {
+          "__seccion_1__": "Tractor hitch",
+          "Rear Type": "I",
+          "Control": "position and response control",
+          "&nbsp": "top-link draft control * Optional, with hydrostatic transmission.",
+          "Rear lift (at ends)": "2425 lbs 1099 kg",
+          "Rear lift (at 24\"/610mm)": "1610 lbs 730 kg",
+          "Rear Arms": "fixed link ends"
+        },
+        {
+          "__seccion_1__": "Power Take-off (PTO)",
+          "Gear Rear PTO": "live",
+          "Hydro Rear PTO": "independent",
+          "Gear Clutch": "dry disc",
+          "Hydro Clutch": "electro-hydraulic wet disc",
+          "Rear PTO Type": "540 (1.375)",
+          "Gear Mid PTO": "live",
+          "Hydro Mid PTO": "independent",
+          "Mid PTO Type": "2000 (1.00)"
+        },
+        {
+          "__seccion_1__": "Dimensions & Tires",
+          "Wheelbase": "65.5 inches 166 cm",
+          "Weight": "2370 to 2423 pounds",
+          "Front tire": "7-14",
+          "Rear tire": "9.5-24",
+          "__seccion_2__": "Full dimensions and tires ..."
+        },
+        {
+          "__seccion_1__": "Challenger MT255B attachments",
+          "__seccion_2__": "front-end loader",
+          "__seccion_3__": "backhoe",
+          "__seccion_4__": "Attachment details ..."
+        },
+        {
+          "__seccion_1__": "Electrical",
+          "Ground": "negative",
+          "Charging system": "alternator",
+          "Charging amps": "40",
+          "Battery CCA": "582",
+          "Battery volts": "12"
+        },
+        {
+          "__seccion_1__": "References",
+          "__seccion_2__": "MT200B Series published in 2005, by AGCO"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 26, 2020"
+        }
+      ],
+      "dimensiones": [
+        {
+          "__seccion_1__": "2005 - 2008",
+          "__seccion_2__": "MT200B Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Challenger MT255B Tires",
+          "Ag front": "7-14",
+          "Ag rear": "9.5-24",
+          "Lawn/turf front": "24x8.50-14",
+          "Lawn/turf rear": "36x13.50-15",
+          "Industrial front": "25x8.50-14",
+          "Industrial rear": "12.50/80-18"
+        },
+        {
+          "__seccion_1__": "Dimensions",
+          "Wheelbase": "65.5 inches 166 cm",
+          "Length": "112.4 inches 285 cm",
+          "Width": "50.6 inches * Minimum width. 128 cm",
+          "Height (ROPS)": "80.7 inches 204 cm",
+          "Ground clearance": "10 inches 25 cm",
+          "Front axle": "Flange: 39.34 inch length 999 mm",
+          "Flange rear axle": "37.4 inch length 949 mm",
+          "Front tread": "39.6 inches 100 cm",
+          "Rear tread": "37.6 inches 95 cm"
+        },
+        {
+          "__seccion_1__": "Challenger MT255B Weight",
+          "Gear Shipping": "2370 lbs 1075 kg",
+          "Hydro Shipping": "2423 lbs 1099 kg",
+          "Max capacity": "4145 lbs 1880 kg",
+          "Max front axle": "1929 lbs 874 kg",
+          "Max rear axle": "2216 lbs 1005 kg"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 26, 2020"
+        }
+      ],
+      "pruebas": [],
+      "motor": [
+        {
+          "__seccion_1__": "2005 - 2008",
+          "__seccion_2__": "MT200B Series",
+          "__seccion_3__": "Compact Utility tractor",
+          "__seccion_4__": "Iseki built"
+        },
+        {
+          "__seccion_1__": "Engine Detail",
+          "__seccion_2__": "Iseki E3CF",
+          "__seccion_3__": "diesel",
+          "__seccion_4__": "3-cylinder",
+          "__seccion_5__": "liquid-cooled",
+          "Displacement": "89.3 ci 1.5 L",
+          "Bore/Stroke": "3.39x3.30 inches 86 x 84 mm",
+          "Power (net)": "28 hp 20.9 kW",
+          "Power (gross)": "28.4 hp 21.2 kW",
+          "Fuel system": "indirect injection",
+          "Air cleaner": "dual-stage dry",
+          "Pre-heating": "glow plugs",
+          "Rated RPM": "2500",
+          "Idle RPM": "930-2750",
+          "Starter volts": "12",
+          "Oil capacity": "3.8 qts 3.6 L",
+          "Coolant capacity": "5.8 qts 5.5 L"
+        },
+        {
+          "__seccion_1__": "Page information",
+          "__seccion_2__": "Copyright 2024 TractorData.com®",
+          "__seccion_3__": "TractorData is a family-owned small business located in Minnesota that has been providing reference information on tractors since 1999.",
+          "__seccion_4__": "Peter Easterlund - owner/author",
+          "__seccion_5__": "Email: Peter@TractorData.com",
+          "__seccion_6__": "Updated on May 26, 2020"
+        }
+      ]
+    }
+  }
+}
