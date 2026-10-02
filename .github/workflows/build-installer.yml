@@ -44,7 +44,11 @@ jobs:
       - name: Install dependencies
         # Root postinstall installs backend and frontend dependencies too,
         # which the .iss packs as backend\* (source + node_modules + SQL).
-        run: pnpm install
+        run: |
+          pnpm install --config.node-linker=hoisted
+          cd backend && pnpm install --config.node-linker=hoisted
+          cd ../frontend && pnpm install
+
 
       - name: Build frontend
         # frontend/.env.local is gitignored, so CI must set the same values the
