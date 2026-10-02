@@ -139,3 +139,22 @@ Para fabricantes con SPA o protección (Baldan, Tatu Marchesan, Basso, AgriExpo�
 - Caché en disco: re-ejecutar un lote **no** vuelve a descargar páginas.
 - El catálogo completo (4.102 modelos de 12 marcas) son ~16.400 peticiones;
   a 800 ms ≈ 3,7 h + tiempo de descarga. Recomendado por tandas de marca.
+
+## Flujo completo de datos (orden obligatorio)
+
+```
+1. node tractordata/run.js --urls=…       (scraping TractorData)
+2. node download-images.js               (fotos WebP)
+3. node import.js                        (scraping → BD)
+4. node implementos/baldan.js            (fichas Baldan)
+5. node download-implement-images.js
+6. node import-implements.js
+7. node import-curados.js                (curados: ficha oficial, prioridad=TRUE)
+8. node extract-tires-from-pdf.js        (llantas desde fichas PDF de fabricantes)
+9. node validate-links.js --prioridad    (auditoría por bytes mágicos)
+10. node solidify-db.js                  (completa lo buscable y BORRA lo incompleto)
+```
+
+El paso 8 es clave: antes de que `solidify-db.js` borre un tractor prioritario
+por faltarle llantas, extrae esa información del PDF de la ficha técnica
+(p. ej. Kubota MU4501: "RUEDAS Y GOMAS — Traseras 13.6 x 28").
