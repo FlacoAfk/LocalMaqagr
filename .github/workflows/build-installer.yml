@@ -52,14 +52,20 @@ jobs:
       - name: Materialize sharp dependency tree (pnpm links break in Inno payload)
         # sharp (runtime dep, storage.js) resuelve sus transitivas (detect-libc,
         # @img/*) por enlaces de pnpm que Inno no preserva al copiar: el
-        # instalador arranca con ERR_MODULE_NOT_FOUND 'detect-libc'. Copiar el
-        # subárbol real de sharp a la raíz de node_modules lo materializa.
+        # instalador arranca con ERR_MODULE_NOT_FOUND 'detect-libc'. Copiar a la
+        # raíz SOLO los paquetes que faltan (los que ya están son junctions de
+        # pnpm: copiarlos sobre sí mismos falla).
         shell: pwsh
         run: |
           $store = Get-ChildItem "backend\node_modules\.pnpm" -Directory -Filter "sharp@*" | Select-Object -First 1
           if ($store) {
-            Copy-Item "$($store.FullName)\node_modules\*" "backend\node_modules\" -Recurse -Force
-            Write-Host "Subárbol de sharp materializado desde $($store.Name)"
+            Get-ChildItem "$($store.FullName)\node_modules" -Directory | ForEach-Object {
+              $target = Join-Path "backend\node_modules" $_.Name
+              if (-not (Test-Path $target)) {
+                Copy-Item $_.FullName $target -Recurse -Force
+                Write-Host "materializado: $($_.Name)"
+              }
+            }
           } else {
             Write-Host "::warning::No se encontró sharp en .pnpm; el instalador podría fallar al cargar imágenes"
           }
