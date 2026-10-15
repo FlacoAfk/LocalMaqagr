@@ -97,6 +97,11 @@ Con una cuenta administradora autorizada:
 
 ## 9. Si algo falla
 
+- **Error 4551 "Una directiva de Control de aplicaciones bloqueó este archivo" (carpeta temporal)**: el equipo destino tiene **Smart App Control** (Windows 11) o una política **AppLocker/ASR** que bloquea ejecutables sin firma digital. Soluciones:
+  1. Desactivar Smart App Control en ese equipo: **Configuración → Privacidad y seguridad → Seguridad de Windows → Control de aplicaciones y navegador → Configuración de Control de aplicaciones inteligentes → Desactivar**, y volver a ejecutar el instalador. (Aviso: una vez desactivado, no se puede reactivar sin reinstalar/restablecer Windows.)
+  2. Si el equipo es administrado por una organización (AppLocker), pedir a TI una exclusión para `MaqAgr-Setup.exe`.
+  3. Si había una versión anterior de MaqAgr instalada, desinstálala primero desde **Configuración → Aplicaciones** (el instalador ejecuta el desinstalador viejo desde la carpeta temporal, que es justo lo que la política bloquea).
+  4. Solución definitiva del proyecto: **firmar digitalmente** el instalador con un certificado de firma de código (elimina estos bloqueos y SmartScreen de raíz).
 - Si no abre: comprueba que la consola terminó el arranque y que los puertos `4000`/`5435` estén libres.
 - Si el backend no arranca con `ERR_MODULE_NOT_FOUND: Cannot find package 'detect-libc' … sharp`: al copiar `node_modules`, Inno Setup rompe los enlaces de pnpm y sharp pierde una dependencia. Arreglo (PowerShell **como administrador**):
   ```powershell
