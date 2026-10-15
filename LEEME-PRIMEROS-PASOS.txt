@@ -1,0 +1,66 @@
+═══════════════════════════════════════════════════════════════════
+  MaqAgr v1.4.3 — PRIMEROS PASOS (léeme antes de instalar)
+═══════════════════════════════════════════════════════════════════
+
+REQUISITOS
+----------
+• Windows 10/11 de 64 bits.
+• Permisos de administrador para instalar.
+• Puertos libres: 4000 (app) y 5435 (base de datos local incluida).
+
+IMPORTANTE ANTES DE INSTALAR (Windows 11 nuevo)
+-----------------------------------------------
+Los equipos con Windows 11 recién instalado traen **Control de aplicaciones
+inteligente (Smart App Control)** activo, que bloquea programas sin firma
+digital de Microsoft. MaqAgr no está firmado, así que:
+
+  1. Abre: Configuración → Privacidad y seguridad → Seguridad de Windows
+     → Control de aplicaciones y navegador
+     → Configuración de Control de aplicaciones inteligentes
+  2. Selecciona **Desactivar**.
+  3. Vuelve a ejecutar MaqAgr-Setup.exe como administrador.
+
+⚠️ Nota: una vez desactivado, Smart App Control no se puede reactivar sin
+restablecer Windows. En equipos administrados por una empresa/colegio,
+pide a TI la exclusión para "MaqAgr-Setup.exe".
+
+Si aparece "Windows protegió tu PC" (SmartScreen) al ejecutar el
+instalador: pulsa "Más información" → "Ejecutar de todas formas".
+
+INSTALACIÓN
+-----------
+1. Ejecuta MaqAgr-Setup.exe como administrador.
+2. Elige la carpeta (por defecto C:\Program Files\MaqAgr) y acepta.
+3. Al terminar, deja marcada la casilla "Iniciar MaqAgr ahora":
+   se abrirá una consola negra del lanzador y el navegador.
+4. NO cierres esa consola mientras uses la aplicación.
+
+PRIMER USO
+----------
+• La aplicación vive en:  http://localhost:4000
+• Estado del servidor:    http://localhost:4000/health
+• Catálogos:              Catálogo → Tractores / Maquinaria
+                          (los tractores con ficha oficial aparecen primero)
+• Calculadora:            Tengo tractor / Tengo maquinaria / Busco equipo
+                          (el buscador de tractor rellena los datos solos)
+• Registro/Login:         crea tu usuario desde la app; para el panel de
+                          administración se necesita una cuenta administradora
+                          proporcionada por el responsable del proyecto.
+
+TUS DATOS
+---------
+La base de datos y las imágenes viven en:
+  C:\ProgramData\MaqAgr\          (pgdata, uploads, logs)
+Desinstalar NO borra esos datos; se conservan para reinstalaciones.
+
+SI ALGO FALLA
+-------------
+• Revisa los logs en:  C:\ProgramData\MaqAgr\logs\
+• Puertos ocupados: cierra cualquier proceso que use 4000 o 5435.
+• Error 4551 "Control de aplicaciones": falta desactivar Smart App
+  Control (ver arriba) o el equipo tiene AppLocker corporativo (pide
+  exclusión a TI).
+• La consola muestra "NOTICE: la columna ya existe, omitiendo": es
+  normal (migraciones idempotentes), no es un error.
+
+═══════════════════════════════════════════════════════════════════

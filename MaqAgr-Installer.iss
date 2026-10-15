@@ -8,7 +8,7 @@
 ; Version can be overridden from the CLI (CI passes the release tag):
 ;   ISCC.exe /DMyAppVersionOverride=1.2.3 MaqAgr-Installer.iss
 #ifndef MyAppVersionOverride
-  #define MyAppVersion   "1.4.2"
+  #define MyAppVersion   "1.4.3"
 #else
   #define MyAppVersion   MyAppVersionOverride
 #endif
@@ -79,6 +79,9 @@ Source: "frontend\dist\*";            DestDir: "{app}\app\frontend-dist"; Flags:
 ; --- Local seed images (installed to ProgramData so the app can serve them) ---
 Source: "install-assets\uploads\tractors\*";   DestDir: "{commonappdata}\MaqAgr\uploads\tractors";   Flags: onlyifdoesntexist uninsneveruninstall
 Source: "install-assets\uploads\implements\*"; DestDir: "{commonappdata}\MaqAgr\uploads\implements"; Flags: onlyifdoesntexist uninsneveruninstall
+
+; --- Léeme de primeros pasos (se muestra al terminar la instalación) ---
+Source: "LEEME-PRIMEROS-PASOS.txt"; DestDir: "{app}"; Flags: isreadme ignoreversion
 
 [Icons]
 Name: "{group}\{#MyAppName}";         Filename: "{app}\scripts\{#MyAppExeName}"; IconFilename: "{app}\MaqAgr.ico"; WorkingDir: "{app}\scripts"
