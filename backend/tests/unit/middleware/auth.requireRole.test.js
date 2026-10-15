@@ -1,10 +1,18 @@
 import { beforeEach, describe, expect, jest, test } from '@jest/globals';
 
 const mockVerifyToken = jest.fn();
+const mockPool = { query: jest.fn() };
 
 jest.unstable_mockModule('../../../src/utils/jwt.util.js', () => ({
   __esModule: true,
   verifyToken: mockVerifyToken,
+}));
+
+// auth.middleware importa config/db.js, que exige DB_PASS al importarse:
+// en CI no hay .env, así que se mockea antes de cargar el middleware.
+jest.unstable_mockModule('../../../src/config/db.js', () => ({
+  __esModule: true,
+  pool: mockPool,
 }));
 
 const { requireRole } = await import('../../../src/middleware/auth.middleware.js');
