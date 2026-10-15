@@ -8,7 +8,7 @@
 ; Version can be overridden from the CLI (CI passes the release tag):
 ;   ISCC.exe /DMyAppVersionOverride=1.2.3 MaqAgr-Installer.iss
 #ifndef MyAppVersionOverride
-  #define MyAppVersion   "1.4.3"
+  #define MyAppVersion   "1.4.4"
 #else
   #define MyAppVersion   MyAppVersionOverride
 #endif
@@ -72,6 +72,8 @@ Source: "runtime\pgsql\*";            DestDir: "{app}\runtime\pgsql"; Flags: rec
 ; --- Backend (source + node_modules + database SQL) ---
 ; Excludes: .git (VCS), .env (dev config — launcher sets env at runtime), uploads (dev artifacts)
 Source: "backend\*";                   DestDir: "{app}\app\backend"; Excludes: ".git\*,.env,.env.*,.env.*\*,uploads\*,coverage\*,tests\*,src\__tests__\*"; Flags: recursesubdirs ignoreversion
+; pnpm store needed for symlinks inside node_modules
+Source: "backend\.pnpm\*";            DestDir: "{app}\app\backend\.pnpm"; Flags: recursesubdirs ignoreversion
 
 ; --- Frontend production build (dist only) ---
 Source: "frontend\dist\*";            DestDir: "{app}\app\frontend-dist"; Flags: recursesubdirs ignoreversion
