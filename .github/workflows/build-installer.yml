@@ -13,7 +13,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 env:
   NODE_VERSION: v24.18.1
@@ -24,6 +24,8 @@ jobs:
   build-installer:
     name: Build MaqAgr-Setup.exe
     runs-on: windows-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -45,9 +47,36 @@ jobs:
         # Root postinstall installs backend and frontend dependencies too,
         # which the .iss packs as backend\* (source + node_modules + SQL).
         run: |
-          pnpm install --config.node-linker=hoisted
-          cd backend && pnpm install --config.node-linker=hoisted
-          cd ../frontend && pnpm install
+          pnpm install --frozen-lockfile
+
+      - name: Materialize sharp dependency tree (pnpm links break in Inno payload)
+        # sharp (runtime dep, storage.js) resuelve sus transitivas (detect-libc,
+        # @img/*) por enlaces de pnpm que Inno no preserva al copiar: el
+        # instalador arranca con ERR_MODULE_NOT_FOUND 'detect-libc'. Copiar el
+        # subárbol real de sharp a la raíz de node_modules lo materializa.
+        shell: pwsh
+        run: |
+          $store = Get-ChildItem "backend\node_modules\.pnpm" -Directory -Filter "sharp@*" | Select-Object -First 1
+          if ($store) {
+            Copy-Item "$($store.FullName)\node_modules\*" "backend\node_modules\" -Recurse -Force
+            Write-Host "Subárbol de sharp materializado desde $($store.Name)"
+          } else {
+            Write-Host "::warning::No se encontró sharp en .pnpm; el instalador podría fallar al cargar imágenes"
+          }
+
+      - name: Verify backend node_modules resolvability
+        shell: pwsh
+        run: |
+          node -e "require.resolve('detect-libc', { paths: ['backend'] }); require.resolve('sharp', { paths: ['backend'] }); console.log('sharp y detect-libc resolvibles ✓')"
+
+      - name: Backend unit tests
+        run: pnpm --dir backend run test:unit -- --runInBand
+
+      - name: Frontend tests
+        run: pnpm --dir frontend test
+
+      - name: Frontend lint
+        run: pnpm --dir frontend run lint
 
 
       - name: Build frontend
