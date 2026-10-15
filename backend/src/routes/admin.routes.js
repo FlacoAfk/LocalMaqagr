@@ -134,6 +134,17 @@ router.get('/stats/users', verifyTokenMiddleware, requireRole('admin'), getUserS
  *         description: Error interno del servidor
  */
 router.get('/cache/stats', verifyTokenMiddleware, requireRole('admin'), async (req, res) => {
+    if (!redisClient) {
+        return res.json({
+            status: 'disabled',
+            enabled: false,
+            hits: 0,
+            misses: 0,
+            hitRate: '0.00%',
+            latency: '0ms'
+        });
+    }
+
     try {
         const start = Date.now();
         // Use INFO command to get stats
@@ -155,13 +166,18 @@ router.get('/cache/stats', verifyTokenMiddleware, requireRole('admin'), async (r
         const hitRate = total > 0 ? (hits / total) * 100 : 0;
 
         res.json({
+            status: 'available',
+            enabled: true,
             hits,
             misses,
             hitRate: `${hitRate.toFixed(2)}%`,
             latency: `${Date.now() - start}ms`
         });
     } catch (error) {
-        res.status(500).json({ message: 'Error fetching cache stats', error: error.message });
+        res.status(503).json({
+            status: 'unavailable',
+            message: 'Cache statistics are temporarily unavailable'
+        });
     }
 });
 

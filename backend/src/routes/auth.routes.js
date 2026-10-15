@@ -187,11 +187,11 @@ router.post("/login", loginLimiter, login);
  * @swagger
  * /api/auth/forgot-password:
  *   post:
- *     summary: Solicitar restablecimiento de contraseña
+ *     summary: Consultar disponibilidad de restablecimiento de contraseña
  *     description: |
- *       Genera un token JWT de un solo uso (1h expiración) para restablecer la contraseña.
- *       El token se incluye en la respuesta para uso directo en este entorno.
- *       En producción se enviaría por email y NO se incluiría en la respuesta.
+ *       La recuperación por correo no está habilitada porque esta instalación
+ *       no tiene un canal verificado de entrega. La respuesta nunca incluye
+ *       credenciales; el usuario debe contactar al administrador.
  *     tags: [Auth]
  *     requestBody:
  *       required: true
@@ -207,8 +207,8 @@ router.post("/login", loginLimiter, login);
  *                 format: email
  *                 example: "admin@maqagr.com"
  *     responses:
- *       200:
- *         description: Si el email está registrado, se genera un token de restablecimiento
+ *       503:
+ *         description: Recuperación deshabilitada hasta configurar entrega verificada
  *         content:
  *           application/json:
  *             schema:
@@ -216,13 +216,13 @@ router.post("/login", loginLimiter, login);
  *               properties:
  *                 success:
  *                   type: boolean
- *                   example: true
+ *                   example: false
+ *                 code:
+ *                   type: string
+ *                   example: PASSWORD_RECOVERY_UNAVAILABLE
  *                 message:
  *                   type: string
- *                   example: "Si el email está registrado, recibirás instrucciones para restablecer tu contraseña"
- *                 resetToken:
- *                   type: string
- *                   description: Token JWT para restablecer contraseña (solo en entorno de desarrollo)
+ *                   example: "La recuperación por correo no está disponible en esta instalación. Contacta al administrador para obtener asistencia."
  *       400:
  *         description: Email faltante o inválido
  *       500:

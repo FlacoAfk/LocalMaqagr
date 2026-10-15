@@ -157,6 +157,9 @@ class Implement {
       type,
       minWidth,
       maxWidth,
+      minPower,
+      maxPower,
+      maxWeight,
       requiredPower,
       limit = 10,
       offset = 0,
@@ -195,6 +198,24 @@ class Implement {
     if (maxWidth !== null && maxWidth !== undefined) {
       conditions.push(`working_width_m <= $${paramIndex}`);
       values.push(maxWidth);
+      paramIndex++;
+    }
+
+    if (minPower !== null && minPower !== undefined) {
+      conditions.push(`power_requirement_hp >= $${paramIndex}`);
+      values.push(minPower);
+      paramIndex++;
+    }
+
+    if (maxPower !== null && maxPower !== undefined) {
+      conditions.push(`power_requirement_hp <= $${paramIndex}`);
+      values.push(maxPower);
+      paramIndex++;
+    }
+
+    if (maxWeight !== null && maxWeight !== undefined) {
+      conditions.push(`weight_kg <= $${paramIndex}`);
+      values.push(maxWeight);
       paramIndex++;
     }
 

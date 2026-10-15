@@ -21,6 +21,8 @@ const mockUserDelete = jest.fn();
 const mockBcryptHash = jest.fn();
 const mockBcryptCompare = jest.fn();
 const mockGenerateToken = jest.fn();
+const mockGeneratePasswordResetToken = jest.fn();
+const mockVerifyPasswordResetToken = jest.fn();
 
 // Mock de pool
 jest.unstable_mockModule("../../../src/config/db.js", () => ({
@@ -59,14 +61,14 @@ jest.unstable_mockModule("../../../src/utils/jwt.util.js", () => ({
   generateToken: mockGenerateToken,
   verifyToken: jest.fn(),
   refreshToken: jest.fn(),
-  generatePasswordResetToken: jest.fn(),
-  verifyPasswordResetToken: jest.fn(),
+  generatePasswordResetToken: mockGeneratePasswordResetToken,
+  verifyPasswordResetToken: mockVerifyPasswordResetToken,
   default: {
     generateToken: mockGenerateToken,
     verifyToken: jest.fn(),
     refreshToken: jest.fn(),
     generatePasswordResetToken: jest.fn(),
-    verifyPasswordResetToken: jest.fn(),
+    verifyPasswordResetToken: mockVerifyPasswordResetToken,
   },
 }));
 
@@ -85,7 +87,7 @@ jest.unstable_mockModule("../../../src/utils/logger.js", () => ({
 
 // ==================== IMPORT DEL CONTROLLER (después de mocks) ====================
 
-const { register, login, logout, getProfile, updateProfile, changePassword, deleteUser } =
+const { register, login, logout, getProfile, updateProfile, changePassword, deleteUser, forgotPassword, resetPassword } =
   await import("../../../src/controllers/authController.js");
 
 // ==================== HELPERS ====================
@@ -134,6 +136,30 @@ const testUser = {
   registration_date: "2026-01-15T00:00:00Z",
   last_session: "2026-02-13T10:00:00Z",
 };
+
+describe('Anonymous password recovery safety', () => {
+  test.each([testUser, null])('does not issue a credential or query whether the account exists (%j)', async (user) => {
+    jest.clearAllMocks();
+    mockUserFindByEmail.mockResolvedValue(user);
+    mockGeneratePasswordResetToken.mockReturnValue('secret-reset-credential');
+    const req = { body: { email: 'juan@test.com' } };
+    const res = createMockRes();
+    const next = createMockNext();
+
+    await callHandler(forgotPassword, req, res, next);
+
+    expect(next).not.toHaveBeenCalled();
+    expect(res.status).toHaveBeenCalledWith(503);
+    expect(res.json).toHaveBeenCalledWith({
+      success: false,
+      code: 'PASSWORD_RECOVERY_UNAVAILABLE',
+      message: 'La recuperación por correo no está disponible en esta instalación. Contacta al administrador para obtener asistencia.',
+    });
+    expect(mockUserFindByEmail).not.toHaveBeenCalled();
+    expect(mockGeneratePasswordResetToken).not.toHaveBeenCalled();
+    expect(res.json.mock.calls[0][0]).not.toHaveProperty('resetToken');
+  });
+});
 
 // ==================== TESTS ====================
 
@@ -609,6 +635,64 @@ describe("authController", () => {
         "$2b$10$newHashedPassword",
       );
     });
+
+    test("acepta el cuerpo snake_case que envía apiClient", async () => {
+      const req = createMockReq(
+        { current_password: "OldPassword1", new_password: "NewPassword1" },
+        { user_id: 1 },
+      );
+      const res = createMockRes();
+      const next = createMockNext();
+
+      mockUserFindById.mockResolvedValue({
+        user_id: 1,
+        password: "$2b$10$oldHashedPassword",
+      });
+      mockBcryptCompare.mockResolvedValue(true);
+      mockBcryptHash.mockResolvedValue("$2b$10$newHashedPassword");
+      mockUserUpdatePassword.mockResolvedValue({ user_id: 1 });
+
+      await callHandler(changePassword, req, res, next);
+
+      expect(next).not.toHaveBeenCalled();
+      expect(res.status).toHaveBeenCalledWith(200);
+      expect(mockBcryptCompare).toHaveBeenCalledWith(
+        "OldPassword1",
+        "$2b$10$oldHashedPassword",
+      );
+      expect(mockUserUpdatePassword).toHaveBeenCalledWith(
+        1,
+        "$2b$10$newHashedPassword",
+      );
+    });
+  });
+
+  describe("resetPassword()", () => {
+    test("acepta new_password, el nombre serializado por apiClient", async () => {
+      const req = { body: { token: "valid-reset-token", new_password: "NewPassword1" } };
+      const res = createMockRes();
+      const next = createMockNext();
+
+      mockVerifyPasswordResetToken.mockReturnValue({
+        user_id: 1,
+        email: "juan@test.com",
+      });
+      mockUserFindById.mockResolvedValue({
+        user_id: 1,
+        email: "juan@test.com",
+      });
+      mockBcryptHash.mockResolvedValue("$2b$10$newHashedPassword");
+      mockUserUpdatePassword.mockResolvedValue({ user_id: 1 });
+
+      await callHandler(resetPassword, req, res, next);
+
+      expect(next).not.toHaveBeenCalled();
+      expect(res.status).toHaveBeenCalledWith(200);
+      expect(mockUserUpdatePassword).toHaveBeenCalledWith(
+        1,
+        "$2b$10$newHashedPassword",
+      );
+    });
   });
 
   describe("updateProfile()", () => {
@@ -707,6 +791,22 @@ describe("authController", () => {
   });
 
   describe("deleteUser()", () => {
+    test("impide que el administrador elimine su propia cuenta", async () => {
+      const req = {
+        params: { id: "7" },
+        user: { user_id: 7, role_id: 1 },
+      };
+      const res = createMockRes();
+      const next = createMockNext();
+
+      await callHandler(deleteUser, req, res, next);
+
+      expect(next).not.toHaveBeenCalled();
+      expect(res.status).toHaveBeenCalledWith(400);
+      expect(mockPoolQuery).not.toHaveBeenCalled();
+      expect(mockUserDelete).not.toHaveBeenCalled();
+    });
+
     test("si el usuario tiene terrenos → 400", async () => {
       const req = {
         params: { id: "7" },

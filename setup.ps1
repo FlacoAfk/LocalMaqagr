@@ -1,6 +1,6 @@
-# MaqAgr Local — Full Installer
+# MaqAgr Local — Development Setup
 # Usage: .\setup.ps1 (or right-click → Run with PowerShell)
-# Flags: -SkipInstall (skip Node/pnpm install), -SkipDeps (skip pnpm install)
+# Flags: -SkipInstall (skip Node installation), -SkipDeps (skip dependency install)
 
 param(
     [switch]$SkipInstall,
@@ -20,7 +20,7 @@ function Refresh-Path {
 }
 
 Write-Host "`n╔══════════════════════════════════════════╗" -ForegroundColor Green
-Write-Host "║   MaqAgr Local — Full Installer          ║" -ForegroundColor Green
+Write-Host "║   MaqAgr Local — Development Setup       ║" -ForegroundColor Green
 Write-Host "║   Agricultural Machinery Platform        ║" -ForegroundColor Green
 Write-Host "╚══════════════════════════════════════════╝`n" -ForegroundColor Green
 
@@ -34,9 +34,6 @@ $node = Get-Command node -ErrorAction SilentlyContinue
 if ($node) {
     $nodeVersion = (node --version) -replace 'v',''
     Write-OK "Node.js v$nodeVersion"
-    if ([version]$nodeVersion -lt [version]"18.0.0") {
-        Write-Warn "Node.js 18+ recommended. Current: v$nodeVersion"
-    }
 } else {
     if ($SkipInstall) {
         Write-Fail "Node.js not found. Install from https://nodejs.org"
@@ -55,26 +52,48 @@ if ($node) {
     }
 }
 
+$nodeVersion = (node --version) -replace 'v',''
+if ([version]$nodeVersion -lt [version]"22.0.0") {
+    Write-Fail "Node.js 22+ is required by the frontend. Current: v$nodeVersion"
+    exit 1
+}
+
+# ── PostgreSQL client ──
+if (-not (Get-Command psql -ErrorAction SilentlyContinue) -or -not (Get-Command pg_isready -ErrorAction SilentlyContinue)) {
+    Write-Fail "PostgreSQL client tools (psql and pg_isready) not found. Install PostgreSQL and ensure its bin directory is on PATH."
+    exit 1
+}
+& pg_isready -h 127.0.0.1 -p 5432 -q
+if ($LASTEXITCODE -ne 0) {
+    Write-Fail "PostgreSQL is not accepting local connections on 127.0.0.1:5432. Start your local database before setup."
+    exit 1
+}
+Write-OK "PostgreSQL client found and local server is accepting connections"
+
 # ── pnpm via corepack ──
+$requiredPnpmVersion = "11.1.0"
 $pnpmHome = Join-Path $env:LOCALAPPDATA "pnpm"
 if (-not $env:PNPM_HOME) { $env:PNPM_HOME = $pnpmHome }
 if ($env:PATH -notlike "*$pnpmHome*") { $env:PATH = "$pnpmHome;$env:PATH" }
 
 try {
-    corepack enable 2>$null
+    if (-not (Get-Command corepack -ErrorAction SilentlyContinue)) {
+        throw "Corepack was not found. Install Corepack, then activate pnpm@$requiredPnpmVersion."
+    }
+    & corepack enable
+    if ($LASTEXITCODE -ne 0) { throw "corepack enable exited with $LASTEXITCODE" }
     $pnpmVersion = pnpm --version 2>$null
-    if ($pnpmVersion) {
+    if ($pnpmVersion -eq $requiredPnpmVersion) {
         Write-OK "pnpm v$pnpmVersion"
     } else {
-        Write-Warn "Installing pnpm via corepack..."
-        corepack prepare pnpm@latest --activate 2>$null
+        Write-Warn "Activating pinned pnpm@$requiredPnpmVersion via Corepack..."
+        & corepack prepare "pnpm@$requiredPnpmVersion" --activate
+        if ($LASTEXITCODE -ne 0) { throw "Corepack could not activate pnpm@$requiredPnpmVersion" }
         $pnpmVersion = pnpm --version 2>$null
-        if ($pnpmVersion) {
-            Write-OK "pnpm v$pnpmVersion installed"
-        } else {
-            Write-Fail "pnpm install failed. Try: npm install -g pnpm"
-            exit 1
+        if ($pnpmVersion -ne $requiredPnpmVersion) {
+            throw "Expected pnpm $requiredPnpmVersion but found '$pnpmVersion'"
         }
+        Write-OK "pnpm v$pnpmVersion activated"
     }
 } catch {
     Write-Fail "Failed to setup pnpm: $_"
@@ -114,26 +133,20 @@ if (-not (Test-Path $frontendEnv) -and (Test-Path $frontendEnvExample)) {
 Write-Step "Phase 3/4: Installing Dependencies"
 
 if (-not $SkipDeps) {
-    Write-Warn "Installing backend dependencies..."
-    Push-Location (Join-Path $ProjectRoot "backend")
-    pnpm install
-    if ($?) { Write-OK "Backend dependencies installed" }
-    else { Write-Fail "Backend install failed" }
-    Pop-Location
-
-    Write-Warn "Installing frontend dependencies..."
-    Push-Location (Join-Path $ProjectRoot "frontend")
-    pnpm install
-    if ($?) { Write-OK "Frontend dependencies installed" }
-    else { Write-Fail "Frontend install failed" }
-    Pop-Location
-
-    Write-Warn "Installing root dependencies..."
+    Write-Warn "Installing pinned root, backend, and frontend dependencies..."
     Push-Location $ProjectRoot
-    pnpm install
-    if ($?) { Write-OK "Root dependencies installed" }
-    else { Write-Fail "Root install failed" }
-    Pop-Location
+    try {
+        & pnpm install --frozen-lockfile
+        if ($LASTEXITCODE -ne 0) {
+            throw "pnpm install --frozen-lockfile failed with exit code $LASTEXITCODE"
+        }
+        Write-OK "All dependencies installed from lockfiles"
+    } catch {
+        Write-Fail $_
+        exit 1
+    } finally {
+        Pop-Location
+    }
 } else {
     Write-Warn "Dependency installation skipped"
 }
@@ -152,6 +165,7 @@ $uploadsDir = Join-Path $ProjectRoot "backend\uploads"
     }
 }
 Write-OK "Upload directories ready"
+Write-Warn "Configure backend/.env for your local PostgreSQL credentials, create maqagr_local, and apply the database baseline before launching."
 
 # ═══════════════════════════════════════════════
 # DONE

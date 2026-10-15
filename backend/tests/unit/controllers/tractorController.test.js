@@ -289,6 +289,28 @@ describe("tractorController", () => {
   // CREATE TRACTOR
   // ========================================================
   describe("createTractor()", () => {
+    test.each([true, false])('forwards turbo and operating costs on create (%s)', async (hasTurbo) => {
+      const req = createMockReq({}, {
+        ...mockTractor,
+        has_turbo: hasTurbo,
+        fuel_consumption_lph: '12.5',
+        maintenance_cost_per_hour: '0',
+      });
+      const res = createMockRes();
+      const next = createMockNext();
+      mockCreate.mockResolvedValue(mockTractor);
+
+      await callHandler(createTractor, req, res, next);
+
+      expect(next).not.toHaveBeenCalled();
+      expect(mockCreate).toHaveBeenCalledWith(expect.objectContaining({
+        has_turbo: hasTurbo,
+        fuel_consumption_lph: 12.5,
+        maintenance_cost_per_hour: 0,
+      }));
+      expect(res.status).toHaveBeenCalledWith(201);
+    });
+
     test("con datos válidos → 201 + creado", async () => {
       const req = createMockReq({}, { ...mockTractor });
       const res = createMockRes();
@@ -410,6 +432,30 @@ describe("tractorController", () => {
   // UPDATE TRACTOR
   // ========================================================
   describe("updateTractor()", () => {
+    test.each([true, false])('forwards explicit turbo changes on update (%s)', async (hasTurbo) => {
+      const req = createMockReq({ id: '1' }, { has_turbo: hasTurbo });
+      const res = createMockRes();
+      const next = createMockNext();
+      mockFindById.mockResolvedValue({ ...mockTractor, has_turbo: !hasTurbo });
+      mockUpdate.mockResolvedValue({ ...mockTractor, has_turbo: hasTurbo });
+
+      await callHandler(updateTractor, req, res, next);
+
+      expect(next).not.toHaveBeenCalled();
+      expect(mockUpdate).toHaveBeenCalledWith(1, expect.objectContaining({ has_turbo: hasTurbo }));
+    });
+
+    test('does not reset turbo when a partial update omits it', async () => {
+      const req = createMockReq({ id: '1' }, { name: 'Updated Name' });
+      const res = createMockRes();
+      mockFindById.mockResolvedValue({ ...mockTractor, has_turbo: true });
+      mockUpdate.mockResolvedValue({ ...mockTractor, has_turbo: true });
+
+      await callHandler(updateTractor, req, res, createMockNext());
+
+      expect(mockUpdate.mock.calls[0][1].has_turbo).toBeUndefined();
+    });
+
     test("con ID válido → 200 + actualizado", async () => {
       const req = createMockReq({ id: "1" }, { name: "Updated Name" });
       const res = createMockRes();
@@ -790,6 +836,27 @@ describe("tractorController", () => {
           type: "4x4",
         }),
       );
+    });
+
+    test.each(['3500', '0'])('forwards numeric maxWeight filter (%s)', async (maxWeight) => {
+      const req = createSearchReq({ maxWeight });
+      const res = createMockRes();
+      mockAdvancedSearch.mockResolvedValue({ data: [], total: 0 });
+
+      await callHandler(searchTractors, req, res, createMockNext());
+
+      expect(mockAdvancedSearch).toHaveBeenCalledWith(expect.objectContaining({ maxWeight: Number(maxWeight) }));
+      expect(res.json.mock.calls[0][0].filters.maxWeight).toBe(Number(maxWeight));
+    });
+
+    test.each(['abc', '3000kg', '-1', 'Infinity'])('rejects invalid maxWeight (%s)', async (maxWeight) => {
+      const req = createSearchReq({ maxWeight });
+      const res = createMockRes();
+
+      await callHandler(searchTractors, req, res, createMockNext());
+
+      expect(res.status).toHaveBeenCalledWith(400);
+      expect(mockAdvancedSearch).not.toHaveBeenCalled();
     });
 
     test("minPower inválido → 400", async () => {

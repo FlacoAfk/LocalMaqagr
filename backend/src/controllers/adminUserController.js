@@ -91,11 +91,21 @@ export const updateUser = asyncHandler(async (req, res) => {
     return notFoundResponse(res, 'Usuario no encontrado');
   }
 
-  // No permitir que un admin se desactive a sí mismo
-  if (req.user && req.user.user_id === id && role_id !== undefined && role_id !== 1) {
+  const updatingOwnAccount = req.user && Number(req.user.user_id) === id;
+
+  // No permitir que un admin se quite privilegios ni desactive su propia cuenta.
+  if (updatingOwnAccount && role_id !== undefined && role_id !== 1) {
     return validationErrorResponse(
       res,
       ['No puedes cambiar tu propio rol de administrador'],
+      'Acción no permitida',
+    );
+  }
+
+  if (updatingOwnAccount && status !== undefined && status !== 'active') {
+    return validationErrorResponse(
+      res,
+      ['No puedes desactivar o suspender tu propia cuenta de administrador'],
       'Acción no permitida',
     );
   }

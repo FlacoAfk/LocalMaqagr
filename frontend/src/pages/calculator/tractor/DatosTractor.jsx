@@ -53,7 +53,13 @@ import {
 import StepIndicator from "../../../components/ui/StepIndicator";
 import SkeletonCard from "@/components/ui/SkeletonCard";
 import { getSoilLabel, getSoilConditionLabel } from "../../../lib/utils";
-import { getEstimatedTdp, updateTractorPowerFields } from "../../../lib/tractorPowerFields";
+import { getAvailableTractorPower } from "../../../lib/calculatorWizardState";
+import {
+  getEstimatedTdp,
+  getTractorTractionType,
+  normalizeTractorTractionType,
+  updateTractorPowerFields,
+} from "../../../lib/tractorPowerFields";
 
 export default function DatosTractor() {
   const navigate = useNavigate();
@@ -88,6 +94,7 @@ export default function DatosTractor() {
     pmax_tdp: "",
     peso: "",
     turbo: "",
+    tractionType: "4x2",
 
     // Paso 2: Llantas
     diametroLlanta: "",
@@ -197,6 +204,7 @@ export default function DatosTractor() {
         ? (tractor.enginePowerHp * 0.86).toFixed(1)
         : "",
       peso: tractor.weightKg || "",
+      tractionType: getTractorTractionType(tractor),
       turbo:
         tractor.hasTurbo === true ? "si"
         : tractor.hasTurbo === false ? "no"
@@ -316,6 +324,7 @@ export default function DatosTractor() {
       pmax_tdp: "",
       peso: "",
       turbo: "",
+      tractionType: "4x2",
       diametroLlanta: "",
       presionInflado: "",
       soil_type: "",
@@ -396,9 +405,8 @@ export default function DatosTractor() {
       ...(formData.pmax_tdp ? { pmaxTdpHp: toNumberOrNull(formData.pmax_tdp) } : {}),
       weightKg: toNumberOrNull(formData.peso),
       hasTurbo,
-      // El formulario no tiene selector de tracción: se envía 4x2 (2WD) por defecto.
-      // El backend la usa solo cuando el body incluye soil_condition (ruta Zoz & Grisso).
-      tractionType: "4x2",
+      // The selector is also prefilled from the chosen catalog tractor when available.
+      tractionType: normalizeTractorTractionType(formData.tractionType),
       // Condición del suelo (Fig. 47): activa la ruta v3 del profesor en el backend.
       soilCondition: formData.soil_condition || "medio",
       tireDiameterIn: diametroLlanta,
@@ -422,7 +430,7 @@ export default function DatosTractor() {
       // Cargar implementos compatibles en base a la potencia útil disponible
       try {
         setIsLoadingImplements(true);
-        const netPower = resData?.netPowerHp || toNumberOrNull(formData.pb) || 100;
+        const netPower = getAvailableTractorPower(resData?.netPowerHp, toNumberOrNull(formData.pb));
         const impRes = await getImplements({ limit: 100 });
         const allImplements = impRes?.data || [];
 
@@ -584,6 +592,27 @@ export default function DatosTractor() {
           </div>
         </div>
       )}
+
+      <div>
+        <label htmlFor="tractionType" className="text-sm font-medium leading-none block mb-1.5 text-foreground">
+          Tipo de tracción
+        </label>
+        <select
+          id="tractionType"
+          name="tractionType"
+          value={formData.tractionType}
+          onChange={handleChange}
+          className={getInputClass("tractionType", errors)}
+        >
+          <option value="4x2">Tracción trasera (4x2 / 2WD)</option>
+          <option value="mfwd">Tracción delantera auxiliar (MFWD)</option>
+          <option value="4x4">Tracción en las cuatro ruedas (4x4 / 4WD)</option>
+          <option value="track">Tracción por orugas</option>
+        </select>
+        <p className="mt-1.5 text-xs text-muted-foreground">
+          Se usa para calcular la resistencia al rodamiento y la eficiencia de tracción.
+        </p>
+      </div>
     </div>
   );
 
@@ -939,6 +968,8 @@ export default function DatosTractor() {
         (imp.brand || "").toLowerCase().includes(busquedaImplemento.toLowerCase()) ||
         (imp.implementType || imp.type || "").toLowerCase().includes(busquedaImplemento.toLowerCase())
     );
+    const hasCompatibleImplements = implementsList.some((imp) => imp.isCompatible === true);
+    const hasEvaluatedImplements = implementsList.length > 0;
 
     return (
       <div className="space-y-8 animate-fadeIn">
@@ -1131,13 +1162,23 @@ export default function DatosTractor() {
           </div>
         )}
 
-        {/* Implementos Compatibles Recomendados */}
+        {/* Implementos compatibles o maquinaria evaluada como referencia */}
         <div className="border-t border-border/40 pt-6">
           <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-6 gap-4">
             <div>
-              <h3 className="text-lg font-bold text-foreground">Implementos Compatibles Recomendados</h3>
+              <h3 className="text-lg font-bold text-foreground">
+                {hasCompatibleImplements
+                  ? "Implementos Compatibles Recomendados"
+                  : hasEvaluatedImplements
+                    ? "Implementos evaluados (sin opciones compatibles)"
+                    : "Implementos compatibles"}
+              </h3>
               <p className="text-xs text-muted-foreground">
-                Maquinaria del catálogo que puedes operar eficientemente con los {netPowerHp} HP disponibles en barra de tiro.
+                {hasCompatibleImplements
+                  ? `Maquinaria del catálogo que puedes operar con los ${netPowerHp} HP disponibles en barra de tiro.`
+                  : hasEvaluatedImplements
+                    ? `Ninguno de estos implementos es compatible con los ${netPowerHp} HP disponibles. Se muestran sus requerimientos solo como referencia, no como recomendaciones.`
+                    : `No se encontraron implementos compatibles con los ${netPowerHp} HP disponibles en barra de tiro.`}
               </p>
             </div>
             <div className="relative w-full sm:w-64">
@@ -1167,13 +1208,23 @@ export default function DatosTractor() {
                     imageSrc={imp.imageUrl || imp.image_url || imp.image || MachineImg}
                     link={`/maquinaria/${imp.implementId || imp.implement_id || imp.id}`}
                     title={imp.implementName || imp.name || `${imp.brand || ""} ${imp.implementType || "Implemento"}`}
-                    description={`Potencia requerida: ${imp.reqHp || imp.powerRequirementHp || imp.power_requirement_hp} HP - Estado: ${imp.suitability?.label || "Óptimo"}`}
+                    description={`Potencia requerida: ${imp.reqHp || imp.powerRequirementHp || imp.power_requirement_hp} HP - Estado: ${imp.suitability?.label || (imp.isCompatible ? "Compatible" : "Potencia insuficiente")}`}
                   />
                 ))
               ) : (
                 <div className="col-span-full py-12 text-center text-muted-foreground bg-secondary/10 rounded-xl border border-dashed border-border/60">
-                  <p className="text-base font-semibold">No se encontraron implementos compatibles</p>
-                  <p className="text-xs mt-1">Prueba refinando la búsqueda o con otra configuración de tractor.</p>
+                  <p className="text-base font-semibold">
+                    {hasCompatibleImplements
+                      ? "No se encontraron implementos compatibles con esta búsqueda"
+                      : hasEvaluatedImplements
+                        ? "No se encontraron implementos evaluados con esta búsqueda"
+                        : "No hay implementos compatibles para mostrar"}
+                  </p>
+                  <p className="text-xs mt-1">
+                    {hasCompatibleImplements
+                      ? "Prueba con otro nombre, marca o tipo de implemento."
+                      : "Prueba con otra configuración de tractor o revisa el catálogo disponible."}
+                  </p>
                 </div>
               )}
             </div>

@@ -1,6 +1,8 @@
 import fs from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { randomUUID } from 'crypto';
+import sharp from 'sharp';
 import logger from '../utils/logger.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -16,14 +18,24 @@ const UPLOADS_ROOT = process.env.UPLOAD_DIR
 // Public URL prefix served by express.static in app.js
 const PUBLIC_URL_PREFIX = '/uploads';
 
-// MIME type -> file extension (used when originalname lacks an extension)
-const MIME_EXT_MAP = {
-  'image/jpeg': '.jpg',
-  'image/jpg': '.jpg',
-  'image/png': '.png',
-  'image/webp': '.webp',
-  'image/gif': '.gif',
-};
+const MAX_IMAGE_BYTES = 5 * 1024 * 1024;
+const MAX_IMAGE_PIXELS = 16 * 1024 * 1024;
+const RASTER_FORMATS = new Set(['jpeg', 'png', 'webp', 'gif']);
+
+const invalidImage = () => Object.assign(new Error('Invalid or unsupported image.'), {
+  code: 'INVALID_IMAGE',
+  statusCode: 400,
+});
+
+// Reject vector/document parsers before decoding. Client MIME and extensions
+// are only hints; all accepted bytes must be decoded and freshly encoded.
+const hasRasterSignature = (buffer) => (
+  buffer.subarray(0, 3).equals(Buffer.from([0xff, 0xd8, 0xff]))
+  || buffer.subarray(0, 8).equals(Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]))
+  || ['GIF87a', 'GIF89a'].includes(buffer.subarray(0, 6).toString('ascii'))
+  || (buffer.subarray(0, 4).toString('ascii') === 'RIFF'
+    && buffer.subarray(8, 12).toString('ascii') === 'WEBP')
+);
 
 // Subdirectories allowed for storage
 const ALLOWED_SUBDIRS = ['tractors', 'implements', 'users', 'general'];
@@ -177,21 +189,30 @@ export const uploadImage = async (file, subdir = 'general') => {
     throw new Error(`Invalid storage subdirectory: ${subdir}. Allowed: ${ALLOWED_SUBDIRS.join(', ')}`);
   }
 
-  const safeBase = sanitizeName(file.originalname);
-  let ext = path.extname(file.originalname || '').toLowerCase();
-  if (!ext && file.mimetype && MIME_EXT_MAP[file.mimetype]) {
-    ext = MIME_EXT_MAP[file.mimetype];
-  } else if (!ext) {
-    ext = '.jpg';
+  if (!Buffer.isBuffer(file.buffer) || file.buffer.length === 0
+    || file.buffer.length > MAX_IMAGE_BYTES || !hasRasterSignature(file.buffer)) {
+    throw invalidImage();
   }
 
-  const filename = `${Date.now()}-${safeBase}${ext}`;
+  let encodedImage;
+  try {
+    const image = sharp(file.buffer, { failOn: 'error', limitInputPixels: MAX_IMAGE_PIXELS });
+    const metadata = await image.metadata();
+    if (!RASTER_FORMATS.has(metadata.format)) throw invalidImage();
+    // First frame only; strip metadata/trailing payloads and never copy raw input.
+    encodedImage = await image.rotate().webp({ quality: 85 }).toBuffer();
+  } catch {
+    throw invalidImage();
+  }
+
+  const safeBase = sanitizeName(file.originalname);
+  const filename = `${randomUUID()}-${safeBase}.webp`;
   const targetDir = path.resolve(UPLOADS_ROOT, subdir);
   const targetPath = path.join(targetDir, filename);
   const relativePath = `${subdir}/${filename}`;
 
   await fs.mkdir(targetDir, { recursive: true });
-  await fs.writeFile(targetPath, file.buffer);
+  await fs.writeFile(targetPath, encodedImage, { flag: 'wx' });
 
   const publicUrl = `${PUBLIC_URL_PREFIX}/${relativePath}`;
   logger.info('File saved to local storage', { url: publicUrl, subdir });

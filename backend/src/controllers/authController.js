@@ -23,11 +23,14 @@ import {
 } from "../utils/validators.util.js";
 import logger from "../utils/logger.js";
 import { buildAuthPayload } from "../utils/role.util.js";
-import { generatePasswordResetToken, verifyPasswordResetToken } from "../utils/jwt.util.js";
+import { verifyPasswordResetToken } from "../utils/jwt.util.js";
 
 // Constantes
 const SALT_ROUNDS = 10;
 const DEFAULT_ROLE_ID = 2; // Usuario común
+
+const getRequestField = (body, camelCaseKey, snakeCaseKey) =>
+  body?.[camelCaseKey] ?? body?.[snakeCaseKey];
 
 /**
  * Registra un nuevo usuario en el sistema
@@ -332,7 +335,12 @@ export const updateProfile = asyncHandler(async (req, res) => {
  */
 export const changePassword = asyncHandler(async (req, res) => {
   const { user_id } = req.user;
-  const { currentPassword, newPassword } = req.body;
+  const currentPassword = getRequestField(
+    req.body,
+    "currentPassword",
+    "current_password",
+  );
+  const newPassword = getRequestField(req.body, "newPassword", "new_password");
 
   // Validar datos de entrada
   if (!currentPassword || !newPassword) {
@@ -388,6 +396,14 @@ export const changePassword = asyncHandler(async (req, res) => {
 export const deleteUser = asyncHandler(async (req, res) => {
   const { id } = req.params;
 
+  if (req.user && Number(req.user.user_id) === Number(id)) {
+    return validationErrorResponse(
+      res,
+      ["No puedes eliminar tu propia cuenta de administrador"],
+      "Acción no permitida",
+    );
+  }
+
   // Verificar si el usuario tiene terrenos
   const terrains = await pool.query(
     "SELECT terrain_id FROM terrain WHERE user_id = $1",
@@ -414,9 +430,8 @@ export const deleteUser = asyncHandler(async (req, res) => {
 /**
  * Solicitar restablecimiento de contraseña
  * POST /api/auth/forgot-password
- * Genera un token JWT de un solo uso (1h expiración) y lo retorna.
- * En producción se enviaría por email, pero para este caso de uso
- * (app agrícola, pocos usuarios) retornamos el token directamente.
+ * Recovery is unavailable until a verified out-of-band delivery channel exists.
+ * Never issue a reset credential to an anonymous caller.
  */
 export const forgotPassword = asyncHandler(async (req, res) => {
   const { email } = req.body;
@@ -439,30 +454,11 @@ export const forgotPassword = asyncHandler(async (req, res) => {
     );
   }
 
-  // Buscar usuario SIEMPRE (no revelar si existe o no para seguridad)
-  const user = await User.findByEmail(email.toLowerCase());
-
-  // Generar reset token (siempre, para no filtrar si el email existe)
-  const resetToken = user
-    ? generatePasswordResetToken({
-        user_id: user.user_id,
-        email: user.email,
-      })
-    : null;
-
-  // Log seguro
-  logger.info("Solicitud de restablecimiento de contraseña", {
-    email: email.toLowerCase(),
-    exists: !!user,
-  });
-
-  // Siempre responder éxito para no filtrar información
-  return res.status(200).json({
-    success: true,
-    message: "Si el email está registrado, recibirás instrucciones para restablecer tu contraseña",
-    // Incluir token para uso directo (sin email en este entorno)
-    // En producción se enviaría por email y NO se incluiría en la respuesta
-    ...(resetToken && { resetToken }),
+  // Identical response without a user lookup prevents account enumeration.
+  return res.status(503).json({
+    success: false,
+    code: "PASSWORD_RECOVERY_UNAVAILABLE",
+    message: "La recuperación por correo no está disponible en esta instalación. Contacta al administrador para obtener asistencia.",
   });
 });
 
@@ -472,7 +468,8 @@ export const forgotPassword = asyncHandler(async (req, res) => {
  * Verifica el token JWT y actualiza la contraseña del usuario
  */
 export const resetPassword = asyncHandler(async (req, res) => {
-  const { token, newPassword } = req.body;
+  const { token } = req.body;
+  const newPassword = getRequestField(req.body, "newPassword", "new_password");
 
   // Validar datos de entrada
   if (!token) {

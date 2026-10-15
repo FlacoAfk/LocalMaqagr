@@ -45,12 +45,15 @@ Name: "english"; MessagesFile: "compiler:Default.isl"
 Name: "desktopicon"; Description: "Crear un acceso directo en el escritorio"; GroupDescription: "Additional shortcuts:"
 
 [Dirs]
-; Runtime upload data only: normal users need modify/delete rights.
-Name: "{commonappdata}\MaqAgr\uploads";           Permissions: users-modify
-Name: "{commonappdata}\MaqAgr\uploads\tractors";  Permissions: users-modify
-Name: "{commonappdata}\MaqAgr\uploads\implements"; Permissions: users-modify
-Name: "{commonappdata}\MaqAgr\uploads\users";     Permissions: users-modify
-Name: "{commonappdata}\MaqAgr\uploads\general";   Permissions: users-modify
+; Runtime database, logs and uploads must be writable by standard users.
+; Application binaries remain protected under Program Files.
+Name: "{commonappdata}\MaqAgr\pgdata";            Permissions: users-modify; Flags: uninsneveruninstall
+Name: "{commonappdata}\MaqAgr\logs";              Permissions: users-modify; Flags: uninsneveruninstall
+Name: "{commonappdata}\MaqAgr\uploads";           Permissions: users-modify; Flags: uninsneveruninstall
+Name: "{commonappdata}\MaqAgr\uploads\tractors";  Permissions: users-modify; Flags: uninsneveruninstall
+Name: "{commonappdata}\MaqAgr\uploads\implements"; Permissions: users-modify; Flags: uninsneveruninstall
+Name: "{commonappdata}\MaqAgr\uploads\users";     Permissions: users-modify; Flags: uninsneveruninstall
+Name: "{commonappdata}\MaqAgr\uploads\general";   Permissions: users-modify; Flags: uninsneveruninstall
 
 [Files]
 ; --- Launcher scripts ---
@@ -68,14 +71,14 @@ Source: "runtime\pgsql\*";            DestDir: "{app}\runtime\pgsql"; Flags: rec
 
 ; --- Backend (source + node_modules + database SQL) ---
 ; Excludes: .git (VCS), .env (dev config — launcher sets env at runtime), uploads (dev artifacts)
-Source: "backend\*";                   DestDir: "{app}\app\backend"; Excludes: ".git\*,.env,uploads\*"; Flags: recursesubdirs ignoreversion
+Source: "backend\*";                   DestDir: "{app}\app\backend"; Excludes: ".git\*,.env,.env.*,.env.*\*,uploads\*,coverage\*,tests\*,src\__tests__\*"; Flags: recursesubdirs ignoreversion
 
 ; --- Frontend production build (dist only) ---
 Source: "frontend\dist\*";            DestDir: "{app}\app\frontend-dist"; Flags: recursesubdirs ignoreversion
 
 ; --- Local seed images (installed to ProgramData so the app can serve them) ---
-Source: "install-assets\uploads\tractors\*";   DestDir: "{commonappdata}\MaqAgr\uploads\tractors";   Flags: ignoreversion
-Source: "install-assets\uploads\implements\*"; DestDir: "{commonappdata}\MaqAgr\uploads\implements"; Flags: ignoreversion
+Source: "install-assets\uploads\tractors\*";   DestDir: "{commonappdata}\MaqAgr\uploads\tractors";   Flags: onlyifdoesntexist uninsneveruninstall
+Source: "install-assets\uploads\implements\*"; DestDir: "{commonappdata}\MaqAgr\uploads\implements"; Flags: onlyifdoesntexist uninsneveruninstall
 
 [Icons]
 Name: "{group}\{#MyAppName}";         Filename: "{app}\scripts\{#MyAppExeName}"; IconFilename: "{app}\MaqAgr.ico"; WorkingDir: "{app}\scripts"
@@ -84,6 +87,5 @@ Name: "{commondesktop}\{#MyAppName}"; Filename: "{app}\scripts\{#MyAppExeName}";
 [Run]
 Filename: "{app}\scripts\{#MyAppExeName}"; Description: "Iniciar MaqAgr ahora"; Flags: nowait postinstall skipifsilent
 
-[UninstallDelete]
-; Clean up writable data in ProgramData on uninstall
-Type: filesandordirs; Name: "{commonappdata}\MaqAgr"
+; Uninstall removes application binaries only. ProgramData databases/uploads
+; and per-user signing keys deliberately survive uninstall and reinstallation.

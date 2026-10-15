@@ -15,7 +15,8 @@ const ALLOWED_MIME_TYPES = [
 // Maximum file size: 5MB
 const MAX_FILE_SIZE = 5 * 1024 * 1024;
 
-// File filter - only allow images
+// Preliminary MIME filter only. Storage validates the actual raster bytes and
+// re-encodes them; the client-provided MIME type is not a security boundary.
 const fileFilter = (req, file, cb) => {
   if (ALLOWED_MIME_TYPES.includes(file.mimetype)) {
     cb(null, true);

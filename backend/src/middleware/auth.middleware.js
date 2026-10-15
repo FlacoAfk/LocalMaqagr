@@ -5,6 +5,7 @@
 
 import { verifyToken } from '../utils/jwt.util.js';
 import { ROLE_NAME_TO_ID } from '../utils/role.util.js';
+import { pool } from '../config/db.js';
 
 const normalizeRoleToId = (role) => {
     if (typeof role === 'number') return role;
@@ -29,44 +30,61 @@ const normalizeRoleLabel = (role) => {
  * Extrae token del header: Authorization: Bearer <token>
  * Agrega datos del usuario a req.user
  */
-export const verifyTokenMiddleware = (req, res, next) => {
-    try {
-        // Obtiene el header de autorización
-        const authHeader = req.headers['authorization'];
+export const verifyTokenMiddleware = async (req, res, next) => {
+    const unauthorized = () => res.status(401).json({
+        success: false,
+        code: 'UNAUTHORIZED',
+        message: 'Token inválido o expirado'
+    });
 
-        if (!authHeader) {
-            return res.status(401).json({
-                success: false,
-                code: 'UNAUTHORIZED',
-                message: 'Token no proporcionado'
-            });
-        }
+    const authHeader = req.headers['authorization'];
 
-        // Extrae el token (formato: Bearer <token>)
-        const token = authHeader.split(' ')[1];
-
-        if (!token) {
-            return res.status(401).json({
-                success: false,
-                code: 'UNAUTHORIZED',
-                message: 'Formato de token inválido'
-            });
-        }
-
-        // Verifica y decodifica el token
-        const decoded = verifyToken(token);
-
-        // Agrega datos del usuario a la request
-        req.user = decoded;
-
-        next();
-    } catch (error) {
-        // Token inválido o expirado
+    if (!authHeader) {
         return res.status(401).json({
             success: false,
             code: 'UNAUTHORIZED',
-            message: 'Token inválido o expirado'
+            message: 'Token no proporcionado'
         });
+    }
+
+    const token = typeof authHeader === 'string'
+        ? /^Bearer ([^\s]+)$/i.exec(authHeader)?.[1]
+        : undefined;
+
+    if (!token) {
+        return res.status(401).json({
+            success: false,
+            code: 'UNAUTHORIZED',
+            message: 'Formato de token inválido'
+        });
+    }
+
+    let decoded;
+    try {
+        decoded = verifyToken(token);
+    } catch (error) {
+        return unauthorized();
+    }
+
+    try {
+        const result = await pool.query(
+            'SELECT role_id, status FROM users WHERE user_id = $1',
+            [decoded.user_id],
+        );
+        const currentUser = result.rows[0];
+
+        if (
+            !currentUser ||
+            currentUser.status !== 'active' ||
+            Number(currentUser.role_id) !== Number(decoded.role_id)
+        ) {
+            return unauthorized();
+        }
+
+        req.user = decoded;
+        return next();
+    } catch (error) {
+        return next(error);
     }
 };
 

@@ -73,12 +73,21 @@ export const getTractorById = asyncHandler(async (req, res) => {
 });
 
 export const searchTractors = asyncHandler(async (req, res) => {
-  const { q, brand, minPower, maxPower, type } = req.query;
+  const { q, brand, minPower, maxPower, maxWeight, type } = req.query;
   const { limit, page, sort, order } = req.pagination;
   const offset = (page - 1) * limit;
 
   const minPowerNum = minPower ? parseFloat(minPower) : null;
   const maxPowerNum = maxPower ? parseFloat(maxPower) : null;
+  const maxWeightNum = maxWeight !== undefined && maxWeight !== '' ? Number(maxWeight) : null;
+
+  if (maxWeightNum !== null && (!Number.isFinite(maxWeightNum) || maxWeightNum < 0)) {
+    return res.status(400).json({
+      success: false,
+      code: 'VALIDATION_ERROR',
+      message: 'maxWeight debe ser un número no negativo',
+    });
+  }
 
   // Validate numeric filters
   if (minPower && (Number.isNaN(minPowerNum) || minPowerNum < 0)) {
@@ -114,6 +123,7 @@ export const searchTractors = asyncHandler(async (req, res) => {
     brand: brand || null,
     minPower: minPowerNum,
     maxPower: maxPowerNum,
+    maxWeight: maxWeightNum,
     type: type || null,
     limit,
     offset,
@@ -138,6 +148,7 @@ export const searchTractors = asyncHandler(async (req, res) => {
       brand: brand || null,
       minPower: minPowerNum,
       maxPower: maxPowerNum,
+      maxWeight: maxWeightNum,
       type: type || null,
     },
   });
@@ -193,6 +204,7 @@ export const createTractor = asyncHandler(async (req, res) => {
     weight_kg,
     traction_force_kn,
     traction_type,
+    has_turbo,
     tire_type,
     tire_width_mm,
     tire_diameter_mm,
@@ -255,6 +267,7 @@ export const createTractor = asyncHandler(async (req, res) => {
         ? Number(traction_force_kn)
         : undefined,
     traction_type,
+    has_turbo,
     tire_type,
     tire_width_mm:
       tire_width_mm !== undefined && tire_width_mm !== null
@@ -267,6 +280,14 @@ export const createTractor = asyncHandler(async (req, res) => {
     tire_pressure_psi:
       tire_pressure_psi !== undefined && tire_pressure_psi !== null
         ? Number(tire_pressure_psi)
+        : undefined,
+    fuel_consumption_lph:
+      fuel_consumption_lph !== undefined && fuel_consumption_lph !== null
+        ? Number(fuel_consumption_lph)
+        : undefined,
+    maintenance_cost_per_hour:
+      maintenance_cost_per_hour !== undefined && maintenance_cost_per_hour !== null
+        ? Number(maintenance_cost_per_hour)
         : undefined,
     status,
   };
@@ -314,6 +335,7 @@ export const updateTractor = asyncHandler(async (req, res) => {
     weight_kg,
     traction_force_kn,
     traction_type,
+    has_turbo,
     tire_type,
     tire_width_mm,
     tire_diameter_mm,
@@ -379,6 +401,7 @@ export const updateTractor = asyncHandler(async (req, res) => {
         ? Number(traction_force_kn)
         : undefined,
     traction_type,
+    has_turbo,
     tire_type,
     tire_width_mm:
       tire_width_mm !== undefined && tire_width_mm !== null
@@ -461,16 +484,7 @@ export const deleteTractor = asyncHandler(async (req, res) => {
     });
   }
 
-  // Eliminar imagen del almacenamiento local si existe
-  if (existing.image_url) {
-    const imagePath = extractGCSPath(existing.image_url);
-    if (imagePath) {
-      deleteFromGCS(existing.image_url).catch(err =>
-        logger.warn('Failed to delete tractor image from local storage', { error: err.message })
-      );
-    }
-  }
-
+  // Keep the image because this operation archives the row by marking it inactive.
   const updated = await Tractor.update(id, { status: "inactive" });
 
   return res.json({

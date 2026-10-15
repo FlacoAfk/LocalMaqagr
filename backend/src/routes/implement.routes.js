@@ -398,6 +398,7 @@ router.post(
   isAdmin,
   uploadMiddleware,
   validateImplement,
+  invalidateCacheMiddleware(["*implements*", "*recommendations*"]),
   createImplement,
 );
 
@@ -482,6 +483,7 @@ router.put(
   isAdmin,
   uploadMiddleware,
   validateImplement,
+  invalidateCacheMiddleware(["*implements*", "*recommendations*"]),
   updateImplement,
 );
 
@@ -549,6 +551,12 @@ router.put(
  *             schema:
  *               $ref: '#/components/schemas/ErrorResponse'
  */
-router.delete("/:id", verifyTokenMiddleware, isAdmin, deleteImplement);
+router.delete(
+  "/:id",
+  verifyTokenMiddleware,
+  isAdmin,
+  invalidateCacheMiddleware(["*implements*", "*recommendations*"]),
+  deleteImplement,
+);
 
 export default router;

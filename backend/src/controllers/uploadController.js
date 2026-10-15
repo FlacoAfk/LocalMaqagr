@@ -50,12 +50,19 @@ export const uploadImage = asyncHandler(async (req, res) => {
         url: publicUrl,
         folder,
         filename: publicUrl.replace('/uploads/', ''),
-        mimetype: req.file.mimetype,
+        mimetype: 'image/webp',
         size: req.file.size,
       },
     });
   } catch (error) {
     logger.error('Error uploading image to storage', { error: error.message });
+    if (error.code === 'INVALID_IMAGE') {
+      return res.status(400).json({
+        success: false,
+        code: 'INVALID_IMAGE',
+        message: 'El archivo no es una imagen raster válida o supera los límites permitidos.',
+      });
+    }
     return res.status(500).json({
       success: false,
       code: 'UPLOAD_ERROR',

@@ -107,7 +107,8 @@ describe('E2E: Flujo de cálculos con validación progresiva', () => {
   });
 
   test('debe rechazar cálculo con terrain_id faltante', async () => {
-    const { token } = await TestDataFactory.createAuthenticatedUser();
+    const { user, token } = await TestDataFactory.createAuthenticatedUser();
+    testData.userIds = [user.user_id];
 
     const payload = {
       implement_id: 1,
@@ -190,64 +191,36 @@ describe('E2E: Flujo de cálculos con validación progresiva', () => {
   });
 
   test('debe calcular potencia requerida de implemento con payload válido', async () => {
-    const { user, token } = await TestDataFactory.createAuthenticatedUser();
-    testData.userIds = [user.user_id];
+    const response = await request(app)
+      .post('/api/calculations/direct-implement-power')
+      .send({
+        implement_type: 'arado_disco_vertedera',
+        working_width_m: 2.5,
+        working_depth_cm: 25,
+        working_speed_kmh: 5,
+        soil_type: 'arcilla'
+      });
 
-    const implement = await TestDataFactory.createImplement({
-      type: 'plow',
-      required_power_hp: 70
-    });
-    testData.implementIds = [implement.implement_id];
-
-    const terrain = await TestDataFactory.createTerrain(user.user_id, {
-      soil_texture: 'loam',
-      ci: 2.0
-    });
-    testData.terrainIds = [terrain.terrain_id];
-
-    const payload = {
-      implement_id: implement.implement_id,
-      terrain_id: terrain.terrain_id,
-      working_depth_m: 0.4
-    };
-
-    const response = await authenticatedRequest(app, token)
-      .post('/api/calculations/implement-power')
-      .send(payload);
-
-    // Si la ruta existe
-    if (response.status !== 404) {
-      expect(response.status).toBe(200);
-      expectJSendFormat(response, true);
-      
-      const data = response.body.data;
-      expect(data).toHaveProperty('required_power_hp');
-      expect(data.required_power_hp).toBeGreaterThan(0);
-    }
+    expect(response.status).toBe(200);
+    expectJSendFormat(response, true);
+    expect(response.body.data).toHaveProperty('power_required_hp');
+    expect(response.body.data.power_required_hp).toBeGreaterThan(0);
   });
 
-  test('debe rechazar potencia de implemento con working_depth_m > 1.0m', async () => {
-    const { user, token } = await TestDataFactory.createAuthenticatedUser();
-    testData.userIds = [user.user_id];
+  test('debe rechazar profundidad del implemento superior a 1.0m', async () => {
+    const response = await request(app)
+      .post('/api/calculations/direct-implement-power')
+      .send({
+        implement_type: 'arado_disco_vertedera',
+        working_width_m: 2.5,
+        working_depth_cm: 101,
+        working_speed_kmh: 5,
+        soil_type: 'arcilla'
+      });
 
-    const terrain = await TestDataFactory.createTerrain(user.user_id);
-    testData.terrainIds = [terrain.terrain_id];
-
-    const payload = {
-      implement_id: 1,
-      terrain_id: terrain.terrain_id,
-      working_depth_m: 1.5 // INVÁLIDO (> 1.0)
-    };
-
-    const response = await authenticatedRequest(app, token)
-      .post('/api/calculations/implement-power')
-      .send(payload);
-
-    if (response.status !== 404) {
-      expect(response.status).toBe(400);
-      expect(response.body.success).toBe(false);
-      expect(response.body.error).toMatch(/working_depth_m.*1\.0/i);
-    }
+    expect(response.status).toBe(400);
+    expect(response.body.success).toBe(false);
+    expect(response.body.errors).toContain('working_depth_cm debe estar entre 0 y 100 cm');
   });
 
   test('debe validar conversión de tipos numéricos en payload', async () => {
@@ -333,7 +306,8 @@ describe('E2E: Flujo de cálculos con validación progresiva', () => {
   });
 
   test('debe validar formato JSend en todas las respuestas de error', async () => {
-    const { token } = await TestDataFactory.createAuthenticatedUser();
+    const { user, token } = await TestDataFactory.createAuthenticatedUser();
+    testData.userIds = [user.user_id];
 
     const payload = {
       implement_id: -1, // INVÁLIDO

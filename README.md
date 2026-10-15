@@ -3,7 +3,7 @@
 Aplicación de gestión agrícola que corre **completamente en local** sin
 dependencias de nube (sin Cloudinary, sin Supabase, sin Redis externo).
 
-## Catálogo v1.4.0 (base sólida)
+## Catálogo v1.4.1
 
 | Conjunto | Registros | Calidad |
 |---|---:|---|
@@ -134,8 +134,10 @@ en `http://localhost:4000` en ~5 segundos.
 ## Desinstalación
 
 Desde "Agregar o quitar programas" → MaqAgr → Desinstalar.
-Esto elimina los archivos de `C:\Program Files\MaqAgr` y
-`C:\ProgramData\MaqAgr` (incluyendo la base de datos y las imágenes).
+Esto elimina los archivos de `C:\Program Files\MaqAgr`. La base de datos,
+las imágenes y los registros de `C:\ProgramData\MaqAgr` se conservan para
+evitar pérdida de información; eliminá esa carpeta manualmente solo después
+de respaldar o cuando ya no necesites esos datos.
 
 ## Desarrollo
 
@@ -182,71 +184,59 @@ MaqAgr-Local/
 
 El `.exe` resultante estará en `build\MaqAgr-Setup.exe`.
 
-- **Node.js** >= 18 (auto-installed via winget if missing)
-- **PostgreSQL** (running on localhost:5432, auto-installed via winget if missing)
-- **pnpm** (installed via corepack automatically)
+- **Node.js** >= 22
+- **pnpm** 11.1.0 (via Corepack)
+- **PostgreSQL** instalado y ejecutándose en `127.0.0.1:5432` para desarrollo local
 
 ## Quick Start
 
 ### Windows (PowerShell)
 
 ```powershell
-cd app\LocalMaqagr
 .\setup.ps1
 .\launch.ps1
 ```
 
-The installer will:
-1. Check and install Node.js and PostgreSQL if missing
-2. Create the `maqagr_local` database and run migrations
-3. Set up environment files from templates
-4. Install all dependencies (backend, frontend, root)
-5. Create upload directories
+The development setup script checks Node.js, pnpm and PostgreSQL client tools,
+copies local environment templates, installs dependencies from frozen lockfiles
+and creates upload directories. It does **not** install or provision PostgreSQL
+or modify a database. Configure `backend/.env` with local PostgreSQL credentials
+and prepare the database using the safe instructions below.
 
 ### Linux / macOS
 
 ```bash
-cd app/LocalMaqagr
 chmod +x setup.sh
 ./setup.sh
 ```
 
-## Manual Setup
+## Manual Database Setup
 
-If you prefer step-by-step control:
+For a **new, empty development database** only:
 
 1. **Create the database**:
    ```sql
    CREATE DATABASE maqagr_local;
    ```
 
-2. **Run the schema**:
+2. **Load the bundled schema and catalog data transactionally**:
    ```bash
-   psql -U postgres -h localhost -d maqagr_local -f backend/database/schema.sql
+   psql -X -v ON_ERROR_STOP=1 --single-transaction -U postgres -h 127.0.0.1 -d maqagr_local -f backend/database/03-supabase-data.sql
+   ```
+   Do not use `backend/database/schema.sql` here: it drops existing tables.
+
+3. **Apply the consolidated baseline and the two later migrations**:
+   ```bash
+   psql -X -v ON_ERROR_STOP=1 -U postgres -h 127.0.0.1 -d maqagr_local -f backend/database/02-schema-migrations.sql
+   psql -X -v ON_ERROR_STOP=1 --single-transaction -U postgres -h 127.0.0.1 -d maqagr_local -f backend/database/migrations/009_add_ficha_pdf.sql -f backend/database/migrations/010_add_prioridad.sql
    ```
 
-3. **Run the schema + migrations** (recommended: the consolidated file already
-   includes migrations 001, 003, 004, 006, 007 and 008):
-   ```bash
-   psql -U postgres -h localhost -d maqagr_local -f backend/database/02-schema-migrations.sql
-   ```
+For an existing database, back it up first. Do not load the seed dump over it;
+apply only reviewed schema migrations.
 
-   Or step by step after `schema.sql` (005 is seed-only, see the note inside
-   `02-schema-migrations.sql`; 007 adds `n_tines`/`soil_condition`/`has_turbo`
-   + the widened `query_type` CHECK; 008 adds `terrain.superficie_rodadura`):
+4. **Install dependencies** (the root postinstall uses frozen backend/frontend lockfiles):
    ```bash
-   psql -U postgres -h localhost -d maqagr_local -f backend/database/migrations/004_add_image_url_columns.sql
-   psql -U postgres -h localhost -d maqagr_local -f backend/database/migrations/005_seed_image_urls.sql
-   psql -U postgres -h localhost -d maqagr_local -f backend/database/migrations/006_add_password_reset_tokens.sql
-   psql -U postgres -h localhost -d maqagr_local -f backend/database/migrations/007_add_implement_power_fields.sql
-   psql -U postgres -h localhost -d maqagr_local -f backend/database/migrations/008_add_rodadura_surface.sql
-   ```
-
-4. **Install dependencies**:
-   ```bash
-   cd backend && pnpm install
-   cd ../frontend && pnpm install
-   cd .. && pnpm install
+   pnpm install --frozen-lockfile
    ```
 
 5. **Create environment files**:
@@ -275,9 +265,8 @@ Press `Ctrl+C` to stop the frontend. Close the backend window to stop it.
 ## Setup Flags
 
 ```powershell
-.\setup.ps1 -SkipInstall    # Skip Node/PG installation
-.\setup.ps1 -SkipDB         # Skip database setup
-.\setup.ps1 -SkipDeps       # Skip pnpm install
+.\setup.ps1 -SkipInstall    # Skip automatic Node.js installation
+.\setup.ps1 -SkipDeps       # Skip dependency installation
 ```
 
 ## Architecture
@@ -329,7 +318,7 @@ DB_HOST=localhost
 DB_PORT=5432
 DB_NAME=maqagr_local
 DB_USER=postgres
-DB_PASS=password
+DB_PASS=your_local_database_password
 REDIS_ENABLED=false
 JWT_SECRET=local-dev-secret
 PORT=4000

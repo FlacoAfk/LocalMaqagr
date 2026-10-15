@@ -630,6 +630,9 @@ describe("implementController", () => {
           type: null,
           minWidth: null,
           maxWidth: null,
+          minPower: null,
+          maxPower: null,
+          maxWeight: null,
           requiredPower: null,
           limit: 10,
           offset: 0,
@@ -721,6 +724,59 @@ describe("implementController", () => {
           message: "requiredPower debe ser un número positivo",
         }),
       );
+    });
+
+    test("aplica rangos de potencia y peso enviados por el frontend", async () => {
+      const req = createMockReq(
+        {},
+        {},
+        { minPower: "40", maxPower: "120", maxWeight: "2500" },
+      );
+      req.pagination = { limit: 12, page: 2, sort: "power_requirement_hp", order: "asc" };
+      const res = createMockRes();
+      const next = createMockNext();
+      mockAdvancedSearch.mockResolvedValue({ data: [mockImplement], total: 1 });
+
+      await callHandler(searchImplements, req, res, next);
+
+      expect(mockAdvancedSearch).toHaveBeenCalledWith(
+        expect.objectContaining({
+          minPower: 40,
+          maxPower: 120,
+          maxWeight: 2500,
+          limit: 12,
+          offset: 12,
+        }),
+        null,
+      );
+      expect(res.json).toHaveBeenCalledWith(
+        expect.objectContaining({
+          filters: expect.objectContaining({
+            minPower: 40,
+            maxPower: 120,
+            maxWeight: 2500,
+          }),
+        }),
+      );
+    });
+
+    test("retorna 400 cuando minPower supera maxPower", async () => {
+      const req = createMockReq({}, {}, { minPower: "120", maxPower: "40" });
+      req.pagination = { limit: 10, page: 1 };
+      const res = createMockRes();
+      const next = createMockNext();
+
+      await callHandler(searchImplements, req, res, next);
+
+      expect(res.status).toHaveBeenCalledWith(400);
+      expect(res.json).toHaveBeenCalledWith(
+        expect.objectContaining({
+          success: false,
+          code: "VALIDATION_ERROR",
+          message: "minPower no puede ser mayor que maxPower",
+        }),
+      );
+      expect(mockAdvancedSearch).not.toHaveBeenCalled();
     });
   });
 

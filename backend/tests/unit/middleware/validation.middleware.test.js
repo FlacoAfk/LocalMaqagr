@@ -36,6 +36,25 @@ describe('validation.middleware', () => {
     expect(res.status).not.toHaveBeenCalled();
   });
 
+  test('validateTractor acepta los cuatro tipos de tracción soportados', () => {
+    for (const traction_type of ['4x2', 'mfwd', '4x4', 'track']) {
+      const res = createMockRes();
+      const next = jest.fn();
+      validateTractor({
+        method: 'POST',
+        body: {
+          brand: 'MaqAgr',
+          model: 'QA-1',
+          engine_power_hp: 75,
+          traction_type,
+        },
+      }, res, next);
+
+      expect(next).toHaveBeenCalled();
+      expect(res.status).not.toHaveBeenCalled();
+    }
+  });
+
   test('validateTractor acepta imagen local segura y rechaza traversal o ruta absoluta', () => {
     const validReq = {
       method: 'PUT',
@@ -137,7 +156,7 @@ describe('validation.middleware', () => {
         'weight_kg debe ser un número positivo',
         'fuel_tank_l debe ser un número positivo',
         'model_year debe ser un año válido entre 1900 y 2100',
-        'traction_type debe ser uno de: 4x2, 4x4, track',
+        'traction_type debe ser uno de: 4x2, mfwd, 4x4, track',
         'status debe ser uno de: available, maintenance, inactive, out_of_service',
       ],
     });

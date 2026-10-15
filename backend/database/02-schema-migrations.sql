@@ -9,8 +9,8 @@
 --
 -- Applied in order:
 --   1. schema.sql  (table DDL + embedded indexes + role catalog)
---   2. indexes.sql (optimization indexes + pg_trgm extension)
---   3. migrations/001_add_user_id_to_terrain.sql
+--   2. migrations/001_add_user_id_to_terrain.sql
+--   3. indexes.sql (optimization indexes + pg_trgm extension)
 --   4. migrations/003_add_tractor_catalog_fields.sql
 --   5. migrations/004_add_image_url_columns.sql
 --   6. migrations/006_add_password_reset_tokens.sql
@@ -96,7 +96,7 @@ CREATE TABLE IF NOT EXISTS tractor (
     price DOUBLE PRECISION,
     weight_kg DOUBLE PRECISION NOT NULL,
     traction_force_kn DOUBLE PRECISION NOT NULL,
-    traction_type VARCHAR(50) NOT NULL CHECK (traction_type IN ('4x2', '4x4', 'track')),
+    traction_type VARCHAR(50) NOT NULL CHECK (traction_type IN ('4x2', 'mfwd', '4x4', 'track')),
     tire_type VARCHAR(100),
     tire_width_mm DOUBLE PRECISION,
     tire_diameter_mm DOUBLE PRECISION,
@@ -223,28 +223,9 @@ INSERT INTO role (role_name, description) VALUES
 ON CONFLICT (role_name) DO NOTHING;
 
 -- ============================================================
--- SECTION 2: indexes.sql — optimization indexes + pg_trgm
--- pg_trgm is a standard PostgreSQL contrib module bundled with
--- portable builds (including EnterpriseDB PG 17 portable).
--- ============================================================
-
-CREATE INDEX IF NOT EXISTS idx_users_email_search ON users(email);
-CREATE INDEX IF NOT EXISTS idx_tractor_power ON tractor(engine_power_hp);
-CREATE INDEX IF NOT EXISTS idx_terrain_user_id ON terrain(user_id);
-CREATE INDEX IF NOT EXISTS idx_query_history_user_id ON query_history(user_id);
-CREATE INDEX IF NOT EXISTS idx_recommendation_tractor_created ON recommendation(tractor_id, recommendation_date);
-
-CREATE EXTENSION IF NOT EXISTS pg_trgm;
-CREATE INDEX IF NOT EXISTS idx_tractor_name_trgm ON tractor USING gin (name gin_trgm_ops);
-CREATE INDEX IF NOT EXISTS idx_tractor_brand_trgm ON tractor USING gin (brand gin_trgm_ops);
-CREATE INDEX IF NOT EXISTS idx_tractor_model_trgm ON tractor USING gin (model gin_trgm_ops);
-CREATE INDEX IF NOT EXISTS idx_implement_name_trgm ON implement USING gin (implement_name gin_trgm_ops);
-CREATE INDEX IF NOT EXISTS idx_implement_brand_trgm ON implement USING gin (brand gin_trgm_ops);
-
--- ============================================================
--- SECTION 3: migration 001_add_user_id_to_terrain.sql
--- (column already present in schema.sql; idempotent guards make
---  this a safe no-op on re-run.)
+-- SECTION 2: migration 001_add_user_id_to_terrain.sql
+-- Existing databases may have terrain without user_id; apply the column
+-- before any index that references it.
 -- ============================================================
 
 ALTER TABLE terrain
@@ -265,8 +246,25 @@ BEGIN
     END IF;
 END $$;
 
-CREATE INDEX IF NOT EXISTS idx_terrain_user_id
-ON terrain(user_id);
+CREATE INDEX IF NOT EXISTS idx_terrain_user_id ON terrain(user_id);
+
+-- ============================================================
+-- SECTION 3: indexes.sql — optimization indexes + pg_trgm
+-- pg_trgm is a standard PostgreSQL contrib module bundled with
+-- portable builds (including EnterpriseDB PG 17 portable).
+-- ============================================================
+
+CREATE INDEX IF NOT EXISTS idx_users_email_search ON users(email);
+CREATE INDEX IF NOT EXISTS idx_tractor_power ON tractor(engine_power_hp);
+CREATE INDEX IF NOT EXISTS idx_query_history_user_id ON query_history(user_id);
+CREATE INDEX IF NOT EXISTS idx_recommendation_tractor_created ON recommendation(tractor_id, recommendation_date);
+
+CREATE EXTENSION IF NOT EXISTS pg_trgm;
+CREATE INDEX IF NOT EXISTS idx_tractor_name_trgm ON tractor USING gin (name gin_trgm_ops);
+CREATE INDEX IF NOT EXISTS idx_tractor_brand_trgm ON tractor USING gin (brand gin_trgm_ops);
+CREATE INDEX IF NOT EXISTS idx_tractor_model_trgm ON tractor USING gin (model gin_trgm_ops);
+CREATE INDEX IF NOT EXISTS idx_implement_name_trgm ON implement USING gin (implement_name gin_trgm_ops);
+CREATE INDEX IF NOT EXISTS idx_implement_brand_trgm ON implement USING gin (brand gin_trgm_ops);
 
 -- ============================================================
 -- SECTION 4: migration 003_add_tractor_catalog_fields.sql

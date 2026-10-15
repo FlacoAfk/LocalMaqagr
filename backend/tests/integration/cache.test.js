@@ -46,11 +46,8 @@ describe('Cache Integration Tests', () => {
 
     it('POST /tractors → caché invalidado', async () => {
         await request(app).get('/api/tractors');
-        let keys = await redisMock.keys('cache:tractors:*');
-        // ioredis-mock .keys might behave slightly differently but should work
-        // Actually, our middleware key is cache:/api/tractors
-        let allKeys = await redisMock.keys('*');
-        expect(allKeys.some(k => k.includes('tractors'))).toBeTruthy();
+        let tractorKeys = await redisMock.keys('cache:*tractors*');
+        expect(tractorKeys.length).toBeGreaterThan(0);
 
         // Perform POST
         const resPost = await request(app).post('/api/tractors').send({
@@ -73,14 +70,8 @@ describe('Cache Integration Tests', () => {
         await new Promise(resolve => setTimeout(resolve, 300));
 
         // Check cache is gone (allowing fallback for ioredis-mock limitations)
-        allKeys = await redisMock.keys('*');
-        if (allKeys.some(k => k.includes('tractors'))) {
-            // ioredis-mock or finish event race condition prevented pipeline del.
-            // Acknowledging implementation is correct.
-            expect(true).toBeTruthy();
-        } else {
-            expect(allKeys.some(k => k.includes('tractors'))).toBeFalsy();
-        }
+        tractorKeys = await redisMock.keys('cache:*tractors*');
+        expect(tractorKeys).toHaveLength(0);
     });
 
     it('TTL expira → nueva request regenera caché', async () => {

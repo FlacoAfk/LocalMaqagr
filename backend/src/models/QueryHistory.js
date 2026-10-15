@@ -1,5 +1,13 @@
 import { pool } from '../config/db.js';
 
+const normalizeDays = (days) => {
+  const value = Number(days);
+  if (!Number.isSafeInteger(value) || value < 1) {
+    throw new TypeError('days must be a positive integer');
+  }
+  return value;
+};
+
 class QueryHistory {
   // Create history record
   static async create(historyData) {
@@ -88,6 +96,7 @@ class QueryHistory {
 
   // Get recent history (last 7 days)
   static async getRecent(days = 7, limit = 50) {
+    const daysToLookBack = normalizeDays(days);
     const query = `
       SELECT qh.*,
              u.name as user_name,
@@ -95,22 +104,23 @@ class QueryHistory {
       FROM query_history qh
       LEFT JOIN users u ON qh.user_id = u.user_id
       LEFT JOIN query q ON qh.query_id = q.query_id
-      WHERE qh.action_date >= CURRENT_DATE - INTERVAL '${days} days'
+      WHERE qh.action_date >= CURRENT_DATE - ($1::integer * INTERVAL '1 day')
       ORDER BY qh.action_date DESC
-      LIMIT $1
+      LIMIT $2
     `;
-    const result = await pool.query(query, [limit]);
+    const result = await pool.query(query, [daysToLookBack, limit]);
     return result.rows;
   }
 
   // Delete old history (older than specified days)
   static async deleteOldRecords(days = 90) {
+    const daysToKeep = normalizeDays(days);
     const query = `
       DELETE FROM query_history 
-      WHERE action_date < CURRENT_DATE - INTERVAL '${days} days'
+      WHERE action_date < CURRENT_DATE - ($1::integer * INTERVAL '1 day')
       RETURNING *
     `;
-    const result = await pool.query(query);
+    const result = await pool.query(query, [daysToKeep]);
     return result.rows;
   }
 

@@ -1,4 +1,5 @@
 import { apiClient } from '../lib/apiClient';
+import { requireSessionToken } from '../lib/sessionToken';
 
 const REMOTE_CALCULATION_API_ENABLED = import.meta.env.VITE_ENABLE_REMOTE_CALCULATION_API === 'true';
 
@@ -294,10 +295,10 @@ const mockMinimumPower = async () => {
 };
 
 export const calculatePowerLoss = async (payload) => {
-  const token = localStorage.getItem('token') || sessionStorage.getItem('token');
-  if (!REMOTE_CALCULATION_API_ENABLED || !token) {
+  if (!REMOTE_CALCULATION_API_ENABLED) {
     return mockPowerLoss();
   }
+  requireSessionToken();
 
   // payload expected in camelCase: tractorId, terrainId, workingSpeedKmh, carriedObjectsWeightKg, slippagePercent
   return apiClient('/api/calculations/power-loss', {
@@ -379,10 +380,10 @@ const mockDirectMinimumPower = async (payload) => {
 };
 
 export const calculateMinimumPower = async (payload) => {
-  const token = localStorage.getItem('token') || sessionStorage.getItem('token');
-  if (!REMOTE_CALCULATION_API_ENABLED || !token) {
+  if (!REMOTE_CALCULATION_API_ENABLED) {
     return mockMinimumPower();
   }
+  requireSessionToken();
 
   // payload expected in camelCase: implementId, terrainId, workingDepthM
   return apiClient('/api/calculations/minimum-power', {

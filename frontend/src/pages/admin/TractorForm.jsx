@@ -133,8 +133,9 @@ const ORDER_BY_FIELD = {
  * `value` coincide con los valores del backend (traction_type).
  */
 const FILTROS_TRACCION = [
-  { label: '4x4', value: '4x4' },
-  { label: '4x2', value: '4x2' },
+  { label: 'Tracción trasera (4x2)', value: '4x2' },
+  { label: 'Tracción delantera auxiliar (MFWD)', value: 'mfwd' },
+  { label: 'Tracción 4x4', value: '4x4' },
   { label: 'Orugas', value: 'track' },
 ];
 
@@ -152,8 +153,9 @@ const FILTROS_ESTADO = [
  * Mapeo de valores de tracción del backend a etiquetas legibles.
  */
 const TRACCION_LABELS = {
-  '4x4': '4x4',
-  '4x2': '4x2',
+  '4x4': 'Tracción 4x4',
+  '4x2': 'Tracción trasera (4x2)',
+  mfwd: 'Tracción delantera auxiliar (MFWD)',
   track: 'Orugas',
 };
 
@@ -994,8 +996,9 @@ const TractorCRUD = () => {
                     </SelectTrigger>
                     <SelectContent>
                       <SelectGroup>
-                        <SelectItem value="4x2">4x2 — Tracción simple</SelectItem>
-                        <SelectItem value="4x4">4x4 — Doble tracción</SelectItem>
+                        <SelectItem value="4x2">4x2 — Tracción trasera</SelectItem>
+                        <SelectItem value="mfwd">MFWD — Tracción delantera auxiliar</SelectItem>
+                        <SelectItem value="4x4">4x4 — Tracción total</SelectItem>
                         <SelectItem value="track">Orugas</SelectItem>
                       </SelectGroup>
                     </SelectContent>

@@ -29,7 +29,7 @@
 ## Instalación y Ejecución
 
 ### Requisitos
-- **Node.js** v24.13.0+
+- **Node.js** v22+
 - **PostgreSQL** v12+
 - **pnpm** (required)
 
@@ -63,8 +63,8 @@ psql -d MaqAgr -f database/indexes.sql
 ### Ejecución
 
 ```bash
-pnpm run dev  # Desarrollo
-pnpm start    # Producción
+pnpm start              # Desarrollo con nodemon
+node src/app.js         # Ejecución directa/producción
 ```
 
 Servidor en: `http://localhost:4000
@@ -530,12 +530,13 @@ const myRoute = asyncHandler(async (req, res) => {
 
 ## 🧪 Testing
 
-El proyecto cuenta con una suite completa de tests unitarios y end-to-end (E2E).
+Las suites están separadas. El comando `pnpm test` ejecuta la suite predeterminada;
+no incluye E2E ni integración con PostgreSQL.
 
 ### Quick Start
 
 ```bash
-# Ejecutar todos los tests
+# Suite predeterminada
 pnpm test
 
 # Tests con cobertura
@@ -544,22 +545,27 @@ pnpm run test:coverage
 # Tests en modo watch (desarrollo)
 pnpm run test:watch
 
-# Tests E2E solamente
+# Tests E2E
 pnpm run test:e2e
 
 # Tests unitarios solamente
 pnpm run test:unit
+
+# Integración (solo usa la BD local maqagr_test; elimina esa BD al terminar)
+NODE_ENV=test pnpm run test:integration
 ```
 
 ### Cobertura
 
-- [x] **Tests Unitarios**: Middleware, utilidades, validaciones
-- [x] **Tests E2E**: Flujos completos de autenticación, cálculos y recomendaciones
-- [x] **Helpers**: Factory de datos, cliente API, limpieza de DB
-- [x] **Threshold global Jest**: `statements`, `branches`, `functions` y `lines` en `80%`
-- [x] **Coverage core**: Medido sobre `src/controllers`, `src/services` y `src/middleware`
-- [x] **HTML report**: Disponible en `coverage/lcov-report/index.html`
-- [=] **Total**: 460+ tests implementados
+- **Tests unitarios**: Middleware, utilidades y validaciones
+- **Tests E2E**: Flujos de autenticación, cálculos y recomendaciones
+- **Integración**: Requiere PostgreSQL local y únicamente permite `maqagr_test`
+- **Threshold Jest configurado**: 80% para statements, branches, functions y lines
+- **Coverage**: `pnpm run test:coverage` genera `coverage/lcov-report/index.html`
+
+La configuración de integración falla cerrada fuera de `NODE_ENV=test`, contra
+hosts no locales o si el nombre de la base difiere de `maqagr_test`. Nunca
+reutilices una base de datos de aplicación para esas pruebas.
 
 ---
 

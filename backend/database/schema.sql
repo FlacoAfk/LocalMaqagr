@@ -78,7 +78,7 @@ CREATE TABLE tractor (
     price DOUBLE PRECISION,
     weight_kg DOUBLE PRECISION NOT NULL,
     traction_force_kn DOUBLE PRECISION NOT NULL,
-    traction_type VARCHAR(50) NOT NULL CHECK (traction_type IN ('4x2', '4x4', 'track')),
+    traction_type VARCHAR(50) NOT NULL CHECK (traction_type IN ('4x2', 'mfwd', '4x4', 'track')),
     has_turbo BOOLEAN NOT NULL DEFAULT FALSE,
     tire_type VARCHAR(100),
     tire_width_mm DOUBLE PRECISION,

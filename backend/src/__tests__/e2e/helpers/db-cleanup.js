@@ -4,12 +4,19 @@
  */
 
 import { pool } from '../../../config/db.js';
+import { assertSafeTestDatabaseTarget } from '../../../config/db.test.js';
+
+const assertSafeCleanupTarget = () => {
+  const { database, host, port } = pool.options;
+  assertSafeTestDatabaseTarget({ databaseName: database, host, port });
+};
 
 /**
  * Limpia todas las tablas en orden correcto (respetando foreign keys)
  * @returns {Promise<void>}
  */
 export const cleanupAllTables = async () => {
+  assertSafeCleanupTarget();
   try {
     // Orden inverso a las dependencias de FK
     await pool.query('DELETE FROM query_history');
@@ -34,6 +41,7 @@ export const cleanupAllTables = async () => {
  */
 export const cleanupUsers = async (userIds = []) => {
   if (userIds.length === 0) return;
+  assertSafeCleanupTarget();
 
   try {
     await pool.query('DELETE FROM users WHERE user_id = ANY($1)', [userIds]);
@@ -50,6 +58,7 @@ export const cleanupUsers = async (userIds = []) => {
  */
 export const cleanupTerrains = async (terrainIds = []) => {
   if (terrainIds.length === 0) return;
+  assertSafeCleanupTarget();
 
   try {
     await pool.query('DELETE FROM terrain WHERE terrain_id = ANY($1)', [terrainIds]);
@@ -66,6 +75,7 @@ export const cleanupTerrains = async (terrainIds = []) => {
  */
 export const cleanupTractors = async (tractorIds = []) => {
   if (tractorIds.length === 0) return;
+  assertSafeCleanupTarget();
 
   try {
     await pool.query('DELETE FROM tractor WHERE tractor_id = ANY($1)', [tractorIds]);
@@ -82,6 +92,7 @@ export const cleanupTractors = async (tractorIds = []) => {
  */
 export const cleanupImplements = async (implementIds = []) => {
   if (implementIds.length === 0) return;
+  assertSafeCleanupTarget();
 
   try {
     await pool.query('DELETE FROM implement WHERE implement_id = ANY($1)', [implementIds]);
@@ -98,6 +109,7 @@ export const cleanupImplements = async (implementIds = []) => {
  */
 export const cleanupCalculations = async (calculationIds = []) => {
   if (calculationIds.length === 0) return;
+  assertSafeCleanupTarget();
 
   try {
     await pool.query('DELETE FROM power_loss_calculations WHERE calculation_id = ANY($1)', [calculationIds]);
@@ -114,6 +126,7 @@ export const cleanupCalculations = async (calculationIds = []) => {
  */
 export const cleanupRecommendations = async (recommendationIds = []) => {
   if (recommendationIds.length === 0) return;
+  assertSafeCleanupTarget();
 
   try {
     await pool.query('DELETE FROM recommendations WHERE recommendation_id = ANY($1)', [recommendationIds]);

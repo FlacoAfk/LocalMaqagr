@@ -24,6 +24,7 @@ const mapStatusToErrorCode = (statusCode) => {
     403: 'FORBIDDEN',
     404: 'NOT_FOUND',
     409: 'CONFLICT',
+    413: 'PAYLOAD_TOO_LARGE',
     500: 'INTERNAL_ERROR',
   };
 
@@ -125,7 +126,7 @@ export const errorHandler = (err, req, res, next) => {
   }
 
   // Errores de PostgreSQL — log incluye query context si está disponible
-  if (err.code) {
+  if (typeof err.code === 'string' && /^[0-9A-Z]{5}$/.test(err.code)) {
     const pgMap = {
       '23505': [409, 'Ya existe un registro con estos datos'],
       '23503': [400, 'Referencia a un registro que no existe'],

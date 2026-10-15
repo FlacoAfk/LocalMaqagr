@@ -84,7 +84,7 @@ describe('uploadController (FIX-004)', () => {
     });
 
     test('sube imagen con éxito usando carpeta por defecto "general"', async () => {
-      mockStorageUpload.mockResolvedValue('/uploads/general/foto.png');
+      mockStorageUpload.mockResolvedValue('/uploads/general/foto.webp');
       const req = { body: {}, file: { mimetype: 'image/png', size: 2048 } };
       const res = createMockRes();
 
@@ -96,10 +96,10 @@ describe('uploadController (FIX-004)', () => {
         expect.objectContaining({
           success: true,
           data: expect.objectContaining({
-            url: '/uploads/general/foto.png',
+            url: '/uploads/general/foto.webp',
             folder: 'general',
-            filename: 'general/foto.png',
-            mimetype: 'image/png',
+            filename: 'general/foto.webp',
+            mimetype: 'image/webp',
             size: 2048,
           }),
         })

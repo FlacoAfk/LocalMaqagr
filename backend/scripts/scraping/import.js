@@ -12,6 +12,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import dotenv from 'dotenv';
 import { pool } from '../../src/config/db.js';
+import { validateTractorImportRecord } from './lib/tractor-import-validation.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = path.join(__dirname, 'data', 'tractors');
@@ -20,8 +21,6 @@ dotenv.config({ quiet: true });
 
 const args = process.argv.slice(2);
 const dryRun = args.includes('--dry-run');
-
-const VALID_TRACTION = new Set(['4x2', '4x4', 'track']);
 
 function loadRecords() {
   const files = fs.readdirSync(DATA_DIR).filter((f) => /^\d+\.json$/.test(f));
@@ -52,19 +51,6 @@ function loadRecords() {
     }
   }
   return records;
-}
-
-function validate(r) {
-  const problems = [];
-  if (!r.name || r.name.length > 150) problems.push('name inválido');
-  if (!r.brand) problems.push('sin brand');
-  if (!r.model) problems.push('sin model');
-  if (r.engine_power_hp == null) problems.push('sin engine_power_hp');
-  if (r.weight_kg == null) problems.push('sin weight_kg');
-  if (r.traction_force_kn == null) problems.push('sin traction_force_kn');
-  if (!VALID_TRACTION.has(r.traction_type)) problems.push(`traction_type inválido: ${r.traction_type}`);
-  if (r.image_url && !/^(https?:\/\/|\/uploads\/)/.test(r.image_url)) problems.push('image_url inválida');
-  return problems;
 }
 
 async function upsert(client, r) {
@@ -150,7 +136,7 @@ async function main() {
   let valid = 0;
   const invalid = [];
   for (const r of records) {
-    const problems = validate(r);
+    const problems = validateTractorImportRecord(r);
     if (problems.length) invalid.push({ name: r.name || '(sin nombre)', problems });
     else valid++;
   }
@@ -162,7 +148,7 @@ async function main() {
 
   if (dryRun) {
     for (const r of records) {
-      if (validate(r).length) continue;
+      if (validateTractorImportRecord(r).length) continue;
       console.log(`[dry-run] ${r.name.padEnd(40)} ${String(r.engine_power_hp).padStart(5)} hp  ${r.traction_type}  ${r.weight_kg} kg  ${r.traction_force_kn} kN  ${r.image_url ?? 'sin foto'}`);
     }
     await pool.end();
@@ -175,7 +161,7 @@ async function main() {
   try {
     await client.query('BEGIN');
     for (const r of records) {
-      if (validate(r).length) continue;
+      if (validateTractorImportRecord(r).length) continue;
       const { action, id } = await upsert(client, r);
       action === 'insert' ? inserted++ : updated++;
       console.log(`${action === 'insert' ? '🟢 insertado' : '🟡 actualizado'} #${id}  ${r.name}`);

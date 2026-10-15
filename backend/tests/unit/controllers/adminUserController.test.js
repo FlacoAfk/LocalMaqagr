@@ -171,6 +171,23 @@ describe('adminUserController (FIX-004)', () => {
       );
     });
 
+    test.each(['inactive', 'suspended'])('impide que un admin cambie su estado a %s', async (status) => {
+      mockPoolQuery.mockResolvedValueOnce({ rows: [{ user_id: 3 }] });
+      const res = createMockRes();
+      const req = { params: { id: '3' }, body: { status }, user: { user_id: 3 } };
+
+      await callHandler(updateUser, req, res);
+
+      expect(res.status).toHaveBeenCalledWith(400);
+      expect(res.json).toHaveBeenCalledWith(
+        expect.objectContaining({
+          message: 'Acción no permitida',
+          errors: ['No puedes desactivar o suspender tu propia cuenta de administrador'],
+        })
+      );
+      expect(mockPoolQuery).toHaveBeenCalledTimes(1);
+    });
+
     test('400 si no hay campos para actualizar', async () => {
       mockPoolQuery.mockResolvedValueOnce({ rows: [{ user_id: 3 }] });
       const res = createMockRes();

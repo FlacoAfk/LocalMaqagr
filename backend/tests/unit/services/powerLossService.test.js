@@ -553,6 +553,35 @@ describe("powerLossService", () => {
       expect(r.zoz.tdp_to_axle_efficiency).toBe(0.96);
     });
 
+    test('aplica la eficiencia de tracción correspondiente a cada tipo de tractor', () => {
+      const cases = [
+        ['4x2', '2WD', 0.7, 55.38],
+        ['mfwd', 'MFWD', 0.75, 59.34],
+        ['4x4', '4WD', 0.78, 61.71],
+        ['track', 'BELT', 0.83, 65.67],
+      ];
+
+      for (const [tractionType, zozType, efficiency, availablePower] of cases) {
+        const result = V3({
+          enginePower: 100,
+          altitudeMeters: 0,
+          temperatureC: 15,
+          totalWeightKg: 0,
+          slopePercent: 0,
+          tractorTractionType: tractionType,
+          soilCondition: 'medio',
+          superficieRodadura: 'arena_suelta',
+          slippagePercent: 0,
+          hasTurbo: true,
+        });
+
+        expect(result.zoz.tractor_type).toBe(zozType);
+        expect(result.zoz.et).toBe(efficiency);
+        expect(result.zoz.tractor_type_defaulted).toBe(false);
+        expect(result.netPower).toBe(availablePower);
+      }
+    });
+
     test('umbrales: altitud solo si A > 300 m, temperatura solo si T > 15 °C, turbo anula ambas', () => {
       const sinGatillo = V3({ altitudeMeters: 200, temperatureC: 10 });
       expect(sinGatillo.zoz.p_alt_hp).toBe(0);

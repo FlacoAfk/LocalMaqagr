@@ -38,15 +38,11 @@ describe('Notification API E2E', () => {
   });
 
   afterAll(async () => {
-    // Limpieza de datos
-    if (user?.user_id && adminUser?.user_id) {
-      await pool.query('DELETE FROM users WHERE user_id IN ($1, $2)', [user.user_id, adminUser.user_id]);
-    }
-
-    try {
-      await pool.query('DELETE FROM notification');
-    } catch {
-      // Ignorar si la tabla no existe en un entorno no inicializado
+    const testUserIds = [user?.user_id, adminUser?.user_id].filter(Number.isInteger);
+    if (testUserIds.length > 0) {
+      // Only remove data belonging to users created by this suite.
+      await pool.query('DELETE FROM notification WHERE user_id = ANY($1)', [testUserIds]);
+      await pool.query('DELETE FROM users WHERE user_id = ANY($1)', [testUserIds]);
     }
     await pool.end();
     

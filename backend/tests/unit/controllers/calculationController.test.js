@@ -125,6 +125,45 @@ describe('calculationController', () => {
   });
 
   describe('calculatePowerLoss()', () => {
+    test.each([
+      [{ has_turbo: true }, undefined, true],
+      [{ has_turbo: false, tiene_turbo: 'si' }, undefined, false],
+      [{ has_turbo: true }, false, false],
+      [{ has_turbo: false }, true, true],
+      [{ has_turbo: true }, null, true],
+      [{ tiene_turbo: 'si' }, undefined, true],
+      [{ turbo_aspirado: 'sí' }, undefined, true],
+      [{ turbo: 'true' }, undefined, true],
+    ])('resolves canonical turbo and explicit overrides (%j, %s)', async (turboFields, override, expected) => {
+      const req = {
+        body: { tractor_id: 1, terrain_id: 2, working_speed_kmh: 8, has_turbo: override },
+        user: { user_id: 10 },
+      };
+      const res = createMockRes();
+      mockTractorFindById.mockResolvedValue({
+        tractor_id: 1, brand: 'Case', model: 'Puma', weight_kg: 4000,
+        engine_power_hp: 100, ...turboFields,
+      });
+      mockTerrainFindById.mockResolvedValue({
+        terrain_id: 2, user_id: 10, name: 'Test', soil_type: 'loam',
+        slope_percentage: 0, altitude_meters: 1500, temperature_celsius: 15,
+      });
+      mockCalculateTotalLoss.mockReturnValue({
+        grossPower: 100, netPower: 90, efficiency: 90,
+        losses: { slope: 0, altitude: 0, rollingResistance: 5, slippage: 5, total: 10 },
+      });
+      mockClient.query.mockImplementation(async (sql) => ({
+        rows: sql.includes('RETURNING query_id') ? [{ query_id: 1 }] : [],
+      }));
+
+      const next = await callWrappedHandler(calculatePowerLoss, req, res);
+
+      expect(next).not.toHaveBeenCalled();
+      expect(mockCalculateTotalLoss).toHaveBeenCalledWith(expect.objectContaining({ hasTurbo: expected }));
+      expect(res.status).toHaveBeenCalledWith(200);
+      expect(res.json.mock.calls[0][0].data.tractor.hasTurbo).toBe(expected);
+    });
+
     test('retorna 401 cuando no hay usuario autenticado en req.user', async () => {
       const req = {
         body: {
@@ -209,6 +248,32 @@ describe('calculationController', () => {
       });
     });
 
+    test.each([999, undefined])('rejects an unauthorized terrain owner (%s) before calculating or persisting losses', async (ownerId) => {
+      const req = {
+        body: { tractor_id: 4, terrain_id: 6, working_speed_kmh: 7 },
+        user: { user_id: 22 },
+      };
+      const res = createMockRes();
+      mockTractorFindById.mockResolvedValue({ tractor_id: 4 });
+      mockTerrainFindById.mockResolvedValue({
+        terrain_id: 6,
+        user_id: ownerId,
+        get soil_type() { throw new Error('Unauthorized terrain fields must not be read'); },
+      });
+
+      await callWrappedHandler(calculatePowerLoss, req, res);
+
+      expect(res.status).toHaveBeenCalledWith(403);
+      expect(res.json).toHaveBeenCalledWith({
+        success: false,
+        message: 'No tiene acceso a este terreno',
+      });
+      expect(mockCalculateTotalLoss).not.toHaveBeenCalled();
+      expect(mockClient.query).not.toHaveBeenCalled();
+      expect(mockLoggerInfo).not.toHaveBeenCalled();
+      expect(mockClient.release).toHaveBeenCalledTimes(1);
+    });
+
     test('persiste y responde cálculo de pérdidas exitoso', async () => {
       const req = {
         body: {
@@ -234,6 +299,7 @@ describe('calculationController', () => {
       });
       mockTerrainFindById.mockResolvedValue({
         terrain_id: 6,
+        user_id: 22,
         name: 'Lote Norte',
         soil_type: 'arcilla',
         slope_percentage: 8,
@@ -320,6 +386,7 @@ describe('calculationController', () => {
       });
       mockTerrainFindById.mockResolvedValue({
         terrain_id: 3,
+        user_id: 10,
         name: 'Campo Sur',
         soil_type: 'loam',
         slope_percentage: 2,
@@ -352,6 +419,48 @@ describe('calculationController', () => {
   });
 
   describe('calculateMinimumPower()', () => {
+    test('rejects unauthenticated minimum-power requests before reading entities', async () => {
+      const req = { body: { implement_id: 8, terrain_id: 9 } };
+      const res = createMockRes();
+
+      await calculateMinimumPower(req, res);
+
+      expect(res.status).toHaveBeenCalledWith(401);
+      expect(res.json).toHaveBeenCalledWith({ success: false, message: 'Usuario no autenticado' });
+      expect(mockTerrainFindById).not.toHaveBeenCalled();
+      expect(mockImplementFindById).not.toHaveBeenCalled();
+      expect(mockTractorGetAll).not.toHaveBeenCalled();
+      expect(mockClient.query).not.toHaveBeenCalled();
+      expect(mockClient.release).toHaveBeenCalledTimes(1);
+    });
+
+    test.each([999, undefined])('rejects an unauthorized terrain owner (%s) before calculating or persisting minimum power', async (ownerId) => {
+      const req = {
+        body: { implement_id: 8, terrain_id: 9 },
+        user: { user_id: 22 },
+      };
+      const res = createMockRes();
+      mockImplementFindById.mockResolvedValue({ implement_id: 8 });
+      mockTerrainFindById.mockResolvedValue({
+        terrain_id: 9,
+        user_id: ownerId,
+        get soil_type() { throw new Error('Unauthorized terrain fields must not be read'); },
+      });
+      mockTractorGetAll.mockResolvedValue([]);
+
+      await calculateMinimumPower(req, res);
+
+      expect(res.status).toHaveBeenCalledWith(403);
+      expect(res.json).toHaveBeenCalledWith({
+        success: false,
+        message: 'No tiene acceso a este terreno',
+      });
+      expect(mockCalculateMinimumPower).not.toHaveBeenCalled();
+      expect(mockClient.query).not.toHaveBeenCalled();
+      expect(mockLoggerInfo).not.toHaveBeenCalled();
+      expect(mockClient.release).toHaveBeenCalledTimes(1);
+    });
+
     test('retorna 400 cuando faltan implement_id o terrain_id', async () => {
       const req = {
         body: {},
@@ -426,6 +535,7 @@ describe('calculationController', () => {
       });
       mockTerrainFindById.mockResolvedValue({
         terrain_id: 9,
+        user_id: 14,
         name: 'Ladera',
         soil_type: 'rocky',
         slope_percentage: 16,
@@ -481,6 +591,7 @@ describe('calculationController', () => {
       });
       mockTerrainFindById.mockResolvedValue({
         terrain_id: 5,
+        user_id: 22,
         name: 'Plano 1',
         soil_type: 'loam',
         slope_percentage: 3,
@@ -563,6 +674,7 @@ describe('calculationController', () => {
       });
       mockTerrainFindById.mockResolvedValue({
         terrain_id: 5,
+        user_id: 2,
         name: 'Plano 1',
         soil_type: 'loam',
         slope_percentage: 3,

@@ -30,6 +30,7 @@ import { securityHeaders } from "./middleware/security.middleware.js";
 import { apiLimiter } from "./middleware/rateLimiter.middleware.js";
 import { corsMiddleware } from "./middleware/cors.middleware.js";
 import { sanitizeInputs } from "./middleware/sanitize.middleware.js";
+import { publicImageMiddleware } from "./middleware/publicImage.middleware.js";
 
 // quiet: true — en instalaciones no existe .env (el launcher inyecta env vars)
 dotenv.config({ quiet: true });
@@ -58,8 +59,13 @@ if (process.env.NODE_ENV === 'production' && !process.env.JWT_SECRET) {
 
 const app = express();
 
-// Trust proxy if we are behind a reverse proxy (e.g., Heroku, Nginx)
-app.set("trust proxy", 1);
+// Do not trust client-supplied forwarding headers by default. Deployments behind
+// a known reverse proxy may set TRUST_PROXY_HOPS to their exact proxy count.
+const trustProxyHops = Number(process.env.TRUST_PROXY_HOPS || 0);
+app.set(
+  'trust proxy',
+  Number.isSafeInteger(trustProxyHops) && trustProxyHops > 0 ? trustProxyHops : false,
+);
 
 // Middlewares globales
 app.use(securityHeaders);
@@ -70,7 +76,13 @@ app.use(sanitizeInputs);
 app.use(logger.requestLogger);
 
 // Servir archivos subidos desde el sistema de archivos local
-app.use('/uploads', express.static(UPLOADS_ROOT));
+app.use('/uploads', publicImageMiddleware, express.static(UPLOADS_ROOT, {
+  dotfiles: 'deny',
+  index: false,
+  setHeaders(res) {
+    res.setHeader('X-Content-Type-Options', 'nosniff');
+  },
+}));
 
 // Serve frontend SPA (local mode — single process on one port)
 if (fs.existsSync(FRONTEND_DIST)) {
@@ -104,7 +116,9 @@ app.use("/api/admin", adminRoutes);
 // SPA fallback — serve index.html for unmatched GET requests (non-file, non-API)
 if (fs.existsSync(FRONTEND_DIST)) {
   app.use((req, res, next) => {
-    if (req.method !== 'GET' || path.extname(req.path)) return next();
+    const isApiRequest = req.path === '/api' || req.path.startsWith('/api/');
+    const isHealthRequest = req.path === '/health' || req.path.startsWith('/health/');
+    if (req.method !== 'GET' || isApiRequest || isHealthRequest || path.extname(req.path)) return next();
     res.sendFile(path.join(FRONTEND_DIST, 'index.html'));
   });
 }
@@ -116,6 +130,7 @@ app.use(errorHandler);
 // Solo iniciar servidor si no estamos en modo test (supertest maneja su propio servidor)
 if (process.env.NODE_ENV !== "test") {
   const PORT = process.env.PORT || 4000;
+  const HOST = process.env.HOST || '127.0.0.1';
 
   const startServer = async () => {
     await connectRedis();
@@ -125,8 +140,8 @@ if (process.env.NODE_ENV !== "test") {
     // Iniciar background jobs
     initJobs();
 
-    app.listen(PORT, () => {
-      logger.info(`🚜 Servidor corriendo en puerto ${PORT}`);
+    app.listen(PORT, HOST, () => {
+      logger.info(`🚜 Servidor corriendo en ${HOST}:${PORT}`);
       logger.info(`📡 Ambiente: ${process.env.NODE_ENV || "development"}`);
     });
   };

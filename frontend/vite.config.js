@@ -6,7 +6,11 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, '.', '');
   const vitePort = Number.parseInt(env.VITE_PORT || '5173', 10);
-  const devApiProxyTarget = (env.VITE_DEV_API_PROXY_TARGET || 'http://localhost:4000').replace(/\/$/, '');
+  const devApiProxyTarget = (
+    process.env.VITE_DEV_API_PROXY_TARGET ||
+    env.VITE_DEV_API_PROXY_TARGET ||
+    'http://localhost:4000'
+  ).replace(/\/$/, '');
 
   return {
     // Excluir carpetas de herramientas del escaneo de archivos

@@ -7,9 +7,21 @@ import {
 } from "../controllers/recommendationController.js";
 import { verifyTokenMiddleware } from "../middleware/auth.middleware.js";
 
-import { cacheMiddleware } from "../middleware/cache.middleware.js";
+import {
+  cacheMiddleware,
+  invalidateCacheMiddleware,
+} from "../middleware/cache.middleware.js";
 
 const router = Router();
+
+const invalidateRecommendationHistory = (req, res, next) => {
+  const userId = req.user?.id ?? req.user?.userId ?? req.user?.user_id;
+  if (!userId) return next();
+
+  return invalidateCacheMiddleware(
+    `/api/recommendations/history*:${userId}`,
+  )(req, res, next);
+};
 
 // RUTAS DE RECOMENDACIONES
 // Base path: /api/recommendations
@@ -137,7 +149,12 @@ const router = Router();
  *             schema:
  *               $ref: '#/components/schemas/ErrorResponse'
  */
-router.post("/generate", verifyTokenMiddleware, generateRecommendation);
+router.post(
+  "/generate",
+  verifyTokenMiddleware,
+  invalidateRecommendationHistory,
+  generateRecommendation,
+);
 
 /**
  * @swagger
@@ -207,7 +224,12 @@ router.post("/generate", verifyTokenMiddleware, generateRecommendation);
  *       500:
  *         description: Error interno del servidor
  */
-router.post("/advanced", verifyTokenMiddleware, generateAdvancedRecommendation);
+router.post(
+  "/advanced",
+  verifyTokenMiddleware,
+  invalidateRecommendationHistory,
+  generateAdvancedRecommendation,
+);
 
 /**
  * @swagger

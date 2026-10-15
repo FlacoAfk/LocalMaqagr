@@ -7,10 +7,14 @@ import { jest } from '@jest/globals';
 
 // Crear mock manual para jwt.util
 const mockVerifyToken = jest.fn();
+const mockPoolQuery = jest.fn();
 
 // Mock del módulo jwt.util antes de importar
 jest.unstable_mockModule('../../../utils/jwt.util.js', () => ({
   verifyToken: mockVerifyToken
+}));
+jest.unstable_mockModule('../../../config/db.js', () => ({
+  pool: { query: mockPoolQuery },
 }));
 
 // Importar el middleware después del mock
@@ -40,7 +44,7 @@ describe('auth.middleware.js', () => {
   });
 
   describe('verifyTokenMiddleware', () => {
-    test('debe agregar datos del usuario a req.user cuando el token es válido', () => {
+    test('debe agregar datos del usuario a req.user cuando el token es válido', async () => {
       // Arrange
       const token = 'valid.jwt.token';
       const decodedUser = {
@@ -52,12 +56,17 @@ describe('auth.middleware.js', () => {
 
       mockReq.headers['authorization'] = `Bearer ${token}`;
       mockVerifyToken.mockReturnValue(decodedUser);
+      mockPoolQuery.mockResolvedValue({ rows: [{ role_id: 2, status: 'active' }] });
 
       // Act
-      verifyTokenMiddleware(mockReq, mockRes, mockNext);
+      await verifyTokenMiddleware(mockReq, mockRes, mockNext);
 
       // Assert
       expect(mockVerifyToken).toHaveBeenCalledWith(token);
+      expect(mockPoolQuery).toHaveBeenCalledWith(
+        'SELECT role_id, status FROM users WHERE user_id = $1',
+        [decodedUser.user_id],
+      );
       expect(mockReq.user).toEqual(decodedUser);
       expect(mockNext).toHaveBeenCalledTimes(1);
       expect(mockRes.status).not.toHaveBeenCalled();
@@ -237,7 +246,7 @@ describe('auth.middleware.js', () => {
   });
 
   describe('isAuthenticated', () => {
-    test('debe funcionar como alias de verifyTokenMiddleware', () => {
+    test('debe funcionar como alias de verifyTokenMiddleware', async () => {
       // Arrange
       const token = 'valid.jwt.token';
       const decodedUser = {
@@ -249,9 +258,10 @@ describe('auth.middleware.js', () => {
 
       mockReq.headers['authorization'] = `Bearer ${token}`;
       mockVerifyToken.mockReturnValue(decodedUser);
+      mockPoolQuery.mockResolvedValue({ rows: [{ role_id: 2, status: 'active' }] });
 
       // Act
-      isAuthenticated(mockReq, mockRes, mockNext);
+      await isAuthenticated(mockReq, mockRes, mockNext);
 
       // Assert
       expect(mockVerifyToken).toHaveBeenCalledWith(token);

@@ -21,7 +21,10 @@ const JWT_EXPIRES_IN = process.env.JWT_EXPIRES_IN || '24h';
  * @returns {string} Token JWT firmado
  */
 export const generateToken = (payload) => {
-    return jwt.sign(payload, JWT_SECRET, { expiresIn: JWT_EXPIRES_IN });
+    if (!payload || typeof payload !== 'object' || Array.isArray(payload)) {
+        throw new Error('Invalid access token payload');
+    }
+    return jwt.sign({ ...payload, token_type: 'access' }, JWT_SECRET, { expiresIn: JWT_EXPIRES_IN });
 };
 
 /**
@@ -31,7 +34,11 @@ export const generateToken = (payload) => {
  * @throws {Error} Si el token es inválido o expiró
  */
 export const verifyToken = (token) => {
-    return jwt.verify(token, JWT_SECRET);
+    const decoded = jwt.verify(token, JWT_SECRET, { algorithms: ['HS256'] });
+    if (decoded.token_type !== 'access' || decoded.purpose) {
+        throw new Error('Invalid token purpose');
+    }
+    return decoded;
 };
 
 /**
@@ -41,10 +48,12 @@ export const verifyToken = (token) => {
  */
 export const refreshToken = (token) => {
     try {
-        // Decodifica sin verificar expiración para obtener el payload
-        const decoded = jwt.decode(token);
-
-        if (!decoded) return null;
+        // Verify the signature even when refreshing an expired access token.
+        const decoded = jwt.verify(token, JWT_SECRET, {
+            algorithms: ['HS256'],
+            ignoreExpiration: true,
+        });
+        if (decoded.token_type !== 'access' || decoded.purpose) return null;
 
         // Extrae datos del usuario (sin info de expiración)
         const { user_id, email, role_id, name } = decoded;
@@ -64,7 +73,7 @@ export const refreshToken = (token) => {
  */
 export const generatePasswordResetToken = (payload) => {
     return jwt.sign(
-        { ...payload, purpose: 'password_reset' },
+        { ...payload, purpose: 'password_reset', token_type: 'password_reset' },
         JWT_SECRET,
         { expiresIn: '1h' }
     );
@@ -78,8 +87,8 @@ export const generatePasswordResetToken = (payload) => {
  * @throws {Error} Si el token es inválido, expiró, o no es de tipo password_reset
  */
 export const verifyPasswordResetToken = (token) => {
-    const decoded = jwt.verify(token, JWT_SECRET);
-    if (decoded.purpose !== 'password_reset') {
+    const decoded = jwt.verify(token, JWT_SECRET, { algorithms: ['HS256'] });
+    if (decoded.purpose !== 'password_reset' || decoded.token_type !== 'password_reset') {
         throw new Error('Invalid token purpose');
     }
     return decoded;

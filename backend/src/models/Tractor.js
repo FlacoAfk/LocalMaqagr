@@ -194,6 +194,7 @@ class Tractor {
       brand,
       minPower,
       maxPower,
+      maxWeight,
       type,
       limit = 10,
       offset = 0,
@@ -232,6 +233,12 @@ class Tractor {
     if (maxPower !== null && maxPower !== undefined) {
       conditions.push(`engine_power_hp <= $${paramIndex}`);
       values.push(maxPower);
+      paramIndex++;
+    }
+
+    if (maxWeight !== null && maxWeight !== undefined) {
+      conditions.push(`weight_kg <= $${paramIndex}`);
+      values.push(maxWeight);
       paramIndex++;
     }
 

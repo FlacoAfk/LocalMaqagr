@@ -192,7 +192,8 @@ describe('E2E: Flujo de permisos por roles', () => {
   });
 
   test('debe rechazar header Authorization sin "Bearer"', async () => {
-    const { token } = await TestDataFactory.createAuthenticatedUser();
+    const { user, token } = await TestDataFactory.createAuthenticatedUser();
+    testData.userIds = [user.user_id];
     
     // Enviar token sin prefijo "Bearer"
     const response = await request(app)
@@ -204,7 +205,7 @@ describe('E2E: Flujo de permisos por roles', () => {
     expect(response.body.message).toMatch(/formato|token inválido/i);
   });
 
-  test('usuario puede actualizar su propio perfil pero no el de otros', async () => {
+  test('usuario normal no puede cambiar roles a través del endpoint admin', async () => {
     const user1 = await TestDataFactory.createAuthenticatedUser(2, {
       email: 'updateme@test.com'
     });
@@ -214,19 +215,31 @@ describe('E2E: Flujo de permisos por roles', () => {
 
     testData.userIds = [user1.user.user_id, user2.user.user_id];
 
-    // User2 intenta actualizar perfil de User1
+    // User2 intenta promover a User1 usando la ruta administrativa real.
     const response = await authenticatedRequest(app, user2.token)
-      .put(`/api/users/${user1.user.user_id}`)
-      .send({ username: 'hackedname' });
+      .put(`/api/admin/users/${user1.user.user_id}`)
+      .send({ role_id: 1 });
 
-    // Dependiendo de la implementación:
-    // - 403 Forbidden (no tiene permiso)
-    // - 404 Not Found (ruta no existe)
-    // - 401 Unauthorized
-    expect([401, 403, 404]).toContain(response.status);
-    
-    if (response.status !== 404) {
-      expect(response.body.success).toBe(false);
-    }
+    expect(response.status).toBe(403);
+    expect(response.body.success).toBe(false);
+  });
+
+  test('un admin activo no puede desactivarse ni eliminarse a sí mismo', async () => {
+    const { user, token } = await TestDataFactory.createAuthenticatedUser(1);
+    testData.userIds = [user.user_id];
+
+    const deactivateResponse = await authenticatedRequest(app, token)
+      .put(`/api/admin/users/${user.user_id}`)
+      .send({ status: 'inactive' });
+    expect(deactivateResponse.status).toBe(400);
+
+    const deleteResponse = await authenticatedRequest(app, token)
+      .delete(`/api/auth/users/${user.user_id}`);
+    expect(deleteResponse.status).toBe(400);
+
+    const profileResponse = await authenticatedRequest(app, token)
+      .get('/api/auth/profile');
+    expect(profileResponse.status).toBe(200);
+    expect(profileResponse.body.success).toBe(true);
   });
 });

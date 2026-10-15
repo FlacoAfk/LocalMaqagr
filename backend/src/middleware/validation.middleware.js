@@ -1,4 +1,4 @@
-const ALLOWED_TRACTION_TYPES = ['4x2', '4x4', 'track'];
+const ALLOWED_TRACTION_TYPES = ['4x2', 'mfwd', '4x4', 'track'];
 const ALLOWED_STATUS = ['available', 'maintenance', 'inactive', 'out_of_service'];
 // Tipos genéricos del CRUD + los 9 implementos de la Tabla 1 (Chaparro) usados
 // por el cálculo de potencia por implemento (implementPowerService).

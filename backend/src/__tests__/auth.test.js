@@ -9,8 +9,18 @@ import bcrypt from 'bcryptjs';
 import { 
   generateToken, 
   verifyToken, 
-  refreshToken 
+  refreshToken,
+  generatePasswordResetToken,
+  verifyPasswordResetToken
 } from '../utils/jwt.util.js';
+
+const mockAuthPoolQuery = jest.fn().mockResolvedValue({
+  rows: [{ role_id: 2, status: 'active' }],
+});
+jest.unstable_mockModule('../config/db.js', () => ({
+  pool: { query: mockAuthPoolQuery },
+}));
+const { verifyTokenMiddleware } = await import('../middleware/auth.middleware.js');
 
 // Mock payload compartido entre todos los tests
 const testSecret = process.env.JWT_SECRET || 'test-secret';
@@ -81,6 +91,47 @@ describe('JWT Utils Tests', () => {
 
   // ========== VERIFY TOKEN ==========
   describe('verifyToken', () => {
+    test('rejects reset credentials as access tokens and in bearer middleware', async () => {
+      const token = generatePasswordResetToken(mockPayload);
+      expect(() => verifyToken(token)).toThrow('Invalid token purpose');
+      const req = { headers: { authorization: `Bearer ${token}` } };
+      const res = { status: jest.fn(), json: jest.fn() };
+      res.status.mockReturnValue(res);
+      const next = jest.fn();
+      await verifyTokenMiddleware(req, res, next);
+      expect(res.status).toHaveBeenCalledWith(401);
+      expect(req.user).toBeUndefined();
+      expect(next).not.toHaveBeenCalled();
+    });
+
+    test('accepts access credentials only for bearer authentication', async () => {
+      const token = generateToken(mockPayload);
+      const req = { headers: { authorization: `Bearer ${token}` } };
+      const next = jest.fn();
+      await verifyTokenMiddleware(req, {}, next);
+      expect(next).toHaveBeenCalledTimes(1);
+      expect(req.user.token_type).toBe('access');
+      expect(() => verifyPasswordResetToken(token)).toThrow('Invalid token purpose');
+      expect(verifyPasswordResetToken(generatePasswordResetToken(mockPayload)).user_id).toBe(1);
+    });
+
+    test.each(['Basic', 'Token'])('rejects an access JWT with a non-bearer scheme (%s)', async (scheme) => {
+      const token = generateToken(mockPayload);
+      const req = { headers: { authorization: `${scheme} ${token}` } };
+      const res = { status: jest.fn(), json: jest.fn() };
+      res.status.mockReturnValue(res);
+      const next = jest.fn();
+      await verifyTokenMiddleware(req, res, next);
+      expect(res.status).toHaveBeenCalledWith(401);
+      expect(next).not.toHaveBeenCalled();
+    });
+
+    test('rejects legacy tokens without explicit type, including previously disclosed reset tokens', () => {
+      expect(() => verifyToken(jwt.sign(mockPayload, testSecret))).toThrow();
+      const oldReset = jwt.sign({ ...mockPayload, purpose: 'password_reset' }, testSecret);
+      expect(() => verifyPasswordResetToken(oldReset)).toThrow();
+    });
+
     test('debe verificar un token válido', () => {
       const token = generateToken(mockPayload);
       const decoded = verifyToken(token);
@@ -149,7 +200,7 @@ describe('JWT Utils Tests', () => {
 
     test('debe funcionar incluso con tokens expirados', () => {
       const expiredToken = jwt.sign(
-        mockPayload, 
+        { ...mockPayload, token_type: 'access' },
         testSecret, 
         { expiresIn: '-1h' }
       );
@@ -164,6 +215,12 @@ describe('JWT Utils Tests', () => {
       const result = refreshToken('invalid.token');
       
       expect(result).toBeNull();
+    });
+
+    test('does not refresh reset tokens or tokens signed by another key', () => {
+      expect(refreshToken(generatePasswordResetToken(mockPayload))).toBeNull();
+      const forged = jwt.sign({ ...mockPayload, token_type: 'access' }, 'different-secret');
+      expect(refreshToken(forged)).toBeNull();
     });
 
     test('nuevo token debe tener los mismos claims', () => {

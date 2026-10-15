@@ -54,40 +54,34 @@ describe('error.middleware (FIX-004 extra)', () => {
     process.env.NODE_ENV = originalNodeEnv;
   });
 
-  describe('errorHandler — MulterError (caracterización de DEFECTO conocido)', () => {
-    // DEFECTO SRC REAL (descubierto por FIX-004, NO corregido — fuera de alcance):
-    // error.middleware.js línea 105-119 intenta mapear MulterError a 413/400,
-    // pero el bloque `if (err.code)` (línea 128) sobreescribe SIEMPRE el resultado:
-    // todo código MulterError (LIMIT_FILE_SIZE, etc.) no está en pgMap, no empieza
-    // con '2'/'4' → cae en el else → 500 'Error en la base de datos'.
-    // Estos tests documentan el COMPORTAMIENTO ACTUAL (defectuoso); el delta FIX-005
-    // debe corregir el middleware y actualizar estas expectativas a 413/400.
-    const assertCurrentBehavior = (err, res) => {
-      errorHandler(err, createMockReq(), res, jest.fn());
-      expect(res.status).toHaveBeenCalledWith(500);
-      expect(res.json).toHaveBeenCalledWith(
-        expect.objectContaining({ message: 'Error en la base de datos' })
-      );
-    };
+  describe('errorHandler — MulterError', () => {
+    test.each([
+      ['LIMIT_FILE_SIZE', 413, 'PAYLOAD_TOO_LARGE', 'El archivo es demasiado grande. Tamaño máximo: 5MB.'],
+      ['LIMIT_FILE_COUNT', 400, 'VALIDATION_ERROR', 'Demasiados archivos. Solo se permite uno.'],
+      ['LIMIT_UNEXPECTED_FILE', 400, 'VALIDATION_ERROR', 'Campo de archivo inesperado. Usa "image" como nombre de campo.'],
+      ['SOMETHING_ELSE', 400, 'VALIDATION_ERROR', 'Error al subir el archivo.'],
+    ])('%s preserves upload status %s instead of becoming a database error', (code, status, responseCode, message) => {
+      const res = createMockRes();
 
-    test('LIMIT_FILE_SIZE → ACTUAL 500 (intención: 413)', () => {
-      assertCurrentBehavior({ name: 'MulterError', code: 'LIMIT_FILE_SIZE', message: 'File too large' }, createMockRes());
-    });
+      errorHandler({ name: 'MulterError', code, message: 'Upload failed' }, createMockReq(), res, jest.fn());
 
-    test('LIMIT_FILE_COUNT → ACTUAL 500 (intención: 400)', () => {
-      assertCurrentBehavior({ name: 'MulterError', code: 'LIMIT_FILE_COUNT', message: 'Too many files' }, createMockRes());
-    });
-
-    test('LIMIT_UNEXPECTED_FILE → ACTUAL 500 (intención: 400)', () => {
-      assertCurrentBehavior({ name: 'MulterError', code: 'LIMIT_UNEXPECTED_FILE', message: 'Unexpected field' }, createMockRes());
-    });
-
-    test('código MulterError desconocido → ACTUAL 500 (intención: 400 genérico)', () => {
-      assertCurrentBehavior({ name: 'MulterError', code: 'SOMETHING_ELSE', message: 'x' }, createMockRes());
+      expect(res.status).toHaveBeenCalledWith(status);
+      expect(res.json).toHaveBeenCalledWith({ success: false, code: responseCode, message });
+      expect(mockLoggerWarn).toHaveBeenCalled();
+      expect(mockLoggerError).not.toHaveBeenCalled();
     });
   });
 
   describe('errorHandler — errores PostgreSQL por código', () => {
+    test.each(['EACCES', 123])('non-SQLSTATE code %s does not override the original error', (code) => {
+      const res = createMockRes();
+
+      errorHandler({ name: 'Error', code, statusCode: 403, message: 'Access denied' }, createMockReq(), res, jest.fn());
+
+      expect(res.status).toHaveBeenCalledWith(403);
+      expect(res.json).toHaveBeenCalledWith({ success: false, code: 'FORBIDDEN', message: 'Access denied' });
+    });
+
     const pgCases = [
       ['23505', 409, 'Ya existe un registro'],
       ['23503', 400, 'Referencia a un registro'],

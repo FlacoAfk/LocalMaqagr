@@ -68,16 +68,34 @@ export const getImplementById = asyncHandler(async (req, res) => {
 import Tractor from "../models/Tractor.js";
 
 export const searchImplements = asyncHandler(async (req, res) => {
-  const { q, type, minWidth, maxWidth, requiredPower, tractorId } = req.query;
+  const {
+    q,
+    type,
+    minWidth,
+    maxWidth,
+    minPower,
+    maxPower,
+    maxWeight,
+    requiredPower,
+    tractorId,
+  } = req.query;
   const { limit, page, sort, order } = req.pagination;
   const offset = (page - 1) * limit;
 
-  const minWidthNum = minWidth ? parseFloat(minWidth) : null;
-  const maxWidthNum = maxWidth ? parseFloat(maxWidth) : null;
-  const requiredPowerNum = requiredPower ? parseFloat(requiredPower) : null;
+  const parseOptionalNumber = (value) =>
+    value === undefined || value === null || value === "" ? null : Number(value);
+  const minWidthNum = parseOptionalNumber(minWidth);
+  const maxWidthNum = parseOptionalNumber(maxWidth);
+  const minPowerNum = parseOptionalNumber(minPower);
+  const maxPowerNum = parseOptionalNumber(maxPower);
+  const maxWeightNum = parseOptionalNumber(maxWeight);
+  const requiredPowerNum = parseOptionalNumber(requiredPower);
+
+  const invalidNonNegativeFilter = (value) =>
+    value !== null && (!Number.isFinite(value) || value < 0);
 
   // Validate numeric filters
-  if (minWidth && (Number.isNaN(minWidthNum) || minWidthNum < 0)) {
+  if (invalidNonNegativeFilter(minWidthNum)) {
     return res.status(400).json({
       success: false,
       code: "VALIDATION_ERROR",
@@ -85,7 +103,7 @@ export const searchImplements = asyncHandler(async (req, res) => {
     });
   }
 
-  if (maxWidth && (Number.isNaN(maxWidthNum) || maxWidthNum < 0)) {
+  if (invalidNonNegativeFilter(maxWidthNum)) {
     return res.status(400).json({
       success: false,
       code: "VALIDATION_ERROR",
@@ -106,13 +124,48 @@ export const searchImplements = asyncHandler(async (req, res) => {
   }
 
   if (
-    requiredPower &&
-    (Number.isNaN(requiredPowerNum) || requiredPowerNum < 0)
+    invalidNonNegativeFilter(requiredPowerNum)
   ) {
     return res.status(400).json({
       success: false,
       code: "VALIDATION_ERROR",
       message: "requiredPower debe ser un número positivo",
+    });
+  }
+
+  if (invalidNonNegativeFilter(minPowerNum)) {
+    return res.status(400).json({
+      success: false,
+      code: "VALIDATION_ERROR",
+      message: "minPower debe ser un número positivo",
+    });
+  }
+
+  if (invalidNonNegativeFilter(maxPowerNum)) {
+    return res.status(400).json({
+      success: false,
+      code: "VALIDATION_ERROR",
+      message: "maxPower debe ser un número positivo",
+    });
+  }
+
+  if (invalidNonNegativeFilter(maxWeightNum)) {
+    return res.status(400).json({
+      success: false,
+      code: "VALIDATION_ERROR",
+      message: "maxWeight debe ser un número positivo",
+    });
+  }
+
+  if (
+    minPowerNum !== null &&
+    maxPowerNum !== null &&
+    minPowerNum > maxPowerNum
+  ) {
+    return res.status(400).json({
+      success: false,
+      code: "VALIDATION_ERROR",
+      message: "minPower no puede ser mayor que maxPower",
     });
   }
 
@@ -144,6 +197,9 @@ export const searchImplements = asyncHandler(async (req, res) => {
     type: type || null,
     minWidth: minWidthNum,
     maxWidth: maxWidthNum,
+    minPower: minPowerNum,
+    maxPower: maxPowerNum,
+    maxWeight: maxWeightNum,
     requiredPower: requiredPowerNum,
     page,
     limit,
@@ -169,6 +225,9 @@ export const searchImplements = asyncHandler(async (req, res) => {
       type: type || null,
       minWidth: minWidthNum,
       maxWidth: maxWidthNum,
+      minPower: minPowerNum,
+      maxPower: maxPowerNum,
+      maxWeight: maxWeightNum,
       requiredPower: requiredPowerNum,
       tractorId: tractorId ? parseInt(tractorId, 10) : null,
     },
@@ -453,16 +512,7 @@ export const deleteImplement = asyncHandler(async (req, res) => {
     });
   }
 
-  // Eliminar imagen del almacenamiento local si existe
-  if (existing.image_url) {
-    const imagePath = extractGCSPath(existing.image_url);
-    if (imagePath) {
-      deleteFromGCS(existing.image_url).catch(err =>
-        logger.warn('Failed to delete implement image from local storage', { error: err.message })
-      );
-    }
-  }
-
+  // Keep the image because this operation archives the row by marking it inactive.
   // Soft delete - cambiar status a 'inactive'
   const updated = await Implement.update(id, { status: "inactive" });
 

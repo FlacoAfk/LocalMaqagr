@@ -78,17 +78,19 @@ export const calculatePowerLoss = asyncHandler(async (req, res) => {
       return res.status(404).json({ success: false, message: 'Terreno no encontrado' });
     }
 
+    if (terrain.user_id !== user_id) {
+      return res.status(403).json({
+        success: false,
+        message: 'No tiene acceso a este terreno',
+      });
+    }
+
   // 4. Preparación de parámetros para el Servicio de Cálculo
   const totalWeight = parseFloat(tractor.weight_kg) + parseFloat(carried_objects_weight_kg);
   const soilCn = getSoilCn(terrain.soil_type);
 
-  // Determinar si el tractor tiene turbo
-  // Prioridad: 1) valor explícito del frontend (has_turbo en body), 2) campo de la BD
-  // En la BD puede venir como 'tiene turbo' enum('si','no') o 'turbo_aspirado' VARCHAR
-  const turboValue = has_turbo !== undefined
-    ? has_turbo
-    : (tractor.tiene_turbo || tractor.turbo_aspirado || tractor.turbo || '');
-  const hasTurbo = String(turboValue).toLowerCase() === 'si' || String(turboValue).toLowerCase() === 'sí' || String(turboValue).toLowerCase() === 'true' || turboValue === true;
+  // Keep canonical database values and legacy aliases consistent across flows.
+  const hasTurbo = resolveHasTurbo(has_turbo, tractor);
 
   // Construir objeto de parámetros
   const calculationParams = {
@@ -611,6 +613,13 @@ export const calculateMinimumPower = async (req, res) => {
     const { implement_id, terrain_id, working_depth_m } = req.body;
     const user_id = req.user?.userId || req.user?.user_id;
 
+    if (!user_id) {
+      return res.status(401).json({
+        success: false,
+        message: 'Usuario no autenticado',
+      });
+    }
+
     // Validación de campos requeridos
     if (!implement_id || !terrain_id) {
       return res.status(400).json({ 
@@ -637,6 +646,13 @@ export const calculateMinimumPower = async (req, res) => {
       return res.status(404).json({ 
         success: false, 
         message: 'Terreno no encontrado' 
+      });
+    }
+
+    if (terrain.user_id !== user_id) {
+      return res.status(403).json({
+        success: false,
+        message: 'No tiene acceso a este terreno',
       });
     }
 

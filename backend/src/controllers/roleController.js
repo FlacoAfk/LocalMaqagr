@@ -66,7 +66,7 @@ export const getAllRoles = asyncHandler(async (req, res) => {
  * Requiere autenticación y rol de administrador (isAdmin)
  */
 export const createRole = asyncHandler(async (req, res) => {
-  const { role_name, description } = req.body;
+  const { role_name, description } = req.body ?? {};
 
   // Validar datos de entrada
   if (!role_name) {
@@ -117,7 +117,7 @@ export const createRole = asyncHandler(async (req, res) => {
  */
 export const updateRole = asyncHandler(async (req, res) => {
   const { id } = req.params;
-  const { role_name, description, status } = req.body;
+  const { role_name, description, status } = req.body ?? {};
 
   // Validar que el ID sea un número válido
   const roleId = parseInt(id);

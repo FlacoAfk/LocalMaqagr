@@ -20,20 +20,64 @@ const __dirname = dirname(__filename);
 const envPath = resolve(__dirname, '../../.env');
 dotenv.config({ path: envPath });
 
-// Configuración de la base de datos de test (usa credenciales de .env)
+// Never inherit the application database host or credentials for destructive
+// integration-test helpers. Configure TEST_DB_* explicitly when needed.
 const TEST_DB_CONFIG = {
-  user: process.env.DB_USER || 'postgres',
-  host: process.env.DB_HOST || 'localhost',
-  password: process.env.DB_PASS,
-  port: parseInt(process.env.DB_PORT || '5432', 10),
+  user: process.env.TEST_DB_USER || 'postgres',
+  host: process.env.TEST_DB_HOST || '127.0.0.1',
+  password: process.env.TEST_DB_PASS || '',
+  port: Number.parseInt(process.env.TEST_DB_PORT || '5432', 10),
 };
 
 const TEST_DB_NAME = process.env.TEST_DB_NAME || 'maqagr_test';
+const SAFE_TEST_DB_NAME = 'maqagr_test';
+const LOOPBACK_HOSTS = new Set(['127.0.0.1', '::1', 'localhost']);
+
+/**
+ * Fail closed unless destructive helpers point at the dedicated local test DB.
+ * @param {{nodeEnv?: string, databaseName?: string, host?: string, port?: number, applicationDatabaseName?: string}} options
+ */
+export function assertSafeTestDatabaseTarget({
+  nodeEnv = process.env.NODE_ENV,
+  databaseName = TEST_DB_NAME,
+  host = TEST_DB_CONFIG.host,
+  port = TEST_DB_CONFIG.port,
+  applicationDatabaseName =
+    process.env.MAQAGR_APPLICATION_DB_NAME ||
+    process.env.DB_NAME ||
+    'maqagr_local',
+} = {}) {
+  if (nodeEnv !== 'test') {
+    throw new Error('Refusing database test operation unless NODE_ENV=test.');
+  }
+  if (databaseName !== SAFE_TEST_DB_NAME || databaseName === applicationDatabaseName) {
+    throw new Error(`Refusing destructive database test operation for database "${databaseName}".`);
+  }
+  if (!LOOPBACK_HOSTS.has(String(host).toLowerCase())) {
+    throw new Error(`Refusing database test operation against non-local host "${host}".`);
+  }
+  if (!Number.isSafeInteger(Number(port)) || Number(port) < 1 || Number(port) > 65535) {
+    throw new Error(`Refusing database test operation with invalid port "${port}".`);
+  }
+}
+
+function assertSafeTestPool(pool) {
+  const options = pool?.options;
+  if (!options) {
+    throw new Error('Refusing to clean an unverified database pool.');
+  }
+  assertSafeTestDatabaseTarget({
+    databaseName: options.database,
+    host: options.host || TEST_DB_CONFIG.host,
+    port: options.port || TEST_DB_CONFIG.port,
+  });
+}
 
 /**
  * Crea la base de datos de test si no existe
  */
 export async function createTestDatabase() {
+  assertSafeTestDatabaseTarget();
   const client = new Client({
     ...TEST_DB_CONFIG,
     database: 'postgres', // Conectar a DB por defecto para crear la de test
@@ -53,9 +97,9 @@ export async function createTestDatabase() {
       await client.query(`
         SELECT pg_terminate_backend(pg_stat_activity.pid)
         FROM pg_stat_activity
-        WHERE pg_stat_activity.datname = '${TEST_DB_NAME}'
+        WHERE pg_stat_activity.datname = $1
         AND pid <> pg_backend_pid()
-      `);
+      `, [TEST_DB_NAME]);
 
       await client.query(`CREATE DATABASE "${TEST_DB_NAME}"`);
       console.log(`[TEST DB] Base de datos "${TEST_DB_NAME}" creada exitosamente`);
@@ -71,6 +115,7 @@ export async function createTestDatabase() {
  * Aplica el esquema SQL a la base de datos de test
  */
 export async function applySchema() {
+  assertSafeTestDatabaseTarget();
   const pool = new Pool({
     ...TEST_DB_CONFIG,
     database: TEST_DB_NAME,
@@ -102,6 +147,7 @@ export async function setupTestDB() {
  * @param {import('pg').Pool} pool - Pool de conexión a usar
  */
 export async function cleanTestDB(pool) {
+  assertSafeTestPool(pool);
   const tables = [
     'query_history',
     'power_loss',
@@ -123,6 +169,7 @@ export async function cleanTestDB(pool) {
  * @param {import('pg').Pool} pool - Pool de conexión a usar
  */
 export async function seedTestDB(pool) {
+  assertSafeTestPool(pool);
   // Insertar roles necesarios
   await pool.query(`
     INSERT INTO role (role_name, description) VALUES
@@ -154,6 +201,7 @@ export async function seedTestDB(pool) {
  * Se ejecuta en globalTeardown de Jest
  */
 export async function teardownTestDB() {
+  assertSafeTestDatabaseTarget();
   const client = new Client({
     ...TEST_DB_CONFIG,
     database: 'postgres',
@@ -166,9 +214,9 @@ export async function teardownTestDB() {
     await client.query(`
       SELECT pg_terminate_backend(pg_stat_activity.pid)
       FROM pg_stat_activity
-      WHERE pg_stat_activity.datname = '${TEST_DB_NAME}'
+      WHERE pg_stat_activity.datname = $1
       AND pid <> pg_backend_pid()
-    `);
+    `, [TEST_DB_NAME]);
 
     await client.query(`DROP DATABASE IF EXISTS "${TEST_DB_NAME}"`);
     console.log(`[TEST DB] Base de datos "${TEST_DB_NAME}" eliminada`);
@@ -182,6 +230,7 @@ export async function teardownTestDB() {
  * @returns {import('pg').Pool}
  */
 export function createTestPool() {
+  assertSafeTestDatabaseTarget();
   return new Pool({
     ...TEST_DB_CONFIG,
     database: TEST_DB_NAME,
@@ -196,5 +245,6 @@ export default {
   createTestPool,
   createTestDatabase,
   applySchema,
+  assertSafeTestDatabaseTarget,
   TEST_DB_NAME,
 };

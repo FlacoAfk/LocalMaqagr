@@ -10,6 +10,7 @@
 
 import React, { useState, useEffect, useCallback, useRef } from "react";
 import { useNavigate } from "react-router-dom";
+import { createImplementWizardForm } from "../../../lib/calculatorWizardState";
 import { sileo } from "sileo";
 import { PiTractorFill as TractorImg } from "react-icons/pi";
 import MachineImg from "../../../assets/icons/plow.webp";
@@ -146,24 +147,7 @@ export default function DatosImplemento() {
   const [busqueda, setBusqueda] = useState("");
   const [slopeFocused, setSlopeFocused] = useState(false);
 
-  const [formData, setFormData] = useState({
-    // Paso 1
-    implement_type: "",
-    working_width_m: "",
-    working_depth_cm: "",
-    weight_kg: "",
-    working_speed_kmh: "",
-    power_requirement_hp: "",
-    n_tines: "",
-    tiro: "",
-    draft_unit: "kg/m",
-    n_surcos: "",
-    implement_weight_kg: "",
-
-    // Paso 2
-    soil_type: "",
-    slope_percentage: "",
-  });
+  const [formData, setFormData] = useState(createImplementWizardForm);
 
   // Tipos específicos: la potencia se calcula desde la geometría de la labor
   const isDirectType = TIPOS_DIRECTOS_SET.has(formData.implement_type);
@@ -400,17 +384,7 @@ export default function DatosImplemento() {
 
   const resetWizard = () => {
     setStep(1);
-    setFormData({
-      implement_type: "",
-      working_width_m: "",
-      working_depth_cm: "",
-      weight_kg: "",
-      working_speed_kmh: "",
-      power_requirement_hp: "",
-      n_tines: "",
-      soil_type: "",
-      slope_percentage: "",
-    });
+    setFormData(createImplementWizardForm());
     setSelectedImplementId(null);
     setSelectedPowerReq(null);
     setImplementImage(MachineImg);

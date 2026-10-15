@@ -1,12 +1,15 @@
 import { describe, expect, jest, test, beforeEach } from '@jest/globals';
+import sharp from 'sharp';
 
 const mockUnlink = jest.fn();
+const mockMkdir = jest.fn();
+const mockWriteFile = jest.fn();
 
 jest.unstable_mockModule('fs/promises', () => ({
   default: {
     unlink: mockUnlink,
-    mkdir: jest.fn(),
-    writeFile: jest.fn(),
+    mkdir: mockMkdir,
+    writeFile: mockWriteFile,
   },
   __esModule: true,
 }));
@@ -25,7 +28,79 @@ const {
   deleteImage,
   extractImagePath,
   resolveDiskPath,
+  uploadImage,
 } = await import('../../../src/config/storage.js');
+
+describe('local upload raster validation', () => {
+  beforeEach(() => {
+    mockMkdir.mockReset();
+    mockWriteFile.mockReset();
+  });
+
+  test.each([
+    ['payload.html', '<html><script>alert(1)</script></html>'],
+    ['payload.js', 'alert(document.cookie)'],
+    ['payload.svg', '<svg xmlns="http://www.w3.org/2000/svg"><script>alert(1)</script></svg>'],
+  ])('rejects active content %s despite a forged image MIME', async (originalname, content) => {
+    await expect(uploadImage({ originalname, mimetype: 'image/png', buffer: Buffer.from(content) }))
+      .rejects.toMatchObject({ code: 'INVALID_IMAGE', statusCode: 400 });
+    expect(mockMkdir).not.toHaveBeenCalled();
+    expect(mockWriteFile).not.toHaveBeenCalled();
+  });
+
+  test('rejects a truncated image with an accepted magic signature', async () => {
+    await expect(uploadImage({
+      originalname: 'fake.png',
+      mimetype: 'image/png',
+      buffer: Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]),
+    })).rejects.toMatchObject({ code: 'INVALID_IMAGE' });
+    expect(mockWriteFile).not.toHaveBeenCalled();
+  });
+
+  test.each(['png', 'jpeg', 'webp', 'gif'])('decodes %s and stores only canonical WebP bytes', async (format) => {
+    const input = await sharp({ create: {
+      width: 2, height: 2, channels: 4, background: { r: 32, g: 64, b: 128, alpha: 1 },
+    } }).toFormat(format).toBuffer();
+    const url = await uploadImage({ originalname: 'payload.html', mimetype: 'image/png', buffer: input }, 'tractors');
+
+    expect(url).toMatch(/^\/uploads\/tractors\/[a-f0-9-]+-payload\.webp$/);
+    const [diskPath, output, options] = mockWriteFile.mock.calls[0];
+    expect(diskPath).toMatch(/payload\.webp$/);
+    expect(options).toEqual({ flag: 'wx' });
+    expect(output).not.toBe(input);
+    const metadata = await sharp(output).metadata();
+    expect(metadata).toMatchObject({ format: 'webp', width: 2, height: 2 });
+    expect(metadata.exif).toBeUndefined();
+    expect(metadata.xmp).toBeUndefined();
+  });
+
+  test('strips appended executable payload instead of copying original bytes', async () => {
+    const png = await sharp({ create: {
+      width: 1, height: 1, channels: 3, background: '#112233',
+    } }).png().toBuffer();
+    const payload = Buffer.from('<script>uniqueActivePayload()</script>');
+    await uploadImage({ originalname: 'polyglot.js', mimetype: 'image/png', buffer: Buffer.concat([png, payload]) });
+    const output = mockWriteFile.mock.calls[0][1];
+    expect(output.includes(payload)).toBe(false);
+    expect((await sharp(output).metadata()).format).toBe('webp');
+  });
+
+  test('rejects oversized compressed images before writing', async () => {
+    const input = await sharp({ create: {
+      width: 4097, height: 4097, channels: 3, background: '#000000',
+    } }).png().toBuffer();
+    await expect(uploadImage({ originalname: 'large.png', mimetype: 'image/png', buffer: input }))
+      .rejects.toMatchObject({ code: 'INVALID_IMAGE' });
+    expect(mockWriteFile).not.toHaveBeenCalled();
+  });
+
+  test('rejects oversized buffers even when storage is called without Multer', async () => {
+    const buffer = Buffer.alloc(5 * 1024 * 1024 + 1);
+    await expect(uploadImage({ originalname: 'large.png', buffer }))
+      .rejects.toMatchObject({ code: 'INVALID_IMAGE' });
+    expect(mockWriteFile).not.toHaveBeenCalled();
+  });
+});
 
 describe('local storage path safety', () => {
   beforeEach(() => {

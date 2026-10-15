@@ -7,7 +7,7 @@
     "start:local": "concurrently \"cd backend && pnpm run start\" \"cd frontend && pnpm run dev\"",
     "setup:win": "powershell -ExecutionPolicy Bypass -File setup.ps1",
     "setup:unix": "bash setup.sh",
-    "postinstall": "cd backend && pnpm install && cd ../frontend && pnpm install"
+    "postinstall": "pnpm --dir backend install --frozen-lockfile && pnpm --dir frontend install --frozen-lockfile"
   },
   "devDependencies": {
     "concurrently": "9.1.2"
