@@ -3,11 +3,11 @@
 Aplicación de gestión agrícola que corre **completamente en local** sin
 dependencias de nube (sin Cloudinary, sin Supabase, sin Redis externo).
 
-## Catálogo v1.4.1
+## Catálogo v1.4.2
 
 | Conjunto | Registros | Calidad |
 |---|---:|---|
-| Tractores | **3.039** | 100% con potencia, peso, fuerza de tiro, tracción, llantas e imagen |
+| Tractores | **3.043** | 100% con potencia, peso, fuerza de tiro, tracción, llantas e imagen |
 | — Prioritarios (ficha oficial del fabricante en español) | 27 | 78 curados originales; los sin datos completos salieron de la prioridad |
 | Implementos Baldan | **291** | 100% con potencia, ancho, peso, tipo, imagen y ficha del fabricante |
 

@@ -24,13 +24,13 @@ vs. requerida, con recomendaciones de compatibilidad.
   portable + app). CI de GitHub (`build-installer.yml`) compila el instalador
   en cada release publicado y adjunta `MaqAgr-Setup.exe`.
 - **Repo**: https://github.com/FlacoAfk/LocalMaqagr — `main` en `6d13de0`,
-  **release vigente v1.4.1** (la v1.4.0 fue retirada por no incluir MU4501).
+  **release vigente v1.4.2** (la v1.4.0 y v1.4.1 fueron retiradas).
 
 ## 2. Estado actual (cierre 2026-10-02)
 
 | Componente | Estado |
 |---|---|
-| Release | **v1.4.1** con `MaqAgr-Setup.exe` compilado por CI ✓ |
+| Release | **v1.4.2** con `MaqAgr-Setup.exe` compilado por CI ✓ |
 | BD catálogo | **3.043 tractores + 291 implementos, CERO campos faltantes** |
 | Prioritarios | 31 tractores curados con ficha oficial del fabricante (ordenan primero) |
 | Fichas técnicas | **Solo enlaces** (`ficha_pdf_url`), sin PDFs embebidos |
