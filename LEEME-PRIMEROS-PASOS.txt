@@ -60,6 +60,12 @@ SI ALGO FALLA
 • Error 4551 "Control de aplicaciones": falta desactivar Smart App
   Control (ver arriba) o el equipo tiene AppLocker corporativo (pide
   exclusión a TI).
+• Error "Cannot find package ..." al arrancar: la instalación quedó
+  incompleta (antivirus o una política interrumpieron la extracción).
+  Desinstala MaqAgr desde Configuración → Aplicaciones, verifica que
+  no quede carpeta en C:\Program Files\MaqAgr, y reinstala el
+  instalador v1.4.5 o superior como administrador. Tus datos en
+  C:\ProgramData\MaqAgr NO se borran al desinstalar.
 • La consola muestra "NOTICE: la columna ya existe, omitiendo": es
   normal (migraciones idempotentes), no es un error.
 
