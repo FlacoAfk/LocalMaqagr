@@ -64,7 +64,8 @@ SI ALGO FALLA
   incompleta (antivirus o una política interrumpieron la extracción).
   Desinstala MaqAgr desde Configuración → Aplicaciones, verifica que
   no quede carpeta en C:\Program Files\MaqAgr, y reinstala el
-  instalador v1.4.5 o superior como administrador. Tus datos en
+  instalador v1.4.7 o superior como administrador (desde esa version el
+  launcher se autorrepara solo desde una copia de respaldo integrada). Tus datos en
   C:\ProgramData\MaqAgr NO se borran al desinstalar.
 • La consola muestra "NOTICE: la columna ya existe, omitiendo": es
   normal (migraciones idempotentes), no es un error.

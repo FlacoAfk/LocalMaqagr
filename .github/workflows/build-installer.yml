@@ -90,6 +90,16 @@ jobs:
             Write-Host "::warning::No se encontró sharp en .pnpm; el instalador podría fallar al cargar imágenes"
           }
 
+      - name: Bundle vendor backup of critical JS modules
+        # Some machines deterministically lose node_modules/ip-address during
+        # installer extraction. The launcher self-heals from this zip when a
+        # critical module is missing instead of failing with ERR_MODULE_NOT_FOUND.
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force -Path backend\vendor | Out-Null
+          Compress-Archive -Path backend\node_modules\ip-address, backend\node_modules\express-rate-limit -DestinationPath backend\vendor\modulos-criticos.zip -Force
+          Write-Host ("respaldo vendor: " + (Get-Item backend\vendor\modulos-criticos.zip).Length + " bytes")
+
       - name: Verify backend node_modules resolvability
         shell: pwsh
         run: |

@@ -8,7 +8,7 @@
 ; Version can be overridden from the CLI (CI passes the release tag):
 ;   ISCC.exe /DMyAppVersionOverride=1.2.3 MaqAgr-Installer.iss
 #ifndef MyAppVersionOverride
-  #define MyAppVersion   "1.4.6"
+  #define MyAppVersion   "1.4.7"
 #else
   #define MyAppVersion   MyAppVersionOverride
 #endif
@@ -47,6 +47,10 @@ Name: "desktopicon"; Description: "Crear un acceso directo en el escritorio"; Gr
 [Dirs]
 ; Runtime database, logs and uploads must be writable by standard users.
 ; Application binaries remain protected under Program Files.
+; node_modules stays writable so the launcher can self-heal a partially
+; extracted install from the vendor backup (some machines deterministically
+; lose node_modules/ip-address during extraction).
+Name: "{app}\app\backend\node_modules";  Permissions: users-modify
 Name: "{commonappdata}\MaqAgr\pgdata";            Permissions: users-modify; Flags: uninsneveruninstall
 Name: "{commonappdata}\MaqAgr\logs";              Permissions: users-modify; Flags: uninsneveruninstall
 Name: "{commonappdata}\MaqAgr\uploads";           Permissions: users-modify; Flags: uninsneveruninstall

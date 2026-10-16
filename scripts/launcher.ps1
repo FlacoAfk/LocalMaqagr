@@ -291,6 +291,37 @@ foreach ($mod in $criticalModules) {
         $missingModules += $mod
     }
 }
+# --- Step 4c: Autorreparacion desde la copia de respaldo del instalador ---
+# Algunas maquinas pierden deterministicamente una carpeta de node_modules
+# durante la extraccion (observado con ip-address). El instalador trae un zip
+# de respaldo de los modulos JS criticos; si falta alguno, se restaura solo.
+if ($missingModules.Count -gt 0) {
+    $vendorZip = Join-Path $backendDir 'vendor\modulos-criticos.zip'
+    if (Test-Path $vendorZip) {
+        Write-Host "[MaqAgr] Faltan modulos; restaurando desde la copia de respaldo del instalador..." -ForegroundColor Cyan
+        $restoreTmp = Join-Path ([System.IO.Path]::GetTempPath()) ('maqagr-restore-' + [guid]::NewGuid().ToString('N'))
+        try {
+            Expand-Archive -Path $vendorZip -DestinationPath $restoreTmp -Force
+            foreach ($mod in $missingModules) {
+                $srcDir = Join-Path $restoreTmp $mod
+                if (Test-Path $srcDir) {
+                    Copy-Item -Path $srcDir -Destination (Join-Path $backendDir "node_modules\$mod") -Recurse -Force
+                    Write-Host "[MaqAgr] restaurado: $mod" -ForegroundColor Green
+                }
+            }
+        } catch {
+            Write-Host "[MaqAgr] Aviso: la autorreparacion no pudo completarse ($($_.Exception.Message))" -ForegroundColor DarkYellow
+        } finally {
+            Remove-Item $restoreTmp -Recurse -Force -ErrorAction SilentlyContinue
+        }
+        # Re-verificar tras la restauracion
+        $missingModules = @()
+        foreach ($mod in $criticalModules) {
+            if (-not (Test-Path (Join-Path $backendDir "node_modules\$mod\package.json"))) { $missingModules += $mod }
+        }
+    }
+}
+
 if ($missingModules.Count -gt 0) {
     Write-Host "[MaqAgr] ERROR: La instalacion quedo incompleta." -ForegroundColor Red
     Write-Host "[MaqAgr] Faltan modulos: $($missingModules -join ', ')." -ForegroundColor Red
