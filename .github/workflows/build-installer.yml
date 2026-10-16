@@ -94,10 +94,25 @@ jobs:
         # Some machines deterministically lose node_modules/ip-address during
         # installer extraction. The launcher self-heals from this zip when a
         # critical module is missing instead of failing with ERR_MODULE_NOT_FOUND.
+        # Compress-Archive cannot read pnpm junctions directly, so the modules
+        # are first staged as real files: from the .pnpm store (always real)
+        # when present, else from node_modules root.
         shell: pwsh
         run: |
+          $stage = Join-Path $env:TEMP ('maqagr-vendor-' + [guid]::NewGuid().ToString('N'))
+          New-Item -ItemType Directory -Force -Path $stage | Out-Null
+          foreach ($m in @('ip-address','express-rate-limit')) {
+            $src = $null
+            $store = Get-ChildItem "backend\node_modules\.pnpm" -Directory -Filter "$m@*" -ErrorAction SilentlyContinue | Select-Object -First 1
+            if ($store) { $src = Join-Path $store.FullName "node_modules\$m" }
+            elseif (Test-Path "backend\node_modules\$m") { $src = "backend\node_modules\$m" }
+            if (-not $src -or -not (Test-Path $src)) { throw "modulo $m no ubicado para el respaldo" }
+            Copy-Item -Path $src -Destination (Join-Path $stage $m) -Recurse -Force
+            Write-Host "respaldo: $m desde $src"
+          }
           New-Item -ItemType Directory -Force -Path backend\vendor | Out-Null
-          Compress-Archive -Path backend\node_modules\ip-address, backend\node_modules\express-rate-limit -DestinationPath backend\vendor\modulos-criticos.zip -Force
+          Compress-Archive -Path (Join-Path $stage '*') -DestinationPath backend\vendor\modulos-criticos.zip -Force
+          Remove-Item $stage -Recurse -Force -ErrorAction SilentlyContinue
           Write-Host ("respaldo vendor: " + (Get-Item backend\vendor\modulos-criticos.zip).Length + " bytes")
 
       - name: Verify backend node_modules resolvability
