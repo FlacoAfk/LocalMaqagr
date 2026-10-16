@@ -46,7 +46,10 @@ proposal.md
 designs/
 
 # Project docs
-INFORME*
+/INFORME*
 *.docx
 tasks-deployment-readiness.json
 .atl/
+
+# logs de diagnóstico del launcher (locales, no forman parte del producto)
+out/launcher*.log
