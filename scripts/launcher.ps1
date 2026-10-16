@@ -280,6 +280,30 @@ $env:UPLOAD_DIR    = $uploadsDir
 $env:LOG_DIR       = $logsDir
 $env:FRONTEND_DIST = $frontendDist
 
+# --- Step 4b: Pre-flight de módulos críticos ---
+# Una instalación interrumpida (antivirus, política de seguridad, cierre del
+# instalador) deja node_modules incompleto y node muere con un
+# ERR_MODULE_NOT_FOUND que no le dice nada al usuario. Verificamos antes.
+$criticalModules = @('ip-address', 'express-rate-limit', 'sharp', 'detect-libc')
+$missingModules = @()
+foreach ($mod in $criticalModules) {
+    if (-not (Test-Path (Join-Path $backendDir "node_modules\$mod\package.json"))) {
+        $missingModules += $mod
+    }
+}
+if ($missingModules.Count -gt 0) {
+    Write-Host "[MaqAgr] ERROR: La instalacion quedo incompleta." -ForegroundColor Red
+    Write-Host "[MaqAgr] Faltan modulos: $($missingModules -join ', ')." -ForegroundColor Red
+    Write-Host "" -ForegroundColor Red
+    Write-Host "[MaqAgr] Para repararla:" -ForegroundColor Yellow
+    Write-Host "  1) Configuracion > Aplicaciones > MaqAgr > Desinstalar" -ForegroundColor Yellow
+    Write-Host "  2) Si la carpeta queda, borra: C:\Program Files\MaqAgr" -ForegroundColor Yellow
+    Write-Host "  3) Ejecuta MaqAgr-Setup.exe como administrador (descargalo de nuevo" -ForegroundColor Yellow
+    Write-Host "     de la pagina de releases del proyecto)" -ForegroundColor Yellow
+    Read-Host "Presiona Enter para salir"
+    exit 1
+}
+
 # --- Step 5: Start backend ---
 Write-Host "[MaqAgr] Starting application server..." -ForegroundColor Green
 $nodeExe = Join-Path $nodeDir 'node.exe'
