@@ -72,8 +72,6 @@ Source: "runtime\pgsql\*";            DestDir: "{app}\runtime\pgsql"; Flags: rec
 ; --- Backend (source + node_modules + database SQL) ---
 ; Excludes: .git (VCS), .env (dev config — launcher sets env at runtime), uploads (dev artifacts)
 Source: "backend\*";                   DestDir: "{app}\app\backend"; Excludes: ".git\*,.env,.env.*,.env.*\*,uploads\*,coverage\*,tests\*,src\__tests__\*"; Flags: recursesubdirs ignoreversion
-; pnpm store needed for symlinks inside node_modules
-Source: "backend\.pnpm\*";            DestDir: "{app}\app\backend\.pnpm"; Flags: recursesubdirs ignoreversion
 
 ; --- Frontend production build (dist only) ---
 Source: "frontend\dist\*";            DestDir: "{app}\app\frontend-dist"; Flags: recursesubdirs ignoreversion

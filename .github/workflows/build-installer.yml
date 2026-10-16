@@ -49,6 +49,26 @@ jobs:
         run: |
           pnpm install --frozen-lockfile
 
+      - name: Dereference pnpm junctions in backend/node_modules
+        # pnpm creates junctions (reparse points) inside node_modules.
+        # Inno Setup copies them as links, which break on the target machine.
+        # We materialize them by replacing each junction with a real copy.
+        shell: pwsh
+        run: |
+          $nodeModules = "backend\node_modules"
+          if (Test-Path $nodeModules) {
+            Get-ChildItem $nodeModules -Recurse -Attributes ReparsePoint -Force | ForEach-Object {
+              $target = (Get-Item $_.FullName).Target
+              if ($target -and (Test-Path $target)) {
+                Write-Host "Dereferencing $($_.FullName) -> $target"
+                Remove-Item $_.FullName -Force -Recurse
+                Copy-Item -Path $target -Destination $_.FullName -Recurse -Force
+              }
+            }
+          } else {
+            Write-Host "::warning::backend\\node_modules not found"
+          }
+
       - name: Materialize sharp dependency tree (pnpm links break in Inno payload)
         # sharp (runtime dep, storage.js) resuelve sus transitivas (detect-libc,
         # @img/*) por enlaces de pnpm que Inno no preserva al copiar: el
