@@ -297,26 +297,44 @@ if (Test-Path $nmMarker) { $nmPrevious = (Get-Content -LiteralPath $nmMarker -Ra
 if ($nmFingerprint -and ($nmPrevious -ne $nmFingerprint)) {
     Write-Host "[MaqAgr] Preparing server modules (this can take a few minutes)..." -ForegroundColor Cyan
     # Keep the node_modules root (it carries the users-modify permission);
-    # clear only its contents so the extraction starts from a clean slate.
+    # clear only its contents. Mirror an empty directory with robocopy /MIR:
+    # it deletes everything inside node_modules, including long paths
+    # (>260 chars) that Remove-Item cannot handle under PS 5.1.
     if (Test-Path $nmRoot) {
-        Get-ChildItem -LiteralPath $nmRoot -Force -ErrorAction SilentlyContinue |
-            Remove-Item -Recurse -Force -ErrorAction SilentlyContinue
+        $emptyDir = Join-Path ([System.IO.Path]::GetTempPath()) ('maqagr-empty-' + [guid]::NewGuid().ToString('N'))
+        New-Item -ItemType Directory -Force -Path $emptyDir | Out-Null
+        robocopy $emptyDir $nmRoot /MIR /NFL /NDL /NJH /NJS /NP | Out-Null
+        Remove-Item $emptyDir -Recurse -Force -ErrorAction SilentlyContinue
     }
-    try {
-        # .NET ZipFile is far faster than Expand-Archive for tens of thousands
-        # of files. PS 5.1 (.NET Framework) has the 2-arg overload only, which
-        # is fine: the destination contents were just cleared.
-        Add-Type -AssemblyName System.IO.Compression.FileSystem -ErrorAction SilentlyContinue
-        [System.IO.Compression.ZipFile]::ExtractToDirectory($nmPayload, $backendDir)
-    } catch {
+    $extracted = $false
+    $extractError = ''
+    # 1) tar.exe (bsdtar, bundled with Windows 10+): fast and overwrites.
+    $tarExe = Join-Path $env:SystemRoot 'System32\tar.exe'
+    if (Test-Path $tarExe) {
+        & $tarExe -xf $nmPayload -C $backendDir
+        if ($LASTEXITCODE -eq 0) { $extracted = $true } else { $extractError = "tar exit $LASTEXITCODE" }
+    } else { $extractError = 'tar.exe ausente' }
+    # 2) .NET ZipFile: fast, but cannot overwrite (the clear step above matters).
+    if (-not $extracted) {
+        Write-Host "[MaqAgr] Aviso: tar fallo ($extractError); probando .NET ZipFile..." -ForegroundColor DarkYellow
         try {
-            Write-Host "[MaqAgr] Fast unpack failed ($($_.Exception.Message)); retrying with Expand-Archive..." -ForegroundColor DarkYellow
+            Add-Type -AssemblyName System.IO.Compression.FileSystem -ErrorAction SilentlyContinue
+            [System.IO.Compression.ZipFile]::ExtractToDirectory($nmPayload, $backendDir)
+            $extracted = $true
+        } catch { $extractError = $_.Exception.Message }
+    }
+    # 3) Expand-Archive: slow but ubiquitous.
+    if (-not $extracted) {
+        Write-Host "[MaqAgr] Aviso: .NET ZipFile fallo ($extractError); probando Expand-Archive..." -ForegroundColor DarkYellow
+        try {
             Expand-Archive -Path $nmPayload -DestinationPath $backendDir -Force
-        } catch {
-            Write-Host "[MaqAgr] ERROR: could not unpack server modules ($($_.Exception.Message))." -ForegroundColor Red
-            Read-Host "Press Enter to exit"
-            exit 1
-        }
+            $extracted = $true
+        } catch { $extractError = $_.Exception.Message }
+    }
+    if (-not $extracted) {
+        Write-Host "[MaqAgr] ERROR: no se pudieron descomprimir los modulos del servidor ($extractError)." -ForegroundColor Red
+        Read-Host "Press Enter to exit"
+        exit 1
     }
     New-Item -ItemType File -Path $nmMarker -Force | Out-Null
     Set-Content -LiteralPath $nmMarker -Value $nmFingerprint -NoNewline

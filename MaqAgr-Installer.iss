@@ -8,7 +8,7 @@
 ; Version can be overridden from the CLI (CI passes the release tag):
 ;   ISCC.exe /DMyAppVersionOverride=1.2.3 MaqAgr-Installer.iss
 #ifndef MyAppVersionOverride
-  #define MyAppVersion   "1.4.9"
+  #define MyAppVersion   "1.4.10"
 #else
   #define MyAppVersion   MyAppVersionOverride
 #endif
