@@ -200,6 +200,9 @@ jobs:
           Remove-Item $stage -Recurse -Force -ErrorAction SilentlyContinue
           Remove-Item backend\node_modules -Recurse -Force
           Write-Host ("payload node_modules.zip: " + [math]::Round((Get-Item backend\vendor\node_modules.zip).Length / 1MB, 1) + " MB")
+          # robocopy exits 1 on plain success; the pwsh wrapper would propagate
+          # that as the step's exit code, so close explicitly.
+          exit 0
 
       - name: Compile installer
         shell: pwsh
