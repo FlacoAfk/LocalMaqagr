@@ -53,3 +53,6 @@ tasks-deployment-readiness.json
 
 # logs de diagnóstico del launcher (locales, no forman parte del producto)
 out/launcher*.log
+
+# instaladores descargados para pruebas (no forman parte del repo)
+MaqAgr-Setup.exe

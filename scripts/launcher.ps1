@@ -283,13 +283,19 @@ $env:FRONTEND_DIST = $frontendDist
 # --- Step 4a: Unpack node_modules payload (first run or upgrade) ---
 # The installer ships server dependencies as ONE archive (vendor/node_modules.zip)
 # instead of ~24k loose files: some machines deterministically lose random
-# folders during a mass extraction. We unpack it once and mark completion, so
-# upgrades over an older (loose) node_modules also get a clean replacement.
+# folders during a mass extraction. We unpack it once and record the zip's
+# size+mtime in the marker, so an upgraded payload re-extracts automatically.
 $nmRoot = Join-Path $backendDir 'node_modules'
 $nmPayload = Join-Path $backendDir 'vendor\node_modules.zip'
 $nmMarker = Join-Path $nmRoot '.maqagr-node-modules-ok'
-if ((Test-Path $nmPayload) -and (-not (Test-Path $nmMarker))) {
-    Write-Host "[MaqAgr] First run: unpacking server modules (this can take 1-3 minutes)..." -ForegroundColor Cyan
+$nmFingerprint = if (Test-Path $nmPayload) {
+    $z = Get-Item $nmPayload
+    "$($z.Length):$($z.LastWriteTimeUtc.Ticks)"
+} else { '' }
+$nmPrevious = ''
+if (Test-Path $nmMarker) { $nmPrevious = (Get-Content -LiteralPath $nmMarker -Raw -ErrorAction SilentlyContinue) }
+if ($nmFingerprint -and ($nmPrevious -ne $nmFingerprint)) {
+    Write-Host "[MaqAgr] Preparing server modules (this can take a few minutes)..." -ForegroundColor Cyan
     # Keep the node_modules root (it carries the users-modify permission);
     # clear only its contents so the extraction starts from a clean slate.
     if (Test-Path $nmRoot) {
@@ -297,14 +303,24 @@ if ((Test-Path $nmPayload) -and (-not (Test-Path $nmMarker))) {
             Remove-Item -Recurse -Force -ErrorAction SilentlyContinue
     }
     try {
-        Expand-Archive -Path $nmPayload -DestinationPath $backendDir -Force
-        New-Item -ItemType File -Path $nmMarker -Force | Out-Null
-        Write-Host "[MaqAgr] Server modules unpacked." -ForegroundColor Green
+        # .NET ZipFile is far faster than Expand-Archive for tens of thousands
+        # of files. PS 5.1 (.NET Framework) has the 2-arg overload only, which
+        # is fine: the destination contents were just cleared.
+        Add-Type -AssemblyName System.IO.Compression.FileSystem -ErrorAction SilentlyContinue
+        [System.IO.Compression.ZipFile]::ExtractToDirectory($nmPayload, $backendDir)
     } catch {
-        Write-Host "[MaqAgr] ERROR: could not unpack server modules ($($_.Exception.Message))." -ForegroundColor Red
-        Read-Host "Press Enter to exit"
-        exit 1
+        try {
+            Write-Host "[MaqAgr] Fast unpack failed ($($_.Exception.Message)); retrying with Expand-Archive..." -ForegroundColor DarkYellow
+            Expand-Archive -Path $nmPayload -DestinationPath $backendDir -Force
+        } catch {
+            Write-Host "[MaqAgr] ERROR: could not unpack server modules ($($_.Exception.Message))." -ForegroundColor Red
+            Read-Host "Press Enter to exit"
+            exit 1
+        }
     }
+    New-Item -ItemType File -Path $nmMarker -Force | Out-Null
+    Set-Content -LiteralPath $nmMarker -Value $nmFingerprint -NoNewline
+    Write-Host "[MaqAgr] Server modules ready." -ForegroundColor Green
 }
 
 # --- Step 4b: Pre-flight de módulos críticos ---

@@ -47,7 +47,12 @@ jobs:
         # Root postinstall installs backend and frontend dependencies too,
         # which the .iss packs as backend\* (source + node_modules + SQL).
         run: |
-          pnpm install --frozen-lockfile
+          # --config.node-linker=hoisted forces an npm-style FLAT tree of real
+          # files: no junctions, no hidden sibling deps in .pnpm. Without it the
+          # runner installs the isolated layout, whose links break once the
+          # payload is zipped and extracted on target machines (the missing
+          # body-parser / ip-address class of errors).
+          pnpm install --frozen-lockfile --config.node-linker=hoisted
 
       - name: Dereference pnpm junctions in backend/node_modules
         # pnpm creates junctions (reparse points) inside node_modules.
