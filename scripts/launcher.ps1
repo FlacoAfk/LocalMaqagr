@@ -280,6 +280,33 @@ $env:UPLOAD_DIR    = $uploadsDir
 $env:LOG_DIR       = $logsDir
 $env:FRONTEND_DIST = $frontendDist
 
+# --- Step 4a: Unpack node_modules payload (first run or upgrade) ---
+# The installer ships server dependencies as ONE archive (vendor/node_modules.zip)
+# instead of ~24k loose files: some machines deterministically lose random
+# folders during a mass extraction. We unpack it once and mark completion, so
+# upgrades over an older (loose) node_modules also get a clean replacement.
+$nmRoot = Join-Path $backendDir 'node_modules'
+$nmPayload = Join-Path $backendDir 'vendor\node_modules.zip'
+$nmMarker = Join-Path $nmRoot '.maqagr-node-modules-ok'
+if ((Test-Path $nmPayload) -and (-not (Test-Path $nmMarker))) {
+    Write-Host "[MaqAgr] First run: unpacking server modules (this can take 1-3 minutes)..." -ForegroundColor Cyan
+    # Keep the node_modules root (it carries the users-modify permission);
+    # clear only its contents so the extraction starts from a clean slate.
+    if (Test-Path $nmRoot) {
+        Get-ChildItem -LiteralPath $nmRoot -Force -ErrorAction SilentlyContinue |
+            Remove-Item -Recurse -Force -ErrorAction SilentlyContinue
+    }
+    try {
+        Expand-Archive -Path $nmPayload -DestinationPath $backendDir -Force
+        New-Item -ItemType File -Path $nmMarker -Force | Out-Null
+        Write-Host "[MaqAgr] Server modules unpacked." -ForegroundColor Green
+    } catch {
+        Write-Host "[MaqAgr] ERROR: could not unpack server modules ($($_.Exception.Message))." -ForegroundColor Red
+        Read-Host "Press Enter to exit"
+        exit 1
+    }
+}
+
 # --- Step 4b: Pre-flight de módulos críticos ---
 # Una instalación interrumpida (antivirus, política de seguridad, cierre del
 # instalador) deja node_modules incompleto y node muere con un
