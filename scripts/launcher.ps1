@@ -203,11 +203,15 @@ if ($tableCountNum -gt 0) {
     # The fallback baseline already includes BEGIN/COMMIT.
     $transactionArgs = if ($schemaFile -eq $supabaseDump) { @('--single-transaction') } else { @() }
     $schemaOutput = & "$pgBin\psql.exe" -X -h 127.0.0.1 -p $pgPort -U $pgUser -d $dbName -w -v ON_ERROR_STOP=1 @transactionArgs -f $schemaFile 2>&1
-    $schemaOutput | Out-Host
     if ($LASTEXITCODE -ne 0) {
+        $schemaOutput | Out-Host
         Write-Host "[MaqAgr] ERROR: Failed to apply schema (exit $LASTEXITCODE)" -ForegroundColor Red
         Read-Host "Press Enter to exit"
         exit 1
+    } else {
+        $schemaErrores = @($schemaOutput | Where-Object { "$_" -match 'ERROR|FATAL' })
+        if ($schemaErrores.Count -gt 0) { $schemaErrores | Out-Host }
+        Write-Host "[MaqAgr] Schema applied." -ForegroundColor DarkGray
     }
 }
 
@@ -223,13 +227,28 @@ if (($markerExists -join '').Trim() -eq 't') {
 }
 if (($baselineApplied -join '').Trim() -ne 'baseline-008') {
     $baselineOutput = & "$pgBin\psql.exe" -X -h 127.0.0.1 -p $pgPort -U $pgUser -d $dbName -w -v ON_ERROR_STOP=1 -f (Join-Path $backendDir 'database\02-schema-migrations.sql') -c "BEGIN; CREATE TABLE IF NOT EXISTS public.maqagr_schema_migrations (version TEXT PRIMARY KEY, applied_at TIMESTAMPTZ NOT NULL DEFAULT now()); INSERT INTO public.maqagr_schema_migrations(version) VALUES ('baseline-008') ON CONFLICT DO NOTHING; COMMIT;" 2>&1
-    $baselineOutput | Out-Host
-    if ($LASTEXITCODE -ne 0) { Write-Host '[MaqAgr] ERROR: Baseline migration failed. Startup aborted.' -ForegroundColor Red; exit 1 }
+    if ($LASTEXITCODE -ne 0) {
+        $baselineOutput | Out-Host
+        Write-Host '[MaqAgr] ERROR: Baseline migration failed. Startup aborted.' -ForegroundColor Red; exit 1
+    } else {
+        $baselineErrores = @($baselineOutput | Where-Object { "$_" -match 'ERROR|FATAL' })
+        if ($baselineErrores.Count -gt 0) { $baselineErrores | Out-Host }
+        Write-Host "[MaqAgr] Baseline verified." -ForegroundColor DarkGray
+    }
 }
 # Idempotent forward migrations apply on every launch, including legacy DBs.
 $migrationOutput = & "$pgBin\psql.exe" -X -h 127.0.0.1 -p $pgPort -U $pgUser -d $dbName -w -v ON_ERROR_STOP=1 --single-transaction -f (Join-Path $backendDir 'database\migrations\009_add_ficha_pdf.sql') -f (Join-Path $backendDir 'database\migrations\010_add_prioridad.sql') -f (Join-Path $backendDir 'database\migrations\011_add_mfwd_traction_type.sql') 2>&1
-$migrationOutput | Out-Host
-if ($LASTEXITCODE -ne 0) { Write-Host '[MaqAgr] ERROR: Schema upgrade failed. Startup aborted.' -ForegroundColor Red; exit 1 }
+if ($LASTEXITCODE -ne 0) {
+    $migrationOutput | Out-Host
+    Write-Host '[MaqAgr] ERROR: Schema upgrade failed. Startup aborted.' -ForegroundColor Red; exit 1
+} else {
+    # psql escribe los NOTICE idempotentes por stderr y PowerShell 5.1 los
+    # pinta como RemoteException; con exit 0 se ocultan y solo se muestran
+    # errores reales.
+    $migrationErrores = @($migrationOutput | Where-Object { "$_" -match 'ERROR|FATAL' })
+    if ($migrationErrores.Count -gt 0) { $migrationErrores | Out-Host }
+    Write-Host "[MaqAgr] Schema up to date." -ForegroundColor DarkGray
+}
 Remove-Item Env:\PGPASSWORD
 Remove-Item Env:\PGCLIENTENCODING
 Remove-Item Env:\PGCONNECT_TIMEOUT

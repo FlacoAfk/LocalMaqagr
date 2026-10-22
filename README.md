@@ -3,7 +3,7 @@
 Aplicación de gestión agrícola que corre **completamente en local** sin
 dependencias de nube (sin Cloudinary, sin Supabase, sin Redis externo).
 
-## Catálogo v1.4.10
+## Catálogo v1.4.11
 
 | Conjunto | Registros | Calidad |
 |---|---:|---|
