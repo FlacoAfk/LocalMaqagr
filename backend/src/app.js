@@ -129,7 +129,7 @@ app.use(errorHandler);
 
 // Solo iniciar servidor si no estamos en modo test (supertest maneja su propio servidor)
 if (process.env.NODE_ENV !== "test") {
-  const PORT = process.env.PORT || 4000;
+  const PORT = process.env.PORT || 24688;
   const HOST = process.env.HOST || '127.0.0.1';
 
   const startServer = async () => {

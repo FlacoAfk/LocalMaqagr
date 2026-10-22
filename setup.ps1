@@ -177,6 +177,6 @@ Write-Host "║   To start the application:              ║" -ForegroundColor G
 Write-Host "║                                          ║" -ForegroundColor Green
 Write-Host "║   .\launch.ps1                           ║" -ForegroundColor Green
 Write-Host "║                                          ║" -ForegroundColor Green
-Write-Host "║   Backend:  http://localhost:4000         ║" -ForegroundColor Green
+Write-Host "║   Backend:  http://localhost:24688         ║" -ForegroundColor Green
 Write-Host "║   Frontend: http://localhost:5173         ║" -ForegroundColor Green
 Write-Host "╚══════════════════════════════════════════╝`n" -ForegroundColor Green

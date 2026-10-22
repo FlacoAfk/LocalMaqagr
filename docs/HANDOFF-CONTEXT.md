@@ -24,19 +24,19 @@ vs. requerida, con recomendaciones de compatibilidad.
   portable + app). CI de GitHub (`build-installer.yml`) compila el instalador
   en cada release publicado y adjunta `MaqAgr-Setup.exe`.
 - **Repo**: https://github.com/FlacoAfk/LocalMaqagr — `main` en `6d13de0`,
-  **release vigente v1.4.11** (la v1.4.5 verificada 20/20 queda como historial; la v1.4.0 a la v1.4.4 fueron retiradas).
+  **release vigente v1.5.0** (puertos: app 24688, PostgreSQL 25435, Vite dev 25173) (la v1.4.5 verificada 20/20 queda como historial; la v1.4.0 a la v1.4.4 fueron retiradas).
 
 ## 2. Estado actual (cierre 2026-10-02)
 
 | Componente | Estado |
 |---|---|
-| Release | **v1.4.11** con `MaqAgr-Setup.exe` compilado por CI ✓ |
+| Release | **v1.5.0** con `MaqAgr-Setup.exe` compilado por CI ✓ |
 | BD catálogo | **3.043 tractores + 291 implementos, CERO campos faltantes** |
 | Prioritarios | 31 tractores curados con ficha oficial del fabricante (ordenan primero) |
 | Fichas técnicas | **Solo enlaces** (`ficha_pdf_url`), sin PDFs embebidos |
 | Imágenes | WebP 800px/q55 (~45 KB promedio) en `install-assets/uploads` |
 | Versiones | 1.4.1 en `MaqAgr-Installer.iss` y los 3 `package.json` |
-| Puerto 4000 | Backend del **repo** (`pnpm run start` en backend/, con nodemon) |
+| Puerto 24688 | Backend del **repo** (`pnpm run start` en backend/, con nodemon) |
 
 ### Regla de calidad de BD (decisión del usuario, obligatoria)
 «Si a un tractor/implemento le falta uno o varios datos, **búscalos** (fichas
@@ -103,7 +103,7 @@ P_BDT  = P_EJE · ET            (ET de Fig. 47 de Zoz & Grisso, columna AXLE)
 - **Semilla**: `backend/database/03-supabase-data.sql` (pg_dump COPY, 0,63 MB)
   — el instalador la aplica en la primera ejecución. **Regenerar con
   pg_dump DESPUÉS de cualquier cambio en BD**:
-  `C:\Program Files\MaqAgr\runtime\pgsql\bin\pg_dump.exe -h 127.0.0.1 -p 5435 -U postgres -d maqagr_local --no-owner --no-privileges --no-comments`
+  `C:\Program Files\MaqAgr\runtime\pgsql\bin\pg_dump.exe -h 127.0.0.1 -p 25435 -U postgres -d maqagr_local --no-owner --no-privileges --no-comments`
   con `PGPASSWORD=postgres`.
 - **prioridad BOOLEAN**: los 27-31 curados (ficha oficial fabricante en
   español: brochures CNH/Massey, fichas dieselkubota.com.co y
@@ -162,14 +162,14 @@ P_BDT  = P_EJE · ET            (ET de Fig. 47 de Zoz & Grisso, columna AXLE)
 ## 6. Infraestructura local (crítico para operar)
 
 - **BD dev = Postgres portable de la app instalada**: `C:\ProgramData\MaqAgr\pgdata`,
-  puerto **5435** (backend/.env: postgres/postgres). **Muere cada pocas horas**
-  (kill abrupto sin crash log). Rearrancar: `postgres.exe -D C:\ProgramData\MaqAgr\pgdata -p 5435`
+  puerto **25435** (backend/.env: postgres/postgres). **Muere cada pocas horas**
+  (kill abrupto sin crash log). Rearrancar: `postgres.exe -D C:\ProgramData\MaqAgr\pgdata -p 25435`
   vía PowerShell `Start-Process -WindowStyle Hidden` (con `-NoNewWindow` muere
   al cerrar la consola padre) tras borrar un `postmaster.pid` rancio.
 - Servicio Windows `postgresql-x64-18` en **5433** — NO es de MaqAgr, no tocar.
 - **dotenv lee ./.env según cwd**: correr scripts con cwd=`backend/scripts/scraping/`;
-  desde `backend/` carga el .env (5435). Desde la raíz falla.
-- **Puerto 4000**: verificar SIEMPRE quién escucha antes de depurar
+  desde `backend/` carga el .env (25435). Desde la raíz falla.
+- **Puerto 24688**: verificar SIEMPRE quién escucha antes de depurar
   (`Get-CimInstance Win32_Process -Filter "ProcessId=<pid>"`): puede ser el
   backend del repo (correcto) o la **app instalada** (backend viejo, sin CSP
   nueva ni ORDER BY prioridad) si el usuario rearrancó con
@@ -242,15 +242,15 @@ P_BDT  = P_EJE · ET            (ET de Fig. 47 de Zoz & Grisso, columna AXLE)
 ## 10. Comandos frecuentes
 
 ```bash
-# Backend dev (puerto 4000)
+# Backend dev (puerto 24688)
 cd backend && pnpm run start
 # Frontend build
 cd frontend && pnpm build
 # Tests backend
 cd backend && pnpm test
-# Rearrancar Postgres portable (si 5435 no responde)
-powershell -Command "Start-Process 'C:\Program Files\MaqAgr\runtime\pgsql\bin\postgres.exe' -ArgumentList '-D','C:\ProgramData\MaqAgr\pgdata','-p','5435' -WindowStyle Hidden"
+# Rearrancar Postgres portable (si 25435 no responde)
+powershell -Command "Start-Process 'C:\Program Files\MaqAgr\runtime\pgsql\bin\postgres.exe' -ArgumentList '-D','C:\ProgramData\MaqAgr\pgdata','-p','25435' -WindowStyle Hidden"
 # Regenerar semilla del instalador
-PGPASSWORD=postgres "/c/Program Files/MaqAgr/runtime/pgsql/bin/pg_dump.exe" -h 127.0.0.1 -p 5435 -U postgres -d maqagr_local --no-owner --no-privileges --no-comments -f backend/database/03-supabase-data.sql
+PGPASSWORD=postgres "/c/Program Files/MaqAgr/runtime/pgsql/bin/pg_dump.exe" -h 127.0.0.1 -p 25435 -U postgres -d maqagr_local --no-owner --no-privileges --no-comments -f backend/database/03-supabase-data.sql
 # Release: push del tag + gh release create vX.Y.Z (el CI adjunta el instalador)
 ```

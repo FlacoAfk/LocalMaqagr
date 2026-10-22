@@ -1,7 +1,7 @@
 # MaqAgr Local — Launch Script
 param(
-    [ValidateRange(1, 65535)][int]$BackendPort = 4000,
-    [ValidateRange(1, 65535)][int]$FrontendPort = 5173
+    [ValidateRange(1, 65535)][int]$BackendPort = 24688,
+    [ValidateRange(1, 65535)][int]$FrontendPort = 25173
 )
 
 $ProjectRoot = Split-Path -Parent $MyInvocation.MyCommand.Path

@@ -6,7 +6,7 @@ REQUISITOS
 ----------
 • Windows 10/11 de 64 bits.
 • Permisos de administrador para instalar.
-• Puertos libres: 4000 (app) y 5435 (base de datos local incluida).
+• Puertos libres: 24688 (app) y 25435 (base de datos local incluida).
 
 IMPORTANTE ANTES DE INSTALAR (Windows 11 nuevo)
 -----------------------------------------------
@@ -39,8 +39,8 @@ INSTALACIÓN
 
 PRIMER USO
 ----------
-• La aplicación vive en:  http://localhost:4000
-• Estado del servidor:    http://localhost:4000/health
+• La aplicación vive en:  http://localhost:24688
+• Estado del servidor:    http://localhost:24688/health
 • Catálogos:              Catálogo → Tractores / Maquinaria
                           (los tractores con ficha oficial aparecen primero)
 • Calculadora:            Tengo tractor / Tengo maquinaria / Busco equipo
@@ -58,7 +58,7 @@ Desinstalar NO borra esos datos; se conservan para reinstalaciones.
 SI ALGO FALLA
 -------------
 • Revisa los logs en:  C:\ProgramData\MaqAgr\logs\
-• Puertos ocupados: cierra cualquier proceso que use 4000 o 5435.
+• Puertos ocupados: cierra cualquier proceso que use 24688 o 25435.
 • Error 4551 "Control de aplicaciones": falta desactivar Smart App
   Control (ver arriba) o el equipo tiene AppLocker corporativo (pide
   exclusión a TI).

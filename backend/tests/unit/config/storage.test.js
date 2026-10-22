@@ -110,7 +110,7 @@ describe('local storage path safety', () => {
   test('normalizes known local URL formats and keeps paths inside the root', () => {
     expect(extractImagePath('/uploads/tractors/tractor-1.jpg')).toBe('tractors/tractor-1.jpg');
     expect(extractImagePath('uploads/implements/implement-1.webp')).toBe('implements/implement-1.webp');
-    expect(extractImagePath('http://localhost:4000/uploads/tractors/tractor-1.jpg')).toBe('tractors/tractor-1.jpg');
+    expect(extractImagePath('http://localhost:24688/uploads/tractors/tractor-1.jpg')).toBe('tractors/tractor-1.jpg');
     expect(resolveDiskPath('/uploads/tractors/tractor-1.jpg')).toMatch(/[\\/]uploads[\\/]tractors[\\/]tractor-1\.jpg$/);
   });
 

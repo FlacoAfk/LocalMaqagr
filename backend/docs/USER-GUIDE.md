@@ -7,7 +7,7 @@ Base URL local sugerida:
 - `http://localhost:3000`
 
 Si ejecutas el backend con configuracion por defecto de `.env`, puede correr en:
-- `http://localhost:4000`
+- `http://localhost:24688`
 
 ## 2. Autenticacion (obtener token)
 La API usa JWT Bearer Token.

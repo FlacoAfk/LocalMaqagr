@@ -3,7 +3,7 @@
 Aplicación de gestión agrícola que corre **completamente en local** sin
 dependencias de nube (sin Cloudinary, sin Supabase, sin Redis externo).
 
-## Catálogo v1.4.11
+## Catálogo v1.5.0
 
 | Conjunto | Registros | Calidad |
 |---|---:|---|
@@ -69,7 +69,7 @@ No se usa Cloudinary ni ningún servicio cloud.
 
 ### Base de datos
 
-PostgreSQL 17 portable corre en el **puerto 5435** (para no chocar
+PostgreSQL 17 portable corre en el **puerto 25435** (para no chocar
 con instancias del sistema). La base de datos `maqagr_local` se
 crea automáticamente en el primer arranque con el schema completo
 + migraciones estructurales.
@@ -110,13 +110,13 @@ Ruta TDP (verificada contra el ejemplo de 350 hp: 246,88 hp):
 de datos y aplica el schema. Puede tardar ~30 segundos.
 
 **Arranques posteriores**: inicia PG + backend y abre el navegador
-en `http://localhost:4000` en ~5 segundos.
+en `http://localhost:24688` en ~5 segundos.
 
 ## Uso
 
 - Doble clic en el acceso directo **MaqAgr** del escritorio.
 - Se abre una consola que muestra el estado del servidor.
-- El navegador se abre automáticamente en `http://localhost:4000`.
+- El navegador se abre automáticamente en `http://localhost:24688`.
 - Para detener: cerrar la ventana de consola.
 
 ## Datos del sistema
@@ -124,7 +124,7 @@ en `http://localhost:4000` en ~5 segundos.
 | Parámetro       | Valor                    |
 |-----------------|--------------------------|
 | Puerto app      | 4000                     |
-| Puerto BD       | 5435                     |
+| Puerto BD       | 25435                     |
 | Usuario BD      | postgres                 |
 | Password BD     | postgres                 |
 | Nombre BD       | maqagr_local             |
@@ -163,12 +163,12 @@ MaqAgr-Local/
 │   │   ├── 01-create-db.sql          CREATE DATABASE idempotente
 │   │   ├── 02-schema-migrations.sql  Schema + migraciones consolidadas
 │   │   └── migrations/               Migraciones originales (referencia)
-│   ├── .env                Config local (DB_PORT=5435, REDIS_ENABLED=false)
+│   ├── .env                Config local (DB_PORT=25435, REDIS_ENABLED=false)
 │   └── package.json
 ├── frontend/
 │   ├── dist/               Build de producción (servido por backend)
 │   ├── src/
-│   └── .env.local          VITE_API_URL=http://localhost:4000
+│   └── .env.local          VITE_API_URL=http://localhost:24688
 └── build/
     └── MaqAgr-Setup.exe    Instalador compilado
 ```
@@ -257,7 +257,7 @@ apply only reviewed schema migrations.
 ```
 
 This starts:
-- **Backend**: http://localhost:4000 (in a new PowerShell window)
+- **Backend**: http://localhost:24688 (in a new PowerShell window)
 - **Frontend**: http://localhost:5173 (in the current window)
 
 Press `Ctrl+C` to stop the frontend. Close the backend window to stop it.
@@ -291,7 +291,7 @@ LocalMaqagr/
 │       ├── schema.sql
 │       └── migrations/
 ├── frontend/         # React + Vite (local copy of MaqAgr)
-│   └── .env          # Points to localhost:4000
+│   └── .env          # Points to localhost:24688
 ├── setup.ps1         # Full installer (Windows)
 ├── setup.sh          # Linux/macOS installer
 ├── launch.ps1        # Launch script (Windows)
@@ -307,7 +307,7 @@ LocalMaqagr/
 | Database | Supabase (remote) | PostgreSQL (localhost) |
 | Redis | Upstash (remote) | Disabled |
 | Image URLs | `https://res.cloudinary.com/...` | `/uploads/tractors/...` |
-| Frontend env | Vercel | `VITE_API_URL=http://localhost:4000` |
+| Frontend env | Vercel | `VITE_API_URL=http://localhost:24688` |
 
 ## Configuration
 
@@ -321,7 +321,7 @@ DB_USER=postgres
 DB_PASS=your_local_database_password
 REDIS_ENABLED=false
 JWT_SECRET=local-dev-secret
-PORT=4000
+PORT=24688
 ```
 
 ## Notes

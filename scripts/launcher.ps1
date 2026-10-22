@@ -22,7 +22,7 @@ $pgLib        = Join-Path $pgDir 'lib'
 $backendDir   = Join-Path $appDir 'app\backend'
 $frontendDist = Join-Path $appDir 'app\frontend-dist'
 
-$pgPort = 5435
+$pgPort = 25435
 $pgUser = 'postgres'
 $pgPass = 'postgres'
 $dbName = 'maqagr_local'
@@ -254,7 +254,7 @@ Remove-Item Env:\PGCLIENTENCODING
 Remove-Item Env:\PGCONNECT_TIMEOUT
 
 # --- Step 4: Set environment for backend ---
-$env:PORT          = '4000'
+$env:PORT          = '24688'
 $env:HOST          = '127.0.0.1'
 $env:TRUST_PROXY_HOPS = '0'
 $env:DB_HOST       = '127.0.0.1'
@@ -426,21 +426,21 @@ $ready = $false
 for ($i = 1; $i -le 15; $i++) {
     Start-Sleep -Seconds 1
     try {
-        $r = Invoke-WebRequest -Uri 'http://localhost:4000/health' -UseBasicParsing -TimeoutSec 2
+        $r = Invoke-WebRequest -Uri 'http://localhost:24688/health' -UseBasicParsing -TimeoutSec 2
         if ($r.StatusCode -eq 200) { $ready = $true; break }
     } catch {}
 }
 
 if ($ready) {
-    Write-Host "[MaqAgr] Ready! Opening http://localhost:4000" -ForegroundColor Green
+    Write-Host "[MaqAgr] Ready! Opening http://localhost:24688" -ForegroundColor Green
 } else {
     Write-Host "[MaqAgr] Backend is still starting, opening browser..." -ForegroundColor Yellow
 }
-Start-Process 'http://localhost:4000'
+Start-Process 'http://localhost:24688'
 
 Write-Host ""
 Write-Host "========================================" -ForegroundColor Cyan
-Write-Host "  MaqAgr is running at http://localhost:4000" -ForegroundColor White
+Write-Host "  MaqAgr is running at http://localhost:24688" -ForegroundColor White
 Write-Host "  Close this window to stop the application." -ForegroundColor Cyan
 Write-Host "========================================" -ForegroundColor Cyan
 Write-Host ""

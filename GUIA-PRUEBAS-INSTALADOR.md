@@ -5,7 +5,7 @@ Esta guía sirve para validar el instalador de Windows y las funciones principal
 ## 1. Preparación
 
 1. Usa Windows de 64 bits. Si es posible, prueba primero en una máquina virtual o en un perfil/PC limpio.
-2. Evita probar mientras otro servicio use los puertos `4000` (aplicación) o `5435` (PostgreSQL local de MaqAgr).
+2. Evita probar mientras otro servicio use los puertos `24688` (aplicación) o `25435` (PostgreSQL local de MaqAgr).
 3. Guarda el archivo `MaqAgr-Setup.exe` en una carpeta local. La instalación requiere permisos de administrador.
 4. **Verifica el paquete antes de instalar.** Build verificado del 2026-10-15:
 
@@ -24,8 +24,8 @@ Esta guía sirve para validar el instalador de Windows y las funciones principal
 2. Acepta la carpeta sugerida o elige otra. Puedes marcar la creación del acceso directo del escritorio.
 3. Al finalizar, deja marcada la opción para iniciar MaqAgr. Se abrirá una consola del lanzador y el navegador.
 4. Espera a que la consola indique que el servicio está listo. No cierres esa consola durante la prueba.
-5. Abre `http://localhost:4000` si el navegador no se abrió automáticamente.
-6. Comprueba la salud del servidor en `http://localhost:4000/health`; debe responder con estado correcto, no con error de conexión.
+5. Abre `http://localhost:24688` si el navegador no se abrió automáticamente.
+6. Comprueba la salud del servidor en `http://localhost:24688/health`; debe responder con estado correcto, no con error de conexión.
 
 **Resultado esperado:** la portada carga, las rutas internas funcionan al recargarlas y no aparece una pantalla en blanco ni un error de API persistente.
 
@@ -102,7 +102,7 @@ Con una cuenta administradora autorizada:
   2. Si el equipo es administrado por una organización (AppLocker), pedir a TI una exclusión para `MaqAgr-Setup.exe`.
   3. Si había una versión anterior de MaqAgr instalada, desinstálala primero desde **Configuración → Aplicaciones** (el instalador ejecuta el desinstalador viejo desde la carpeta temporal, que es justo lo que la política bloquea).
   4. Solución definitiva del proyecto: **firmar digitalmente** el instalador con un certificado de firma de código (elimina estos bloqueos y SmartScreen de raíz).
-- Si no abre: comprueba que la consola terminó el arranque y que los puertos `4000`/`5435` estén libres.
+- Si no abre: comprueba que la consola terminó el arranque y que los puertos `24688`/`25435` estén libres.
 - Si el backend no arranca con `ERR_MODULE_NOT_FOUND: Cannot find package 'detect-libc' … sharp`: al copiar `node_modules`, Inno Setup rompe los enlaces de pnpm y sharp pierde una dependencia. Arreglo (PowerShell **como administrador**):
   ```powershell
   robocopy "C:\Users\elkaw\Desktop\MaqAgr-Local\backend\node_modules\.pnpm\sharp@0.35.5_@types+node@25.9.3\node_modules" "C:\Program Files\MaqAgr\app\backend\node_modules" /E

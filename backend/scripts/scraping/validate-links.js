@@ -117,7 +117,7 @@ async function main() {
       problemas.push({ tipo: 'ficha', t, url: t.ficha_pdf_url, detalle: 'URL de CNH que sirve HTML, no PDF' });
       console.log(`❌ FICHA  ${t.name} → patrón roto conocido`);
     } else {
-      const r = await probe(t.ficha_pdf_url, 'http://localhost:4000/');
+      const r = await probe(t.ficha_pdf_url, 'http://localhost:24688/');
       const pdf = esPdf(r.head, r.contentType) && [200, 206].includes(r.status);
       const ct = (r.contentType || '').toLowerCase();
       const definitivo = [403, 404, 410, 451].includes(r.status) || (r.status === 200 && !esPdf(r.head, ct) && /html/.test(ct));

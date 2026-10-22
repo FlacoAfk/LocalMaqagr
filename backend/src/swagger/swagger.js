@@ -44,7 +44,7 @@ Authorization: Bearer <tu_token>
     },
     servers: [
       {
-        url: 'http://localhost:4000',
+        url: 'http://localhost:24688',
         description: 'Servidor de desarrollo',
       },
     ],

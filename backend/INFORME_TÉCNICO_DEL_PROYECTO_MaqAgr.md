@@ -643,7 +643,7 @@ El sistema se configura completamente a través de variables de entorno (archivo
 NODE_ENV=production
 
 # Servidor
-PORT=4000
+PORT=24688
 
 # Base de datos PostgreSQL
 DB_HOST=localhost

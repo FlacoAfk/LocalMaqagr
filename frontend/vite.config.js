@@ -9,7 +9,7 @@ export default defineConfig(({ mode }) => {
   const devApiProxyTarget = (
     process.env.VITE_DEV_API_PROXY_TARGET ||
     env.VITE_DEV_API_PROXY_TARGET ||
-    'http://localhost:4000'
+    'http://localhost:24688'
   ).replace(/\/$/, '');
 
   return {

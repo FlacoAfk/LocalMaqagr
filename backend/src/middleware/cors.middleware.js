@@ -30,7 +30,7 @@ const dedupeOrigins = (origins) => {
  */
 const getCorsOptions = () => {
   const env = process.env.NODE_ENV || "development";
-  const currentPort = process.env.PORT || "4000";
+  const currentPort = process.env.PORT || "24688";
   const productionClientUrl = process.env.PROD_CLIENT_URL || "https://app.maqagr.com";
   const sharedExtraOrigins = parseExtraOrigins(process.env.CORS_EXTRA_ORIGINS);
   const productionExtraOrigins = parseExtraOrigins(process.env.PROD_CLIENT_URLS);

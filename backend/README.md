@@ -67,7 +67,7 @@ pnpm start              # Desarrollo con nodemon
 node src/app.js         # Ejecución directa/producción
 ```
 
-Servidor en: `http://localhost:4000
+Servidor en: `http://localhost:24688
 ---
 
 ## [~] Formato de Respuestas Standard
@@ -474,7 +474,7 @@ Algoritmo inteligente que sugiere el mejor tractor para una labor específica.
 
 | Variable | Descripción | Valor por Defecto |
 | --- | --- | --- |
-| `PORT` | Puerto del servidor Express | `4000` |
+| `PORT` | Puerto del servidor Express | `24688` |
 | `NODE_ENV` | Entorno (development/production) | `development` |
 | `DB_HOST` | Host de PostgreSQL | `localhost` |
 | `DB_PORT` | Puerto de PostgreSQL | `5432` |
@@ -598,6 +598,6 @@ Archivos incluidos en este repositorio:
 
 Notas:
 - En Development, `baseUrl` esta configurada como `http://localhost:3000`.
-- Si tu backend corre en otro puerto (ej. `4000`), actualiza `baseUrl` en el environment.
+- Si tu backend corre en otro puerto (ej. `24688`), actualiza `baseUrl` en el environment.
 - La coleccion incluye pre-request script para auto-login cuando no hay token.
 

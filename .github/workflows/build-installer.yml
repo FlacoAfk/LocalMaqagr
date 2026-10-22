@@ -140,7 +140,7 @@ jobs:
         # proven local build uses: absolute API URL and remote-API flags enabled
         # (otherwise dist would bake empty API URL + mock-mode flags).
         env:
-          VITE_API_URL: http://localhost:4000
+          VITE_API_URL: http://localhost:24688
           VITE_ENABLE_REMOTE_TRACTOR_API: "true"
           VITE_ENABLE_REMOTE_IMPLEMENT_API: "true"
           VITE_ENABLE_REMOTE_NOTIFICATION_API: "true"
