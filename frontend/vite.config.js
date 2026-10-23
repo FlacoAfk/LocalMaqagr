@@ -35,10 +35,13 @@ export default defineConfig(({ mode }) => {
       rollupOptions: {
         output: {
           // Separar vendors en chunks independientes para mejor caché en Vercel CDN
-          manualChunks: {
-            'react-vendor': ['react', 'react-dom'],
-            'router': ['react-router-dom'],
-            'ui-vendor': ['lucide-react', 'class-variance-authority', 'clsx', 'tailwind-merge'],
+          manualChunks(id) {
+            if (!id.includes('node_modules')) return undefined;
+            const inPkg = (names) => names.some((n) => id.includes(`/node_modules/${n}/`) || id.includes(`\\node_modules\\${n}\\`));
+            if (inPkg(['react', 'react-dom'])) return 'react-vendor';
+            if (inPkg(['react-router', 'react-router-dom'])) return 'router';
+            if (inPkg(['lucide-react', 'class-variance-authority', 'clsx', 'tailwind-merge'])) return 'ui-vendor';
+            return undefined;
           },
         },
       },
