@@ -134,9 +134,9 @@ Alias de imports configurados en `vite.config.js`:
 
 ### Prerrequisitos
 
-- Node.js 22+
+- Node.js 24.22.1+
 - Corepack habilitado o disponible en la instalación de Node.js
-- pnpm 11.1.0
+- pnpm 12.15.0
 
 ### 1) Clonar e instalar
 
@@ -234,7 +234,7 @@ Este enfoque permite trabajar UI, validaciones y estados asíncronos sin bloquea
 
 ### Bootstrap de Windows
 
-El script [`scripts/bootstrap-pnpm.ps1`](https://github.com/trbureiyan/MaqAgr/blob/refactor/switch-to-pnpm/scripts/bootstrap-pnpm.ps1) deja el entorno listo para trabajar en Windows, eliminando rastros de npm y fijando pnpm 11.1.0.
+El script [`scripts/bootstrap-pnpm.ps1`](https://github.com/trbureiyan/MaqAgr/blob/refactor/switch-to-pnpm/scripts/bootstrap-pnpm.ps1) deja el entorno listo para trabajar en Windows, eliminando rastros de npm y fijando pnpm 12.15.0.
 
 ---
 

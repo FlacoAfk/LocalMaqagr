@@ -3,7 +3,7 @@
 # The installer packs runtime\node and runtime\pgsql (gitignored, ~242 MB of
 # portable binaries), so those runtimes are downloaded from their official
 # sources before compiling. Pinned versions must match the locally proven
-# runtime/ contents (Node v24.18.1 win-x64, PostgreSQL 17.10 binaries).
+# runtime/ contents (Node v24.22.1 win-x64, PostgreSQL 17.10 binaries).
 
 name: Build installer
 
@@ -16,7 +16,7 @@ permissions:
   contents: read
 
 env:
-  NODE_VERSION: v24.18.1
+  NODE_VERSION: v24.22.1
   # Quoted on purpose: an unquoted 17.10 would parse as a YAML float (17.1).
   PG_VERSION: "17.10"
 
@@ -34,13 +34,13 @@ jobs:
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
         with:
-          # Matches "packageManager": "pnpm@11.1.0" in frontend/package.json.
-          version: 11.1.0
+          # Matches "packageManager": "pnpm@12.15.0" in frontend/package.json.
+          version: 12.15.0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 22
+          node-version: 24.22.1
           cache: pnpm
 
       - name: Install dependencies

@@ -1,6 +1,6 @@
 # BackMaqAgr - API de Gestión Agrícola
 
-![Node.js](https://img.shields.io/badge/Node.js-v24.13.0+-green?style=flat&logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-v24.22.1+-green?style=flat&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12+-blue?style=flat&logo=postgresql)
 ![Express](https://img.shields.io/badge/Express-5.2.1-lightgrey?style=flat&logo=express)
 ![Status](https://img.shields.io/badge/Status-Active-success)
@@ -29,7 +29,7 @@
 ## Instalación y Ejecución
 
 ### Requisitos
-- **Node.js** v22+
+- **Node.js** v24.22.1+
 - **PostgreSQL** v12+
 - **pnpm** (required)
 

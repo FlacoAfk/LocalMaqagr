@@ -57,7 +57,7 @@ The project communicates with an Express/PostgreSQL backend located securely via
 ## Dependencies & Supply Chain
 - **Pins**: Never use `^` or `~`. Pin exact versions in `package.json` for deterministic builds.
 - **Lockfile**: Always keep `pnpm-lock.yaml` committed. Use deterministic installs (`pnpm install --frozen-lockfile`).
-- **NPM IS FORBIDDEN**: This project exclusively uses pnpm (>=11.1.0). Never supply or run npm commands.
+- **NPM IS FORBIDDEN**: This project exclusively uses pnpm (>=12.15.0). Never supply or run npm commands.
 - **Linting**: Run `pnpm run lint` before committing.
 - **Deployment**: Targeted for Vercel. Ensure `vercel.json` and `vite.config.js` headers/rewrites are maintained.
 
