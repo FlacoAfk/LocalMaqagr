@@ -10,6 +10,6 @@
     "postinstall": "pnpm --dir backend install --frozen-lockfile --config.node-linker=hoisted && pnpm --dir frontend install --frozen-lockfile --config.node-linker=hoisted"
   },
   "devDependencies": {
-    "concurrently": "9.1.2"
+    "concurrently": "10.0.6"
   }
 }
